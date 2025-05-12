@@ -308,7 +308,7 @@
     renderText(typed);
   });
 
-  function endTest() {
+ function endTest() {
     clearInterval(countdown);
     inputField.disabled = true;
     const endTime = new Date();
@@ -325,7 +325,7 @@
     const accuracy = ((correct / expected.length) * 100).toFixed(2);
     const userName = document.getElementById("userName").value.trim();
 
-    submitToGoogleSheet(userName, wpm);
+    submitToGoogleSheet(userName, wpm);  // ✅ यहाँ कॉल किया गया है
 
     resultDiv.innerHTML = `
       <div id="resultBox">
@@ -341,7 +341,7 @@
     `;
   }
 
-  // ✅ यह function स्क्रिप्ट के अंत में रखा गया है
+  // ✅ ये function बिल्कुल endTest के नीचे रखें — बाहर, न कि उसके अंदर
   function submitToGoogleSheet(name, score) {
     fetch("https://script.google.com/macros/s/AKfycbx6cw4XMRwyya4h59Ncdw5Tf_TnQ29e_PB55D60YSgLETW01c7M6yDqHOYYFVslzPjW_w/exec", {
       method: "POST",
