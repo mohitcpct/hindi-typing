@@ -225,27 +225,29 @@
     const resultDiv = document.getElementById("result");
     const timerDisplay = document.getElementById("timer");
 
-    function cleanAndNormalize(text) {
+   function normalizeHindiText(text) {
   return text
-    .normalize("NFC")                      // Normalize Unicode
-    .replace(/[\u200B-\u200D\uFEFF]/g, '') // Remove Zero Width chars
+    .normalize("NFC")
+    .replace(/[\u200B-\u200D\uFEFF]/g, '') // Zero Width
+    .replace(/\s+/g, ' ')
     .trim();
 }
     
-      function renderText(input) {
-      const cleanInput = normalizeHindiText(input);
-      const cleanOriginal = normalizeHindiText(originalText);
-      const displayDiv = document.getElementById("displayText");
-      displayDiv.innerHTML = "";
-      for (let i = 0; i < cleanOriginal.length; i++) {
-        const span = document.createElement("span");
-        span.innerText = cleanOriginal[i];
-       if (i < input.length) {
-  const typedChar = cleanAndNormalize(input[i]);
-  const expectedChar = cleanAndNormalize(words[i]);
-  span.className = (typedChar === expectedChar) ? "correct" : "incorrect";
-}
-        displayDiv.appendChild(span);
+     function renderText(input) {
+  const cleanInput = normalizeHindiText(input);
+  const cleanOriginal = normalizeHindiText(originalText);
+  displayDiv.innerHTML = "";
+  for (let i = 0; i < cleanOriginal.length; i++) {
+    const span = document.createElement("span");
+    span.innerText = cleanOriginal[i];
+
+    if (i < cleanInput.length) {
+      const typedChar = cleanAndNormalize(cleanInput[i]);
+      const expectedChar = cleanAndNormalize(cleanOriginal[i]);
+      span.className = (typedChar === expectedChar) ? "correct" : "incorrect";
+    }
+
+    displayDiv.appendChild(span);
       }
     }
 
