@@ -344,6 +344,8 @@ function submitToGoogleSheet(name, score) {
     const accuracy = ((correct / expected.length) * 100).toFixed(2);
     const userName = document.getElementById("userName").value.trim();
 
+	  submitToGoogleSheet(userName, wpm);
+	  
     resultDiv.innerHTML = `
       <div id="resultBox">
         <h3>✅ परीक्षण पूर्ण!</h3>
@@ -356,7 +358,7 @@ function submitToGoogleSheet(name, score) {
         </p>
           </div>
       `;
-	   submitToGoogleSheet(userName, wpm);
+	   
     }
   </script>
 </body>
