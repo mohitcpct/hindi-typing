@@ -233,18 +233,16 @@
     }
 
     function renderText(input) {
-      const cleanInput = normalizeHindiText(input);
-      const cleanOriginal = normalizeHindiText(originalText);
-      displayDiv.innerHTML = "";
-      for (let i = 0; i < cleanOriginal.length; i++) {
-        const span = document.createElement("span");
-        span.innerText = cleanOriginal[i];
-        if (i < cleanInput.length) {
-          const typedChar = cleanAndNormalize(cleanInput[i]);
-          const expectedChar = cleanAndNormalize(cleanOriginal[i]);
-          span.className = (typedChar === expectedChar) ? "correct" : "incorrect";
-        }
-        displayDiv.appendChild(span);
+  displayDiv.innerHTML = "";
+  for (let i = 0; i < originalText.length; i++) {
+    const span = document.createElement("span");
+    const expectedChar = originalText.charAt(i);
+    const typedChar = input.charAt(i);
+    span.textContent = expectedChar;
+    if (typedChar) {
+      span.className = (typedChar === expectedChar) ? "correct" : "incorrect";
+    }
+    displayDiv.appendChild(span);
       }
     }
 
