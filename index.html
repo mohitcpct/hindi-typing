@@ -225,16 +225,20 @@
     const resultDiv = document.getElementById("result");
     const timerDisplay = document.getElementById("timer");
 
+    function normalizeText(str) {
+  return str.normalize("NFC").replace(/\s+/g, " ").trim();
+}
     function renderText(input) {
       displayDiv.innerHTML = "";
-      const words = originalText.split("");
-      for (let i = 0; i < words.length; i++) {
-        const span = document.createElement("span");
-        if (i < input.length) {
-          span.className = (input[i] === words[i]) ? "correct" : "incorrect";
-        }
-        span.innerText = words[i];
-        displayDiv.appendChild(span);
+      const expected = normalizeText(originalText);
+      const typed = normalizeText(input);
+      for (let i = 0; i < expected.length; i++) {
+    const span = document.createElement("span");
+    if (i < typed.length) {
+      span.className = (typed[i] === expected[i]) ? "correct" : "incorrect";
+    }
+    span.innerText = expected[i];
+    displayDiv.appendChild(span);
       }
     }
 
