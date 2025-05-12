@@ -225,6 +225,13 @@
     const resultDiv = document.getElementById("result");
     const timerDisplay = document.getElementById("timer");
 
+    function cleanAndNormalize(text) {
+  return text
+    .normalize("NFC")                      // Normalize Unicode
+    .replace(/[\u200B-\u200D\uFEFF]/g, '') // Remove Zero Width chars
+    .trim();
+}
+    
     function normalizeText(str) {
  return text.replace(/[\u200B-\u200D\uFEFF]/g, '').trim();
     }
@@ -236,9 +243,11 @@
       for (let i = 0; i < cleanOriginal.length; i++) {
         const span = document.createElement("span");
         span.innerText = cleanOriginal[i];
-        if (i < cleanInput.length) {
-          span.className = cleanInput[i] === cleanOriginal[i] ? "correct" : "incorrect";
-        }
+       if (i < input.length) {
+  const typedChar = cleanAndNormalize(input[i]);
+  const expectedChar = cleanAndNormalize(words[i]);
+  span.className = (typedChar === expectedChar) ? "correct" : "incorrect";
+}
         displayDiv.appendChild(span);
       }
     }
