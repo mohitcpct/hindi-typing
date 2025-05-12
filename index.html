@@ -232,10 +232,7 @@
     .trim();
 }
     
-    function normalizeText(str) {
- return text.replace(/[\u200B-\u200D\uFEFF]/g, '').trim();
-    }
-    function renderText(input) {
+      function renderText(input) {
       const cleanInput = normalizeHindiText(input);
       const cleanOriginal = normalizeHindiText(originalText);
       const displayDiv = document.getElementById("displayText");
