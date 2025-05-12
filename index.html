@@ -229,8 +229,12 @@
     }
 
     function cleanAndNormalize(text) {
-      return text.normalize("NFC").replace(/[​-‍﻿]/g, '').trim();
-    }
+  return text
+    .normalize("NFC")
+    .replace(/[\u200B\u200C\u200D\uFEFF]/g, '') // ZWSP, ZWNJ, ZWJ, BOM हटाएं
+    .trim();
+}
+    
 
     function renderText(input) {
   displayDiv.innerHTML = "";
