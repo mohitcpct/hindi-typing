@@ -328,8 +328,10 @@
 
       let correct = 0;
       for (let i = 0; i < typed.length; i++) {
-        if (typed[i] === originalText[i]) correct++;
-      }
+  const typedChar = cleanAndNormalize(typed[i]);
+  const expectedChar = cleanAndNormalize(originalText[i]);
+  if (typedChar === expectedChar) correct++;
+}
 
       const wpm = Math.round((typed.split(" ").length) / timeTaken);
       const accuracy = ((correct / originalText.length) * 100).toFixed(2);
