@@ -326,7 +326,7 @@
     const userName = document.getElementById("userName").value.trim();
 
     submitToGoogleSheet(userName, wpm);
-	  
+
     resultDiv.innerHTML = `
       <div id="resultBox">
         <h3>✅ परीक्षण पूर्ण!</h3>
@@ -337,24 +337,27 @@
         <p style="text-align:center; margin-top: 20px;">
           <button onclick="location.reload()">🔁 अन्य टेस्ट दें</button>
         </p>
-          </div>
-      `;
-	 function submitToGoogleSheet(name, score) {
-  fetch("https://script.google.com/macros/s/AKfycbx6cw4XMRwyya4h59Ncdw5Tf_TnQ29e_PB55D60YSgLETW01c7M6yDqHOYYFVslzPjW_w/exec", {
-    method: "POST",
-    body: JSON.stringify({ name: name, score: score }),
-    headers: {
-      "Content-Type": "application/json"
-    }
-  })
-  .then(res => res.text())
-  .then(data => {
-    console.log("✅ स्कोर Google Sheet में सेव हुआ:", data);
-  })
-  .catch(err => {
-    console.error("❌ Google Sheet सेव त्रुटि:", err.message);
-  });
-}
+      </div>
+    `;
+  }
+
+  // ✅ यह function स्क्रिप्ट के अंत में रखा गया है
+  function submitToGoogleSheet(name, score) {
+    fetch("https://script.google.com/macros/s/AKfycbx6cw4XMRwyya4h59Ncdw5Tf_TnQ29e_PB55D60YSgLETW01c7M6yDqHOYYFVslzPjW_w/exec", {
+      method: "POST",
+      body: JSON.stringify({ name: name, score: score }),
+      headers: {
+        "Content-Type": "application/json"
+      }
+    })
+    .then(res => res.text())
+    .then(data => {
+      console.log("✅ स्कोर Google Sheet में सेव हुआ:", data);
+    })
+    .catch(err => {
+      console.error("❌ Google Sheet सेव त्रुटि:", err.message);
+    });
+  }
 </script>
 </body>
 </html>
