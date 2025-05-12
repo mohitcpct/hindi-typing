@@ -215,125 +215,127 @@
       }
     ];
 
-    let originalText = "";
-    let startTime = null;
-    let countdown = null;
-    let timeLimit = 0;
-    const displayDiv = document.getElementById("displayText");
-    const inputField = document.getElementById("inputField");
-    const resultDiv = document.getElementById("result");
-    const timerDisplay = document.getElementById("timer");
+  let originalText = "";
+  let startTime = null;
+  let countdown = null;
+  let timeLimit = 0;
+  const displayDiv = document.getElementById("displayText");
+  const inputField = document.getElementById("inputField");
+  const resultDiv = document.getElementById("result");
+  const timerDisplay = document.getElementById("timer");
 
-    function normalizeHindiText(text) {
-      return text.normalize("NFC").replace(/[​-‍﻿]/g, '').replace(/\s+/g, ' ').trim();
+  // ✅ Unicode Clean Function - Zero Width Characters Safe Removal
+  function cleanAndNormalize(text) {
+    return text
+      .normalize("NFC")
+      .replace(/[\u200B\u200C\u200D\uFEFF]/g, '')  // ZWSP, ZWNJ, ZWJ, BOM
+      .replace(/\s+/g, ' ')
+      .trim();
+  }
+
+  function renderText(input) {
+    const cleanInput = cleanAndNormalize(input);
+    const cleanOriginal = cleanAndNormalize(originalText);
+    displayDiv.innerHTML = "";
+    for (let i = 0; i < cleanOriginal.length; i++) {
+      const span = document.createElement("span");
+      span.innerText = cleanOriginal[i];
+      if (i < cleanInput.length) {
+        const typedChar = cleanInput[i];
+        const expectedChar = cleanOriginal[i];
+        span.className = (typedChar === expectedChar) ? "correct" : "incorrect";
+      }
+      displayDiv.appendChild(span);
     }
+  }
 
-    function cleanAndNormalize(text) {
-  return text
-    .normalize("NFC")
-    .replace(/[\u200B\u200C\u200D\uFEFF]/g, '') // ZWSP, ZWNJ, ZWJ, BOM हटाएं
-    .trim();
-}
-    
+  function startTest() {
+    const name = document.getElementById("userName").value.trim();
+    const duration = document.getElementById("timeSelect").value;
+    const paragraphKey = document.getElementById("paragraphSelect").value;
+    document.getElementById("nameError").innerText = "";
+    document.getElementById("paraError").innerText = "";
+    document.getElementById("timeError").innerText = "";
 
-    function renderText(input) {
-  displayDiv.innerHTML = "";
-  for (let i = 0; i < originalText.length; i++) {
-    const span = document.createElement("span");
-    const expectedChar = originalText.charAt(i);
-    const typedChar = input.charAt(i);
-    span.textContent = expectedChar;
-    if (typedChar) {
-      span.className = (typedChar === expectedChar) ? "correct" : "incorrect";
+    let hasError = false;
+    if (!name) {
+      document.getElementById("nameError").innerText = "👉 कृपया नाम दर्ज करें।";
+      hasError = true;
     }
-    displayDiv.appendChild(span);
-      }
+    if (paragraphKey === "") {
+      document.getElementById("paraError").innerText = "👉 कृपया अनुच्छेद चुनें।";
+      hasError = true;
     }
+    if (duration === "") {
+      document.getElementById("timeError").innerText = "👉 कृपया समय चुनें।";
+      hasError = true;
+    }
+    if (hasError) return;
 
-    function startTest() {
-      const name = document.getElementById("userName").value.trim();
-      const duration = document.getElementById("timeSelect").value;
-      const paragraphKey = document.getElementById("paragraphSelect").value;
-      document.getElementById("nameError").innerText = "";
-      document.getElementById("paraError").innerText = "";
-      document.getElementById("timeError").innerText = "";
+    const selectedPassage = passages[paragraphKey];
+    timeLimit = parseInt(duration);
+    originalText = (timeLimit === 1) ? selectedPassage.short :
+                   (timeLimit === 2) ? selectedPassage.medium : selectedPassage.full;
 
-      let hasError = false;
-      if (!name) {
-        document.getElementById("nameError").innerText = "👉 कृपया नाम दर्ज करें।";
-        hasError = true;
-      }
-      if (paragraphKey === "") {
-        document.getElementById("paraError").innerText = "👉 कृपया अनुच्छेद चुनें।";
-        hasError = true;
-      }
-      if (duration === "") {
-        document.getElementById("timeError").innerText = "👉 कृपया समय चुनें।";
-        hasError = true;
-      }
-      if (hasError) return;
+    document.getElementById("selectedTime").innerText = timeLimit;
+    document.getElementById("setup").style.display = "none";
+    document.getElementById("testArea").style.display = "block";
+    renderText("");
+    inputField.value = "";
+    inputField.disabled = false;
+    inputField.focus();
 
-      const selectedPassage = passages[paragraphKey];
-      timeLimit = parseInt(duration);
-      originalText = (timeLimit === 1) ? selectedPassage.short :
-                     (timeLimit === 2) ? selectedPassage.medium : selectedPassage.full;
-
-      document.getElementById("selectedTime").innerText = timeLimit;
-      document.getElementById("setup").style.display = "none";
-      document.getElementById("testArea").style.display = "block";
-      renderText("");
-      inputField.value = "";
-      inputField.disabled = false;
-      inputField.focus();
-      startTime = new Date();
-      let totalSeconds = timeLimit * 60;
+    startTime = new Date();
+    let totalSeconds = timeLimit * 60;
+    updateTimerDisplay(totalSeconds);
+    countdown = setInterval(() => {
+      totalSeconds--;
       updateTimerDisplay(totalSeconds);
-      countdown = setInterval(() => {
-        totalSeconds--;
-        updateTimerDisplay(totalSeconds);
-        if (totalSeconds <= 0) {
-          clearInterval(countdown);
-          endTest();
-        }
-      }, 1000);
-    }
-
-    function updateTimerDisplay(seconds) {
-      const min = Math.floor(seconds / 60);
-      const sec = seconds % 60;
-      timerDisplay.innerText = `शेष समय: ${min.toString().padStart(2, '0')}:${sec.toString().padStart(2, '0')}`;
-    }
-
-    inputField.addEventListener("input", () => {
-      const typed = inputField.value;
-      renderText(typed);
-    });
-
-    function endTest() {
-      clearInterval(countdown);
-      inputField.disabled = true;
-      const endTime = new Date();
-      const timeTaken = (endTime - startTime) / 1000 / 60;
-      const typed = inputField.value.trim();
-      let correct = 0;
-      for (let i = 0; i < typed.length; i++) {
-        const typedChar = cleanAndNormalize(typed[i]);
-        const expectedChar = cleanAndNormalize(originalText[i]);
-        if (typedChar === expectedChar) correct++;
+      if (totalSeconds <= 0) {
+        clearInterval(countdown);
+        endTest();
       }
-      const wpm = Math.round((typed.split(" ").length) / timeTaken);
-      const accuracy = ((correct / originalText.length) * 100).toFixed(2);
-      const userName = document.getElementById("userName").value.trim();
-      resultDiv.innerHTML = `
-        <div id="resultBox">
-          <h3>✅ परीक्षण पूर्ण!</h3>
-          <p><strong>नाम:</strong> ${userName}</p>
-          <p><strong>गति:</strong> ${wpm} शब्द प्रति मिनट</p>
-          <p><strong>सटीकता:</strong> ${accuracy}%</p>
-          <p><strong>समय:</strong> ${timeTaken.toFixed(2)} मिनट</p>
-          <p style="text-align:center; margin-top: 20px;">
-            <button onclick="location.reload()">🔁 अन्य टेस्ट दें</button>
-          </p>
+    }, 1000);
+  }
+
+  function updateTimerDisplay(seconds) {
+    const min = Math.floor(seconds / 60);
+    const sec = seconds % 60;
+    timerDisplay.innerText = `शेष समय: ${min.toString().padStart(2, '0')}:${sec.toString().padStart(2, '0')}`;
+  }
+
+  inputField.addEventListener("input", () => {
+    const typed = inputField.value;
+    renderText(typed);
+  });
+
+  function endTest() {
+    clearInterval(countdown);
+    inputField.disabled = true;
+    const endTime = new Date();
+    const timeTaken = (endTime - startTime) / 1000 / 60;
+    const typed = cleanAndNormalize(inputField.value);
+    const expected = cleanAndNormalize(originalText);
+
+    let correct = 0;
+    for (let i = 0; i < typed.length && i < expected.length; i++) {
+      if (typed[i] === expected[i]) correct++;
+    }
+
+    const wpm = Math.round((typed.split(" ").length) / timeTaken);
+    const accuracy = ((correct / expected.length) * 100).toFixed(2);
+    const userName = document.getElementById("userName").value.trim();
+
+    resultDiv.innerHTML = `
+      <div id="resultBox">
+        <h3>✅ परीक्षण पूर्ण!</h3>
+        <p><strong>नाम:</strong> ${userName}</p>
+        <p><strong>गति:</strong> ${wpm} शब्द प्रति मिनट</p>
+        <p><strong>सटीकता:</strong> ${accuracy}%</p>
+        <p><strong>समय:</strong> ${timeTaken.toFixed(2)} मिनट</p>
+        <p style="text-align:center; margin-top: 20px;">
+          <button onclick="location.reload()">🔁 अन्य टेस्ट दें</button>
+        </p>
           </div>
       `;
     }
