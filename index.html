@@ -5,60 +5,60 @@
   <title>हिंदी टाइपिंग टेस्ट</title>
   <style>
     body {
-      font-family: 'Segoe UI', sans-serif;
-      background-color: #f3f4f6;
-      padding: 30px;
-      margin: 0;
-    }
-    #setup {
-      max-width: 600px;
+      font-family: Arial, sans-serif;
+      background-color: #f2f6fc;
+      padding: 20px;
+      max-width: 960px;
       margin: auto;
-      background: white;
-      padding: 30px;
-      border-radius: 12px;
-      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
     }
-    input, select, button, textarea {
-      font-size: 16px;
-      padding: 12px;
+    h2 {
+      text-align: center;
+      color: #2c3e50;
+      margin-bottom: 20px;
+    }
+    #setup, #testArea, #result {
+      background: #ffffff;
+      padding: 25px;
+      margin-top: 20px;
+      border-radius: 12px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      border: 1px solid #ddd;
+    }
+    label {
+      font-weight: bold;
+      color: #34495e;
+    }
+    input, select, textarea, button {
       width: 100%;
+      font-size: 16px;
+      padding: 10px 14px;
       margin-top: 10px;
       border-radius: 6px;
       border: 1px solid #ccc;
       box-sizing: border-box;
     }
     button {
-      background-color: #3b82f6;
+      background-color: #2ecc71;
       color: white;
       border: none;
       cursor: pointer;
+      transition: background 0.3s ease;
     }
     button:hover {
-      background-color: #2563eb;
+      background-color: #27ae60;
     }
-    h2 {
-      text-align: center;
-      color: #3b82f6;
-    }
-    #testArea, #result {
-      max-width: 700px;
-      margin: 30px auto;
-      padding: 20px;
-      background: white;
-      border-radius: 10px;
-      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-    }
+    #displayText span.correct { color: green; }
+    #displayText span.incorrect { color: red; text-decoration: underline; }
     #displayText {
       margin: 20px 0;
       line-height: 1.6;
       height: 180px;
       overflow-y: auto;
-      padding: 10px;
+      padding: 15px;
+      background-color: #fefefe;
       border: 1px solid #ccc;
-      font-size: 16px;
+      border-radius: 8px;
     }
-    #displayText span.correct { color: green; }
-    #displayText span.incorrect { color: red; text-decoration: underline; }
     #topBar {
       display: flex;
       justify-content: space-between;
@@ -67,8 +67,33 @@
     }
     #timer {
       font-weight: bold;
-      color: #d9534f;
+      color: #e74c3c;
       font-size: 18px;
+    }
+    #resultBox {
+      text-align: center;
+      padding: 20px;
+      border-top: 1px dashed #ccc;
+    }
+    @media (max-width: 600px) {
+      #topBar {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+      input, select, textarea, button {
+        font-size: 15px;
+      }
+      
+        #submitBtn {
+      background-color: #2ecc71;
+      color: white;
+      border: none;
+      cursor: pointer;
+      font-size: 16px;
+      padding: 10px 14px;
+      width: 100%;
+      border-radius: 6px;
+    }
     }
   </style>
 </head>
@@ -120,7 +145,7 @@
 
     <div id="displayText"></div>
     <textarea id="inputField" rows="6" placeholder="यहाँ टाइप करें..."></textarea>
-    <button onclick="endTest()">📝 सबमिट करें</button>
+    <button id="submitBtn" onclick="endTest()">📝 सबमिट करें</button>
   </div>
 
   <div id="result"></div>
@@ -325,6 +350,12 @@
     const accuracy = ((correct / expected.length) * 100).toFixed(2);
     const userName = document.getElementById("userName").value.trim();
 
+const submitBtn = document.getElementById("submitBtn");
+  submitBtn.innerText = "🔁 अन्य टेस्ट दें";
+  submitBtn.style.backgroundColor = "#9b59b6"; // नीला रंग
+submitBtn.style.color = "white"; // टेक्स्ट रंग सफेद
+submitBtn.onclick = () => location.reload();
+
     resultDiv.innerHTML = `
       <div id="resultBox">
         <h3>✅ परीक्षण पूर्ण!</h3>
@@ -332,10 +363,7 @@
         <p><strong>गति:</strong> ${wpm} शब्द प्रति मिनट</p>
         <p><strong>सटीकता:</strong> ${accuracy}%</p>
         <p><strong>समय:</strong> ${timeTaken.toFixed(2)} मिनट</p>
-        <p style="text-align:center; margin-top: 20px;">
-          <button onclick="location.reload()">🔁 अन्य टेस्ट दें</button>
-        </p>
-      </div>
+        </div>
     `;
  fetch("https://script.google.com/macros/s/AKfycbzJv5rCEsIQWPFmzO0GPBXb_R-IN36LzbvHVRC-lpeYq12EhTKC69nz7oJlfaWX-pPo/exec", {
     method: "POST",
@@ -350,7 +378,6 @@
   .catch(error => console.error("❌ Error updating sheet", error));
 }
 
-    renderText("");
   </script>
 </body>
 </html>
