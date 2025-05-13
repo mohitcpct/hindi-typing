@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <title>हिंदी टाइपिंग टेस्ट</title>
   <style>
-    body {
+ body {
       font-family: Arial, sans-serif;
       background-color: #f2f6fc;
       padding: 20px;
@@ -16,7 +16,7 @@
       color: #2c3e50;
       margin-bottom: 20px;
     }
-    #setup, #testArea, #result {
+    #setup, #testArea {
       background: #ffffff;
       padding: 25px;
       margin-top: 20px;
@@ -70,36 +70,17 @@
       color: #e74c3c;
       font-size: 18px;
     }
-    #resultBox {
-      text-align: center;
-      padding: 20px;
-      border-top: 1px dashed #ccc;
-    }
     @media (max-width: 600px) {
       #topBar {
         flex-direction: column;
         align-items: flex-start;
       }
-      input, select, textarea, button {
-        font-size: 15px;
-      }
-      
-        #submitBtn {
-      background-color: #2ecc71;
-      color: white;
-      border: none;
-      cursor: pointer;
-      font-size: 16px;
-      padding: 10px 14px;
-      width: 100%;
-      border-radius: 6px;
-    }
     }
   </style>
 </head>
 <body>
   <h2>📝 हिंदी टाइपिंग टेस्ट</h2>
-  <div id="result"></div>
+  
   <div id="setup">
     <label>👤 अपना नाम दर्ज करें:</label>
     <input type="text" id="userName" placeholder="आपका नाम">
@@ -136,6 +117,8 @@
 
     <button onclick="startTest()">▶ टेस्ट शुरू करें</button>
   </div>
+  
+  <div id="finalResult" style="display:none; margin-top: 20px;"></div>
 
   <div id="testArea" style="display:none;">
     <div id="topBar">
@@ -349,20 +332,19 @@
     const userName = document.getElementById("userName").value.trim();
 
 const submitBtn = document.getElementById("submitBtn");
-  submitBtn.innerText = "🔁 अन्य टेस्ट दें";
-  submitBtn.style.backgroundColor = "#9b59b6"; // नीला रंग
-submitBtn.style.color = "white"; // टेक्स्ट रंग सफेद
-submitBtn.onclick = () => location.reload();
+   if (submitBtn) submitBtn.style.display = "none";
 
-    resultDiv.innerHTML = `
-      <div id="resultBox">
-        <h3>✅ परीक्षण पूर्ण!</h3>
-        <p><strong>नाम:</strong> ${userName}</p>
-        <p><strong>गति:</strong> ${wpm} शब्द प्रति मिनट</p>
-        <p><strong>सटीकता:</strong> ${accuracy}%</p>
-        <p><strong>समय:</strong> ${timeTaken.toFixed(2)} मिनट</p>
-        </div>
-    `;
+      const finalResult = document.getElementById("finalResult");
+      finalResult.style.display = "block";
+      finalResult.innerHTML = `
+        <div style="background:#eafaf1; padding: 20px; border-radius: 8px; border: 1px solid #b2dfdb;">
+          <h3>🎯 Test Complete!</h3>
+          <p><strong>Name:</strong> ${userName}</p>
+          <p><strong>Speed:</strong> ${wpm} WPM</p>
+          <p><strong>Accuracy:</strong> ${accuracy}%</p>
+          <p><strong>Time Used:</strong> ${timeTaken.toFixed(2)} min</p>
+          <button style="margin-top:10px; padding:10px 16px; background:#9b59b6; color:white; border:none; border-radius:6px; cursor:pointer;" onclick="location.reload()">🔁 अन्‍य टेस्‍ट दे</button>
+        </div>`;
  fetch("https://script.google.com/macros/s/AKfycbzJv5rCEsIQWPFmzO0GPBXb_R-IN36LzbvHVRC-lpeYq12EhTKC69nz7oJlfaWX-pPo/exec", {
     method: "POST",
     body: new URLSearchParams({
