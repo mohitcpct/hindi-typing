@@ -309,15 +309,15 @@
 
     let isValid = true;
     if (!userName) {
-      document.getElementById("nameError").textContent = "Please enter name.";
+      document.getElementById("nameError").textContent = "👉 कृपया नाम दर्ज करें।";
       isValid = false;
     }
     if (!paraTitle) {
-      document.getElementById("paraError").textContent = "Please select a paragraph.";
+      document.getElementById("paraError").textContent = "👉 कृपया अनुच्छेद चुनें।";
       isValid = false;
     }
     if (!timeKey) {
-      document.getElementById("timeError").textContent = "Please select a time.";
+      document.getElementById("timeError").textContent = "👉 कृपया समय चुनें।";
       isValid = false;
     }
     if (!isValid) return;
