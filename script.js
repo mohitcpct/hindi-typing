@@ -1955,6 +1955,994 @@ const allQuestions = [
       "4. डेसीमल"
     ],
     "answer": 0
+  },
+    {
+    "questionNumber": "1",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "Files and folders deleted from the hard disk of a computer get stored temporarily in ________ .",
+    "options_en": [
+      "1. My Computer",
+      "2. Recycle Bin",
+      "3. Current Documents",
+      "4. RAM"
+    ],
+    "question_hi": "कंप्यूटर की हार्ड डिस्‍क से डिलीट की गई फ़ाइलें और फ़ोल्‍डर्स अस्थायी रूप से कहाँ स्टोर हो जाती हैं?",
+    "options_hi": [
+      "1. माइ कंप्यूटर (My Computer)",
+      "2. रीसायकल बिन (Recycle Bin)",
+      "3. करन्ट डॉक्युमेंट्स (Current Documente)",
+      "4. RAM"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "2",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "Which of the following is NOT contained in Uniform Resource Identifier?",
+    "options_en": [
+      "1. Scheme",
+      "2. Authority",
+      "3. Display",
+      "4. Query"
+    ],
+    "question_hi": "निम्‍नलिखित में से कौन-सा, यूनिफ़ॉर्म रिसोर्स आइडेंटिफ़ायर (Uniform Resource Identifier) में शामिल नहीं है?",
+    "options_hi": [
+      "1. स्कीम (Scheme)",
+      "2. अथॉरिटी (Authority)",
+      "3. डिप्ले (Display)",
+      "4. क्वेरी (Query)"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "3",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "A computer works on a/an _______ number system.",
+    "options_en": [
+      "1. binary",
+      "2. octal",
+      "3. decimal",
+      "4. hexadecimal"
+    ],
+    "question_hi": "एक कंप्यूटर एक ________ संख्या प्रणाली (number system) पर काम करता है।",
+    "options_hi": [
+      "1. बाइनरी (binary)",
+      "2. ऑक्‍टल (octal)",
+      "3. डेसिमल (decimal)",
+      "4. हेक्साडेसिमल (hexadecimal)"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "4",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "What is the keyboard shortcut to move to the next suggestion with Automatic Word Completion in OpenOffice Writer 3?",
+    "options_en": [
+      "1. Tab",
+      "2. Ctrl + Tab",
+      "3. Ctrl + Alt + Tab",
+      "4. Shift + Tab"
+    ],
+    "question_hi": "ओपनऑफिस राइटर 3 (OpenOffice Writer 3) में, ऑटोमेटिक वर्ड कंप्लीशन के साथ अगले सजेशन (suggestion) पर जाने के लिए कीबोर्ड शॉर्टकट क्या है?",
+    "options_hi": [
+      "1. Tab",
+      "2. Ctrl + Tab",
+      "3. Ctrl + Alt + Tab",
+      "4. Shift + Tab"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "5",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "DVD is an example of ______.",
+    "options_en": [
+      "1. an optical disk",
+      "2. a magnetic disk",
+      "3. a magnetic tape",
+      "4. a flash device"
+    ],
+    "question_hi": "डीवीडी (DVD) '___________' का एक उदाहरण हैI",
+    "options_hi": [
+      "1. ऑप्टिकल डिस्‍क",
+      "2. मैग्नेटिक डिस्‍क",
+      "3. मैग्नेटिक टेप",
+      "4. फ्लैश डिवाइस"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "6",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "Which of the following function of MS-Excel 2019 returns a reference to a range that is a specified number of rows and columns from a cell or range of cells?",
+    "options_en": [
+      "1. OFFSET",
+      "2. REFOFFSET",
+      "3. OFFSETREF",
+      "4. OFFSETREFR"
+    ],
+    "question_hi": "MS-Excel 2019 का निम्‍नलिखित में से कौन-सा फंक्‍शन, एक रेंज का रेफरेंस रिटर्न करता है जो किसी सेल या सेलों के रेंज से पंक्तियों (rows) और स्तंभों (columns) की एक निर्दिष्‍ट संख्या है?",
+    "options_hi": [
+      "1. OFFSET",
+      "2. REFOFFSET",
+      "3. OFFSETREF",
+      "4. OFFSETREFR"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "7",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "Which of the following device can be used as both input and output device?",
+    "options_en": [
+      "1. Keyboard",
+      "2. Touch Screen",
+      "3. Plotter",
+      "4. Speakers"
+    ],
+    "question_hi": "निम्‍नलिखित में से किस डिवाइस का उपयोग इनपुट और आउटपुट डिवाइस दोनों के रूप में किया जा सकता है?",
+    "options_hi": [
+      "1. कीबोर्ड",
+      "2. टच स्क्रीन",
+      "3. प्लॉटर",
+      "4. स्पीकर्स"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "8",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "Dot matrix is a type of a ______.",
+    "options_en": [
+      "1. scanner",
+      "2. keyboard",
+      "3. mouse",
+      "4. printer"
+    ],
+    "question_hi": "डॉट-मैट्रिक्‍स एक______ का प्रकार है।",
+    "options_hi": [
+      "1. स्कैनर",
+      "2. कीबोर्ड",
+      "3. माउस",
+      "4. प्रिंटर"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "9",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "Which of the following statements is/are true with reference to mail merge in MS-Word 365?\n (i) You cannot add attachments while sending individual messages to each email address using mail merge. (ii) You can include links while sending individual message to each email address using Mail merge.",
+    "options_en": [
+      "1. Only (i)",
+      "2. Only (ii)",
+      "3. Both (i) & (ii)",
+      "4. Neither (i) nor (ii)"
+    ],
+    "question_hi": "MS-Word 365 में, मेल मर्ज के संदर्भ में निम्‍नलिखित में से कौन-सा/से कथन सत्‍य है/हैं?\n (i) आप मेल मर्ज का उपयोग करके प्रत्‍येक ईमेल एड्रेस पर अलग-अलग मेसेज भेजते समय अनुलग्‍नक (attachments) ऐड नहीं कर सकते हैं। (ii) आप मेल मर्ज का उपयोग करके प्रत्‍येक ईमेल एड्रेस पर अलग-अलग मेसेज भेजते समय लिंक शामिल कर सकते हैं।",
+    "options_hi": [
+      "1. केवल (i)",
+      "2. केवल (ii)",
+      "3. (i) और (ii) दोनों",
+      "4. न तो (i) और न ही (ii)"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "10",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "Which of the following is NOT a type of a barcode reader?",
+    "options_en": [
+      "1. CCD scanner",
+      "2. Omni-directional barcode scanner",
+      "3. Pen wand",
+      "4. Inkjet reader"
+    ],
+    "question_hi": "निम्‍नलिखित में से कौन-सा बारकोड रीडर का एक कार नहीं है?",
+    "options_hi": [
+      "1. CCD स्कैनर",
+      "2. ओमनी-डायरेक्‍शनल बारकोड स्कैनर",
+      "3. पेन-वंड",
+      "4. इंकजेट रीडर"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "11",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "Which of the following domains is used to map an address to a name when a server request has received a request from a client to do a task?",
+    "options_en": [
+      "1. Domain Name System",
+      "2. Network Topology",
+      "3. Network Interface Card",
+      "4. Uniform Resource Locator"
+    ],
+    "question_hi": "जब सर्वर रिक्वेस्‍ट को किसी क्लाइंट से कोई कार्य करने का रिक्वेस्‍ट प्राप्‍त होता है, तो किसी एड्रेस को नाम से मैप करने के लिए निम्‍नलिखित में से किस डोमेन का उपयोग किया जाता है?",
+    "options_hi": [
+      "1. डोमेन नेम सिस्‍टम",
+      "2. नेटवर्क टोपोलॉजी",
+      "3. नेटवर्क इंटरफ़ेस कार्ड",
+      "4. यूनिफ़ॉर्म रिसोर्स लोकेटर"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "12",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "Which of the following is an optical storage device that uses a laser to read and write to the disk using a red laser beam?",
+    "options_en": [
+      "1. Magnetic disk",
+      "2. CD",
+      "3. Blu-ray disk",
+      "4. Magnetic tape"
+    ],
+    "question_hi": "निम्‍नलिखित में से कौन सा एक ऑप्टिकल स्टोरेज डिवाइस है जो लाल लेजर बीम का उपयोग करके डिस्‍क पर पढ़ने और लिखने के लिए लेजर का उपयोग करता है?",
+    "options_hi": [
+      "1. मैग्नेटिक डिस्‍क",
+      "2. सीडी (CD)",
+      "3. ब्लू-रे डिस्‍क",
+      "4. मैग्नेटिक टेप"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "13",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "Drum and flatbed are types of _______.",
+    "options_en": [
+      "1. readers",
+      "2. scanners",
+      "3. printers",
+      "4. plotters"
+    ],
+    "question_hi": "ड्रम और फ्लैटबेड _______ के प्रकार हैं।",
+    "options_hi": [
+      "1. रीडर्स",
+      "2. स्कैनर्स",
+      "3. प्रिंटर्स",
+      "4. प्लॉटर्स"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "14",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "Which of the following network topologies has all the computers connected through a single cable?",
+    "options_en": [
+      "1. Mesh topology",
+      "2. Bus topology",
+      "3. Ring topology",
+      "4. Star topology"
+    ],
+    "question_hi": "निम्‍नलिखित में से किस नेटवर्क टोपोलॉजी में सभी कंप्यूटर एक ही केबल से जुड़े हुए होते हैं?",
+    "options_hi": [
+      "1. मेश टोपोलॉजी",
+      "2. बस टोपोलॉजी",
+      "3. रिंग टोपोलॉजी",
+      "4. स्टार टोपोलॉजी"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "15",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "Which of the following is a small electronic circuit printed on a chip that contains many of its own circuit elements (e.g. transistors, diodes, resistors, etc.)?",
+    "options_en": [
+      "1. Vacuum tube",
+      "2. Integrated circuit",
+      "3. Microprocessor",
+      "4. Magnetic drum"
+    ],
+    "question_hi": "निम्‍नलिखित में से कौन-सा, एक चिप पर प्रिंट किया गया एक छोटा इलेक्ट्रॉ निक सर्किट है जिसमें इसके कई सर्किट अवयव (जैसे ट्रांजिस्‍टर, डायोड, रेसिस्‍टर्स, आदि) होते हैं?",
+    "options_hi": [
+      "1. वेक्यूम ट्यूब",
+      "2. इंटीग्रेटेड सर्किट",
+      "3. माइक्रोप्रोसेसर",
+      "4. मैग्नेटिक ड्रम"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "16",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "By default, MS-Excel 2019 names a worksheet as_______.",
+    "options_en": [
+      "1. Sheet1",
+      "2. Sheet_1",
+      "3. Sheet-1",
+      "4. Sheet@1"
+    ],
+    "question_hi": "डिफ़ॉल्‍ट रूप से, MS-Excel 2019, एक वर्कशीट को _______ नाम देता है।",
+    "options_hi": [
+      "1. Sheet1",
+      "2. Sheet_1",
+      "3. Sheet-1",
+      "4. Sheet@1"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "17",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "Which computer program sequences print jobs by temporarily storing them in a buffer and sending each one to the printer when the printer is able to process it?",
+    "options_en": [
+      "1. Pool",
+      "2. Spooler",
+      "3. Drivers",
+      "4. Operating system"
+    ],
+    "question_hi": "निम्‍नलिखित में से कौन-सा एक कंप्यूटर प्रोग्राम, प्रिंट जॉब को बफर में अस्थायी रूप से स्टोर करके अनुमित करता है और जब प्रिंटर इसे प्रोसेस करने में सक्षम होता है, तब प्रत्‍येक को प्रिंटर तक भेजता है?",
+    "options_hi": [
+      "1. पूल (Pool)",
+      "2. स्पूलर (Spooler)",
+      "3. ड्राइवर्स (Drivers)",
+      "4. ऑपरेटिंग सिस्‍टम (Operating system)"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "18",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "Which protocol is used for assigning IP Address in a network dynamically?",
+    "options_en": [
+      "1. Network server",
+      "2. SMTP",
+      "3. DHCP",
+      "4. POP3"
+    ],
+    "question_hi": "किसी नेटवर्क में गतिशील रूप से (dynamically) IP एड्रेस असाइन करने के लिए किस प्रोटोकॉल का उपयोग किया जाता है?",
+    "options_hi": [
+      "1. नेटवर्क सर्वर",
+      "2. SMTP",
+      "3. DHCP",
+      "4. POP3"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "19",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "Which of the following is a keyboard short cut to select a column in an MS-Excel 2019 worksheet?",
+    "options_en": [
+      "1. Alt + Spacebar",
+      "2. Ctrl + Spacebar",
+      "3. Shift + Spacebar",
+      "4. Caps Lock + Spacebar"
+    ],
+    "question_hi": "एमएस-एक्सेल 2019 (MS-Excel 2019) वर्कशीट में, किसी कॉलम को सेलेक्‍ट करने के लिए निम्‍नलिखित में से किस कीबोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options_hi": [
+      "1. Alt + स्पेसबार",
+      "2. Ctrl + स्पेसबार",
+      "3. Shift + स्पेसबार",
+      "4. Caps Lock + स्पेसबार"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "20",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "With reference to reducing the number of bytes consumed by large files in computers, Codec stands for ____________.",
+    "options_en": [
+      "1. compression/decompression",
+      "2. encoder/decoder",
+      "3. enhancer/de-enhancer",
+      "4. sampler/de-sampler"
+    ],
+    "question_hi": "कंप्यूटर्स में बड़ी फाइलों द्वारा कंज्यूम की जाने वाली बाइट्स की संख्या को कम करने के संदर्भ में, कोडेक (Codec) का तात्‍पर्य ____________ है।",
+    "options_hi": [
+      "1. कम्प्रेशन/डीकम्प्रेशन (compression/decompression)",
+      "2. एनकोडर/डिकोडर (encoder/decoder)",
+      "3. एन्हेंसर/डी-एन्हेंसर (enhancer/de-enhancer)",
+      "4. सैम्‍पलर/डी-सैम्‍पलर (sampler/de-sampler)"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "21",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "Which of the following is a type of media technology that delivers video and audio content to your Internet-connected device?",
+    "options_en": [
+      "1. Trimming",
+      "2. Streaming",
+      "3. Watching",
+      "4. Quantizing"
+    ],
+    "question_hi": "निम्‍नलिखित में से कौन-सा, मीडिया टेक्नोलॉजी का एक प्रकार है जो इंटरनेट से जुड़े डिवाइस पर वीडियो और ऑडियो कंटेंट डिलीवर करती है?",
+    "options_hi": [
+      "1. ट्रिमिंग (Trimming)",
+      "2. स्ट्रीमिंग (Streaming)",
+      "3. वॉचिंग (Watching)",
+      "4. क्वानटाईज़िंग (Quantizing)"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "22",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "Which of the following types of installation is done when you don't want to upgrade from existing Windows?",
+    "options_en": [
+      "1. Clean",
+      "2. Upgrade",
+      "3. Uninstall",
+      "4. Unclean"
+    ],
+    "question_hi": "जब आप मौजूदा विंडोज से अपग्रेड नहीं करना चाहते हैं, तो निम्‍नलिखित में से कौन-सा इंस्टॉलेशन किया जाता है?",
+    "options_hi": [
+      "1. क्लीन (Clean)",
+      "2. अपग्रेड (Upgrade)",
+      "3. अनइंस्टाल (Uninstall)",
+      "4. अनक्लीन (Unclean)"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "23",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "What does IPv6 stand for?",
+    "options_en": [
+      "1. Internet Protocol version 6",
+      "2. Internet Protocol verification 6",
+      "3. Internet Product version 6",
+      "4. Internet Protocol validation 6"
+    ],
+    "question_hi": "IPv6 का पूर्ण रूप क्या है?",
+    "options_hi": [
+      "1. Internet Protocol version 6 (इंटरनेट प्रोटोकॉल वर्ज़न 6)",
+      "2. Internet Protocol verification 6 (इंटरनेट प्रोटोकॉल वेरिफिकेशन 6)",
+      "3. Internet Product version 6 (इंटरनेट प्रोडक्‍ट वर्ज़न 6)",
+      "4. Internet Protocol validation 6 (इंटरनेट प्रोटोकॉल वैलिडेशन 6"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "24",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "If the MBR of your system is corrupted, which tool can recover it and boot Windows 10 normally?",
+    "options_en": [
+      "1. Bootos.exe",
+      "2. Bootmbr.exe",
+      "3. Bootrec.exe",
+      "4. Booting.exe"
+    ],
+    "question_hi": "यदि आपके सिस्‍टम का MBR करप्‍ट हो गया है, तो निम्‍नलिखित में से कौन-सा टूल इसे रिकवर कर सकता है और विंडोज 10 (Windows 10) को सामान्‍य रूप से बूट कर सकता है?",
+    "options_hi": [
+      "1. Bootos.exe",
+      "2. Bootmbr.exe",
+      "3. Bootrec.exe",
+      "4. Booting.exe"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "25",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "How is the icon of a Desktop folder changed in Windows 10?",
+    "options_en": [
+      "1. Right click -> Properties-> General -> Folder option",
+      "2. Right click -> Properties -> General -> Folder Pictures",
+      "3. Right click on folder -> Properties -> Customize -> Folder icons",
+      "4. Right click -> Properties -> General -> Advanced"
+    ],
+    "question_hi": "विंडोज 10 (Windows 10) में, डेस्‍कटॉप फ़ोल्‍डर का आइकन कैसे बदला जाता है?",
+    "options_hi": [
+      "1. राइट क्लिक-> प्रोपर्टीज-> जनरल-> फोल्‍डर ऑशन",
+      "2. राइट क्लिक-> प्रोपर्टीज-> जनरल-> फोल्‍डर पिक्‍चर्स",
+      "3. फ़ोल्‍डर पर राइट क्लिक करें -> प्रोपर्टीज-> कस्‍टमाइज-> फोल्‍डर आएकोन्‍स",
+      "4. राइट क्लिक-> प्रोपर्टीज-> जनरल-> एडवांस्‍ड"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "26",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "Which of the following keep(s) the track of files and directories in Operating System?",
+    "options_en": [
+      "1. File system",
+      "2. Kernel",
+      "3. Commands",
+      "4. User interface"
+    ],
+    "question_hi": "निम्‍नलिखित में से कौन-सा, ऑपरेटिंग सिस्‍टम में फाइलों और डायरेक्‍टरीज का ट्रैक रखता है?",
+    "options_hi": [
+      "1. फाइल सिस्‍टम",
+      "2. कर्नेल",
+      "3. कमान्‍ड",
+      "4. यूज़र इन्‍टरफ़ेस"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "27",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "What is the file extension of Rich Text Format files?",
+    "options_en": [
+      "1. .rt",
+      "2. .rtf",
+      "3. .rtfs",
+      "4. .rtes"
+    ],
+    "question_hi": "रिच टेक्‍स्‍ट फ़ॉर्मेट (Rich Text Format) फ़ाइलों का फ़ाइल एक्‍सटेंशन क्या है?",
+    "options_hi": [
+      "1. .rt",
+      "2. .rtf",
+      "3. .rtfs",
+      "4. .rtes"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "28",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "In sleep mode, the ________.",
+    "options_en": [
+      "1. current state of the computer is saved on a hard disk",
+      "2. current state of the computer is saved on a digital versatile disk",
+      "3. current state of the computer is saved on Random Access Memory",
+      "4. current state of the computer is saved on a compact disk"
+    ],
+    "question_hi": "स्लीप मोड (sleep mode) में, कंप्यूटर की वर्तमान स्थिति कहाँ सेव की जाती है?",
+    "options_hi": [
+      "1. हार्ड डिस्‍क पर",
+      "2. डीजिटल वर्सेटायल डिस्‍क पर",
+      "3. रैंडम एक्सेस मेमोरी पर",
+      "4. कॉम्पैक्‍ट डिस्‍क पर"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "29",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "To edit the content of a cell in MS-Excel 2019, press the _________ key after selecting the cell.",
+    "options_en": [
+      "1. F1",
+      "2. F2",
+      "3. F3",
+      "4. F4"
+    ],
+    "question_hi": "MS-Excel 2019 में, सेल के कंटेंट को एडिट करने के लिए, सेल को सेलेक्‍ट करने के बाद _________ कुंजी दबाएं।",
+    "options_hi": [
+      "1. F1",
+      "2. F2",
+      "3. F3",
+      "4. F4"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "30",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "What is the purpose of test completion criteria in a test plan?",
+    "options_en": [
+      "1. To set the criteria used in generating the test inputs.",
+      "2. It is a checklist which need to be satisfied so that the software is considered ready to be released to the production environment.",
+      "3. To know when the test planning is complete.",
+      "4. To ensure that the test case specification is complete."
+    ],
+    "question_hi": "परीक्षण योजना (test plan) में परीक्षण पूरा करने के मानदंड का क्या उद्देश्‍य है?",
+    "options_hi": [
+      "1. परीक्षण इनपुट उत्‍पन्‍न करने में प्रयुक्‍त मानदंडों को सेट करने के लिए।",
+      "2. यह एक चेकलिस्‍ट है जिसे पूरा करना आवश्‍यक है ताकि सॉफ्टवेयर को प्रोडक्‍शन एनवायरनमेंट में रिलीज़ करने के लिए तैयार माना जा सके।",
+      "3. यह जानने के लिए कि परीक्षण योजना कब पूरी हो गई है।",
+      "4. यह सुनिश्चित करने के लिए कि परीक्षण प्रकरण विनिर्देश (test case specification) पूरा हो गया है।"
+    ],
+    "answer": -1
+  },
+  {
+    "questionNumber": "31",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "The _______ protocol is used for uploading files on the server.",
+    "options_en": [
+      "1. World Wide Web (www)",
+      "2. Hypertext Markup Language (HTML)",
+      "3. Dynamic Host Control Protocol (DHCP)",
+      "4. File Transfer Protocol (FTP)"
+    ],
+    "question_hi": "सर्वर पर फ़ाइलें अपलोड करने के लिए _______ प्रोटोकॉल का उपयोग किया जाता है।",
+    "options_hi": [
+      "1. वर्ल्ड वाइड वेब (www)",
+      "2. हाइपरटेक्‍स्‍ट मार्कअप लैंग्वेज (HTML)",
+      "3. डायनेमिक होस्‍ट कंट्रोल प्रोटोकॉल (DHCP)",
+      "4. फाइल ट्रांसफर प्रोटोकॉल (FTP)"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "32",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "What will happen when the formula “=COUNTIF(A1:A7,\"????s\")” is executed in MS-Excel 2016?",
+    "options_en": [
+      "1. It will count the number of cells that have exactly 5 characters, and end with the letter \"s\" in cells A1 through A7.",
+      "2. It will count the number of cells that have exactly 7 characters, and end with the letter \"s\" in cells A1 through A7.",
+      "3. It will count the number of cells that have exactly 5 characters, and end with the letter \"s\" in cell A1.",
+      "4. It will count the number of cells that have exactly 5 characters, and end with the letter \"s\" in cell A7."
+    ],
+    "question_hi": "जब MS-Excel 2016 में सूत्र\"=COUNTIF(A1:A7,\"????s\")\" निष्पादित किया जाता है तो क्या होगा?",
+    "options_hi": [
+      "1. यह उन सेलों (cells) की संख्या की गणना करेगा जिनमें ठीक 5 कैरेक्‍टर हैं, और सेलों A1 से A7 में अक्षर \"s\" के साथ समाप्‍त होती हैं।",
+      "2. यह उन सेलों (cells) की संख्या की गणना करेगा जिनमें ठीक 7 कैरेक्‍टर हैं, और सेलों A1 से A7 में अक्षर \"s\" के साथ समाप्‍त होती हैं।",
+      "3. यह उन सेलों (cells) की संख्या की गणना करेगा जिनमें ठीक 5 कैरेक्‍टर हैं, और सेल A1 में अक्षर \"s\" के साथ समाप्‍त होती है।",
+      "4. यह उन सेलों (cells) की संख्या की गणना करेगा जिनमें ठीक 5 कैरेक्‍टर हैं, और सेल A7 में अक्षर \"s\" के साथ समाप्‍त होती है।"
+    ],
+    "answer": -1
+  },
+  {
+    "questionNumber": "33",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "A user has to enter _______ to navigate any website.",
+    "options_en": [
+      "1. PPT",
+      "2. URL",
+      "3. WWW",
+      "4. HTML"
+    ],
+    "question_hi": "किसी भी वेबसाइट पर नेविगेट करने के लिए उपयोगकर्ता को _____ प्रविष्‍ट (enter) करना होगा।",
+    "options_hi": [
+      "1. PPT",
+      "2. URL",
+      "3. WWW",
+      "4. HTML"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "34",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "State whether the given statements related to MS-Excel 2019 are true or false.\n (i) The ribbon is located at the top of the screen and stretches across the window.\n (ii) The Home tab displays a variety of tools and features used to format and move text.",
+    "options_en": [
+      "1. (i) False (ii) True",
+      "2. (i) False (ii) False",
+      "3. (i) True (ii) True",
+      "4. (i) True (ii) False"
+    ],
+    "question_hi": "बताएं कि MS-Excel 2019 से संबंधित दिए गए कथन सत्‍य हैं या असत्‍य।\n (i) रिबन (ribbon), स्क्रीन के शीर्ष पर स्थित होता है और पूरे विंडो (window) में फैला होता है।\n (ii) Home टैब, टेक्‍स्‍ट को फॉर्मेट और स्थानांतरित करने के लिए प्रयुक्‍त किए जाने वाले विभिन्‍न प्रकार के टूल और फीचर्स को दर्शित करता है।",
+    "options_hi": [
+      "1. (i) असत्‍य (ii) सत्‍य",
+      "2. (i) असत्‍य (ii) असत्‍य",
+      "3. (i) सत्‍य (ii) सत्‍य",
+      "4. (i) सत्‍य (ii) असत्‍य"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "35",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "In MS-Word 2019, which view displays the original document without tracked changes and comments showing? However, any tracked changes or comments in the document that have not been accepted, rejected, or deleted remain in the document.",
+    "options_en": [
+      "1. Final Showing Markup",
+      "2. Final",
+      "3. Original",
+      "4. Original Showing Markup"
+    ],
+    "question_hi": "MS-Word 2019 में कौन-सा व्यू (view), ट्रैड चेंजेस (tracked changes) और कमेंट्स को दिखाए बिना मूल डॉक्यूमेंट को दर्शित करता है? हालाँकि, डॉक्यूमेंट में कोई भी ट्रैड चेंजेस या कमेंट्स जिन्हें स्वीकार, अस्वीकार या डिलीट नहीं किया गया है, वे डॉक्यूमेंट में ही रहते हैं।",
+    "options_hi": [
+      "1. फाइनल शोविंग मार्कअप (Final Showing Markup)",
+      "2. फाइनल (Final)",
+      "3. ओरिजिनल (Original)",
+      "4. ओरिजिनल शोविंग मार्कअप (Original Showing Markup)"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "36",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "Which of the following formulas when executed will give an error in MS-Excel 2019?",
+    "options_en": [
+      "1. =SUM(A9:A15)*SUM(K9:K15)",
+      "2. =SUM(A9:A15)*10",
+      "3. =SUM(A9:A15)-B4/10",
+      "4. =SUM(L9:L12)* SUM(K9:K12)/(10-10)"
+    ],
+    "question_hi": "MS-Excel 2019 में, निम्‍नलिखित में से कौन-सा सूत्र निष्पादित होने पर त्रुटि देगा?",
+    "options_hi": [
+      "1. =SUM(A9:A15)*SUM(K9:K15)",
+      "2. =SUM(A9:A15)*10",
+      "3. =SUM(A9:A15)-B4/10",
+      "4. =SUM(L9:L12)* SUM(K9:K12)/(10-10)"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "37",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "What is the keyboard shortcut for justified alignment in MS-Word 2019?",
+    "options_en": [
+      "1. Ctrl + R",
+      "2. Ctrl + J",
+      "3. Ctrl + T",
+      "4. Ctrl + L"
+    ],
+    "question_hi": "MS-Word 2019 में, जस्टिफाइड अलाइनमेंट के लिए किस कीबोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options_hi": [
+      "1. Ctrl+ R",
+      "2. Ctrl+ J",
+      "3. Ctrl+ T",
+      "4. Ctrl+ L"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "38",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "What do you understand by the term 'tabs' in the context of MS-Word 2010?",
+    "options_en": [
+      "1. Tabs are not embedded in your document’s text",
+      "2. Tabs are hidden formatting characters, similar to space characters",
+      "3. Tabs are hidden formatting characters, but are not similar to space characters",
+      "4. Tabs are viewable formatting characters"
+    ],
+    "question_hi": "MS-Word 2010 के संदर्भ में 'टैब (tabs)' शब्‍द से आप क्या समझते हैं?",
+    "options_hi": [
+      "1. टैब, आपके डॉक्यूमेंट के टेक्‍स्‍ट में एम्बेडेड नहीं होते हैं।",
+      "2. स्पेस करैक्‍टर (space characters) के समान, टैब छुपे हुए (hidden) फॉर्मेटिंग करैक्‍टर होते हैं।",
+      "3. टैब छुपे हुए फॉर्मेटिंग करैक्‍टर होते हैं, परंतु स्पेस करैक्‍टर के समान नहीं होते हैं।",
+      "4. टैब, दिखाई देने वाले (viewable) फॉर्मेटिंग करैक्‍टर होते हैं।"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "39",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "FTP is used for ______.",
+    "options_en": [
+      "1. only downloading files",
+      "2. only uploading files",
+      "3. merging files",
+      "4. transferring files between hosts over internet"
+    ],
+    "question_hi": "FTP का उपयोग ____________ किया जाता है।",
+    "options_hi": [
+      "1. केवल फाइलों को डाउनलोड करने के लिए",
+      "2. केवल फाइलों को अपलोड करने के लिए",
+      "3. फाइलों को मर्ज करने के लिए",
+      "4. इंटरनेट पर होस्‍ट (hosts) के बीच फाइलों को स्थानांतरित करने के लिए"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "40",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "What do you understand by file naming convention?",
+    "options_en": [
+      "1. A framework for naming your files.",
+      "2. A framework which helps in transferring data from one file to another.",
+      "3. A framework which does not relate to other files.",
+      "4. A framework which describes how files are unrelated to other files."
+    ],
+    "question_hi": "फ़ाइल नामकरण परिपाटी (convention) से आप क्या समझते हैं?",
+    "options_hi": [
+      "1. अपनी फाइलों का नामकरण करने के लिए एक फ्रेमवर्क",
+      "2. एक फ्रेमवर्क, जो डेटा को एक फ़ाइल से दूसरे में स्थानांतरित करने में मदद करता है",
+      "3. एक फ्रेमवर्क, जो अन्‍य फाइलों से संबंधित नहीं है",
+      "4. एक फ्रेमवर्क, जो वर्णन करता है कि फाइलें अन्‍य फाइलों से कैसे संबंधित नहीं हैं"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "41",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "If the width of the page is less than the height of the page in an MS-Word document then which of the following statements would be FALSE?",
+    "options_en": [
+      "1. The page orientation is Landscape.",
+      "2. The page orientation is in Default.",
+      "3. The page orientation is Portrait.",
+      "4. The page is vertically aligned."
+    ],
+    "question_hi": "यदि MS-Word डॉक्यूमेंट में, पेज की चौड़ाई पेज की ऊंचाई से कम है, तो निम्‍नलिखित में से कौन-सा कथन गलत होगा?",
+    "options_hi": [
+      "1. पेज ओरिएंटेशन लैंडस्केप है।",
+      "2. पेज ओरिएंटेशन डिफ़ॉल्‍ट में है।",
+      "3. पेज ओरिएंटेशन पोर्ट्रेट है।",
+      "4. पेज, वर्टिकली अलाइन्‍ड है।"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "42",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "What is the process in which a preferred version of a page is selected over multiple other versions when searching for webpages?",
+    "options_en": [
+      "1. URL modification",
+      "2. URL support",
+      "3. URL balancing",
+      "4. Canonicalization"
+    ],
+    "question_hi": "वह कौन-सी प्रक्रिया है जिसमें वेबपेजों की खोज करते समय एक पेज के पसंदीदा वर्जन (preferred version) को कई अन्‍य वर्जनों की तुलना में चुना जाता है?",
+    "options_hi": [
+      "1. URL मॉडिफिकेशन (URL modification)",
+      "2. URL सपोर्ट (URL support)",
+      "3. URL बैलेंसिंग (URL balancing)",
+      "4. कैनॉनिकलाइज़ेशन (Canonicalization)"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "43",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "Replacing an IP address (http://208.77.188.166/) with a domain name (http://www.example.com/) is a ___________process.",
+    "options_en": [
+      "1. URL support",
+      "2. DNS Resolution",
+      "3. URL balancing",
+      "4. URL modification"
+    ],
+    "question_hi": "एक IP एड्रेस (http://208.77.188.166/) को डोमेन नाम (http://www.example.com/) से बदलना, एक ___________ प्रक्रिया है।",
+    "options_hi": [
+      "1. URL सपोर्ट (URL support)",
+      "2. DNS रेजोल्यूशन (DNS Resolution)",
+      "3. URL बैलेंसिंग (URL balancing)",
+      "4. URL मॉडिफिकेशन (URL modification)"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "44",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "Which of the following text functions of MS-Excel 2019 is used to join two or more text strings into one string?",
+    "options_en": [
+      "1. CONCATENATE",
+      "2. JOIN",
+      "3. MERGE",
+      "4. COMBINE"
+    ],
+    "question_hi": "MS-Excel 2019 के निम्‍नलिखित में से किस टेक्‍स्‍ट फ़ंक्‍शन का उपयोग दो या दो से अधिक टेक्‍स्‍ट स्ट्रिंग्‍स को एक स्ट्रिंग में जोड़ने के लिए किया जाता है?",
+    "options_hi": [
+      "1. कोनकैटीनेट (CONCATENATE)",
+      "2. ज्वाइन (JOIN)",
+      "3. मर्ज (MERGE)",
+      "4. कंबाइन (COMBINE)"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "45",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "_______ is the logical function used in MS-Excel.",
+    "options_en": [
+      "1. IF()",
+      "2. VLOOKUP()",
+      "3. SQRT()",
+      "4. DATEVALUE()"
+    ],
+    "question_hi": "________, MS-Excel में प्रयुक्‍त किया जाने वाला लॉजिकल फंक्‍शन है।",
+    "options_hi": [
+      "1. IF()",
+      "2. VLOOKUP()",
+      "3. SQRT()",
+      "4. DATEVALUE()"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "46",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "In MS-Excel 2019, after pressing F4 key twice, the cell reference changes from A1 to _______.",
+    "options_en": [
+      "1. absolute reference ($A$1)",
+      "2. absolute row reference (A$1)",
+      "3. relative reference (A1)",
+      "4. absolute column reference ($A1)"
+    ],
+    "question_hi": "MS-Excel 2019 में, F4 कुंजी को दो बार दबाने के बाद, सेल संदर्भ (cell reference) A1 से ________ में बदल जाती है।",
+    "options_hi": [
+      "1. निरपेक्ष संदर्भ ($A$1) [absolute reference($A$1)]",
+      "2. निरपेक्ष पंक्ति संदर्भ (A$1) [absolute row reference(A$1)]",
+      "3. सापेक्ष संदर्भ (A1) [relative reference(A1)]",
+      "4. निरपेक्ष स्तंभ संदर्भ ($A1) [absolute column reference($A1)]"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "47",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "In MS-Excel, a/an _______ is an action or a set of actions that you record and can run as many times as you want.",
+    "options_en": [
+      "1. micro",
+      "2. macro",
+      "3. trigger",
+      "4. entity"
+    ],
+    "question_hi": "MS-Excel में __________ एक एक्‍शन या एक्‍शन्‍स का एक समूह है जिसे आप रिकॉर्ड करते हैं और जितनी बार चाहें उतनी बार उसे रन (run) कर सकते हैं।",
+    "options_hi": [
+      "1. माइक्रो (micro)",
+      "2. मैक्रो (macro)",
+      "3. ट्रिगर (trigger)",
+      "4. एंटिटी (entity)"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "48",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "Identify the sequence of steps used in MS-Excel 365 to enable the Developer tab.",
+    "options_en": [
+      "1. Insert -> Options -> Customize Ribbon",
+      "2. File -> Options -> Customize Ribbon",
+      "3. Design -> Options -> Customize Ribbon",
+      "4. View -> Options -> Customize Ribbon"
+    ],
+    "question_hi": "डेवलपर टैब को एनेबल (enable) करने के लिए MS-Excel 365 में उपयोग किए जाने वाले चरणों के अनुक्रम (सीक्वेंस) की पहचान करें।",
+    "options_hi": [
+      "1. इन्‍सर्ट -> ऑप्‍शंस -> कस्‍टमाइज़ रिबन (Insert -> Options -> Customize Ribbon)",
+      "2. फाइल -> ऑप्‍शंस -> कस्‍टमाइज़ रिबन (File -> Options -> Customize Ribbon)",
+      "3. डिज़ाइन -> ऑप्‍शंस -> कस्‍टमाइज़ रिबन (Design -> Options -> Customize Ribbon)",
+      "4. व्यू -> ऑप्‍शंस -> कस्‍टमाइज़ रिबन (View -> Options -> Customize Ribbon)"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "49",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "The ASCII value of decimal 5 is _______.",
+    "options_en": [
+      "1. 57",
+      "2. 97",
+      "3. 53",
+      "4. 65"
+    ],
+    "question_hi": "डेसीमल 5 का ASCII मान _______ है।",
+    "options_hi": [
+      "1. 57",
+      "2. 97",
+      "3. 53",
+      "4. 65"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "50",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "The hexadecimal equivalent of decimal 10 is _______.",
+    "options_en": [
+      "1. A",
+      "2. B",
+      "3. C",
+      "4. D"
+    ],
+    "question_hi": "दशमलव संख्या (decimal number) 10 का हेक्साडेसिमल समतुल्‍य (hexadecimal equivalent) _______ है।",
+    "options_hi": [
+      "1. A",
+      "2. B",
+      "3. C",
+      "4. D"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "51",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "The octal equivalent of decimal number 15 is _______.",
+    "options_en": [
+      "2025-01-11T18:30:00.000Z",
+      "2025-02-16T18:30:00.000Z",
+      "2025-03-14T18:30:00.000Z",
+      "2025-04-13T18:30:00.000Z"
+    ],
+    "question_hi": "दशमलव अंक (डेसिमल) 15 का अष्‍टक समतुल्‍य (ऑक्‍टल एक्विवैलेन्‍ट) _______ है।",
+    "options_hi": [
+      "2025-01-11T18:30:00.000Z",
+      "2025-02-16T18:30:00.000Z",
+      "2025-03-14T18:30:00.000Z",
+      "2025-04-13T18:30:00.000Z"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "52",
+    "examDate": "15th March 2025 shift 02",
+    "question_en": "Which function of MS-Excel 2019 returns TRUE if any argument is TRUE?",
+    "options_en": [
+      "1. AND",
+      "2. NOT",
+      "3. OR",
+      "4. AT"
+    ],
+    "question_hi": "Ms-Excel 2019 का कौन-सा फ़ंक्‍शन, किसी भी आर्गुमेंट के TRUE होने पर TRUE लौटाता है?",
+    "options_hi": [
+      "1. AND",
+      "2. NOT",
+      "3. OR",
+      "4. AT"
+    ],
+    "answer": 2
   }
 ];
 
