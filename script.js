@@ -2943,7 +2943,995 @@ const allQuestions = [
       "4. AT"
     ],
     "answer": 2
-  }
+  },
+   {
+    "questionNumber": "1",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "The ______ manages all the resources available on your computer.",
+    "options_en": [
+      "1. ALU",
+      "2. RAM",
+      "3. Operating system",
+      "4. ROM"
+    ],
+    "question_hi": "आपके कंप्यूटर में उपलब्‍ध सभी संसाधनों (resources) का प्रबंधन ________ के द्वारा किया जाता है।",
+    "options_hi": [
+      "1. ALU",
+      "2. RAM",
+      "3. ऑपरेटिंग सिस्‍टम",
+      "4. ROM"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "2",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "Which type of device is the computer monitor?",
+    "options_en": [
+      "1. Input device",
+      "2. Output device",
+      "3. Processing device",
+      "4. Software device"
+    ],
+    "question_hi": "कंप्यूटर मॉनिटर किस प्रकार की डिवाइस है?",
+    "options_hi": [
+      "1. इनपुट डिवाइस",
+      "2. आउटपुट डिवाइस",
+      "3. प्रोसेसिंग डिवाइस",
+      "4. साफ्टवेयर डिवाइस"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "3",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "One ______ is approximately one billion bytes.",
+    "options_en": [
+      "1. Kilobyte",
+      "2. Bit",
+      "3. Gigabyte",
+      "4. Megabyte"
+    ],
+    "question_hi": "निम्‍न में से किसका मान लगभग एक बिलियन बाइट्स के बराबर होता है?",
+    "options_hi": [
+      "1. किलोबाइट",
+      "2. बिट",
+      "3. गीगाबाइट",
+      "4. मेगाबाइट"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "4",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "With reference to computer memory, what is the full form of PROM?",
+    "options_en": [
+      "1. Programmable Read Only Memory",
+      "2. Periodic Read Only Memory",
+      "3. Programmable Run Only Memory",
+      "4. Parallel Read Only Memory"
+    ],
+    "question_hi": "कंप्यूटर मेमोरी के संदर्भ में PROM का पूर्ण रूप क्या है?",
+    "options_hi": [
+      "1. Programmable read only memory (प्रोग्रामेबल रीड ओनली मेमोरी)",
+      "2. Periodic read only memory (पीरियाडिक रीड ओनली मेमोरी)",
+      "3. Programmable run only memory (प्रोग्रामेबल रन ओनली मेमोरी)",
+      "4. Parallel read only memory (पैरेलल रीड ओनली मेमोरी)"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "5",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "Which function returns the number of periods required by an investment to reach a specified value in MS-Excel 2019?",
+    "options_en": [
+      "1. DURATION",
+      "2. NDURATION",
+      "3. NPDURATION",
+      "4. PDURATION"
+    ],
+    "question_hi": "MS - Excel 2019 में, कौन सा फंक्‍शन निर्दिष्‍ट मान तक पहुंचने के लिए किसी निवेश की आवश्‍यक अवधियों की संख्या रिटर्न करता है?",
+    "options_hi": [
+      "1. DURATION",
+      "2. NDURATION",
+      "3. NPDURATION",
+      "4. PDURATION"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "6",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "Which function key 'Opens or closes the Navigator' in Open Office Writer?",
+    "options_en": [
+      "1. F7",
+      "2. F5",
+      "3. F8",
+      "4. F6"
+    ],
+    "question_hi": "ओपन ऑफिस राइटर में कौन सी फ़ंक्‍शन कुंजी 'नेविगेटर को खोलती या बंद करती है'?",
+    "options_hi": [
+      "1. F7",
+      "2. F5",
+      "3. F8",
+      "4. F6"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "7",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "A ______ is a pen-like device commonly used with tablet PCs and PDAs.",
+    "options_en": [
+      "1. mouse",
+      "2. joystick",
+      "3. stylus",
+      "4. scanner"
+    ],
+    "question_hi": "______________ सामान्‍यतः टेबलेट PC और PDA के साथ उपयोग की जाने वाली पेन की तरह की एक डिवाइस है।",
+    "options_hi": [
+      "1. माउस",
+      "2. जॉयस्टिक",
+      "3. स्टाइलस",
+      "4. स्कैनर"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "8",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "Which of the following devices can create a hard copy of a computer document or image?",
+    "options_en": [
+      "1. Scanner",
+      "2. Keyboard",
+      "3. Monitor",
+      "4. Printer"
+    ],
+    "question_hi": "कंप्यूटर डॉक्यूमेंट या इमेज की हार्ड कॉपी क्रिएट करने के लिए निम्‍न में से किस डिवाइस का उपयोग किया जाता है?",
+    "options_hi": [
+      "1. स्कैनर",
+      "2. कीबोर्ड",
+      "3. मॉनिटर",
+      "4. प्रिंटर"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "9",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "One GigaByte is ______ MegaBytes.",
+    "options_en": [
+      "1023-12-31T18:06:32.000Z",
+      "2. 512",
+      "2016-02-29T18:30:00.000Z",
+      "2025-04-07T18:30:00.000Z"
+    ],
+    "question_hi": "एक गीगाबाइट ______ मेगाबाइट है।",
+    "options_hi": [
+      "1023-12-31T18:06:32.000Z",
+      "2. 512",
+      "2016-02-29T18:30:00.000Z",
+      "2025-04-07T18:30:00.000Z"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "10",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "Highly advanced barcode scanners that are very efficient in decoding badly printed, crumpled and torn barcodes are called ______.",
+    "options_en": [
+      "1. omni-directional barcode scanners",
+      "2. CCD readers",
+      "3. pen-type readers",
+      "4. electro-thermal readers"
+    ],
+    "question_hi": "वे अत्याधुनिक बारकोड स्कैनर जो खराब तरह से मुद्रित (printed), तुड़े-मुड़े (crumpled) और फटे (torn) बारकोड को भी डिकोड करने में सक्षम होते हैं, क्या कहलाते हैं?",
+    "options_hi": [
+      "1. ओमनी-डायरेक्‍शनल बारकोड स्कैनर",
+      "2. CCD रीडर",
+      "3. पेन-टाइप रीडर",
+      "4. इलेक्ट्रो -थर्मल रीडर"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "11",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "What is the full form of BD-R?",
+    "options_en": [
+      "1. Blu-ray Disc Readable",
+      "2. Blu-ray Discover Read",
+      "3. Blu-ray Disc Recordable",
+      "4. Blu-ray Digitable Read"
+    ],
+    "question_hi": "BD-R का पूर्णरूप क्या है?",
+    "options_hi": [
+      "1. Blu-ray Disc Readable (ब्‍लू-रे डिस्‍क रीडेबल)",
+      "2. Blu-ray Discover Read (ब्‍लू-रे डिस्‍कवर रीड)",
+      "3. Blu-ray Disc Recordable (ब्‍लू-रे डिस्‍क रिकॉर्डेबल)",
+      "4. Blu-ray Digitable Read (ब्‍लू-रे डिजिटेबल रीड)"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "12",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "A BD-RE disk is an example of a/an ______ disk.",
+    "options_en": [
+      "1. optical",
+      "2. solid state",
+      "3. magnetic drive",
+      "4. magnetic tape"
+    ],
+    "question_hi": "BD-RE डिस्‍क ______ डिस्‍क का एक उदाहरण है।",
+    "options_hi": [
+      "1. ऑप्टिकल (Optical)",
+      "2. सॉलिड स्टेट (Solid state)",
+      "3. चुंबकीय ड्राइव (Magnetic drive)",
+      "4. चुंबकीय टेप (Magnetic tape)"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "13",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "Which of the following ports is a video input that is primarily used in a PC?",
+    "options_en": [
+      "1. Video Graphics Array (VGA)",
+      "2. Motherboard",
+      "3. RAM",
+      "4. PS/2"
+    ],
+    "question_hi": "निम्‍नलिखित में से कौन-सा पोर्ट (port), एक वीडियो इनपुट है जिसका उपयोग मुख्‍य रूप से पीसी (PC) में किया जाता है?",
+    "options_hi": [
+      "1. वीडियो ग्राफ़िक्‍स ऐरे (VGA)",
+      "2. मदरबोर्ड",
+      "3. RAM",
+      "4. PS/2"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "14",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "Fourth generation computers are based on which of the following hardware?",
+    "options_en": [
+      "1. Microprocessor",
+      "2. Transistor",
+      "3. Vaccum tube",
+      "4. Integrated circuit"
+    ],
+    "question_hi": "चौथी पीढ़ी (Fourth generation) के कंप्यूटर निम्‍नलिखित में से किस हार्डवेयर पर आधारित हैं?",
+    "options_hi": [
+      "1. माइक्रोप्रोसेसर",
+      "2. ट्रांजिस्‍टर",
+      "3. वैक्यूम ट्यूब",
+      "4. एकीकृत परिपथ (Integrated circuit)"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "15",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "Which of the following is NOT a type of a microcontroller?",
+    "options_en": [
+      "1. Intel 8008",
+      "2. ARM",
+      "3. PIC",
+      "4. AVR"
+    ],
+    "question_hi": "निम्‍न में से कौन एक माइक्रोकंट्रोलर का प्रकार नहीं है?",
+    "options_hi": [
+      "1. Intel 8008",
+      "2. ARM",
+      "3. PIC",
+      "4. AVR"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "16",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "512 bits is equivalent to ________ bytes.",
+    "options_en": [
+      "2025-01-15T18:30:00.000Z",
+      "2025-02-07T18:30:00.000Z",
+      "3. 32",
+      "4. 64"
+    ],
+    "question_hi": "512 बिट्स, ________ बाइट्स के समतुल्‍य (equivalent) है।",
+    "options_hi": [
+      "2025-01-15T18:30:00.000Z",
+      "2025-02-07T18:30:00.000Z",
+      "3. 32",
+      "4. 64"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "17",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "The speed in laser printers is measured in ______________ .",
+    "options_en": [
+      "1. Pages Per Minute",
+      "2. Parts Per Minute",
+      "3. Letters Per Minute",
+      "4. Dots Per Minute"
+    ],
+    "question_hi": "लेजर प्रिंटर में गति, ______________ में मापी जाती है।",
+    "options_hi": [
+      "1. पेज प्रति मिनट",
+      "2. भाग प्रति मिनट",
+      "3. अक्षर प्रति मिनट",
+      "4. डॉट्स प्रति मिनट"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "18",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "Match the following:\n LIST-1 LIST-2\n I) Byte A) Magnetic disk\n II) CD B) Storage unit\n III) Hard disk C) Optical disk",
+    "options_en": [
+      "1. I – C, II – B, III – A",
+      "2. I – C, II – A, III – B",
+      "3. I – B, II – C, III – A",
+      "4. I – B, II – A, III – C"
+    ],
+    "question_hi": "निम्‍नलिखित को मिलाएं:\n सूची-1 सूची-2\n I) बाइट (Byte) A) चुंबकीय डिस्‍क (Magnetic disk)\n II) सीडी (CD) B) भंडारण यूनिट (Storage unit)\n III) हार्ड डिस्‍क (Hard disk) C) ऑप्टिकल डिस्‍क (Optical disk)",
+    "options_hi": [
+      "1. I – C, II – B, III – A",
+      "2. I – C, II – A, III – B",
+      "3. I – B, II – C, III – A",
+      "4. I – B, II – A, III – C"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "19",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "The impedance of a loudspeaker is measured in _______.",
+    "options_en": [
+      "1. bits",
+      "2. bytes",
+      "3. Ohms",
+      "4. decibel"
+    ],
+    "question_hi": "लाउडस्पीकर की प्रतिबाधा (Impedance) _______ में मापी जाती है?",
+    "options_hi": [
+      "1. बिट्स (bits)",
+      "2. बाइट्स (bytes)",
+      "3. ओह्म (Ohms)",
+      "4. डेसिबेल (decibel)"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "20",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "Which of the following is a set of programs designed to perform a well-defined function using a computer system?",
+    "options_en": [
+      "1. Microprocessor",
+      "2. Microcontroller",
+      "3. Hardware",
+      "4. Software"
+    ],
+    "question_hi": "निम्‍नलिखित में से कौन-सा, एक कंप्यूटर सिस्‍टम का उपयोग करके सुपरिभाषित कार्य करने के लिए डिज़ाइन किए गए प्रोग्रामों का एक सेट है?",
+    "options_hi": [
+      "1. माइक्रोप्रोसेसर",
+      "2. माइक्रोकंट्रोलर",
+      "3. हार्डवेयर",
+      "4. सॉफ्टवेयर"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "21",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "Which of the following is the extension for a Microsoft Access database file in the Windows 10 OS?",
+    "options_en": [
+      "1. cda",
+      "2. accdb",
+      "3. bat",
+      "4. bin"
+    ],
+    "question_hi": "Windows 10 OS में माइक्रोसॉफ्ट एक्सेस डेटाबेस फ़ाइल (Microsoft Access database file) के लिए एक्‍सटेंशन निम्‍नलिखित में से कौन-सा है?",
+    "options_hi": [
+      "1. cda",
+      "2. accdb",
+      "3. bat",
+      "4. bin"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "22",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "Which of the following is software and operating system (OS) update that address security vulnerabilities within a program or product?",
+    "options_en": [
+      "1. Log",
+      "2. Release",
+      "3. Patch",
+      "4. Vulnerability"
+    ],
+    "question_hi": "निम्‍नलिखित में से कौन सा सॉफ्टवेयर और ऑपरेटिंग सिस्‍टम (OS) अपडेट है जो किसी प्रोग्राम या उत्पाद के भीतर सुरक्षा कमजोरियों को संबोधित करता है?",
+    "options_hi": [
+      "1. लॉग (Log)",
+      "2. रिलीज़ (Release)",
+      "3. पैच (Patch)",
+      "4. वल्‍नेरेबिलिटी (Vulnerability)"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "23",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "What is a PING command?",
+    "options_en": [
+      "1. It is a command-line utility, that acts as a test to see if a networked device is reachable.",
+      "2. It is a command which provides comprehensive view of information regarding the IP address configuration of the device we are currently working on.",
+      "3. It is a command to display the hostname of the system.",
+      "4. It is a command used to start a computer which is in a sleep mode."
+    ],
+    "question_hi": "PING कमांड क्या है?",
+    "options_hi": [
+      "1. यह एक कमांड-लाइन उपयोगिता है, जो यह देखने के लिए परीक्षण के रूप में कार्य करती है कि नेटवर्क डिवाइस पहुंच योग्‍य है या नहीं।",
+      "2. यह एक कमांड है जो उस डिवाइस के आईपी एड्रेस कॉन्फ़िगरेशन के बारे में जानकारी का व्यापक दृश्‍य प्रदान करता है जिस पर हम वर्तमान में काम कर रहे हैं।",
+      "3. यह सिस्‍टम का होस्‍टनेम (hostname) प्रदर्शित करने के लिए एक कमांड है।",
+      "4. स्लीप मोड में स्थित कंप्यूटर को शुरू (स्टार्ट) करने के लिए इस कमांड का प्रयोग किया जाता है।"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "24",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "Which of the following is NOT an internal component of the hard drive?",
+    "options_en": [
+      "1. Spindle",
+      "2. Read/write head",
+      "3. Platter",
+      "4. Hopper"
+    ],
+    "question_hi": "निम्‍नलिखित में से कौन-सा, हार्ड ड्राइव का एक आंतरिक घटक नहीं है?",
+    "options_hi": [
+      "1. स्पिंडल (Spindle)",
+      "2. रीड/राईट हेड (Read/write head)",
+      "3. प्लाटर (Platter)",
+      "4. हॉपर (Hopper)"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "25",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "Which of the following information kiosks is designed to provide their services in almost any weather condition - rain, sun or snow?",
+    "options_en": [
+      "1. Indoor",
+      "2. Both indoor and outdoor",
+      "3. Outdoor",
+      "4. Inbuilt"
+    ],
+    "question_hi": "निम्‍नलिखित में से कौन-सा सूचना कियोस्‍क (information kiosks), लगभग किसी भी मौसम की स्थिति - वर्षा, धूप या बर्फबारी में अपनी सेवाएं प्रदान करने के लिए डिज़ाइन किया गया है?",
+    "options_hi": [
+      "1. इनडोर (Indoor)",
+      "2. इनडोर और आउटडोर दोनों (Both indoor and outdoor) नों",
+      "3. आउटडोर (Outdoor)",
+      "4. इनबिल्‍ट (Inbuilt)"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "26",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "The first Linux kernel that supports the SMP hardware is:",
+    "options_en": [
+      "1. Linux 2.0",
+      "2. Linux 0.1",
+      "3. Linux 1.1",
+      "4. Linux 1.2"
+    ],
+    "question_hi": "एस.एम.पी. (SMP) हार्डवेयर को सपोर्ट करने वाला पहला लिनक्‍स कर्नेल _______ है।",
+    "options_hi": [
+      "1. Linux 2.0",
+      "2. Linux 0.1",
+      "3. Linux 1.1",
+      "4. Linux 1.2"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "27",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "What is the file extension for Microsoft Windows 10 Publisher file?",
+    "options_en": [
+      "1. .mpp",
+      "2. .pub",
+      "3. .pup",
+      "4. .msp"
+    ],
+    "question_hi": "माइक्रोसॉफ्ट विंडोज 10 पब्लिशर (Microsoft Windows 10 Publisher) फाइल का एक्‍सटेंशन क्या है?",
+    "options_hi": [
+      "1. .mpp",
+      "2. .pub",
+      "3. .pup",
+      "4. .msp"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "28",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "Select the option that correctly arranges the monitors from the lowest to the highest energy consumption.",
+    "options_en": [
+      "1. LCD, LED, CRT",
+      "2. LED, CRT, LCD",
+      "3. CRT, LCD, LED",
+      "4. LED, LCD, CRT"
+    ],
+    "question_hi": "उस विकल्‍प का चयन करें जो निम्‍नलिखित मॉनीटरों को निम्‍नतम से उच्‍चतम ऊर्जा खपत करने वाले के अनुसार व्‍यवस्थित करता है।",
+    "options_hi": [
+      "1. LCD, LED, CRT",
+      "2. LED, CRT, LCD",
+      "3. CRT, LCD, LED",
+      "4. LED, LCD, CRT"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "29",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "Which of the following is true with reference to Read Only Memory (ROM)?",
+    "options_en": [
+      "1. When you turn on the power to a computer, the first program that runs is usually a set of instructions kept in the computer's firmware called the boot RAM.",
+      "2. ROM is a volatile memory.",
+      "3. ROM chips are not only used in the computer but also in other electronic items like washing machines and microwave ovens.",
+      "4. The information stored in ROM is temporary."
+    ],
+    "question_hi": "रीड ओनली मेमोरी (ROM) के संदर्भ में निम्‍नलिखित में से कौन-सा कथन सत्‍य है?",
+    "options_hi": [
+      "1. जब आप किसी कंप्यूटर को पावर ऑन करते है, तो सबसे पहले रन करने वाला प्रोग्राम प्रायः कंप्यूटर के फर्मवेयर में रखे निर्देशों का एक सेट होता है जिसे बूट रैम (boot RAM) कहा जाता है।",
+      "2. ROM एक वोलेटाइल मेमोरी है।",
+      "3. ROM चिप्‍स का उपयोग न केवल कंप्यूटर में बल्कि अन्‍य इलेक्ट्रॉनिक वस्तुओं जैसे कि वाशिंग मशीन और माइक्रोवेव ओवन में भी किया जाता है।",
+      "4. ROM में स्टोर की गई सूचना अस्थायी (temporary) होती है।"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "30",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "Which of the following is malicious software that enters a user’s computer, gathers data from the device and user, and sends it to third parties without their consent?",
+    "options_en": [
+      "1. Adware",
+      "2. Patch",
+      "3. Spyware",
+      "4. Update"
+    ],
+    "question_hi": "निम्‍नलिखित में से कौन सा दुर्भावनापूर्ण (Malicious) सॉफ्टवेयर है जो उपयोगकर्ता के कंप्यूटर में प्रवेश करता है, डिवाइस और उपयोगकर्ता से डेटा एकत्र करता है, और उनकी सहमति के बिना इसे तीसरे पक्ष को भेजता है?",
+    "options_hi": [
+      "1. एडवेयर (Adware)",
+      "2. पैच (Patch)",
+      "3. स्पाईवेयर (Spyware)",
+      "4. अपडेट (Update)"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "31",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "Buying and selling goods over the internet is called:",
+    "options_en": [
+      "1. E-post",
+      "2. E-blogs",
+      "3. E-commerce",
+      "4. E-science"
+    ],
+    "question_hi": "इंटरनेट के माध्‍यम से सामान ख़रीदने और बेचने को क्या कहा जाता है?",
+    "options_hi": [
+      "1. ई-पोस्‍ट",
+      "2. ई-ब्लॉग्‍स",
+      "3. ई-कॉमर्स",
+      "4. ई-साइंस"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "32",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "Sohan has sent an email to different recipients in the To, Cc and Bcc fields. In this context, which of the following statements is true?",
+    "options_en": [
+      "1. The recipients in the 'Cc' field can see the email addresses in the 'To' and 'Bcc' fields.",
+      "2. The recipients in the 'To' field can see the email addresses in the 'Cc' and 'Bcc' fields.",
+      "3. The recipients in the 'Bcc' field can see the email addresses in the 'To' and 'Cc' fields.",
+      "4. All the recipients can see the email addresses in the 'To', 'Cc' and 'Bcc' fields."
+    ],
+    "question_hi": "सोहन ने विभि प्राप्‍तकर्ताओं को To, Cc और Bcc फ़ील्‍ड में एक ई-मेल भेजा। इस संदर्भ में, निम्‍नलिखित में से कौन-सा कथन स होगा?",
+    "options_hi": [
+      "1. ‘Cc’ फ़ील्‍ड के प्राप्‍तकर्ता, ‘To’और ’Bcc’ फ़ील्‍ड के ई-मेल एड्रेस को देख सकते हैं।",
+      "2. ‘To’ फ़ील्‍ड के प्राप्‍तकर्ता, ‘Cc’और ‘Bcc’ फ़ील्‍ड के ई-मेल एड्रेस को देख सकते हैं।",
+      "3. ‘Bcc’ फ़ील्‍ड के प्राप्‍तकर्ता, ‘To’और ‘Cc’ फ़ील्‍ड के ई-मेल एड्रेस को देख सकते हैं।",
+      "4. सभी प्राप्‍तकर्ता, ‘To’, ‘Cc’और ‘Bcc’ फ़ील्‍ड के ई-मेल एड्रेस को देख सकते हैं।"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "33",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "Google is an example of ______.",
+    "options_en": [
+      "1. an antivirus",
+      "2. a search engine",
+      "3. a web browser",
+      "4. the internet"
+    ],
+    "question_hi": "गूगल (Google), __________का एक उदाहरण है।",
+    "options_hi": [
+      "1. एंटीवायरस",
+      "2. सर्च इंजन",
+      "3. वेब ब्राउजर",
+      "4. इंटरनेट"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "34",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "To select a single word in MS-Word document, _______ it.",
+    "options_en": [
+      "1. Double click on",
+      "2. Single click on",
+      "3. Click left to",
+      "4. Click right to"
+    ],
+    "question_hi": "MS-Word डॉक्यूमेंट में किसी एकल शब्‍द को सेलेक्‍ट करने के लिए, ___________ करें।",
+    "options_hi": [
+      "1. उस पर डबल क्लिक",
+      "2. उस पर सिंगल क्लिक",
+      "3. उसके बाएँ क्लिक",
+      "4. उसके दाएँ क्लिक"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "35",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "While using Track changes option, to track only your own changes in the document, which of the following options is used in MS-Word 365?",
+    "options_en": [
+      "1. Just Mine",
+      "2. For Everyone",
+      "3. Change Tracking",
+      "4. Change User Name"
+    ],
+    "question_hi": "ट्रैक चेंजेस (Track Changes) विकल्‍प का उपयोग करते समय, डॉक्यूमेंट में केवल अपने स्‍वयं के परिवर्तनों को ट्रैक करने के लिए, MS-Word 365 में निम्‍नलिखित में से किस विकल्‍प का उपयोग किया जाता है?",
+    "options_hi": [
+      "1. जस्‍ट माइन",
+      "2. फॉर एवरीवन",
+      "3. चेंज ट्रैकिंग",
+      "4. चेंज यूज़र नेम"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "36",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "What is the keyboard shortcut to switch between windows in the same order as they have been opened?",
+    "options_en": [
+      "1. Alt + Esc",
+      "2. Alt + End",
+      "3. Alt + Ctrl",
+      "4. Alt + Enter"
+    ],
+    "question_hi": "विंडोज़ के बीच उसी क्रम में स्विच करने के लिए कीबोर्ड शॉर्टकट क्या है जिस क्रम में उन्हें खोला गया है?",
+    "options_hi": [
+      "1. Alt + Esc",
+      "2. Alt + End",
+      "3. Alt + Ctrl",
+      "4. Alt + Enter"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "37",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "Which keyboard shortcut will you use to remove paragraph formatting in MS-Word 2019?",
+    "options_en": [
+      "1. Ctrl + Delete",
+      "2. Alt + Ctrl",
+      "3. Ctrl + Spacebar",
+      "4. Ctrl + Q"
+    ],
+    "question_hi": "एमएस-वर्ड 2019 में, पैराग्राफ फॉर्मेटिंग को रिमूव करने के लिए किस कीबोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options_hi": [
+      "1. Ctrl + Delete",
+      "2. Alt + Ctrl",
+      "3. Ctrl + Spacebar",
+      "4. Ctrl + Q"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "38",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "Which of the following options in MS-Word is used to copy and paste the format at the required place in a document?",
+    "options_en": [
+      "1. Format Painter",
+      "2. Fill Color",
+      "3. Format Color",
+      "4. Wrap Text"
+    ],
+    "question_hi": "MS-Word में निम्‍नलिखित में से किस विकल्‍प का उपयोग किसी दस्तावेज़ में आवश्‍यक स्थान पर प्रारूप को कॉपी और पेस्‍ट करने के लिए किया जाता है?",
+    "options_hi": [
+      "1. फॉर्मेट पेंटर (Format Painter)",
+      "2. फिल कलर (Fill Color)",
+      "3. फॉर्मेट कलर (Format Color)",
+      "4. व्रैप टेक्‍स्‍ट (Wrap Text)"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "39",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "What is the full form of IP with reference to internet?",
+    "options_en": [
+      "1. Internet Plan",
+      "2. Internet Protocol",
+      "3. Internal Project",
+      "4. Intelligent Plan"
+    ],
+    "question_hi": "इंटरनेट के संदर्भ में आईपी (IP) का पूर्ण रूप क्या है?",
+    "options_hi": [
+      "1. Internet Plan (इंटरनेट प्लान)",
+      "2. Internet Protocol (इंटरनेट प्रोटोकॉल)",
+      "3. Internal Project (इंटरनल प्रोजेक्‍ट)",
+      "4. Intelligent Plan (इंटेलीजेंट प्लान)"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "40",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "Which of the following options will you use to create an MS- Word document that looks like a newspaper?",
+    "options_en": [
+      "1. Tables",
+      "2. Bullets and Numbering",
+      "3. Layout > Columns",
+      "4. Tab Stops"
+    ],
+    "question_hi": "अखबार की तरह दिखने वाला MS- Word डॉक्यूमेंट बनाने के लिए, आप निम्‍न में से किस विकल्‍प का उपयोग करेंगे?",
+    "options_hi": [
+      "1. टेबल",
+      "2. बुलेट्स और नंबरिंग",
+      "3. लेआउट > कॉलम",
+      "4. टैब स्‍टॉप्‍स"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "41",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "If the width of the page is greater than the height of the page in an MS- Word document then which of the following statements would be true?",
+    "options_en": [
+      "1. The page orientation is Landscape.",
+      "2. The page orientation is in Default.",
+      "3. The page orientation is Portrait.",
+      "4. The page size is Letter."
+    ],
+    "question_hi": "MS-Word डॉक्यूमेंट में यदि पेज की चौड़ाई पेज की ऊंचाई से अधिक है, तो निम्‍न में से कौन सा कथन सही होगा?",
+    "options_hi": [
+      "1. पेज ओरिएंटेशन लैंडस्केप है",
+      "2. पेज ओरिएंटेशन डिफ़ॉल्‍ट में है",
+      "3. पेज ओरिएंटेशन पोर्ट्रेट है",
+      "4. पेज का आकार लेटर है"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "42",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "To browse the web more privately in Incognito mode in Windows, Linux, or Chrome OS, which of the following keyboard shortcuts is used?",
+    "options_en": [
+      "1. Ctrl + Shift + N",
+      "2. Ctrl + Alt + N",
+      "3. Alt + Shift + N",
+      "4. Ctrl + N"
+    ],
+    "question_hi": "विंडोज (Windows), लिनक्‍स (Linux) या क्रोम ओएस (Chrome OS) में इंकॉग्निटो मोड (Incognito mode) में वेब को अधिक निजी रूप से ब्राउज़ करने के लिए किस कीबोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options_hi": [
+      "1. Ctrl + Shift + N",
+      "2. Ctrl + Alt + N",
+      "3. Alt + Shift + N",
+      "4. Ctrl + N"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "43",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "Which of the following processes modifies the URLs of incoming requests so that they conform to a consistent formatting standard?",
+    "options_en": [
+      "1. URL support",
+      "2. URL balancing",
+      "3. URL normalisation",
+      "4. URL modification"
+    ],
+    "question_hi": "निम्‍नलिखित में से कौन-सी प्रक्रिया, आने वाले अनुरोधों के URL को संशोधित (modify) करती है ताकि वे एक सुसंगत फॉर्मेटिंग मानक के अनुरूप हों?",
+    "options_hi": [
+      "1. URL सपोर्ट (URL support)",
+      "2. URL बैलेंसिंग (URL balancing)",
+      "3. URL नॉर्मलाइजेशन (URL normalisation)",
+      "4. URL मॉडिफिकेशन (URL modification)"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "44",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "The hexadecimal equivalent of binary number 0111 is ________.",
+    "options_en": [
+      "2025-01-06T18:30:00.000Z",
+      "2. F",
+      "3. 6F",
+      "4. A"
+    ],
+    "question_hi": "बाइनरी संख्या 0111 का हेक्साडेसिमल समतुल्‍य ________ है।",
+    "options_hi": [
+      "2025-01-06T18:30:00.000Z",
+      "2. F",
+      "3. 6F",
+      "4. A"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "45",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "A _____ is a tool used in MS-Excel to calculate, summarise and analyse data and lets you see comparisons, patterns and trends in your data.",
+    "options_en": [
+      "1. table",
+      "2. lookup table",
+      "3. pivot table",
+      "4. conditional table"
+    ],
+    "question_hi": "___________, MS-Excel में डेटा की गणना, सारांश और विश्लेषण करने के लिए उपयोग किया जाने वाला एक टूल है। इससे आप अपने डेटा की तुलना कर सकते हैं और डेटा में पैटर्न और रूझान भी देख सकते हैं।",
+    "options_hi": [
+      "1. टेबल",
+      "2. लुकअप टेबल",
+      "3. पिवोट टेबल",
+      "4. कंडीशनल टेबल"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "46",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "Identify whether the given statements related to email are true or false.\n (i) Post Office Protocol (POP3) is used to dynamically assign Internet Protocol (IP) addresses to each host in a network. (ii) A valid email address consists of a mailbox recipient name, the @ sign and domain name.",
+    "options_en": [
+      "1. (i) False (ii) True",
+      "2. (i) False (ii) False",
+      "3. (i) True (ii) True",
+      "4. (i) True (ii) False"
+    ],
+    "question_hi": "पहचानें कि ईमेल से संबंधित दिए गए कथन सही हैं या गलत।\n (i) पोस्‍ट ऑफिस प्रोटोकॉल (POP3) का उपयोग नेटवर्क में प्रत्येक होस्‍ट को गतिशील रूप से इंटरनेट प्रोटोकॉल (IP) पते निर्दिष्‍ट करने के लिए किया जाता है। (ii) एक वैध ईमेल पते में मेलबॉ प्राप्‍तकर्ता का नाम, @ चिन्‍ह और डोमेन नाम शामिल होता है।",
+    "options_hi": [
+      "1. (i) गलत (ii) सही",
+      "2. (i) गलत (ii) गलत",
+      "3. (i) सही (ii) सही",
+      "4. (i) सही (ii) गलत"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "47",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "Which of the following statements related to macros in MS-Excel is correct?",
+    "options_en": [
+      "1. We can only record steps using a macro.",
+      "2. We can only automate steps using a macro.",
+      "3. We can only repeat recorded steps using a macro.",
+      "4. We can record, automate and repeat recorded steps by using a macro."
+    ],
+    "question_hi": "MS-Excel में, मैक्रोज़ (macros) से संबंधित निम्‍नलिखित कथनों में से कौन सा कथन सही है?",
+    "options_hi": [
+      "1. हम मैक्रो का उपयोग करके चरणों को केवल रिकॉर्ड कर सकते हैं।",
+      "2. हम मैक्रो का उपयोग करके चरणों को केवल स्‍वचालित कर सकते हैं।",
+      "3. हम मैक्रो का उपयोग करके रिकॉर्ड किए गए चरणों को केवल दोहरा सकते हैं।",
+      "4. हम मैक्रो का उपयोग करके रिकॉर्ड किए गए चरणों को रिकॉर्ड, स्‍वचालित और दोहरा सकते हैं।"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "48",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "Which of the following is keyboard short cut for cutting selected text in MS-Excel 2019?",
+    "options_en": [
+      "1. Ctrl + X",
+      "2. Ctrl + C",
+      "3. Ctrl + V",
+      "4. Ctrl + P"
+    ],
+    "question_hi": "MS-Excel 2019 में सेलेक्‍ट किए गए टेक्‍स्‍ट को कट करने (cutting) के लिए निम्‍नलिखित में से किस कीबोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options_hi": [
+      "1. Ctrl + X",
+      "2. Ctrl + C",
+      "3. Ctrl + V",
+      "4. Ctrl + P"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "49",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "The ASCII value of a comma character is ________.",
+    "options_en": [
+      "1. 57",
+      "2. 97",
+      "3. 44",
+      "4. 65"
+    ],
+    "question_hi": "Comma character (अल्‍वविराम वर्ण) का ASCII मान क्या होगा?",
+    "options_hi": [
+      "1. 57",
+      "2. 97",
+      "3. 44",
+      "4. 65"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "50",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "The octal equivalent of decimal 10 is ________.",
+    "options_en": [
+      "1. 10",
+      "2. 11",
+      "3. 12",
+      "4. 13"
+    ],
+    "question_hi": "दशमलव संख्या (decimal number) 10 का ऑक्‍टल समतुल्‍य (octal equivalent) क्या होगा?",
+    "options_hi": [
+      "1. 10",
+      "2. 11",
+      "3. 12",
+      "4. 13"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "51",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "The binary equivalent of decimal 10 is _______.",
+    "options_en": [
+      "1. 1100",
+      "2. 1010",
+      "3. 1111",
+      "4. 1011"
+    ],
+    "question_hi": "दशमलव संख्या 10 का बाइनरी समतुल्यांक क्या होगा?",
+    "options_hi": [
+      "1. 1100",
+      "2. 1010",
+      "3. 1111",
+      "4. 1011"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "52",
+    "examDate": "16th March 2025 shift 02",
+    "question_en": "The _______ function in MS-Excel 2019 is used to reverse a value of its argument.",
+    "options_en": [
+      "1. AND",
+      "2. NOT",
+      "3. OR",
+      "4. XOR"
+    ],
+    "question_hi": "MS-Excel 2019 में, __________ फंक्‍शन का उपयोग इसकी आर्गुमेंट वैल्यू को रिवर्स करने के लिए किया जाता है।",
+    "options_hi": [
+      "1. AND",
+      "2. NOT",
+      "3. OR",
+      "4. XOR"
+    ],
+    "answer": 1
+  } 
 ];
 
    
