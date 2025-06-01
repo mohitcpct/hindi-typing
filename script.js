@@ -3931,6 +3931,994 @@ const allQuestions = [
       "4. XOR"
     ],
     "answer": 1
+  },
+     {
+    "questionNumber": "1",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "Which of the following is NOT a type of microcomputer?",
+    "options_en": [
+      "1. Inkjet",
+      "2. Desktop",
+      "3. Laptop",
+      "4. Tablet"
+    ],
+    "question_hi": "निम्न में से कौन सा माइक्रोकंप्यूटर का एक प्रकार नहीं है?",
+    "options_hi": [
+      "1. इंकजेट",
+      "2. डेस्कटॉप",
+      "3. लैपटॉप",
+      "4. टैबलेट"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "2",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "/bin' directory in Linux is related with which of the following types of files?",
+    "options_en": [
+      "1. Executable file",
+      "2. Library file",
+      "3. Device file",
+      "4. Temporary file"
+    ],
+    "question_hi": "लिनक्स (Linux) की '/bin' डायरेक्ट री किस प्रकार की फ़ाइल से संबंधित है?",
+    "options_hi": [
+      "1. एग्जीक्यूटेबल फ़ाइल",
+      "2. लाइब्रेरी फ़ाइल",
+      "3. डिवाइस फ़ाइल",
+      "4. टेम्पररी फ़ाइल"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "3",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "The computer abbreviation TB usually means '_________'.",
+    "options_en": [
+      "1. Tera Byte",
+      "2. Tiny Byte",
+      "3. Tetra Byte",
+      "4. Theta Byte"
+    ],
+    "question_hi": "कंप्यूटर संक्षिप्त नाम TB का अर्थ आमतौर पर '_________' होता है।",
+    "options_hi": [
+      "1. टेरा बाइट (Terabyte)",
+      "2. टिनी बाइट (Tiny Byte)",
+      "3. टेट्रा बाइट (Tetra Byte)",
+      "4. थीटा बाइट (Theta Byte)"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "4",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "Which of the following is NOT an example of a database?",
+    "options_en": [
+      "1. Telephone diary",
+      "2. Presentation created in MS-PowerPoint",
+      "3. Data entered in MS-Excel spread sheet",
+      "4. Data dictionary"
+    ],
+    "question_hi": "निम्नलिखित में से कौन सा डेटाबेस का एक उदाहरण नहीं है?",
+    "options_hi": [
+      "1. टेलिफोन डायरी",
+      "2. MS-PowerPoint में बना प्रेजेंटेशन",
+      "3. MS Excel स्प्रेडशीट में एंटर किया गया डेटा",
+      "4. डेटा डिक्शनरी"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "5",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "Select the hexadecimal color code for green.",
+    "options_en": [
+      "1. #00FF00",
+      "2. #FF0000",
+      "3. #0000FF",
+      "4. #FFFFFF"
+    ],
+    "question_hi": "हरे के लिए हेक्साडेसिमल रंग कोड (कलर कोड) क्या होगा?",
+    "options_hi": [
+      "1. #00FF00",
+      "2. #FF0000",
+      "3. #0000FF",
+      "4. #FFFFFF"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "6",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "What is the decimal equivalent of 3616?",
+    "options_en": [
+      "1. 39",
+      "2. 93",
+      "3. 75",
+      "4. 54"
+    ],
+    "question_hi": "3616 का दशमलव समतुल्य क्या है?",
+    "options_hi": [
+      "1. 39",
+      "2. 93",
+      "3. 75",
+      "4. 54"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "7",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "______ keyboard shortcut is used to display online help in MS-Word 2019.",
+    "options_en": [
+      "1. F5",
+      "2. F4",
+      "3. F2",
+      "4. F1"
+    ],
+    "question_hi": "_____________ कीबोर्ड शॉर्टकट का उपयोग MS-Word 2019 में ऑनलाइन हेल्प को प्रदर्शित करने के लिए किया जाता है।",
+    "options_hi": [
+      "1. F5",
+      "2. F4",
+      "3. F2",
+      "4. F1"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "8",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "What does STP stands for in transmission media?",
+    "options_en": [
+      "1. Shielded Twisted Pair",
+      "2. Shining Twisted Pair",
+      "3. Simple Twisted Pair",
+      "4. Storage Twisted Pair"
+    ],
+    "question_hi": "ट्रांसमिशन मीडिया में STP का पूर्णरूप क्या है?",
+    "options_hi": [
+      "1. Shielded Twisted Pair (शील्डे ड ट्वि स्टेड पेयर)",
+      "2. Shining Twisted Pair (शाइनिंग ट्वि स्टेड पेयर)",
+      "3. Simple Twisted Pair (सिंपल ट्वि स्टेड पेयर)",
+      "4. Storage Twisted Pair (स्टोरेज ट्वि स्टेड पेयर)"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "9",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "Which computer architecture contains separate storage and separate buses (signal path) for instruction and data?",
+    "options_en": [
+      "1. Von Neumann architecture",
+      "2. Harvard architecture",
+      "3. Presper Eckert architecture",
+      "4. Konrad Zuse architecture"
+    ],
+    "question_hi": "किस कंप्यूटर आर्किटेक्चर मेंनिर्देश और डेटा के लिए अलग भंडारण (स्टोरेज) और अलग बसें (सिग्नल पाथ) होती हैं?",
+    "options_hi": [
+      "1. वॉन न्यू मैन आर्किटेक्चर",
+      "2. हार्वर्ड आर्किटेक्चर",
+      "3. प्रेस्पर एकर्ट आर्किटेक्चर",
+      "4. कोनराड ज़ूस आर्किटेक्चर"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "10",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "Which of the following statements is INCORRECT about the sound card?",
+    "options_en": [
+      "1. Sound cards translates digital audio signals to analog ones, and analog audio signals to",
+      "digital ones",
+      "2. Technically, a sound card is an optional component",
+      "3. Sound cards connected to the motherboard via a PCI or PCIe card slot 4. Sound card is connected to the motherboard via USB port"
+    ],
+    "question_hi": "साउंड कार्ड के संबंध में निम्न में से कौन सा कथन गलत है?",
+    "options_hi": [
+      "1. साउंड कार्ड डिजिटल ऑडियो सिग्नल को एनालॉग में और एनालॉग ऑडियो सिग्नल को डिजिटल मेंट्रांसलेट करता है।",
+      "2. तकनीकी रूप से, साउंड कार्ड एक वैकल्पि क घटक है।",
+      "3. साउंड कार्ड PCI या PCIe कार्ड स्लॉट के माध्यम से मदरबोर्ड से जुड़े होते हैं।",
+      "4. साउंड कार्ड USB पोर्ट के माध्यम से मदरबोर्ड से जुड़ा होता है।"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "11",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "______ is NOT a computer monitor.",
+    "options_en": [
+      "1. CRT",
+      "2. LCD",
+      "3. OLED",
+      "4. VGA"
+    ],
+    "question_hi": "निम्न में से कौन सा एक कंप्यूटर मॉनिटर नहीं है?",
+    "options_hi": [
+      "1. CRT",
+      "2. LCD",
+      "3. OLED",
+      "4. VGA"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "12",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "The acoustic tablet, or spark tablet, uses a stylus that generates clicks with a:",
+    "options_en": [
+      "1. spark plug",
+      "2. lighter",
+      "3. electrical signal",
+      "4. electromagnetic current"
+    ],
+    "question_hi": "अकॉस्टिक टैबलेट या स्पार्क टैबलेट में एक शलाका (स्टाइलस) का उपयोग किया जाता है, जो निम्नलिखित में से किसकी मदद से क्लि क्स उत्प न्न करता है?",
+    "options_hi": [
+      "1. स्पार्क प्लग",
+      "2. लाइटर",
+      "3. इलेक्ट्रिकल सिग्नल",
+      "4. विद्युतचुंबकीय धारा"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "13",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "In MS-Excel 2019, which function returns the number of whole workdays between two dates?",
+    "options_en": [
+      "1. NETDAYS.IN",
+      "2. DAYS.TL",
+      "3. WORKDAYS.INTL",
+      "4. NETWORKDAYS.INTL"
+    ],
+    "question_hi": "MS-Excel 2019 में, कौन-सा फ़ंक्शन दो तिथियों के बीच पूरे कार्यदिवसों की संख्या लौटाता है?",
+    "options_hi": [
+      "1. NETDAYS.IN",
+      "2. DAYS.TL",
+      "3. WORKDAYS.INTL",
+      "4. NETWORKDAYS.INTL"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "14",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "In context of signals, PCM stands for?",
+    "options_en": [
+      "1. Point Code Modulation",
+      "2. Pulse Code Mode",
+      "3. Pulse Code Modulation",
+      "4. Pulse Conversion Mode"
+    ],
+    "question_hi": "सिग्नल के संदर्भमें, PCM का मतलब क्या है?",
+    "options_hi": [
+      "1. Point Code Modulation (पॉइंट कोड मॉडुलेशन)",
+      "2. Pulse Code Mode (पल्स कोड मोड)",
+      "3. Pulse Code Modulation (पल्स कोड मॉडुलेशन)",
+      "4. Pulse Conversion Mode (पल्स कन्व र्शन मोड)"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "15",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "Which of the following rates defines the number of times electron beam scans screen in a second?",
+    "options_en": [
+      "1. Refresh",
+      "2. Pixel",
+      "3. Repeat",
+      "4. Transfer"
+    ],
+    "question_hi": "कौन सी दर एक सेकंड में इलेक्ट्रॉन बीम द्वारा स्क्रीन को स्कैन करने की संख्या को परिभाषित करती है?",
+    "options_hi": [
+      "1. रिफ्रेश",
+      "2. पिक्स ल",
+      "3. रिपीट",
+      "4. ट्रांसफर"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "16",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "The _________ service allows you to log on to a remote machine on which you have your account.",
+    "options_en": [
+      "1. Telnet",
+      "2. FTP",
+      "3. VSNL",
+      "4. BSNL"
+    ],
+    "question_hi": "कौन-सी सेवा आपको उस रिमोट मशीन पर लॉग-ऑन करने की अनुमति देती है जिस पर आपका खाता (अकाउंट) है?",
+    "options_hi": [
+      "1. टेलनेट",
+      "2. FTP",
+      "3. VSNL",
+      "4. BSNL"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "17",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "Why does a jumbling (garbled) problem occur in laser printers while printing letters?",
+    "options_en": [
+      "1. The font is old.",
+      "2. The font is unavailable.",
+      "3. The font is language specific.",
+      "4. Incompatibility of printer driver"
+    ],
+    "question_hi": "लेजर प्रिंटर मेंप्रिंटिंग लेटर जम्बलिंग (गरब्ले ड) की समस्या क्यों होती है?",
+    "options_hi": [
+      "1. फॉन्ट पुराना है।",
+      "2. फॉन्ट अनुपलब्ध है।",
+      "3. फॉन्ट भाषा विशिष्ट है।",
+      "4. प्रिंटर ड्राइवर की असंगति"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "18",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "In laser printers, the drum unit transfers _________.",
+    "options_en": [
+      "1. laser to the paper",
+      "2. paper to the toner",
+      "3. ink particles to the paper",
+      "4. paper to the ink"
+    ],
+    "question_hi": "लेजर प्रिंटर में, ड्रम यूनिट _________ स्थानांतरित करता है।",
+    "options_hi": [
+      "1. कागज पर लेजर",
+      "2. पेपर को टोनर पर",
+      "3. कागज पर स्याही के कण",
+      "4. पेपर स्याही में"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "19",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "Which of the following is NOT a hardware?",
+    "options_en": [
+      "1. Gateway",
+      "2. Router",
+      "3. Dispatcher",
+      "4. Modem"
+    ],
+    "question_hi": "निम्न में से कौन-सा, एक हार्डवेयर नहीं है?",
+    "options_hi": [
+      "1. गेटवे",
+      "2. राउटर",
+      "3. डिस्पैचर",
+      "4. मॉडेम"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "20",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "Loudspeakers and microphones are _________.",
+    "options_en": [
+      "1. equalisers",
+      "2. transducers",
+      "3. amplifiers",
+      "4. interpreters"
+    ],
+    "question_hi": "लाउडस्पीकर और माइक्रोफोन क्या हैं?",
+    "options_hi": [
+      "1. इक्व लाइज़र",
+      "2. ट्रांस्ड्यूसर",
+      "3. एम्पलीफायर",
+      "4. इंटरप्रेटर्स"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "21",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "Which of the following is a method to compress and store audio?",
+    "options_en": [
+      "1. MP3 format",
+      "2. MP7 format",
+      "3. MP13 format",
+      "4. MP2 format"
+    ],
+    "question_hi": "निम्नलिखित में से कौन सा ऑडियो को संपीड़ित और संग्रहीत करने की एक विधि है?",
+    "options_hi": [
+      "1. MP3 फॉर्मेट",
+      "2. MP7 फॉर्मेट",
+      "3. MP13 फॉर्मेट",
+      "4. MP2 फॉर्मेट"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "22",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "Lossy compression is the method which ____________ the data.",
+    "options_en": [
+      "1. compress",
+      "2. eliminate",
+      "3. add",
+      "4. decompress"
+    ],
+    "question_hi": "हानिपूर्ण संपीड़न (Lossy compression) वह विधि है जो डेटा को ____________ करती है।",
+    "options_hi": [
+      "1. संपीड़ित करें (compress)",
+      "2. हटाना (eliminate)",
+      "3. जोड़ना (add)",
+      "4. असंपीड़ित करें (decompress)"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "23",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "RSA is named for its inventors ______, ________ and _______.",
+    "options_en": [
+      "1. Rivest, Shamir and Adleman",
+      "2. Rock, Shane and Amozen",
+      "3. Rock, Shamir and Adleman",
+      "4. Rivest, Shane and Amozen"
+    ],
+    "question_hi": "आर.एस.ए (RSA) का नाम इसके आविष्कारकों ______, ________ और _______ के नाम पर रखा गया है।",
+    "options_hi": [
+      "1. Rivest, Shamir and Adleman (रिवेस्ट, शमीर और एडलमैन)",
+      "2. Rock, Shane and Amozen (रॉक, शेन और आमोजेन)",
+      "3. Rock, Shamir and Adleman (रॉक, शमीर और एडलमैन)",
+      "4. Rivest, Shane and Amozen (रिवेस्ट, शेन और आमोजेन)"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "24",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "Data Encryption Standard (DES) is an implementation of a ____ cipher.",
+    "options_en": [
+      "1. Newton",
+      "2. Richard",
+      "3. Feistel",
+      "4. Garry"
+    ],
+    "question_hi": "डेटा एन्क्रिप्शन स्टैण्डर्ड (DES) किसी ______ सिफर (cipher) का एक कार्यान्वयन है।",
+    "options_hi": [
+      "1. न्यूटन",
+      "2. रिचार्ड",
+      "3. फीस्टल",
+      "4. गैरी"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "25",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "Which of the following is display area from which you begin working in Windows XP?",
+    "options_en": [
+      "1. Menu",
+      "2. Icon",
+      "3. Desktop",
+      "4. Pointer"
+    ],
+    "question_hi": "निम्न में से कौन सा डिस्प्ले क्षेत्र है जहाँ से आप Windows XP में काम करना शुरू करते हैं?",
+    "options_hi": [
+      "1. मेन्यू (Menu)",
+      "2. आइकन (Icon)",
+      "3. डेस्कटॉप (Desktop)",
+      "4. पॉइंटर (Pointer)"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "26",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "Random Access Memory (RAM) is a:",
+    "options_en": [
+      "1. volatile memory",
+      "2. read only memory",
+      "3. non-volatile memory",
+      "4. write-only memory"
+    ],
+    "question_hi": "रैंडम एक्से स मेमोरी (RAM) क्या है?",
+    "options_hi": [
+      "1. अस्थिर (Volatile) मेमोरी",
+      "2. रीड ओनली मेमरी",
+      "3. स्थिर (Non volatile) मेमोरी",
+      "4. राईट ओनली मेमोरी"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "27",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "The number of pixels per unit of length on the computer screen is called ______.",
+    "options_en": [
+      "1. resolution",
+      "2. orientation",
+      "3. viewing size",
+      "4. colour combinations"
+    ],
+    "question_hi": "कंप्यूटर स्क्रीन पर लंबाई की प्रति यूनिट पिक्सल की संख्या को ______ कहा जाता है।",
+    "options_hi": [
+      "1. रिजॉल्यूशन",
+      "2. ओरिएंटेशन",
+      "3. व्यूइंग साइज",
+      "4. कलर कॉम्बिनेशन"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "28",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "Services of an operating system can be accessed by the interface provided by:",
+    "options_en": [
+      "1. device driver",
+      "2. system calls",
+      "3. user command",
+      "4. libraries"
+    ],
+    "question_hi": "ऑपरेटिंग सिस्टम की सेवाओं को ______ द्वारा प्रदत्त इंटरफ़ेस की मदद लेकर एक्से स किया जा सकता है।",
+    "options_hi": [
+      "1. डिवाइस ड्राइवर",
+      "2. सिस्टम कॉल",
+      "3. यूज़र कमान्ड",
+      "4. लाइब्रेरी"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "29",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "Which of the following is an file extension of Multiple Network Graphics?",
+    "options_en": [
+      "1. .mn",
+      "2. .mngd",
+      "3. .ng",
+      "4. .mng"
+    ],
+    "question_hi": "निम्नलिखित में से कौन सा मल्टीपल नेटवर्क ग्राफ़िक्स का फ़ाइल एक्सटेंशन है?",
+    "options_hi": [
+      "1. .mn",
+      "2. .mngd",
+      "3. .ng",
+      "4. .mng"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "30",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "What is file extension of device drive file in Windows OS?",
+    "options_en": [
+      "1. .dv",
+      "2. .drv",
+      "3. .dr",
+      "4. .dff"
+    ],
+    "question_hi": "विंडोज़ ओएस में डिवाइस ड्राइव फ़ाइल का फ़ाइल एक्स टेंशन क्या है?",
+    "options_hi": [
+      "1. .dv",
+      "2. .drv",
+      "3. .dr",
+      "4. .dff"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "31",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "Which of the following represents the importance of proper manners and behavior online?",
+    "options_en": [
+      "1. Netiquette",
+      "2. Protocol",
+      "3. Regulation",
+      "4. Etiquette"
+    ],
+    "question_hi": "निम्नलिखित में से कौन ऑनलाइन उचित शिष्टाचार और व्यवहार के महत्व को दर्शाता है?",
+    "options_hi": [
+      "1. नेतिकेट्टे (netiquette)",
+      "2. प्रटोकॉल (protocol)",
+      "3. रेगुलेशन (regulation)",
+      "4. एटिकेट (etiquette)"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "32",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "What is the full form of URL?",
+    "options_en": [
+      "1. Uniform Resource Locator",
+      "2. United Resource Link",
+      "3. Unicast Retrieve Location",
+      "4. Uniform Residence Link"
+    ],
+    "question_hi": "URL का पूर्णरूप क्या है?",
+    "options_hi": [
+      "1. Uniform Resource Locator (यूनिफॉर्मरिसोर्स लोकेटर)",
+      "2. United Resource Link (यूनाइटेड रिसोर्सलिंक)",
+      "3. Unicast Retrieve Location (यूनीकास्ट रिट्रीव लोकेशन)",
+      "4. Uniform Residence Link (यूनीफॉर्म रेसिडेंस लिंक)"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "33",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "______ are separate external files that are sent along with your email message.",
+    "options_en": [
+      "1. Attachments",
+      "2. Parcels",
+      "3. Options",
+      "4. Signatures"
+    ],
+    "question_hi": "उन वाह्य फाइलों को क्या कहा जाता है जो ई-मेल मैसेज के साथ अलग से संलग्न करके भेजी जाती हैं?",
+    "options_hi": [
+      "1. अटैचमेंट्स",
+      "2. पार्सल्स",
+      "3. ऑप्शन्स",
+      "4. सिग्नेचर"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "34",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "The process of copying information to your computer from a specially configured FTP server is called __________.",
+    "options_en": [
+      "1. downloading",
+      "2. uploading",
+      "3. deleting",
+      "4. restoring"
+    ],
+    "question_hi": "विशेष रूप से कॉन्फ़िगर किए गए किसी FTP सर्वर से आपके कंप्यूटर पर किसी इनफार्मेशन को कॉपी करने की प्रक्रिया क्या कहलाती है?",
+    "options_hi": [
+      "1. डाउनलोडिंग",
+      "2. अपलोडिंग",
+      "3. डिलीटिंग",
+      "4. रिस्टोरिंग"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "35",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "_____are the end devices that convert the user information into signals or reconvert the received signals.",
+    "options_en": [
+      "1. DTEs",
+      "2. DCEs",
+      "3. Switch",
+      "4. Router4"
+    ],
+    "question_hi": "______ वह अंत्य उपकरण (end devices) हैं जो उपयोगकर्ताकी जानकारी को संकेतों (signals) में परिवर्तित करते हैं या प्राप्त संकेतों (signals) को पुन: मूल में परिवर्तित करते हैं।",
+    "options_hi": [
+      "1. DTEs",
+      "2. DCEs",
+                 "3. स्विच",
+                  "4. राउटर"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "36",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "In which of the following modes does the existing text NOT move to the right when you type new text in an MS-Word document?",
+    "options_en": [
+      "1. Insert",
+      "2. Overtype",
+      "3. Edit",
+      "4. Select"
+    ],
+    "question_hi": "MS Word डॉक्यूमेंट में नया टेक्स्ट लिखते समय निम्न में से कौन सा मोड ऑन होने पर मौजूदा टेक्स्ट दायीं ओर नहीं हटता है?",
+    "options_hi": [
+      "1. इन्सर्ट",
+      "2. ओवरटाइप",
+      "3. एडिट",
+      "4. सेलेक्ट"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "37",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "Every web site has a unique address, called '_____'.",
+    "options_en": [
+      "1. Hyperlink",
+      "2. Uniform Resource Locator",
+      "3. HTTP",
+      "4. Map"
+    ],
+    "question_hi": "प्रत्येक वेब साइट का यूनिक एड्रेस होता है, जिसे \"_________\" कहा जाता है।",
+    "options_hi": [
+      "1. हाइपरलिंक (Hyperlink)",
+      "2. यूनिफ़ॉर्मरिसोर्स लोकेटर (Uniform Resource Locator)",
+      "3. HTTP",
+      "4. मैप (Map)"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "38",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "In MS-Excel 2019, which keyboard shortcut is used to go to the Formula tab?",
+    "options_en": [
+      "1. Alt+F",
+      "2. Alt+M",
+      "3. Shift+F",
+      "4. Ctrl+M"
+    ],
+    "question_hi": "MS-Excel 2019 में, फॉर्मूला टैब पर जाने के लिए किस कीबोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options_hi": [
+      "1. Alt+F",
+      "2. Alt+M",
+      "3. Shift+F",
+      "4. Ctrl+M"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "39",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "Which of the following scanners is used by the user to make payment in BHIM Aadhar Pay?",
+    "options_en": [
+      "1. CT",
+      "2. MRI",
+      "3. Fingerprint",
+      "4. Ultra"
+    ],
+    "question_hi": "उपयोगकर्ता द्वारा भीम (BHIM) आधार पे में भुगतान करने के लिए निम्न में से किस स्कैनर का प्रयोग किया जाता है?",
+    "options_hi": [
+      "1. CT",
+      "2. MRI",
+      "3. फिंगरप्रिंट",
+      "4. अल्ट्रा"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "40",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "The '_________' is a decentralised network of millions of computers and computer networks.",
+    "options_en": [
+      "1. internet",
+      "2. LAN",
+      "3. MAN",
+      "4. intranet"
+    ],
+    "question_hi": "\"_________\" लाखों कंप्यूटरों और कंप्यूटर नेटवर्कों का एक विकेंद्रीकृत नेटवर्क है।",
+    "options_hi": [
+      "1. इंटरनेट",
+      "2. LAN",
+      "3. MAN",
+      "4. इंट्रानेट"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "41",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "In MS-Word 2019, the keyboard shortcut SHIFT + F3 is capable of performing ______ operations simultaneously.",
+    "options_en": [
+      "1. five",
+      "2. two",
+      "3. three",
+      "4. four"
+    ],
+    "question_hi": "MS Word 2019 में, कीबोर्ड शॉर्टकट SHIFT + F3 एक साथ ______ संक्रियाओं को करने में सक्षम है।",
+    "options_hi": [
+      "1. पांच",
+      "2. दो",
+      "3. तीन",
+      "4. चार"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "42",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "What is the use of the 'spacebar' key in word documents?",
+    "options_en": [
+      "1. To Insert random number of blank area in the document",
+      "2. To insert a horizontal line in the document",
+      "3. To insert line spacing in paragraphs",
+      "4. To insert a space character that separates words, sentences etc."
+    ],
+    "question_hi": "वर्ड डॉक्यू मेंट में 'स्पेसबार' का उपयोग किसलिए होता है?",
+    "options_hi": [
+      "1. रिक्त स्थान की कोई काल्प निक संख्या डॉक्यूमेंट में इंसर्ट करने के लिए",
+      "2. डॉक्यूमेंट में एक क्षैतिज रेखा इंसर्ट करने के लिए",
+      "3. पैराग्राफ में लाइनों के बीच अंतराल देने के लिए",
+      "4. एक स्पेस कैरेक्ट र डालना जो शब्दों , वाक्यों आदि को अलग करता हो।"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "43",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "IPv6 was developed by?",
+    "options_en": [
+      "1. IETF",
+      "2. ISI",
+      "3. ARPANET",
+      "4. OSI"
+    ],
+    "question_hi": "IPv6 किसके द्वारा विकसित किया गया था?",
+    "options_hi": [
+      "1. IETF",
+      "2. ISI",
+      "3. ARPANET",
+      "4. OSI"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "44",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "What is the area covered in a Metropolitan Area Network?",
+    "options_en": [
+      "1. Up to 10 m",
+      "2. Up to 10 km",
+      "3. Up to 50 km",
+      "4. Up to 200 km"
+    ],
+    "question_hi": "मेट्रोपोलिटन एरिया नेटवर्क कितने क्षेत्र में काम कर सकता है?",
+    "options_hi": [
+      "1. 10 m तक",
+      "2. 10 km तक",
+      "3. 50 km तक",
+      "4. 200 km तक"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "45",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "Which of the following is used in general as localhost IP address in networking systems?",
+    "options_en": [
+      "1. 0.0.0.127",
+      "2. 1.0.0.127",
+      "3. 127.0.0.0",
+      "4. 127.0.0.1"
+    ],
+    "question_hi": "निम्नलिखित में से किसका उपयोग सामान्यतः नेटवर्किंग सिस्टम में लोकलहोस्ट आईपी एड्रेस के रूप में किया जाता है?",
+    "options_hi": [
+      "1. 0.0.0.127",
+      "2. 1.0.0.127",
+      "3. 127.0.0.0",
+      "4. 127.0.0.1"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "46",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "_______ is a utility that helps one to check if a particular IP address is accessible or not.",
+    "options_en": [
+      "1. Ping",
+      "2. Traceroute",
+      "3. WWW",
+      "4. Route"
+    ],
+    "question_hi": "_______ एक यूटिलिटी है जो यह जांचने में मदद करती है कि कोई विशेष IP एड्रेस एक्सेस योग्य है या नहीं।",
+    "options_hi": [
+      "1. पिंग (ping)",
+      "2. ट्रेसरूट (traceroute)",
+      "3. www",
+      "4. राऊट (route)"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "47",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "In MS-Word 2019, which keyboard shortcut is used to justify the paragraph?",
+    "options_en": [
+      "1. Alt+J",
+      "2. Ctrl+J",
+      "3. Shift+J",
+      "4. Fn+J"
+    ],
+    "question_hi": "MS-Word 2019 में पैराग्राफ को जस्टिफाई (Justify) करने के लिए किस कीबोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options_hi": [
+      "1. Alt+J",
+      "2. Ctrl+J",
+      "3. Shift+J",
+      "4. Fn+J"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "48",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "In which of the following groups of Home tab in MS-Word 2019 will you find the option to change the alignment to 'justified'?",
+    "options_en": [
+      "1. Paragraph",
+      "2. Clipboard",
+      "3. Font",
+      "4. Styles"
+    ],
+    "question_hi": "MS-Word 2019 में होम टैब के निम्नलिखित में से किस समूह में आपको संरेखण को 'जस्टिफ़ाइड' में बदलने का विकल्प मिलेगा?",
+    "options_hi": [
+      "1. पैराग्राफ में",
+      "2. क्लि पबोर्ड में",
+      "3. फॉन्ट में",
+      "4. स्टाइल्स में"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "49",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "Which of the following commands is used to delete Header or Footer from the first page MS-Word 2019?",
+    "options_en": [
+      "1. Link to previous",
+      "2. Next section",
+      "3. Quick parts",
+      "4. Different first page"
+    ],
+    "question_hi": "MS-Word 2019 पहले पेज से हेडर या फुटर डिलीट करने के लिए निम्न में से किस कमांड का उपयोग किया जाता है?",
+    "options_hi": [
+      "1. लिंक टूप्रीवियस",
+      "2. नेक्स्ट सेक्शन",
+      "3. क्वि क पार्ट्स",
+      "4. डिफरेंट फर्स्ट पेज"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "50",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "To delete electronic postage in the envelope in mail merge, ______ checkbox has to be cleared in MS-Word 2019.",
+    "options_en": [
+      "1. postage",
+      "2. add electronic postage",
+      "3. electronic stamps",
+      "4. postage stamps"
+    ],
+    "question_hi": "मेल मर्ज के एन्व लप से इलेक्ट्रॉनिक पोस्टेज हटाने के लिए MS-Word 2019 में, निम्न में से किस चेकबॉक्स को क्लि यर करना आवश्यक होता है?",
+    "options_hi": [
+      "1. पोस्टेज",
+      "2. ऐड इलेक्ट्रॉनिक पोस्टेज",
+      "3. इलेक्ट्रॉनिक स्टैम्प्स",
+      "4. पोस्टेज स्टैम्प्स"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "51",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "Which of the following internet service allows the internet users to talk across internet to any PC equipped to receive the call?",
+    "options_en": [
+      "1. Instant Messaging",
+      "2. Internet Telephony (VoIP)",
+      "3. Mailing Lists",
+      "4. Internet Relay Chat (IRC)"
+    ],
+    "question_hi": "निम्नलिखित में से कौन सी इंटरनेट सेवा इंटरनेट उपयोगकर्ताओं को कॉल प्राप्त करने के लिए सुसज्जित किसी भी पीसी पर इंटरनेट पर बात करने की अनुमति देती है?",
+    "options_hi": [
+      "1. इंस्टेंट मेसेजिंग (Instant Messaging)",
+      "2. इंटरनेट टेलीफोनी (VoIP) (Internet Telephony (VoIP))",
+      "3. ईमेल की सूची (mailing list)",
+      "4. इंटरनेट रिले चैट (आईआरसी) (Internet Relay Chat (IRC))"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "52",
+    "examDate": "28th January 2024 shift 01",
+    "question_en": "Snapdragon processor is developed by which of the following companies?",
+    "options_en": [
+      "1. Qualcomm",
+      "2. Apple",
+      "3. HP",
+      "4. Intel"
+    ],
+    "question_hi": "स्नैपड्रैगन प्रोसेसर का निर्माण निम्न में से किस कंपनी के द्वारा किया गया था?",
+    "options_hi": [
+      "1. क्वालकॉम (Qualcomm)",
+      "2. एप्पल (Apple)",
+      "3. एच.पी (HP)",
+      "4. इंटेल (Intel)"
+    ],
+    "answer": 0
   } 
 ];
 
