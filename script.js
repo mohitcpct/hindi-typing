@@ -7883,6 +7883,994 @@ const allQuestions = [
       "4. .xlss"
     ],
     "answer": 0
+  },
+      {
+    "questionNumber": "1",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "In Microsoft Windows, when you point to a button, its function will display in a ______.",
+    "options_en": [
+      "1. Screen Alert",
+      "2. ScreenTip",
+      "3. Screen Bar",
+      "4. Screen List"
+    ],
+    "question_hi": "Microsoft Windows में, जब आप किसी बटन पर पॉइंट करते हैं, तो इसके फंक्शन _________ में प्रदर्शित होते हैं।",
+    "options_hi": [
+      "1. स्क्रीन अलर्ट",
+      "2. स्क्रीन टिप",
+      "3. स्क्रीन बार",
+      "4. स्क्रीन लिस्ट"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "2",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "Which of the following is the fastest memory?",
+    "options_en": [
+      "1. Secondary memory",
+      "2. Auxiliary memory",
+      "3. Cache memory",
+      "4. Virtual memory"
+    ],
+    "question_hi": "निम्न में से कौन सी सबसे तेज मेमोरी है?",
+    "options_hi": [
+      "1. माध्यमिक मेमोरी (Secondary memory)",
+      "2. सहायक मेमोरी (Auxiliary memory)",
+      "3. कैश मेमोरी (Cache memory)",
+      "4. वर्चुअल मेमोरी (Virtual memory)"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "3",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "______ is/are used to control and coordinate computers that are networked or linked together.",
+    "options_en": [
+      "1. Application software",
+      "2. Network operating systems (NOS)",
+      "3. Embedded operating systems",
+      "4. Stand-alone operating systems"
+    ],
+    "question_hi": "____________ का उपयोग उन कंप्यूटरों को नियंत्रित करने और समन्वित करने के लिए किया जाता है जिनको आपस में नेटवर्क या लिंक किया गया हो।",
+    "options_hi": [
+      "1. एप्लिकेशन सॉफ्टवेयर",
+      "2. नेटवर्क ऑपरेटिंग सिस्टम (NOS)",
+      "3. एंबेडेड ऑपरेटिंग सिस्टम",
+      "4. स्टैंड-अलोन ऑपरेटिंग सिस्टम्स"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "4",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "In Computer Science, when two pieces of data are compared to see whether one is equal to (=),\n less than (<), or greater than (>) the other, it is a:",
+    "options_en": [
+      "1. graphic operation",
+      "2. logical operation",
+      "3. arithmetic operation",
+      "4. relational operation"
+    ],
+    "question_hi": "कंप्यूटर विज्ञान में, जब किसी डेटा के दो अंशों की तुलना यह देखने के लिए की जाती है कि उनमें से कौन एक दूसरे के बराबर (=), से कम (<), या से अधिक (>) है, तो यह क्या कहलाता है?",
+    "options_hi": [
+      "1. ग्राफ़िक ऑपरेशन",
+      "2. लॉजिकल ऑपरेशन",
+      "3. अरिथमेटिक ऑपरेशन",
+      "4. रिलेशनल ऑपरेशन"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "5",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "Which of following is responsible for all major activities of Linux operating system?",
+    "options_en": [
+      "1. Shell",
+      "2. System library",
+      "3. Compiler",
+      "4. Kernel"
+    ],
+    "question_hi": "निम्न में से कौन सा घटक लिनक्स ऑपरेटिंग सिस्टम की सभी प्रमुख गतिविधियों के लिए उत्तरदायी है?",
+    "options_hi": [
+      "1. शेल्",
+      "2. सिस्टम लाइब्रेरी",
+      "3. कंपाइलर",
+      "4. कर्नेल"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "6",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "By using which tab can you add OLE object in an OpenOffice writer?",
+    "options_en": [
+      "1. View",
+      "2. Insert",
+      "3. Edit",
+      "4. File"
+    ],
+    "question_hi": "आप किस टैब का उपयोग करके ओपनऑफिस राइटर में OLE ऑब्जेक्ट जोड़ सकते हैं?",
+    "options_hi": [
+      "1. व्यू",
+      "2. इंसर्ट",
+      "3. एडिट",
+      "4. फ़ाइल"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "7",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "Magnetic Ink Character Recognition is often used for:",
+    "options_en": [
+      "1. photographs",
+      "2. barcodes",
+      "3. bank cheques",
+      "4. medical reports"
+    ],
+    "question_hi": "मैग्नेटिक इंक करैक्टर रिकग्निशन (MICR) का उपयोग प्रायः ________ में किया जाता है।",
+    "options_hi": [
+      "1. फोटोग्राफ्स",
+      "2. बारकोड्स",
+      "3. बैंक चेक",
+      "4. मेडिकल रिपोर्ट्स"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "8",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "Which of the following is the amount of time it takes the computer processor to read data from the memory?",
+    "options_en": [
+      "1. Memory access time",
+      "2. Roundtrip time",
+      "3. Turnaround time",
+      "4. Througput"
+    ],
+    "question_hi": "निम्नलिखित में से कौन सा समय कंप्यूटर प्रोसेसर को मेमोरी से डेटा को पढ़ने में लगने वाला समय है?",
+    "options_hi": [
+      "1. मेमोरी एक्सेस टाइम",
+      "2. राउंड ट्रिप समय",
+      "3. टर्न अराउंड टाइम",
+      "4. थ्रोपुट"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "9",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "A permanent memory that stores data and instruction to start-up the computer and does NOT erase data after power-off, is called:",
+    "options_en": [
+      "1. network interface card",
+      "2. CPU",
+      "3. RAM",
+      "4. ROM"
+    ],
+    "question_hi": "वह स्थायी मेमरी, जो कंप्यूटर के संचालन के लिए आवश्यक निर्देशों का संग्रहण करती है और कंप्यूटर के बंद होने पर भी डेटा को मिटाने नहीं देती है, क्या कहलाती है?",
+    "options_hi": [
+      "1. नेटवर्क इंटरफेस कार्ड",
+      "2. सीपीयू (CPU)",
+      "3. रैम (RAM)",
+      "4. रोम (ROM)"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "10",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "Which of the following commands, when typed into the Start search box, is used to open Registry Editor in Windows 10?",
+    "options_en": [
+      "1. reseditor",
+      "2. registry.edit",
+      "3. registryeditor",
+      "4. regedit"
+    ],
+    "question_hi": "Windows 10 में, स्टार्ट सर्च बॉक्स में निम्न में से किस कमांड को टाइप करने से रजिस्ट्री एडिटर खुल जाता है?",
+    "options_hi": [
+      "1. reseditor",
+      "2. registry.edit",
+      "3. registryeditor",
+      "4. regedit"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "11",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "______ is an example of Electro photographic printer.",
+    "options_en": [
+      "1. Laser",
+      "2. Dot-matrix",
+      "3. Inkjet",
+      "4. Daisywheel"
+    ],
+    "question_hi": "_________ इलेक्ट्रो फोटोग्राफिक प्रिंटर का एक उदाहरण है।",
+    "options_hi": [
+      "1. लेज़र",
+      "2. डॉट मैट्रिक्स",
+      "3. इंकजेट",
+      "4. डेज़ीव्हील"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "12",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "Which of the following does NOT represent a barcode reader type?",
+    "options_en": [
+      "1. Camera-based readers",
+      "2. Biometric scanners",
+      "3. Video camera readers",
+      "4. Large field-of-view readers"
+    ],
+    "question_hi": "निम्नलिखित में से कौन सा बारकोड रीडर का एक प्रकार नहीं है?",
+    "options_hi": [
+      "1. कैमरा-आधारित रीडर",
+      "2. बायोमेट्रिक स्कैनर",
+      "3. वीडियो कैमरा रीडर",
+      "4. लार्ज फील्ड-ऑफ-व्यू रीडर"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "13",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "Which of the following is a method that refers to fooling a biometric identity management system, where a counterfeit mold is presented in front of the biometric scanner?",
+    "options_en": [
+      "1. Biometric cloning",
+      "2. Biometric hazards",
+      "3. Biometric spoofing",
+      "4. Biometric hacking"
+    ],
+    "question_hi": "निम्नलिखित में से कौन सा कृत्य बायोमेट्रिक पहचान प्रबंधन प्रणाली को चकमा देने से संबंधित है, इसके लिए बायोमेट्रिक स्कैनर के सामने एक नकली ढांचा रखा जाता है?",
+    "options_hi": [
+      "1. बायोमेट्रिक क्लोनिंग",
+      "2. बायोमेट्रिक हैजार्ड",
+      "3. बायोमेट्रिक स्पूफिंग",
+      "4. बायोमेट्रिक हैकिंग"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "14",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "In MS-PowerPoint, ___________ is used to customize how your presentation will look as a printed handout?",
+    "options_en": [
+      "1. Handout Master",
+      "2. Slide Master",
+      "3. Notes Master",
+      "4. Reading View"
+    ],
+    "question_hi": "MS-PowerPoint में, ___________ का उपयोग यह अनुकूलित करने के लिए किया जाता है कि आपकी प्रस्तुति मुद्रित हैंडआउट ( Printed Handout) के रूप में कैसी दिखेगी?",
+    "options_hi": [
+      "1. हैंड-आउट मास्टर",
+      "2. स्लाइड मास्टर",
+      "3. नोट्स मास्टर",
+      "4. रीडिंग व्यू"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "15",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "What is the data transfer rate of USB 2.0 at a high speed mode?",
+    "options_en": [
+      "1. 450 mbps",
+      "2. 480 mbps",
+      "3. 400 mbps",
+      "4. 680 mbps"
+    ],
+    "question_hi": "हाई स्पीड मोड में USB 2.0 की डेटा अंतरण दर क्या होती है?",
+    "options_hi": [
+      "1. 450 mbps",
+      "2. 480 mbps",
+      "3. 400 mbps",
+      "4. 680 mbps"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "16",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "________ assigns IP addresses to the client connected to the internet.",
+    "options_en": [
+      "1. Dynamic Host Configuration Protocol (DHCP)",
+      "2. Address Resolution Protocol (ARP)",
+      "3. Internet Protocol (IP)",
+      "4. Remote Procedure Call (RPC)"
+    ],
+    "question_hi": "निम्न में से कौन सा प्रोटोकॉल इंटरनेट से जुड़े यूज़र्स को IP एड्रेस प्रदान करता है?",
+    "options_hi": [
+      "1. डायनमिक होस्ट कॉन्फ़िगरेशन प्रोटोकॉल (DHCP)",
+      "2. एड्रेस रिज़ॉल्यूशन प्रोटोकॉल (ARP)",
+      "3. इंटरनेट प्रोटोकॉल (IP)",
+      "4. रिमोट प्रोसीज़र कॉल (RPC)"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "17",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "In Microsoft PowerPoint, to delete a placeholder, click the border of the placeholder and then press _________.",
+    "options_en": [
+      "1. Enter",
+      "2. Delete",
+      "3. Shift",
+      "4. Ctrl"
+    ],
+    "question_hi": "Microsoft PowerPoint में, प्लेसहोल्डर को डिलीट करने के लिए, प्लेसहोल्डर के बॉर्डर पर क्लिक करके _________ बटन दबाना चाहिए।",
+    "options_hi": [
+      "1. Enter",
+      "2. Delete",
+      "3. Shift",
+      "4. Ctrl"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "18",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "What is the full form of AIO printer?",
+    "options_en": [
+      "1. Alternate Input Output",
+      "2. Active Ink Output",
+      "3. All Ink Output",
+      "4. All In One"
+    ],
+    "question_hi": "AIO प्रिंटर का पूर्णरूप क्या है?",
+    "options_hi": [
+      "1. Alternate Input and Output (अल्टरनेट इनपुट एंड आउटपुट)",
+      "2. Active Ink Output (एक्टिव इंक आउटपुट)",
+      "3. All Ink Output (आल इंक आउटपुट)",
+      "4. All In One (आल इन वन)"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "19",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "The initial name of the PowerPoint software program is -",
+    "options_en": [
+      "1. Demonstrator",
+      "2. Presenter",
+      "3. Transistor",
+      "4. Animator"
+    ],
+    "question_hi": "पॉवरपॉइंट सॉफ्टवेयर प्रोग्राम का प्रारंभिक नाम है -",
+    "options_hi": [
+      "1. प्रदर्शक ( Demonstrator)",
+      "2. प्रस्तुतकर्ता (Presenter)",
+      "3. ट्रांजिस्टर (Transistor)",
+      "4. एनिमेटर (Animator)"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "20",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "In HTML, _______ attribute adds audio controls, like play, pause and volume.",
+    "options_en": [
+      "1. src",
+      "2. audio",
+      "3. source",
+      "4. controls"
+    ],
+    "question_hi": "HTML में, प्ले, पॉज़ और वॉल्यूम जैसे ऑडियो नियंत्रण _______ द्वारा जोड़े जाते हैं।",
+    "options_hi": [
+      "1. Src",
+      "2. ऑडियो",
+      "3. सोर्स",
+      "4. कंट्रोल्स"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "21",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "To end the slide show in a PowerPoint presentation, press _______ key from the keyboard.",
+    "options_en": [
+      "1. Enter",
+      "2. Esc",
+      "3. Shift",
+      "4. Delete"
+    ],
+    "question_hi": "PowerPoint प्रेजेंटेशन में स्लाइड शो को समाप्त करने के लिए, की-बोर्ड से ________ की दबानी चाहिए।",
+    "options_hi": [
+      "1. Enter",
+      "2. Esc",
+      "3. Shift",
+      "4. Delete"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "22",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "______ images can be easily converted to ______ images.",
+    "options_en": [
+      "1. Vector, raster",
+      "2. Vector, faster",
+      "3. Raster, vector",
+      "4. Raster, faster"
+    ],
+    "question_hi": "____ इमेजों को आसानी से ____ इमेजों में परिवर्तित किया जा सकता है।",
+    "options_hi": [
+      "1. वेक्टर, रास्टर",
+      "2. वेक्टर, फास्टर",
+      "3. रास्टर, वेक्टर",
+      "4. रास्टर, फास्टर"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "23",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "The _______ is the physical component that make up your computer system.",
+    "options_en": [
+      "1. hardware",
+      "2. operating system",
+      "3. software",
+      "4. device driver"
+    ],
+    "question_hi": "कंप्यूटर सिस्टम को निर्मित करने वाले भौतिक घटक क्या कहलाते हैं?",
+    "options_hi": [
+      "1. हार्डवेयर",
+      "2. ऑपरेटिंग सिस्टम",
+      "3. सॉफ्टवेयर",
+      "4. डिवाइस ड्राइवर"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "24",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "The Windows operating system was developed by ________.",
+    "options_en": [
+      "1. Apple",
+      "2. Microsoft Corporation",
+      "3. Windows",
+      "4. Google"
+    ],
+    "question_hi": "Windows ऑपरेटिंग सिस्टम __________ द्वारा विकसित किया गया था।",
+    "options_hi": [
+      "1. Apple",
+      "2. Microsoft Corporation",
+      "3. Windows",
+      "4. Google"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "25",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "_______ is an audio signal given out by a computer to announce the result of a short diagnostic testing sequence the computer performs when first powering up called the Power-On-Self-Test or POST.",
+    "options_en": [
+      "1. A beep code",
+      "2. A hamming code",
+      "3. A hamming noise",
+      "4. A noise"
+    ],
+    "question_hi": "कंप्यूटर को पहली बार पॉवर अप करने पर किए गए एक छोटे नैदानिक परीक्षण अनुक्रम जिसे पॉवर-ऑन-सेल्फ-टेस्ट या POST कहा जाता है, की घोषणा करने वाले ऑडियो सिग्नल को __________ कहा जाता है।",
+    "options_hi": [
+      "1. बीप कोड",
+      "2. हैमिंग कोड",
+      "3. हैमिंग शोर",
+      "4. शोर"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "26",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "Earcons are related to ________.",
+    "options_en": [
+      "1. pictures",
+      "2. audio/sound",
+      "3. files",
+      "4. folders"
+    ],
+    "question_hi": "earcons' किससे संबंधित है?",
+    "options_hi": [
+      "1. चित्र",
+      "2. ऑडियो / ध्वनि",
+      "3. फाइल",
+      "4. फोल्डर"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "27",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "A ________ is a special function/command that a program uses to communicate with the kernel of the operating system.",
+    "options_en": [
+      "1. user program",
+      "2. system program",
+      "3. system call",
+      "4. shell"
+    ],
+    "question_hi": "________ एक विशेष फ़ंक्शन/कमांड है, जिसका उपयोग प्रोग्राम द्वारा ऑपरेटिंग सिस्टम के कर्नेल के साथ संचार करने के लिए किया जाता है।",
+    "options_hi": [
+      "1. यूज़र प्रोग्राम",
+      "2. सिस्टम प्रोग्राम",
+      "3. सिस्टम कॉल",
+      "4. शेल"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "28",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "The system partition is the _______ partition that is used as the active boot partition.",
+    "options_en": [
+      "1. primary",
+      "2. secondary",
+      "3. extended",
+      "4. basic"
+    ],
+    "question_hi": "सिस्टम पार्टीशन एक________पार्टीशन है, जिसका उपयोग सक्रिय बूट विभाजन के रूप में किया जाता है।",
+    "options_hi": [
+      "1. प्राथमिक",
+      "2. द्वितीयक",
+      "3. विस्तारित",
+      "4. आधारिक"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "29",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "A file with the ______ file extension is a Windows Registry file.",
+    "options_en": [
+      "1. .reg",
+      "2. .rga",
+      "3. .rge",
+      "4. .rag"
+    ],
+    "question_hi": "______ फाइल एक्सटेंशन वाली फाइल, विंडोज रजिस्ट्री फाइल होती है।",
+    "options_hi": [
+      "1. .reg",
+      "2. .rga",
+      "3. .rge",
+      "4. .rag"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "30",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "Which of the following is NOT an example of a multi-user operating system?",
+    "options_en": [
+      "1. Windows XP",
+      "2. Linux",
+      "3. Windows 7",
+      "4. MS-DOS"
+    ],
+    "question_hi": "निम्नलिखित में से कौन सा मल्टी-यूजर ऑपरेटिंग सिस्टम का एक उदाहरण नहीं है?",
+    "options_hi": [
+      "1. Windows XP",
+      "2. Linux",
+      "3. Windows 7",
+      "4. MS-DOS"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "31",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "The World Wide Web is composed of:",
+    "options_en": [
+      "1. 1 page",
+      "2. only 100 web pages",
+      "3. only 500 web pages",
+      "4. millions of web pages"
+    ],
+    "question_hi": "वर्ल्ड वाइड वेब में _____________ शामिल हैं।",
+    "options_hi": [
+      "1. 1 पेज",
+      "2. केवल 100 वेब पेज",
+      "3. केवल 500 वेब पेज",
+      "4. लाखों वेब पेज"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "32",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "While sending a file or message on the internet, it is divided into very small parts known as:",
+    "options_en": [
+      "1. point",
+      "2. particle",
+      "3. pin",
+      "4. packet"
+    ],
+    "question_hi": "इंटरनेट पर फ़ाइल या संदेश भेजते समय, इसे बहुत छोटे भागों में विभाजित किया जाता है, जिन्हें __________ कहा जाता है।",
+    "options_hi": [
+      "1. पॉइन्ट",
+      "2. पार्टिकल",
+      "3. पिन",
+      "4. पैकेट"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "33",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "Electronic commerce involving individuals selling to individuals is known as ______.",
+    "options_en": [
+      "1. B2B",
+      "2. C2C",
+      "3. A2C",
+      "4. B2A"
+    ],
+    "question_hi": "इलेक्ट्रॉनिक कॉमर्स, जिसमें बिक्री एक व्यक्ति द्वारा दूसरे व्यक्ति को की जाती है, उसे _________के रूप में जाना जाता है।",
+    "options_hi": [
+      "1. B2B",
+      "2. C2C",
+      "3. A2C",
+      "4. B2A"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "34",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "Which of the following is NOT a means of personal communication on the internet?",
+    "options_en": [
+      "1. Chat",
+      "2. Instant messaging",
+      "3. Instanote",
+      "4. Electronic mail"
+    ],
+    "question_hi": "निम्न में से क्या इंटरनेट के माध्यम से व्यक्तिगत संचार का साधन नहीं है?",
+    "options_hi": [
+      "1. चैट",
+      "2. इंस्टेंट मैसेजिंग",
+      "3. इंस्टानोट",
+      "4. इलेक्ट्रॉनिक मेल"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "35",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "In MS-Word, which of the following type of margin is used to add extra space to different margins of a document if you plan to bind it.",
+    "options_en": [
+      "1. Portrait",
+      "2. Gutter",
+      "3. A4",
+      "4. Next Page"
+    ],
+    "question_hi": "MS-Word में, यदि आप किसी दस्तावेज़ को बाइंड करने की योजना बनाते हैं, तो निम्न में से किस प्रकार के मार्जिन का उपयोग किसी दस्तावेज़ के विभिन्न मार्जिन में अतिरिक्त स्थान जोड़ने के लिए किया जाता है।",
+    "options_hi": [
+      "1. पोर्ट्रेट",
+      "2. गटर",
+  "3. A4",
+      "4. नेक्स्ट पेज"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "36",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "In MS-Word, we can change the capitalisation of selected text in a document by clicking a single button on the Home tab called ______.",
+    "options_en": [
+      "1. Change Case",
+      "2. Grow Font",
+      "3. Shrink Font",
+      "4. Case Change"
+    ],
+    "question_hi": "MS-Word में, किसी डॉक्यूमेंट के चयनित टेक्स्ट के कैपिटलाइज़ेशन को बदलने के लिए होम टैब के ______ नामक एक बटन पर क्लिक करना होता है।",
+    "options_hi": [
+      "1. चेंज केस",
+      "2. ग्रो फ़ॉन्ट",
+      "3. श्रिंक फ़ॉन्ट",
+      "4. केस चेंज"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "37",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "Which section break can change the number of columns without starting a new page?",
+    "options_en": [
+      "1. Next page",
+      "2. Continuous",
+      "3. Even page",
+      "4. Odd page"
+    ],
+    "question_hi": "कौन सा सेक्शन ब्रेक नया पेज शुरू किए बिना ही कॉलम्स की संख्या परिवर्तित कर सकता है?",
+    "options_hi": [
+      "1. नेक्स्ट पेज",
+      "2. कंटीन्यूअस",
+      "3. इवेन पेज",
+      "4. ऑड पेज"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "38",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "What is the most common extension for fonts?",
+    "options_en": [
+      "1. .ttf",
+      "2. .exe",
+      "3. .rtf",
+      "4. .pdf"
+    ],
+    "question_hi": "फ़ॉन्ट के लिए सामान्यतः प्रयुक्त एक्सटेंशन निम्न में से कौन सा है?",
+    "options_hi": [
+      "1. .ttf",
+      "2. .exe",
+      "3. .rtf",
+      "4. .pdf"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "39",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "ASCII stands for:",
+    "options_en": [
+      "1. American Stable Code for International Interchange",
+      "2. American Standard Code for Institutional Interchange",
+      "3. American Standard Code for Information Interchange",
+      "4. American Standard Code for Interchange Information"
+    ],
+    "question_hi": "ASCII का पूर्ण रूप क्या है?",
+    "options_hi": [
+      "1. American stable code for international interchange (अमेरिकन स्टेबल कोड फॉर इंटरनेशनल इंटरचेंज)",
+      "2. American standard code for institutional interchange (अमेरिकन स्टैण्डर्ड कोड फॉर इंस्टिट्यूशनल इंटरचेंज)",
+      "3. American standard code for information interchange (अमेरिकन स्टैण्डर्ड कोड फॉर इनफार्मेशन इंटरचेंज)",
+      "4. American standard code for interchange information (अमेरिकन स्टैण्डर्ड कोड फॉर इंटरचेंज इनफार्मेशन)"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "40",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "ISP stands for:",
+    "options_en": [
+      "1. Internet Service Provider",
+      "2. Internet Self Provider",
+      "3. Internet Service Provide",
+      "4. Internet Start Provider"
+    ],
+    "question_hi": "ISP का पूरा रूप क्या है?",
+    "options_hi": [
+      "1. Internet Service Provider (इंटरनेट सर्विस प्रोवाइडर)",
+      "2. Internet Self Provider (इंटरनेट सेल्फ प्रोवाइडर)",
+      "3. Internet Service Provide (इंटरनेट सर्विस प्रोवाइड)",
+      "4. Internet Start Provider (इंटरनेट स्टार्ट प्रोवाइडर)"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "41",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "Select the correct shortcut key to close the active document in MS-Word.",
+    "options_en": [
+      "1. Ctrl+F3",
+      "2. Ctrl+F4",
+      "3. Ctrl+F5",
+      "4. Ctrl+F6"
+    ],
+    "question_hi": "MS-Word के सक्रिय डॉक्यूमेंट को बंद करने के लिए सही की-बोर्ड शॉर्टकट क्या है?",
+    "options_hi": [
+      "1. Ctrl+F3",
+      "2. Ctrl+F4",
+      "3. Ctrl+F5",
+      "4. Ctrl+F6"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "42",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "Which of the following types of files can be used for composing letters, flyers, essays, and other text-based files in Google Drive?",
+    "options_en": [
+      "1. Sheets",
+      "2. Docs",
+      "3. Slides",
+      "4. Books"
+    ],
+    "question_hi": "गूगल डिस्क में पत्र, फ़्लायर्स, निबंध और अन्य टेक्स्ट-आधारित फ़ाइलों की रचना के लिए निम्न में से किस प्रकार की फ़ाइलों का उपयोग किया जा सकता है?",
+    "options_hi": [
+      "1. शीट्स",
+      "2. डॉक्स",
+      "3. स्लाइड्स",
+      "4. पुस्तकें"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "43",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "With ______ mail service, you can select the email domain name that will suit you best from over 200 domain names e.g. yourname@consultant.com, yourname@journalist.com, yourname@engineer.com, yourname@lawyer.com, and the default one is yourname@mail.com.",
+    "options_en": [
+      "1. gmail.com",
+      "2. mail.com",
+      "3. outlook.com",
+      "4. aol"
+    ],
+    "question_hi": "______ मेल सेवा के साथ, आप 200 से अधिक डोमेन नामों में से वह ईमेल डोमेन नाम चुन सकते हैं जो आपके लिए सबसे उपयुक्त होगा। yourname@consultant.com, yourname@journalist.com, yourname@engineer.com, yourname@lawyer.com, और डिफ़ॉल्ट yourname@mail.com है।",
+    "options_hi": [
+      "1. gmail.com",
+      "2. mail.com",
+      "3. outlook.com",
+      "4. aol"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "44",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "Identify which one is NOT a workbook view in MS-Excel.",
+    "options_en": [
+      "1. Page Layout",
+      "2. Custom Views",
+      "3. Pivot View",
+      "4. Page Break Preview"
+    ],
+    "question_hi": "पहचानें कि MS-Excel में कौन सा कार्यपुस्तिका दृश्य (workbook view) नहीं है।",
+    "options_hi": [
+      "1. पेज लेआउट (Page Layout)",
+      "2. कस्टम व्यूज़ (Custom Views)",
+      "3. पाइवोट व्यू (Pivot View)",
+      "4. पेज ब्रेक प्रीव्यू (Page Break Preview)"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "45",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "In MS-Excel, a formula always starts with the ______ symbol.",
+    "options_en": [
+      "1. (",
+      "2. =",
+      "3. -",
+      "4. {"
+    ],
+    "question_hi": "MS-Excel में, फ़ॉर्मूला हमेशा _______ चिन्ह से शुरू होता है।",
+    "options_hi": [
+      "1. (",
+      "2. =",
+      "3. -",
+      "4. {"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "46",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "If cell B5 contains Friday, the formula ‘=IF(B5=\"Sunday\",\"Rest\",IF(B5=\"Saturday\",\"Party\",\"Work”))’ will result in ______.",
+    "options_en": [
+      "1. Error",
+      "2. Party",
+      "3. Rest",
+      "4. Work"
+    ],
+    "question_hi": "यदि सेल B5 में Friday है, तो फॉर्मूला ‘=IF(B5=\"Sunday\",\"Rest\",IF(B5=\"Saturday\",\"Party\",\"Work”))’ का परिणाम क्या होगा?",
+    "options_hi": [
+      "1. Error",
+      "2. Party",
+      "3. Rest",
+      "4. Work"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "47",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "The name of a range in MS-Excel worksheet CANNOT contain ______.",
+    "options_en": [
+      "1. a character",
+      "2. a number",
+      "3. a space",
+      "4. an underscore"
+    ],
+    "question_hi": "MS-Excel वर्कशीट में किसी भी रेंज के नाम में ______ नहीं हो सकता है।",
+    "options_hi": [
+      "1. वर्ण",
+      "2. संख्या",
+      "3. स्पेस",
+      "4. अंडरस्कोर"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "48",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "The Developer option can be enabled in MS-Excel from the ______ option in Excel Options.",
+    "options_en": [
+      "1. Advanced",
+      "2. Customize Ribbon",
+      "3. Language",
+      "4. Proofing"
+    ],
+    "question_hi": "MS-Excel में, एक्सेल विकल्पों के __________ विकल्प से डेवलपर विकल्प को सक्षम किया जा सकता है।",
+    "options_hi": [
+      "1. एडवांस्ड",
+      "2. कस्टमाइज़ रिबन",
+      "3. लैंग्वेज",
+      "4. प्रूफिंग"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "49",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "In MS-Excel, the predefined header to display the name of the worksheet is ______.",
+    "options_en": [
+      "1. &[File]",
+      "2. &[Page]",
+      "3. &[Pages]",
+      "4. &[Tab]"
+    ],
+    "question_hi": "MS-Excel में, __________ वर्कशीट का नाम प्रदर्शित करने के लिए पूर्वनिर्धारित एक हेडर है।",
+    "options_hi": [
+      "1. &[File]",
+      "2. &[Page]",
+      "3. &[Pages]",
+      "4. &[Tab]"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "50",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "Which of the following is a function with exactly one argument in MS-Excel?",
+    "options_en": [
+      "1. DATE",
+      "2. IF",
+      "3. LOWER",
+      "4. NOW"
+    ],
+    "question_hi": "MS-Excel के निम्नलिखित में से किस फ़ंक्शन में केवल एक ही आर्गुमेंट होता है?",
+    "options_hi": [
+      "1. DATE",
+      "2. IF",
+      "3. LOWER",
+      "4. NOW"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "51",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "In MS-Excel, the PI function returns the value of pi, accurate to ______ digits.",
+    "options_en": [
+      "1. 4",
+      "2. 9",
+      "3. 12",
+      "4. 15"
+    ],
+    "question_hi": "MS-Excel का PI फ़ंक्शन ______ अंकों में, pi का सटीक मान देता है।",
+    "options_hi": [
+      "1. 4",
+      "2. 9",
+      "3. 12",
+      "4. 15"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "52",
+    "examDate": "17th January 2024 shift 02",
+    "question_en": "Ctrl + Spacebar is a keyboard shortcut used to select the ______ in MS-Excel.",
+    "options_en": [
+      "1. adjacent cell",
+      "2. entire column",
+      "3. entire row",
+      "4. last used cell in a row"
+    ],
+    "question_hi": "MS-Excel में, Ctrl + Spacebar की-बोर्ड शॉर्टकट का उपयोग ___________ को चयनित करने के लिए किया जाता है।",
+    "options_hi": [
+      "1. निकटस्थ सेल",
+      "2. संपूर्ण कॉलम",
+      "3. संपूर्ण रो",
+      "4. किसी रो में अंतिम प्रयुक्त सेल"
+    ],
+    "answer": 0
   }
 ];
 
