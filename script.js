@@ -5907,6 +5907,994 @@ const allQuestions = [
       "4. ISNONTEXT"
     ],
     "answer": 0
+  },
+      {
+    "questionNumber": "1",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "Which of the following protocols is used by electronic mail?",
+    "options_en": [
+      "1. Telnet",
+      "2. FTP",
+      "3. SMTP",
+      "4. RDP"
+    ],
+    "question_hi": "निम्न में से किस प्रोटोकॉल का उपयोग इलेक्ट्रॉनिक मेल द्वारा किया जाता है?",
+    "options_hi": [
+      "1. टेलनेट",
+      "2. FTP",
+      "3. SMTP",
+      "4. RDP"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "2",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "Which of the following is a program designed to run a computer's hardware and applications and manage its resources, such as its memory, processors, and devices?",
+    "options_en": [
+      "1. Application software",
+      "2. System software",
+      "3. Database software",
+      "4. Word processor"
+    ],
+    "question_hi": "निम्नलिखित में से कौन सा प्रोग्राम कंप्यूटर के हार्डवेयर और एप्लिकेशन को चलाने और इसके संसाधनों, जैसे इसकी मेमोरी, प्रोसेसर और डिवाइस को प्रबंधित करने के लिए डिज़ाइन किया गया है?",
+    "options_hi": [
+      "1. एप्लीकेशन सॉफ्टवेयर",
+      "2. सिस्टम सॉफ्टवेयर",
+      "3. डेटाबेस सॉफ्टवेयर",
+      "4. वर्ड प्रॉसेसर"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "3",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "Registers are part of _____________.",
+    "options_en": [
+      "1. control unit",
+      "2. central processing unit",
+      "3. input device",
+      "4. output device"
+    ],
+    "question_hi": "रजिस्टर ________ का एक भाग है।",
+    "options_hi": [
+      "1. कंट्रोल यूनिट",
+      "2. सेंट्रल प्रोसेसिंग यूनिट",
+      "3. इनपुट डिवाइस",
+      "4. आउटपुट डिवाइस"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "4",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "_______ has a limitation that we can only read it but cannot erase or modify it.",
+    "options_en": [
+      "1. CD ROM",
+      "2. Hard disk",
+      "3. Compact Disk-RW",
+      "4. Floppy disk"
+    ],
+    "question_hi": "_______ की एक सीमा होती है, कि हम इसे केवल रीड कर सकते हैं, लेकिन इसे मिटा (इरेज़) या संशोधित (मॉडिफाई) नहीं कर सकते हैं।",
+    "options_hi": [
+      "1. CD ROM",
+      "2. हार्ड डिस्क",
+      "3. कॉम्पैक्ट डिस्क-RW",
+      "4. फ्लॉपी डिस्क"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "5",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "What works as an interface, connecting the user, the application software and the hardware?",
+    "options_en": [
+      "1. Application software",
+      "2. Utility software",
+      "3. Translator software",
+      "4. Operating system"
+    ],
+    "question_hi": "यूजर, एप्लिकेशन सॉफ्टवेयर और हार्डवेयर को कनेक्ट करने के लिए निम्न में से क्या एक इंटरफ़ेस के रूप में काम करता है?",
+    "options_hi": [
+      "1. एप्लीकेशन सॉफ्टवेयर",
+      "2. यूटिलिटी सॉफ्टवेयर",
+      "3. ट्रांसलेटर सॉफ्टवेयर",
+      "4. ऑपरेटिंग सिस्टम"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "6",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "Word count option is available in which tab of OpenOffice writer?",
+    "options_en": [
+      "1. Format",
+      "2. Help",
+      "3. Insert",
+      "4. Tools"
+    ],
+    "question_hi": "वर्ड काउंट विकल्प ओपन ऑफिस राइटर (OpenOffice writer) के किस टैब में मौजूद होता है?",
+    "options_hi": [
+      "1. फॉर्मेट",
+      "2. हेल्प",
+      "3. इन्सर्ट",
+      "4. टूल्स"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "7",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "Which of the following device is a pointing device used to move an object on screen in any direction, has a vertical rod mounted on a base with one or two buttons and are used extensively in video arcade games?",
+    "options_en": [
+      "1. Joystick",
+      "2. Scanner",
+      "3. Microphone",
+      "4. Digital camera"
+    ],
+    "question_hi": "निम्नलिखित में से कौन सा डिवाइस एक पॉइंटिंग डिवाइस है जिसका उपयोग स्क्रीन पर किसी ऑब्जेक्ट को किसी भी दिशा में ले जाने के लिए किया जाता है, इसमें एक या दो बटन के साथ आधार पर एक खड़ा रॉड लगाई जाती है और वीडियो आर्केड गेम में बड़े पैमाने पर उपयोग किया जाता है?",
+    "options_hi": [
+      "1. जॉयस्टिक",
+      "2. स्कैनर",
+      "3. माइक्रोफ़ोन",
+      "4. डिजिटल कैमरा"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "8",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "Which among of the following is a small digital video camera directly or indirectly connected to a computer or a computer network?",
+    "options_en": [
+      "1. Digital SLR camera",
+      "2. Web camera",
+      "3. Movie camera",
+      "4. Action camera"
+    ],
+    "question_hi": "निम्नलिखित में से कौन सा एक छोटा डिजिटल वीडियो कैमरा है जो प्रत्यक्ष या अप्रत्यक्ष रूप से कंप्यूटर या कंप्यूटर नेटवर्क से जुड़ा होता है?",
+    "options_hi": [
+      "1. डिजिटल SLR कैमरा",
+      "2. वेब कैमरा",
+      "3. मूवी कैमरा",
+      "4. एक्शन कैमरा"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "9",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "Which function returns the natural logarithm of a number in MS-Excel 2021?",
+    "options_en": [
+      "1. NLOG function",
+      "2. LN function",
+      "3. LOG function",
+      "4. NL function"
+    ],
+    "question_hi": "MS-Excel 2021 में, कौन सा फंक्शन किसी संख्या का एक प्राकृतिक लघुगणक देता है?",
+    "options_hi": [
+      "1. NLOG फंक्शन",
+      "2. LN फंक्शन",
+      "3. LOG फंक्शन",
+      "4. NL फंक्शन"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "10",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "What is meant by a cluster, in the context of a hard disk?",
+    "options_en": [
+      "1. It is a group of disk sectors.",
+      "2. It is a group of matched sectors.",
+      "3. It is a group of layers.",
+      "4. It is a root directory."
+    ],
+    "question_hi": "हार्ड डिस्क के संदर्भ में, क्लस्टर (cluster) का क्या मतलब है?",
+    "options_hi": [
+      "1. यह डिस्क सेक्टर्स का एक समूह होता है",
+      "2. यह मैच्ड सेक्टर्स का एक समूह होता है",
+      "3. यह परतों का एक समूह होता है",
+      "4. यह एक रूट डायरेक्टरी है"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "11",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "One TB storage capacity is equal to _____ MB.",
+    "options_en": [
+      "1. 10241",
+      "2. 10242",
+      "3. 10243",
+      "4. 10244"
+    ],
+    "question_hi": "एक TB भंडारण क्षमता _____ MB के बराबर होती है।",
+    "options_hi": [
+      "1. 10241",
+      "2. 10242",
+      "3. 10243",
+      "4. 10244"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "12",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "Which of the following is a plastic tape, usually made of Mylar that is coated with iron oxide, thereby enabling the introduction (writing), retention (memory) and reading of magnetically recorded information?",
+    "options_en": [
+      "1. Hard disk",
+      "2. Magnetic tape",
+      "3. Optical disk drive",
+      "4. USB"
+    ],
+    "question_hi": "निम्नलिखित में से कौन सा उपकरण एक प्रकार की प्लास्टिक टेप है, जो सामान्यतः माइलर फिल्म से बना होता है और आयरन के ऑक्साइड से लेपित होता है। और इस प्रकार चुंबकीय रूप से रिकॉर्ड की गई जानकारी को प्रस्तुतीकरण (राइटिंग), स्मरण (मेमोरी) और रीडिंग के लिए सक्षम बनाता है?",
+    "options_hi": [
+      "1. हार्ड डिस्क",
+      "2. चुंबकीय टेप",
+      "3. ऑप्टिकल डिस्क ड्राइव",
+      "4. USB"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "13",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "The barcode reader and a flatbed scanner has the following component in common.",
+    "options_en": [
+      "1. Internal memory chip",
+      "2. Lens and a light sensor",
+      "3. Electronic circuit",
+      "4. Power backup"
+    ],
+    "question_hi": "निम्न में से क्या बारकोड रीडर और फ्लैटबेड स्कैनर, दोनों में पाया जाने वाला एक सामान्य घटक है?",
+    "options_hi": [
+      "1. इंटरनल मेमोरी चिप",
+      "2. लेंस और एक प्रकाश सेंसर",
+      "3. विद्युत परिपथ",
+      "4. पॉवर बैकअप"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "14",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "Which of the following devices is used to scan the barcode on various products in a supermarket?",
+    "options_en": [
+      "1. Barcode reader",
+      "2. Wecamera",
+      "3. Joystick",
+      "4. OCR"
+    ],
+    "question_hi": "सुपरमार्केट के विभिन्न उत्पादों पर लगे बारकोड को स्कैन करने के लिए निम्न में से किस डिवाइस का उपयोग किया जाता है?",
+    "options_hi": [
+      "1. बारकोड रीडर",
+      "2. वी कैमरा",
+      "3. जॉयस्टिक",
+      "4. OCR"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "15",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "Drum plotters draw on paper wrapped around a drum that turns to produce one direction of the plot while the ________ move to provide the other direction.",
+    "options_en": [
+      "1. pens",
+      "2. papers",
+      "3. toners",
+      "4. pins"
+    ],
+    "question_hi": "ड्रम प्लॉटर एक ड्रम के चारों ओर लपेटे गए कागज पर चित्र बनाते हैं जो प्लॉट की एक दिशा प्रदान करने के लिए घूमता है जबकि ________ दूसरी दिशा प्रदान करने के लिए घूमता है।",
+    "options_hi": [
+      "1. पेन",
+      "2. पेपर",
+      "3. टोनर",
+      "4. पिन"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "16",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "What is the binary equivalent of decimal number 12?",
+    "options_en": [
+      "1. 1100",
+      "2. 1010",
+      "3. 1001",
+      "4. 1011"
+    ],
+    "question_hi": "दशमलव संख्या 12 का बाइनरी समतुल्य क्या है?",
+    "options_hi": [
+      "1. 1100",
+      "2. 1010",
+      "3. 1001",
+      "4. 1011"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "17",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "Inkjet printers use ______ cartridge.",
+    "options_en": [
+      "1. buffer",
+      "2. toner",
+      "3. pool",
+      "4. ink"
+    ],
+    "question_hi": "इंकजेट प्रिंटर में किस कार्ट्रिज का उपयोग किया जाता है?",
+    "options_hi": [
+      "1. बफर",
+      "2. टोनर",
+      "3. पूल",
+      "4. इंक"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "18",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "Which of the following non-volatile memory stores the computer’s Basic Input Output System (BIOS) program?",
+    "options_en": [
+      "1. ROM",
+      "2. RAM",
+      "3. Registers",
+      "4. Cache memory"
+    ],
+    "question_hi": "निम्नलिखित में से कौन सी गैर-वाष्प शील मेमोरी कंप्यूटर के बेसिक इनपुट आउटपुट सिस्टम (BIOS) प्रोग्राम को संग्रहीत करती है?",
+    "options_hi": [
+      "1. ROM",
+      "2. RAM",
+      "3. Registers",
+      "4. Cache memory"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "19",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "Which of the following printers is a non-impact printer?",
+    "options_en": [
+      "1. Dot matrix",
+      "2. Daisy wheel",
+      "3. Chain",
+      "4. Laser"
+    ],
+    "question_hi": "निम्न में से कौन सा एक नॉन-इम्पैक्ट प्रिंटर है?",
+    "options_hi": [
+      "1. डॉट मैट्रिक्स",
+      "2. डेज़ी व्हील",
+      "3. चैन",
+      "4. लेज़र"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "20",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "PERMUT' function belongs to which of the following categories in MS-Excel 2019?",
+    "options_en": [
+      "1. Statistical",
+      "2. Financial",
+      "3. Text",
+      "4. Maths and Trigonometry"
+    ],
+    "question_hi": "MS-Excel 2019 में 'PERMUT' फ़ंक्शन निम्नलिखित में से किस श्रेणी से संबंधित है?",
+    "options_hi": [
+      "1. सांख्यिकीय (Statistical)",
+      "2. वित्तीय (Financial)",
+      "3. टेक्स्ट (Text)",
+      "4. गणित और त्रिकोणमिति (Maths and Trigonometry)"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "21",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "In the context of satellite communication services, INTELSAT stands for:",
+    "options_en": [
+      "1. International Telecommunications Satellite Organisation",
+      "2. India Telecommunications Satellite Organisation",
+      "3. Inter Telecommunications Satellite Organisation",
+      "4. International Telecommunications Standard Organisation"
+    ],
+    "question_hi": "सॅटॅलाइट कम्युनिकेशन सेवाओं के संदर्भमें, INTELSAT का पूर्णरूप क्या है?",
+    "options_hi": [
+      "1. International Telecommunications Satellite Organisation (इंटरनेशनल टेलीकम्युनिकेशन सैटेलाइट संगठन)",
+      "2. India Telecommunications Satellite Organisation (इंडिया टेलीकम्युनिकेशन सैटेलाइट संगठन)",
+      "3. Inter Telecommunications Satellite Organisation (इंटर टेलीकम्युनिकेशन सैटेलाइट संगठन)",
+      "4. International Telecommunications Standard Organisation (इंटरनेशनल टेलीकम्युनिकेशन स्टैण्डर्ड संगठन)"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "22",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "An image is a ______ dimensional signal.",
+    "options_en": [
+      "1. two",
+      "2. three",
+      "3. four",
+      "4. five"
+    ],
+    "question_hi": "एक इमेज़ _________ डायमेंशनल सिग्नल होता है।",
+    "options_hi": [
+      "1. दो",
+      "2. तीन",
+      "3. चार",
+      "4. पांच"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "23",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "In which of the following modulation, the height (i.e., the strength or intensity) of the signal carrier is varied to represent the data being added to the signal?",
+    "options_en": [
+      "1. Amplitude",
+      "2. Frequency",
+      "3. Phase",
+      "4. Polarization"
+    ],
+    "question_hi": "निम्नलिखित में से किस मॉड्यूलेशन में, सिग्नल वाहक की ऊंचाई (यानी, ताकत या तीव्रता) सिग्नल में जोड़े जा रहे डेटा को दर्शाने के लिए भिन्न होती है?",
+    "options_hi": [
+      "1. एम्पलीट्यूड (Amplitude)",
+      "2. फ्रिक्वेंसि (Frequency)",
+      "3. फेज़ (Phase)",
+      "4. पोलरिज़शन (Polarization)"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "24",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "What is the use of the ping command?",
+    "options_en": [
+      "1. To test hard disk fault",
+      "2. To test if the device in network is reachable",
+      "3. To test bugs in an application",
+      "4. To test print quality"
+    ],
+    "question_hi": "पिंग (ping) कमांड का उपयोग क्या है?",
+    "options_hi": [
+      "1. हार्ड डिस्क की खराबी का जांच करना",
+      "2. यह जांचने के लिए कि नेटवर्क में डिवाइस पहुंच योग्य है",
+      "3. किसी एप्लिकेशन में बग की जांच करना",
+      "4. प्रिंट की गुणवत्ता की जांच करना"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "25",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "If you want to print selected text in a file or document, then what is the correct option in MS-Word 2019?",
+    "options_en": [
+      "1. Highlight the text, press Ctrl+P, in print option click ‘selection’ only",
+      "2. Highlight the text, press Shift+P, in print option click ‘selection’ only",
+      "3. Highlight the text, press Ctrl+P, in print option click ‘highlighted all’ only",
+      "4. Highlight the text, press Alt+P, in print option click ‘selection’ only"
+    ],
+    "question_hi": "MS-Word 2019 में, यदि आप किसी फ़ाइल या डॉक्यूमेंट के चयनित टेक्स्ट को मुद्रित करना हैं, तो आपके द्वारा निम्न में से किस विकल्प का चयन किया जाना चाहिए?",
+    "options_hi": [
+      "1. टेक्स्ट को हाईलाइट करना, Ctrl+P दबाना, Print विकल्प में केवल ‘Selection’ पर क्लिक करना",
+      "2. टेक्स्ट को हाईलाइट करना, Shift+P दबाना, Print विकल्प में केवल ‘Selection’ पर क्लिक करना",
+      "3. टेक्स्ट को हाईलाइट करना, Ctrl+P दबाना, Print विकल्प में केवल ‘Highlighted all’ पर क्लिक करना",
+      "4. टेक्स्ट को हाईलाइट करना, Alt+P दबाना, Print विकल्प में केवल 'Selection’ पर क्लिक करना"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "26",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "What is the minimum disk space required to install Red Hat Enterprise Linux 7?",
+    "options_en": [
+      "1. 10 GiB",
+      "2. 20 GiB",
+      "3. 5 GiB",
+      "4. 8 GiB"
+    ],
+    "question_hi": "रेड हैट इंटरप्राइज़ लिनक्स 7 को इंस्टाल करने के लिए आवश्यक न्यूनतम डिस्क स्पेस कितना होना चाहिए?",
+    "options_hi": [
+      "1. 10 GiB",
+      "2. 20 GiB",
+      "3. 5 GiB",
+      "4. 8 GiB"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "27",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "With reference to data encryption, what is the full form of CBC?",
+    "options_en": [
+      "1. Cyclic Block Chaining",
+      "2. Central Block Chaining",
+      "3. Critical Block Chaining",
+      "4. Cipher Block Chaining"
+    ],
+    "question_hi": "डेटा एन्क्रिप्शन के संदर्भ में, CBC का पूर्ण रूप क्या है?",
+    "options_hi": [
+      "1. Cyclic Block Chaining (साइक्लिक ब्लॉक चेनिंग)",
+      "2. Central Block Chaining (सेन्ट्रल ब्लॉक चेनिंग)",
+      "3. Critical Block Chaining (क्रिटिकल ब्लॉक चेनिंग)",
+      "4. Cipher Block Chaining (सिफर ब्लॉक चेनिंग)"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "28",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "Who is the creator of Python Programming Language?",
+    "options_en": [
+      "1. James Gosling",
+      "2. Guido Van Rossum",
+      "3. Dennis Ritchie",
+      "4. Larry Wall"
+    ],
+    "question_hi": "पायथन प्रोग्रामिंग भाषा के निर्माता कौन हैं?",
+    "options_hi": [
+      "1. जेम्स गोस्लिंग (James Gosling)",
+      "2. गुइडो वैन रोसुम (Guido Van Rossum)",
+      "3. डेनिस रिची (Dennis Ritchie)",
+      "4. लैरी वॉल (Larry Wall)"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "29",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "Which among the following is NOT an analog to analog conversion method?",
+    "options_en": [
+      "1. Binary Modulation",
+      "2. Amplitude Modulation",
+      "3. Frequency Modulation",
+      "4. Phase Modulation"
+    ],
+    "question_hi": "निम्नलिखित में से कौन-सी एनालॉग-से-एनालॉग रूपांतरण विधि नहीं है?",
+    "options_hi": [
+      "1. बाइनरी मॉड्यूलेशन (Binary Modulation)",
+      "2. आयाम मॉड्यूलेशन (Amplitude Modulation)",
+      "3. आवृत्ति मॉड्यूलेशन (Frequency Modulation)",
+      "4. कला मॉड्यूलेशन (Phase Modulation)"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "30",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "___________and surge suppressors can protect computer equipment.",
+    "options_en": [
+      "1. Uninterruptible power sink",
+      "2. Uninterruptible power supplies",
+      "3. Universal power supplies",
+      "4. Universal power sink"
+    ],
+    "question_hi": "______ और सर्ज सप्रेसेर कंप्यूटर उपकरण की रक्षा कर सकते हैं।",
+    "options_hi": [
+      "1. अनइंटरप्टिबल पावर सिंक",
+      "2. अनइंटरप्टिबल पॉवर सप्लाई",
+      "3. यूनिवर्सल पॉवर सप्लाई",
+      "4. यूनिवर्सल पॉवर सिंक"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "31",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "What are the four things required to connect to the internet?",
+    "options_en": [
+      "1. Telephone line, modem, computer and an ISP",
+      "2. Modem, computer, PDA and ISP",
+      "3. Telephone line, PDA, modem and computer",
+      "4. Computer, ISP, modem and printer"
+    ],
+    "question_hi": "इंटरनेट से कनेक्ट होने के लिए निम्न में से किन चार चीज़ों की आवश्यकता होती है?",
+    "options_hi": [
+      "1. टेलीफोन लाइन, मॉडेम, कंप्यूटर और ISP",
+      "2. मॉडेम, कंप्यूटर, PDA और ISP",
+      "3. टेलीफोन लाइन, PDA, मॉडेम और कंप्यूटर",
+      "4. कंप्यूटर, ISP, मॉडेम और प्रिंटर"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "32",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "Which of the following operators in Google drive, search by the title of file or document?",
+    "options_en": [
+      "1. head:",
+      "2. type:",
+      "3. title:",
+      "4. name:"
+    ],
+    "question_hi": "गूगल ड्राइव का निम्न में से कौन सा ऑपरेटर फाइल या डॉक्यु मेंट के शीर्षक के आधार पर उनकी खोज करता है?",
+    "options_hi": [
+      "1. head:",
+      "2. type:",
+      "3. title:",
+      "4. name:"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "33",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "What are the transaction charges of BHIM?",
+    "options_en": [
+      "1. ₹100 per year",
+      "2. ₹0 per year",
+      "3. ₹10 per year",
+      "4. ₹200 per year"
+    ],
+    "question_hi": "भीम (BHIM) में का लेनदेन प्रभार कितना है?",
+    "options_hi": [
+      "1. ₹100/वर्ष",
+      "2. ₹0/वर्ष",
+      "3. ₹10/वर्ष",
+      "4. ₹200/वर्ष"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "34",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "Observe both the texts and answer the question.\n Text 1\n “The quick brown Fox jumped over the lazy Dog”\n Text 2\n “tHE QUICK BROWN fOX JUMPED OVER THE LAZY dOG”\n Which of the following cases in MS-Word 2019 is used to convert text 1 to text 2?",
+    "options_en": [
+      "1. Sentence",
+      "2. Upper",
+      "3. Lower",
+      "4. Toggle"
+    ],
+    "question_hi": "नीचे दिए गए दोनों टेक्स्ट का निरीक्षण करें और संबंधित प्रश्न का उत्तर दें।\n टेक्स्ट 1\n “The quick brown Fox jumped over the lazy Dog”\n टेक्स्ट 2\n “tHE QUICK BROWN fOX JUMPED OVER THE LAZY dOG”\n MS-Word 2019 में टेक्स्ट 1 को टेक्स्ट 2 में बदलने के लिए निम्न में से किस केस का प्रयोग किया गया है?",
+    "options_hi": [
+      "1. सेंटेंस",
+      "2. अपर",
+      "3. लोअर",
+      "4. टॉगल"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "35",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "In MS-Word 2016, to create new numbering format on the ________ tab, under ___________ group, click the arrow next to Numbering.",
+    "options_en": [
+      "1. Home, Font",
+      "2. Home, Paragraph",
+      "3. Design, Paragraph",
+      "4. Design, Font"
+    ],
+    "question_hi": "MS-Word 2016 में, ________ टैब पर नया नंबरिंग फॉर्मेट बनाने के लिए, ___________ समूह के अंतर्गत, नंबरिंग के आगे वाले तीर पर क्लि क करें।",
+    "options_hi": [
+      "1. होम (Home), फॉन्ट (Font)",
+      "2. होम (Home), पैराग्राफ (Paragraph)",
+      "3. डिज़ाइन (Design), पैराग्राफ (Paragraph)",
+      "4. डिज़ाइन (Design), फॉन्ट (Font)"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "36",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "Which of the following is an internal font or built-in font built into the hardware of a printer?",
+    "options_en": [
+      "1. Outline font",
+      "2. Scalable font",
+      "3. Resident font",
+      "4. Courier font"
+    ],
+    "question_hi": "निम्नलिखित में से कौन सा प्रिंटर के हार्डवेयर मेंनिर्मित एक आंतरिक फ़ॉन्ट या अंतर्निर्मित फ़ॉन्ट है?",
+    "options_hi": [
+      "1. आउटलाइन फ़ॉन्ट",
+      "2. स्केलेबल फ़ॉन्ट",
+      "3. रेजिडेंट फ़ॉन्ट",
+      "4. कूरियर फ़ॉन्ट"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "37",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "File extension .otf was developed by which of the following companies?",
+    "options_en": [
+      "1. Microsoft and Macintosh",
+      "2. Adobe systems and Microsoft",
+      "3. Adobe systems and Macintosh",
+      "4. Microsoft only"
+    ],
+    "question_hi": "फ़ाइल एक्स टेंशन .otf को निम्न में से किन कंपनियों द्वारा विकसित किया गया था?",
+    "options_hi": [
+      "1. Microsoft and Macintosh",
+      "2. Adobe systems and Microsoft",
+      "3. Adobe systems and Macintosh",
+      "4. Microsoft only"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "38",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "Which of the following is NOT the line spacing option MS-Word 2019?",
+    "options_en": [
+      "1. Double",
+      "2. Single",
+      "3. Multiple",
+      "4. Vertical"
+    ],
+    "question_hi": "MS-Word 2019 मेंनिम्न में से किसमें लाइन स्पेसिंग विकल्प नहीं होते हैं?",
+    "options_hi": [
+      "1. डबल",
+      "2. सिंगल",
+      "3. मल्टी पल",
+      "4. वर्टिकल"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "39",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "Which keyboard shortcut will you use to select an active column in Microsoft Excel?",
+    "options_en": [
+      "1. Ctrl + Spacebar",
+      "2. Ctrl + Home",
+      "3. Alt + Tab",
+      "4. Shift + A"
+    ],
+    "question_hi": "Microsoft Excel में एक सक्रिय कॉलम का चयन करने के लिए आप किस की-बोर्ड शॉर्टकट का उपयोग करेंगे?",
+    "options_hi": [
+      "1. Ctrl + Spacebar",
+      "2. Ctrl + Home",
+      "3. Alt + Tab",
+      "4. Shift + A"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "40",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "All formulas in MS-Excel start with _________.",
+    "options_en": [
+      "1. =",
+      "2. *",
+      "3. +",
+      "4. 00$"
+    ],
+    "question_hi": "Microsoft Excel में सभी सूत्र ________ से शुरू होते हैं।",
+    "options_hi": [
+      "1. =",
+      "2. *",
+      "3. +",
+      "4. 00$"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "41",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "In _________ topology, all the nodes are connected to a single cable.",
+    "options_en": [
+      "1. bus",
+      "2. star",
+      "3. ring",
+      "4. host"
+    ],
+    "question_hi": "___________ टोपोलॉजी में, सभी नोड एक ही केबल से कनेक्ट होते हैं।",
+    "options_hi": [
+      "1. बस",
+      "2. स्टार",
+      "3. रिंग",
+      "4. होस्ट"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "42",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "In MS-Word 2019, a quick way to indent text is to use the ______ key.",
+    "options_en": [
+      "1. Tab",
+      "2. Shift",
+      "3. Ctrl",
+      "4. Insert"
+    ],
+    "question_hi": "MS-Word 2019 में, टेक्स्ट को इंडेंट करने का एक त्व रित तरीका ______ कुंजी का उपयोग करना है",
+    "options_hi": [
+      "1. Tab",
+      "2. Shift",
+      "3. Ctrl",
+      "4. Insert"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "43",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "Which of the following networks uses a satellite as one of the communication media?",
+    "options_en": [
+      "1. MAN",
+      "2. WAN",
+      "3. LAN",
+      "4. PAN"
+    ],
+    "question_hi": "निम्नलिखित में से कौन सा नेटवर्क संचार माध्यमों में से एक के रूप में उपग्रह का उपयोग करता है?",
+    "options_hi": [
+      "1. MAN",
+      "2. WAN",
+      "3. LAN",
+      "4. PAN"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "44",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "In Microsoft Excel, enter value 2 in cell C2 and value 4 in cell C3. Select cell C2 and cell C3. Click on the lower right corner of this range and drag it downwards. Cell C4 now contains ______.",
+    "options_en": [
+      "1. 0",
+      "2. 2",
+      "3. 6",
+      "4. 8"
+    ],
+    "question_hi": "Microsoft Excel में, सेल C2 में 2 और सेल C3 में 4 मान (वैल्यू ) दर्ज करें। सेल C2 और सेल C3 का चयन करें। इस रेंज के निचले दाएं कोने पर क्लिक करें और इसे नीचे की ओर खींचें। सेल C4 में अब ______ होगा।",
+    "options_hi": [
+     "1. 0",
+      "2. 2",
+      "3. 6",
+      "4. 8"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "45",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "Which of the following formula in MS-Excel 2019 returns current date and time?",
+    "options_en": [
+      "1. DATE()",
+      "2. NOW()",
+      "3. TIME()",
+      "4. TODAY()"
+    ],
+    "question_hi": "MS-Excel 2019 में निम्नलिखित में से कौन सा फॉर्मूला वर्तमान दिनांक और समय लौटाता है?",
+    "options_hi": [
+      "1. DATE()",
+      "2. NOW()",
+      "3. TIME()",
+      "4. TODAY()"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "46",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "In MS-Excel, the formula ‘=C2*$G$2’ is stored in cell E2. When the same formula is copied to cell E3, it becomes ______.",
+    "options_en": [
+      "1. =C2*$G$2",
+      "2. =C2*$G$3",
+      "3. =C3*$G$2",
+      "4. =C3*$G$3"
+    ],
+    "question_hi": "MS-Excel में, सेल E2 में फॉर्मूला '=C2*$G$2' संग्रहित किया गया है। उसी फॉर्मूले को जब सेल E3 में कॉपी किया जाता है, तो यह ______ बन जाता है।",
+    "options_hi": [
+      "1. =C2*$G$2",
+      "2. =C2*$G$3",
+      "3. =C3*$G$2",
+      "4. =C3*$G$3"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "47",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "In VBA code, in MS-Excel, the currently selected cell is referred to as a/an ______ cell.",
+    "options_en": [
+      "1. active",
+      "2. current",
+      "3. cursor",
+      "4. selected"
+    ],
+    "question_hi": "MS-Excel के VBA कोड में, वर्तमान में चयनित सेल को ______ सेल कहा जाता है।",
+    "options_hi": [
+      "1. एक्टिव",
+      "2. करंट",
+      "3. कर्सर",
+      "4. सेलेक्टेड"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "48",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "The Charts group is listed under the ______ tab in Microsoft Excel 2019.",
+    "options_en": [
+      "1. Data",
+      "2. Insert",
+      "3. Review",
+      "4. View"
+    ],
+    "question_hi": "Microsoft Excel 2019 में, चार्ट ग्रुप निम्न में से किस टैब में मौजूद होते हैं?",
+    "options_hi": [
+      "1. डेटा",
+      "2. इन्सर्ट",
+      "3. रिव्यू",
+      "4. व्यू"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "49",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "The keyboard shortcut ‘Ctrl + Shift + : (colon)’ results in entering ______ in the selected cell in Microsoft Excel 2019.",
+    "options_en": [
+      "1. the current date",
+      "2. a threaded comment",
+      "3. a hyperlink",
+      "4. the current time"
+    ],
+    "question_hi": "Microsoft Excel 2019 की किसी चयनित सेल में यदि 'Ctrl + Shift + : (कोलन)' की-बोर्ड शॉर्टकट का उपयोग किया जाता है, तो सेल में ______ दर्ज हो जाता/जाती है।",
+    "options_hi": [
+      "1. वर्तमान तिथि",
+      "2. एक थ्रेडेड कमेंट",
+      "3. एक हाइपरलिंक",
+      "4. वर्तमान समय"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "50",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "Options for rotating text in a cell in Microsoft Excel 2019 are available under the ______ button on the Home tab.",
+    "options_en": [
+      "1. Align",
+      "2. Degree",
+      "3. Orientation",
+      "4. View"
+    ],
+    "question_hi": "Microsoft Excel 2019 में सेल में टेक्स्ट को रोटेट करने के लिए विकल्प , होम टैब में ______ बटन के अंतर्गत उपलब्ध होते हैं।",
+    "options_hi": [
+      "1. अलाइन",
+      "2. डिग्री",
+      "3. ओरिएंटेशन",
+      "4. व्यू"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "51",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "In the VLOOKUP function of MS-Excel 2019, when the range_lookup parameter is FALSE, ______ match needs to be found for the lookup_value parameter.",
+    "options_en": [
+      "1. an exact",
+      "2. a partial",
+      "3. the closest",
+      "4. the farthest"
+    ],
+    "question_hi": "MS-Excel 2019 के VLOOKUP फ़ंक्शन में, जब range_lookup पैरामीटर FALSE होता है, तो lookup_value पैरामीटर के लिए एक ______ मैच की आवश्यकता होती है।",
+    "options_hi": [
+      "1. सटीक",
+      "2. आंशिक",
+      "3. निकटतम",
+      "4. दूरस्थ"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "52",
+    "examDate": "27th January 2024 shift 02",
+    "question_en": "In Microsoft Excel 2019 ______, the buttons and icons are grouped into different tabs based on their functionalities.",
+    "options_en": [
+      "1. Header",
+      "2. Panel",
+      "3. Ribbon",
+      "4. Template"
+    ],
+    "question_hi": "Microsoft Excel 2019 के _________ में, बटन और आइकन उनकी कार्यक्षमताओं के अनुसार अलग-अलग टैब में समूहीकृत करके दिए हुए होते हैं।",
+    "options_hi": [
+      "1. हेडर",
+      "2. पैनल",
+      "3. रिबन",
+      "4. टेम्पलेट"
+    ],
+    "answer": 2
   }
 ];
 
