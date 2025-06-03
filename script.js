@@ -1,4 +1,992 @@
 const allQuestions = [
+      {
+    "questionNumber": "1",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "Which of the following types of memories is closely related to the processor?",
+    "options_en": [
+      "1. Main Memory",
+      "2. Secondary Memory",
+      "3. Disk Memory",
+      "4. Tape Memory"
+    ],
+    "question_hi": "किस प्रकार की मेमोरी प्रोसेसर से निकटता से संबंधित होती है ?",
+    "options_hi": [
+      "1. मुख्‍य (मेन) मेमोरी",
+      "2. सेकेंडरी मेमोरी",
+      "3. डिस्‍क मेमोरी",
+      "4. टेप मेमोरी"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "2",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "Which of the following is NOT an open source software?",
+    "options_en": [
+      "1. LibreOffice",
+      "2. VLC media player",
+      "3. Linux",
+      "4. Windows"
+    ],
+    "question_hi": "निम्‍नलिखित में से कौन सा ओपन सोर्स सॉफ्टवेयर नहीं है?",
+    "options_hi": [
+      "1. लिब्रे ऑफिस (LibreOffice)",
+      "2. VLC मीडिया प्लेयर",
+      "3. लिनक्‍स",
+      "4. विंडोज"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "3",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "In MS-Word 2016, you can select the _____ format to save a document, so that someone using an earlier version of Word can open it.",
+    "options_en": [
+      "1. Word 97-2003 Document (*.doc)",
+      "2. Word Template (*.dotx)",
+      "3. XPS Document (*.xps)",
+      "4. Open Document (*.odt)"
+    ],
+    "question_hi": "MS-Word 2016 में, आप किसी दस्तावेज़ को सहेजने के लिए _____ प्रारूप (format) का चयन कर सकते हैं, ताकि Word के पुराने संस्‍करण (version) का उपयोग करने वाला कोई व्‍यक्ति इसे खोल सके।",
+    "options_hi": [
+      "1. Word 97-2003 डॉक्यूमेंट (*.doc)",
+      "2. Word टेम्‍पलेट (*.dotx)",
+      "3. XPS डॉक्यूमेंट (*.xps)",
+      "4. ओपन डॉक्यूमेंट (*.odt)"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "4",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "Which of the following storage devices is also called a USB drive since it has flash memory and a built-in USB interface?",
+    "options_en": [
+      "1. Pen drive",
+      "2. SSD",
+      "3. SD card",
+      "4. CD"
+    ],
+    "question_hi": "निम्‍नलिखित में से किस स्टोरेज डिवाइस को USB ड्राइव भी कहा जाता है क्योंकि इसमें फ्लैश मेमोरी और एक अंतर्निहित USB इंटरफ़ेस होता है?",
+    "options_hi": [
+      "1. पेन ड्राइव",
+      "2. एसएसडी (SSD)",
+      "3. एसडी (SD) कार्ड",
+      "4. सीडी (CD)"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "5",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "Which of the following is a mobile operating system?",
+    "options_en": [
+      "1. iOS",
+      "2. macOS",
+      "3. MS-Windows",
+      "4. CentOS"
+    ],
+    "question_hi": "निम्‍नलिखित में से कौन-सी एक मोबाइल ऑपरेटिंग सिस्‍टम है?",
+    "options_hi": [
+      "1. iOS",
+      "2. macOS",
+      "3. MS-Windows",
+      "4. CentOS"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "6",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "The pattern of printed lines on most products are called ______.",
+    "options_en": [
+      "1. ZIP code",
+      "2. OCR code",
+      "3. MICR code",
+      "4. Bar code"
+    ],
+    "question_hi": "अधिकांश उत्पादों पर मुद्रित लाइनों के पैटर्न को ______ कहा जाता है।",
+    "options_hi": [
+      "1. ZIP कोड",
+      "2. OCR कोड",
+      "3. MICR कोड",
+      "4. बार कोड"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "7",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "Which of the following is a type of output device that is used to produce high-quality graphics, drawings, or large-format images?",
+    "options_en": [
+      "1. Plotter",
+      "2. Scanner",
+      "3. GPS",
+      "4. Projector"
+    ],
+    "question_hi": "निम्‍नलिखित में से कौन सा एक प्रकार का आउटपुट डिवाइस है जिसका उपयोग उच्‍च गुणवत्ता (high quality) वाले ग्राफिक्‍स, चित्र या बड़े प्रारूप वाली छवियां (large format images) बनाने के लिए किया जाता है?",
+    "options_hi": [
+      "1. प्लॉटर",
+      "2. स्कैनर",
+      "3. GPS",
+      "4. प्रोजेक्‍टर"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "8",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "Which of the following system software enable(s) communication between the hardware and OS?",
+    "options_en": [
+      "1. Device drivers",
+      "2. Boot loaders",
+      "3. Firmware",
+      "4. Utility software"
+    ],
+    "question_hi": "निम्‍नलिखित में से कौन सा सिस्‍टम सॉफ्टवेयर हार्डवेयर और OS के बीच संचार को सक्षम बनाता है?",
+    "options_hi": [
+      "1. डिवाइस ड्राइवर",
+      "2. बूट लोडर",
+      "3. फर्मवेयर",
+      "4. यूटिलिटी सॉफ्टवेयर"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "9",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "C and C++ are programming languages, which were utilised in which generation of computers?",
+    "options_en": [
+      "1. 1st Generation",
+      "2. 2nd Generation",
+      "3. 3rd Generation",
+      "4. 4th Generation"
+    ],
+    "question_hi": "C और C++ वे प्रोग्रामिंग भाषाएं हैं जो कंप्यूटर की ____________ में उपयोग की जाती थीं।",
+    "options_hi": [
+      "1. पहली पीढ़ी",
+      "2. दूसरी पीढ़ी",
+      "3. तीसरी पीढ़ी",
+      "4. चौथी पीढ़ी"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "10",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "Information kiosks and bank ATMs are common examples that use a/an_______.",
+    "options_en": [
+      "1. joystick",
+      "2. touch screen",
+      "3. OCR",
+      "4. MICR"
+    ],
+    "question_hi": "सूचना कियोस्‍क और बैंक एटीएम (ATMs) सामान्‍य उदाहरण हैं जो ____________ उपयोग करते हैं।",
+    "options_hi": [
+      "1. जॉयस्टिक",
+      "2. टच स्क्रीन",
+      "3. OCR",
+      "4. MICR"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "11",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "Which of the following is the output devices that help us listen to the audio coming out of a computer?",
+    "options_en": [
+      "1. Headphones",
+      "2. Projector",
+      "3. Printer",
+      "4. Monitor"
+    ],
+    "question_hi": "निम्‍नलिखित में से कौन-सा आउटपुट डिवाइस है जो हमें कंप्यूटर से निकलने वाले ऑडियो को सुनने में सहायता करता है?",
+    "options_hi": [
+      "1. हेडफोन",
+      "2. प्रोजेक्‍टर",
+      "3. प्रिंटर",
+      "4. मॉनिटर"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "12",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "Which of the following is not an example of impact printer?",
+    "options_en": [
+      "1. Dot matrix",
+      "2. Daisy wheel",
+      "3. Line",
+      "4. Inkjet"
+    ],
+    "question_hi": "निम्‍नलिखित में से कौन-सा इम्पैक्‍ट प्रिंटर का उदाहरण नहीं है?",
+    "options_hi": [
+      "1. डॉट मैट्रिक्‍स",
+      "2. डेज़ी व्हील",
+      "3. लाइन",
+      "4. इंकजेट"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "13",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "Which of the following plotters (New versions) include the scan conversion capability?",
+    "options_en": [
+      "1. Flat",
+      "2. Drum",
+      "3. Electrostatic",
+      "4. Raster"
+    ],
+    "question_hi": "निम्‍नलिखित में से किस प्लॉटर (नए संरण) में स्कैन रूपांतरण (Conversion) क्षमता शामिल है?",
+    "options_hi": [
+      "1. फ्लैट (Flat)",
+      "2. ड्रम (Drum)",
+      "3. इलेक्ट्रोस्टैटिक (Electrostatic)",
+      "4. रैस्‍टर (Raster)"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "14",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "Which of the following is often referred to as the brain or engine of a computer where most of the processing and operations take place?",
+    "options_en": [
+      "1. CPU",
+      "2. Magnetic core",
+      "3. Magnetic drum",
+      "4. Memory"
+    ],
+    "question_hi": "निम्‍नलिखित में से किसे प्राय: कंप्यूटर का मस्तिष्‍क या इंजन कहा जाता है जिसमें अधिकांश प्रोसेसिंग और ऑपरेशंस (processing and operations) होते हैं?",
+    "options_hi": [
+      "1. CPU",
+      "2. मैग्‍नेटिक कोर (Magnetic core)",
+      "3. मैग्‍नेटिक ड्रम (Magnetic drum)",
+      "4. मेमोरी (Memory)"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "15",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "Which of the following is equivalent to 2 KB?",
+    "options_en": [
+      "1. 2048 bytes",
+      "2. 2048 bits",
+      "3. 1024 bits",
+      "4. 1024 bytes"
+    ],
+    "question_hi": "निम्‍नलिखित में से कौन-सा, 2 KB के बराबर है?",
+    "options_hi": [
+      "1. 2048 बाइट्स",
+      "2. 2048 बिट्स",
+      "3. 1024 बिट्स",
+      "4. 1024 बाइट्स"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "16",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "Which of the following equipment is installed in a computer and allows the computer to connect to a network?",
+    "options_en": [
+      "1. Network Interface Card",
+      "2. Printer",
+      "3. Motherboard",
+      "4. Video card"
+    ],
+    "question_hi": "निम्‍नलिखित में से कौन-सा उपकरण कंप्यूटर में इनस्टॉल किया जाता है और कंप्यूटर को किसी नेटवर्क से कनेक्‍ट होने में सक्षम बनाता है?",
+    "options_hi": [
+      "1. नेटवर्क इंटरफेस कार्ड",
+      "2. प्रिंटर",
+      "3. मदरबोर्ड",
+      "4. वीडियो कार्ड"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "17",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "SCSI is an interface for disk drives, and it stands for:",
+    "options_en": [
+      "1. Small Computer System Integration",
+      "2. Simple Computer System Interface",
+      "3. Small Computer Socket Interface",
+      "4. Small Computer System Interface"
+    ],
+    "question_hi": "SCSI डिस्‍क ड्राइव के लिए एक इंटरफ़ेस है, और इसका पूर्ण रूप ___________________ होता है।",
+    "options_hi": [
+      "1. Small Computer System Integration (स्मॉल कंप्यूटर सिस्‍टम इंटीग्रेशन)",
+      "2. Simple Computer System Interface (सिंपल कंप्यूटर सिस्‍टम इंटरफ़ेस)",
+      "3. Small Computer Socket Interface (स्मॉल कंप्यूटर सॉकेट इंटरफ़ेस)",
+      "4. Small Computer System Interface (स्मॉल कंप्यूटर सिस्‍टम इंटरफ़ेस)"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "18",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "_____________ is an electronic power supply that uses a switching regulator to convert electrical power efficiently in a computer.",
+    "options_en": [
+      "1. SCSI",
+      "2. SMPS",
+      "3. GPS",
+      "4. NIC"
+    ],
+    "question_hi": "_____________ एक इलेक्ट्रॉनिक पावर सप्‍लाई (electronic power supply) है जो कंप्यूटर में विद्युत शक्ति (electrical power) को कुशलतापूर्वक परिवर्तित करने के लिए एक स्विचिंग रेगुलेटर का उपयोग करती है।",
+    "options_hi": [
+      "1. SCSI",
+      "2. SMPS",
+      "3. GPS",
+      "4. NIC"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "19",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "After switching on, the process to bring the operating system from Hard Disk to memory is called:",
+    "options_en": [
+      "1. Searching",
+      "2. Booting",
+      "3. Browsing",
+      "4. Executing"
+    ],
+    "question_hi": "स्विच ऑन करने के बाद ऑपरेटिंग सिस्‍टम को हार्ड डिस्‍क से मेमोरी में लाने की प्रक्रिया ___________ कहलाती है।",
+    "options_hi": [
+      "1. सर्चिंग (Searching)",
+      "2. बूटिंग (Booting)",
+      "3. ब्राउज़िंग (Browsing)",
+      "4. एक्सीक्यूटिंग (Executing)"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "20",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "______ is a lower-resolution form of video encoding.",
+    "options_en": [
+      "1. CIF",
+      "2. GIF",
+      "3. BMP",
+      "4. WAV"
+    ],
+    "question_hi": "______, वीडियो एन्कोडिंग का लोअर-रिज़ॉल्यूशन फॉर्म (lower-resolution form) है।",
+    "options_hi": [
+      "1. CIF",
+      "2. GIF",
+      "3. BMP",
+      "4. WAV"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "21",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "Which of the following is the most common image file types?",
+    "options_en": [
+      "1. Jpeg",
+      "2. doc",
+      "3. Pdf",
+      "4. Txt"
+    ],
+    "question_hi": "निम्‍नलिखित में से कौन सा सबसे सामान्‍य छवि (image) फ़ाइल प्रकार है?",
+    "options_hi": [
+      "1. Jpeg",
+      "2. doc",
+      "3. Pdf",
+      "4. Txt"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "22",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "Which of the following antivirus is a powerful tool that finds and removes malware from your PC in Windows 11?",
+    "options_en": [
+      "1. Microsoft Defender",
+      "2. Microsoft scanner",
+      "3. Diskcleanup",
+      "4. Disk fragmentor"
+    ],
+    "question_hi": "निम्‍नलिखित में से कौन सा एंटीवायरस एक शक्तिशाली उपकरण है जो विंडोज 11 में आपके पीसी (PC) से मैलवेयर ढूंढता है और हटाता है?",
+    "options_hi": [
+      "1. माइक्रोसॉफ्ट डिफेंडर (Microsoft Defender)",
+      "2. माइक्रोसॉफ्ट स्कैनर (Microsoft scanner)",
+      "3. डिस्‍कक्लीनअप (Diskcleanup)",
+      "4. डिस्‍क फ्रॅग्मेंटर (Disk fragmentor)"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "23",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "Which of the following is malicious software that enters a user’s computer, gathers data from the device and user, and sends it to third parties without their consent?",
+    "options_en": [
+      "1. Spyware",
+      "2. Firewall",
+      "3. Adware",
+      "4. Gateway"
+    ],
+    "question_hi": "निम्‍नलिखित में से कौन-सा मेलिसियस (malicious) सॉफ्टवेयर है जो उपयोगकर्ता के कंप्यूटर में प्रवेश करता है, डिवाइस और उपयोगकर्ता से डेटा एकत्र करता है, और उनकी सहमति के बिना इसे तीसरे पक्ष (third parties) को भेजता है?",
+    "options_hi": [
+      "1. स्पाइवेयर (Spyware)",
+      "2. फ़ायरवॉल (Firewall)",
+      "3. एडवेयर (Adware)",
+      "4. गेटवे (Gateway)"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "24",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "_________ helps to eliminate software conflicts that occur when you install a program or update or when you run a program in Windows.",
+    "options_en": [
+      "1. A clean boot",
+      "2. A reboot",
+      "3. Shut down",
+      "4. The task manager"
+    ],
+    "question_hi": "जब आप कोई प्रोग्राम इनस्टॉल करते हैं या अपग्रेड करते हैं या जब आप विन्डोज़ में कोई प्रोग्राम चलाते हैं तो _________, सॉफ्टवेयर कॉन्फ्लिक्ट्स को दूर करने में सहायता करता है।",
+    "options_hi": [
+      "1. क्लीन बूट",
+      "2. रिबूट",
+      "3. शट डाउन",
+      "4. टास्‍क मेनेजर"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "25",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "Which of the following key along with combination of other keys can be used in Windows 11 to resize and arrange windows on computer?",
+    "options_en": [
+      "1. Windows key",
+      "2. Enter",
+      "3. Shift",
+      "4. Tab"
+    ],
+    "question_hi": "निम्‍नलिखित में से कौन-सी कुंजी (key) अन्‍य कुंजियों के संयोजन के साथ विंडोज 11 में कंप्यूटर पर विंडोज़ का आकार बदलने और व्‍यवस्थित करने के लिए उपयोग की जा सकती है?",
+    "options_hi": [
+      "1. विंडोज की (Windows key)",
+      "2. एंटर (Enter)",
+      "3. शिफ्ट (Shift)",
+      "4. टॅब (Tab)"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "26",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "Which of the following keyboard shortcuts is used to add a bookmark of the page currently opened in Chrome browser?",
+    "options_en": [
+      "1. Ctrl + B",
+      "2. Ctrl + D",
+      "3. Alt + B",
+      "4. Ctrl + M"
+    ],
+    "question_hi": "निम्‍नलिखित में से कौन-सा कीबोर्ड शॉर्टकट क्रोम ब्राउज़र में वर्तमान खुले हुए पेज को बुकमार्क में जोड़ने के लिए उपयोग किया जाता है?",
+    "options_hi": [
+      "1. Ctrl + B",
+      "2. Ctrl + D",
+      "3. Alt + B",
+      "4. Ctrl + M"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "27",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "What is the full form of PDF?",
+    "options_en": [
+      "1. Portable Data Format",
+      "2. Partial Data File",
+      "3. Portable Document Format",
+      "4. Portable Document File"
+    ],
+    "question_hi": "PDF का पूर्ण रूप क्या है?",
+    "options_hi": [
+      "1. Portable Data Format (पोर्टेबल डेटा फॉर्मेट)",
+      "2. Partial Data File (पार्शियल डेटा फाइल)",
+      "3. Portable Document Format (पोर्टेबल डॉक्यूमेंट फॉर्मेट)",
+      "4. Portable Document File (पोर्टेबल डॉक्यूमेंट फाइल)"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "28",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "Which of the following statements is/are FALSE?\n (i) HTTPS is the secured version of HTTP.\n (ii) HTTPS protocol uses Transport Layer Security (TLS).",
+    "options_en": [
+      "1. Only (i)",
+      "2. Only (ii)",
+      "3. Both (i) and (ii)",
+      "4. Neither (i) nor (ii)"
+    ],
+    "question_hi": "निम्‍नलिखित में से कौन सा/से कथन असत्‍य है/हैं?\n \n (i) HTTPS, HTTP का सुरक्षित संस्‍करण है।\n (ii) HTTPS प्रोटोकॉल ट्रांसपोर्ट लेयर सिक्योरिटी (TLS) का उपयोग करता है।",
+    "options_hi": [
+      "1. केवल (i)",
+      "2. केवल (ii)",
+      "3. (i) और (ii) दोनों",
+      "4. न तो (i) और न ही (ii)"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "29",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "Any entity that has digitally signed some information cannot, at a later time, deny having signed it. This property is known as:",
+    "options_en": [
+      "1. Authenticity",
+      "2. Integrity",
+      "3. Non-repudiation",
+      "4. Validity"
+    ],
+    "question_hi": "कोई भी संस्था (entity) जिसने कुछ सूचनाओं पर डिजिटल रूप से हस्ताक्षर किए हैं, बाद में उस पर हस्ताक्षर करने से इनकार नहीं कर सकती। इस गुण (property) को ________ के रूप में जाना जाता है।",
+    "options_hi": [
+      "1. सत्‍यता (Authenticity)",
+      "2. अखंडता (Integrity)",
+      "3. गैर-अस्वीकृति (Non-repudiation)",
+      "4. वैधता (Validity)"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "30",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "Which of the following statements is FALSE?",
+    "options_en": [
+      "1. Both internet and intranet are the same concepts.",
+      "2. Internet is an example of WAN.",
+      "3. A WAN consists of many LANs.",
+      "4. The coverage area of MAN is larger than the LAN."
+    ],
+    "question_hi": "निम्‍न कथनों में से कौन-सा असत्‍य है?",
+    "options_hi": [
+      "1. इंटरनेट और इंट्रानेट दोनों एक ही अवधारणाएं (concepts) हैं।",
+      "2. इंटरनेट WAN का एक उदाहरण है।",
+      "3. एक WAN में कई LANs होते हैं।",
+      "4. MAN का कवरेज क्षेत्र LAN से बड़ा होता है।"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "31",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "E-mail is transmitted over the _______ from one user to another.",
+    "options_en": [
+      "1. client",
+      "2. program",
+      "3. internet",
+      "4. backbone"
+    ],
+    "question_hi": "ई-मेल _______ के माध्‍यम से एक उपयोगकर्ता से दूसरे उपयोगकर्ता तक प्रेषित किया जाता है।",
+    "options_hi": [
+      "1. क्लाइंट",
+      "2. प्रोग्राम",
+      "3. इन्‍टरनेट",
+      "4. बैकबोन"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "32",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "Which of the following keyboard shortcuts can be used for the 'center' alignment of a paragraph in MS-Word 2019?",
+    "options_en": [
+      "1. Ctrl+E",
+      "2. Alt+C",
+      "3. Ctrl+C",
+      "4. Ctrl+J"
+    ],
+    "question_hi": "MS-Word 2019 में पैराग्राफ के 'केंद्र' संरेखण (center alignment) के लिए निम्‍नलिखित में से किस कीबोर्ड शॉर्टकट का उपयोग किया जा सकता है?",
+    "options_hi": [
+      "1. Ctrl+E",
+      "2. Alt+C",
+      "3. Ctrl+C",
+      "4. Ctrl+J"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "33",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "What is the result of the following MS-Excel 2019 formula?\n =4^2^3",
+    "options_en": [
+      "1. 4096",
+      "2. 65",
+      "3. 6561",
+      "4. 8"
+    ],
+    "question_hi": "निम्‍नलिखित MS-Excel 2019 फॉर्मूला का परिणाम क्या है?\n =4^2^3",
+    "options_hi": [
+      "1. 4096",
+      "2. 65",
+      "3. 6561",
+      "4. 8"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "34",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "Which of the following shortcut keys is used to select everything on a page in Google Chrome?",
+    "options_en": [
+      "1. Ctrl+A",
+      "2. Ctrl+D",
+      "3. Ctrl+F",
+      "4. Ctrl+O"
+    ],
+    "question_hi": "Google chrome में पेज पर सब कुछ चुनने के लिए निम्‍नलिखित में से किस शॉर्टकट कुंजी का उपयोग किया जाता है?",
+    "options_hi": [
+      "1. Ctrl+A",
+      "2. Ctrl+D",
+      "3. Ctrl+F",
+      "4. Ctrl+O"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "35",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "The ______ address defines the type and location of the resource on the internet.",
+    "options_en": [
+      "1. MAC",
+      "2. Logical",
+      "3. NetBIOS",
+      "4. Uniform Resource Locator"
+    ],
+    "question_hi": "_________ एड्रेस, इंटरनेट पर संसाधन के प्रकार और स्थान को परिभाषित करता है।",
+    "options_hi": [
+      "1. मैक (MAC)",
+      "2. लॉजिकल",
+      "3. NetBIOS",
+      "4. यूनिफ़ॉर्म रिसोर्स लोकेटर"
+    ],
+    "answer": 3
+  },
+  {
+    "questionNumber": "36",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "Which of the following shortcut keys in sequence can be used to access format painter in MS-Excel 2019?",
+    "options_en": [
+      "1. ALT + F + T",
+      "2. ALT + H + F + P",
+      "3. ALT + H + F",
+      "4. ALT + H + P"
+    ],
+    "question_hi": "MS-Excel 2019 में फॉर्मेट पेंटर को एक्‍सेस करने के लिए निम्‍नलिखित में से किस शॉर्टकट कुंजी का सीक्वेंस (sequence) में उपयोग किया जा सकता है?",
+    "options_hi": [
+      "1. ALT + F + T",
+      "2. ALT + H + F + P",
+      "3. ALT + H + F",
+      "4. ALT + H + P"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "37",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "Which of the following features in MS-Word 2019 is used to type very small letters or numbers just above the line of text?",
+    "options_en": [
+      "1. Superscript",
+      "2. Subscript",
+      "3. Formatpainter",
+      "4. Strikethrough"
+    ],
+    "question_hi": "MS-Word 2019 में निम्‍नलिखित में से किस सुविधा का उपयोग टेक्‍स्‍ट की पंक्ति के ठीक ऊपर बहुत छोटे अक्षरों या संख्याओं को टाइप करने के लिए किया जाता है?",
+    "options_hi": [
+      "1. सुपरस्क्रिप्‍ट",
+      "2. सबस्क्रिप्‍ट",
+      "3. फॉर्मेटपेंटर",
+      "4. स्ट्राइकथ्रू"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "38",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "Which of the following options is true with reference to the font group in MS-Word 2019?",
+    "options_en": [
+      "1. It collects the content after cutting or copying and then pasting the content you want.",
+      "2. It is used to format the text in different ways.",
+      "3. It is useful to format the SQL database in different ways.",
+      "4. It is a pre-formatted style used to apply the formatting wherever you want."
+    ],
+    "question_hi": "MS-Word 2019 में फॉन्‍ट ग्रुप के संदर्भ में निम्‍नलिखित में से कौन-सा विकल्‍प सत्‍य है?",
+    "options_hi": [
+      "1. यह आपकी इच्छित सामग्री को कट या कॉपी करने के बाद एकत्र करता है और बाद में इसे पेस्‍ट करता है।",
+      "2. इसका उपयोग टेक्‍स्‍ट को विभिन्‍न तरीकों से प्रारूपित (फॉर्मेट) करने के लिए किया जाता है।",
+      "3. यह SQL डेटाबेस को विभिन्‍न तरीकों से प्रारूपित (फॉर्मेट) करने के लिए उपयोगी होता है।",
+                 "4. यह एक पूर्व-प्रारूपित (प्री-फोर्मेटेड) शैली है जिसका उपयोग आप जहाँ चाहें वहाँ फोर्मेटिंग लागू करने के लिए करते हैं।"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "39",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "TCP is a commonly used protocol at the ______ layer.",
+    "options_en": [
+      "1. data link",
+      "2. application",
+      "3. transport",
+      "4. session"
+    ],
+    "question_hi": "TCP ______ लेयर पर सामान्‍य रूप से उपयोग किया जाने वाला प्रोटोकॉल है।",
+    "options_hi": [
+      "1. डेटा लिंक",
+      "2. एप्लिकेशन",
+      "3. ट्रांसपोर्ट",
+      "4. सेशन"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "40",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "ICMP protocol is primarily used:",
+    "options_en": [
+      "1. for connecting an ever-changing Internet Protocol (IP) address to a fixed physical machine address",
+      "2. for organising data in a way that ensures secure transmission between the server and the client",
+      "3. by network devices to diagnose network communication issues",
+      "4. to transfer messages from an e-mail server to an e-mail client"
+    ],
+    "question_hi": "ICMP प्रोटोकॉल का मुख्‍य रूप से उपयोग किया जाता है:",
+    "options_hi": [
+      "1. लगातार बदलते इंटरनेट प्रोटोकॉल (आईपी) पते को एक निश्चित भौतिक मशीन पते से जोड़ने के लिए।",
+      "2. डेटा को इस तरह व्‍यवस्थित करने के लिए कि सर्वर और क्लाइंट के बीच सुरक्षित ट्रांसमिशन सुनिश्चित हो।",
+      "3. नेटवर्क संचार समस्याओं का निदान करने के लिए नेटवर्क उपकरणों द्वारा।",
+      "4. किसी ई-मेल सर्वर से किसी ई-मेल क्लाइंट में संदेश स्थानांतरित करने के लिए।"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "41",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "What is the keyboard shortcut to cut a selected text in MS-Word 2019?",
+    "options_en": [
+      "1. Ctrl+X",
+      "2. Alt+X",
+      "3. Ctrl+C",
+      "4. Alt+Ctrl+C"
+    ],
+    "question_hi": "MS-Word 2019 में चयनित (selected) टेक्‍स्‍ट को काटने के लिए कीबोर्ड शॉर्टकट क्या है?",
+    "options_hi": [
+      "1. Ctrl+X",
+      "2. Alt+X",
+      "3. Ctrl+C",
+      "4. Alt+Ctrl+C"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "42",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "Which of the following is NOT a function of FTP while dealing with files over the internet?",
+    "options_en": [
+      "1. Uploading",
+      "2. Creating",
+      "3. Downloading",
+      "4. Transfer"
+    ],
+    "question_hi": "इंटरनेट पर फाइलों के साथ व्‍यवहार (कार्य) करते समय निम्‍नलिखित में से कौन-सा, FTP का कार्य नहीं है?",
+    "options_hi": [
+      "1. अपलोडिंग",
+      "2. क्रिएटिंग",
+      "3. डाउनलोडिंग",
+      "4. ट्रांसफर"
+    ],
+    "answer": 1
+  },
+  {
+    "questionNumber": "43",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "Press ________________ to restart (soft boot) a computer system when it hangs up and freezes.",
+    "options_en": [
+      "1. Ctrl+Alt+Enter",
+      "2. Ctrl+Shift+Delete",
+      "3. Ctrl+Alt+Delete",
+      "4. Ctrl+Shift+Insert"
+    ],
+    "question_hi": "कंप्यूटर सिस्‍टम के हैंग होने और फ़्रीज होने पर, रिस्टार्ट (सॉफ्ट बूट) करने के लिए _________ दबाएं।",
+    "options_hi": [
+      "1. Ctrl+Alt+Enter",
+      "2. Ctrl+Shift+Delete",
+      "3. Ctrl+Alt+Delete",
+      "4. Ctrl+Shift+Insert"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "44",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "Which of the following options can be used to open a worksheet in MS-Excel 2019?",
+    "options_en": [
+      "1. Click Format -> Open",
+      "2. Click File -> Close",
+      "3. Click File -> Open",
+      "4. Click Format -> Edit"
+    ],
+    "question_hi": "MS-Excel 2019 में वर्कशीट खोलने के लिए निम्‍नलिखित में से किस विकल्‍प का उपयोग किया जा सकता है?",
+    "options_hi": [
+      "1. क्लिक करें Format -> Open",
+      "2. क्लिक करें File -> Close",
+      "3. क्लिक करें File -> Open",
+      "4. क्लिक करें Format -> Edit"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "45",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "Another name of an MS-Excel file is ______.",
+    "options_en": [
+      "1. e-spreadsheet",
+      "2. worksheet",
+      "3. workbook",
+      "4. Table"
+    ],
+    "question_hi": "MS-Excel फ़ाइल का दूसरा नाम ______ है।",
+    "options_hi": [
+      "1. ई-स्प्रेडशीट",
+      "2. वर्कशीट",
+      "3. वर्कबुक",
+      "4. टेबल"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "46",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "Which of the following is a logical function used in MS-Excel 2019?",
+    "options_en": [
+      "1. IF",
+      "2. NPV",
+      "3. NOW",
+      "4. FIND"
+    ],
+    "question_hi": "निम्‍न में से कौन-सा, MS-Excel 2019 में प्रयुक्‍त एक लॉजिकल फंक्‍शन है?",
+    "options_hi": [
+      "1. IF",
+      "2. NPV",
+      "3. NOW",
+      "4. FIND"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "47",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "Which of the following refers to the legend of a chart in MS-Excel 2019?",
+    "options_en": [
+      "1. It is the area where the data in a chart is plotted.",
+      "2. It is a row or column of numbers that are entered in a worksheet and plotted in a chart.",
+      "3. It clarifies what the various axes, colors or labels on a chart mean.",
+      "4. It is used to calculate, summarise, and analyse data that lets you see comparisons, patterns, and the trends in data."
+    ],
+    "question_hi": "निम्‍नलिखित में से कौन-सा, MS-Excel 2019 में चार्ट के लीजेंड को संदर्भित करता है?",
+    "options_hi": [
+      "1. यह वह क्षेत्र है जहां चार्ट में डेटा प्लॉट किया जाता है।",
+      "2. यह संख्याओं की एक पंक्ति (रॉ) या स्तंभ (कॉलम) है जिसे वर्कशीट में दर्ज किया जाता है और चार्ट में प्लॉट किया जाता है।",
+      "3. यह स्‍पष्‍ट करता है कि चार्ट पर विभिन्‍न अक्षों, रंगों या लेबलों का क्या मतलब है।",
+      "4. इसका उपयोग डेटा की गणना, सारांश और विश्लेषण करने के लिए किया जाता है जिससे आप डेटा में तुलना, पैटर्न और रूझान देख सकते हैं।"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "48",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "What is the keyboard shortcut to apply the currency format with two decimal places (negative numbers in parentheses) in MS-Excel 2019?",
+    "options_en": [
+      "1. Ctrl + Shift + dollar sign ($)",
+      "2. Ctrl + Shift + hash sign (#)",
+      "3. Ctrl + Shift + percentage sign (%)",
+      "4. Alt + Shift + dollar sign ($)"
+    ],
+    "question_hi": "MS-Excel 2019 में दो दशमलव स्थानों (कोष्‍ठक में ऋणात्‍मक संख्या) के साथ मुद्रा प्रारूप (currency format) को लागू करने के लिए कीबोर्ड शॉर्टकट क्या है?",
+    "options_hi": [
+      "1. Ctrl + Shift + डॉलर चिह्न ($)",
+      "2. Ctrl + Shift + हैश चिह्न (#)",
+      "3. Ctrl + Shift + प्रतिशत चिह्न (%)",
+      "4. Alt + Shift + डॉलर चिह्न ($)"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "49",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "______ skills of spreadsheets makes it easier to read and understand important information.",
+    "options_en": [
+      "1. Printing",
+      "2. Function",
+      "3. Formatting",
+      "4. Cell reference"
+    ],
+    "question_hi": "स्प्रेडशीट के ______ कौशल से महत्‍वपूर्ण जानकारी को पढ़ना और समझना आसान हो जाता है।",
+    "options_hi": [
+      "1. प्रिंटिंग",
+      "2. फ़ंक्‍शन",
+      "3. फॉर्मेटिंग",
+      "4. सेल रेफरेंस"
+    ],
+    "answer": 2
+  },
+  {
+    "questionNumber": "50",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "Where is the Insert Function command button available in MS-Excel 2019?",
+    "options_en": [
+      "1. Formulas tab",
+      "2. Data tab",
+      "3. View tab",
+      "4. Insert tab"
+    ],
+    "question_hi": "MS-Excel 2019 में, इन्‍सर्ट फ़ंक्‍शन कमांड बटन कहां उपलब्‍ध होता है?",
+    "options_hi": [
+      "1. फ़ॉर्मूलास टैब",
+      "2. डेटा टैब",
+      "3. व्यू टैब",
+      "4. इन्‍सर्ट टैब"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "51",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "A cell range in an MS-Excel file is ______.",
+    "options_en": [
+      "1. a collection of selected cells",
+      "2. a collection of selected tabs",
+      "3. a collection of selected workbooks",
+      "4. a collection of selected menu options"
+    ],
+    "question_hi": "MS-Excel फ़ाइल में सेल रेंज, ______ होती है।",
+    "options_hi": [
+      "1. सिलेक्‍ट किए गए सेल्‍स का एक संग्रह",
+      "2. सिलेक्‍ट किए गए टैब का एक संग्रह",
+      "3. सिलेक्‍ट की गई वर्कबुक का एक संग्रह",
+      "4. सिलेक्‍ट किए गए मेन्यू विकल्‍प का एक संग्रह"
+    ],
+    "answer": 0
+  },
+  {
+    "questionNumber": "52",
+    "examDate": "30th May 2025 shift 01",
+    "question_en": "Data Sorting and Filtering options in MS-Excel 2019 appear under ________________.",
+    "options_en": [
+      "1. View->Sort and Filter",
+      "2. Insert->Sort and Filter",
+      "3. Home->Sort and Filter",
+      "4. Page Layout ->Sort and Filter"
+    ],
+    "question_hi": "MS-Excel में ‘डेटा सॉर्टिंग और फ़िल्‍टरिंग (Data Sorting and Filtering)’ ऑप्‍शन ______ के अंतर्गत होता है।",
+    "options_hi": [
+      "1. View->Sort and Filter",
+      "2. Insert->Sort and Filter",
+      "3. Home->Sort and Filter",
+      "4. Page Layout ->Sort and Filter"
+    ],
+    "answer": 2
+  },
 {
     "questionNumber": "1",
     "examDate": "15th March 2025 shift 01",
