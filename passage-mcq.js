@@ -121,7 +121,19 @@
   });
 
   const container = document.getElementById("testSection");
-  container.innerHTML += `<h3>आपने ${score}/5 सही उत्तर दिए</h3><button onclick="location.reload()">नया टेस्ट शुरू करें</button>`;
+  container.innerHTML += `
+  <h3>आपने ${score}/5 सही उत्तर दिए</h3>
+  <button onclick="location.reload()" style="
+    background-color: #e91e63;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    margin-top: 10px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  ">नया टेस्ट शुरू करें</button>
+`;
   const btn = container.querySelector("button[onclick='submitTest()']");
   if (btn) btn.style.display = "none";
 } 
