@@ -193,17 +193,20 @@ demo2: {
       });
     };
 
+let userName = "";
+let selectedLang = "";
+let selectedDate = "";
     function startTest() {
-      const name = document.getElementById("userName").value.trim();
-      const lang = document.getElementById("language").value;
-      const date = document.getElementById("passageDate").value;
+    userName = document.getElementById("userName").value.trim();
+  selectedLang = document.getElementById("language").value;
+  selectedDate = document.getElementById("passageDate").value;
 
       if (!name) {
         alert("कृपया नाम दर्ज करें");
         return;
       }
 
-      const passageData = data[date][lang];
+      const passageData = data[selectedDate][selectedLang];
       const container = document.getElementById("testSection");
       container.innerHTML = `
   <h3>गद्यांश:</h3>
@@ -295,12 +298,15 @@ demo2: {
 `;
   const btn = container.querySelector("button[onclick='submitTest()']");
   if (btn) btn.style.display = "none";
+        
+  const passageData = data[selectedDate][selectedLang];
+  let score = 0;
 // ✅ Google Sheet में केवल 4 डेटा भेजना
   const scriptURL = "https://script.google.com/macros/s/AKfycbzaSeOX0GxxdQe5CjW0rMlIvMBSwUjsgDRlemNnkoppK_6qmajoFsl9KgwbX9lf45RK/exec"; 
   const formData = new FormData();
-  formData.append("name", name);
-  formData.append("date", data[date].label);
-  formData.append("language", lang);
+  formData.append("name", userName);
+  formData.append("date", data[selectedDate].label);
+  formData.append("language", selectedLang);
   formData.append("score", `${score}/${passageData.questions.length}`);
 
   fetch(scriptURL, {
