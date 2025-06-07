@@ -296,7 +296,7 @@ demo2: {
   const btn = container.querySelector("button[onclick='submitTest()']");
   if (btn) btn.style.display = "none";
 // ✅ Google Sheet में केवल 4 डेटा भेजना
-  const scriptURL = "https://script.google.com/macros/s/AKfycbz81NDV5I0dfX7t5ybxX7MrOUIYc8yq6S-j-RAzSTDNQrJ4i-KqKvhNDbN1UQuN30YG/exec"; 
+  const scriptURL = "https://script.google.com/macros/s/AKfycbzaSeOX0GxxdQe5CjW0rMlIvMBSwUjsgDRlemNnkoppK_6qmajoFsl9KgwbX9lf45RK/exec"; 
   const formData = new FormData();
   formData.append("name", name);
   formData.append("date", data[date].label);
