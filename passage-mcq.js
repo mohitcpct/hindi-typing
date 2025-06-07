@@ -18,7 +18,7 @@
             { q: "Dr. Madhukar went to the patient’s house to examine him because:", options: ["he was a rich man", "he was bed-ridden", "he lived far away", "he was very poor"], answer: 1 },
             { q: "What was the reason for the patient’s miserable condition?", options: ["His wife could not find a doctor to examine him.", "They were too poor to buy the medicine the doctor had prescribed.", "He had been sick for many months and could not move.", "He was unemployed and there was no money to even buy some food."], answer: 3 },
             { q: "Dr. Madhukar was a _______ man.", options: ["generous", "greedy", "cunning", "proud"], answer: 0 },
-            { q: "Which of the following options gives the correct sequence of the story?\n a. The doctor was upset on seeing the pathetic condition of the poor patient.\n b. He gave the poor patient’s wife a box of medicine and told her to use it regularly. \n c. As Dr. Madhukar's patients were mostly poor, he hardly took any fee from them. \n d. The medicine the doctor had given the woman was money. ", options: ["dbca", "acbd", "cabd", "dabc"], answer: 2 }
+            { q: "Which of the following options gives the correct sequence of the story?\n\n a. The doctor was upset on seeing the pathetic condition of the poor patient.\n b. He gave the poor patient’s wife a box of medicine and told her to use it regularly. \n c. As Dr. Madhukar's patients were mostly poor, he hardly took any fee from them. \n d. The medicine the doctor had given the woman was money. ", options: ["dbca", "acbd", "cabd", "dabc"], answer: 2 }
           ]
         }
       }
@@ -57,14 +57,28 @@
       passageData.questions.forEach((q, index) => {
         const qDiv = document.createElement("div");
         qDiv.className = "question";
-        qDiv.innerHTML = `<b>प्रश्न ${index + 1}:</b> ${q.q}<div class="options"></div>`;
-        q.options.forEach((opt, i) => {
-          qDiv.querySelector(".options").innerHTML += `
-            <label><input type="radio" name="q${index}" value="${i}"> ${opt}</label>
-          `;
-        });
-        form.appendChild(qDiv);
-      });
+        // 🟢 प्रश्न शीर्षक बनाएँ (लाइन ब्रेक सपोर्ट सहित)
+  const questionTitle = document.createElement("b");
+  questionTitle.innerText = `प्रश्न ${index + 1}:`;
+
+  const questionPara = document.createElement("p");
+  questionPara.innerText = q.q;
+  questionPara.style.whiteSpace = "pre-line";
+
+  const optionsDiv = document.createElement("div");
+  optionsDiv.className = "options";
+
+  q.options.forEach((opt, i) => {
+    const label = document.createElement("label");
+    label.innerHTML = `<input type="radio" name="q${index}" value="${i}"> ${opt}`;
+    optionsDiv.appendChild(label);
+  });
+
+  qDiv.appendChild(questionTitle);
+  qDiv.appendChild(questionPara);
+  qDiv.appendChild(optionsDiv);
+  form.appendChild(qDiv);
+});
 
       document.getElementById("formSection").style.display = "none";
       container.style.display = "block";
