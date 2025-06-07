@@ -66,7 +66,76 @@
             { q: "Which of the following options gives the correct sequence of the story?\n\n a. The doctor was upset on seeing the pathetic condition of the poor patient.\n b. He gave the poor patient’s wife a box of medicine and told her to use it regularly. \n c. As Dr. Madhukar's patients were mostly poor, he hardly took any fee from them. \n d. The medicine the doctor had given the woman was money. ", options: ["dbca", "acbd", "cabd", "dabc"], answer: 2 }
           ]
         }
+      },
+{
+        label: "30th May 2025 - Shift 2",
+        hindi: {
+          passage: `अनोखी चिकित्सा \n\n मुकुल मधुकर पटना में रहने वाले एक नाटककार थे। चूंकि उन्होंने चिकित्सा का भी अध्ययन किया था, इसलिए उनको जानने वाले उन्हें डॉ. मधुकर बुलाते थे। उनके नाटक बहुत लोकप्रिय नहीं थे और उन्होंने ज्यादा कमाई नहीं की। एक डॉक्टर के रूप में उन्होंने शायद ही उन मरीजों से कोई शुल्क लिया था जो ज्यादातर गरीब थे। वह बहुत दयालु व्यक्ति थे और हमेशा गरीबों और जरूरतमंदों की मदद करने के लिए तैयार रहते थे। इसलिए, उनके पास आमतौर पर स्वयं के लिए बहुत कम पैसे होते थे। \n\n एकदिन फटे कपड़े पहरी हुई एक गरीब महिला ने डॉ. मधुकर को बुलाया। उसने उनसे उसके साथ घर चलने और अपने पति की जाँच करने का अनुरोध किया जो बहुत बीमार था। वह कुछ समय से बिस्तर पर पड़ा था और चलने में असमर्थ था। जब मधुकर ने परिवार से मुलाकात की, तो वह परिवार की दयनीय स्थिति देखकर परेशान हुआ। पति कई महीनों तक काम से दूर था और घर में शायद ही कोई खाना था। मधुकर ने रोगी की जाँच की और महिला से शाम को उससे मिलने को कहा। \n\n जब महिला शाम को मधुकर के घर आई, तो उसने उसे एक छोटा लेकिन भारी धातु बॉक्स दिया और कहा, "आपके पति के लिए दवा लीजिए। यदि आप इसे नियमित रूप से उपयोग करेंगी, तो वह शीघ्र ही ठीक हो जाएगा। वह पहले की तरह कार्य करने में सक्षम होगा। लेकिन जब तक आप घर नहीं पहुँच जाती हो तब तक आपको दवा का बॉक्स नहीं खोलना चाहिए।" \n\n "दवा कैसे लेनी है?" गरीब महिला ने पूछा। डॉ. मधुकर ने कहा, "आपको बॉक्स के अंदर कागज़ का एक छोटा सा टुकड़ा मिलेगा जिसमें दवा का उपयोग करने के लिए सभी निर्देश शामिल हैं।" \n\n महिला ने डॉक्टर का धन्यवाद किया और दवा के बॉक्स के साथ घर पहुँची। घर पहुँचने पर, वह अपने पति के बगल में बिस्तर पर बैठ गई। फिर उसने बॉक्स को ध्यान से खोला। वह सिक्के से भरा बॉक्स पाने पर हैरान थी। पैसो के ऊपर कागज़ का एक टुकड़ा था जिसमें लिखा थाः "जब भी आपको आवश्यकता महसूस हो तो कृपया इस दवा का उपयोग करें।"`,
+          questions: [
+           {
+    "q": "डॉ. मधुकर के पास पैसो की कमी क्यों थी?",
+    "options": [
+      "1. क्योंकि उन्होंने ज्यादा कमाई नहीं की।",
+      "2. क्योंकि उन्होंने नाटक लिखने पर पैसा बर्बाद कर दिया।",
+      "3. क्योंकि जो भी पैसा उनके पास था वह उन्होंने जरूरतमंदों की मदद के लिए दिया।",
+      "4. क्योंकि उन्होंने अपने मरीजों से कभी कोई शुल्‍क नहीं लिया।"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "डॉ. मधुकर रोगी के घर उसकी जाँच करने के लिए गए क्योंकि :",
+    "options": [
+      "1. वह एक अमीर आदमी था।",
+      "2. वह बिस्‍तर पर पड़े रेहने वाला व्‍यक्ति था।",
+      "3. वह बहुत दूर रहता था।",
+      "4. वह बहुत गरीब था।"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "रोगी की दयनीय स्थिति के लिए कारण क्या था?",
+    "options": [
+      "1. उसकी पत्नी को उसकी जांच के लिए कोई डॉक्‍टर नहीं मिला।",
+      "2. वे बहुत गरीब थे इसलिए डॉक्‍टर द्वारा निर्धारित दवा खरीद नहीं सकते थे।",
+      "3. वह कई महीनों से बीमार था और चल-फिर नहीं सकता था।",
+      "4. वह बेरोजगार था और उसके पास खाना खरीदने के लिए भी पैसे नहीं थे।"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "डॉ. मधुकर एक ______ आदमी थे।",
+    "options": [
+      "1. उदार",
+      "2. लालची",
+      "3. चालाक",
+      "4. घमंडी"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सा विकल्‍प कहानी का सही अनुक्रम देता है?\na. गरीब रोगी की दयनीय हालत देखकर डॉक्‍टर परेशान हो गए।\nb. डॉक्‍टर ने गरीब मरीज की पत्नी को दवा का बॉक्‍स दिया और उसे नियमित रूप से इस्तेमाल करने को कहा।\nc. चूंकि डॉ. मधुकर के ज्यादातर मरीज गरीब थे, उन्होंने उनसे शायद ही कोई शुल्‍क लिया था।\nd. डॉक्‍टर ने महिला को जो दवा दी थी वह पैसे थे।",
+    "options": [
+      "1. dbca",
+      "2. acbd",
+      "3. cabd",
+      "4. dabc"
+    ],
+    "answer": 3
+  }
+          ]
+        },
+        english: {
+          passage: `The Unique Medicine\n\nMukul Madhukar was a playwright living in Patna. Since he had studied medicine as well, he was called Dr. Madhukar by those who knew him. His plays were not very popular and he did not earn much. As a doctor he hardly charged any fee from his patients who were mostly poor. He was a very kind-hearted man and was always willing to help the poor and the needy. So, he was usually left with very little money for himself.\n\nOne day a poor woman dressed in rags called upon Dr. Madhukar. She requested him to come home with her and examine her husband who was very sick. He had been bedridden for some time and was unable to move. When Madhukar called on the family, he was distressed to see the miserable condition of the family. The husband had been out of work for many months and there was hardly any food in the house. Madhukar examined the patient and asked the woman to see him in the evening.\n\nWhen the woman came to Madhukar’s house in the evening, he gave her a small but heavy metal box and said, “Here is the medicine for your husband. If you use it regularly, he will soon get well. He will be able to work again as before. But you must not open the medicine box until you get home.”\n\n“How is the medicine to be taken?” asked the poor woman. “ You will find a small piece of paper inside the box which contains all the directions for using the medicine, “ said Dr. Madhukar. The woman thanked the doctor and rushed home with the box of medicine. On reaching home, she sat down on the bed beside her husband. Then she opened the box carefully. She was surprised to find the box full of coins. On top of the money was a piece of paper bearing the words: “ Please use this medicine whenever you feel the need.” `,
+          questions: [
+            { q: "Dr. Madhukar was usually short of money because he:", options: ["did not earn much.", "wasted money on writing plays.", "used whatever money he had to help the needy.", "never charged any fee from his patients."], answer: 2 },
+            { q: "Dr. Madhukar went to the patient’s house to examine him because:", options: ["he was a rich man", "he was bed-ridden", "he lived far away", "he was very poor"], answer: 1 },
+            { q: "What was the reason for the patient’s miserable condition?", options: ["His wife could not find a doctor to examine him.", "They were too poor to buy the medicine the doctor had prescribed.", "He had been sick for many months and could not move.", "He was unemployed and there was no money to even buy some food."], answer: 3 },
+            { q: "Dr. Madhukar was a _______ man.", options: ["generous", "greedy", "cunning", "proud"], answer: 0 },
+            { q: "Which of the following options gives the correct sequence of the story?\n\n a. The doctor was upset on seeing the pathetic condition of the poor patient.\n b. He gave the poor patient’s wife a box of medicine and told her to use it regularly. \n c. As Dr. Madhukar's patients were mostly poor, he hardly took any fee from them. \n d. The medicine the doctor had given the woman was money. ", options: ["dbca", "acbd", "cabd", "dabc"], answer: 2 }
+          ]
+        }
       }
+
     };
 
     window.onload = function () {
