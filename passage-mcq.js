@@ -127,11 +127,56 @@ demo2: {
         english: {
           passage: `It is interesting to note how different creatures defend themselves when faced with danger. The chameleon is a tree lizard which can change its colour to hide itself among leaves and twigs. It blends perfectly with the background so that it becomes difficult to spot. The pangolin has overlapping scales that cover its back. At the slightest danger it tucks its head between its legs and rolls itself into a ball. The scorpion, which is closely related to the spider family, has a long jointed tail with a sting at the end. The scorpion’s sting is said to be very dangerous, particularly to humans. The porcupine fish has prickly spines over its body. In danger, it puffs itself up and the spikes stick out. Any sea animal would keep a safe distance from this ball of prickles. \n\nIf we begin to think of strange defense mechanisms, the octopus, that has eight strong rubbery arms, called tentacles, could be described as a real marvel of nature. Some octopi release a cloud of black ink into the water and hide in it. Other octopi are cleverer. Instead of hiding inside the ink cloud, they release it in one direction and swim away quickly in another direction to deceive their enemies. The ink clouds confuse the sense of sight of the predators. Also, they confuse the predators’ sense of smell. If an octopus cannot be seen or smelled, it has a very good chance of escaping an attack.\n\nThere are two other devices that the octopi use to defend themselves. Some varieties of the octopi have the ability to change their skin to the colour and texture of seaweeds or rocks allowing them to blend with their environment. Some octopi can even shed their limbs and re-grow them later just as a lizard can re-grow its tail. If a predator catches a tentacle, the octopus sheds it immediately and frees itself from its hold. Then it swims away quickly to escape. Of course, it grows another tentacle later to replace the lost one.” `,
           questions: [
-            { q: "Dr. Madhukar was usually short of money because he:", options: ["did not earn much.", "wasted money on writing plays.", "used whatever money he had to help the needy.", "never charged any fee from his patients."], answer: 2 },
-            { q: "Dr. Madhukar went to the patient’s house to examine him because:", options: ["he was a rich man", "he was bed-ridden", "he lived far away", "he was very poor"], answer: 1 },
-            { q: "What was the reason for the patient’s miserable condition?", options: ["His wife could not find a doctor to examine him.", "They were too poor to buy the medicine the doctor had prescribed.", "He had been sick for many months and could not move.", "He was unemployed and there was no money to even buy some food."], answer: 3 },
-            { q: "Dr. Madhukar was a _______ man.", options: ["generous", "greedy", "cunning", "proud"], answer: 0 },
-            { q: "Which of the following options gives the correct sequence of the story?\n\n a. The doctor was upset on seeing the pathetic condition of the poor patient.\n b. He gave the poor patient’s wife a box of medicine and told her to use it regularly. \n c. As Dr. Madhukar's patients were mostly poor, he hardly took any fee from them. \n d. The medicine the doctor had given the woman was money. ", options: ["dbca", "acbd", "cabd", "dabc"], answer: 2 }
+            {
+    "q": "Which of the following is a variety of lizard?",
+    "options": [
+      "1. Spider",
+      "2. Chameleon",
+      "3. Octopus",
+      "4. Pangolin"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is most dangerous for humans?",
+    "options": [
+      "1. Sting of the scorpion",
+      "2. Scales of the pangolin",
+      "3. Tentacles of the octopus",
+      "4. Spikes of the porcupine fish"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What quality of the octopus can be inferred from the passage?",
+    "options": [
+      "1. It is a confused creature.",
+      "2. It gets frightened easily.",
+      "3. It can deceive its enemies.",
+      "4. It is a strong sea animal."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is NOT a defense mechanism of an octopus?",
+    "options": [
+      "1. Changing skin colour",
+      "2. Shedding a limb",
+      "3. Releasing a cloud of ink",
+      "4. Re-growing a limb"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following statements is true as per the given passage?",
+    "options": [
+      "1. The octopus has six strong tentacles.",
+      "2. The octopus can make itself invisible.",
+      "3. All creatures have identical defense mechanisms",
+      "4. The scorpion is closely related to the spider family."
+    ],
+    "answer": 3
+  }
           ]
         }
       }
