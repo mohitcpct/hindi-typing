@@ -207,7 +207,7 @@ let selectedDate = "";
   selectedLang = document.getElementById("language").value;
   selectedDate = document.getElementById("passageDate").value;
 
-      if (!userName) {
+      if (!userName || !selectedDate) {
         alert("कृपया नाम और दिनांक दोनों दर्ज करें");
         return;
       }
