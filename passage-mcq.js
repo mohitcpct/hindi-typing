@@ -185,6 +185,12 @@ demo2: {
 
     window.onload = function () {
       const passageDate = document.getElementById("passageDate");
+        const defaultOpt = document.createElement("option");
+  defaultOpt.value = "";
+  defaultOpt.textContent = "— कृपया दिनांक चुनें —";
+  defaultOpt.disabled = true;
+  defaultOpt.selected = true;
+  passageDate.appendChild(defaultOpt);
       Object.keys(data).forEach(key => {
         const opt = document.createElement("option");
         opt.value = key;
@@ -202,7 +208,7 @@ let selectedDate = "";
   selectedDate = document.getElementById("passageDate").value;
 
       if (!userName) {
-        alert("कृपया नाम दर्ज करें");
+        alert("कृपया नाम और दिनांक दोनों दर्ज करें");
         return;
       }
 
