@@ -347,6 +347,7 @@
   ];
 
   let paragraph = "";
+  let selectedParaTitle = "";
   let words = [];
   let currentIndex = 0;
   let userWords = [];
@@ -397,7 +398,7 @@
       return;
     }
     
-   
+    selectedParaTitle = paraTitle;
     paragraph = selected[timeKey];
     totalTime = (timeKey === "short" ? 1 : timeKey === "medium" ? 2 : 15) * 60;
     words = paragraph.split(" ");
@@ -545,17 +546,18 @@ function endTest() {
     
   resultDiv.scrollIntoView({ behavior: "smooth", block: "start" });
 
-  submitToGoogleSheet(userName, wpm, accuracy, timeTaken.toFixed(2));
+  submitToGoogleSheet(userName, wpm, accuracy, timeTaken.toFixed(2), selectedParaTitle);
 }
 
-  function submitToGoogleSheet(name, wpm, accuracy, timeUsed) {
-  fetch("https://script.google.com/macros/s/AKfycbzJv5rCEsIQWPFmzO0GPBXb_R-IN36LzbvHVRC-lpeYq12EhTKC69nz7oJlfaWX-pPo/exec", {
+  function submitToGoogleSheet(name, wpm, accuracy, timeUsed, paraTitle) {
+  fetch("https://script.google.com/macros/s/AKfycbxP_eGdUrzycV4uk7D_31k76n1iQqFgRl22bzcCSo8tdjvqFj8x3n5tRbRr1zSWOY6M/exec", {
     method: "POST",
     body: new URLSearchParams({
       name: name,
       wpm: wpm,
       accuracy: accuracy,
-      timeUsed: timeUsed
+      timeUsed: timeUsed,
+      paragraph: paraTitle
     })
   })
   .then(response => console.log("✅ Google Sheet Updated"))
