@@ -243,6 +243,128 @@ const questionBank = {
     "answer": 3
   }
 ],
+"31st May 2025 - Shift1": [
+  {
+    "q": "During the winters, the North-Western part of India gets rainfall from:",
+    "options": [
+      "1. thunderstorms",
+      "2. retreating monsoon",
+      "3. western disturbances",
+      "4. tropical cyclones"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "शीत ऋतु के दौरान भारत के उत्‍तर-पश्चिमी भाग में ______ से वर्षा होती है।",
+    "options": [
+      "1. तड़ित् झंझावात",
+      "2. प्रत्यागामी मानसून",
+      "3. पश्चिमी विक्षोभ",
+      "4. उष्‍णकटिबंधीय चक्रवात"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Keibul Lamjao, the only floating National Park in the world, is in:",
+    "options": [
+      "1. Assam",
+      "2. Meghalaya",
+      "3. Manipur",
+      "4. Mizoram"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "दुनिया का एकमात्र तैरता राष्ट्रीय उद्यान, केबुल लामजाओ (Keibul Lamjao), _________ में स्थित है।",
+    "options": [
+      "1. असम",
+      "2. मेघालय",
+      "3. मणिपुर",
+      "4. मिज़ोरम"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following pairs is/are correctly matched? <br>1. Nokrek Biosphere Reserve : Garo Hills <br>2. Logtak (Loktak) Lake : Barail Range <br>3. Namdapha National Park : Dafla Hills",
+    "options": [
+      "1. Only 1",
+      "2. Both 2 and 3",
+      "3. 1, 2 and 3",
+      "4. Only 3"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सा/से युग्‍म सुमेलित है/हैं?  <br>1. नोक्रेक बायोस्फियर रिज़र्व : गारो पहाड़ियाँ  <br>2. लोगटक (लोकतक) झील : बरेल पर्वत श्रेणी <br>3. नमदाफा राष्ट्रीय उद्यान : डफला पहाड़ियाँ",
+    "options": [
+      "1. केवल 1",
+      "2. 2 और 3 दोनों",
+      "3. 1, 2 और 3",
+      "4. केवल 3"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The disease Filariasis is caused by:",
+    "options": [
+      "1. Ascaris",
+      "2. Wuchereria bancrofti",
+      "3. Plasmodium",
+      "4. Tenia solium"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "फाइलरिया रोग (Filariasis) ______ के कारण होता है।",
+    "options": [
+      "1. ऐस्केरिस (Ascaris)",
+      "2. वूखेरेरिया बैंक्रोफ्टाई (Wuchereria bancrofti)",
+      "3. प्लाज्मोडियम (Plasmodium)",
+      "4. टेनिया सोलियम (Tenia solium)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The central figure of cultural awakening in India was Raja Ram Mohan Roy, known as the 'father of the Indian Renaissance', he belonged to _________________. Options :",
+    "options": [
+      "1. Bihar",
+      "2. Bengal",
+      "3. Orissa",
+      "4. Madras"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "भारत में सांस्कृतिक जागृति की केंद्रीय (प्रमुख) हस्ती राजा राम मोहन राय थे, जिन्हें 'भारतीय पुनर्जागरण के जनक' के रूप में जाना जाता है, वे _________ से संबंधित थे।",
+    "options": [
+      "1. बिहार",
+      "2. बंगाल",
+      "3. उड़ीसा",
+      "4. मद्रास"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Under which Article of the Constitution of India are fundamental rights provided to citizens?",
+    "options": [
+      "1. Articles 12 to 35",
+      "2. Articles 112 to 135",
+      "3. Articles 212 to 235",
+      "4. Article 5 to 11"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "भारतीय संविधान के किस अनुच्छेद के अंतर्गत नागरिकों को मौलिक अधिकार प्रदान किए गए हैं?",
+    "options": [
+      "1. अनुच्छेद 12 से 35",
+      "2. अनुच्छेद 112 से 135",
+      "3. अनुच्छेद 212 से 235",
+      "4. अनुच्छेद 5 से 11"
+    ],
+    "answer": 0
+  }
+],
   
   "31st May 2025 - Shift2": [
         {
