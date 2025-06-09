@@ -731,6 +731,128 @@ const questionBank = {
     ],
     "answer": 0
   }
+],
+ "16th March 2025 - Shift1": [
+  {
+    "q": "In which state of India is Mawsynram, known to be (as of 2019) the wettest place on Earth as per the Guinness World Records authority, located? Options :",
+    "options": [
+      "1. Meghalaya",
+      "2. Sikkim",
+      "3. Uttarakhand",
+      "4. Himachal Pradesh"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "2019 तक की स्थिति के अनुसार, गिनीज वर्ल्ड रिकॉर्ड्स अथॉरिटी के अनुसार, मौसिनराम, जिसे पृथ्वी पर सबसे अधिक नम स्थान के रूप में जाना जाता है, भारत के किस राज्‍य में स्थित है?",
+    "options": [
+      "1. मेघालय",
+      "2. सिक्किम",
+      "3. उत्‍तराखंड",
+      "4. हिमाचल प्रदेश"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following statements is/are correct? <br>1. Biodiversity is normally greater in the lower latitudes as compared to the higher latitudes. <br>2. Along the mountain gradients, biodiversity is normally greater in the lower altitudes as compared to the higher altitudes.",
+    "options": [
+      "1. Only 1",
+      "2. Only 2",
+      "3. Both 1 and 2",
+      "4. Neither 1 nor 2"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन से कथन सही हैं? <br>1. जैव विविधता ऊपरी अक्षांशों की तुलना में निम्‍न अक्षांशों में अधिक पाई जाती है। <br>2. जैव विविधता सामान्‍यतः उच्‍च अक्षांशों की तुलना में पर्वतीय ढालों के निम्‍न अक्षांशों में अधिक पाई जाती है।",
+    "options": [
+      "1. केवल 1",
+      "2. केवल 2",
+      "3. 1 और 2 दोनों",
+      "4. न तो 1 और न ही 2"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which method of water purification does NOT kill microorganisms?",
+    "options": [
+      "1. Boiling",
+      "2. Filtration",
+      "3. Chlorination",
+      "4. UV-irradiation"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "जल शोधन की निम्‍न में से किस क्रिया से सूक्ष्‍मजीवा नष्‍ट नहीं होते हैं?",
+    "options": [
+      "1. उबालने",
+      "2. छानने",
+      "3. क्लोरिनीकरण",
+      "4. UV-विकीरण"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Ascariasis is an infection of the ________.",
+    "options": [
+      "1. tonsils",
+      "2. small intestine",
+      "3. liver",
+      "4. heart"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एस्केरियासिस (ascariasis) _________ में होने वाला एक संक्रमण है।",
+    "options": [
+      "1. गलतुण्डिका",
+      "2. छोटी आंत",
+      "3. यकृत",
+      "4. ह्रदय"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Who among the following pioneered the social and religious movement of the 19th Century in India?",
+    "options": [
+      "1. Ram Mohan Roy",
+      "2. Dayanand Saraswati",
+      "3. Swami Vivekanand",
+      "4. Aurobindo Ghosh"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "भारत में, 19वीं शताब्दी में हुए प्रमुख सामाजिक और धार्मिक आंदोलनों में निम्‍न में से किसकी अग्रणी भूमिका थी?",
+    "options": [
+      "1. राम मोहन रॉय",
+      "2. दयानंद सरस्‍वती",
+      "3. स्वामी विवेकानंद",
+      "4. अरबिंदो घोष"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following statements is/are correct? <br>1) Article 20 of the Constitution of India states that no person can be convicted for any offence except for the violation of law in force at the time of the commission of the act charged as an offence. <br>2) Article 21 of the Constitution of India state that no person shall be deprived of his life and personal liberty except according to procedure established by law.",
+    "options": [
+      "1. Only 1",
+      "2. Only 2",
+      "3. Both 1 and 2",
+      "4. Neither 1 nor 2"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन से कौन सा/से कथन सही है/हैं? <br>1. भारतीय संविधान के अनुच्छेद 20 में कहा गया है कि कोई व्‍यक्ति किसी अपराध के लिए तब तक सिद्धदोष नहीं ठहराया जाएगा, जब तक कि उसने ऐसा कोई कार्य करने के समय, जो अपराध के रूप में आरोपित है, किसी प्रवृत्‍त विधि का उल्लंघन न किया हो। <br>2. भारतीय संविधान के अनुच्छेद 21 में कहा गया है कि किसी भी व्‍यक्ति को विधि द्वारा स्थापित क्रिया के अतिरिक्‍त उसके जीवन और वैयक्तिक स्‍वतंत्रता के अधिकार से वंचित नहीं किया जा सकता है।",
+    "options": [
+      "1. केवल 1",
+      "2. केवल 2",
+      "3. 1 और 2 दोनों",
+      "4. न तो 1 और न ही 2"
+    ],
+    "answer": 2
+  }
 ]
 };
 
