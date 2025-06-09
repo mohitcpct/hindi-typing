@@ -609,6 +609,128 @@ const questionBank = {
     ],
     "answer": 2
   }
+],
+   "15th March 2025 - Shift2": [
+  {
+    "q": "Certain regions of Tamil Nadu, Andhra Pradesh and Himachal Pradesh have rainy seasons from:",
+    "options": [
+      "1. September to January",
+      "2. October to December",
+      "3. December to March",
+      "4. February to May"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "तमिलनाडु, आंध्र प्रदेश और हिमाचल प्रदेश के कुछ निश्चित भागों में वर्षा ऋतु किन महीनों के दौरान होती है?",
+    "options": [
+      "1. सितंबर से जनवरी",
+      "2. अक्टूबर से दिसंबर",
+      "3. दिसंबर से मार्च",
+      "4. फरवरी से मई"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following series is true about energy flow in an ecosystem?",
+    "options": [
+      "1. Producers → Decomposers → Consumers",
+      "2. Decomposers → Consumers → Producers",
+      "3. Producers → Consumers → Decomposers",
+      "4. Consumers → Producers → Decomposers"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "पारिस्थितिकी तंत्र में ऊर्जा के प्रवाह के संबंध में निम्‍नलिखित में से कौन सा क्रम सही है?",
+    "options": [
+      "1. उत्पादक → अपघटक → उपभोक्ता",
+      "2. अपघटक → उपभोक्ता → उत्पादक",
+      "3. उत्पादक → उपभोक्ता → अपघटक",
+      "4. उपभोक्ता → उत्पादक → अपघटक"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "When one animal is used to suppress another, it is called ______. For example, if snakes are encouraged in an area, the rodent population will be controlled. Options :",
+    "options": [
+      "1. technical control of pests",
+      "2. pest control",
+      "3. botanical control of pests",
+      "4. biological control of pests"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "एक जीव द्वारा अन्‍य जीवों को नष्‍ट करना _____________ कहलाता है। उदाहरण के लिए, यदि किसी स्थान पर सांपों की संख्या बढ़ा दी जाए, तो वहां पर चूहों की संख्या नियंत्रित हो जाएगी।",
+    "options": [
+      "1. कीटों का तकनीकी नियंत्रण",
+      "2. कीट नियंत्रण",
+      "3. कीटों का वानस्‍पतिक नियंत्रण",
+      "4. कीटों का जैविक नियंत्रण"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Aristotle lantern is:",
+    "options": [
+      "1. a fresh water Echinodermata",
+      "2. a toothed chewing apparatus found in sea urchin",
+      "3. a circulatory system found in starfish",
+      "4. a lantern like structure found in brittle star"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एरिस्टोटल लैंटर्न (Aristotle lantern) क्या है?",
+    "options": [
+      "1. एक स्‍वच्‍छ जल का एकिनोडर्मेटा",
+      "2. समुद्री जलसाही (urchin) में पाई जाने वाली विशिष्‍ट दंतावलि",
+      "3. तारा मछली में पाया जाने वाला परिसंचरण तंत्र",
+      "4. भंगुर तारा (brittle star) में पाई जाने वाली लैंटर्न जैसी संरचना"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following may be regarded as the first labour association in India?",
+    "options": [
+      "1. The Bombay Mill Hand’s Association",
+      "2. The Bombay Worker’s Association",
+      "3. The Indian Worker’s Association",
+      "4. The Printer’s Union, Calcutta"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍नलिखित में से किसे भारत का पहला श्रमिक संघ माना जाता है?",
+    "options": [
+      "1. द बॉम्बे मिल हैंड्स एसोसिएशन",
+      "2. द बॉम्बे वर्कर्स एसोसिएशन",
+      "3. द इंडियन वर्कर्स एसोसिएशन",
+      "4. द प्रिंटर्स यूनियन, कलकत्ता"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The Right to equality is given under Article _______________________ of the Constitution of India.",
+    "options": [
+      "1. 14",
+      "2. 15",
+      "3. 16",
+      "4. 17"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "भारतीय संविधान में समानता का अधिकार अनुच्छेद ________ के अंतर्गत दिया गया है।",
+    "options": [
+      "1. 14",
+      "2. 15",
+      "3. 16",
+      "4. 17"
+    ],
+    "answer": 0
+  }
 ]
 };
 
