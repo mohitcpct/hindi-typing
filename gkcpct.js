@@ -121,6 +121,128 @@ const questionBank = {
     "answer": 1
   }
   ],
+  "30st May 2025 - Shift2": [
+  {
+    "q": "An easterly jet stream, called the sub-tropical easterly jet stream blows over peninsular India, approximately over 14°N during the ________ months. Options :",
+    "options": [
+      "1. winter",
+      "2. autumn",
+      "3. summer",
+      "4. monsoon"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एक पूर्वी जेट स्ट्रीम, जिसे उप-उष्‍णकटिबंधीय पूर्वी जेट स्ट्रीम कहा जाता है, प्रायद्वीपीय भारत में ________ के महीनों के दौरान लगभग 14°N पर बहती है।",
+    "options": [
+      "1. सर्दी",
+      "2. पतझड़",
+      "3. ग्रीष्‍म",
+      "4. मानसून"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is/are used as a bio fertiliser(s)?  <br>1. Agaricus <br>2. Nostoc <br>3. Spirogyra",
+    "options": [
+      "1. Both 1 and 2",
+      "2. Only 2",
+      "3. Both 2 and 3",
+      "4. Only 3"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्‍नलिखित में से किसका, जैव उर्वरक के रूप में उपयोग किया जाता है? <br> 1. ऐगैरिकस (Agaricus) <br> 2. नॉस्टॉक (Nostoc)  <br>3. स्पाइरोगाइरा (Spirogyra)",
+    "options": [
+      "1. 1 और 2 दोनों",
+      "2. केवल 2",
+      "3. 2 और 3 दोनों",
+      "4. केवल 3"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is farming along with animal husbandry called?",
+    "options": [
+      "1. Mixed farming",
+      "2. Mixed agriculture",
+      "3. Dairy farming",
+      "4. Truck farming"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "पशुपालन के साथ खेती को क्या कहते हैं?",
+    "options": [
+      "1. मिश्रित खेती (Mixed farming)",
+      "2. मिश्रित कृषि (Mixed agriculture)",
+      "3. दूध उत्पादन (Dairy farming)",
+      "4. ट्रक खेती (Truck farming)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Who among the following decided to withdraw its nominee directors from the boards of the private sector banks as per Narasimham Committee? Options :",
+    "options": [
+      "1. Registrar of Companies",
+      "2. Reserve Bank of India",
+      "3. State Governments",
+      "4. Registrar of Co-operative Societies"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "नरसिम्‍हम समिति के अनुसार निम्‍नलिखित में से किसने निजी क्षेत्र के बैंकों के बोर्ड से अपने नामित निदेशकों को हटाने का निर्णय लिया?",
+    "options": [
+      "1. कंपनियों के रजिस्ट्रार",
+      "2. भारतीय रिजर्व बैंक",
+      "3. राज्‍य सरकारें",
+      "4. सहकारी समितियों के रजिस्ट्रार"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Right to Information Act was passed in the year ________.",
+    "options": [
+      "1. 2000",
+      "2. 2001",
+      "3. 2003",
+      "4. 2005"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "सूचना का अधिकार अधिनियम वर्ष ________ में पारित किया गया था।",
+    "options": [
+      "1. 2000",
+      "2. 2001",
+      "3. 2003",
+      "4. 2005"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following statements is/are true about the role of Himalayas in India?  <br>1. The Himalayas act as a climatic divide between India and Central Asia.   <br>2. During winter, Himalayas protect India from cold and dry air masses of Central Asia .    <br>3. During monsoon months these mountain ranges act as an effective physical barrier for rain bearing south-west monsoon winds. Options :",
+    "options": [
+      "1. Only 1",
+      "2. Both 1 and 3",
+      "3. Both 2 and 3",
+      "4. 1, 2 and 3"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "भारत में हिमालय की भूमिका के बारे में निम्‍नलिखित में से कौन-सा/से कथन सत्‍य है/हैं?  <br>1. भारत और मध्‍य एशिया के बीच हिमालय एक जलवायु विभाजन के रूप में कार्य करता है।  <br>2. सर्दियों के दौरान, हिमालय मध्‍य एशिया की ठंडी और शुष्‍क हवा से भारत की रक्षा करता है।  <br>3. मानसून के महीनों के दौरान ये पर्वत श्रृंखलाएं वर्षा लाने वाली दक्षिण-पश्चिमी मानसूनी पवनों के लिए एक प्रभावी भौतिक अवरोध के रूप में कार्य करती हैं।",
+    "options": [
+      "1. केवल 1",
+      "2. 1 और 3 दोनों",
+      "3. 2 और 3 दोनों",
+      "4. 1, 2 और 3"
+    ],
+    "answer": 3
+  }
+],
   
   "31st May 2025 - Shift2": [
         {
