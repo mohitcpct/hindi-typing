@@ -1,125 +1,125 @@
 const questionBank = {
-  "13 जुलाई 2024": [
+  "30th May 2025 - Shift1": [
     {
-      q: "With the onset of monsoons, day temperature:",
-      options: [
-        "1. increases owing to the flow of hot winds",
-        "2. decreases owing to cloudiness and rainfall",
-        "3. does not vary much",
-        "4. decreases owing to snowfall in the north"
-      ],
-      answer: 1
-    },
-    {
-      q: "मानसून की शुरुआत के साथ, दिन के तापमान में क्या परिवर्तन आता है?",
-      options: [
-        "1. गर्म हवाओं के वहन के कारण बढ़ता है।",
-        "2. बादल और वर्षा के कारण घटता है।",
-        "3. विशेष परिवर्तन नहीं होता है।",
-        "4. उत्तर में हिमपात के कारण घटता है।"
-      ],
-      answer: 1
-    },
-    {
-      q: "Which of the following gases is NOT known as greenhouse gas?",
-      options: [
-        "1. Methane",
-        "2. Carbon dioxide",
-        "3. Nitrous oxide",
-        "4. Hydrogen"
-      ],
-      answer: 3
-    },
-    {
-      q: "निम्नलिखित में से किस गैस को ग्रीनहाउस गैस नहीं कहा जाता है?",
-      options: [
-        "1. मेथेन",
-        "2. कार्बन डाइऑक्साइड",
-        "3. नाइट्रस ऑक्साइड",
-        "4. हाइड्रोजन"
-      ],
-      answer: 3
-    },
-    {
-      q: "The CERES principles are:",
-      options: [
-        "1. codes for protection of salmon fisheries",
-        "2. a set of voluntary environmental standards for business",
-        "3. anti-pollution codes that were adopted at the first earth summit in 1992",
-        "4. designed to eliminate the production of greenhouse gases"
-      ],
-      answer: 1
-    },
-    {
-      q: "CERES सिद्धांत क्या हैं?",
-      options: [
-        "1. सैन मछली पालन की सुरक्षा हेतु नियमावली",
-        "2. व्यापार हेतु पर्यावरण के स्वैच्छिक मानकों का समूह",
-        "3. वर्ष 1992 के प्रथम पृथ्वी शिखर सम्मेलन में अंगीकृत की गई दूषण-विरोधी नियमावली",
-        "4. ग्रीनहाउस गैसों के उत्पादन को समाप्त करने हेतु निर्धारित सिद्धांत"
-      ],
-      answer: 1
-    },
-    {
-      q: "How many pairs of legs is found in an insect?",
-      options: [
-        "1. One pair",
-        "2. Two pairs",
-        "3. Three pairs",
-        "4. Four pairs"
-      ],
-      answer: 2
-    },
-    {
-      q: "कीटों में कितने जोड़ी पैर पाए जाते हैं?",
-      options: [
-        "1. एक जोड़ी",
-        "2. दो जोड़ी",
-        "3. तीन जोड़ी",
-        "4. चार जोड़ी"
-      ],
-      answer: 2
-    },
-    {
-      q: "Who among the following was the founder of the Satya Shodhak Samaj?",
-      options: [
-        "1. BR Ambedkar",
-        "2. Jyotiba Phule",
-        "3. Narayan Guru",
-        "4. Ramasamy Naicker"
-      ],
-      answer: 1
-    },
-    {
-      q: "सत्य शोधक समाज के संस्थापक निम्न में से कौन थे?",
-      options: [
-        "1. बीआर अंबेडकर",
-        "2. ज्योतिबा फुले",
-        "3. नारायण गुरु",
-        "4. रामस्वामी नाइकर"
-      ],
-      answer: 1
-    },
-    {
-      q: "A writ issued by the judiciary enquiring upon the executive to do what it should have done within its stipulated powers is called:",
-      options: [
-        "1. Habeas corpus",
-        "2. Mandamus",
-        "3. Prohibition",
-        "4. Quo Warranto"
-      ],
-      answer: 1
-    },
-    {
-      q: "न्यायपालिका द्वारा जारी एक रिट जिसके द्वारा कार्यपालिका से उसकी निर्धारित शक्तियों के भीतर किए जाने वाले कार्य के विषय में पूछा गया हो, उसे क्या कहते हैं?",
-      options: [
-        "1. बंदी प्रत्यक्षीकरण (Habeas corpus)",
-        "2. परमादेश (Mandamus)",
-        "3. निषेध (Prohibition)",
-        "4. अधिकार पृच्छा (Quo Warranto)"
-      ],
-      answer: 1
-    }
+    "q": "With the onset of monsoons, day temperature:",
+    "options": [
+      "1. increases owing to the flow of hot winds",
+      "2. decreases owing to cloudiness and rainfall",
+      "3. does not vary much",
+      "4. decreases owing to snowfall in the north"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "मानसून की शुरूआत के साथ, दिन के तापमान में क्या परिवर्तन आता है?",
+    "options": [
+      "1. गर्म हवाओं के प्रवाह के कारण बढ़ता है।",
+      "2. बादल और वर्षा के कारण घटता है।",
+      "3. विशेष परिवर्तन नहीं होता है।",
+      "4. उत्‍तर में हिमपात के कारण घटता है।"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following gases is NOT known as greenhouse gas?",
+    "options": [
+      "1. Methane",
+      "2. Carbon dioxide",
+      "3. Nitrous oxide",
+      "4. Hydrogen"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्‍नलिखित में से किस गैस को ग्रीनहाउस गैस नहीं कहा जाता है?",
+    "options": [
+      "1. मेथेन",
+      "2. कार्बन डाइऑक्साइड़",
+      "3. नाइट्रस ऑक्साइड़",
+      "4. हाइड्रोजन"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The CERES principles are:",
+    "options": [
+      "1. codes for protection of salmon fisheries",
+      "2. a set of voluntary environmental standards for business",
+      "3. anti-pollution codes that were adopted at the first earth summit in 1992",
+      "4. designed to eliminate the production of greenhouse gases"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "CERES सिद्धांत क्या हैं?",
+    "options": [
+      "1. सैल्‍मन मछली पालन की सुरक्षा हेतु नियमावली",
+      "2. व्‍यवसाय हेतु पर्यावरण के स्वैच्छिक मानकों का समूह",
+      "3. वर्ष 1992 के प्रथम पृथ्वी शिखर सम्मेलन में अंगीकृत की गई प्रदूषण-विरोधी नियमावली",
+      "4. ग्रीनहाउस गैसों के उत्पादन को समाप्‍त करने हेतु निर्धारित सिद्धांत"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "How many pairs of legs is found in an insect?",
+    "options": [
+      "1. One pair",
+      "2. Two pairs",
+      "3. Three pairs",
+      "4. Four pairs"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "कीटों (insect) में कितने जोड़ी पैर पाए जाते हैं?",
+    "options": [
+      "1. एक जोड़ी",
+      "2. दो जोड़ी",
+      "3. तीन जोड़ी",
+      "4. चार जोड़ी"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Who among the following was the founder of the Satya Shodhak Samaj?",
+    "options": [
+      "1. BR Ambedkar",
+      "2. Jyotiba Phule",
+      "3. Narayan Guru",
+      "4. Ramasamy Naicker"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "सत्‍य शोधक समाज के संस्थापक निम्‍न में से कौन थे?",
+    "options": [
+      "1. बीआर अंबेडकर",
+      "2. ज्योतिबा फुले",
+      "3. नारायण गुरू",
+      "4. रामस्वामी नाइकर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A writ issued by the judiciary enquiring upon the executive to do what it should have done within its stipulated powers is called: Options :",
+    "options": [
+      "1. Habeas corpus",
+      "2. Mandamus",
+      "3. Prohibition",
+      "4. Quo Warranto"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "न्यायपालिका द्वारा जारी एक रिट जिसके द्वारा कार्यपालिका से उसकी निर्दिष्‍ट शक्तियों के भीतर किए जाने वाले कार्य के विषय में पूछा गया हो, निम्‍न में से क्या कहलाती है?",
+    "options": [
+      "1. बंदी प्रत्‍यक्षीकरण (Habeas corpus)",
+      "2. परमादेश (Mandamus)",
+      "3. निषेध (Prohibition)",
+      "4. अधिकार पृच्छा (Quo Warranto)"
+    ],
+    "answer": 1
+  }
   ],
   
   "14 जुलाई 2024": [
