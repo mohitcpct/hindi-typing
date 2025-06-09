@@ -144,7 +144,7 @@ const questionBank = {
     "answer": 0
   },
   {
-    "q": "In which of the following states is the lion-tailed macaque found in its natural habitat? \n1. Tamil Nadu \n2. Kerala \n3. Karnataka \n4. Andhra Pradesh",
+    "q": "In which of the following states is the lion-tailed macaque found in its natural habitat? <br>1. Tamil Nadu <br>2. Kerala <br>3. Karnataka <br>4. Andhra Pradesh",
     "options": [
       "1. Only 1, 2 and 3",
       "2. Only 2",
@@ -154,7 +154,7 @@ const questionBank = {
     "answer": 0
   },
   {
-    "q": "शेर जैसी पूंछ वाला मकाक बंदर निलिखित में से किन राज्यों में अपने प्राकृतिक आवास में पाया जाता है? \n1. तमिलनाडु  \n2. केरल \n3. कर्नाटक \n4. आंध्र प्रदेश",
+    "q": "शेर जैसी पूंछ वाला मकाक बंदर निलिखित में से किन राज्यों में अपने प्राकृतिक आवास में पाया जाता है? <br>1. तमिलनाडु  <br>2. केरल <br>3. कर्नाटक <br>n4. आंध्र प्रदेश",
     "options": [
       "1. केवल 1, 2 और 3",
       "2. केवल 2",
