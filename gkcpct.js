@@ -487,7 +487,129 @@ const questionBank = {
     ],
     "answer": 3
   }
-  ]
+  ],
+  "15th March 2025 - Shift1": [
+  {
+    "q": "Haldia refinery is located in:",
+    "options": [
+      "1. West Bengal",
+      "2. Bihar",
+      "3. Andhra Pradesh",
+      "4. Odisha"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "हल्दिया रिफाइनरी कहाँ स्थित है?",
+    "options": [
+      "1. पश्चिम बंगाल",
+      "2. बिहार",
+      "3. आंध्र प्रदेश",
+      "4. ओडिशा"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In which sports did Rajyavardhan Rathore win a Silver medal in the Beijing Olympics?",
+    "options": [
+      "1. Boxing",
+      "2. Shooting",
+      "3. Kho-Kho",
+      "4. Billiards"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "बीजिंग ओलंपिक में राज्‍यवर्धन राठौर ने किस खेल में रजत पदक जीता ?",
+    "options": [
+      "1. मुक्केबाजी",
+      "2. शूटिंग",
+      "3. खो -खो",
+      "4. बिलियर्डस"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Who among the following is the creator of the Rock Garden in Chandigarh?",
+    "options": [
+      "1. Le Corbousier",
+      "2. Pupul Jayakar",
+      "3. Nek Chand",
+      "4. Kamaladevi Chattopadhyay"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्‍नलिखित में से किसने चंडीगढ़ में रॉक गार्डन की रचना की ?",
+    "options": [
+      "1. ले कार्बूजिए",
+      "2. पुपुल जयकर",
+      "3. नेक चंद",
+      "4. कमलादेवी चट्टोपाध्याय"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Who among the following was designated as the ‘Person of the Year’ by Time magazine in 2019?",
+    "options": [
+      "1. Jeff Bezos",
+      "2. Elon Musk",
+      "3. Donald Trump",
+      "4. Greta Thunberg"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्‍नलिखित में से किसे 2019 में टाइम पत्रिका द्वारा 'पर्सन ऑफ द ईयर' नामित किया गया था ?",
+    "options": [
+      "1. जेफ बेजोस",
+      "2. एलन मस्‍क",
+      "3. डोनाल्‍ड ट्रम्‍प",
+      "4. ग्रेटा थनबर्ग"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "By which Amendment Act were the fundamental duties of citizens included in the Constitution of India? Options :",
+    "options": [
+      "1. 42nd Amendment Act",
+      "2. 44th Amendment Act",
+      "3. 56th Amendment Act",
+      "4. 73rd Amendment Act"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "भारत के संविधान में नागरिकों के मौलिक कर्तव्यों को किस संशोधन अधिनियम द्वारा शामिल किया गया ?",
+    "options": [
+      "1. 42 वां संशोधन अधिनियम",
+      "2. 44 वां संशोधन अधिनियम",
+      "3. 56 वां संशोधन अधिनियम",
+      "4. 73 वां संशोधन अधिनियम"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following alkaline earth metals is used in the manufacture of aeroplane parts?",
+    "options": [
+      "1. Se",
+      "2. Ca",
+      "3. Mg",
+      "4. Be"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्‍नलिखित में से किस क्षारीय मृदा धातु का उपयोग हवाई जहाज के भागों के निर्माण में किया जाता है?",
+    "options": [
+      "1. Se",
+      "2. Ca",
+      "3. Mg",
+      "4. Be"
+    ],
+    "answer": 2
+  }
+]
 };
 
 
