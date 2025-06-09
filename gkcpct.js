@@ -258,6 +258,7 @@ window.onload = function () {
     option.textContent = date;
     examDateSelect.appendChild(option);
   }
+  document.getElementById("username").value = "";
 };
 
 function startTest() {
