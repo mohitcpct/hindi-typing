@@ -853,6 +853,128 @@ const questionBank = {
     ],
     "answer": 2
   }
+],
+ "16th March 2025 - Shift2": [
+  {
+    "q": "The areas where monthly rainfall during October to December ranges from 10 cm to 30 cm fall in:",
+    "options": [
+      "1. East West of Tamil Nadu and Andhra Pradesh",
+      "2. Kerala and Karnataka",
+      "3. Jammu and Kashmir",
+      "4. Himachal Pradesh"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कौन-से क्षेत्रों में अक्टूबर से दिसंबर के दौरान 10 cm से 30 cm तक मासिक वर्षा होती है?",
+    "options": [
+      "1. तमिलनाडु और आंध्र प्रदेश के पूर्वी पश्चिमी क्षेत्र",
+      "2. केरल और कर्नाटक",
+      "3. जम्मू और कश्मीर",
+      "4. हिमाचल प्रदेश"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following R series are regarded as environment friendly?",
+    "options": [
+      "1. Reduce, Rebuild, Restrict",
+      "2. Random, Reduce, Recall",
+      "3. Read, Register, Recall",
+      "4. Reduce, Reuse, Recycle"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्‍नलिखित में से, किस R श्रेणी को पर्यावरण-अनुकूल माना जाता है?",
+    "options": [
+      "1. रिड्यूस, रीबिड़, रेस्ट्रिक्‍ट (Reduce, Rebuild, Restrict)",
+      "2. रैंडम, रिड्यूस, रीकॉल (Random, Reduce, Recall)",
+      "3. रीड, रजिस्‍टर, रीकॉल (Read, Register, Recall)",
+      "4. रिड्यूस, रीयूज़, रीसाइकिल (Reduce, Reuse, Recycle)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Respiration occurs in fishes through:",
+    "options": [
+      "1. lungs",
+      "2. gills",
+      "3. nostrils",
+      "4. scales"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "मछलियां निम्‍नलिखित में से किसके माध्‍यम से श्‍वसन करती है?",
+    "options": [
+      "1. फेफड़े (lungs)",
+      "2. गलफड़ (gills)",
+      "3. नासापुट (nostrils)",
+      "4. शल्‍क (scales)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following has NOT been a component of the agriculture strategy that brought about the Green Revolution? Options :",
+    "options": [
+      "1. Greater intensity of cropping",
+      "2. Guaranteed maximum prices",
+      "3. New agricultural technology",
+      "4. Package of inputs"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सा, हरित क्रांति लाने वाली कृषि रणनीति का एक भाग नहीं था?",
+    "options": [
+      "1. फसल की अधिक सघनता",
+      "2. अधिकतम कीमत की गारंटी",
+      "3. नई कृषि तकनीक",
+      "4. आदानों (नों इनपुट्स) का पैकेज"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The percentage of agriculture land is very high in all the following states, EXCEPT:",
+    "options": [
+      "1. Punjab",
+      "2. Haryana",
+      "3. Uttar Pradesh",
+      "4. Sikkim"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्‍न में से किस राज्‍य को छोड़कर शेष सभी राज्यों में कृषि भूमि का प्रतिशत बहुत अधिक है?",
+    "options": [
+      "1. पंजाब",
+      "2. हरियाणा",
+      "3. उत्‍तर प्रदेश",
+      "4. सिक्किम"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following rights does the Constitution of India NOT guarantee?",
+    "options": [
+      "1. Right of equal home",
+      "2. Right to equality",
+      "3. Right to freedom of religion",
+      "4. Right to freedom of speech"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "भारतीय संविधान इनमें से किस अधिकार की गारंटी नहीं देता?",
+    "options": [
+      "1. समान घर का अधिकार",
+      "2. समानता का अधिकार",
+      "3. धार्मिक स्‍वतंत्रता का अधिकार",
+      "4. अभिव्‍यक्ति की स्‍वतंत्रता का अधिकार"
+    ],
+    "answer": 0
+  }
 ]
 };
 
