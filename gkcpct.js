@@ -1463,6 +1463,128 @@ const questionBank = {
     ],
     "answer": 0
   }
+],
+ "11th Jan 2025 - Shift2": [
+  {
+    "q": "The monsoons start retreating from Punjab Plains by:",
+    "options": [
+      "1. mid-July",
+      "2. mid-September",
+      "3. mid-October",
+      "4. December end"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "पंजाब के मैदानों से मानसून की वापसी कब शुरू हो जाती है?",
+    "options": [
+      "1. मध्य जुलाई से",
+      "2. मध्य सितंबर से",
+      "3. मध्य अक्टूबर से",
+      "4. दिसंबर के अंत से"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Transboundary pollution or acid rain is caused by:",
+    "options": [
+      "1. nitrogen oxide and sulphur dioxide",
+      "2. carbon monoxide",
+      "3. carbon dioxide",
+      "4. hydrocarbon"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "सीमापार प्रदूषण या अम्लीय वर्षा का कारण कौन-सा है?",
+    "options": [
+      "1. नाइट्रोजन ऑक्साइड और सल्फर डाइऑक्साइड",
+      "2. कार्बन मोनोऑक्साइड",
+      "3. कार्बन डाइऑक्साइड",
+      "4. हाइड्रोकार्बन"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Under optional conditions, the fruit fly (Drosophilae) is capable of producing a new generation every two weeks. This ability is referred to as the ______ of the species.",
+    "options": [
+      "1. carrying capacity",
+      "2. niche",
+      "3. biotic potential",
+      "4. optimal yield"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "वैकल्पिक परिस्थितियों में, फल मक्खी (ड्रोसोफिला) हर दो सप्ताह में एक नई पीढ़ी उत्‍पन्‍न करने में सक्षम होती है। इस क्षमता को प्रजाति की ______ के रूप में संदर्भित किया जाता है।",
+    "options": [
+      "1. वहन क्षमता (carrying capacity)",
+      "2. नीश (niche)",
+      "3. जैविक क्षमता (biotic potential)",
+      "4. इष्टतम उपज (optimal yield)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Star fish is grouped under the phylum:",
+    "options": [
+      "1. Mollusca",
+      "2. Fishes",
+      "3. Arthropoda",
+      "4. Echinodermata"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "तारा मछली को निम्नलिखित में से किस संघ के अंतर्गत वर्गीकृत किया गया है?",
+    "options": [
+      "1. मोलस्का",
+      "2. मत्‍स्य",
+      "3. आर्थ्रोपोडा",
+      "4. एकाइनोडर्मेटा"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Where did Baba Ram Chandra organise the farmers in the 1920s?",
+    "options": [
+      "1. Awadh",
+      "2. Bihar",
+      "3. Bengal",
+      "4. Andhra Pradesh"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "1920 के दशक में बाबा राम चन्द्र ने किसानों को कहां संगठित किया?",
+    "options": [
+      "1. अवध",
+      "2. बिहार",
+      "3. बंगाल",
+      "4. आंध्र प्रदेश"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following Articles of the Constitution of India guarantees freedom to press?",
+    "options": [
+      "1. Article 16",
+      "2. Article 19",
+      "3. Article 22",
+      "4. Article 31"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "भारतीय संविधान का निम्नलिखित में से कौन सा अनुच्छेद प्रेस की स्वतंत्रता की गारंटी देता है?",
+    "options": [
+      "1. अनुच्छेद 16",
+      "2. अनुच्छेद 19",
+      "3. अनुच्छेद 22",
+      "4. अनुच्छेद 31"
+    ],
+    "answer": 1
+  }
 ]
 };
 
