@@ -2074,6 +2074,128 @@ const questionBank = {
     ],
     "answer": 0
   }
+],
+ "08th Sep 2024 - Shift1": [
+  {
+    "q": "Why is the Himalayan region poor in mineral resources?",
+    "options": [
+      "1. The Himalayan region is made up of crystalline rocks.",
+      "2. The displacement of rock strata has disturbed the arrangement of rocks and made it complex.",
+      "3. The climatic conditions are not suitable for exploration of minerals.",
+      "4. The rugged terrain makes exploration of minerals difficult and costly."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "हिमालय क्षेत्र में खनिज संसाधनों की मात्रा सबसे कम क्यों है?",
+    "options": [
+      "1. हिमालय क्षेत्र क्रिस्टलीय चट्टानों से बना है।",
+      "2. चट्टानों के विस्थापन ने चट्टानों की परतों को अव्यवस्थित कर दिया है और इसे जटिल बना दिया है।",
+      "3. यहाँ की पर्यावरणीय स्थितियां खनिजों के अन्वेषण के लिए उपयुक्त नहीं हैं।",
+      "4. ऊबड़-खाबड़ क्षेत्र होने के कारण खनिजों की खोज कर पाना मुश्किल और महंगा है।"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is NOT a site for in-situ method of conservation of flora? Options :",
+    "options": [
+      "1. Biosphere Reserve",
+      "2. Botanical Garden",
+      "3. National Park",
+      "4. Wildlife Sanctuary"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्न में से कौन सा स्थल वनस्पतियों के यथा-स्थान (in-situ) संरक्षण की विधि से संबंधित नहीं है?",
+    "options": [
+      "1. बायोस्फियर रिजर्व",
+      "2. वनस्पति उद्यान",
+      "3. राष्ट्रीय उद्यान",
+      "4. वन्य जीव अभ्यारण्य"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Who among the following was named the White Lightning in cricket?",
+    "options": [
+      "1. Adam Parore (New Zealand)",
+      "2. Allan Donald (South Africa)",
+      "3. Ben Hollioake (England)",
+      "4. Dion Nash (New Zealand)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "क्रिकेट में निम्न में से किसे 'व्हाइट लाइटनिंग' की संज्ञा दी गई थी?",
+    "options": [
+      "1. एडम परोरे (न्यू ज़ीलैंड)",
+      "2. एलन डोनाल्ड (दक्षिण अफ्रीका)",
+      "3. बेन होलिओके (इंग्लैंड)",
+      "4. डिओन नैश (न्यूजीलैंड)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following names are associated with the classical music? <br>1.Swami Haridas <br>2.Syama Shastri <br>3.Thyagaraja",
+    "options": [
+      "1. Both 1 and 2",
+      "2. Both 2 and 3",
+      "3. Both 1 and 3",
+      "4. 1, 2 and 3"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से किन नामों का संबंध शास्त्रीय संगीत से है? <br>1. स्वामी हरिदास <br>2. श्यामा शास्त्री <br>3. त्यागराज",
+    "options": [
+      "1. केवल 1 और 2",
+      "2. केवल 2 और 3",
+      "3. केवल 1 और 3",
+      "4. 1, 2 और 3"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Despotism is possible in a:",
+    "options": [
+      "1. one party state",
+      "2. two party state",
+      "3. multi-party state",
+      "4. two and multi-party state"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से किस व्यवस्था मेंनिरंकुशवाद (Despotism) संभव है?",
+    "options": [
+      "1. एक पार्टी राज्य",
+      "2. दो दलीय राज्य",
+      "3. बहुदलीय राज्य",
+      "4. दो और बहुदलीय राज्य"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "When cadmium ion (Cd²⁺) reacts with hydrogen sulfide (H₂S), it forms _____________. Options :",
+    "options": [
+      "1. CdS",
+      "2. CdS₂",
+      "3. CdH",
+      "4. Cd₂S"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "जब कैडमियम आयन (Cd²⁺) हाइड्रोजन सल्फा इड (H₂S) के साथ प्रतिक्रिया करता है, तो यह_______ बनाता है। Options :",
+    "options": [
+      "1. CdS",
+      "2. CdS₂",
+      "3. CdH",
+      "4. Cd₂S"
+    ],
+    "answer": 0
+  }
 ]
 };
 
