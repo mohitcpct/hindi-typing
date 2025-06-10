@@ -2318,6 +2318,128 @@ const questionBank = {
     ],
     "answer": 1
   }
+],
+ "13th July 2024 - Shift2": [
+  {
+    "q": "During the monsoon season, rainfall decreases from the Ganga delta to the Punjab plains. This is because the:",
+    "options": [
+      "1. monsoon current moves westward along the Ganga plain and becomes drier.",
+      "2. western regions are warmer.",
+      "3. hills do not form barriers for winds.",
+      "4. area is far away from the sea."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "मानसून के मौसम के दौरान, गंगा डेल्टा से पंजाब के मैदानी इलाकों तक वर्षा कम हो जाती है। ऐसा इसलिए है क्योंकि :",
+    "options": [
+      "1. मानसूनी धारा गंगा के मैदान के साथ-साथ पश्चिम की ओर बढ़ती है और शुष्क हो जाती है",
+      "2. पश्चिमी क्षेत्र गर्म हैं",
+      "3. पहाड़ियाँ हवाओं के लिए अवरोध नहीं बनतीं",
+      "4. यह क्षेत्र समुद्र से काफी दूर है"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What could be the reason for the formation of the ozone hole in the Antarctic region?",
+    "options": [
+      "1. Presence of prominent tropospheric turbulence, and inflow of chlorofluorocarbons.",
+      "2. Presence of prominent polar front and stratospheric’, clouds, and inflow of chlorofluorocarbons.",
+      "3. Absence of polar front and stratospheric clouds, and inflow of methane and chlorofluorocarbons.",
+      "4. Increased temperature at polar region due to global warming."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "अंटार्टिक क्षेत्र में, ओज़ोन परत में छेद बनने का कारण निम्न में से क्या रहा है?",
+    "options": [
+      "1. प्रमुख क्षोभमंडलीय अशांति की उपस्थिति, और क्लोरोफ्लोरोकार्बन का प्रवाह",
+      "2. प्रमुख ध्रुवीय मोर्चे और समताप मंडल की उपस्थिति, बादल, और क्लोरोफ्लोरोकार्बन का प्रवाह",
+      "3. ध्रुवीय अग्रभाग और समतापमंडलीय बादलों की अनुपस्थिति, और मीथेन और क्लोरोफ्लोरोकार्बन का प्रवाह",
+      "4. ग्लोबल वार्मिंग के कारण ध्रुवीय क्षेत्र में तापमान में वृद्धि"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "With which sport do you associate the name of Rod Laver?",
+    "options": [
+      "1. Field Hockey",
+      "2. Football",
+      "3. Water-Polo",
+      "4. Lawn Tennis"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "रॉड लेवर का नाम निम्न में से किस खेल से संबंधित है?",
+    "options": [
+      "1. फ़ील्ड हॉकी",
+      "2. फ़ुटबॉल",
+      "3. वॉटर पोलो",
+      "4. लॉन टेनिस"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Vijaya Mehta has earned distinction in which of the following fields?",
+    "options": [
+      "1. Theatre",
+      "2. Journalism",
+      "3. Classical dance",
+      "4. Sports"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "विजया मेहता ने निम्नलिखित में से किस क्षेत्र में विशिष्टता अर्जित की है?",
+    "options": [
+      "1. रंगमंच",
+      "2. पत्रकारिता",
+      "3. शास्त्रीय नृत्य",
+      "4. खेल"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Three-tier system of Panchayati Raj consists of:",
+    "options": [
+      "1. Gram Panchayat, Panchayat Samiti, Block Samiti",
+      "2. Gram Panchayat, Block Samiti, Zila Parishad",
+      "3. Block Samiti, Zila Parishad, Panchayat Samiti",
+      "4. Gram Panchayat, Panchayat Samiti, Zila Parishad"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "पंचायती राज की त्रिस्तरीय प्रणाली में निम्न में से क्या-क्या शामिल हैं?",
+    "options": [
+      "1. ग्राम पंचायत, पंचायत समिति, प्रखंड समिति",
+      "2. ग्राम पंचायत, प्रखंड समिति, जिला परिषद",
+      "3. प्रखंड समिति, जिला परिषद, पंचायत समिति",
+      "4. ग्राम पंचायत, पंचायत समिति, जिला परिषद"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is the composition of carnallite?",
+    "options": [
+      "1. MgCl₂.KCL.6H₂O",
+      "2. Fe₃O₄",
+      "3. Na₃AIF₆",
+      "4. Na₂AI₂O₃"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से कौन सा सूत्र कार्नेलाइट (Carnallite) के संघटन को व्यक्त करता है?",
+    "options": [
+      "1. MgCl₂.KCl.6H₂O",
+      "2. Fe₃O₄",
+      "3. Na₃AIF₆",
+      "4. Na₂AI₂O₃"
+    ],
+    "answer": 0
+  }
 ]
 };
 
