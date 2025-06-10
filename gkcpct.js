@@ -1341,6 +1341,128 @@ const questionBank = {
     ],
     "answer": 3
   }
+],
+  "11th Jan 2025 - Shift2 PwD": [
+  {
+    "q": "Dalmianagar of Bihar is famous for:",
+    "options": [
+      "1. silk",
+      "2. cement",
+      "3. leather",
+      "4. jute"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "बिहार का डालमियानगर किसके लिए प्रसिद्ध है?",
+    "options": [
+      "1. रेशम",
+      "2. सीमेंट",
+      "3. चमड़े",
+      "4. जूट"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The Government of India has decided to declare which of the following rivers as the ‘National River’ of India?",
+    "options": [
+      "1. Ganga",
+      "2. Yamuna",
+      "3. Brahmaputra",
+      "4. Kaveri"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "भारत सरकार ने निम्नलिखित में से किस नदी को ‘राष्ट्रीय नदी’ के रूप में घोषित करने का निर्णय लिया है? Options :",
+    "options": [
+      "1. गंगा",
+      "2. यमुना",
+      "3. ब्रह्मपुत्र",
+      "4. कावेरी"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Duleep Trophy is associated with the game of:",
+    "options": [
+      "1. hockey",
+      "2. cricket",
+      "3. football",
+      "4. badminton"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "दिलीप ट्रॉफ़ी निम्न में से किस खेल से संबंधित है?",
+    "options": [
+      "1. हॉकी",
+      "2. क्रिकेट",
+      "3. फ़ुटबॉल",
+      "4. बैडमिंटन"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Ascaris is found in:",
+    "options": [
+      "1. the intestine of man",
+      "2. the muscles of pig",
+      "3. the coelom of human",
+      "4. the blood of man"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एस्केरिस (Ascaris) निम्नलिखित में से किसमें पाया जाता है?",
+    "options": [
+      "1. मनुष्य की आंतों में",
+      "2. सूअर की मांसपेशी में",
+      "3. मनुष्य के सीलोम में",
+      "4. मनुष्य के रक्त में"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following amendments of the Constitution of India deals with the issue of strengthening of the Panchayat Raj?",
+    "options": [
+      "1. 42nd",
+      "2. 44th",
+      "3. 73rd",
+      "4. 86th"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "भारतीय संविधान का निम्न में से कौन सा संशोधन पंचायती राज की मजबूती से संबंधित है?",
+    "options": [
+      "1. 42वां",
+      "2. 44वां",
+      "3. 73वां",
+      "4. 86वां"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "‘Economics is what it ought to be’ - this statement refers to:",
+    "options": [
+      "1. normative economics",
+      "2. positive economics",
+      "3. monetary economics",
+      "4. fiscal economics"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "‘‘अर्थशास्त्र वह है जो उसे होना चाहिए\" यह कथन निम्न में से किससे संबंधित है?",
+    "options": [
+      "1. नियामक अर्थशास्त्र (Normative Economics)",
+      "2. सकरात्मक अर्थशास्त्र (Positive Economics)",
+      "3. मौद्रिक अर्थशास्त्र (Monetary Economics)",
+      "4. राजकोषीय अर्थशास्त्र (Fiscal Economics)"
+    ],
+    "answer": 0
+  }
 ]
 };
 
