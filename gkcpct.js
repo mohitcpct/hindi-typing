@@ -1585,6 +1585,129 @@ const questionBank = {
     ],
     "answer": 1
   }
+],
+
+  "12th Jan 2025 - Shift1": [
+  {
+    "q": "Kolar Gold Fields (KGF) is a mining region in _______________, famous for being the oldest and deepest gold mine in India.",
+    "options": [
+      "1. Karnataka",
+      "2. Assam",
+      "3. Maharashtra",
+      "4. Rajasthan"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कोलार गोल्ड फील्ड्स (KGF) _______________ में एक खनन क्षेत्र है, जो भारत में सबसे पुरानी और सबसे गहरी सोने की खान के रूप में प्रसिद्ध है।",
+    "options": [
+      "1. कर्नाटक",
+      "2. असम",
+      "3. महाराष्ट्र",
+      "4. राजस्थान"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The Eco-Mark is given to an Indian product that is:",
+    "options": [
+      "1. rich in protein",
+      "2. environment-friendly",
+      "3. economically viable",
+      "4. pure and unadulterated"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "इको-मार्क किस प्रकार के भारतीय उत्पा द को दिया जाता है?",
+    "options": [
+      "1. प्रोटीन से समृद्ध",
+      "2. पर्यावरण के अनुकूल",
+      "3. आर्थिक रूप से व्यवहार्य",
+      "4. शुद्ध और अपमिश्रण रहित"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following cities hosted the Asian Games 2022?",
+    "options": [
+      "1. Busan",
+      "2. Hangzhou",
+      "3. Doha",
+      "4. Medan"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से किस शहर ने एशियाई खेल 2022 की मेजबानी की?",
+    "options": [
+      "1. बुसान",
+      "2. हांग्झोऊ",
+      "3. दोहा",
+      "4. मेडन"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Gopi Krishna was a maestro of which of the following dance forms?",
+    "options": [
+      "1. Manipuri",
+      "2. Bharatnatyam",
+      "3. Kuchipudi",
+      "4. Kathak"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "गोपी कृष्ण निम्नलिखित में से किस नृत्य शैली में निष्‍णात थे?",
+    "options": [
+      "1. मणिपुरी",
+      "2. भरतनाट्यम",
+      "3. कुचिपुड़ी",
+      "4. कथक"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Democracy in India rests on the fact that:",
+    "options": [
+      "1. the Constitution is a written one",
+      "2. there are fundamental rights",
+      "3. people have the right to choose and change the Government",
+      "4. there are Directive Principles of State Policy"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "भारत में लोकतंत्र निम्‍न में से किस तथ्य पर आधारित है?",
+    "options": [
+      "1. संविधान लिखित है",
+      "2. मौलिक अधिकार दिए गए हैं",
+      "3. लोगों को सरकार चुनने और बदलने का अधिकार है",
+      "4. राज्य नीति के निर्देशक सिद्धांत दिए गए हैं"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is produced when concentrated cinnabar is roasted in excess air? Options :",
+    "options": [
+      "1. Hg",
+      "2. Fe",
+      "3. Zn",
+      "4. Al"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "जब सांद्रित सिनेबार को अधिक वायु में भूना जाता है तो निम्नलिखित में से क्या उत्पन्न होता है?",
+    "options": [
+      "1. Hg",
+      "2. Fe",
+      "3. Zn",
+      "4. Al"
+    ],
+    "answer": 0
+  }
 ]
 };
 
