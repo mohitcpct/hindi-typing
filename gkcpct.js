@@ -975,6 +975,128 @@ const questionBank = {
     ],
     "answer": 0
   }
+],
+  "21st March 2025 - Shift1": [
+  {
+    "q": "Bailadila Mines are in the state of _________.",
+    "options": [
+      "1. Odisha",
+      "2. Tamil Nadu",
+      "3. Chhattisgarh",
+      "4. Assam"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "बैलाडीला खदानें _________ राज्‍य में हैं।",
+    "options": [
+      "1. ओडिशा",
+      "2. तमिलनाडु",
+      "3. छत्तीसगढ",
+      "4. असम"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which the following groups of items contain only biodegradable items?",
+    "options": [
+      "1. Wood, grass, plastic",
+      "2. Wood, grass, leather",
+      "3. Fruit peels, lime juice, pen drive",
+      "4. Lime juice, grass, polystyrene cup"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्‍न में से कौन सा जैवनिम्नीकरणीय वस्तुओं का एक समूह है?",
+    "options": [
+      "1. लकड़ी, घास, प्लास्टिक",
+      "2. लकड़ी, घास, चमड़ा",
+      "3. फल के छिल्के, नींबू का रस, पेन ड्राइव",
+      "4. नींबू का रस, घास, पॉलिस्टीरीन कप"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Who was the partner of Leander Paes when he won the 'mixed doubles' at the US Open in the year 2008?",
+    "options": [
+      "1. Ana Ivanovic",
+      "2. Cara Black",
+      "3. Dinara Safina",
+      "4. Jelena Jankovic"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "लियंडर पेस द्वारा 2008 के US-ओपन में \"मिश्रित युगल\" खिताब जीतने के समय उसकी साथी निम्‍न में से कौन थीं?",
+    "options": [
+      "1. एना इवानोविच (Ana Ivanovic)",
+      "2. कारा ब्लैक (Cara Black)",
+      "3. दिनारा सफीना (Dinara Safina)",
+      "4. जेलीना जेनकोविक (Jelena Jankovic)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "With which of the following was Satyajit Ray associated?",
+    "options": [
+      "1. Commercial art",
+      "2. Classical music",
+      "3. Classical dance",
+      "4. Direction of films"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "सत्‍यजीत रे (Satyajit Ray) का संबंध निम्‍न में से किस क्षेत्र से था?",
+    "options": [
+      "1. व्यावसायिक कला",
+      "2. शास्त्रीय संगीत",
+      "3. शास्त्रीय नृत्‍य",
+      "4. फिल्‍म निर्देशन"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following political theories advocates the withering away of the state?",
+    "options": [
+      "1. Capitalism",
+      "2. Fascism",
+      "3. Marxism",
+      "4. Democratic Socialism"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्‍न में से कौन सा राजनीतिक सिद्धांत अंततः राज्‍य के अपक्षय का समर्थन करता है?",
+    "options": [
+      "1. पूंजीवाद",
+      "2. फासीवाद",
+      "3. मार्क्सवाद",
+      "4. लोकतांत्रिक समाजवाद"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The outer electronic configuration of copper is:",
+    "options": [
+      "1. 3d⁹4s²",
+      "2. 3d¹⁰4s¹",
+      "3. 3d¹⁰4s⁰",
+      "4. 3d¹⁰4s²"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कॉपर (Cu) का वाह्य इलेक्ट्रॉनिक विन्यास क्या होता है?",
+    "options": [
+      "1. 3d⁹4s²",
+      "2. 3d¹⁰4s¹",
+      "3. 3d¹⁰4s⁰",
+      "4. 3d¹⁰4s²"
+    ],
+    "answer": 1
+  }
 ]
 };
 
