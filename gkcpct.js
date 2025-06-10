@@ -1219,6 +1219,128 @@ const questionBank = {
     ],
     "answer": 0
   }
+],
+ "11t Jan 2025 - Shift1": [
+  {
+    "q": "Bailadila Mines are in the state of _________.",
+    "options": [
+      "1. Odisha",
+      "2. Tamil Nadu",
+      "3. Chhattisgarh",
+      "4. Assam"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "बैलाडीला खदानें_________ राज्य में हैं।",
+    "options": [
+      "1. ओडिशा",
+      "2. तमिलनाडु",
+      "3. छत्तीसगढ़",
+      "4. असम"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "As on 15 June 2024, who among the following has climbed the Everest the maximum number of times?",
+    "options": [
+      "1. Ang Tharkey Sherpa",
+      "2. Kami Rita Sherpa",
+      "3. Babu Chiri Sherpa",
+      "4. Lakpa Gelu Sherpa"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "15 जून 2024 तक, निम्नलिखित में से किसने सबसे अधिक बार एवरेस्ट पर चढ़ाई की है?",
+    "options": [
+      "1. आंग थार्की शेरपा",
+      "2. कामी रीता शेरपा",
+      "3. बाबू चिरी शेरपा",
+      "4. लकपा गेलु शेरपा"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following organizations is the oldest in terms of foundation? Options :",
+    "options": [
+      "1. International Monetary Fund",
+      "2. World Health Organization",
+      "3. International Labour Organization",
+      "4. Food and Agriculture Organization"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा संगठन, स्थापना की दृष्टि से सबसे पुराना है?",
+    "options": [
+      "1. अंतर्राष्ट्रीय मुद्रा कोष",
+      "2. विश्व स्वास्थ्य संगठन",
+      "3. अंतर्राष्ट्रीय श्रम संगठन",
+      "4. खाद्य एवं कृषि संगठन"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Late Raja Ravi Verma, was an eminent figure in which of the following fields? Options :",
+    "options": [
+      "1. Dance",
+      "2. Politics",
+      "3. History",
+      "4. Painting"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "स्वर्गीय राजा रवि वर्मा निम्नलिखित में से किस क्षेत्र में प्रतिष्ठित व्यक्ति थे?",
+    "options": [
+      "1. नृत्य",
+      "2. राजनीति",
+      "3. इतिहास",
+      "4. चित्रकला"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The Panchayati Raj system in India is laid down under the _______.",
+    "options": [
+      "1. Fundamental Rights",
+      "2. Fundamental Duties",
+      "3. Directive Principles of State Policy",
+      "4. Election Commission Act"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "भारत में पंचायती राज व्यवस्था का प्रावधान _______ के अंतर्गत है।",
+    "options": [
+      "1. मौलिक अधिकारों",
+      "2. मौलिक कर्तव्यों",
+      "3. राज्य नीति के निर्देशक सिद्धांतों",
+      "4. चुनाव आयोग अधिनियम"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "An extremely hot copper wire reacts with steam to give:",
+    "options": [
+      "1. Cu₂O",
+      "2. CuO₂",
+      "3. Cu₂O₂",
+      "4. CuO"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "तांबे का एक अति तप्‍त तार, वाष्‍प से अभिक्रिया करके क्या देता है?",
+    "options": [
+      "1. Cu₂O",
+      "2. CuO₂",
+      "3. Cu₂O₂",
+      "4. CuO"
+    ],
+    "answer": 3
+  }
 ]
 };
 
