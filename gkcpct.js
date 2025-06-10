@@ -2440,6 +2440,128 @@ const questionBank = {
     ],
     "answer": 0
   }
+],
+   "14th July 2024": [
+  {
+    "q": "Kudremukh hills, known for iron ore deposits, is situated in:",
+    "options": [
+      "1. Chikmagalur",
+      "2. Mangalore",
+      "3. Satara",
+      "4. Belgaum"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "लौह अयस्क भंडार के लिए प्रसिद्ध कुद्रेमुख पहाड़ियां कहाँ पर स्थित है?",
+    "options": [
+      "1. चिकमंगलूर",
+      "2. मंगलौर",
+      "3. सातारा",
+      "4. बेलगाम"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Gold mines in India are located mainly at:",
+    "options": [
+      "1. Kolar",
+      "2. Raniganj",
+      "3. Jadugoda",
+      "4. Veeranam"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "भारत में सोने की खान, मुख्यतः ______ में स्थित हैं।",
+    "options": [
+      "1. कोलार",
+      "2. रानीगंज",
+      "3. जादुगोडा",
+      "4. वीरानम"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Who amongst the following is the highest wicket taker in the history of cricket as of October 2021? (Both ODI and Test Cricket) Options :",
+    "options": [
+      "1. Wasim Akram",
+      "2. Anil Kumble",
+      "3. Stephen Fleming",
+      "4. Muttiah Muralitharan"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "अक्टूबर 2021 तक क्रिकेट के इतिहास में निम्नलिखित में से कौन सबसे अधिक विकेट लेने वाला गेंदबाज है? (वनडे और टेस्ट क्रिकेट दोनों)",
+    "options": [
+      "1. वसीम अकरम",
+      "2. अनिल कुंबले",
+      "3. स्टीफन फ्लेमिंग",
+      "4. मुथैया मुरलीधरन"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following has the scientific name Pheretima posthuma?",
+    "options": [
+      "1. Leech",
+      "2. Nereis",
+      "3. Earthworm",
+      "4. Tapeworm"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "फेरेटिमा पोस्टहुमा (Pheretima posthuma), निम्नलिखित में से किस विकल्प का वैज्ञानिक नाम है?",
+    "options": [
+      "1. लीच",
+      "2. नेरिस",
+      "3. केंचुआ",
+      "4. फीता कृमि"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which amendment of the Constitution of India provides constitutional status to the Panchayati Raj institution? Options :",
+    "options": [
+      "1. 71st Amendment",
+      "2. 73rd Amendment",
+      "3. 77th Amendment",
+      "4. 79th Amendment"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "भारत के संविधान का कौन सा संशोधन पंचायती राज संस्था को संवैधानिक दर्जा प्रदान करता है?",
+    "options": [
+      "1. 71 वां संशोधन",
+      "2. 73 वां संशोधन",
+      "3. 77 वां संशोधन",
+      "4. 79 वां संशोधन"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The excess of price that a person is to pay rather than forego the consumption of a commodity is called ______________.",
+    "options": [
+      "1. price",
+      "2. profit",
+      "3. producer’s surplus",
+      "4. consumer’s surplus"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "किसी वस्तु की खपत त्यागने के बजाय व्यक्ति द्वारा भुगतान की जाने वाली अतिरिक्त कीमत निम्नलिखित में से क्या कहलाती है?",
+    "options": [
+      "1. कीमत",
+      "2. लाभ",
+      "3. उत्पादक अधिशेष",
+      "4. उपभोक्ता अधिशेष"
+    ],
+    "answer": 2
+  }
 ]
 };
 
