@@ -1708,6 +1708,128 @@ const questionBank = {
     ],
     "answer": 0
   }
+],
+  "12th Jan 2025 - Shift2": [
+  {
+    "q": "What is the short-range forecast of monsoon?",
+    "options": [
+      "1. 1 day",
+      "2. 2 days",
+      "3. 3 days",
+      "4. 4 days"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "मानसून का अल्पकालिक पूर्वानुमान क्या है?",
+    "options": [
+      "1. 1 दिन",
+      "2. 2 दिन",
+      "3. 3 दिन",
+      "4. 4 दिन"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Endosulfan spray on cashew crops resulted in pollution to the tune of tragedy in: Options :",
+    "options": [
+      "1. Tamil Nadu",
+      "2. Kerala",
+      "3. Andhra Pradesh",
+      "4. Karnataka"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "काजू की फसलों पर इंडोसल्फान के छिड़काव के परिणामस्वरूप निम्नलिखित में से कहाँ त्रासदी के स्तर तक प्रदूषण हुआ?",
+    "options": [
+      "1. तमिलनाडु",
+      "2. केरल",
+      "3. आंध्र प्रदेश",
+      "4. कर्नाटक"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is the largest mangrove forest in the world that constitutes 7% of the world's mangroves, house a variety of wildlife sanctuaries, and is also a potential site to harness tidal energy?",
+    "options": [
+      "1. The Sundarbans in West Bengal",
+      "2. The Maisie Forests in Ecuador",
+      "3. The Mekong Delta in Vietnam",
+      "4. Nanmangalam Forest in Tamil Nadu"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा विश्व का सबसे बड़ा मैंग्रोव वन है जो विश्व के मैंग्रोव का 7% भाग है, जिसमें विभिन्न प्रकार के वन्य जीव अभयारण्य हैं, और यह ज्वारीय ऊर्जा का दोहन करने का एक संभावित स्थल भी है?",
+    "options": [
+      "1. पश्चिम बंगाल में सुंदरबन",
+      "2. इक्वाडोर में मैसी वन",
+      "3. वियतनाम में मेकांग डेल्टा",
+      "4. तमिलनाडु में ननमंगलम वन"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Aristotle's lantern is found in a:",
+    "options": [
+      "1. starfish",
+      "2. brittle star",
+      "3. sea urchin",
+      "4. sea cucumber"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "अरस्तू का लालटेन (Aristotle's lantern) किसमें पाया जाता है?",
+    "options": [
+      "1. तारा मछली (starfish)",
+      "2. ब्रिटल स्टार (brittle star)",
+      "3. समुद्री अर्चिन (sea urchin)",
+      "4. समुद्री ककड़ी (sea cucumber)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The Bhils revolted against the British in:",
+    "options": [
+      "1. Maharashtra and Gujarat",
+      "2. Madhya Pradesh and Bihar",
+      "3. Bihar and Bengal",
+      "4. Bengal and Maharashtra"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "भीलों ने अंग्रेजों के विरूद्ध कहाँ विद्रोह किया?",
+    "options": [
+      "1. महाराष्ट्र और गुजरात",
+      "2. मध्य प्रदेश और बिहार",
+      "3. बिहार और बंगाल",
+      "4. बंगाल और महाराष्ट्र"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which amendment to the Constitution of India inserted a new Article 21 A providing Right to Education?",
+    "options": [
+      "1. 86th Amendment",
+      "2. 87th Amendment",
+      "3. 88th Amendment",
+      "4. 89th Amendment"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "भारतीय संविधान में किस संशोधन द्वारा, शिक्षा का अधिकार प्रदान करने वाला एक नया अनुच्छेद 21A जोड़ा गया?",
+    "options": [
+      "1. 86 वां संशोधन",
+      "2. 87 वां संशोधन",
+      "3. 88 वां संशोधन",
+      "4. 89 वां संशोधन"
+    ],
+    "answer": 0
+  }
 ]
 };
 
