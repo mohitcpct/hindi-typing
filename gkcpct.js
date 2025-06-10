@@ -2196,6 +2196,128 @@ const questionBank = {
     ],
     "answer": 0
   }
+],
+  "13th July 2024 - Shift1": [
+  {
+    "q": "In IPL 2009, the two players who took a hat-trick were:",
+    "options": [
+      "1. A. Symonds and A. Nehra",
+      "2. L. Balaji and Harbhajan Singh",
+      "3. Rohit Sharma and Yuvraj Singh",
+      "4. R. P Singh and L. Malinga"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "आईपीएल (IPL) 2009 में निम्न में से किन दो खिलाड़ियों ने ‘हैट्रिक’ ली थी?",
+    "options": [
+      "1. ए. सायमण्ड और ए. नेहरा",
+      "2. एल. बालाजी और हरभजन सिंह",
+      "3. रोहित शर्मा और युवराज सिंह",
+      "4. आर.पी सिंह और एल. मलिंगा"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is a small pore found in the body of sponges?",
+    "options": [
+      "1. Ostia",
+      "2. Osculum",
+      "3. Redulla",
+      "4. Cilia"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा स्पंज के शरीर में पाया जाने वाला एक छोटा छिद्र है?",
+    "options": [
+      "1. ऑस्टिया (Ostia)",
+      "2. ऑस्कुलम (Osculum)",
+      "3. रेडुल्ला (Redulla)",
+      "4. सिलिया (Cilia)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Shovana Narayan is a reputed personality in which of the following fields?",
+    "options": [
+      "1. Literature",
+      "2. Journalism",
+      "3. Classical dance",
+      "4. Classical music"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "शोवना नारायण निम्नलिखित में से किस क्षेत्र की एक प्रसिद्ध हस्ती हैं?",
+    "options": [
+      "1. साहित्य",
+      "2. पत्रकारिता",
+      "3. शास्त्रीय नृत्य",
+      "4. शास्त्रीय संगीत"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Who among the following was the founder of Dev Samaj?",
+    "options": [
+      "1. Vallabhbhai Patel",
+      "2. Dadabhai Naoroji",
+      "3. Shiv Narayan Agnihotri",
+      "4. Ram Krishna Paramahansa"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "देव समाज के संस्थापक निम्नलिखित में से कौन थे?",
+    "options": [
+      "1. वल्लभभाई पटेल",
+      "2. दादाभाई नौरोजी",
+      "3. शिव नारायण अग्निहोत्री",
+      "4. राम कृष्ण परमहंस"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Open market operations of RBI refer to buying and selling of ________________.",
+    "options": [
+      "1. commercial bills",
+      "2. foreign exchange",
+      "3. gold",
+      "4. government bonds"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "भारतीय रिजर्व बैंक का खुला बाजार परिचालन (ओपन मार्केट प्रचालन) किसकी खरीद और बिक्री से संबंधित है?",
+    "options": [
+      "1. वाणिज्यिक बिल",
+      "2. विदेशी मुद्रा",
+      "3. सोना",
+      "4. सरकारी बॉन्ड"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A committee appointed in the year 1977 to review the working of the Panchayati Raj was chaired by:",
+    "options": [
+      "1. Balwant Rai Mehta",
+      "2. Ashok Mehta",
+      "3. K.N Katju",
+      "4. Jagjivan Ram"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "वर्ष 1977 में पंचायती राज के कामकाज की समीक्षा के लिए नियुक्त की गई समिति की अध्यक्षता निम्न में से किसने की थी?",
+    "options": [
+      "1. बलवंत राय मेहता",
+      "2. अशोक मेहता",
+      "3. के.एन काटजू",
+      "4. जगजीवन राम"
+    ],
+    "answer": 1
+  }
 ]
 };
 
