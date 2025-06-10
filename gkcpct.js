@@ -1830,6 +1830,128 @@ const questionBank = {
     ],
     "answer": 0
   }
+],
+   "06th Sep 2024 - Shift1": [
+  {
+    "q": "Gold is mainly found in:",
+    "options": [
+      "1. Panna",
+      "2. Katni",
+      "3. Kolar",
+      "4. Khetri"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "सोना मुख्यतः कहाँ पाया जाता है?",
+    "options": [
+      "1. पन्ना",
+      "2. कटनी",
+      "3. कोलार",
+      "4. खेतड़ी"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In the context of ecosystem productivity, marine upwelling zones are important as they increase the marine productivity by bringing the: <br><br>1. decomposer microorganisms to the surface <br>2. nutrients to the surface <br>3. bottom-dwelling organisms to the surface <br><br>Which of the given statements is/are correct?",
+    "options": [
+      "1. Both 1 and 2",
+      "2. Only 2",
+      "3. Both 2 and 3",
+      "4. Only 3"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "पारितंत्र उत्पादकता के संदर्भ में, समुद्री उत्पादकता में वृद्धि हेतु, समुद्री उफान क्षेत्र निम्न में से किन कारणों से महत्वपूर्ण होते हैं? <br>1. ये अपघटक जीवों को सतह पर ले आते हैं <br>2. ये पोषक तत्वों को सतह पर ले आते हैं <br>3. ये निछली सतह में रहने वाले जीवों को सतह पर ले आते हैं <br>उपरोक्त कथनों में से कौन से सही हैं?",
+    "options": [
+      "1. 1 और 2",
+      "2. केवल 2",
+      "3. 2 और 3",
+      "4. केवल 3"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The first Youth Olympic Games were held in:",
+    "options": [
+      "1. Japan",
+      "2. China",
+      "3. North Korea",
+      "4. Singapore"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "प्रथम युवा ओलंपिक खेलों का आयोजन कहाँ हुआ था?",
+    "options": [
+      "1. जापान",
+      "2. चीन",
+      "3. उत्तर कोरिया",
+      "4. सिंगापुर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Sham Lal has done commendable work in which of the following fields?",
+    "options": [
+      "1. Social service",
+      "2. Trade unionism",
+      "3. Journalism",
+      "4. Politics"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "श्याम लाल को निम्न में से किस क्षेत्र में उनके उत्कृष्ट योगदान के लिए जाना जाता है?",
+    "options": [
+      "1. समाज सेवा",
+      "2. व्यापार संघवाद",
+      "3. पत्रकारिता",
+      "4. राजनीति"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The Constitution of India recognises minorities on the basis of:",
+    "options": [
+      "1. religion",
+      "2. caste",
+      "3. colour",
+      "4. percentage of the population of the group to the total population"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "भारतीय संविधान में अल्पसंख्यकों को मान्यता निम्न में से किस आधार पर दी गई है?",
+    "options": [
+      "1. धर्म",
+      "2. जाति",
+      "3. रंग",
+      "4. कुल जनसंख्या में उस समूह की जनसंख्या का प्रतिशत"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Cadmium is found in the ore of:",
+    "options": [
+      "1. gold",
+      "2. silver",
+      "3. aluminium",
+      "4. zinc"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कैडमियम निम्न में से किसके अयस्क में पाया जाता है?",
+    "options": [
+      "1. गोल्ड",
+      "2. सिल्वर",
+      "3. एल्युमीनियम",
+      "4. जिंक"
+    ],
+    "answer": 3
+  }
 ]
 };
 
