@@ -1097,6 +1097,128 @@ const questionBank = {
     ],
     "answer": 1
   }
+],
+  "21st March 2025 - Shift2": [
+  {
+    "q": "________ are dreaded evening thunderstorms in Bengal and Assam.",
+    "options": [
+      "1. Nor Westers",
+      "2. Mango Showers",
+      "3. Blossom Showers",
+      "4. The Squall Line"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "________ बंगाल और असम में घटित होने वाले शाम के भयानक तडि़त झंझा हैं।",
+    "options": [
+      "1. नॉर वेस्‍टर्स",
+      "2. मैंगो शावर",
+      "3. ब्लॉसम शावर",
+      "4. स्क्वॉल लाइन"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In which ecosystem is grassland included?",
+    "options": [
+      "1. Marine",
+      "2. Fresh water",
+      "3. Terrestrial",
+      "4. Artificial"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "किस पारिस्थितिकी तंत्र (ईकोसिस्टेम) में घास के मैदान को शामिल किया जाता है?",
+    "options": [
+      "1. समुद्री",
+      "2. मीठा जल",
+      "3. स्‍थलीय",
+      "4. कृत्रिम"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is a true fish?",
+    "options": [
+      "1. Starfish",
+      "2. Jellyfish",
+      "3. Cuttlefish",
+      "4. Dogfish"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सी, एक वास्‍तविक मछली है?",
+    "options": [
+      "1. स्टारफ़िश",
+      "2. जेलीफ़िश",
+      "3. कटलफ़िश",
+      "4. डॉगफ़िश"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is NOT true when the interest rate in the economy goes up?",
+    "options": [
+      "1. Saving increases",
+      "2. Lending decreases",
+      "3. Cost of production increases",
+      "4. Return on capital increases"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "अर्थव्‍यवस्था में ब्याज दर बढ़ने की स्थिति में निम्‍नलिखिक में से कौन-सा प्रभाव सही नहीं है?",
+    "options": [
+      "1. बचत बढ़ जाती है।",
+      "2. उधार घटता है।",
+      "3. उत्पादन की लागत बढ़ जाती है।",
+      "4. पूंजी पर प्रतिफल बढ़ जाता है।"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In the Constitution of India, the right to equality is granted by five Articles. They are:",
+    "options": [
+      "1. Article 13 to article 17",
+      "2. Article 14 to Article 18",
+      "3. Article 15 to Article 19",
+      "4. Article 16 to Article 20"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "भारतीय संविधान में पांच अनुच्छेदों द्वारा समानता का अधिकार दिया गया है। ये निम्‍न में से कौन-से हैं?",
+    "options": [
+      "1. अनुच्छेद 13 से अनुच्छेद 17",
+      "2. अनुच्छेद 14 से अनुच्छेद 18",
+      "3. अनुच्छेद 15 से अनुच्छेद 19",
+      "4. अनुच्छेद 16 से अनुच्छेद 20"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Peninsular India has which of the following zonal soil types?",
+    "options": [
+      "1. Red soil",
+      "2. Forest soil",
+      "3. Saline soil",
+      "4. Alluvial soil"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "प्रायद्वीपीय भारत में निम्‍नलिखित में से किस क्षेत्रीय मृदा का प्रकार है?",
+    "options": [
+      "1. लाल मृदा",
+      "2. वन मृदा",
+      "3. लवणीय मृदा",
+      "4. जलोढ़ मृदा"
+    ],
+    "answer": 0
+  }
 ]
 };
 
