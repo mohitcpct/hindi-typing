@@ -542,6 +542,7 @@ if (answers.length !== questions.length) {
 
    if (currentQ >= questions.length) currentQ = 0;
   renderQuestion();
+ updateSubmitButtonStyle();
 }
 
 function renderQuestion() {
@@ -564,6 +565,7 @@ function renderQuestion() {
   updateNextButton();
   renderGrid();
   updateLangButtons();
+ updateSubmitButtonStyle();
 }
 
 function selectOption(i) {
@@ -578,6 +580,7 @@ function selectOption(i) {
 
   renderQuestion();
   renderGrid();  
+ updateSubmitButtonStyle();
 }
 
 function saveMark() {
@@ -588,6 +591,7 @@ function saveMark() {
 
   updateNextButton();
   renderGrid();
+ updateSubmitButtonStyle();
 }
 
 function updateNextButton() {
@@ -640,6 +644,20 @@ function renderGrid() {
       renderQuestion();
     };
     grid.appendChild(btn);
+  }
+}
+
+function updateSubmitButtonStyle() {
+  const total = questions.length;
+  const attempted = answers.filter(ans => ans !== null).length;
+  const submitBtn = document.querySelector('.submit-btn');
+
+  if (attempted === total) {
+    submitBtn.classList.add("ready");
+    submitBtn.classList.remove("complete");
+  } else {
+    submitBtn.classList.add("complete");
+    submitBtn.classList.remove("ready");
   }
 }
 
