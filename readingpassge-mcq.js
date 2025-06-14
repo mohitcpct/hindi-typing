@@ -577,6 +577,7 @@ function selectOption(i) {
   reviewByLang[lang] = [...markedReview];
 
   renderQuestion();
+  renderGrid();  
 }
 
 function saveMark() {
