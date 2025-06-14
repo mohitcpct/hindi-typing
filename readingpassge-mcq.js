@@ -1,5 +1,4 @@
-       
-      const questionBank = {
+const questionBank = {
  demo1: {
         label: "30th May 2025 - Shift 1",
         hindi: {
@@ -536,16 +535,12 @@ function loadQuestionsByDate(key) {
 const set = selected[lang];
   passage = set.passage;
   questions = set.questions;
-  // ✅ यदि पहले से answers हैं तो वही restore करो
-  if (answersByLang[lang].length === questions.length) {
-    answers = [...answersByLang[lang]];
-    markedReview = [...reviewByLang[lang]];
-  } else {
+if (answers.length !== questions.length) {
     answers = Array(questions.length).fill(null);
     markedReview = Array(questions.length).fill(false);
   }
 
-  currentQ = 0;
+   if (currentQ >= questions.length) currentQ = 0;
   renderQuestion();
 }
 
@@ -712,12 +707,14 @@ function submitExam(autoSubmit = false) {
   
         // ✅ स्कोर Google Sheet में भेजें
 const fullScore = `${score} / ${questions.length}`;
- const exam = document.getElementById("dateSelect").value;
+ const key = document.getElementById("dateSelect").value;
+  const exam = questionBank[key].label;
+  const language = lang === "hi" ? "Hindi" : "English";
 
-fetch("https://script.google.com/macros/s/AKfycbw8BFp_04kg0ZIR8_-iI4fx2KjQZ6Bk6FdF_OZCi8Ty6STPa82FnifMijkO_IqPgM0/exec", {
+fetch("https://script.google.com/macros/s/AKfycbzaSeOX0GxxdQe5CjW0rMlIvMBSwUjsgDRlemNnkoppK_6qmajoFsl9KgwbX9lf45RK/exec", {
   method: "POST",
   headers: { "Content-Type": "application/x-www-form-urlencoded" },
-  body: `name=${encodeURIComponent(name)}&exam=${encodeURIComponent(exam)}&score=${encodeURIComponent(fullScore)}`
+  body: `name=${encodeURIComponent(name)}&date=${encodeURIComponent(exam)}&score=${encodeURIComponent(fullScore)}&language=${encodeURIComponent(language)}`
 });
 
   // Hide main test interface
