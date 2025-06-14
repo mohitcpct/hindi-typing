@@ -63,7 +63,7 @@
             { q: "Dr. Madhukar went to the patient’s house to examine him because:", options: ["he was a rich man", "he was bed-ridden", "he lived far away", "he was very poor"], answer: 1 },
             { q: "What was the reason for the patient’s miserable condition?", options: ["His wife could not find a doctor to examine him.", "They were too poor to buy the medicine the doctor had prescribed.", "He had been sick for many months and could not move.", "He was unemployed and there was no money to even buy some food."], answer: 3 },
             { q: "Dr. Madhukar was a _______ man.", options: ["generous", "greedy", "cunning", "proud"], answer: 0 },
-            { q: "Which of the following options gives the correct sequence of the story?\n\n a. The doctor was upset on seeing the pathetic condition of the poor patient.\n b. He gave the poor patient’s wife a box of medicine and told her to use it regularly. \n c. As Dr. Madhukar's patients were mostly poor, he hardly took any fee from them. \n d. The medicine the doctor had given the woman was money. ", options: ["dbca", "acbd", "cabd", "dabc"], answer: 2 }
+            { q: "Which of the following options gives the correct sequence of the story? <br>a. The doctor was upset on seeing the pathetic condition of the poor patient.<br> b. He gave the poor patient’s wife a box of medicine and told her to use it regularly. <br> c. As Dr. Madhukar's patients were mostly poor, he hardly took any fee from them. <br> d. The medicine the doctor had given the woman was money. ", options: ["dbca", "acbd", "cabd", "dabc"], answer: 2 }
           ]
         }
       },
