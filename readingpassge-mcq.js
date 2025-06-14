@@ -409,7 +409,11 @@ demo4: {
         }
       }
     };
-    
+
+let answersByLang = { hindi: [], english: [] };
+let reviewByLang = { hindi: [], english: [] };
+
+
     function validateInputs() {
   const name = document.getElementById("username").value.trim();
   const date = document.getElementById("dateSelect").value;
@@ -532,8 +536,15 @@ function loadQuestionsByDate(key) {
 const set = selected[lang];
   passage = set.passage;
   questions = set.questions;
-  answers = Array(questions.length).fill(null);
-  markedReview = Array(questions.length).fill(false);
+  // ✅ यदि पहले से answers हैं तो वही restore करो
+  if (answersByLang[lang].length === questions.length) {
+    answers = [...answersByLang[lang]];
+    markedReview = [...reviewByLang[lang]];
+  } else {
+    answers = Array(questions.length).fill(null);
+    markedReview = Array(questions.length).fill(false);
+  }
+
   currentQ = 0;
   renderQuestion();
 }
@@ -566,11 +577,19 @@ function selectOption(i) {
     markedReview[currentQ] = false;
     document.getElementById("markReview").checked = false;
   }
+  // ✅ चयन के बाद डेटा स्टोर करें
+  answersByLang[lang] = [...answers];
+  reviewByLang[lang] = [...markedReview];
+
   renderQuestion();
 }
 
 function saveMark() {
   markedReview[currentQ] = document.getElementById("markReview").checked;
+ // ✅ मार्क सेव करने के बाद भी डेटा स्टोर करें
+  answersByLang[lang] = [...answers];
+  reviewByLang[lang] = [...markedReview];
+
   updateNextButton();
   renderGrid();
 }
