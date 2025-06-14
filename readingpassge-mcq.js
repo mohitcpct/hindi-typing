@@ -1,4 +1,4 @@
-const questionBank = {
+ const questionBank = {
  demo1: {
         label: "30th May 2025 - Shift 1",
         hindi: {
@@ -709,12 +709,14 @@ function submitExam(autoSubmit = false) {
 const fullScore = `${score} / ${questions.length}`;
  const key = document.getElementById("dateSelect").value;
   const exam = questionBank[key].label;
-  const language = lang === "hi" ? "Hindi" : "English";
+  
+  let buttonLang = document.getElementById("btn-hi").classList.contains("active") ? "Hindi" : "English";
+
 
 fetch("https://script.google.com/macros/s/AKfycbzaSeOX0GxxdQe5CjW0rMlIvMBSwUjsgDRlemNnkoppK_6qmajoFsl9KgwbX9lf45RK/exec", {
   method: "POST",
   headers: { "Content-Type": "application/x-www-form-urlencoded" },
-  body: `name=${encodeURIComponent(name)}&date=${encodeURIComponent(exam)}&score=${encodeURIComponent(fullScore)}&language=${encodeURIComponent(language)}`
+  body: `name=${encodeURIComponent(name)}&date=${encodeURIComponent(exam)}&score=${encodeURIComponent(fullScore)}&language=${encodeURIComponent(buttonLang)}`
 });
 
   // Hide main test interface
