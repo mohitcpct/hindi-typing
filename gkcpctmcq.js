@@ -2589,13 +2589,6 @@ function startTest() {
     document.addEventListener("DOMContentLoaded", function () {
     document.getElementById("username").addEventListener("input", validateInputs);
     document.getElementById("dateSelect").addEventListener("change", validateInputs);
-      const usernameInput = document.getElementById("username");
-  if (usernameInput) {
-    setTimeout(() => {
-      usernameInput.scrollIntoView({ behavior: "smooth", block: "center" });
-      usernameInput.focus();
-    }, 300); // layout लोड होने के बाद
-  }
   });
     
 let timerDuration = 06 * 60; // 06 minutes in seconds
