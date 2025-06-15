@@ -215,8 +215,10 @@ const passages = [
     words = paragraph.split(" ");
     currentIndex = 0;
     userWords = [];
-
+  
     document.getElementById("setup").style.display = "none";
+      document.querySelector("h2").style.display = "none";
+  document.querySelector(".description").style.display = "none";
     document.getElementById("testArea").style.display = "block";
     typingArea.textContent = "";
     renderWords();
