@@ -156,4 +156,175 @@ const passages = [
       }
   ];
 
+let paragraph = "";
+  let selectedParaTitle = "";
+  let words = [];
+  let currentIndex = 0;
+  let userWords = [];
+  let totalTime = 0, countdown, startTime;
+
+  const displayText = document.getElementById("displayText");
+  const typingArea = document.getElementById("typingArea");
+  const timerDiv = document.getElementById("timer");
+  const resultDiv = document.getElementById("result");
+
+  window.onload = () => {
+    const paraSelect = document.getElementById("paragraphSelect");
+    passages.forEach(p => {
+      const option = document.createElement("option");
+      option.value = p.title;
+      option.textContent = p.title;
+      paraSelect.appendChild(option);
+    });
+  };
+
+  function startTest() {
+    const userName = document.getElementById("userName").value.trim();
+    const paraTitle = document.getElementById("paragraphSelect").value;
+    const timeKey = document.getElementById("timeSelect").value;
+
+    document.getElementById("nameError").textContent = "";
+    document.getElementById("paraError").textContent = "";
+    document.getElementById("timeError").textContent = "";
+
+    let isValid = true;
+    if (!userName) {
+      document.getElementById("nameError").textContent = "👉 कृपया नाम दर्ज करें।";
+      isValid = false;
+    }
+    if (!paraTitle) {
+      document.getElementById("paraError").textContent = "👉 कृपया अनुच्छेद चुनें।";
+      isValid = false;
+    }
+    if (!timeKey) {
+      document.getElementById("timeError").textContent = "👉 कृपया समय चुनें।";
+      isValid = false;
+    }
+    if (!isValid) return;
+
+    const selected = passages.find(p => p.title === paraTitle);
+    if (!selected || !selected[timeKey]) {
+      alert("Selected paragraph not found!");
+      return;
+    }
+    
+    selectedParaTitle = paraTitle;
+    paragraph = selected[timeKey];
+   document.getElementById("testDate").textContent = "📅 परीक्षा दिनांक: " + selectedParaTitle;
+    totalTime = (timeKey === "short" ? 1 : timeKey === "medium" ? 2 : 15) * 60;
+    words = paragraph.split(" ");
+    currentIndex = 0;
+    userWords = [];
+  
+    document.getElementById("setup").style.display = "none";
+  document.getElementById("mainHeading").style.display = "none";
+  document.querySelector(".description").style.display = "none";
+      document.getElementById("startedHeading").style.display = "block";
+    document.getElementById("testArea").style.display = "block";
+    typingArea.textContent = "";
+    renderWords();
+
+    startTime = new Date();
+    updateTimer();
+    countdown = setInterval(updateTimer, 1000);
+    typingArea.focus();
+  }
+
+  function updateTimer() {
+    const now = new Date();
+    const elapsed = Math.floor((now - startTime) / 1000);
+    const remaining = totalTime - elapsed;
+    const min = String(Math.floor(remaining / 60)).padStart(2, "0");
+    const sec = String(remaining % 60).padStart(2, "0");
+    timerDiv.textContent = `शेष समय: ${min}:${sec}`;
+
+    if (remaining <= 0) {
+      endTest();
+    }
+  }
+
+function cleanAndNormalize(text) {
+  return text
+    .normalize("NFC")
+    .replace(/[​‌‍﻿]/g, '') // Zero-width characters हटाएं
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function renderWords() {
+  displayText.innerHTML = "";
+  const cleanWords = words.map(w => cleanAndNormalize(w));
+  const cleanUserWords = userWords.map(w => cleanAndNormalize(w));
+
+  cleanWords.forEach((word, index) => {
+    const span = document.createElement("span");
+    span.textContent = words[index];
+    if (index === currentIndex) {
+      span.classList.add("current");
+    } else if (cleanUserWords[index] !== undefined) {
+      if (cleanUserWords[index] === word) {
+        span.classList.add("correct");
+      } else {
+        span.classList.add("incorrect");
+      }
+    }
+    displayText.appendChild(span);
+  });
+
+  const currentSpan = displayText.querySelector(".current");
+  if (currentSpan) {
+    currentSpan.scrollIntoView({ behavior: "smooth", block: "center" });
+  }
+}
+
+function placeCaretAtEnd(el) {
+  el.focus();
+  const range = document.createRange();
+  range.selectNodeContents(el);
+  range.collapse(false);
+  const sel = window.getSelection();
+  sel.removeAllRanges();
+  sel.addRange(range);
+}
+
+let composed = false;
+
+typingArea.addEventListener("compositionstart", function () {
+  composed = true;
+});
+
+typingArea.addEventListener("compositionend", function () {
+  composed = false;
+  handleTyping();
+});
+
+typingArea.addEventListener("input", function () {
+  if (!composed) handleTyping();
+});
+
+function handleTyping() {
+  const typedText = cleanAndNormalize(typingArea.textContent);
+  const typedWords = typedText.split(" ");
+
+  if (typedWords.join(" ") !== userWords.join(" ")) {
+    if (typedWords.length > userWords.length) {
+      const lastWord = typedWords[typedWords.length - 1] || "";
+      userWords.push(lastWord);
+    } else if (typedWords.length < userWords.length) {
+      userWords.pop();
+    } else {
+      userWords[userWords.length - 1] = typedWords[typedWords.length - 1] || "";
+    }
+
+    currentIndex = userWords.length;
+    renderWords();
+    typingArea.textContent = typedWords.join(" ") + " ";
+    placeCaretAtEnd(typingArea);
+  }
+}
+
+typingArea.addEventListener("paste", e => e.preventDefault());
+typingArea.addEventListener("contextmenu", e => e.preventDefault());
+
+
   
