@@ -219,6 +219,7 @@ const passages = [
     document.getElementById("setup").style.display = "none";
   document.getElementById("mainHeading").style.display = "none";
   document.querySelector(".description").style.display = "none";
+      document.getElementById("startedHeading").style.display = "block";
     document.getElementById("testArea").style.display = "block";
     typingArea.textContent = "";
     renderWords();
