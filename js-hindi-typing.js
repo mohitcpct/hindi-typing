@@ -217,7 +217,7 @@ const passages = [
     userWords = [];
   
     document.getElementById("setup").style.display = "none";
-      document.querySelector("h2").style.display = "none";
+  document.getElementById("mainHeading").style.display = "none";
   document.querySelector(".description").style.display = "none";
     document.getElementById("testArea").style.display = "block";
     typingArea.textContent = "";
