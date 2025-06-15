@@ -341,12 +341,12 @@ function endTest() {
     if (typedWords[i] === originalWords[i]) correct++;
   }
 
+    document.getElementById("submitBtn").style.display = "none";
   const wpm = Math.round((typed.split(" ").length) / timeTaken);
   const accuracy = ((correct / originalWords.length) * 100).toFixed(2);
   const userName = document.getElementById("userName").value.trim();
 
-  const submitBtn = document.querySelector('#testArea button');
-  if (submitBtn) submitBtn.style.display = "none";
+ 
 
   resultDiv.innerHTML = `
     <h3>✅ Test Complete!</h3>
@@ -357,6 +357,7 @@ function endTest() {
     <button id="newTestBtn" onclick="location.reload()">🔁 New Test</button>
  `;
   resultDiv.style.display = "block";
+    
     
   resultDiv.scrollIntoView({ behavior: "smooth", block: "start" });
 
