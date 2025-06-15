@@ -405,23 +405,7 @@
     }
     if (!isValid) return;
 
-    const selected = passages.find(p => p.title === paraTitle);
-    if (!selected || !selected[timeKey]) {
-      alert("Selected paragraph not found!");
-      return;
-    }
-    
-    selectedParaTitle = paraTitle;
-    paragraph = selected[timeKey];
-   document.getElementById("testDate").textContent = "📅 परीक्षा दिनांक: " + selectedParaTitle;
-    totalTime = (timeKey === "short" ? 1 : timeKey === "medium" ? 2 : 15) * 60;
-    words = paragraph.split(" ");
-    currentIndex = 0;
-    userWords = [];
-
-    document.getElementById("setup").style.display = "none";
-    document.getElementById("testArea").style.display = "block";
-    typingArea.textContent = "";
+   
     renderWords();
 
     startTime = new Date();
@@ -456,20 +440,7 @@ function renderWords() {
   const cleanWords = words.map(w => cleanAndNormalize(w));
   const cleanUserWords = userWords.map(w => cleanAndNormalize(w));
 
-  cleanWords.forEach((word, index) => {
-    const span = document.createElement("span");
-    span.textContent = words[index];
-    if (index === currentIndex) {
-      span.classList.add("current");
-    } else if (cleanUserWords[index] !== undefined) {
-      if (cleanUserWords[index] === word) {
-        span.classList.add("correct");
-      } else {
-        span.classList.add("incorrect");
-      }
-    }
-    displayText.appendChild(span);
-  });
+ 
 
   const currentSpan = displayText.querySelector(".current");
   if (currentSpan) {
@@ -506,15 +477,7 @@ function handleTyping() {
   const typedText = cleanAndNormalize(typingArea.textContent);
   const typedWords = typedText.split(" ");
 
-  if (typedWords.join(" ") !== userWords.join(" ")) {
-    if (typedWords.length > userWords.length) {
-      const lastWord = typedWords[typedWords.length - 1] || "";
-      userWords.push(lastWord);
-    } else if (typedWords.length < userWords.length) {
-      userWords.pop();
-    } else {
-      userWords[userWords.length - 1] = typedWords[typedWords.length - 1] || "";
-    }
+  if (ty
 
     currentIndex = userWords.length;
     renderWords();
@@ -563,18 +526,6 @@ function endTest() {
   submitToGoogleSheet(userName, wpm, accuracy, timeTaken.toFixed(2), selectedParaTitle);
 }
 
-  function submitToGoogleSheet(name, wpm, accuracy, timeUsed, paraTitle) {
-  fetch("https://script.google.com/macros/s/AKfycbxP_eGdUrzycV4uk7D_31k76n1iQqFgRl22bzcCSo8tdjvqFj8x3n5tRbRr1zSWOY6M/exec", {
-    method: "POST",
-    body: new URLSearchParams({
-      name: name,
-      wpm: wpm,
-      accuracy: accuracy,
-      timeUsed: timeUsed,
-      paragraph: paraTitle
+  
     })
-  })
-  .then(response => console.log("✅ Google Sheet Updated"))
-  .catch(error => console.error("❌ Error updating sheet", error));
-}
-</script>
+ 
