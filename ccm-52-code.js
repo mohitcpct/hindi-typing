@@ -1246,20 +1246,20 @@
   {
     "q": "Identify the blogger.com logo.",
     "options": [
-      "1",
-      "2",
-      "3",
-      "4"
+      "1. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifbEiF4Y2R90Fu_klj7L8hCU5Slu0RlRK2FPef4lv-IMrolVxla0vQzZUtG6idLSOeLh1p0TLbqVozx6c_oxUkFdxpbJrN0MJc_xRXX1_MVsIudcTA0qkibtBbzuNvKJEi8xMUx1_B7jPA0XEalE0yeQiJDGhSYLiu-2nQRTvjCVBxK1wFxA5tREKyTlt4/s1600/01%20c.png\" width=\"60\">",
+      "2. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAVIGjnaSDeiov-23TVvwZeGCBmEqMWZAtRZmMQOwkjn7GrvSuqsj3lYHnJi1nv6cK-xQwlfcHowxL9RDj_62rF7lHGVm_jewt22lorCNtSNDefI1l5R4t6i9dnLv_GGTE9Absj71Vg-Tq7M2_1OmAQ-foXnHGagbAuYf_6nC1550rglQ5S_0WQP2cnatn/s1600/02%20c.png\" width=\"60\">",
+      "3. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYnDkjewFql8tv1Q4UOTQ829xD5AnFO8P2IRKs5iuuaoiLgiBhc5bnfNLe3jPBtd_P_xVXnnp2lZHQgdvEWtVyZmTCmgjEl2D-5OpgyUvNGtTwZMwCYanmlRs0raZrcvS1uDNXNWUWpoUbZikqmUFkzInZkBqva-MjWnivzwZ4wYT2d2ghGTJl14crXHRF/s1600/03c.png\" width=\"60\">",
+      "4. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEHjCnonl2dsQJNtpksD8ePLk8rKpWKojbgKxO1v-hmyyGFSUAV1Jkn9G9-Lt9dQD19houICTb8lGhXXiqx3fdE8OT9leUt5W4vU034cf3RR3DqZaWQIuExx6xpnX0yEXnyFM6JD1ET6cLbqkiwLwOa99m3WBj1te1ie_30_PBTle9NK1PsTDohTXK9Wz_/s1600/04%20c.png\" width=\"60\">"
     ],
     "answer": 0
   },
   {
     "q": "निम्‍न में से Blogger.com के लोगो की पहचान कीजिए।",
     "options": [
-      "1. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifbEiF4Y2R90Fu_klj7L8hCU5Slu0RlRK2FPef4lv-IMrolVxla0vQzZUtG6idLSOeLh1p0TLbqVozx6c_oxUkFdxpbJrN0MJc_xRXX1_MVsIudcTA0qkibtBbzuNvKJEi8xMUx1_B7jPA0XEalE0yeQiJDGhSYLiu-2nQRTvjCVBxK1wFxA5tREKyTlt4/s1600/01%20c.png\" width=\"60\">'",
-      "2. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAVIGjnaSDeiov-23TVvwZeGCBmEqMWZAtRZmMQOwkjn7GrvSuqsj3lYHnJi1nv6cK-xQwlfcHowxL9RDj_62rF7lHGVm_jewt22lorCNtSNDefI1l5R4t6i9dnLv_GGTE9Absj71Vg-Tq7M2_1OmAQ-foXnHGagbAuYf_6nC1550rglQ5S_0WQP2cnatn/s1600/02%20c.png\" width=\"60\">'",
-      "3. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYnDkjewFql8tv1Q4UOTQ829xD5AnFO8P2IRKs5iuuaoiLgiBhc5bnfNLe3jPBtd_P_xVXnnp2lZHQgdvEWtVyZmTCmgjEl2D-5OpgyUvNGtTwZMwCYanmlRs0raZrcvS1uDNXNWUWpoUbZikqmUFkzInZkBqva-MjWnivzwZ4wYT2d2ghGTJl14crXHRF/s1600/03c.png\" width=\"60\">'",
-      "4. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEHjCnonl2dsQJNtpksD8ePLk8rKpWKojbgKxO1v-hmyyGFSUAV1Jkn9G9-Lt9dQD19houICTb8lGhXXiqx3fdE8OT9leUt5W4vU034cf3RR3DqZaWQIuExx6xpnX0yEXnyFM6JD1ET6cLbqkiwLwOa99m3WBj1te1ie_30_PBTle9NK1PsTDohTXK9Wz_/s1600/04%20c.png\" width=\"60\">'"
+      "1. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifbEiF4Y2R90Fu_klj7L8hCU5Slu0RlRK2FPef4lv-IMrolVxla0vQzZUtG6idLSOeLh1p0TLbqVozx6c_oxUkFdxpbJrN0MJc_xRXX1_MVsIudcTA0qkibtBbzuNvKJEi8xMUx1_B7jPA0XEalE0yeQiJDGhSYLiu-2nQRTvjCVBxK1wFxA5tREKyTlt4/s1600/01%20c.png\" width=\"60\">",
+      "2. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAVIGjnaSDeiov-23TVvwZeGCBmEqMWZAtRZmMQOwkjn7GrvSuqsj3lYHnJi1nv6cK-xQwlfcHowxL9RDj_62rF7lHGVm_jewt22lorCNtSNDefI1l5R4t6i9dnLv_GGTE9Absj71Vg-Tq7M2_1OmAQ-foXnHGagbAuYf_6nC1550rglQ5S_0WQP2cnatn/s1600/02%20c.png\" width=\"60\">",
+      "3. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYnDkjewFql8tv1Q4UOTQ829xD5AnFO8P2IRKs5iuuaoiLgiBhc5bnfNLe3jPBtd_P_xVXnnp2lZHQgdvEWtVyZmTCmgjEl2D-5OpgyUvNGtTwZMwCYanmlRs0raZrcvS1uDNXNWUWpoUbZikqmUFkzInZkBqva-MjWnivzwZ4wYT2d2ghGTJl14crXHRF/s1600/03c.png\" width=\"60\">",
+      "4. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEHjCnonl2dsQJNtpksD8ePLk8rKpWKojbgKxO1v-hmyyGFSUAV1Jkn9G9-Lt9dQD19houICTb8lGhXXiqx3fdE8OT9leUt5W4vU034cf3RR3DqZaWQIuExx6xpnX0yEXnyFM6JD1ET6cLbqkiwLwOa99m3WBj1te1ie_30_PBTle9NK1PsTDohTXK9Wz_/s1600/04%20c.png\" width=\"60\">"
     ],
     "answer": 0
   },
