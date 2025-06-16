@@ -1041,7 +1041,1049 @@
     "answer": 2
   }
 ],
-
+ "30th May 2025 - Shift2": [
+  {
+    "q": "The .dll extension stands for Dynamic ______ Library file.",
+    "options": [
+      "1. Lever",
+      "2. Link",
+      "3. Lower",
+      "4. License"
+    ],
+    "answer": 1
+  },
+  {
+    "q": ".dll एक्‍सटेंशन का अर्थ, Dynamic (डायनामिक) ______ Library (लाइब्रेरी) फ़ाइल है।",
+    "options": [
+      "1. Lever (लीवर)",
+      "2. Link (लिंक)",
+      "3. Lower (लोअर)",
+      "4. License (लाइसेंस)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following programs is NOT a utility program?",
+    "options": [
+      "1. Microsoft Paint",
+      "2. Disk cleanup",
+      "3. Disk defragmenter",
+      "4. File compression software"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍न में से कौन-सा प्रोग्राम, एक यूटिलिटी प्रोग्राम नहीं है?",
+    "options": [
+      "1. Microsoft Paint (माइक्रोसॉफ्ट पेंट)",
+      "2. Disk cleanup (डिस्‍क क्लीन-अप)",
+      "3. Disk defragmenter (डिस्‍क डिफ्रैगमेंटर)",
+      "4. File compression software (फाइल कम्प्रेशन सॉफ्टवेयर)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A computer uses ________ number system to store data and perform calculations.",
+    "options": [
+      "1. a binary",
+      "2. an octal",
+      "3. a hexadecimal",
+      "4. a decimal"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कंप्यूटर डेटा को स्टोर करने और गणना करने के लिए किस संख्या प्रणाली का उपयोग करता है?",
+    "options": [
+      "1. बाइनरी",
+      "2. ऑक्‍टल",
+      "3. हेक्साडेसिमल",
+      "4. डेसिमल"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A hard disk drive is a non-volatile data storage device. It contains one or more ______, housed inside of an air-sealed casing.",
+    "options": [
+      "1. platters",
+      "2. makers",
+      "3. sockets",
+      "4. systems"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "हार्ड डिस्‍क ड्राइव एक गैर-वाष्‍पशील (non-volatile) डेटा भंडारण उपकरण है। इसमें एक या अधिक ______ होते हैं, जो एक एयर-सी आवरण के अंदर रखे जाते हैं।",
+    "options": [
+      "1. प्लैटर्स (Platters)",
+      "2. मेकर्स (Makers)",
+      "3. सॉकेट्स (Sockets)",
+      "4. सिस्‍टम्‍स (Systems)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following system software is pre-installed low-level software that controls a device’s basic functions?",
+    "options": [
+      "1. Device Drivers",
+      "2. Firmware",
+      "3. Utility Software",
+      "4. Boot loaders"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन सा सिस्‍टम सॉफ्टवेयर पूर्व-स्थापित (pre-installed) निम्‍न-स्‍तरीय (low-level) सॉफ्टवेयर है जो डिवाइस के बुनियादी कार्यों को नियंत्रित करता है?",
+    "options": [
+      "1. डिवाइस ड्राइवर्स",
+      "2. फर्मवेयर",
+      "3. यूटिलिटी सॉवेयर",
+      "4. बूट लॉड्र्स"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which printer uses striking mechanism for printing?",
+    "options": [
+      "1. Inkjet printer",
+      "2. Line printer",
+      "3. Thermal printer",
+      "4. Laser printer"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "प्रिंटिंग के लिए स्ट्राइकिंग प्रणाली का उपयोग कौन-सा प्रिंटर करता है?",
+    "options": [
+      "1. इंकजेट प्रिंटर",
+      "2. लाइन प्रिंटर",
+      "3. थर्मल प्रिंटर",
+      "4. लेजर प्रिंटर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In Fedora 10, the installation program provides functions for resizing ext2, ext3, ext4, and NTFS. This refers to:",
+    "options": [
+      "1. memory fragments",
+      "2. free memories",
+      "3. resizing partitions",
+      "4. memory settings"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Fedora 10 में, इंस्टॉलेशन प्रोग्राम ext2, ext3, ext4, और NTFS का आकार (माप) पुन: बदलने के लिए फंक्‍शन  प्रदान करता है। यह _______ को संदर्भित करता है।",
+    "options": [
+      "1. मेमोरी फ्रैगमेन्ट्स (memory fragments)",
+      "2. फ्री मेमोरीज (free memories)",
+      "3. रीसाइजिंग पार्टिशन्‍स (resizing partitions)",
+      "4. मेमोरी सेटिंग्‍स (memory settings)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "When data is lost upon power loss in any of the memory units, it is referred to as ____________.",
+    "options": [
+      "1. Volatile",
+      "2. Non-Volatile",
+      "3. Random",
+      "4. Non-Random"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "जब किसी मेमोरी यूनिट में बिजली जाने पर डेटा नष्‍ट हो जाता है, तो इसे ____________ कहा जाता है।",
+    "options": [
+      "1. वोलाटाइल (volatile)",
+      "2. नॉन-वोलाटाइल (non-volatile)",
+      "3. रैंडम (random)",
+      "4. नॉन-रैंडम (non-random)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "ASCII stands for:",
+    "options": [
+      "1. American Special Computer for Information Interaction",
+      "2. American Special Code for Information Interchange",
+      "3. American Special Computer for Information Interchange",
+      "4. American Standard Code for Information Interchange"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "ASCII का पूर्ण नाम क्या है?",
+    "options": [
+      "1. American Special Computer for Information Interaction (अमेरिकन स्पेशल कंप्यूटर फॉर इन्फोर्मेशन इंटरएक्‍शन)",
+      "2. American Special Code for Information Interchange (अमेरिकन स्पेशल कोड फॉर इन्फोर्मेशन इंटरचेंज)",
+      "3. American Special Computer for Information Interchange (अमेरिकन स्पेशल कंप्यूटर फॉर इन्फोर्मेशन इंटरचेंज)",
+      "4. American Standard Code for Information Interchange (अमेरिकन स्टैंडर्ड कोड फॉर इन्फोर्मेशन इंटरचेंज)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is not a type of computer Mouse?",
+    "options": [
+      "1. Baseball Mouse",
+      "2. Trackball Mouse",
+      "3. Optical Mouse",
+      "4. Wireless Mouse"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन सा कंप्यूटर माउस का एक प्रकार नहीं है?",
+    "options": [
+      "1. बेसबॉल माउस",
+      "2. ट्रैकबॉल माउस",
+      "3. ऑप्टिकल माउस",
+      "4. वायरलेस माउस"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following input devices measure a unique physical characteristic of a person?",
+    "options": [
+      "1. Keyboard",
+      "2. Joystick",
+      "3. Graphic Tablet",
+      "4. Biometric"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन सा इनपुट डिवाइस किसी व्‍यक्ति की अद्वितीय शारीरिक विशेषता ( unique physical characteristic) को मापता है?",
+    "options": [
+      "1. कीबोर्ड",
+      "2. जॉयस्टिक",
+      "3. ग्राफ़िक टेबलेट",
+      "4. बायोमेट्रिक"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following statements regarding a Blu-ray disc is true? <br>(i) Blu-ray represents the third generation of compact disc (CD) technology. <br>(ii) A Blu-ray disc can hold more information than a DVD.",
+    "options": [
+      "1. Only (i)",
+      "2. Only (ii)",
+      "3. Both (i) and (ii)",
+      "4. Neither (i) nor (ii)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "ब्लू-रे डिस्‍क के संबंध में निम्‍नलिखित में से कौन-सा कथन सत्‍य है? <br>(i) ब्लू-रे, कॉम्पैक्‍ट डिस्‍क (CD) तकनीक की तीसरी पीढ़ी का निरूपण करती है।<br>(ii) ब्लू-रे डिस्‍क, DVD की तुलना में, अधिक जानकारी रख सकती है।",
+    "options": [
+      "1. केवल (i)",
+      "2. केवल (ii)",
+      "3. (i) और (ii) दोनों",
+      "4. न तो (i) और न ही (ii)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which unit of the Arithmetic Logic Unit of the CPU usually handles the division operations?",
+    "options": [
+      "1. Registers",
+      "2. Floating Point Unit",
+      "3. Control Unit",
+      "4. Memory Unit"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "सीपीयू (CPU) की अरिथमेटिक लॉजिक यूनिट की कौन-सी इकाई आमतौर पर डिवीजन ऑपरेशन को हैंडल करती है?",
+    "options": [
+      "1. रजिस्‍टर्स (Registers)",
+      "2. फ्लोटिंग पॉइंट यूनिट (Floating Point Unit)",
+      "3. कंट्रोल यूनिट (Control Unit)",
+      "4. मेमोरी यूनिट (Memory Unit)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "LCD (Liquid Crystal Display) is a flat panel display technology that uses Liquid crystals and the fundamental concept is that the control of _________ via liquid crystal materials positioned between two polarized screens.",
+    "options": [
+      "1. In-phase",
+      "2. DC (Direct Current)",
+      "3. light waves",
+      "4. PCMCIA (Personal Computer Memory Card International Association)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "LCD (लिक्विड क्रिस्‍टल डिस्‍प्ले) एक फ्लैट पैनल डिस्‍प्ले तकनीक है जो लिक्विड क्रिस्‍टल का उपयोग करती है और मूल अवधारणा यह है कि दो ध्रुवीकृत स्क्रीन के बीच स्थित लिक्विड क्रिस्‍टल सामग्री के माध्‍यम से _________ का नियंत्रण होता है।",
+    "options": [
+      "1. इन-फेज",
+      "2. DC (डायरेक्‍ट करंट)",
+      "3. प्रकाश तरंगों",
+      "4. PCMCIA (पर्सनल कंप्यूटर मेमोरी कार्ड इंटरनेशनल एसोसिएशन)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is a small electronic circuit printed on a chip (usually made of silicon) that contains many its own circuit elements (e.g. transistors, diodes, resistors, etc.)?",
+    "options": [
+      "1. Integrated Circuit",
+      "2. CPU",
+      "3. Motherboard",
+      "4. Magnetic drum"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सा एक चिप (आमतौर पर सिलिकॉन से बनी) पर मुद्रित एक छोटा इलेक्ट्रॉनिक सर्किट है जिसमें अपने स्‍वयं के कई सर्किट तत्‍व (जैसे ट्रांजिस्‍टर, डायोड, रेसिस्‍टर्स, आदि) होते हैं?",
+    "options": [
+      "1. इंटीग्रेटेड सर्किट (Integrated circuit)",
+      "2. CPU",
+      "3. मदरबोर्ड (Motherboard)",
+      "4. मैग्नेटिक ड्रम (Magnetic drum)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A multi-function printer, in general, includes:",
+    "options": [
+      "1. printer and editor",
+      "2. printer, copier and editor",
+      "3. printer, scanner and fax",
+      "4. printer, scanner and editor"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एक मल्टीफंक्‍शन प्रिंटर में क्या-क्या शामिल होता है?",
+    "options": [
+      "1. केवल प्रिंटर एवं एडिटर",
+      "2. प्रिंटर, कापियर और एडिटर",
+      "3. प्रिंटर, स्कैनर और फैक्‍स",
+      "4. प्रिंटर, स्कैनर और एडिटर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In a walkie-talkie, which mode of transmission is used?",
+    "options": [
+      "1. Full duplex",
+      "2. Simplex",
+      "3. Half duplex",
+      "4. Both Simplex and Full duplex"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "वाकी-टॉकी में, संचार के किस मोड का उपयोग किया जाता है?",
+    "options": [
+      "1. फुल डुप्लेक्‍स",
+      "2. सिंप्लेक्‍स",
+      "3. हाफ़-डुप्लेक्‍स",
+      "4. सिंप्लेक्‍स और फुल डुप्लेक्‍स दोनों"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is a pointing device?",
+    "options": [
+      "1. MICR",
+      "2. OMR",
+      "3. Trackball",
+      "4. Plotter"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्‍न में से कौन-सा एक पॉइंटिंग डिवाइस है?",
+    "options": [
+      "1. MICR",
+      "2. OMR",
+      "3. ट्रैकबॉल",
+      "4. प्लॉटर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following options best describes the truthfulness of the given statements? <br>(i) ALU is also called brain of the computer system. <br>(ii) Only the CPU registers are called primary memory.",
+    "options": [
+      "1. (i) False, (ii) False",
+      "2. (i) False, (ii) True",
+      "3. (i) True, (ii) False",
+      "4. (i) True, (ii) True"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन सा विकल्‍प दिए गए कथनों की सत्‍यता का सबसे अच्छा वर्णन करता है? <br>(i) ALU को कंप्यूटर सिस्‍टम का मस्तिष्‍क भी कहा जाता है। <br>(ii) केवल CPU रजिस्‍टरों को ही प्राथमिक मेमोरी भी कहा जाता है।",
+    "options": [
+      "1. (i) गलत (ii) गलत",
+      "2. (i) गलत (ii) सही",
+      "3. (i) सही (ii) गलत",
+      "4. (i) सही (ii) सही"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following are types of compression algorithm?",
+    "options": [
+      "1. Streaming and non-streaming",
+      "2. Bundled and non-bundled",
+      "3. Sticky and non-sticky",
+      "4. Lossy and lossless compression"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-से कंप्रेशन (Compression) एल्गोरिथ्‍म के प्रकार हैं?",
+    "options": [
+      "1. स्ट्रीमिंग और नॉन-स्ट्रीमिंग",
+      "2. बंडल्‍ड और नॉन-बंडल्‍ड",
+      "3. स्टिकी और नॉन-स्टिकी",
+      "4. लॉसी और लॉसलेस कंप्रेशन"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Receiving data or a file from the Internet on your computer is referred to as:",
+    "options": [
+      "1. downloading",
+      "2. uploading",
+      "3. consolidating",
+      "4. preprocessing"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "आपके कंप्यूटर पर इंटरनेट से डेटा या फ़ाइल प्राप्‍त करना कहलाता क्या है?",
+    "options": [
+      "1. डाउनलोडिंग",
+      "2. अपलोडिंग",
+      "3. कंसॉलिडेटिंग",
+      "4. प्रीप्रोसेसिंग"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ printers are lot like a Photocopiers and use the same basic technology.",
+    "options": [
+      "1. Laser",
+      "2. Daisy wheel",
+      "3. Dot matrix",
+      "4. Drum"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "________ प्रिंटर, एक फोटोकॉपियर की तरह होते हैं और समान मूल तकनीक का उपयोग करते हैं।",
+    "options": [
+      "1. लेज़र",
+      "2. डेज़ी व्हील",
+      "3. डॉट मैट्रिक्‍स",
+      "4. ड्रम"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is the limited-color format and commonly used for animations and small images?",
+    "options": [
+      "1. .gif",
+      "2. .wpd",
+      "3. .msg",
+      "4. .rtf"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन सा सीमित-रंग प्रारूप ( Limited-color format) है और आमतौर पर एनिमेशन और छोटी छवियों (Images) के लिए उपयोग किया जाता है?",
+    "options": [
+      "1. .gif",
+      "2. .wpd",
+      "3. .msg",
+      "4. .rtf"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following provides access to every program installed on the computer in Windows OS?",
+    "options": [
+      "1. Shortcut Menu",
+      "2. Start Menu",
+      "3. Start Frame",
+      "4. Short Frame"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्‍न में से कौन-सा विकल्‍प Windows OS में कंप्यूटर पर इंस्टॉल किए गए प्रत्येक प्रोग्राम तक एक्सेस प्रदान करता है?",
+    "options": [
+      "1. शॉर्टकट मेनू (Shortcut Menu)",
+      "2. स्टार्ट मेनू (Start Menu)",
+      "3. स्टार्ट फ्रेम (Start Frame)",
+      "4. शॉर्ट फ्रेम (Short Frame)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "System call routines are generally written in which language?",
+    "options": [
+      "1. C",
+      "2. COBOL",
+      "3. Java",
+      "4. Fortran"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "सिस्‍टम कॉल रूटीन समान्‍यतः किस लैंग्वेज में लिखे जाते हैं?",
+    "options": [
+      "1. C",
+      "2. COBOL",
+      "3. जावा (Java)",
+      "4. फोर्ट्रान (Fortran)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "With reference to Web Development, CSS stands for:",
+    "options": [
+      "1. Crawler Style Sheet",
+      "2. Cascading Style Sheet",
+      "3. Catalogue Style Sheet",
+      "4. Cascading Style Sphere"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "वेब डेवलपमेंट के संदर्भ में, CSS का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Crawler Style Sheet (क्रॉलर स्टाइल शीट)",
+      "2. Cascading Style Sheet (कैसकेडिंग स्टाइल शीट)",
+      "3. Catalogue Style Sheet (कैटलॉग स्टाइल शीट)",
+      "4. Cascading Style Sphere (कैसकेडिंग स्टाइल स्फेयर)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following files contains colour system profiles for a particular application or device such as a colour printer or scanner in some Operating Systems?",
+    "options": [
+      "1. IMC",
+      "2. IMP",
+      "3. ICM",
+      "4. IC"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्‍नलिखित में से किस फाइल में कुछ ऑपरेटिंग सिस्‍टम में किसी विशेष एप्लिकेशन अथवा कलर प्रिंटर या स्कैनर जैसे डिवाइस के लिए कलर सिस्‍टम प्रोफाइल होती है?",
+    "options": [
+      "1. IMC",
+      "2. IMP",
+      "3. ICM",
+      "4. IC"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is a search engine powered by Google Custom Search, with a black background designed to save energy on certain types of display screens, particularly CRT and OLED screens?",
+    "options": [
+      "1. Backle",
+      "2. Blackle",
+      "3. Buckle",
+      "4. Bickle"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सा Google कस्‍टम सर्च द्वारा संचालित एक खोज इंजन है, जिसमें कुछ प्रकार की डिस्‍प्ले स्क्रीन, विशेष रूप से CRT और OLED स्क्रीन पर ऊर्जा बचाने के लिए काले रंग की पृष्‍ठभूमि (Background) डिज़ाइन की गई है?",
+    "options": [
+      "1. Backle",
+      "2. Blackle",
+      "3. Buckle",
+      "4. Bickle"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following spywares sits on a device and monitors users’ activity then sells their data to advertisers?",
+    "options": [
+      "1. Adware",
+      "2. Infostealer",
+      "3. Keyloggers",
+      "4. Rootkits"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सा स्पाइवेयर किसी डिवाइस में होता है और उपयोगकर्ताओं की गतिविधि को मॉनिटर करता है और फिर उनका डेटा विज्ञापनदाताओं को बेचता है?",
+    "options": [
+      "1. एडवेयर (Adware)",
+      "2. इन्फोस्टीलर (Infostealer)",
+      "3. कीलॉगर्स (Keyloggers)",
+      "4. टकिट्स (Rootkits)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following networking commands is used to test connectivity between two hosts?",
+    "options": [
+      "1. ping",
+      "2. tracert",
+      "3. ipconfig",
+      "4. ARP"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍नलिखित में से किस नेटवर्किंग कमांड का उपयोग दो होस्‍ट के बीच कनेक्टिविटी का परीक्षण करने के लिए किया जाता है?",
+    "options": [
+      "1. ping",
+      "2. tracert",
+      "3. ipconfig",
+      "4. ARP"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT an example of a protocol?",
+    "options": [
+      "1. TCP/IP",
+      "2. FTP",
+      "3. HTML",
+      "4. HTTP"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सा, प्रोटोकॉल का एक उदाहरण नहीं है?",
+    "options": [
+      "1. TCP/IP",
+      "2. FTP",
+      "3. HTML",
+      "4. HTTP"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Twitter was created in the year:",
+    "options": [
+      "1. 1998",
+      "2. 2006",
+      "3. 2001",
+      "4. 2002"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ट्विटर का निर्माण किस वर्ष हुआ था?",
+    "options": [
+      "1. 1998",
+      "2. 2006",
+      "3. 2001",
+      "4. 2002"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ applications/processes include computer-based, web-based and technology based learning, in addition to virtual education opportunities.",
+    "options": [
+      "1. E-learning",
+      "2. Group learning",
+      "3. Text learning",
+      "4. Art learning"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "____ एप्लिकेशन/प्रक्रिया में व्‍हर्चुअल (आभासी) शैक्षिक अवसरों के अतिरिक्‍त, कंप्यूटर आधारित, वेब आधारित और प्रौद्योगिकी आधारित अधिगम शामिल हैं।",
+    "options": [
+      "1. ई-लर्निंग (E-Learning)",
+      "2. ग्रुप लर्निंग (Group Learning)",
+      "3. टेस्‍ट लर्निंग (Text Learning)",
+      "4. आर्ट लर्निंग (Art Learning)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the keyboard shortcut to open an already existing file in MS-Word 2019?",
+    "options": [
+      "1. Ctrl + N",
+      "2. Alt + N",
+      "3. Ctrl + O",
+      "4. Alt + Ctrl + O"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Word 2019 में पहले से मौजूद फ़ाइल को खोलने के लिए कीबोर्ड शॉर्टकट क्या है?",
+    "options": [
+      "1. Ctrl + N",
+      "2. Alt + N",
+      "3. Ctrl + O",
+      "4. Alt + Ctrl + O"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is called a binary file format and used by the older versions like MS-Word 97-2003?",
+    "options": [
+      "1. .docx",
+      "2. .doc",
+      "3. .docxx",
+      "4. .docm"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्‍नलिखित में से किसे बाइनरी फ़ाइल फॉर्मेट कहा जाता है और इसका उपयोग MS-Word 97-2003 जैसे पुराने संस्‍करणों द्वारा किया जाता है?",
+    "options": [
+      "1. .docx",
+      "2. .doc",
+      "3. .docxx",
+      "4. .docm"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the result of the following MS-Excel 2019 formula? <br><br> = 32/2^4/2",
+    "options": [
+      "1. 0",
+      "2. 8",
+      "3. 1",
+      "4. 32768"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्‍नलिखित MS-Excel 2019 फॉर्मूला का परिणाम क्या है?  <br><br>= 32/2^4/2",
+    "options": [
+      "1. 0",
+      "2. 8",
+      "3. 1",
+      "4. 32768"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Who was the inventor of the World Wide Web (WWW)?",
+    "options": [
+      "1. Bill Gates",
+      "2. Alan Turing",
+      "3. Tim Berners-Lee",
+      "4. Steve Jobs"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "वर्ल्ड वाइड वेब (WWW) के आविष्कारक कौन थे?",
+    "options": [
+      "1. बिल गेट्स",
+      "2. एलन ट्यूरिंग",
+      "3. टिम बर्नर्स-ली",
+      "4. स्टीव जॉब्‍स"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the default name of the first worksheet in an MS-Excel 2019 workbook?",
+    "options": [
+      "1. Sheet1",
+      "2. Worksheet1",
+      "3. WSheet1",
+      "4. WS1"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 वर्कबुक में पहली वर्कशीट का डिफॉल्‍ट नाम क्या है?",
+    "options": [
+      "1. Sheet1",
+      "2. Worksheet1",
+      "3. WSheet1",
+      "4. WS1"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a sub-layer of data link layer?",
+    "options": [
+      "1. LLC (Logical Link Control)",
+      "2. TCP (Transmission Control Protocol)",
+      "3. Serial port",
+      "4. Network Layer"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍न में से कौन-सी, डेटा लिंक लेयर की उप-लेयर है?",
+    "options": [
+      "1. LLC (लॉजिकल लिंक कंट्रोल)",
+      "2. TCP (ट्रांसमिशन कंट्रोल प्रोटोकॉल)",
+      "3. सीरियल पोर्ट",
+      "4. नेटवर्क लेयर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which keyboard shortcut is used to move the cursor to the end of the document in MS Word 2019?",
+    "options": [
+      "1. Ctrl + End",
+      "2. Alt + End",
+      "3. Ctrl + D",
+      "4. Alt + Ctrl + D"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Word 2019 में दस्तावेज़ के अंत में कर्सर को स्थानांतरित करने के लिए किस कीबोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Ctrl + End",
+      "2. Alt + End",
+      "3. Ctrl + D",
+      "4. Alt + Ctrl + D"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following keyboard shortcuts is used to open the Downloads page in a new tab in Chrome browser?",
+    "options": [
+      "1. Alt + J",
+      "2. Ctrl + D",
+      "3. Alt + D",
+      "4. Ctrl + J"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "क्रोम ब्राउज़र में डाउनलोड पेज को एक नए टैब में खोलने के लिए निम्‍नलिखित में से किस कीबोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Alt + J",
+      "2. Ctrl + D",
+      "3. Alt + D",
+      "4. Ctrl + J"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "How many cells will be selected when you select B5 cell, press the Shift key, and then click on G9 cell in an MS-Excel 2019 worksheet?",
+    "options": [
+      "1. 11",
+      "2. 30",
+      "3. 10",
+      "4. 12"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 वर्कशीट में, जब आप B5 सेल का चयन करते हैं, Shift कुंजी दबाते हैं, और फिर G9 सेल पर क्लिक करते हैं, तो कितने सेल चुने जाएंगे?",
+    "options": [
+      "1. 11",
+      "2. 30",
+      "3. 10",
+      "4. 12"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the full form of W3C?",
+    "options": [
+      "1. World Wise Web Consortium",
+      "2. World Wide Web Consortium",
+      "3. World Wide Web Consolidation",
+      "4. World Wise Web Consolidation"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "W3C का पूर्ण रूप क्या है?",
+    "options": [
+      "1. World Wise Web Consortium (वर्ल्ड वाइज वेब कंसोर्टियम)",
+      "2. World Wide Web Consortium (वर्ल्ड वाइड वेब कंसोर्टियम)",
+      "3. World Wide Web Consolidation (वर्ल्ड वाइड वेब कंसोलिडेशन)",
+      "4. World Wise Web Consolidation (वर्ल्ड वाइज वेब कंसोलिडेशन)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is used to Insert New Sheet by using the Keyboard Shortcut in MS-Excl 2019?",
+    "options": [
+      "1. Alt",
+      "2. Ctrl + Shift",
+      "3. Alt + Shift + F1",
+      "4. Alt + Shift"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excl 2019 में कीबोर्ड शॉर्टकट का उपयोग करके नई शीट इन्‍सर्ट करने के लिए निम्‍नलिखित में से किसका उपयोग किया जाता है?",
+    "options": [
+      "1. Alt",
+      "2. Ctrl + Shift",
+      "3. Alt + Shift + F1",
+      "4. Alt + Shift"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In MS-Excel 2019, the range of B column (1 to 10) in a spreadsheet is noted as ________.",
+    "options": [
+      "1. $1:$10",
+      "2. 1:10",
+      "3. 1B:10B",
+      "4. B1:B10"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel 2019 स्प्रेडशीट में, कॉलम B के 1 से 10 तक के सेलों (cells) को ________ के रूप में दर्शाया जाता है।",
+    "options": [
+      "1. $1:$10",
+      "2. 1:10",
+      "3. 1B:10B",
+      "4. B1:B10"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In MS-Excel 2019, a/an ______ graph/chart type can be represented as stacked columns.",
+    "options": [
+      "1. column",
+      "2. pie",
+      "3. line",
+      "4. area"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में, ______ ग्राफ/चार्ट प्रकार को स्टैक्‍ड कॉलम (Stacked Column) के रूप में निरूपित किया जा सकता है।",
+    "options": [
+      "1. कॉलम",
+      "2. पाई",
+      "3. लाइन",
+      "4. एरिया"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS-Excel 2019, a part of a pie chart is known as a ________.",
+    "options": [
+      "1. pie",
+      "2. slice",
+      "3. part",
+      "4. circle"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 में, पाई चार्ट के एक भाग को ________ के रूप में जाना जाता है।",
+    "options": [
+      "1. पाई",
+      "2. स्लाइस",
+      "3. पार्ट",
+      "4. सर्कल"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In a line graph of MS-Excel 2019, the X-axis is represented ________.",
+    "options": [
+      "1. vertically",
+      "2. horizontally",
+      "3. diagonally",
+      "4. perpendicular"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 के लाइन ग्राफ में, X-axis को _________ के रूप में दर्शाया जाता है।",
+    "options": [
+      "1. ऊर्ध्वाधर (vertically)",
+      "2. क्षैतिज (horizontally)",
+      "3. विकर्णत (diagonally)",
+      "4. लंबवत (perpendicularly)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following keyboard shortcuts is used to go to the Home tab in MS-Word 2019?",
+    "options": [
+      "1. Alt + H",
+      "2. Alt + F",
+      "3. Alt + N",
+      "4. Alt + M"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Word 2019 में होम (Home) टैब पर जाने के लिए निम्‍नलिखित में से किस कीबोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Alt + H",
+      "2. Alt + F",
+      "3. Alt + N",
+      "4. Alt + M"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following functions returns only the current date in MS-Excel 2019?",
+    "options": [
+      "1. TODAY()",
+      "2. DAYS360()",
+      "3. DATEDIF()",
+      "4. NOW()"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में निम्‍नलिखित में से कौन-सा फ़ंक्‍शन केवल वर्तमान तिथि प्रदान करता है?",
+    "options": [
+      "1. TODAY()",
+      "2. DAYS360()",
+      "3. DATEDIF()",
+      "4. NOW()"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "________ is an example of relative reference in MS-Excel 2019.",
+    "options": [
+      "1. $B1",
+      "2. B1",
+      "3. B$1",
+      "4. $b$1"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 में, ________ रिलेटिव रेफरेंस का एक उदाहरण है।",
+    "options": [
+      "1. $B1",
+      "2. B1",
+      "3. B$1",
+      "4. $b$1"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Suraj wants to open a new workbook in MS-Excel 2019. Which of the following keyboard shortcuts should he use?",
+    "options": [
+      "1. Ctrl + S",
+      "2. Ctrl + N",
+      "3. Ctrl + C",
+      "4. Ctrl + D"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "सूरज MS-Excel 2019 में एक नई वर्कबुक खोलना चाहता है। उसे निम्‍नलिखित में से किस कीबोर्ड शॉर्टकट कुंजी का उपयोग करना चाहिए?",
+    "options": [
+      "1. Ctrl + S",
+      "2. Ctrl + N",
+      "3. Ctrl + C",
+      "4. Ctrl + D"
+    ],
+    "answer": 1
+  }
+],
+  
    "31th May 2025 - Shift1": [
   {
     "q": "The storage locations in the internal storage of a CPU are called:",
