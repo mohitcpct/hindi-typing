@@ -1041,6 +1041,1050 @@
     "answer": 2
   }
 ],
+
+   "31th May 2025 - Shift1": [
+  {
+    "q": "The storage locations in the internal storage of a CPU are called:",
+    "options": [
+      "1. reference points",
+      "2. addresses",
+      "3. contents",
+      "4. mask"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "CPU के आंतरिक भंडारण के स्टोरेज लोकेशन को क्या कहा जाता है?",
+    "options": [
+      "1. रेफरेंस पॉइंट",
+      "2. एड्रेस",
+      "3. कंटेंट",
+      "4. मास्‍क"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is an example of opensource software?",
+    "options": [
+      "1. VLC media player",
+      "2. macOS",
+      "3. AutoCAD",
+      "4. Oracle Database"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सा, ओपनसोर्स सॉफ्टवेयर का उदाहरण है?",
+    "options": [
+      "1. VLC मीडिया प्लेयर",
+      "2. macOS",
+      "3. ऑटोकैड",
+      "4. ओरेकल डेटाबेस"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is example of Proprietary software?",
+    "options": [
+      "1. Microsoft Windows",
+      "2. Mozilla Firefox",
+      "3. Linux",
+      "4. LibreOffice"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सा प्रोप्राइटरी सॉफ्टवेयर का उदाहरण है?",
+    "options": [
+      "1. माइक्रोसॉफ्ट विंडोज",
+      "2. मोज़िल्ला फायरफॉक्‍स",
+      "3. लिनक्‍स",
+      "4. लिब्रेऑफिस"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_______ provides applications with more memory space than allocated in the computer.",
+    "options": [
+      "1. Cache memory",
+      "2. Virtual memory",
+      "3. ROM",
+      "4. Dos memory"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "_______, कंप्यूटर में आवंटित मेमोरी की तुलना में एप्लिकेशन को अधिक मेमोरी स्पेस प्रदान करती है।",
+    "options": [
+      "1. कैश मेमोरी",
+      "2. वर्चुअल मेमोरी",
+      "3. रोम (ROM)",
+      "4. डॉस (DOS) मेमोरी"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Hard Disk surfaces are divided into concentric circles called:",
+    "options": [
+      "1. sectors",
+      "2. tracks",
+      "3. blocks",
+      "4. segments"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "हार्ड डिस्‍क की सतह संकेंद्रित वृत्तों में विभाजित होती हैं, जिन्हें ___________ कहा जाता है।",
+    "options": [
+      "1. सेक्‍टर",
+      "2. ट्रैक",
+      "3. ब्लॉक",
+      "4. सेगमेंट"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is required to move and control the object easily in video games and is more appropriate for the fighting gamers in the machine?",
+    "options": [
+      "1. mouse",
+      "2. joystick",
+      "3. keyboard",
+      "4. pen"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "वीडियो गेम में ऑब्जेक्‍ट को आसानी से स्थानांतरित करने और नियंत्रित करने के लिए निम्‍नलिखित में से क्या आवश्‍यक है और मशीन में गेमर्स से लड़ने के लिए यह अधिक उपयुक्‍त है?",
+    "options": [
+      "1. माउस",
+      "2. जॉयस्टिक",
+      "3. की-बोर्ड",
+      "4. पेन"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following statements with reference to a USB flash drive is FALSE?",
+    "options": [
+      "1. It is a portable storage space device which is capable of taking care of storage requirements.",
+      "2. A pen drive can easily store up to 120 GB and even more.",
+      "3. It is used as a mobile storage device.",
+      "4. It is a volatile device."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "USB फ्लैश ड्राइव के संदर्भ में निम्‍नलिखित में से कौन सा कथन गलत है?",
+    "options": [
+      "1. यह एक पोर्टेबल स्टोरेज स्पेस डिवाइस है जो भंडारण आवश्‍यकताओं की देखभाल करने में सक्षम है।",
+      "2. एक पेन ड्राइव आसानी से 120 GB और उससे भी अधिक स्टोर कर सकता है।",
+      "3. इसका उपयोग मोबाइल स्टोरेज डिवाइस के प में किया जाता है।",
+      "4. यह एक वाष्‍पशील (Volatile) डिवाइस है।"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is a semiconductor-based storage device, which typically uses NAND flash memory to save persistent data?",
+    "options": [
+      "1. Solid state drive",
+      "2. Hard disk drive",
+      "3. Magnetic tape",
+      "4. Optical drive"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सा एक सेमीकंडक्‍र आधारित स्टोरेज डिवाइस है, जो आमतौर पर परसिस्टेंट डेटा को सेव करने के लिए NAND फ्लैश मेमोरी का उपयोग करता है?",
+    "options": [
+      "1. सॉलिड स्टेट ड्राइव",
+      "2. हार्ड डिस्‍क ड्राइव",
+      "3. मैग्नेटिक टेप",
+      "4. ऑप्टिकल ड्राइव"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In a computer system, hard disk can be considered as ________?",
+    "options": [
+      "1. secondary memory",
+      "2. primary memory",
+      "3. transistor memory",
+      "4. sequential memory"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एक कंप्यूटर सिस्‍टम में, हार्ड डिस्‍क को ________ माना जा सकता है।",
+    "options": [
+      "1. सेकेंडरी मेमोरी",
+      "2. प्राइमरी मेमोरी",
+      "3. ट्रांज़िस्‍टर मेमोरी",
+      "4. सीक्वेंशियल मेमोरी"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The content stored in _________ can only be read but cannot be altered by anyone.",
+    "options": [
+      "1. CD-R",
+      "2. DVD-RW",
+      "3. CD-ROM",
+      "4. CD-RW"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "_________ में संग्रहीत कंटेंट को केवल रीड किया जा सकता है लेकिन किसी के द्वारा बदला नहीं जा सकता।",
+    "options": [
+      "1. CD-R",
+      "2. DVD-RW",
+      "3. CD-ROM",
+      "4. CD-RW"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Identify the blogger.com logo.",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍न में से Blogger.com के लोगो की पहचान कीजिए।",
+    "options": [
+      "1. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifbEiF4Y2R90Fu_klj7L8hCU5Slu0RlRK2FPef4lv-IMrolVxla0vQzZUtG6idLSOeLh1p0TLbqVozx6c_oxUkFdxpbJrN0MJc_xRXX1_MVsIudcTA0qkibtBbzuNvKJEi8xMUx1_B7jPA0XEalE0yeQiJDGhSYLiu-2nQRTvjCVBxK1wFxA5tREKyTlt4/s1600/01%20c.png\" width=\"60\">'",
+      "2. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAVIGjnaSDeiov-23TVvwZeGCBmEqMWZAtRZmMQOwkjn7GrvSuqsj3lYHnJi1nv6cK-xQwlfcHowxL9RDj_62rF7lHGVm_jewt22lorCNtSNDefI1l5R4t6i9dnLv_GGTE9Absj71Vg-Tq7M2_1OmAQ-foXnHGagbAuYf_6nC1550rglQ5S_0WQP2cnatn/s1600/02%20c.png\" width=\"60\">'",
+      "3. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYnDkjewFql8tv1Q4UOTQ829xD5AnFO8P2IRKs5iuuaoiLgiBhc5bnfNLe3jPBtd_P_xVXnnp2lZHQgdvEWtVyZmTCmgjEl2D-5OpgyUvNGtTwZMwCYanmlRs0raZrcvS1uDNXNWUWpoUbZikqmUFkzInZkBqva-MjWnivzwZ4wYT2d2ghGTJl14crXHRF/s1600/03c.png\" width=\"60\">'",
+      "4. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEHjCnonl2dsQJNtpksD8ePLk8rKpWKojbgKxO1v-hmyyGFSUAV1Jkn9G9-Lt9dQD19houICTb8lGhXXiqx3fdE8OT9leUt5W4vU034cf3RR3DqZaWQIuExx6xpnX0yEXnyFM6JD1ET6cLbqkiwLwOa99m3WBj1te1ie_30_PBTle9NK1PsTDohTXK9Wz_/s1600/04%20c.png\" width=\"60\">'"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In electrostatic plotters, the toner particles pass through a line of electrodes in the form of ______.",
+    "options": [
+      "1. liquid",
+      "2. grids",
+      "3. pixels",
+      "4. tiny wires or nibs"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "इलेक्ट्रोस्टैटिक प्लॉटर में टोनर कण, ____________ के रूप में इलेक्ट्रोड लाइन से गुजरते हैं।",
+    "options": [
+      "1. लिक्विड",
+      "2. ग्रिड",
+      "3. पिक्‍सल",
+      "4. छोटे तार या निब"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following uses multicolored automatic pens to create lines on paper and reads computer orders?",
+    "options": [
+      "1. Printer",
+      "2. Plotter",
+      "3. Monitor",
+      "4. Keyboard"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्‍नलिखित में से किसमें कागज पर लाइनें बनाने और कंप्यूटर ऑर्डर रीड करने के लिए बहुरंगी स्‍वचालित पेन का उपयोग किया जाता है?",
+    "options": [
+      "1. प्रिंटर",
+      "2. प्लॉटर",
+      "3. मॉनिटर",
+      "4. कीबोर्ड"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The electro-optical effect is produced in _______.",
+    "options": [
+      "1. LCDs",
+      "2. LEDs",
+      "3. OFCs",
+      "4. scanners"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "इलेक्ट्रो -ऑप्टिकल प्रभाव ______ में उत्‍पन्‍न होता है।",
+    "options": [
+      "1. LCD",
+      "2. LED",
+      "3. OFC",
+      "4. स्कैनर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is used as a buffer between RAM and CPU for faster execution of programs?",
+    "options": [
+      "1. Hard disk",
+      "2. DVD",
+      "3. Cache memory",
+      "4. ROM"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "प्रोग्रामों के तेजी से निष्पादन के लिए RAM और CPU के बीच बफर के रूप में निम्‍नलिखित में से किसका उपयोग किया जाता है?",
+    "options": [
+      "1. हार्ड डिस्‍क",
+      "2. DVD",
+      "3. कैश मेमोरी",
+      "4. ROM"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "POP is an email-related protocol. What is the full form of POP?",
+    "options": [
+      "1. Partial Order Program",
+      "2. Post Office Progress",
+      "3. Partial Order Protocol",
+      "4. Post Office Protocol"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "POP ई-मेल से संबंधित एक प्रोटोकॉल है। POP का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Partial Order Program (पार्शियल ऑर्डर प्रोग्राम)",
+      "2. Post Office Progress (पोस्‍ट ऑफिस प्रोग्रेस)",
+      "3. Partial Order Protocol (पार्शियल ऑर्डर प्रोटोकॉल)",
+      "4. Post Office Protocol (पोस्‍ट ऑफिस प्रोटोकॉल)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is he default file management tool for Windows 10?",
+    "options": [
+      "1. File Explorer",
+      "2. File Container",
+      "3. Windows Manager",
+      "4. Windows defender"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍न में से कौन-सा विंडोज 10 के लिए डिफ़ॉल्‍ट फ़ाइल मैनेजमेंट टूल है?",
+    "options": [
+      "1. File Explorer (फाइल एक्स्प्लोरर)",
+      "2. File Container (फाइल कंटेनर)",
+      "3. Windows Manager (विंडोज मैनेजर)",
+      "4. Windows defender (विंडोज डिफेंडर)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "which of the following is a small network of devices that are connected using Bluetooth technology?",
+    "options": [
+      "1. Piconet",
+      "2. Ethernet",
+      "3. Internet",
+      "4. BlueNET"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सा डिवाइसों का एक छोटा नेटवर्क है जो ब्लूटूथ तकनीक का उपयोग करके जुड़ा आ है?",
+    "options": [
+      "1. Piconet",
+      "2. Ethernet",
+      "3. Internet",
+      "4. BlueNET"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Volume mixer' is available in which of the following options of 'Settings' in Windows 10 OS?",
+    "options": [
+      "1. Bluetooth & device",
+      "2. System",
+      "3. Accounts",
+      "4. Apps"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "विंडोज़ 10 OS में ‘वॉल्यूम मिक्‍सर (Volume mixer)’ ‘सेटिंग्‍स (Settings)’ के निम्‍नलिखित में से किस विकल्‍प में उपलब्‍ध है?",
+    "options": [
+      "1. ब्लूटूथ एंड डिवाइसेज़ (Bluetooth & devices)",
+      "2. सिस्‍टम (System)",
+      "3. एकाउंट्स (Accounts)",
+      "4. एप्‍स (Apps)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "IMAP is an email-related protocol. What is the full form of IMAP?",
+    "options": [
+      "1. Internet Message Access Protocol",
+      "2. Intranet Message Access Protocol",
+      "3. Internet Media Access Protocol",
+      "4. Intranet Media Access Protocol"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "IMAP ई-मेल से संबंधित एक प्रोटोकॉल है। IMAP का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Internet Messaging Access Protocol (इंटरनेट मैसेजिंग एक्सेस प्रोटोकॉल)",
+      "2. Intranet Message Access Protocol (इंट्रानेट मैसेज एक्सेस प्रोटोकॉल)",
+      "3. Internet Media Access Protocol (इंटरनेट मीडिया एक्सेस प्रोटोकॉल)",
+      "4. Intranet Media Access Protocol (इंट्रानेट मीडिया एक्सेस प्रोटोकॉल)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the full form of MPEG, which is a working group of agencies to set standards for audio / video encoding and transmission and developed audio video file formats known as MPEG?",
+    "options": [
+      "1. Moving Picture Experts Group",
+      "2. Moving Process Experts Group",
+      "3. Moving Picture Existing Group",
+      "4. Management Picture Experts Group"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MPEG का पूर्ण रूप क्या है, जो ऑडियो/वीडियो एन्कोडिंग और ट्रांसमिशन के लिए मानक निर्धारित करने वाली एजेंसियों का एक कार्य समूह है और MPEG के रूप में ज्ञात ऑडियो वीडियो फ़ाइल प्रारूप विकसित करता है?",
+    "options": [
+      "1. Moving Picture Experts Group (मूविंग पिक्‍चर एक्‍सपर्ट्स ग्रुप)",
+      "2. Moving Process Experts Group (मूविंग प्रोसेस एक्‍सपर्ट्स ग्रुप)",
+      "3. Moving Picture Existing Group (मूविंग पिक्‍चर एक्सिस्टिंग ग्रुप)",
+      "4. Management Picture Experts Group (मैनेजमेंट पिक्‍चर एक्‍सपर्ट्स ग्रुप)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following option is useful when you don’t want to spend the time running a full scan on all your files and folders in Windows 10?",
+    "options": [
+      "1. Instant scan",
+      "2. Random scan",
+      "3. Full scan",
+      "4. Quick scan"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "जब आप विंडोज़ 10 में अपनी सभी फ़ाइलों और फ़ोल्‍डरों पर पूर्ण स्कैन रन करने में समय बर्बाद नहीं करना चाहते हैं तो निम्‍न में से कौन-सा विकल्‍प उपयोगी है?",
+    "options": [
+      "1. इंस्टंट स्कैन",
+      "2. रैंडम स्कैन",
+      "3. फुल स्कैन",
+      "4. क्विक स्कैन"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is a command-line utility that is used to trace the route that data packets take to reach a specific destination across an IP network, such as the Internet?",
+    "options": [
+      "1. TRACERT",
+      "2. IPCONFIG",
+      "3. NSLOOKUP",
+      "4. HOSTNAME"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन सी कमांड-लाइन उपयोगिता है जिसका उपयोग डेटा पैकेटों को आईपी नेटवर्क, जैसे कि इंटरनेट, पर एक विशिष्‍ट गंतव्‍य तक पहुंचने के लिए मार्ग का पता लगाने के लिए किया जाता है?",
+    "options": [
+      "1. TRACERT",
+      "2. IPCONFIG",
+      "3. NSLOOKUP",
+      "4. HOSTNAME"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following could be a solution for problem 'An application is running slowly' In computer system?",
+    "options": [
+      "1. Begin checking the power cord.",
+      "2. Check the cables.",
+      "3. Make sure the monitor is plugged in and turned on.",
+      "4. Close and reopen the application."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कंप्यूटर सिस्‍टम में 'An application is running slowly' समस्या का समाधान निम्‍नलिखित में से कौन-सा हो सकता है?",
+    "options": [
+      "1. पावर कॉर्ड की जाँच करना।",
+      "2. केबलों की जाँच करना।",
+      "3. सुनिश्चित करना कि मॉनिटर प्‍लग इन और चालू है।",
+      "4. एप्लिकेशन को बंद करना और दोबारा खोलना।"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is a path to choose your desktop background or change the accent color for Start, the taskbar, and other items in Windows 10 OS?",
+    "options": [
+      "1. Start > Settings > Accessibility",
+      "2. Start > Settings > Accounts",
+      "3. Start > Settings > Personalization",
+      "4. Start > Settings > Apps"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सा आपके डेस्‍कटॉप बैकग्राउंड को चुनने या विंडोज 10 OS में स्टार्ट, टास्‍कबार और अन्‍य आइटम के लिए एक्सेंट कलर बदलने का पाथ है?",
+    "options": [
+      "1. Start > Settings > Accessibility",
+      "2. Start > Settings > Accounts",
+      "3. Start > Settings > Personalization",
+      "4. Start > Settings > Apps"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The lowest level of the operating system is:",
+    "options": [
+      "1. shell",
+      "2. kernel",
+      "3. program",
+      "4. bios"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "किसी ऑपरेटिंग सिस्‍टम का सबसे निचला स्‍तर ______ होता है।",
+    "options": [
+      "1. शेल",
+      "2. कर्नेल",
+      "3. प्रोग्राम",
+      "4. बॉयोस"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A plain text file has a ______ format.",
+    "options": [
+      "1. .tx",
+      "2. .tt",
+      "3. .text",
+      "4. .txt"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "प्लेन टेक्‍स्‍ट फाइल का फाइल फॉर्मेट ______ होता है।",
+    "options": [
+      "1. .tx",
+      "2. .tt",
+      "3. .text",
+      "4. .txt"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "__________ Program is developed to promote the use of power management technology in computer equipment.",
+    "options": [
+      "1. Green IT",
+      "2. Energy Star",
+      "3. Five Star",
+      "4. Mukti"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कंप्यूटर उपकरणों में विद्युत् प्रबंधन तकनीक के उपयोग को बढ़ावा देने के लिए __________ प्रोग्राम विकसित किया गया है।",
+    "options": [
+      "1. ग्रीन आईटी",
+      "2. एनर्जी स्टार",
+      "3. फाइव स्टार",
+      "4. मुक्ति"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following in Windows 10 OS protects against viruses, Trojans, ransomware, and all types of malware, and it also manages other Windows security features?",
+    "options": [
+      "1. Windows Powershell",
+      "2. Microsoft Defender Antivirus",
+      "3. Cortana",
+      "4. Disk cleanup"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "विंडोज़ 10 OS में निम्‍नलिखित में से कौन-सा विकल्‍प वायरस, ट्रोजन, रैंसमवेयर और सभी प्रकार के मैलवेयर से बचाता है, और यह अन्‍य विंडोज़ सिक्योरिटी फीचर का प्रबंधन भी करता है?",
+    "options": [
+      "1. विंडोज पॉवरशेल (Windows Powershell)",
+      "2. माइक्रोसॉफ़्ट डिफेंडर एंटीवायरस (Microsoft Defender Antivirus)",
+      "3. कोर्टाना (Cortana)",
+      "4. डिस्‍क क्लीनअप (Disk cleanup)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a security feature in Windows 10 OS that helps to protect your device by filtering network traffic that enters and exits your device?",
+    "options": [
+      "1. Firewall & Network Protection",
+      "2. Account Protection",
+      "3. Device Security",
+      "4. Device Performance & health"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍न में से कौन-सा, विंडोज 10 OS में एक सिक्योरिटी फीचर है जो आपके डिवाइस में प्रवेश करने और बाहर निकलने वाले नेटवर्क ट्रैफ़िक को फ़िर करके आपके डिवाइस को सुरक्षित रखने में मदद करता है?",
+    "options": [
+      "1. फ़ायरवॉल एंड नेटवर्क प्रोटेक्‍शन",
+      "2. अकाउंट प्रोटेक्‍शन",
+      "3. डिवाइस सिक्योरिटी",
+      "4. डिवाइस परफॉरमेंस एंड हेल्‍थ"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Ethernet refers to which of the following technologies?",
+    "options": [
+      "1. LAN",
+      "2. WAN",
+      "3. PAN",
+      "4. MAN"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "ईथरनेट, निम्‍नलिखित में से किस तकनीक से संबंधित है?",
+    "options": [
+      "1. LAN",
+      "2. WAN",
+      "3. PAN",
+      "4. MAN"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following internet Service describes how to make and receive phone calls over the internet?",
+    "options": [
+      "1. E-mail",
+      "2. VoIP",
+      "3. Telnet",
+      "4. Directory Services"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सी इंटरनेट सेवा इंटरनेट पर फ़ोन कॉल करने और प्राप्‍त करने का तरीका बताती है?",
+    "options": [
+      "1. इ-मेल (E-mail)",
+      "2. वीओआईपी (VoIP)",
+      "3. टेलनेट (Telnet)",
+      "4. डायरेरी सर्विसेज (Directory Services)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ is an example of an auction site.",
+    "options": [
+      "1. E-Bay",
+      "2. Go ibibo",
+      "3. Facebook",
+      "4. Linkedin"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_____________ नीलामी साइट का एक उदाहरण है।",
+    "options": [
+      "1. ई-बे (E-Bay)",
+      "2. गो आईबीबो (Go Ibibo)",
+      "3. फेसबुक (Facebook)",
+      "4. लिंक्‍डइन (Linkedin)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a software-based system that securely stores users' payment information and passwords for numerous payment methods and websites?",
+    "options": [
+      "1. Digital wallet",
+      "2. Pop up",
+      "3. Shopping cart",
+      "4. Digital purse"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सी एक सॉफ्टवेयर-आधारित प्रणाली है जिसमें उपयोगकर्ताओं द्वारा विभिन्‍न भुगतान विधियों और वेबसाइटों के माध्‍यम से भुगतान के लिए, भुगतान संबंधी जानकारियां और पासवर्ड सुरक्षित रूप से संग्रहीत रहते हैं?",
+    "options": [
+      "1. डिजिटल वॉलेट",
+      "2. पॉप अप",
+      "3. शॉपिंग कार्ट",
+      "4. डिजिटल पर्स"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The first part of a URL address is the:",
+    "options": [
+      "1. sub domain",
+      "2. scheme (protocol identifier)",
+      "3. second level domain",
+      "4. top level domain"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "URL एड्रेस का पहला भाग __________ होता है।",
+    "options": [
+      "1. सब डोमेन",
+      "2. स्कीम (प्रोटोकॉल आइडेंटिफ़ायर)",
+      "3. सेकंड लेवल डोमेन",
+      "4. टॉप लेवल डोमेन"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following can be used in MS-Excel 2019 to colour the background of cells to make them stand out?",
+    "options": [
+      "1. Font colour",
+      "2. Border",
+      "3. Fill colour",
+      "4. Wrap text"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel 2019 में सेल को अलग से प्रदर्शित करने के लिए उनके बैकग्राउंड को कलर करने हेतु निम्‍नलिखित में से किस विकल्‍प का उपयोग किया जा सकता है?",
+    "options": [
+      "1. Font colour (फॉन्‍ट कलर)",
+      "2. Border (बॉर्डर)",
+      "3. Fill colour (फ़िल कलर)",
+      "4. Wrap text (रैप टेक्‍स्‍ट)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In Mailings Tab of MS-Word 2019, which of the following command belongs to the Write & insert Fields Group?",
+    "options": [
+      "1. Envelopes",
+      "2. Highlight Merge Fields",
+      "3. Finish",
+      "4. Edit Recipient List"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एमएस-वर्ड 2019 के मेलिंग टैब में, निम्‍नलिखित में से कौन सा कमांड राइट एंड इंसर्ट (Write & Insert) फील्ड्स ग्रुप से संबंधित है?",
+    "options": [
+      "1. एन्वेलप (Envelopes)",
+      "2. हाइलाइट मर्ज फील्ड्स (Highlight Merge Fields)",
+      "3. फिनिश (Finish)",
+      "4. एडिट रेसिपिएंट लिस्‍ट (Edit Recipient List)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the below options describe the correct set of parameters present in the change case options in MS-Word 2019?",
+    "options": [
+      "1. UPPERCASE, lowercase, Capitalise each word",
+      "2. UPPERCASE, tOGGLE cASE, lowercase",
+      "3. Sentence case, lowercase, UPPERCASE, Capitalize Each word, tOGGLE cASE",
+      "4. UPPERCASE, Capitalize Each word, tOGGLE cASE"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एमएस-वर्ड 2019 में चेंज केस विकल्पों में मौजूद निम्‍नलिखित में से कौन-सा विकल्‍प पैरामीटर के सही सेट का वर्णन करता है?",
+    "options": [
+      "1. UPPERCASE, lowercase, Capitalise each word",
+      "2. UPPERCASE, tOGGLE cASE, lowercase",
+      "3. Sentence case, lowercase, UPPERCASE, Capitalise Each word, tOGGLE cASE",
+      "4. UPPERCASE, Capitalise Each word, tOGGLE cASE"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "With reference to types of networks, MAN stands for:",
+    "options": [
+      "1. Mega Area Network",
+      "2. My Area Network",
+      "3. Metropolitan Area Network",
+      "4. My Assign Network"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "नेटवर्क के प्रकारों के संदर्भ में, MAN का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Mega Area Network (मेगा एरिया नेटवर्क)",
+      "2. My Area Network (माय एरिया नेटवर्क)",
+      "3. Metropolitan Area Network (मेट्रोपॉलिटन एरिया नेटवर्क)",
+      "4. My Assign Network (माय असाइन नेटवर्क)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which protocol assigns an IP address to the client connected to the internet?",
+    "options": [
+      "1. IP",
+      "2. RPPC",
+      "3. DHCP",
+      "4. RPC"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्‍न में से कौन-सा प्रोटोकॉल इंटरनेट से जुड़े क्लाइंट को IP एड्रेस असाइन करता है?",
+    "options": [
+      "1. IP",
+      "2. RPPC",
+      "3. DHCP",
+      "4. RPC"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is the hardware computing device where the operating system, application programs and data in current use by processor are kept so they can be quickly reached by the device's processor?",
+    "options": [
+      "1. RAM",
+      "2. CD-ROM",
+      "3. Flash Drive",
+      "4. Hard disk"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सा हार्डवेयर कंप्यूटिंग डिवाइस है जहां ऑपरेटिंग सिस्‍टम, एप्लिकेशन प्रोग्राम और प्रोसेसर द्वारा वर्तमान में उपयोग किए जाने वाले डेटा को रखा जाता है ताकि उन तक डिवाइस के प्रोसेसर द्वारा जल्दी से पहुंचा जा सके?",
+    "options": [
+      "1. RAM",
+      "2. CD-ROM",
+      "3. फ़्लैश ड्राइव",
+      "4. हार्ड डिस्‍क"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The purpose of _____________ is to ensure the protection, integrity, and privacy of the data exchanged between a server and a client (usually a browser).",
+    "options": [
+      "1. HTTPS",
+      "2. ARP",
+      "3. FTP",
+      "4. TCP"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_________ का उद्देश्‍य सर्वर और क्लाइंट (सामान्‍यतः एक ब्राउज़र) के बीच आदान-प्रदान किए गए डेटा की सुरक्षा, इंटीग्रिटी और गोपनीयता सुनिश्चित करना होता है।",
+    "options": [
+      "1. HTTPS",
+      "2. ARP",
+      "3. FTP",
+      "4. TCP"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In which of the following sector Information kiosks are utilized to advertise currently trending products to draw more attention towards said product?",
+    "options": [
+      "1. Government",
+      "2. Retail",
+      "3. Health",
+      "4. Education"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्‍नलिखित में से किस क्षेत्र में सूचना कियोस्‍क का उपयोग उक्‍त उत्पाद की ओर अधिक ध्यानआकर्षित करने के लिए वर्तमान में ट्रेंडिंग उत्पादों का विज्ञापन करने के लिए किया जाता है?",
+    "options": [
+      "1. सरकारी",
+      "2. खुदरा",
+      "3. स्वास्‍थ्‍य",
+      "4. शिक्षा"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Press Ctrl and = keys together in MS-Word 2019 to create:",
+    "options": [
+      "1. Drop Cap",
+      "2. Superscript",
+      "3. Strikethrough",
+      "4. Subscript"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Word 2019 में ____________ क्रिएट करने के लिए Ctrl और = कुंजियों को एकसाथ दबाना होता है।",
+    "options": [
+      "1. Drop Cap (ड्रॉप कैप)",
+      "2. Superscript (सुपरस्क्रिप्‍ट)",
+      "3. Strikethrough (स्ट्राइकथ्रो)",
+      "4. Subscript (सब्स्क्रिप्‍ट)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following represents the absolute address of the cell at the intersection of the fourth row and the ninth column in Microsoft Excel?",
+    "options": [
+      "1. I4",
+      "2. $I$4",
+      "3. 4$I$",
+      "4. #I#5"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Microsoft Excel में, चौथी रौ और नौवें कॉलम के इंटरसेक्‍शन पर स्थित सेल का एब्सोल्यूट एड्रेस निम्‍न में से क्या होगा?",
+    "options": [
+      "1. I4",
+      "2. $I$4",
+      "3. 4$I$",
+      "4. #I#5"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The ______ function substitutes new text for old text in a text string in MS-Excel 2019.",
+    "options": [
+      "1. COUNT",
+      "2. SUBSTITUTE",
+      "3. REPLACE",
+      "4. FIND"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 की टेक्‍स्‍ट स्ट्रिंग में पुराने टेक्‍स्‍ट को नये टेक्‍स्‍ट से बदलने के लिए निम्‍न में से किस फंक्‍शन का उपयोग किया जाता है?",
+    "options": [
+      "1. COUNT",
+      "2. SUBSTITUTE",
+      "3. REPLACE",
+      "4. FIND"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In MS-Excel 2019, A Histogram has two axis, the x axis and the y axis. The x axis contains event whose frequency you have to count. The y axis contains frequency. The different heights of bar shows different ______ of occurrence of data.",
+    "options": [
+      "1. frequency",
+      "2. Correlation",
+      "3. classes of data",
+      "4. Mean"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में, एक हिस्टोग्राम में x अक्ष और y अक्ष, दो अक्ष होते हैं। x अक्ष में वे घटनाएं होती हैं जिसकी बारम्बारता आपको गिननी है। y अक्ष में बारम्बारता होती है। बार की अलग-अलग ऊंचाई, डेटा की घटना की/के अलग-अलग ______ को दर्शाती है।",
+    "options": [
+      "1. बारम्बारता",
+      "2. सहसंबंध",
+      "3. डेटा के वर्गो",
+      "4. माध्‍य"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "You use ______ in a spreadsheet MS-Excel 2019 to prevent unwanted changes to the structure of the workbook, such as moving, deleting, or adding sheets.",
+    "options": [
+      "1. Protect Sheet",
+      "2. Protect Workbook",
+      "3. Share Sheet",
+      "4. Share Workbook"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एमएस-एक्सेल 2019 की स्प्रेडशीट में ____________ का उपयोग वर्कबुक की संरचना में शीट को मूव करने, डिलीट करने या एड करने जैसे अवांछित परिवर्तनों को रोकने के लिए किया जाता है।",
+    "options": [
+      "1. Protect Sheet (प्रोटेक्‍ट शीट)",
+      "2. Protect Workbook (प्रोटेक्‍ट वर्कबुक)",
+      "3. Share Sheet (शेयर शीट)",
+      "4. शेयर वर्कबुक Share Workbook (शेयर वर्कबुक)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is the correct formula to calculate the weighted average score in cell C7 as shown?<br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh56XdTxnUhP64Q-r7WWA4IXh93VLiln9VBADaeKzGW5xp4JGoJ_eUuDmkXnXVOAwBHsoTi2ngvLV3WhfVV7LlEmeI5zFBxG4wSDfFJXfbFohRdGNuKZXZSBIOIPO_4jvDEv9mp3fLdWtyepvZl9ISbrJw0kTBpYUrVeNcXaws2QqmCEBBYYsxFSDRQhdNN/s320/01%20qedf.png\" style=\"margin-top:10px;max-width:100%;\">'",
+    "options": [
+      "1. =SUMPRODUCT(C2:C5,B2:B5)",
+      "2. =AVERAGE(B2:B4)",
+      "3. =SUMPRODUCT(C2:C4,B2:B4)",
+      "4. =SUMPRODUCT(B2:B4,C2:C4)/SUM(B2:B4)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "जैसा कि दिखाया गया है, सेल C7 में भारित औसत स्कोर (Weighted Average Score) की गणना करने के लिए निम्‍नलिखित में से कौन-सा सही फॉर्मूला है? <br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh56XdTxnUhP64Q-r7WWA4IXh93VLiln9VBADaeKzGW5xp4JGoJ_eUuDmkXnXVOAwBHsoTi2ngvLV3WhfVV7LlEmeI5zFBxG4wSDfFJXfbFohRdGNuKZXZSBIOIPO_4jvDEv9mp3fLdWtyepvZl9ISbrJw0kTBpYUrVeNcXaws2QqmCEBBYYsxFSDRQhdNN/s320/01%20qedf.png\" style=\"margin-top:10px;max-width:100%;\">'",
+    "options": [
+      "1. =SUMPRODUCT(C2:C5,B2:B5)",
+      "2. =AVERAGE(B2:B4)",
+      "3. =SUMPRODUCT(C2:C4,B2:B4)",
+      "4. =SUMPRODUCT(B2:B4,C2:C4)/SUM(B2:B4)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following Groups CANNOT be found in a data tab of MS-Excel 2019?",
+    "options": [
+      "1. Data tools",
+      "2. Forecast",
+      "3. Function Library",
+      "4. Data Types"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel 2019 के डेटा टैब में निम्‍नलिखित में से कौन-सा ग्रुप नहीं पाया जा सकता है?",
+    "options": [
+      "1. Data tools (डेटा टूल)",
+      "2. Forecast (फोरकास्‍ट)",
+      "3. Function Library (फंक्‍शन लाइब्रेरी)",
+      "4. Data Types (डेटा टाइप)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Features like spelling, Notes, Protect Sheet, etc. are available in which tab of MS-Excel 2019?",
+    "options": [
+      "1. Page Layout",
+      "2. Formulas",
+      "3. Review",
+      "4. Help"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel 2019 के किस टैब में स्पेलिंग, नोट्स, प्रोटेक्‍ट शीट आदि जैसे फिचर उपलब्‍ध हैं?",
+    "options": [
+      "1. Page Layout (पेज लेआउट)",
+      "2. Formulas (फ़ॉर्मूला)",
+      "3. Review (रिव्यु)",
+      "4. Help (हेल्‍प)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In MS-Excel 2019, which of the following is NOT a valid chart option?",
+    "options": [
+      "1. Area chart",
+      "2. Line chart",
+      "3. Pie chart",
+      "4. QP chart"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel 2019 में, निम्‍नलिखित में से कौन-सा एक वैध चार्ट विकल्‍प नहीं है?",
+    "options": [
+      "1. एरिया चार्ट",
+      "2. लाइन चार्ट",
+      "3. पाई चार्ट",
+      "4. QP चार्ट"
+    ],
+    "answer": 3
+  }
+],
+  
         "15th March 2025 - Shift1": [
 
  {
