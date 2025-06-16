@@ -2004,7 +2004,7 @@
     "answer": 1
   },
   {
-    "q": "Which of the following is the correct formula to calculate the weighted average score in cell C7 as shown?<br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh56XdTxnUhP64Q-r7WWA4IXh93VLiln9VBADaeKzGW5xp4JGoJ_eUuDmkXnXVOAwBHsoTi2ngvLV3WhfVV7LlEmeI5zFBxG4wSDfFJXfbFohRdGNuKZXZSBIOIPO_4jvDEv9mp3fLdWtyepvZl9ISbrJw0kTBpYUrVeNcXaws2QqmCEBBYYsxFSDRQhdNN/s320/01%20qedf.png\" style=\"margin-top:10px;max-width:100%;\">'",
+    "q": "Which of the following is the correct formula to calculate the weighted average score in cell C7 as shown?<br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh56XdTxnUhP64Q-r7WWA4IXh93VLiln9VBADaeKzGW5xp4JGoJ_eUuDmkXnXVOAwBHsoTi2ngvLV3WhfVV7LlEmeI5zFBxG4wSDfFJXfbFohRdGNuKZXZSBIOIPO_4jvDEv9mp3fLdWtyepvZl9ISbrJw0kTBpYUrVeNcXaws2QqmCEBBYYsxFSDRQhdNN/s320/01%20qedf.png\" style=\"margin-top:10px;max-width:100%;\">",
     "options": [
       "1. =SUMPRODUCT(C2:C5,B2:B5)",
       "2. =AVERAGE(B2:B4)",
@@ -2014,7 +2014,7 @@
     "answer": 3
   },
   {
-    "q": "जैसा कि दिखाया गया है, सेल C7 में भारित औसत स्कोर (Weighted Average Score) की गणना करने के लिए निम्‍नलिखित में से कौन-सा सही फॉर्मूला है? <br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh56XdTxnUhP64Q-r7WWA4IXh93VLiln9VBADaeKzGW5xp4JGoJ_eUuDmkXnXVOAwBHsoTi2ngvLV3WhfVV7LlEmeI5zFBxG4wSDfFJXfbFohRdGNuKZXZSBIOIPO_4jvDEv9mp3fLdWtyepvZl9ISbrJw0kTBpYUrVeNcXaws2QqmCEBBYYsxFSDRQhdNN/s320/01%20qedf.png\" style=\"margin-top:10px;max-width:100%;\">'",
+    "q": "जैसा कि दिखाया गया है, सेल C7 में भारित औसत स्कोर (Weighted Average Score) की गणना करने के लिए निम्‍नलिखित में से कौन-सा सही फॉर्मूला है? <br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh56XdTxnUhP64Q-r7WWA4IXh93VLiln9VBADaeKzGW5xp4JGoJ_eUuDmkXnXVOAwBHsoTi2ngvLV3WhfVV7LlEmeI5zFBxG4wSDfFJXfbFohRdGNuKZXZSBIOIPO_4jvDEv9mp3fLdWtyepvZl9ISbrJw0kTBpYUrVeNcXaws2QqmCEBBYYsxFSDRQhdNN/s320/01%20qedf.png\" style=\"margin-top:10px;max-width:100%;\">",
     "options": [
       "1. =SUMPRODUCT(C2:C5,B2:B5)",
       "2. =AVERAGE(B2:B4)",
