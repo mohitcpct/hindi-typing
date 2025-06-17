@@ -3126,6 +3126,2089 @@
     "answer": 3
   }
 ],
+"31th May 2025 - Shift2": [
+  {
+    "q": "Which of the following is an open source operating system?",
+    "options": [
+      "1. IBM OS/2",
+      "2. Linux",
+      "3. Windows",
+      "4. Macintosh"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्‍न में से कौन-सा एक ओपन सोर्स ऑपरेटिंग सिस्‍टम है?",
+    "options": [
+      "1. IBM OS/2",
+      "2. Linux",
+      "3. Windows",
+      "4. Macintosh"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A compiler means:",
+    "options": [
+      "1. a keypunch operator",
+      "2. a computer data collector",
+      "3. a person who compiles source programs",
+      "4. a program which translates source code into object code"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कंपाइलर से क्‍या तात्‍पर्य है?",
+    "options": [
+      "1. यह एक की-पंच ऑपरेटर है",
+      "2. यह एक कंप्यूटर डेटा कलेक्‍टर है",
+      "3. इसका तात्‍पर्य एक ऐसे व्‍यक्ति से है, जो सोर्स प्रोग्राम्‍स को कंपाइल करता है",
+      "4. यह एक ऐसा प्रोग्राम है जो सोर्स कोड को ऑब्जेक्‍ट कोड में अनुवादित करता है"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which part of the computer is used to store information?",
+    "options": [
+      "1. Mouse",
+      "2. Hard disk",
+      "3. Keyboard",
+      "4. Monitor"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कंप्यूटर के किस भाग का उपयोग सूचनाओं को संग्रहीत करने के लिए किया जाता है?",
+    "options": [
+      "1. माउस",
+      "2. हार्ड डिस्‍क",
+      "3. की-बोर्ड",
+      "4. मॉनिटर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following memories must be refreshed many times per second?",
+    "options": [
+      "1. Static Random Access Memory (SRAM)",
+      "2. Dynamic Random Access Memory (DRAM)",
+      "3. Read Only Memory (ROM)",
+      "4. Electrically Erasable Programmable Read-Only Memory (EEPROM)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्‍नलिखित में से किस प्रकार की मेमोरी को प्रति सेकंड कई बार रिफ्रेश करने की आवश्‍यकता होती है?",
+    "options": [
+      "1. स्टैटिक रैंडम एक्सेस मेमोरी (SRAM)",
+      "2. डायनेमिक रैंडम एक्सेस मेमोरी (DRAM)",
+      "3. रीड ओनली मेमोरी (ROM)",
+      "4. इलेक्ट्रिकली इरेज़ेबल प्रोग्रामेबल रीड-ओनली मेमोरी (EEPROM)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ mouse emits and senses light to detect mouse movement.",
+    "options": [
+      "1. An optical",
+      "2. A touchpad",
+      "3. A mechanical",
+      "4. A trackball"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_________ माउस, माउस के संचलन का पता लगाने के लिए प्रकाश उत्‍सर्जित करता है और उसका बोध करता है।",
+    "options": [
+      "1. ऑप्टिकल",
+      "2. टचपैड",
+      "3. मैकेनिकल",
+      "4. ट्रैकबॉल"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Plotter is a special type of:",
+    "options": [
+      "1. camera",
+      "2. monitor",
+      "3. output device",
+      "4. input device"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "प्लॉटर (Plotter), _________ का एक विशेष प्रकार है।",
+    "options": [
+      "1. कैमरा",
+      "2. मॉनिटर",
+      "3. आउटपुट डिवाइस",
+      "4. इनपुट डिवाइस"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following keyboard shortcuts is used to view a web page's source codes in Chrome browser in Windows OS?",
+    "options": [
+      "1. Alt + U",
+      "2. Ctrl + U",
+      "3. Alt + S",
+      "4. Ctrl + S"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Windows OS में क्रोम ब्राउज़र में, वेब पेज के सोर्स कोड को देखने के लिए निम्‍नलिखित में से किस की-बोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Alt + U",
+      "2. Ctrl + U",
+      "3. Alt + S",
+      "4. Ctrl + S"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is not a web mail provider?",
+    "options": [
+      "1. Google",
+      "2. Yahoo",
+      "3. Outlook",
+      "4. Adobe"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सा वेब मेल प्रदाता नहीं है?",
+    "options": [
+      "1. Google",
+      "2. Yahoo",
+      "3. Outlook",
+      "4. Adobe"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is a secondary memory device?",
+    "options": [
+      "1. CPU",
+      "2. ALU",
+      "3. Hard drive",
+      "4. Mouse"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सी एक सेकेंडरी मेमोरी डिवाइस है?",
+    "options": [
+      "1. CPU",
+      "2. ALU",
+      "3. हार्ड ड्राइव",
+      "4. माउस"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is a computer-based application for the exchange of messages between users?",
+    "options": [
+      "1. e-shram",
+      "2. e-mail",
+      "3. e-kyc",
+      "4. e-aadhar"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "उपयोगकर्ताओं के बीच संदेशों के आदान-प्रदान के लिए निम्‍नलिखित में से कौन-सा एक कंप्यूटर-आधारित एप्लिकेशन है?",
+    "options": [
+      "1. e-shram",
+      "2. e-mail",
+      "3. e-kyc",
+      "4. e-aadhar"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following sensors is a transducer that converts fingerprint, voice, face, etc. of a person into an electrical signal?",
+    "options": [
+      "1. Temperature",
+      "2. Radiation",
+      "3. Biometric",
+      "4. Proximity"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सा सेंसर एक ट्रांसड्यूसर है, जो किसी व्‍यक्ति के फिंगरप्रिंट, आवाज, चेहरे, आदि को एक विद्युत संकेत में परिवर्तित करता है?",
+    "options": [
+      "1. टेम्‍परेचर (Temperature)",
+      "2. रेडिएशन (Radiation)",
+      "3. बायोमेट्रिक (Biometric)",
+      "4. प्रोक्सिमिटी (Proximity)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is true with reference to a Blue-ray disk? <br>(i) It is slower than a hard disk or flash memory. <br> (ii) It is faster than a magnetic tape.",
+    "options": [
+      "1. Only (i)",
+      "2. Only (ii)",
+      "3. Both (i) and (ii)",
+      "4. Neither (i) nor (ii)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "ब्लू-रे डिस्‍क के संदर्भ में निम्‍नलिखित में से कौन-से कथन सत्‍य हैं? <br>(i) यह हार्ड डिस्‍क या फ्लैश मेमोरी से धीमी होती है। <br>(ii) यह मैग्नेटिक टेप से तेज़ होती है।",
+    "options": [
+      "1. केवल (i)",
+      "2. केवल (ii)",
+      "3. (i) और (ii) दोनों",
+      "4. न तो (i) और न ही (ii)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is not an output device?",
+    "options": [
+      "1. Printer",
+      "2. Monitor",
+      "3. Projector",
+      "4. Microphone"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्‍नलिखित में से क्या एक आउटपुट डिवाइस नहीं है?",
+    "options": [
+      "1. प्रिंटर",
+      "2. मॉनिटर",
+      "3. प्रोजेक्‍टर",
+      "4. माइक्रोफोन"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "______ type display uses vacuum tube technology.",
+    "options": [
+      "1. Plasma",
+      "2. LCD (Liquid Crystal Display)",
+      "3. LED (Light Emitting Diode)",
+      "4. CRT (Cathode Ray Tube)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "______ प्रकार की डिप्ले में वैक्यूम ट्यूब तकनीक का उपयोग किया जाता है।",
+    "options": [
+      "1. प्लाज्मा",
+      "2. LCD (लिक्विड क्रिस्‍टल डिस्‍प्ले)",
+      "3. LED (लाइट इमिटिंग डायोड)",
+      "4. CRT (कैथोड रे ट्यूब)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following software is used for creating and designing presentations?",
+    "options": [
+      "1. MS-Word",
+      "2. MS-Excel",
+      "3. MS-Access",
+      "4. MS-PowerPoint"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "प्रेजेंटेजेंटेशन बनाने और डिज़ाइन करने के लिए निम्‍नलिखित में से किस सॉफ्टवेयर का उपयोग किया जाता है?",
+    "options": [
+      "1. एमएस-वर्ड (MS-Word)",
+      "2. एमएस-एक्सेल (MS-Excel)",
+      "3. एमएस-एक्सेस (MS-Access)",
+      "4. एमएस-पावरप्वाइंट (MS-PowerPoint)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MFP also stands for:",
+    "options": [
+      "1. Multi Format Printer",
+      "2. Multi Function Printer",
+      "3. More Fun Printer",
+      "4. More Functions Printer"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MFP का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Multi Format printer (मल्टी फॉर्मेट प्रिंटर)",
+      "2. Multi Function Printer (मल्टी फंक्‍शन प्रिंटर)",
+      "3. More Fun Printer (मोर फन प्रिंटर)",
+      "4. More Functions Printer (मोर फंक्‍शन्‍स प्रिंटर)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In which type of network topology are devices connected through a central device?",
+    "options": [
+      "1. Star topology",
+      "2. Bus topology",
+      "3. Ring topology",
+      "4. Tree topology"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "किस प्रकार की नेटवर्क टोपोलॉजी में, डिवाइस एक सेंट्रल डिवाइस के माध्‍यम से जुड़े होते हैं?",
+    "options": [
+      "1. स्टार टोपोलॉजी",
+      "2. बस टोपोलॉजी",
+      "3. रिंग टोपोलॉजी",
+      "4. ट्री टोपोलॉजी"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the size of IPv4 addresses?",
+    "options": [
+      "1. 16 bits",
+      "2. 32 bits",
+      "3. 64 bits",
+      "4. 128 bits"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "IPv4 एड्रेस का साइज़ क्या होता है?",
+    "options": [
+      "1. 16 बिट",
+      "2. 32 बिट",
+      "3. 64 बिट",
+      "4. 128 बिट"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "For grayscale images, pixel values usually range from ________ .",
+    "options": [
+      "1. 0 to 10",
+      "2. 0 to 255",
+      "3. 0 to 1",
+      "4. 255 to 350"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ग्रेस्केल छवियों (images) के लिए, पिक्सेल मान आमतौर पर ___________ तक होते हैं।",
+    "options": [
+      "1. 0 से 10",
+      "2. 0 से 255",
+      "3. 0 से 1",
+      "4. 255 से 350"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following minimises file size without necessarily losing the content’s integrity?",
+    "options": [
+      "1. File Updation",
+      "2. File deletion",
+      "3. File compression",
+      "4. File sorting"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सा विकल्‍प सामग्री की अखंडता (integrity) को खोए बिना फ़ाइल के आकार को कम करता है?",
+    "options": [
+      "1. फाइल अपडेशन (File updation)",
+      "2. फाइल डिलीशन (File deletion)",
+      "3. फाइल कम्प्रेशन (File compression)",
+      "4. फाइल सॉर्टिंग (File sorting)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Chrome is a ________, which was developed by ______.",
+    "options": [
+      "1. search engine, Microsoft",
+      "2. search engine, Google",
+      "3. web browser, Microsoft",
+      "4. web browser, Google"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "क्रोम (Chrome) एक _________ है, जिसे ________ द्वारा विकसित किया गया था।",
+    "options": [
+      "1. सर्च इंजन, Microsoft",
+      "2. सर्च इंजन, Google",
+      "3. वेब ब्राउज़र, Microsoft",
+      "4. वेब ब्राउज़र, Google"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is NOT a Windows 7 Edition?",
+    "options": [
+      "1. Windows 7 Starter",
+      "2. Windows 7 Professional",
+      "3. Windows 7 Perfect",
+      "4. Windows 7 Enterprise"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सा विंडोज 7 (Windows 7) संस्‍करण नहीं है?",
+    "options": [
+      "1. विंडोज 7 स्टार्टर",
+      "2. विंडोज 7 प्रोफेशनल",
+      "3. विंडोज 7 परफेक्‍ट",
+      "4. विंडोज 7 एंटरप्राइज"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "POST is done by BIOS to ensure that the:",
+    "options": [
+      "1. operating system is working properly",
+      "2. power supply is working properly",
+      "3. hardware is properly functioning",
+      "4. monitor is getting proper power"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "BIOS द्वारा POST क्या सुनिश्चित करने के लिए किया जाता है?",
+    "options": [
+      "1. ऑपरेटिंग सिस्‍टम ठीक से काम कर रहा है या नहीं",
+      "2. पावर सप्लाई सही से काम कर रही है या नहीं",
+      "3. हार्डवेयर सही से काम कर रहा है या नहीं",
+      "4. मॉनिटर को उचित पावर मिल रही है या नहीं"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is NOT a feature in the 'Personalization' option in Windows 10?",
+    "options": [
+      "1. Background",
+      "2. Foreground",
+      "3. Colors",
+      "4. Themes"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Windows 10 के 'पर्सनलाइजेशन' (Personalization) विकल्‍प में निम्‍नलिखित में से कौन-सा फ़ीचर उपलब्‍ध नहीं होता है?",
+    "options": [
+      "1. बैकग्राउंड (Background)",
+      "2. फोरग्राउंड (Foreground)",
+      "3. कलर्स (Colors)",
+      "4. थीम्‍स (Themes)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The main function of the command interpreter is:",
+    "options": [
+      "1. as a mediator between the kernel and user as well as some programs",
+      "2. to get and execute the next user specific command",
+      "3. to delete the user command",
+      "4. to keep the user command in memory buffer"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कमांड इंटरप्रेटर का मुख्‍य कार्य क्या होता है?",
+    "options": [
+      "1. कर्नेल और यूज़र के साथ-साथ कुछ प्रोग्राम के बीच मध्‍यस्‍थ बनना",
+      "2. अगला यूज़र स्पेसिफिक कमांड प्राप्‍त करना और निष्पादित करना",
+      "3. यूज़र कमांड को डिलीट करना",
+      "4. यूज़र कमांड को मेमोरी बफ़र के अंदर रखना"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Internet speed is measured commonly in bps. What is full form of bps?",
+    "options": [
+      "1. Bigrams per second",
+      "2. Bits per second",
+      "3. Bars per second",
+      "4. Bits per section"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "इंटरनेट की गति आमतौर पर bps में मापी जाती है। bps का पूर्ण प क्या है?",
+    "options": [
+      "1. Bigrams per second (बायग्राम पर सेकेंड)",
+      "2. Bits per second (बिट्स पर सेकेंड)",
+      "3. Bars per second (बार्स पर सेकेंड)",
+      "4. Bits per section (बिट्स पर सेक्‍शन)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "PWL file format represents which of the following files?",
+    "options": [
+      "1. MS Encarta document",
+      "2. Windows clipboard",
+      "3. Compressed Archive File",
+      "4. Password list"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "PWL फाइल फॉर्मेट निम्‍नलिखित में से किस फाइल को निरूपित करता है?",
+    "options": [
+      "1. एमएस एनकार्टा डॉक्यूमेंट (MS Encarta document)",
+      "2. विंडोज क्लिपबोर्ड (Windows clipboard)",
+      "3. कंप्रेस्‍ड आर्काइव फाइल (Compressed Archive File)",
+      "4. पासवर्ड लिस्‍ट (Password list)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What happens when 'battery saver is on' in Windows 10?",
+    "options": [
+      "1. PC temporarily turns off some things that use a lot of power.",
+      "2. PC temporarily turns on some things that use a lot of power.",
+      "3. PC is temporarily turned off completely.",
+      "4. PC temporarily turns off for shorter duration."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Windows 10, 'बैटरी सेवर ऑन' पर क्या होता है?",
+    "options": [
+      "1. PC बहुत अधिक बिजली का उपयोग करने वाली कुछ चीजों को अस्थायी रूप से बंद कर देता है।",
+      "2. PC बहुत अधिक बिजली का उपयोग करने वाली कुछ चीजों को अस्थायी रूप से चालू कर देता है।",
+      "3. PC अस्थायी रूप से पूर्णतः बंद हो जाता है।",
+      "4. PC अस्थायी रूप से अल्‍प अवधि के लिए बंद हो जाता है।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is an unexpected problem with software or hardware in a computer system referred to, such as frozen screens, data file damage, etc.?",
+    "options": [
+      "1. System bug",
+      "2. Compiler error",
+      "3. Network error",
+      "4. Cloud error"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कंप्यूटर सिस्‍टम के सॉफ्टवेयर या हार्डवेयर में होने वाली वह समस्या जिसके कारण स्क्रीन फ्रीज़ हो जाने और डेटा फ़ाइल को क्षति पहुँचने, आदि जैसी समस्याएं देखने को मिलती हैं, क्या कहलाती है?",
+    "options": [
+      "1. सिस्‍टम बग",
+      "2. कंपाइलर एरर",
+      "3. नेटवर्क एरर",
+      "4. क्लाउड एरर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is the assurance that the information being accessed has not been altered and truly represents what is intended?",
+    "options": [
+      "1. Confidentiality",
+      "2. Integrity",
+      "3. Availability",
+      "4. Accessibility"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन- सा आश्वासन इस बात की पुष्टि करता है, कि एक्सेस की गई सूचना में कोई बदलाव नहीं किया गया है और वह पूर्णतः उद्दिष्‍ट अभिकथन का ही प्रतिनिधित्‍व कर रही है?",
+    "options": [
+      "1. गोपनीयता (Confidentiality)",
+      "2. अखंडता (Integrity)",
+      "3. उपलब्‍धता (Availability)",
+      "4. पहुँच (Accessibility)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which folder in Gmail retains copies of messages that you have started but not yet sent?",
+    "options": [
+      "1. Inbox",
+      "2. Spam",
+      "3. Drafts",
+      "4. Sent"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Gmail में कौन-सा फ़ोल्‍डर उन संदेशों की प्रतियों को बरकरार रखता है जो आपने शुरू किए हैं लेकिन अभी तक भेजे नहीं हैं?",
+    "options": [
+      "1. इनबाक्‍स (Inbox)",
+      "2. स्पैम (Spam)",
+      "3. ड्राफ्ट्स (Drafts)",
+      "4. सेंट (Sent)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following keyboard shortcuts is equivalent to Ctrl + S to save an open file in MS-Word 2019?",
+    "options": [
+      "1. Ctrl + F12",
+      "2. Shift + F12",
+      "3. Ctrl + F5",
+      "4. Shift + F5"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Word 2019 में, खुली हुई फ़ाइल को सेव करने के लिए निम्‍नलिखित में से कौन-सा की-बोर्ड शॉर्टकट Ctrl + S के समान ही कार्य करता है?",
+    "options": [
+      "1. Ctrl + F12",
+      "2. Shift + F12",
+      "3. Ctrl + F5",
+      "4. Shift + F5"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ and discussion forums allow users to view and post messages online based on common interest.",
+    "options": [
+      "1. Newsgroups",
+      "2. Chatting",
+      "3. Mailing lists",
+      "4. Grouping"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ और चर्चा मंच (डिस्‍कशन फ़ोरम्‍स) उपयोगकर्ताओं को सामान्‍य रूचि के आधार पर संदेशों को ऑनलाइन देखने और पोस्‍ट करने की अनुमति देते हैं।",
+    "options": [
+      "1. न्यूज़ ग्रुप",
+      "2. चैटिंग",
+      "3. मेलिंग लिस्‍ट",
+      "4. ग्रुपिंग"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the full form of NEFT?",
+    "options": [
+      "1. National Electronic Funds Transfer",
+      "2. National Economic Fund Transfer",
+      "3. New Electronic Formula Transfer",
+      "4. New Exchange Fund Transfer"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "NEFT का पूर्ण रूप क्या है?",
+    "options": [
+      "1. National Electronic Funds Transfer (नेशनल इलेक्ट्रॉनिक फंड्स ट्रांसफर)",
+      "2. National economic Fund Transfer (नेशनल इकोनॉमिक फंड ट्रांसफर)",
+      "3. New Electronic Fund Transfer (न्यू इलेक्ट्रॉनिक फंड ट्रांसफर)",
+      "4. New Exchange Fund Transfer (न्यू एक्‍सचेंज फंड ट्रांसफर)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is the address of the 5th row and 3rd column in MS-Excel 2019 sheet?",
+    "options": [
+      "1. 5C",
+      "2. C5",
+      "3. 3E",
+      "4. E3"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 शीट की 5वींरो और 3रे कॉलम का एड्रेस निम्‍न में से क्या होगा?",
+    "options": [
+      "1. 5C",
+      "2. C5",
+      "3. 3E",
+      "4. E3"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the result of the following MS-Excel 2019 formula? <br>= FACT(0) + FACT(3) + FACT(5)",
+    "options": [
+      "1. 8",
+      "2. 126",
+      "3. 127",
+      "4. 9"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्‍नलिखित MS-Excel 2019 सूत्र का परिणाम क्या होगा? <br> = FACT(0) + FACT(3) + FACT(5)",
+    "options": [
+      "1. 8",
+      "2. 126",
+      "3. 127",
+      "4. 9"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following keyboard shortcuts can be used to indent paragraphs in an MS-Word 2019 document?",
+    "options": [
+      "1. Ctrl + I",
+      "2. Alt + I",
+      "3. Ctrl + M",
+      "4. Alt + T"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Word 2019 डॉक्यूमेंट में, पैराग्राफ को इंडेंट करने के लिए निम्‍न में से किस की-बोर्ड शॉर्टकट का उपयोग किया जा सकता है?",
+    "options": [
+      "1. Ctrl + I",
+      "2. Alt + I",
+      "3. Ctrl + M",
+      "4. Alt + T"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In MS-Excel 2019, consider a formula '=$D$3+$C$5' in cell B4. If cell B4 is copied and pasted into F10, then what will be the formula in cell F10?",
+    "options": [
+      "1. =$D$4+$C$6",
+      "2. =$D$3+$C$5",
+      "3. =$E$3+$D$5",
+      "4. =$E$4+$D$6"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 की सेल B4 में एक सूत्र'=$D$3+$C$5' है। यदि सेल B4 को कॉपी करके सेल F10 में पेस्‍ट किया जाता है, तो सेल F10 में सूत्र क्या होगा?",
+    "options": [
+      "1. =$D$4+$C$6",
+      "2. =$D$3+$C$5",
+      "3. =$E$3+$D$5",
+      "4. =$E$4+$D$6"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following does NOT belong to the insert option in the pop-up menu that appears when we right-click on any cell of a table in MS-Word 2019?",
+    "options": [
+      "1. Insert Cells",
+      "2. Insert Rows Above",
+      "3. Insert Rows Across",
+      "4. Insert Rows Below"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Word 2019 में, किसी तालिका के किसी भी सेल पर राइट-क्लिक करने से खुलने वाले पॉप-अप मेनू के इंसर्ट (insert) विक में निम्‍न में से क्या शामिल नहीं होता है?",
+    "options": [
+      "1. इंसर्ट सेल्‍स (Insert Cells)",
+      "2. इंसर्ट रोज़ अबव (Insert Rows Above)",
+      "3. इंसर्ट रोज़ अक्रॉस (Insert Rows Across)",
+      "4. इंसर्ट रोज़ बिलो (Insert Rows Below)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Network congestion occurs:",
+    "options": [
+      "1. in case of traffic overloading",
+      "2. in case of VPN connectivity problems",
+      "3. in case of VoIP call quality issues",
+      "4. in case of Configuration errors"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "नेटवर्क संकुलन (Network congestion) कब होता है?",
+    "options": [
+      "1. ट्रैफिक ओवरलोडिंग के मामले में।",
+      "2. VPN कनेक्टिविटी समस्याओं के मामले में।",
+      "3. VoIP कॉल गुणवत्ता के मुद्दों के मामले में।",
+      "4. कॉन्फ़िगरेशन त्रुटियों के मामले में।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following provides reliable communication?",
+    "options": [
+      "1. TCP",
+      "2. UDP",
+      "3. IP",
+      "4. Both TCP & UDP"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सा प्रोटोकॉल एक विश्‍वसनीय संचार प्रदान करता है?",
+    "options": [
+      "1. TCP",
+      "2. UDP",
+      "3. IP",
+      "4. TCP और UDP दोनों"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which servers are used as software solutions used for transferring files across the internet?",
+    "options": [
+      "1. FTP",
+      "2. DHCP",
+      "3. SSL",
+      "4. LPD"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "इंटरनेट पर फ़ाइलों को स्थानांतरित करने के लिए उपयोग किए जाने वाले सॉफ्टवेयर सॉल्यूशन के रूप में किस सर्वर का उपयोग किया जाता है?",
+    "options": [
+      "1. FTP",
+      "2. DHCP",
+      "3. SSL",
+      "4. LPD"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "An Internet domain name without the \"www\" or any other subdomains is called as __________.",
+    "options": [
+      "1. Naked domain",
+      "2. Simple domain",
+      "3. Complex domain",
+      "4. Fake domain"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "‘www’ या किसी अन्‍य उप-डोमेन के बिना, इंटरनेट डोमेन नाम को ______ कहा जाता है।",
+    "options": [
+      "1. नेकेड डोमेन",
+      "2. सिंपल डोमेन",
+      "3. कॉप्लेक्‍स डोमेन",
+      "4. फेक डोमेन"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A spreadsheet is also known as a ______ in MS-Excel.",
+    "options": [
+      "1. workbook",
+      "2. document",
+      "3. slide",
+      "4. worksheet"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel में, स्प्रेडशीट को _________के रूप में भी जाना जाता है।",
+    "options": [
+      "1. वर्कबुक",
+      "2. डॉक्यूमेंट",
+      "3. स्लाइड",
+      "4. वर्कशीट"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A formula performs calculations or other actions on the _______ in a worksheet MS-Excel.",
+    "options": [
+      "1. menus",
+      "2. commands",
+      "3. data",
+      "4. tabs"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel वर्कशीट में कोई सूत्र ______ पर गणना या अन्‍य क्रियाएं करता है।",
+    "options": [
+      "1. मेन्यू",
+      "2. कमांड",
+      "3. डेटा",
+      "4. टैब"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What will be the result of the following MS-Excel 2019 formula? <br>=(120*5/10^2)",
+    "options": [
+      "1. 8",
+      "2. 7",
+      "3. 6",
+      "4. 9"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्‍नलिखित MS-Excel 2019 सू का परिणाम क्या होगा? <br> =(120*5/10^2)",
+    "options": [
+      "1. 8",
+      "2. 7",
+      "3. 6",
+      "4. 9"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the result of the following MS-Excel 2019 formula? <br>1",
+    "options": [
+      "1. 1",
+      "2. 96",
+      "3. 120",
+      "4. 24"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍नलिखित MS-Excel 2019 सूत्र का परिणाम क्या होगा?  <br>= FACT(5-4)",
+    "options": [
+      "1. 1",
+      "2. 96",
+      "3. 120",
+      "4. 24"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following keyboard shortcuts is used to move to the beginning of a worksheet in MS-Excel 2019?",
+    "options": [
+      "1. Ctrl + Home",
+      "2. Ctrl + Right arrow key",
+      "3. Ctrl + End",
+      "4. Ctrl + Down arrow key"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍नलिखित में से किस की-बोर्ड शॉर्टकट का उपयोग MS-Excel 2019 में किसी वर्कशीट के आरंभ में जाने के लिए किया जाता है?",
+    "options": [
+      "1. Ctrl + Home",
+      "2. Ctrl + Right arrow key",
+      "3. Ctrl + End",
+      "4. Ctrl + Down arrow key"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following keyboard shortcuts is used to go to the File tab in MS-Word 2019?",
+    "options": [
+      "1. Alt + H",
+      "2. Alt + F",
+      "3. Alt + N",
+      "4. Alt + M"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Word 2019 में, फाइल टैब पर जाने के लिए निम्‍न में से किस की-बोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Alt + H",
+      "2. Alt + F",
+      "3. Alt + N",
+      "4. Alt + M"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which is the function to round a number to a specified number of digits in MS-Excel 2019?",
+    "options": [
+      "1. GROUP",
+      "2. ROUND",
+      "3. AVG",
+      "4. SUMIF"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 में, किसी संख्या को अंकों की एक निर्दिष्‍ट संख्या में पूर्णांकित करने वाला फंक्‍शन निम्‍न में से कौन-सा है?",
+    "options": [
+      "1. GROUP",
+      "2. ROUND",
+      "3. AVG",
+      "4. SUMIF"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In MS-Excel 2019, the _______ button is located in the Editing group of the Home tab.",
+    "options": [
+      "1. add",
+      "2. autosum",
+      "3. avg",
+      "4. equation"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 में, _______ बटन ‘होम टैब’ के ‘एडिटिंग ग्रुप’ में मौजूद होता है।",
+    "options": [
+      "1. add",
+      "2. Autosum",
+      "3. Avg",
+      "4. equation"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The hexadecimal equivalent of decimal 16 is ________.",
+    "options": [
+      "1. 16",
+      "2. 11",
+      "3. F",
+      "4. 10"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "दशमलव 16 का षोडश आधारी (hexadecimal) समतुल्‍य निम्‍न में से क्या होगा?",
+    "options": [
+      "1. 16",
+      "2. 11",
+      "3. F",
+      "4. 10"
+    ],
+    "answer": 3
+  }
+],"31th May 2025 - Shift2": [
+  {
+    "q": "Which of the following is an open source operating system?",
+    "options": [
+      "1. IBM OS/2",
+      "2. Linux",
+      "3. Windows",
+      "4. Macintosh"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्‍न में से कौन-सा एक ओपन सोर्स ऑपरेटिंग सिस्‍टम है?",
+    "options": [
+      "1. IBM OS/2",
+      "2. Linux",
+      "3. Windows",
+      "4. Macintosh"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A compiler means:",
+    "options": [
+      "1. a keypunch operator",
+      "2. a computer data collector",
+      "3. a person who compiles source programs",
+      "4. a program which translates source code into object code"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कंपाइलर से क्‍या तात्‍पर्य है?",
+    "options": [
+      "1. यह एक की-पंच ऑपरेटर है",
+      "2. यह एक कंप्यूटर डेटा कलेक्‍टर है",
+      "3. इसका तात्‍पर्य एक ऐसे व्‍यक्ति से है, जो सोर्स प्रोग्राम्‍स को कंपाइल करता है",
+      "4. यह एक ऐसा प्रोग्राम है जो सोर्स कोड को ऑब्जेक्‍ट कोड में अनुवादित करता है"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which part of the computer is used to store information?",
+    "options": [
+      "1. Mouse",
+      "2. Hard disk",
+      "3. Keyboard",
+      "4. Monitor"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कंप्यूटर के किस भाग का उपयोग सूचनाओं को संग्रहीत करने के लिए किया जाता है?",
+    "options": [
+      "1. माउस",
+      "2. हार्ड डिस्‍क",
+      "3. की-बोर्ड",
+      "4. मॉनिटर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following memories must be refreshed many times per second?",
+    "options": [
+      "1. Static Random Access Memory (SRAM)",
+      "2. Dynamic Random Access Memory (DRAM)",
+      "3. Read Only Memory (ROM)",
+      "4. Electrically Erasable Programmable Read-Only Memory (EEPROM)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्‍नलिखित में से किस प्रकार की मेमोरी को प्रति सेकंड कई बार रिफ्रेश करने की आवश्‍यकता होती है?",
+    "options": [
+      "1. स्टैटिक रैंडम एक्सेस मेमोरी (SRAM)",
+      "2. डायनेमिक रैंडम एक्सेस मेमोरी (DRAM)",
+      "3. रीड ओनली मेमोरी (ROM)",
+      "4. इलेक्ट्रिकली इरेज़ेबल प्रोग्रामेबल रीड-ओनली मेमोरी (EEPROM)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ mouse emits and senses light to detect mouse movement.",
+    "options": [
+      "1. An optical",
+      "2. A touchpad",
+      "3. A mechanical",
+      "4. A trackball"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_________ माउस, माउस के संचलन का पता लगाने के लिए प्रकाश उत्‍सर्जित करता है और उसका बोध करता है।",
+    "options": [
+      "1. ऑप्टिकल",
+      "2. टचपैड",
+      "3. मैकेनिकल",
+      "4. ट्रैकबॉल"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Plotter is a special type of:",
+    "options": [
+      "1. camera",
+      "2. monitor",
+      "3. output device",
+      "4. input device"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "प्लॉटर (Plotter), _________ का एक विशेष प्रकार है।",
+    "options": [
+      "1. कैमरा",
+      "2. मॉनिटर",
+      "3. आउटपुट डिवाइस",
+      "4. इनपुट डिवाइस"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following keyboard shortcuts is used to view a web page's source codes in Chrome browser in Windows OS?",
+    "options": [
+      "1. Alt + U",
+      "2. Ctrl + U",
+      "3. Alt + S",
+      "4. Ctrl + S"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Windows OS में क्रोम ब्राउज़र में, वेब पेज के सोर्स कोड को देखने के लिए निम्‍नलिखित में से किस की-बोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Alt + U",
+      "2. Ctrl + U",
+      "3. Alt + S",
+      "4. Ctrl + S"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is not a web mail provider?",
+    "options": [
+      "1. Google",
+      "2. Yahoo",
+      "3. Outlook",
+      "4. Adobe"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सा वेब मेल प्रदाता नहीं है?",
+    "options": [
+      "1. Google",
+      "2. Yahoo",
+      "3. Outlook",
+      "4. Adobe"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is a secondary memory device?",
+    "options": [
+      "1. CPU",
+      "2. ALU",
+      "3. Hard drive",
+      "4. Mouse"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सी एक सेकेंडरी मेमोरी डिवाइस है?",
+    "options": [
+      "1. CPU",
+      "2. ALU",
+      "3. हार्ड ड्राइव",
+      "4. माउस"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is a computer-based application for the exchange of messages between users?",
+    "options": [
+      "1. e-shram",
+      "2. e-mail",
+      "3. e-kyc",
+      "4. e-aadhar"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "उपयोगकर्ताओं के बीच संदेशों के आदान-प्रदान के लिए निम्‍नलिखित में से कौन-सा एक कंप्यूटर-आधारित एप्लिकेशन है?",
+    "options": [
+      "1. e-shram",
+      "2. e-mail",
+      "3. e-kyc",
+      "4. e-aadhar"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following sensors is a transducer that converts fingerprint, voice, face, etc. of a person into an electrical signal?",
+    "options": [
+      "1. Temperature",
+      "2. Radiation",
+      "3. Biometric",
+      "4. Proximity"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सा सेंसर एक ट्रांसड्यूसर है, जो किसी व्‍यक्ति के फिंगरप्रिंट, आवाज, चेहरे, आदि को एक विद्युत संकेत में परिवर्तित करता है?",
+    "options": [
+      "1. टेम्‍परेचर (Temperature)",
+      "2. रेडिएशन (Radiation)",
+      "3. बायोमेट्रिक (Biometric)",
+      "4. प्रोक्सिमिटी (Proximity)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is true with reference to a Blue-ray disk? <br>(i) It is slower than a hard disk or flash memory. <br> (ii) It is faster than a magnetic tape.",
+    "options": [
+      "1. Only (i)",
+      "2. Only (ii)",
+      "3. Both (i) and (ii)",
+      "4. Neither (i) nor (ii)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "ब्लू-रे डिस्‍क के संदर्भ में निम्‍नलिखित में से कौन-से कथन सत्‍य हैं? <br>(i) यह हार्ड डिस्‍क या फ्लैश मेमोरी से धीमी होती है। <br>(ii) यह मैग्नेटिक टेप से तेज़ होती है।",
+    "options": [
+      "1. केवल (i)",
+      "2. केवल (ii)",
+      "3. (i) और (ii) दोनों",
+      "4. न तो (i) और न ही (ii)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is not an output device?",
+    "options": [
+      "1. Printer",
+      "2. Monitor",
+      "3. Projector",
+      "4. Microphone"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्‍नलिखित में से क्या एक आउटपुट डिवाइस नहीं है?",
+    "options": [
+      "1. प्रिंटर",
+      "2. मॉनिटर",
+      "3. प्रोजेक्‍टर",
+      "4. माइक्रोफोन"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "______ type display uses vacuum tube technology.",
+    "options": [
+      "1. Plasma",
+      "2. LCD (Liquid Crystal Display)",
+      "3. LED (Light Emitting Diode)",
+      "4. CRT (Cathode Ray Tube)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "______ प्रकार की डिप्ले में वैक्यूम ट्यूब तकनीक का उपयोग किया जाता है।",
+    "options": [
+      "1. प्लाज्मा",
+      "2. LCD (लिक्विड क्रिस्‍टल डिस्‍प्ले)",
+      "3. LED (लाइट इमिटिंग डायोड)",
+      "4. CRT (कैथोड रे ट्यूब)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following software is used for creating and designing presentations?",
+    "options": [
+      "1. MS-Word",
+      "2. MS-Excel",
+      "3. MS-Access",
+      "4. MS-PowerPoint"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "प्रेजेंटेजेंटेशन बनाने और डिज़ाइन करने के लिए निम्‍नलिखित में से किस सॉफ्टवेयर का उपयोग किया जाता है?",
+    "options": [
+      "1. एमएस-वर्ड (MS-Word)",
+      "2. एमएस-एक्सेल (MS-Excel)",
+      "3. एमएस-एक्सेस (MS-Access)",
+      "4. एमएस-पावरप्वाइंट (MS-PowerPoint)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MFP also stands for:",
+    "options": [
+      "1. Multi Format Printer",
+      "2. Multi Function Printer",
+      "3. More Fun Printer",
+      "4. More Functions Printer"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MFP का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Multi Format printer (मल्टी फॉर्मेट प्रिंटर)",
+      "2. Multi Function Printer (मल्टी फंक्‍शन प्रिंटर)",
+      "3. More Fun Printer (मोर फन प्रिंटर)",
+      "4. More Functions Printer (मोर फंक्‍शन्‍स प्रिंटर)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In which type of network topology are devices connected through a central device?",
+    "options": [
+      "1. Star topology",
+      "2. Bus topology",
+      "3. Ring topology",
+      "4. Tree topology"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "किस प्रकार की नेटवर्क टोपोलॉजी में, डिवाइस एक सेंट्रल डिवाइस के माध्‍यम से जुड़े होते हैं?",
+    "options": [
+      "1. स्टार टोपोलॉजी",
+      "2. बस टोपोलॉजी",
+      "3. रिंग टोपोलॉजी",
+      "4. ट्री टोपोलॉजी"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the size of IPv4 addresses?",
+    "options": [
+      "1. 16 bits",
+      "2. 32 bits",
+      "3. 64 bits",
+      "4. 128 bits"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "IPv4 एड्रेस का साइज़ क्या होता है?",
+    "options": [
+      "1. 16 बिट",
+      "2. 32 बिट",
+      "3. 64 बिट",
+      "4. 128 बिट"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "For grayscale images, pixel values usually range from ________ .",
+    "options": [
+      "1. 0 to 10",
+      "2. 0 to 255",
+      "3. 0 to 1",
+      "4. 255 to 350"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ग्रेस्केल छवियों (images) के लिए, पिक्सेल मान आमतौर पर ___________ तक होते हैं।",
+    "options": [
+      "1. 0 से 10",
+      "2. 0 से 255",
+      "3. 0 से 1",
+      "4. 255 से 350"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following minimises file size without necessarily losing the content’s integrity?",
+    "options": [
+      "1. File Updation",
+      "2. File deletion",
+      "3. File compression",
+      "4. File sorting"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सा विकल्‍प सामग्री की अखंडता (integrity) को खोए बिना फ़ाइल के आकार को कम करता है?",
+    "options": [
+      "1. फाइल अपडेशन (File updation)",
+      "2. फाइल डिलीशन (File deletion)",
+      "3. फाइल कम्प्रेशन (File compression)",
+      "4. फाइल सॉर्टिंग (File sorting)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Chrome is a ________, which was developed by ______.",
+    "options": [
+      "1. search engine, Microsoft",
+      "2. search engine, Google",
+      "3. web browser, Microsoft",
+      "4. web browser, Google"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "क्रोम (Chrome) एक _________ है, जिसे ________ द्वारा विकसित किया गया था।",
+    "options": [
+      "1. सर्च इंजन, Microsoft",
+      "2. सर्च इंजन, Google",
+      "3. वेब ब्राउज़र, Microsoft",
+      "4. वेब ब्राउज़र, Google"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is NOT a Windows 7 Edition?",
+    "options": [
+      "1. Windows 7 Starter",
+      "2. Windows 7 Professional",
+      "3. Windows 7 Perfect",
+      "4. Windows 7 Enterprise"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सा विंडोज 7 (Windows 7) संस्‍करण नहीं है?",
+    "options": [
+      "1. विंडोज 7 स्टार्टर",
+      "2. विंडोज 7 प्रोफेशनल",
+      "3. विंडोज 7 परफेक्‍ट",
+      "4. विंडोज 7 एंटरप्राइज"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "POST is done by BIOS to ensure that the:",
+    "options": [
+      "1. operating system is working properly",
+      "2. power supply is working properly",
+      "3. hardware is properly functioning",
+      "4. monitor is getting proper power"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "BIOS द्वारा POST क्या सुनिश्चित करने के लिए किया जाता है?",
+    "options": [
+      "1. ऑपरेटिंग सिस्‍टम ठीक से काम कर रहा है या नहीं",
+      "2. पावर सप्लाई सही से काम कर रही है या नहीं",
+      "3. हार्डवेयर सही से काम कर रहा है या नहीं",
+      "4. मॉनिटर को उचित पावर मिल रही है या नहीं"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is NOT a feature in the 'Personalization' option in Windows 10?",
+    "options": [
+      "1. Background",
+      "2. Foreground",
+      "3. Colors",
+      "4. Themes"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Windows 10 के 'पर्सनलाइजेशन' (Personalization) विकल्‍प में निम्‍नलिखित में से कौन-सा फ़ीचर उपलब्‍ध नहीं होता है?",
+    "options": [
+      "1. बैकग्राउंड (Background)",
+      "2. फोरग्राउंड (Foreground)",
+      "3. कलर्स (Colors)",
+      "4. थीम्‍स (Themes)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The main function of the command interpreter is:",
+    "options": [
+      "1. as a mediator between the kernel and user as well as some programs",
+      "2. to get and execute the next user specific command",
+      "3. to delete the user command",
+      "4. to keep the user command in memory buffer"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कमांड इंटरप्रेटर का मुख्‍य कार्य क्या होता है?",
+    "options": [
+      "1. कर्नेल और यूज़र के साथ-साथ कुछ प्रोग्राम के बीच मध्‍यस्‍थ बनना",
+      "2. अगला यूज़र स्पेसिफिक कमांड प्राप्‍त करना और निष्पादित करना",
+      "3. यूज़र कमांड को डिलीट करना",
+      "4. यूज़र कमांड को मेमोरी बफ़र के अंदर रखना"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Internet speed is measured commonly in bps. What is full form of bps?",
+    "options": [
+      "1. Bigrams per second",
+      "2. Bits per second",
+      "3. Bars per second",
+      "4. Bits per section"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "इंटरनेट की गति आमतौर पर bps में मापी जाती है। bps का पूर्ण प क्या है?",
+    "options": [
+      "1. Bigrams per second (बायग्राम पर सेकेंड)",
+      "2. Bits per second (बिट्स पर सेकेंड)",
+      "3. Bars per second (बार्स पर सेकेंड)",
+      "4. Bits per section (बिट्स पर सेक्‍शन)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "PWL file format represents which of the following files?",
+    "options": [
+      "1. MS Encarta document",
+      "2. Windows clipboard",
+      "3. Compressed Archive File",
+      "4. Password list"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "PWL फाइल फॉर्मेट निम्‍नलिखित में से किस फाइल को निरूपित करता है?",
+    "options": [
+      "1. एमएस एनकार्टा डॉक्यूमेंट (MS Encarta document)",
+      "2. विंडोज क्लिपबोर्ड (Windows clipboard)",
+      "3. कंप्रेस्‍ड आर्काइव फाइल (Compressed Archive File)",
+      "4. पासवर्ड लिस्‍ट (Password list)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What happens when 'battery saver is on' in Windows 10?",
+    "options": [
+      "1. PC temporarily turns off some things that use a lot of power.",
+      "2. PC temporarily turns on some things that use a lot of power.",
+      "3. PC is temporarily turned off completely.",
+      "4. PC temporarily turns off for shorter duration."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Windows 10, 'बैटरी सेवर ऑन' पर क्या होता है?",
+    "options": [
+      "1. PC बहुत अधिक बिजली का उपयोग करने वाली कुछ चीजों को अस्थायी रूप से बंद कर देता है।",
+      "2. PC बहुत अधिक बिजली का उपयोग करने वाली कुछ चीजों को अस्थायी रूप से चालू कर देता है।",
+      "3. PC अस्थायी रूप से पूर्णतः बंद हो जाता है।",
+      "4. PC अस्थायी रूप से अल्‍प अवधि के लिए बंद हो जाता है।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is an unexpected problem with software or hardware in a computer system referred to, such as frozen screens, data file damage, etc.?",
+    "options": [
+      "1. System bug",
+      "2. Compiler error",
+      "3. Network error",
+      "4. Cloud error"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कंप्यूटर सिस्‍टम के सॉफ्टवेयर या हार्डवेयर में होने वाली वह समस्या जिसके कारण स्क्रीन फ्रीज़ हो जाने और डेटा फ़ाइल को क्षति पहुँचने, आदि जैसी समस्याएं देखने को मिलती हैं, क्या कहलाती है?",
+    "options": [
+      "1. सिस्‍टम बग",
+      "2. कंपाइलर एरर",
+      "3. नेटवर्क एरर",
+      "4. क्लाउड एरर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is the assurance that the information being accessed has not been altered and truly represents what is intended?",
+    "options": [
+      "1. Confidentiality",
+      "2. Integrity",
+      "3. Availability",
+      "4. Accessibility"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन- सा आश्वासन इस बात की पुष्टि करता है, कि एक्सेस की गई सूचना में कोई बदलाव नहीं किया गया है और वह पूर्णतः उद्दिष्‍ट अभिकथन का ही प्रतिनिधित्‍व कर रही है?",
+    "options": [
+      "1. गोपनीयता (Confidentiality)",
+      "2. अखंडता (Integrity)",
+      "3. उपलब्‍धता (Availability)",
+      "4. पहुँच (Accessibility)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which folder in Gmail retains copies of messages that you have started but not yet sent?",
+    "options": [
+      "1. Inbox",
+      "2. Spam",
+      "3. Drafts",
+      "4. Sent"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Gmail में कौन-सा फ़ोल्‍डर उन संदेशों की प्रतियों को बरकरार रखता है जो आपने शुरू किए हैं लेकिन अभी तक भेजे नहीं हैं?",
+    "options": [
+      "1. इनबाक्‍स (Inbox)",
+      "2. स्पैम (Spam)",
+      "3. ड्राफ्ट्स (Drafts)",
+      "4. सेंट (Sent)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following keyboard shortcuts is equivalent to Ctrl + S to save an open file in MS-Word 2019?",
+    "options": [
+      "1. Ctrl + F12",
+      "2. Shift + F12",
+      "3. Ctrl + F5",
+      "4. Shift + F5"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Word 2019 में, खुली हुई फ़ाइल को सेव करने के लिए निम्‍नलिखित में से कौन-सा की-बोर्ड शॉर्टकट Ctrl + S के समान ही कार्य करता है?",
+    "options": [
+      "1. Ctrl + F12",
+      "2. Shift + F12",
+      "3. Ctrl + F5",
+      "4. Shift + F5"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ and discussion forums allow users to view and post messages online based on common interest.",
+    "options": [
+      "1. Newsgroups",
+      "2. Chatting",
+      "3. Mailing lists",
+      "4. Grouping"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ और चर्चा मंच (डिस्‍कशन फ़ोरम्‍स) उपयोगकर्ताओं को सामान्‍य रूचि के आधार पर संदेशों को ऑनलाइन देखने और पोस्‍ट करने की अनुमति देते हैं।",
+    "options": [
+      "1. न्यूज़ ग्रुप",
+      "2. चैटिंग",
+      "3. मेलिंग लिस्‍ट",
+      "4. ग्रुपिंग"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the full form of NEFT?",
+    "options": [
+      "1. National Electronic Funds Transfer",
+      "2. National Economic Fund Transfer",
+      "3. New Electronic Formula Transfer",
+      "4. New Exchange Fund Transfer"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "NEFT का पूर्ण रूप क्या है?",
+    "options": [
+      "1. National Electronic Funds Transfer (नेशनल इलेक्ट्रॉनिक फंड्स ट्रांसफर)",
+      "2. National economic Fund Transfer (नेशनल इकोनॉमिक फंड ट्रांसफर)",
+      "3. New Electronic Fund Transfer (न्यू इलेक्ट्रॉनिक फंड ट्रांसफर)",
+      "4. New Exchange Fund Transfer (न्यू एक्‍सचेंज फंड ट्रांसफर)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is the address of the 5th row and 3rd column in MS-Excel 2019 sheet?",
+    "options": [
+      "1. 5C",
+      "2. C5",
+      "3. 3E",
+      "4. E3"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 शीट की 5वींरो और 3रे कॉलम का एड्रेस निम्‍न में से क्या होगा?",
+    "options": [
+      "1. 5C",
+      "2. C5",
+      "3. 3E",
+      "4. E3"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the result of the following MS-Excel 2019 formula? <br>= FACT(0) + FACT(3) + FACT(5)",
+    "options": [
+      "1. 8",
+      "2. 126",
+      "3. 127",
+      "4. 9"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्‍नलिखित MS-Excel 2019 सूत्र का परिणाम क्या होगा? <br> = FACT(0) + FACT(3) + FACT(5)",
+    "options": [
+      "1. 8",
+      "2. 126",
+      "3. 127",
+      "4. 9"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following keyboard shortcuts can be used to indent paragraphs in an MS-Word 2019 document?",
+    "options": [
+      "1. Ctrl + I",
+      "2. Alt + I",
+      "3. Ctrl + M",
+      "4. Alt + T"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Word 2019 डॉक्यूमेंट में, पैराग्राफ को इंडेंट करने के लिए निम्‍न में से किस की-बोर्ड शॉर्टकट का उपयोग किया जा सकता है?",
+    "options": [
+      "1. Ctrl + I",
+      "2. Alt + I",
+      "3. Ctrl + M",
+      "4. Alt + T"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In MS-Excel 2019, consider a formula '=$D$3+$C$5' in cell B4. If cell B4 is copied and pasted into F10, then what will be the formula in cell F10?",
+    "options": [
+      "1. =$D$4+$C$6",
+      "2. =$D$3+$C$5",
+      "3. =$E$3+$D$5",
+      "4. =$E$4+$D$6"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 की सेल B4 में एक सूत्र'=$D$3+$C$5' है। यदि सेल B4 को कॉपी करके सेल F10 में पेस्‍ट किया जाता है, तो सेल F10 में सूत्र क्या होगा?",
+    "options": [
+      "1. =$D$4+$C$6",
+      "2. =$D$3+$C$5",
+      "3. =$E$3+$D$5",
+      "4. =$E$4+$D$6"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following does NOT belong to the insert option in the pop-up menu that appears when we right-click on any cell of a table in MS-Word 2019?",
+    "options": [
+      "1. Insert Cells",
+      "2. Insert Rows Above",
+      "3. Insert Rows Across",
+      "4. Insert Rows Below"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Word 2019 में, किसी तालिका के किसी भी सेल पर राइट-क्लिक करने से खुलने वाले पॉप-अप मेनू के इंसर्ट (insert) विक में निम्‍न में से क्या शामिल नहीं होता है?",
+    "options": [
+      "1. इंसर्ट सेल्‍स (Insert Cells)",
+      "2. इंसर्ट रोज़ अबव (Insert Rows Above)",
+      "3. इंसर्ट रोज़ अक्रॉस (Insert Rows Across)",
+      "4. इंसर्ट रोज़ बिलो (Insert Rows Below)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Network congestion occurs:",
+    "options": [
+      "1. in case of traffic overloading",
+      "2. in case of VPN connectivity problems",
+      "3. in case of VoIP call quality issues",
+      "4. in case of Configuration errors"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "नेटवर्क संकुलन (Network congestion) कब होता है?",
+    "options": [
+      "1. ट्रैफिक ओवरलोडिंग के मामले में।",
+      "2. VPN कनेक्टिविटी समस्याओं के मामले में।",
+      "3. VoIP कॉल गुणवत्ता के मुद्दों के मामले में।",
+      "4. कॉन्फ़िगरेशन त्रुटियों के मामले में।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following provides reliable communication?",
+    "options": [
+      "1. TCP",
+      "2. UDP",
+      "3. IP",
+      "4. Both TCP & UDP"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सा प्रोटोकॉल एक विश्‍वसनीय संचार प्रदान करता है?",
+    "options": [
+      "1. TCP",
+      "2. UDP",
+      "3. IP",
+      "4. TCP और UDP दोनों"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which servers are used as software solutions used for transferring files across the internet?",
+    "options": [
+      "1. FTP",
+      "2. DHCP",
+      "3. SSL",
+      "4. LPD"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "इंटरनेट पर फ़ाइलों को स्थानांतरित करने के लिए उपयोग किए जाने वाले सॉफ्टवेयर सॉल्यूशन के रूप में किस सर्वर का उपयोग किया जाता है?",
+    "options": [
+      "1. FTP",
+      "2. DHCP",
+      "3. SSL",
+      "4. LPD"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "An Internet domain name without the \"www\" or any other subdomains is called as __________.",
+    "options": [
+      "1. Naked domain",
+      "2. Simple domain",
+      "3. Complex domain",
+      "4. Fake domain"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "‘www’ या किसी अन्‍य उप-डोमेन के बिना, इंटरनेट डोमेन नाम को ______ कहा जाता है।",
+    "options": [
+      "1. नेकेड डोमेन",
+      "2. सिंपल डोमेन",
+      "3. कॉप्लेक्‍स डोमेन",
+      "4. फेक डोमेन"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A spreadsheet is also known as a ______ in MS-Excel.",
+    "options": [
+      "1. workbook",
+      "2. document",
+      "3. slide",
+      "4. worksheet"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel में, स्प्रेडशीट को _________के रूप में भी जाना जाता है।",
+    "options": [
+      "1. वर्कबुक",
+      "2. डॉक्यूमेंट",
+      "3. स्लाइड",
+      "4. वर्कशीट"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A formula performs calculations or other actions on the _______ in a worksheet MS-Excel.",
+    "options": [
+      "1. menus",
+      "2. commands",
+      "3. data",
+      "4. tabs"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel वर्कशीट में कोई सूत्र ______ पर गणना या अन्‍य क्रियाएं करता है।",
+    "options": [
+      "1. मेन्यू",
+      "2. कमांड",
+      "3. डेटा",
+      "4. टैब"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What will be the result of the following MS-Excel 2019 formula? <br>=(120*5/10^2)",
+    "options": [
+      "1. 8",
+      "2. 7",
+      "3. 6",
+      "4. 9"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्‍नलिखित MS-Excel 2019 सू का परिणाम क्या होगा? <br> =(120*5/10^2)",
+    "options": [
+      "1. 8",
+      "2. 7",
+      "3. 6",
+      "4. 9"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the result of the following MS-Excel 2019 formula? <br>1",
+    "options": [
+      "1. 1",
+      "2. 96",
+      "3. 120",
+      "4. 24"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍नलिखित MS-Excel 2019 सूत्र का परिणाम क्या होगा?  <br>= FACT(5-4)",
+    "options": [
+      "1. 1",
+      "2. 96",
+      "3. 120",
+      "4. 24"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following keyboard shortcuts is used to move to the beginning of a worksheet in MS-Excel 2019?",
+    "options": [
+      "1. Ctrl + Home",
+      "2. Ctrl + Right arrow key",
+      "3. Ctrl + End",
+      "4. Ctrl + Down arrow key"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍नलिखित में से किस की-बोर्ड शॉर्टकट का उपयोग MS-Excel 2019 में किसी वर्कशीट के आरंभ में जाने के लिए किया जाता है?",
+    "options": [
+      "1. Ctrl + Home",
+      "2. Ctrl + Right arrow key",
+      "3. Ctrl + End",
+      "4. Ctrl + Down arrow key"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following keyboard shortcuts is used to go to the File tab in MS-Word 2019?",
+    "options": [
+      "1. Alt + H",
+      "2. Alt + F",
+      "3. Alt + N",
+      "4. Alt + M"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Word 2019 में, फाइल टैब पर जाने के लिए निम्‍न में से किस की-बोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Alt + H",
+      "2. Alt + F",
+      "3. Alt + N",
+      "4. Alt + M"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which is the function to round a number to a specified number of digits in MS-Excel 2019?",
+    "options": [
+      "1. GROUP",
+      "2. ROUND",
+      "3. AVG",
+      "4. SUMIF"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 में, किसी संख्या को अंकों की एक निर्दिष्‍ट संख्या में पूर्णांकित करने वाला फंक्‍शन निम्‍न में से कौन-सा है?",
+    "options": [
+      "1. GROUP",
+      "2. ROUND",
+      "3. AVG",
+      "4. SUMIF"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In MS-Excel 2019, the _______ button is located in the Editing group of the Home tab.",
+    "options": [
+      "1. add",
+      "2. autosum",
+      "3. avg",
+      "4. equation"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 में, _______ बटन ‘होम टैब’ के ‘एडिटिंग ग्रुप’ में मौजूद होता है।",
+    "options": [
+      "1. add",
+      "2. Autosum",
+      "3. Avg",
+      "4. equation"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The hexadecimal equivalent of decimal 16 is ________.",
+    "options": [
+      "1. 16",
+      "2. 11",
+      "3. F",
+      "4. 10"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "दशमलव 16 का षोडश आधारी (hexadecimal) समतुल्‍य निम्‍न में से क्या होगा?",
+    "options": [
+      "1. 16",
+      "2. 11",
+      "3. F",
+      "4. 10"
+    ],
+    "answer": 3
+  }
+],
   
         "15th March 2025 - Shift1": [
 
