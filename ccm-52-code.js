@@ -2084,7 +2084,7 @@
   }
 ],
   
-   "31th May 2025 - Shift1": [
+   "31st May 2025 - Shift1": [
   {
     "q": "The storage locations in the internal storage of a CPU are called:",
     "options": [
@@ -3126,7 +3126,7 @@
     "answer": 3
   }
 ],
-"31th May 2025 - Shift2": [
+"31st May 2025 - Shift2": [
   {
     "q": "Which of the following is an open source operating system?",
     "options": [
