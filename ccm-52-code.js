@@ -8343,6 +8343,1050 @@
     ],
     "answer": 1
   }
+],
+  "21st March 2025 - Shift1": [
+  {
+    "q": "Recycle Bin is a:",
+    "options": [
+      "1. folder to store deleted files temporarily before permanently deleting them",
+      "2. folder that contains the files used for backup",
+      "3. file that contains information of files on the disk",
+      "4. folder that contains system files"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "रीसायकल बिन निम्‍न में से क्या है?",
+    "options": [
+      "1. डिलीट की गई फ़ाइलों को स्थायी रूप से डिलीट करने से पहले उन्हें अस्थायी रूप से स्टोर करने के लिए फ़ोल्‍डर।",
+      "2. फ़ोल्‍डर जिसमें बैकअप के लिए उपयोग की गई फ़ाइलें शामिल हैं।",
+      "3. फ़ाइल जिसमें डिस्‍क पर स्थित फाइल की जानकारी शामिल है।",
+      "4. फ़ोल्‍डर जिसमें सिस्‍टम फ़ाइलें शामिल हैं।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a unique identifier to refer to a specific location in computer memory?",
+    "options": [
+      "1. Memory Address",
+      "2. Value at location",
+      "3. Function of location",
+      "4. Index"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कंप्यूटर मेमोरी में किसी विशिष्‍ट स्थान को संदर्भित करने के लिए एक विशिष्‍ट पहचानकर्ता (Unique Identifier) क्या है?",
+    "options": [
+      "1. मेमोरी एड्रेस (Memory Address)",
+      "2. लोकेशन पर वैल्यू (Value at location)",
+      "3. लोकेशन का फंक्‍शन (Function of location)",
+      "4. इंडेक्‍स (Index)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is software with source code that anyone can inspect, modify, and enhance?",
+    "options": [
+      "1. Open-Source",
+      "2. Proprietary",
+      "3. Adware",
+      "4. Ransomware"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन सा सोर्स कोड वाला सॉफ्टवेयर है जिसका कोई भी निरीक्षण, संशोधन और संवर्द्धन कर सकता है?",
+    "options": [
+      "1. ओपन-सोर्स",
+      "2. प्रोप्राइटरी",
+      "3. एडवेयर",
+      "4. रैनसमवेयर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The keyboard shortcut to minimise desktop window in Windows 10 is:",
+    "options": [
+      "1. Windows key + Down arrow key",
+      "2. Windows key + Up arrow key",
+      "3. Windows key + Left arrow key",
+      "4. Windows key + Right arrow key"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "विंडोज 10 (Windows 10) में डेस्‍कटॉप विंडो को मिनिमाइज़ करने के लिए कीबोर्ड शॉर्टकट ________ है।",
+    "options": [
+      "1. विंडोज कुंजी + डाउन एरो कुंजी",
+      "2. विंडोज कुंजी + अप एरो कुंजी",
+      "3. विंडोज कुंजी + ले एरो कुंजी",
+      "4. विंडोज कुंजी + राइट एरो कुंजी"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following are simple scanners that have the limitation of scanning paper documents only?",
+    "options": [
+      "1. Sheetfed",
+      "2. Flat bed",
+      "3. Handheld",
+      "4. Handdown"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन सा सरल स्कैनर है जिसमें केवल कागजी दस्तावेज़ों को स्कैन करने की सीमा होती है?",
+    "options": [
+      "1. शीटफैड",
+      "2. फ्लैट बेड",
+      "3. हैंडहेल्‍ड",
+      "4. हैंडडाउन"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "If a soft copy is an intangible output, then what is a hard copy?",
+    "options": [
+      "1. A physical part of the computer.",
+      "2. A virtual copy of the printout.",
+      "3. A digital document printed on paper.",
+      "4. A physical output device."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "यदि सॉफ्ट कॉपी एक अमूर्त आउटपुट है तो हार्ड कॉपी निम्‍न में से क्या है?",
+    "options": [
+      "1. कंप्यूटर का फ़िजिकल भाग",
+      "2. यह प्रिंटआउट की वर्चुअल कॉपी है",
+      "3. कागज पर मुद्रित डिजिटल दस्तावेज़",
+      "4. फ़िजिकल आउटपुट डिवाइस"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A half byte is known as ______.",
+    "options": [
+      "1. bit",
+      "2. data",
+      "3. nibble",
+      "4. half bit"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एक आधे बाइट को किस रूप में जाना जाता है?",
+    "options": [
+      "1. बिट",
+      "2. डेटा",
+      "3. निब्‍बल",
+      "4. आधा बिट"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "When new software is downloaded from the Internet, the installation file will be saved to the computer in the __________ file format.",
+    "options": [
+      "1. .exe",
+      "2. .Obj",
+      "3. .pdf",
+      "4. .xls"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "जब नया सॉफ्टवेयर इंटरनेट से डाउनलोड किया जाता है, तो इंस्टॉलेशन फ़ाइल __________ फ़ाइल फॉर्मेट में कंप्यूटर में सेव होती है।",
+    "options": [
+      "1. .exe",
+      "2. .Obj",
+      "3. .pdf",
+      "4. .xls"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT an example of a proprietary software?",
+    "options": [
+      "1. Microsoft Windows",
+      "2. MacOS",
+      "3. iOS",
+      "4. Linux"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सा प्रोप्राइटरी सॉफ्टवेयर का उदाहरण नहीं है?",
+    "options": [
+      "1. माइक्रोसॉफ्ट विंडोज (Microsoft Windows)",
+      "2. मैक ओएस (MacOS)",
+      "3. iOS",
+      "4. लिनक्‍स  (Linux)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is NOT an example of an input device of a computer?",
+    "options": [
+      "1. Keyboard",
+      "2. Mouse",
+      "3. Joystick",
+      "4. Printer"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन सा कंप्यूटर के इनपुट डिवाइस का उदाहरण नहीं है?",
+    "options": [
+      "1. कीबोर्ड",
+      "2. माउस",
+      "3. जॉयस्टिक",
+      "4. प्रिंटर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is/are temporary memory storage device type of computer(s)? <br><br>(i) SRAM, (ii) DRAM, (iii) ROM",
+    "options": [
+      "1. Both (i) and (ii)",
+      "2. Both (ii) and (iii)",
+      "3. Both (i) and (iii)",
+      "4. only (iii)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन सा कंप्यूटर का अस्थायी मेमोरी स्टोरेज डिवाइस प्रकार है? <br><br>(i) SRAM, (ii) DRAM, (iii) ROM",
+    "options": [
+      "1. (i) और (ii) दोनों",
+      "2. (ii) और (iii) दोनों",
+      "3. (i) और (iii) दोनों",
+      "4. केवल (iii)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In computing, TFT-LCD stands for _____________.",
+    "options": [
+      "1. Thick Film Transistor Lucent Crystal Display",
+      "2. Thick Film Transistor Liquid Crystal Display",
+      "3. Thin Film Transistor Liquid Crystal Display",
+      "4. Thick Film Transistor Light Crystal Display"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "कंप्यूटिंग में, TFT-LCD का पूर्ण रूप/अर्थ क्या होगा?",
+    "options": [
+      "1. Thick Film Transistor Lucent Crystal Display (थिक फिल्‍म ट्रांजिस्‍टर ल्यूसेंट क्रिस्‍टल डिस्‍प्ले)",
+      "2. Thick Film Transistor Liquid Crystal Display (थिक फिल्‍म ट्रांजिस्‍टर लिक्विड क्रिस्‍टल डिप्ले)",
+      "3. Thin Film Transistor Liquid Crystal Display (थिन फिल्‍म ट्रांजिस्‍टर लिक्विड क्रिस्‍टल डिस्‍प्ले)",
+      "4. Thick Film Transistor Light Crystal Display (थिक फिल्‍म ट्रांजिस्‍टर लाइट क्रिस्‍टल डिस्‍प्ले)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is a mid-range computer that is intermediate in size, power, speed, storage capacity, etc., between a mainframe and a microcomputer?",
+    "options": [
+      "1. Minicomputer",
+      "2. Supercomputer",
+      "3. Personal Computer",
+      "4. Desktop Computer"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सा मध्‍य-श्रेणी का कंप्यूटर है जो आकार, शक्ति, गति, भंडारण मता (Storage Capacity) आदि में मेनफ्रेम और माइक्रो कंप्यूटर के बीच का होता है?",
+    "options": [
+      "1. मिनी कंप्यूटर",
+      "2. सुपर कंप्यूटर",
+      "3. पर्सनल कंप्यूटर",
+      "4. डेस्‍कटॉप कंप्यूटर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "3072 MB equals to ________.",
+    "options": [
+      "1. 3KB",
+      "2. 3GB",
+      "3. 3000KB",
+      "4. 1024KB"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "3072 MB ________ के बराबर है।",
+    "options": [
+      "1. 3KB",
+      "2. 3GB",
+      "3. 3000KB",
+      "4. 1024KB"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The term 'bit' is taken from the word ______.",
+    "options": [
+      "1. Binary digit",
+      "2. Boolean digit",
+      "3. Bipolar digit",
+      "4. Biased digit"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "शब्‍द “बिट (bit)” _________ शब्‍द से लिया गया है।",
+    "options": [
+      "1. बाइनरी डिजिट (Binary digit)",
+      "2. बूलियन डिजिट (Boolean digit)",
+      "3. बाइपोलर डिजिट (Bipolar digit)",
+      "4. बायस्‍ड डिजिट (Biased digit)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which icon appears on the far right side of the taskbar when you are NOT connected to a wi-fi network in Windows 11?",
+    "options": [
+      "1. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2G7jmUZLcKOspts4vaH9gplnslmOo04w2-223E2Qh1ePoWoAQjyei3Nq-tU6SnmBu6NCbGfnM8E32LlpHvjfnv7Vcmr8-e6HV7v8XuiNk5dEqO5WDqNiXdX7hVPTGDRHjjzWSo9NMSQcv3nQnuqDKrn818O5miViFMA77pW0i_ujWcgFyObCFGewM60aA/s1600/01%20cc.png\" style=\"width:48px;height:48px;border:2px solid #ccc;border-radius:6px;\" />",
+      "2. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIjZsTSQvjMxVdiw0-SboiDs9Ez9pcB5MU9UphJ6pJDXU-k7stZ3Dmw-kDsfbvh8tUcYNyB_nQojB5OWKmEVdJVAfk61n9tiJvzpIxT1u2soSMO0gWnuZdWSuj1stUA2eUKxWybMlK2mnDAq8AVzUXRpgwOCwJDLJbFbLc3Zf-6JWjXFtP4sMcx8e95mT0/s1600/02%20cc.png\" style=\"width:48px;height:48px;border:2px solid #ccc;border-radius:6px;\" />",
+      "3. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdLH2ckvSX2SNtGfIT4gUtfq_TjJmSL-qzI_fEYGkYHg69S9k9loclsFq6AZo5yT9LGURZzx5mt5knBPJzEkxy2WPbl4zlSP2se7s1sxZnJnUIvg2F9amzBedGVGKlthAaVYYlXK2OiMiruyk8ZNQxx4KHjmcWQhNnc-VyAEqMYBXU9XAUXxA52G73Txpj/s1600/03%20cc.png\" style=\"width:48px;height:48px;border:2px solid #ccc;border-radius:6px;\" />",
+      "4. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQHAYDoVcSWqi-5x22ZGG7ULtOXUtJzR4jqRVgyTboQPaqtZHBdd3L4iTNF2zFcZfpMjNfwLdnvpDMNGrCeGi0uAX8jxofqBufe4rmmTcI45m9Ja7n8qkYrzqSiNTtnUiTxv6psHwf6z5FCmMuvIJXIkWj1eiGlTuKj8Pb6LGjoxRdpgsP0mW8sY8fQ9R8/s1600/04%20cc.png\" style=\"width:48px;height:48px;border:2px solid #ccc;border-radius:6px;\" />"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "विंडोज 11 (Windows 11) में वाई-फाई नेटवर्क से कने नहीं होने पर टाबार के सबसे दाईं ओर कौन-सा आइकन दिखाई देता है?",
+    "options": [
+      "1. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2G7jmUZLcKOspts4vaH9gplnslmOo04w2-223E2Qh1ePoWoAQjyei3Nq-tU6SnmBu6NCbGfnM8E32LlpHvjfnv7Vcmr8-e6HV7v8XuiNk5dEqO5WDqNiXdX7hVPTGDRHjjzWSo9NMSQcv3nQnuqDKrn818O5miViFMA77pW0i_ujWcgFyObCFGewM60aA/s1600/01%20cc.png\" style=\"width:48px;height:48px;border:2px solid #ccc;border-radius:6px;\" />",
+      "2. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIjZsTSQvjMxVdiw0-SboiDs9Ez9pcB5MU9UphJ6pJDXU-k7stZ3Dmw-kDsfbvh8tUcYNyB_nQojB5OWKmEVdJVAfk61n9tiJvzpIxT1u2soSMO0gWnuZdWSuj1stUA2eUKxWybMlK2mnDAq8AVzUXRpgwOCwJDLJbFbLc3Zf-6JWjXFtP4sMcx8e95mT0/s1600/02%20cc.png\" style=\"width:48px;height:48px;border:2px solid #ccc;border-radius:6px;\" />",
+      "3. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdLH2ckvSX2SNtGfIT4gUtfq_TjJmSL-qzI_fEYGkYHg69S9k9loclsFq6AZo5yT9LGURZzx5mt5knBPJzEkxy2WPbl4zlSP2se7s1sxZnJnUIvg2F9amzBedGVGKlthAaVYYlXK2OiMiruyk8ZNQxx4KHjmcWQhNnc-VyAEqMYBXU9XAUXxA52G73Txpj/s1600/03%20cc.png\" style=\"width:48px;height:48px;border:2px solid #ccc;border-radius:6px;\" />",
+      "4. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQHAYDoVcSWqi-5x22ZGG7ULtOXUtJzR4jqRVgyTboQPaqtZHBdd3L4iTNF2zFcZfpMjNfwLdnvpDMNGrCeGi0uAX8jxofqBufe4rmmTcI45m9Ja7n8qkYrzqSiNTtnUiTxv6psHwf6z5FCmMuvIJXIkWj1eiGlTuKj8Pb6LGjoxRdpgsP0mW8sY8fQ9R8/s1600/04%20cc.png\" style=\"width:48px;height:48px;border:2px solid #ccc;border-radius:6px;\" />"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following steps should one use to update the printer driver automatically in Windows 10?",
+    "options": [
+      "1. Home -> \"Printer and devices\" -> Right-click on the selected printer -> Select update printer",
+      "2. Control Panel -> Right-click on the any printer -> Printer and devices -> Select Auto update printer",
+      "3. Device Manager -> Expand the \"Printers\" category -> Right-click on the printer->Choose \"Update Driver\" -> Search automatically for updated driver software",
+      "4. Network -> Printer and devices-> Right-click on the selected printer -> Select automatically update printer"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Windows 10 में, प्रिंटर ड्राइवर को स्‍वचालित रूप से अपडेट करने के लिए निम्‍नलिखित में से किन चरणों का उपयोग करना चाहिए?",
+    "options": [
+      "1. होम -> प्रिंटर और डिवाइसेज़ -> चयनित प्रिंटर पर राइट-क्लिक करें -> अपडेट प्रिंटर चुनें",
+      "2. कंट्रोल पैनल -> किसी भी प्रिंटर पर राइट-क्लिक करें -> प्रिंटर और डिवाइसेज़ -> ऑटो अपडेट प्रिंटर चुनें",
+      "3. डिवाइस मैनेजर -> प्रिंटर श्रेणी का विस्तार करें -> प्रिंटर पर राइट-क्लिक करें -> अपडेट ड्राइवर चुनें -> अपडेटेड ड्राइवर सॉफ्टवेयर के लिए स्‍वचालित रूप से खोजें",
+      "4. नेटवर्क -> प्रिंटर और डिवाइसेज़ -> चयनित प्रिंटर पर राइट-क्लिक करें -> स्‍वचालित रूप से अपडेट प्रिंटर का चयन करें"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A printer's network IP address in Windows OS can be determined through the ______.",
+    "options": [
+      "1. printer manual",
+      "2. device driver",
+      "3. Control Panel",
+      "4. onboard printer menu"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "विंडोज़ ओएस में प्रिंटर का नेटवर्क आईपी एड्रेस ______ के माध्‍यम से निर्धारित किया जा सकता है।",
+    "options": [
+      "1. प्रिंटर मैन्युअल",
+      "2. डिवाइस ड्राइवर",
+      "3. कंट्रोल पैनल",
+      "4. ऑनबोर्ड प्रिंटर मेनू"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following software is required to combine and compress multiple files and folders into a single file?",
+    "options": [
+      "1. Winzip",
+      "2. Adobe Acrobat Reader",
+      "3. MS-Paint",
+      "4. Adobe Acrobat Writer"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एकाधिक फ़ाइलों और फ़ोल्‍डरों को एक फ़ाइल में संयोजित और संपीडित करने के लिए निम्‍नलिखित में से किस सॉफ्टवेयर की आवश्‍यकता होती है?",
+    "options": [
+      "1. विनज़िप (WinZip)",
+      "2. एडोब एक्रोबेट रीडर (Adobe Acrobat Reader)",
+      "3. एमएस-पेंट (MS-Paint)",
+      "4. एडोब एक्रोबैट राइटर (Adobe Acrobat Writer)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which type of disc is a Blu-ray disc?",
+    "options": [
+      "1. Magnetic",
+      "2. Optical",
+      "3. Mechanical",
+      "4. Electrical"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ब्लू-रे डिस्‍क किस प्रकार का डिस्‍क है?",
+    "options": [
+      "1. चुंबकीय",
+      "2. ऑप्टिकल",
+      "3. मैकेनिकल",
+      "4. इलेक्ट्रिकल"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following access types is used for magnetic tapes?",
+    "options": [
+      "1. Random access",
+      "2. Direct access",
+      "3. Sequential access",
+      "4. Step mode access"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "चुंबकीय टेप का उपयोग एक्सेस के निम्‍न में से किस प्रकार के लिए किया जाता है?",
+    "options": [
+      "1. रैंडम एक्सेस",
+      "2. डायरेक्‍ट एक्सेस",
+      "3. सीक्वेंसियल एक्सेस",
+      "4. स्टेप मोड एक्सेस"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following sequence is used to set a default printer in Windows11?",
+    "options": [
+      "1. Go to Bluetooth & devices > Printers & scanners > select a printer. Then select Set as default.",
+      "2. Go to My Network Places > Printers & scanners > select a printer. Then select Set as default.",
+      "3. Go to Desktop> Printers & scanners > select a printer. Then select Set as default.",
+      "4. Go to Downloads > Printers & scanners > select a printer. Then select Set as default."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Windows11 में डिफॉल्‍ट प्रिंटर सेट करने के लिए निम्‍नलिखित में से किस क्रम का उपयोग किया जाता है?",
+    "options": [
+      "1. \"ब्लूटूथ और डिवाइस\" पर जाएं > \"प्रिंटर और स्कैनर\" पर जाएँ > प्रिंटर चुनें। फिर \"डिफ़ॉल्‍ट के रूप में सेट करें\" चुनें।",
+      "2. \"माय नेटवर्क प्लेसेस\" पर जाएँ> \"प्रिंटर और स्कैनर\" पर जाएँ > प्रिंटर चुनें। फिर \"डिफ़ॉल्‍ट के रूप में सेट करें\" चुनें।",
+      "3. \"डेटॉप\" पर जाएँ > \"प्रिंटर और स्कैनर\" पर जाएँ > प्रिंटर चुनें। फिर \"डिफ़ॉल्‍ट के रूप में सेट करें\" चुनें।",
+      "4. \"डाउनलोड\" पर जाएँ > \"प्रिंटर और स्कैनर\" पर जाएँ > प्रिंटर चुनें। फिर \"डिफ़ॉल्‍ट के रूप में सेट करें\" चुनें।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the full form of NTFS which is developed by Microsoft?",
+    "options": [
+      "1. New Technology File System",
+      "2. New Technique for File System",
+      "3. Non-windows Technology File System",
+      "4. Non-cluster Technique for File System"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "NTFS का पूर्ण रूप क्या है जो माइक्रोसॉफ्ट द्वारा विकसित किया गया है?",
+    "options": [
+      "1. New Technology File System (न्यू टेक्नोलॉजी फाइल सिस्‍टम)",
+      "2. New Technique for File System (न्यू टेकनिक फ़ॉर फाइल सिस्‍टम)",
+      "3. Non-windows Technology File System (नॉन-विंडोज टेक्नोलॉजी फाइल सिस्‍टम)",
+      "4. Non-cluster Technique for File System (नॉन-क्‍लस्‍टर टेकनिक फ़ॉर फाइल सिस्‍टम)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A \"clean boot\" starts Windows with __________.",
+    "options": [
+      "1. only one driver and startup program",
+      "2. a maximum set of drivers and startup programs",
+      "3. a minimal set of drivers and startup programs",
+      "4. shutdown programs"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एक \"क्लीन बूट\" विंडोज़ को __________ से प्रारंभ करता है।",
+    "options": [
+      "1. केवल एक ड्राइवर और स्टार्टअप प्रोग्राम",
+      "2. ड्राइवरों और स्टार्टअप प्रोग्रामों के अधिकतम सेट",
+      "3. ड्राइवरों और स्टार्टअप प्रोग्रामों के न्यूनतम सेट",
+      "4. प्रोग्रामों को शट डाउन करने"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following options is used to customise the look and feel of the desktop in Windows 10?",
+    "options": [
+      "1. Personalise",
+      "2. Refresh",
+      "3. View",
+      "4. Customise"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "विंडोज 10 (Windows 10) में डेस्‍कटॉप के रंगरूप को अनुकूलित करने के लिए निम्‍नलिखित में से किस विकल्‍प का उपयोग किया जाता है?",
+    "options": [
+      "1. पर्सनलाइज (Personalise)",
+      "2. रिफ्रेश (Refresh)",
+      "3. व्यू (View)",
+      "4. कस्‍टमाइज (Customise)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "With respect to computer booting, MBR stands for:",
+    "options": [
+      "1. Master Boot Recovery",
+      "2. Memory Boot Recovery",
+      "3. Memory Boot Record",
+      "4. Master Boot Record"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कंप्यूटर बूटिंग के संबंध में, MBR का अर्थ है:",
+    "options": [
+      "1. मास्‍टर बूट रिकवरी (Master Boot Recovery)",
+      "2. मेमोरी बूट रिकवरी (Memory Boot Recovery)",
+      "3. मेमोरी बूट रिकॉर्ड (Memory Boot Record)",
+      "4. मास्‍टर बूट रिकॉर्ड (Master Boot Record)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A Microsoft Excel 2019 file has a ______ format by default.",
+    "options": [
+      "1. .ls",
+      "2. .xl",
+      "3. .xlsx",
+      "4. .wks"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Microsoft Excel 2019 फ़ाइल में डिफ़ॉल्‍ट रूप से ______ प्रारूप होता है।",
+    "options": [
+      "1. .ls",
+      "2. .xl",
+      "3. .xlsx",
+      "4. .wks"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "When you put your computer into hibernation:",
+    "options": [
+      "1. everything on the computer is saved on the hard disk",
+      "2. everything on the computer is saved on Random Access Memory",
+      "3. everything on the computer is saved on a compact disk",
+      "4. everything on the computer is saved on a digital versatile disk"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "जब आप अपने कंप्यूटर को हाइबरनेशन में डालते हैं, तो ___________________।",
+    "options": [
+      "1. कंप्यूटर पर सब कुछ हार्ड डिस्‍क में सेव होता है",
+      "2. कंप्यूटर पर सब कुछ Random Access Memory में सेव होता है",
+      "3. कंप्यूटर पर सब कुछ एक कॉम्पै डिस्‍क में सेव होता है",
+      "4. कंप्यूटर पर सब कुछ एक डिजिटल वर्सेटाइल डिस्‍क. में सेव होता है"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following bugs occur when a software application does not function correctly across different environments, devices, or platforms?",
+    "options": [
+      "1. Performance",
+      "2. Logical",
+      "3. Security",
+      "4. Compatibility"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन सा बग (Bug) तब होता है जब एक सॉफ्टवेयर एप्लिकेशन विभिन्‍न वातावरणों, उपकरणों या प्लेटफार्मों पर सही ढंग से काम नहीं करता है?",
+    "options": [
+      "1. परफॉरमेंस",
+      "2. लॉजिकल",
+      "3. सिक्योरिटी",
+      "4. कम्पेटिबिलिटी"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is an unexpected problem with software or hardware?",
+    "options": [
+      "1. Bug",
+      "2. Patch",
+      "3. Update",
+      "4. Configuration"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "सॉफ्टवेयर या हार्डवेयर में अत्याशित (Unexpected) समस्या क्या है?",
+    "options": [
+      "1. बग (Bug)",
+      "2. पैच (Patch)",
+      "3. अपडेट (Update)",
+      "4. कॉन्फ़िगरेशन (Configuration)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the result of the following function in MS-Excel 2019? <br><br> =SUM(A, 1, 2, 3)",
+    "options": [
+      "1. 6",
+      "2. #VALUE!",
+      "3. #NAME?",
+      "4. 16"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel 2019 में निम्‍नलिखित फ़ंक्‍शन का परिणाम क्या है? <br><br> =SUM(A, 1, 2, 3)",
+    "options": [
+      "1. 6",
+      "2. #VALUE!",
+      "3. #NAME?",
+      "4. 16"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is an HTTP web server?",
+    "options": [
+      "1. Apache",
+      "2. Perl",
+      "3. Fedora",
+      "4. Lucene"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सा HTTP वेब सर्वर है?",
+    "options": [
+      "1. अपाचे (Apache)",
+      "2. पर्ल (Perl)",
+      "3. फेडोरा (Fedora)",
+      "4. ल्युसीन (Lucene)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A/An '_________________' refers to an electronic device that allows an individual to make electronic commerce transactions.",
+    "options": [
+      "1. digital wallet",
+      "2. offline wallet",
+      "3. mobile card",
+      "4. data wallet"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_______' एक इलेक्ट्रॉनिक उपकरण को संदर्भित करता है जो किसी व्‍यक्ति को इलेक्ट्रॉनिक कॉमर्स लेनदेन की सुविधा देता है।",
+    "options": [
+      "1. डिजिटल वॉलेट",
+      "2. ऑफलाइन वॉलेट",
+      "3. मोबाइल कार्ड",
+      "4. डेटा वॉलेट"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What type of application will assist you in locating specific information on the Internet?",
+    "options": [
+      "1. Search engine",
+      "2. Domain Name System",
+      "3. Index page",
+      "4. Social media"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "इंटरनेट पर विशिष्‍ट जानकारी ढूंढने में किस प्रकार का एप्लिकेशन आपकी सहायता करेगा?",
+    "options": [
+      "1. खोज इंजन (Search engine)",
+      "2. डोमेन नेम सिस्‍टम (Domain Name System)",
+      "3. इंडेस्‍क पेज (Index page)",
+      "4. सोशल मीडिया (Social media)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS-Word, dividing a document into pages and numbering them is called _____.",
+    "options": [
+      "1. Formatting",
+      "2. Orientation",
+      "3. Styling",
+      "4. Pagination"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Word में, किसी दस्तावेज़ को पृष्ठों (Pages)  में विभाजित करना और उन्हें क्रमांकित करना _____ कहलाता है।",
+    "options": [
+      "1. प्रारूपण (Formatting)",
+      "2. अभिविन्यास (Orientation)",
+      "3. स्टाइल (Styling)",
+      "4. पृष्‍ठ पर अंक लगाना (Pagination)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In MS Word 2019, the keyboard shortcut ‘Ctrl+U’ on a selected text is used to ______.",
+    "options": [
+      "1. apply underline formatting",
+      "2. convert to uppercase",
+      "3. toggle between lowercase and uppercase",
+      "4. undo the previous action"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Word 2019 में, चयनित टेक्‍स्‍ट पर कीबोर्ड शॉर्टकट 'Ctrl U' का उपयोग ______ के लिए किया जाता है।",
+    "options": [
+      "1. अंडरलाइन फ़ॉर्मेटिंग लागू करने",
+      "2. अपरकेस में कनवर्ट करने",
+      "3. लोअरकेस और अपरकेस के बीच टॉगल करने",
+      "4. पिछली कार्रवाई पूर्ववत करने"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the error value corresponding to the MS-Excel 2019 formula '=D1/0' if D1 contains value 5?",
+    "options": [
+      "1. #DIV/0!",
+      "2. #NAME?",
+      "3. #REF!",
+      "4. #NULL!"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "यदि D1 में मान 5 है तो MS-Excel 2019 फॉर्मूला '=D1/0' के अनुरूप त्रुटि मान क्या है?",
+    "options": [
+      "1. #DIV/0!",
+      "2. #NAME?",
+      "3. #REF!",
+      "4. #NULL!"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Copy, cut and paste operations in MS Word 2019 are typically supported using a buffer called _______.",
+    "options": [
+      "1. Briefcase",
+      "2. Cache",
+      "3. Clipboard",
+      "4. Recent Files"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Word 2019 में कॉपी, कट और पेस्‍ट ऑपरेशन आमतौर पर _______ नामक बफर का उपयोग करके समर्थित होते हैं।",
+    "options": [
+      "1. ब्रीफ़केस (Briefcase)",
+      "2. कैश (Cache)",
+      "3. क्लिपबोर्ड (Clipboard)",
+      "4. हाल की फ़ाइलें (Recent Files)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which keyboard shortcut is used to do Change Case of selected text in MS-Word 2019?",
+    "options": [
+      "1. Shift + F3",
+      "2. Shift + F4",
+      "3. Shift + F7",
+      "4. Ctrl + F3"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Word 2019 में चयनित टेक्‍स्‍ट (Selected Text) के Change Case हेतु किस कीबोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Shift + F3",
+      "2. Shift + F4",
+      "3. Shift + F7",
+      "4. Ctrl + F3"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is not an operating system for smartphones?",
+    "options": [
+      "1. Symbian",
+      "2. Fedora",
+      "3. iOS",
+      "4. Android"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्‍न में से कौन सा स्मार्टफोन के लिए ऑपरेटिंग सिस्‍टम नहीं है?",
+    "options": [
+      "1. सिम्बियन (Symbian)",
+      "2. फेडोरा (Fedora)",
+      "3. आईओएस (iOS)",
+      "4. एंड्रॉइड (Android)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In MS- Word 2019, portrait means the page is oriented ________.",
+    "options": [
+      "1. horizontally",
+      "2. vertically",
+      "3. diagonally",
+      "4. upside down"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS- Word 2019 मे, पोर्ट्रेट का मतलब है कि पेज ______ उन्मुख है।",
+    "options": [
+      "1. क्षैतिज (horizontally)",
+      "2. उर्ध्वाधर (vertically)",
+      "3. विकर्णत: (diagonally)",
+      "4. उल्टा (upside down)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following keyboard shortcuts is used to quickly apply the default date format in MS-Excel 2019?",
+    "options": [
+      "1. Ctrl + Shift + ^",
+      "2. Ctrl + Shift + %",
+      "3. Ctrl + Shift + #",
+      "4. Ctrl + Shift + @"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एमएस-एक्सेल 2019 में डिफ़ॉल्‍ट दिनांक प्रारूप को त्‍वरित रूप से लागू करने के लिए निम्‍नलिखित में से किस कीबोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Ctrl + Shift + ^",
+      "2. Ctrl + Shift + %",
+      "3. Ctrl + Shift + #",
+      "4. Ctrl + Shift + @"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Some parts of a web page are associated with links to other pages in the form of a piece of text, icon, image, and so on associated with another page is called a __________.",
+    "options": [
+      "1. browser",
+      "2. URL",
+      "3. hyperlink",
+      "4. cookies"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "वेब पेज के कुछ हिस्से टेक्‍स्‍ट, आइकन, छवि के टुकड़े के रूप में अन्‍य पेजों के लिंक से जुड़े होते हैं, और इसी तरह दूसरे पेज से जुड़े हिस्से को __________ कहा जाता है।",
+    "options": [
+      "1. ब्राउज़र (Browser)",
+      "2. यूआरएल (URL)",
+      "3. हाइपरलिंक (Hyperlink)",
+      "4. कुकीज़ (Cookies)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The value of the MS-Excel 2019 expression =SUM(-7, 18/6/3) is:",
+    "options": [
+      "1. 6",
+      "2. -6",
+      "3. 2",
+      "4. -2"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 व्यंजक = SUM(-7, 18/6/3) का मान _______ है।",
+    "options": [
+      "1. 6",
+      "2. -6",
+      "3. 2",
+      "4. -2"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is NOT an example of a web browser?",
+    "options": [
+      "1. MS Office",
+      "2. Google Chrome",
+      "3. Microsoft Edge",
+      "4. Opera"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सा, वेब ब्राउज़र का एक उदाहरण नहीं है?",
+    "options": [
+      "1. एमएस ऑफिस (MS Office)",
+      "2. गूगल क्रोम (Google Chrome)",
+      "3. माइक्रोसॉफ्ट एज (Microsoft Edge)",
+      "4. ओपेरा (Opera)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is the correct sequence of steps to hide only the third row of an MS-Excel 2019 worksheet?",
+    "options": [
+      "1. Select rows 2 and 3 -> Right click on selection area -> Click on hide option",
+      "2. Select rows 2, 3, and 4 -> Right click on selection area -> Click on hide option",
+      "3. Select rows 3, and 4 -> Right click on selection area -> Click on hide option",
+      "4. Select rows 3 -> Right click on selection area -> Click on hide option"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "एमएस-एक्सेल 2019 वर्कशीट की केवल तीसरी पंक्ति (row) को छिपाने के लिए चरणों का सही क्रम निम्‍न में से कौन-सा है?",
+    "options": [
+      "1. रो 2 और 3 का चयन करें तथा चयन क्षेत्र पर राइट क्लिक करें और हाइड (hide) विकल्‍प पर क्लिक करें।",
+      "2. रो 2, 3 और 4 का चयन करें तथा चयन क्षेत्र पर राइट क्लिक करें और हाइड (hide) विकल्‍प पर क्लिक करें।",
+      "3. रो 3 और 4 का चयन करें तथा चयन क्षेत्र पर राइट क्लिक करें और हाइड (hide) विकल्‍प पर क्लिक करें।",
+      "4. रो 3 का चयन करें तथा चयन क्षेत्र पर राइट क्लिक करें और हाइड (hide) विकल्‍प पर क्लिक करें।"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "If you want to edit a cell in a spreadsheet in MS-Excel 2019, the ______ function key is used.",
+    "options": [
+      "1. F1",
+      "2. F2",
+      "3. F9",
+      "4. F5"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "यदि आप MS-Excel 2019 में स्प्रेडशीट में किसी सेल को संपादित (Edit) करना चाहते हैं, तो ______ फ़ंक्‍शन कुंजी का उपयोग किया जाता है।",
+    "options": [
+      "1. F1",
+      "2. F2",
+      "3. F9",
+      "4. F5"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "If you want to use formulas or functions in MS-Excel, then the formula or function should always begin with which of the following symbols?",
+    "options": [
+      "1. !",
+      "2.00%",
+      "3.00$",
+      "4. ="
+    ],
+    "answer": 3
+  },
+  {
+    "q": "यदि आप MS Excel में फ़ॉर्मूलास या फ़ंक्शंस का उपयोग करना चाहते हैं, तो फॉर्मूला या फ़ंक्‍शन हमेशा निम्‍नलिखित में से किस सिंबल से शुरू होना चाहिए?",
+    "options": [
+      "1. !",
+      "2.00%",
+      "3.00$",
+      "4. ="
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Deepak is a Grade V student. He wants to prepare a chart of the population in 4 cities for 4 different years. <br> <br> Which of the following charts/graphs in MS-Excel 2019 should he use to visualise the trend of population growth in all four cities?",
+    "options": [
+      "1. Pie chart",
+      "2. Cone chart",
+      "3. Line chart",
+      "4. Surface chart"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "दीपक पांचवीं कक्षा का छात्र है। वह 4 अलग-अलग वर्षों के लिए 4 शहरों की जनसंख्या का एक चार्ट तैयार करना चाहता है। <br> <br>सभी चार शहरों में जनसंख्या वृद्धि की वृत्ति को देखने के लिए उसे MS-Excel 2019 में निम्‍नलिखित में से किस चार्ट/ग्राफ़ का उपयोग करना चाहिए?",
+    "options": [
+      "1. पाई चार्ट",
+      "2. कोन चार्ट",
+      "3. लाइन चार्ट",
+      "4. सरफेस चार्ट"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Suraj wants to save a new workbook in MS-Excel 2019. Which of the following keyboard shortcuts should he use?",
+    "options": [
+      "1. CTRL + I",
+      "2. CTRL + B",
+      "3. CTRL + S",
+      "4. CTRL + V"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "सूरज MS-Excel 2019 में एक नई वर्कबुक सहेजना (save) चाहता है। उसे निम्‍नलिखित में से किस कीबोर्ड शॉर्टकट का उपयोग करना चाहिए?",
+    "options": [
+      "1. CTRL + I",
+      "2. CTRL + B",
+      "3. CTRL + S",
+      "4. CTRL + V"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Anil wants to know the total number of numeric values in a column in MS-Excel 2019 worksheet. Which of the following functions should he use?",
+    "options": [
+      "1. IF()",
+      "2. COUNT()",
+      "3. SUM()",
+      "4. AVG()"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "अनिल MS-Excel 2019 वर्कशीट में एक कॉलम में संख्यात्‍मक मानों की कुल संख्या जानना चाहते हैं। उसे निम्‍नलिखित में से किस फ़ंक्‍शन का उपयोग करना चाहिए?",
+    "options": [
+      "1. IF()",
+      "2. COUNT()",
+      "3. SUM()",
+      "4. AVG()"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In MS-Excel 2019, given picture is an example of a ________________. <br> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEfTqDQD7Vxi3iuuZo4b13BwmGkGtAZR6WtarLuwEfHpO7FvTiKTskLQsEKbfFMf4sgbtwDA7FXqeWG1px1D435-TuhrcnT10S8gj61XztC9vfC8DiXnfVG9XnuB-g3B8KrvphS84GX6ieavd6AyDeZi2_zzBhKa5SHjb6SbLaR8LU_r-CXaK_SGUihYQl/s320/34%20fd.png\"\" style=\"\"max-width:100%;height:auto;border:2px solid #ccc;border-radius:6px;" />",
+    "options": [
+      "",
+      "1. Pie chart",
+      "2. Bar chart",
+      "3. Line graph",
+      "4. Cone chart"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में, दी गई तस्वीर ________________ का एक उदाहरण है। <br> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEfTqDQD7Vxi3iuuZo4b13BwmGkGtAZR6WtarLuwEfHpO7FvTiKTskLQsEKbfFMf4sgbtwDA7FXqeWG1px1D435-TuhrcnT10S8gj61XztC9vfC8DiXnfVG9XnuB-g3B8KrvphS84GX6ieavd6AyDeZi2_zzBhKa5SHjb6SbLaR8LU_r-CXaK_SGUihYQl/s320/34%20fd.png\"\" style=\"\"max-width:100%;height:auto;border:2px solid #ccc;border-radius:6px;" />",
+     "options": [
+      "",
+      "1. Pie chart",
+      "2. Bar chart",
+      "3. Line graph",
+      "4. Cone chart"
+    ],
+    "answer": 0
+  }
 ]
         
         };
