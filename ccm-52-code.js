@@ -9379,10 +9379,10 @@
   {
     "q": "MS-Excel 2019 में, दी गई तस्वीर ________________ का एक उदाहरण है। <br><img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEfTqDQD7Vxi3iuuZo4b13BwmGkGtAZR6WtarLuwEfHpO7FvTiKTskLQsEKbfFMf4sgbtwDA7FXqeWG1px1D435-TuhrcnT10S8gj61XztC9vfC8DiXnfVG9XnuB-g3B8KrvphS84GX6ieavd6AyDeZi2_zzBhKa5SHjb6SbLaR8LU_r-CXaK_SGUihYQl/s320/34%20fd.png' style='max-width:100%;height:auto;border:2px solid #ccc;border-radius:6px;' />",
      "options": [
-      "1. Pie chart",
-      "2. Bar chart",
-      "3. Line graph",
-      "4. Cone chart"
+      "1. पाई चार्ट",
+      "2. बार चार्ट",
+      "3. लाइन ग्राफ",
+      "4. कोन चार्ट"
     ],
     "answer": 0
   }
