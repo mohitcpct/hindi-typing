@@ -10428,6 +10428,1048 @@
     ],
     "answer": 0
   }
+],
+  "11th January 2025 - Shift1": [
+  {
+    "q": "What will be the result if tOGGLE cASE is applied to the word ‘Examination’ in MS-Word 2019?",
+    "options": [
+      "1. examination",
+      "2. Examination",
+      "3. EXAMINATION",
+      "4. eXAMINATION"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "यदि एमएस वर्ड (MS-Word) 2019 में, ‘Examination’ शब्द पर tOGGLE cASE अप्लाई किया जाता है, तो क्या परिणाम होगा?",
+    "options": [
+      "1. examination",
+      "2. Examination",
+      "3. EXAMINATION",
+      "4. eXAMINATION"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A ______ is a set of instructions that makes the computer perform a task.",
+    "options": [
+      "1. hardware",
+      "2. program",
+      "3. monitor",
+      "4. system"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ , इंस्ट्रक्शन का एक सेट है जो कंप्यूटर को कोई टास्क करने के लिए प्रेरित करता है।",
+    "options": [
+      "1. हार्डवेयर",
+      "2. प्रोग्राम",
+      "3. मॉनीटर",
+      "4. सिस्टम"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "FAT stands for ______ Allocation Table.",
+    "options": [
+      "1. File",
+      "2. Frame",
+      "3. Field",
+      "4. Folder"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "FAT का अर्थ ______ एलोकेशन टेबल है।",
+    "options": [
+      "1. File (फ़ाइल)",
+      "2. Frame (फ़्रेम)",
+      "3. Field (फ़ील्ड )",
+      "4. Folder (फ़ोल्डर)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The '______' World Wide Character Standard uses up to 4 bytes (32 bits) to represent each letter, number or symbol.",
+    "options": [
+      "1. EBCDIC (Extended Binary Coded Decimal Interchange code)",
+      "2. ASCII (American Standard Code for Information Interchange)",
+      "3. Unicode",
+      "4. Extended ASCII"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "__________' वर्ल्ड वाइड कैरेक्टर स्टैंडर्ड (World Wide Character Standard) प्रत्येक अक्षर, संख्या या प्रतीक को दर्शाने के लिए 4 बाइट्स (32 बिट्स) तक का उपयोग करता है।",
+    "options": [
+      "1. EBCDIC (एक्स्टेंडेड बाइनरी कोडेड डेसीमल इंटरचेंज कोड)",
+      "2. ASCII (अमेरिकन स्टैंडर्ड कोड फॉर इन्फॉर्मेशन इंटरचेंज)",
+      "3. यूनिकोड (Unicode)",
+      "4. एक्स्टेंडेड ASCII (Extended ASCII)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What type of device is a scanner?",
+    "options": [
+      "1. Input",
+      "2. Storage",
+      "3. Processor",
+      "4. Output"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "स्कैनर किस प्रकार का उपकरण है?",
+    "options": [
+      "1. इनपुट",
+      "2. स्टोरेज",
+      "3. प्रोसेसर",
+      "4. आउटपुट"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Output devices make it possible to ______.",
+    "options": [
+      "1. view and print data",
+      "2. scan data",
+      "3. input data",
+      "4. send data"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "आउटपुट डिवाइस ______ संभव बनाते हैं।",
+    "options": [
+      "1. डेटा व्यू करना और प्रिंट करना",
+      "2. डेटा स्कैन करना",
+      "3. डेटा इनपुट करना",
+      "4. डेटा सेंड करना"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which file of software packages is/are responsible for dictating how the software behaves under different circumstances?",
+    "options": [
+      "1. Libraries",
+      "2. Configuration files",
+      "3. Executable programs",
+      "4. Documentation Files"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "सॉफ़्टवेयर पैकेज की कौन-सी फ़ाइल/फ़ाइलें यह निर्धारित करने के लिए ज़िम्मेदार होती है/हैंकि सॉफ़्टवेयर विभिन्न परिस्थितियों में किस तरह आचरण करता है?",
+    "options": [
+      "1. लाइब्रेरीज़ (Libraries)",
+      "2. कॉन्फ़िगरेशन फ़ाइलें (Configuration files)",
+      "3. एक्जिक्यु टेबल प्रोग्राम (Executable programs)",
+      "4. डॉक्‍युमेंटेशन फ़ाइलें (Documentation files)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "During the Mail Merge process, which of the following documents in MS-Word 2019 contains the basic text that is the same in all of the output documents?",
+    "options": [
+      "1. Recipient list",
+      "2. Labels",
+      "3. Main document",
+      "4. Data Source"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "मेल मर्ज (Mail Merge) प्रोसैस के दौरान, एमएस वर्ड (MS-Word) 2019 में, निम्न में से किस डॉक्यूमेंट में बेसिक टेक्स्ट होता है जो सभी आउटपुट डॉक्यूमेंट में समान होता है?",
+    "options": [
+      "1. रेसिपिएंट लिस्ट (Recipient list)",
+      "2. लेबल (Labels)",
+      "3. मेन डॉक्यूमेंट (Main document)",
+      "4. डेटा सोर्स (Data Source)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is NOT a way to insert a formula in MS-Excel 2019 worksheet?",
+    "options": [
+      "1. Typing a formula inside the cell.",
+      "2. Using the Insert Function option from the Formulas tab.",
+      "3. Selecting a formula from one of the groups in the Formula tab.",
+      "4. Inserting a function from the Home tab"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से कौन-सा, एमएस एक्सेल (MS-Excel) 2019 वर्कशीट मेंफ़ॉर्मूला इन्सर्ट करने का तरीका नहीं है?",
+    "options": [
+      "1. सेल के अंदर फ़ॉर्मूला टाइप करना",
+      "2. फ़ॉर्मूला टैब से इन्सर्ट फ़ंक्शन विकल्प का उपयोग करना",
+      "3. फ़ॉर्मूला टैब में किसी एक ग्रुप से फ़ॉर्मूला सेलेक्‍ट करना",
+      "4. होम टैब से फ़ंक्शन इन्सर्ट करना"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is NOT a valid MS-Excel 2019 function?",
+    "options": [
+      "1. SUM",
+      "2. SUMIF",
+      "3. SUMADD",
+      "4. SUMPRODUCT"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा एमएस एक्सेल (MS-Excel) 2019 फ़ंक्शन मान्य नहीं है?",
+    "options": [
+      "1. SUM",
+      "2. SUMIF",
+      "3. SUMADD",
+      "4. SUMPRODUCT"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What will be the output of the MS-Excel 2019 short date formula '=DATE(2020,8,31)'?",
+    "options": [
+      "1. 8/31/2020",
+      "2. 08/31/2020",
+      "3. 08-31-2020",
+      "4. 31.08.2020"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एमएस एक्सेल (MS-Excel) 2019 में, शॉर्ट डेट फ़ॉर्मूला '=DATE(2020,8,31)' का आउटपुट क्या होगा?",
+    "options": [
+      "1. 8/31/2020",
+      "2. 08/31/2020",
+      "3. 08-31-2020",
+      "4. 31.08.2020"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is the keyboard shortcut for the ‘Save As’ option in MS-Word 2019?",
+    "options": [
+      "1. F10",
+      "2. F9",
+      "3. F12",
+      "4. F8"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एमएस वर्ड (MS-Word) 2019 में, ‘Save As’ के विकल्प के लिए निम्न में से कौन-सा कीबोर्ड शॉर्टकट है?",
+    "options": [
+      "1. F10",
+      "2. F9",
+      "3. F12",
+      "4. F8"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What are the minimum and maximum zoom levels in a zoom slider of an MS-Word 2019 document?",
+    "options": [
+      "1. 10% and 500%",
+      "2. 1% and 500%",
+      "3. 10% and 600%",
+      "4. 100% to 1000%"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एमएस वर्ड (MS-Word) 2019 में, डॉक्युमेंट के ज़ूम स्लाइडर में मिनिमम और मैक्सिमम ज़ूम लेवेल कितना होता है?",
+    "options": [
+      "1. 10% और 500%",
+      "2. 1% और 500%",
+      "3. 10% और 600%",
+      "4. 100% से 1000%"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following keyboard shortcuts is used to move the active cell to the first column on the current row in MS-Excel 2019?",
+    "options": [
+      "1. Home",
+      "2. Ctrl + Home",
+      "3. Page up",
+      "4. Page down"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एमएस एक्सेल (MS-Excel) 2019 में, एक्टिव सेल को करंट रो (row) के पहले कॉलम (column) में ले जाने के लिए निम्न में से किस कीबोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Home",
+      "2. Ctrl + Home",
+      "3. Page up",
+      "4. Page down"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which printer is very commonly used for desktop publishing?",
+    "options": [
+      "1. Laser printer",
+      "2. Line printer",
+      "3. Daisy wheel printer",
+      "4. Dot matrix printer"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "डेस्कटॉप पब्लिशिंग (desktop publishing) के लिए किस प्रिंटर का सबसे अधिक उपयोग किया जाता है?",
+    "options": [
+      "1. लेजर प्रिंटर (Laser Printer)",
+      "2. लाइन प्रिंटर (Line printer)",
+      "3. डेज़ी व्हील प्रिंटर (Daisy wheel printer)",
+      "4. डॉट मैट्रिक्स प्रिंटर (Dot matrix printer)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the meaning of OSI in terms of Computer Networks?",
+    "options": [
+      "1. Open Systems Interconnection",
+      "2. Open Software Interrelation",
+      "3. Open Software Interconnection",
+      "4. Open System Interrelation"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कंप्यूटर नेटवर्क के संदर्भ में, OSI का क्या अर्थ है?",
+    "options": [
+      "1. Open Systems Interconnection (ओपन सिस्टम इंटरकनेक्शन)",
+      "2. Open Software Interrelation (ओपन सॉफ्टवेयर इंटररिलेशन)",
+      "3. Open Software Interconnection (ओपन सॉफ्टवेयर इंटरकनेक्शन)",
+      "4. Open System Interrelation (ओपन सिस्टम इंटररिलेशन)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following cables is necessary to start printing jobs?",
+    "options": [
+      "1. Power cable and Internet cable",
+      "2. Power cable CAT6 cable",
+      "3. Power cable and USB cable",
+      "4. Power cable CAT5 cable"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "प्रिंटिंग कार्य शुरू करने के लिए निम्नलिखित में से कौन-सी केबल आवश्यक होती है?",
+    "options": [
+      "1. पॉवर केबल और इंटरनेट केबल",
+      "2. पॉवर केबल CAT6 केबल",
+      "3. पॉवर केबल और USB केबल",
+      "4. पॉवर केबल CAT5 केबल"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is a type of printer in which the complete shape of each character of the repertoire is engraved or molded onto a font carrier?",
+    "options": [
+      "1. Laser",
+      "2. Solid font",
+      "3. Inkjet",
+      "4. Thermal"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, प्रिंटर का एक ऐसा प्रकार है, जिसमें प्रदर्शन सूची (repertoire) के प्रत्येक अक्षर का पूरा आकार फ़ॉन्ट कैरियर पर उकेरा या ढाला जाता है?",
+    "options": [
+      "1. लेज़र (Laser)",
+      "2. सॉलिड फ़ॉन्ट (Solid font)",
+      "3. इंकजेट (Inkjet)",
+      "4. थर्मल (Thermal)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The printed copy of a document is referred to as a:",
+    "options": [
+      "1. soft copy",
+      "2. hard copy",
+      "3. thermal copy",
+      "4. temporary copy"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "किसी डॉक्यूमेंट की मुद्रित प्रति को निम्न में से किस रूप में संदर्भित किया जाता है?",
+    "options": [
+      "1. सॉफ्ट कॉपी (soft copy)",
+      "2. हार्ड कॉपी (hard copy)",
+      "3. थर्मल कॉपी (thermal copy)",
+      "4. टेम्परेरी कॉपी (temporary copy)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "1 terabyte is equal to how many gigabytes?",
+    "options": [
+      "1. 256",
+      "2. 512",
+      "3. 1024",
+      "4. 2048"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "1 टेराबाइट कितने गीगाबाइट के बराबर है?",
+    "options": [
+      "1. 256",
+      "2. 512",
+      "3. 1024",
+      "4. 2048"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A microphone changes sound into:",
+    "options": [
+      "1. a light signal",
+      "2. a wave signal",
+      "3. a mechanical signal",
+      "4. an electrical signal"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "माइक्रोफोन, ध्वनि को __________ में बदलता है।",
+    "options": [
+      "1. लाइट सिग्नल",
+      "2. वेव सिग्नल",
+      "3. मैकेनिकल सिग्नल",
+      "4. इलैक्ट्रिकल सिग्नल"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is a fixed-sized piece of data handled as a unit by the instruction set or the hardware of the processor?",
+    "options": [
+      "1. Word",
+      "2. Bit",
+      "3. Memory",
+      "4. System"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, एक डेटा का फ़िक्स साइज वाला पीस (fixed-sized piece of data) है, जिसे इंस्ट्रक्शन सेट या प्रोसेसर के हार्डवेयर द्वारा एक इकाई के रूप में हैंडल किया जाता है?",
+    "options": [
+      "1. वर्ड (Word)",
+      "2. बिट (Bit)",
+      "3. मेमोरी (Memory)",
+      "4. सिस्टम (System)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ graphics can be scaled to any size without losing quality.",
+    "options": [
+      "1. Vector",
+      "2. Raster",
+      "3. Master",
+      "4. Computer"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_____________ ग्राफिक्स को क्वालिटी खोए बिना, किसी भी आकार में स्केल किया जा सकता है।",
+    "options": [
+      "1. वेक्टर (Vector)",
+      "2. रास्टर (Raster)",
+      "3. मास्टर (Master)",
+      "4. कंप्यूटर (Computer)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In symmetric cryptography, a/an _____________ is a piece of information or a framework that is used to decrypt and encrypt messages.",
+    "options": [
+      "1. general key",
+      "2. public key",
+      "3. alternate key",
+      "4. secret key"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "सममित क्रिप्टोग्राफी (cryptography) में, एक _____________ कोई पीस ऑफ इन्‍फॉर्मेशन या कोई फ्रेमवर्क है, जिसका उपयोग मेसेजों को डिक्रिप्ट और एन्क्रिप्ट करने के लिए किया जाता है।",
+    "options": [
+      "1. जनरल की (general key)",
+      "2. पब्लिक की (public key)",
+      "3. अल्टरनेट की (alternate key)",
+      "4. सीक्रेट की (secret key)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "If a dll file is missing in the Windows operating system, which of the following actions is appropriate?",
+    "options": [
+      "1. Run System File Checker Command",
+      "2. Run System File Clone Command",
+      "3. Run disk defragmenter Command",
+      "4. Clean hard disk Command"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "यदि विंडोज ऑपरेटिंग सिस्टम में से कोई dll फ़ाइल मिसिंग है, तो निम्न में से कौन-से एक्शन उपयुक्त होंगे?",
+    "options": [
+      "1. सिस्टम फ़ाइल चेकर कमांड रन करें",
+      "2. सिस्टम फ़ाइल क्लो न कमांड रन करें",
+      "3. डिस्क डीफ़्रेग्मेंटर कमांड रन करें",
+      "4. क्लीन हार्ड डिस्क कमांड रन करें"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following keyboard shortcuts is used to snap a selected window to the left half of the screen in the Windows 11 OS?",
+    "options": [
+      "1. Window key + left arrow key",
+      "2. Window key + right arrow key",
+      "3. Window key + CTRL key",
+      "4. Window key + ALT + CTRL key"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Windows 11 OS में स्क्रीन के बाऍ आधे भाग में चयनित विंडो को स्नैप करने के लिए निम्न में से किस कीबोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. विंडोज की + लेफ्ट एरो की (Windows key + left arrow key)",
+      "2. विंडोज की + राइट एरो की (Windows key + right arrow key)",
+      "3. विंडोज की + Ctrl की (Windows key + Ctrl key)",
+      "4. विंडोज की + Alt + Ctrl की (Windows key + Alt + Ctrl key)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following dynamically provides dynamic instrumentation of both user/kernel functions in Windows OS?",
+    "options": [
+      "1. DLocate",
+      "2. DTrace",
+      "3. DMap",
+      "4. DAdd"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, विंडोज ओएस (Windows OS) में यूज़र/कर्नेल फ़ंक्शन दोनों का डायनेमिक इंस्ट्रूमेंटेशन प्रदान करता है?",
+    "options": [
+      "1. DLocate",
+      "2. DTrace",
+      "3. DMap",
+      "4. DAdd"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is NOT the protection system call of UNIX?",
+    "options": [
+      "1. chmod( )",
+      "2. umask( )",
+      "3. protect( )",
+      "4. chown( )"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, UNIX का सुरक्षा सिस्टम कॉल नहीं है?",
+    "options": [
+      "1. chmod( )",
+      "2. umask( )",
+      "3. protect( )",
+      "4. chown( )"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In Windows 10, an Apple QuickTime movie file has the ________ extension.",
+    "options": [
+      "1. .mov",
+      "2. .amf",
+      "3. .mf",
+      "4. .am"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "विंडोज 10 (Windows 10) में, एप्पल क्विकटाइम (Apple QuickTime) मूवी फ़ाइल में ________ एक्सटेंशन होता है।",
+    "options": [
+      "1. .mov",
+      "2. .amf",
+      "3. .mf",
+      "4. .am"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The number of defects in a particular software is given by which metric?",
+    "options": [
+      "1. Defect density",
+      "2. Defect removal rate",
+      "3. Coverage metric",
+      "4. Mean time failure"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "किसी विशेष सॉफ़्टवेयर में, डिफेक्ट की संख्या किस मेट्रिक द्वारा दी जाती है?",
+    "options": [
+      "1. डिफेक्ट डेंसिटी (Defect density)",
+      "2. डिफेक्ट रिमूवल रेट (Defect removal rate)",
+      "3. कवरेज मेट्रिक (Coverage metric)",
+      "4. मीन टाइम फेलियर (Mean time failure)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The internet is ______.",
+    "options": [
+      "1. a large network of networks",
+      "2. an internal communication system for a business",
+      "3. a communication system for the Indian government",
+      "4. a communication system for some states of India"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "इंटरनेट ______ होता/होती है।",
+    "options": [
+      "1. नेटवर्कों का एक बड़ा नेटवर्क",
+      "2. किसी व्यवसाय के लिए एक आंतरिक संचार प्रणाली",
+      "3. भारत सरकार के लिए एक संचार प्रणाली",
+      "4. भारत के कुछ राज्यों के लिए एक संचार प्रणाली"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is meant by a newsgroup?",
+    "options": [
+      "1. An online discussion forum",
+      "2. A place where large files can be transferred between a computer and user",
+      "3. Internet telephony services",
+      "4. Voice over Internet protocol"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "न्यूज ग्रुप (newsgroup) का अर्थ क्या है?",
+    "options": [
+      "1. एक ऑनलाइन चर्चा मंच",
+      "2. एक ऐसा स्थान जहाँ बड़ी फ़ाइलों को कंप्यूटर और यूजर के बीच ट्रान्सफर किया जा सकता है",
+      "3. इंटरनेट टेलीफोनी सेवाएँ",
+      "4. वॉइस ओवर इंटरनेट प्रोटोकॉल"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "With reference to data encryption over the internet what is the full form of DES?",
+    "options": [
+      "1. Data Encryption Standard",
+      "2. Digital Encryption Standard",
+      "3. Digital Evaluation Standard",
+      "4. Digital Established Standard"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "इंटरनेट पर डेटा एन्क्रिप्शन के संदर्भ में DES का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Data Encryption Standard (डेटा एन्क्रिप्शन स्टैंडर्ड )",
+      "2. Digital Encryption Standard (डिजिटल एन्क्रिप्शन स्टैंडर्ड)",
+      "3. Digital Evaluation Standard (डिजिटल इवैल्यू एशन स्टैंडर्ड )",
+      "4. Digital Established Standard (डिजिटल एस्टेब्लि श्ड स्टैंडर्ड)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following keyboard shortcuts is used to display the Replace dialog box, to find and replace text, specific formatting or special items in MS-Word?",
+    "options": [
+      "1. Ctrl + P",
+      "2. Ctrl + H",
+      "3. Ctrl + S",
+      "4. Ctrl + J"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन-से कीबोर्ड शॉर्टकट का उपयोग एमएस-वर्ड (MS-Word) में टेक्स्ट, स्पेसिफिक फॉर्मेटिंग या स्पेशल आइटम को फाइंड और रिप्लेस करने के लिए, रिप्लेस डायलॉग बॉक्स को डिस्प्ले करने के लिए किया जाता है?",
+    "options": [
+      "1. Ctrl + P",
+      "2. Ctrl + H",
+      "3. Ctrl + S",
+      "4. Ctrl + J"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The full form of DoCoMo is ___________.",
+    "options": [
+      "1. Do Connect Over Mobile",
+      "2. Do Communications Over the Mobile Network",
+      "3. Dongle Communication Over Mobile",
+      "4. Do Communication Or More"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "DoCoMo का पूर्ण रूप,___________ है।",
+    "options": [
+      "1. Do Connect Over Mobile (डू कनेक्ट ओवर मोबाइल)",
+      "2. Do Communications Over the Mobile Network (डू कम्युनिकेशन्स ओवर द मोबाइल नेटवर्क)",
+      "3. Dongle Communication Over Mobile (डोंगल कम्युनिकेशन ओवर मोबाइल)",
+      "4. Do Communication Or More (डू कम्युनिकेशन ऑर मोर)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a temporary storage area for data that the user wants to copy from one place to another in MS-Word?",
+    "options": [
+      "1. Task bar",
+      "2. Zoom control",
+      "3. Clipboard",
+      "4. System tray"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा उस डेटा के लिए एक टेम्परेरी स्टोरेज एरिया (temporary storage area) है, जिसे यूजर एमएस-वर्ड (MS Word) में एक स्थान से दूसरे स्थान पर कॉपी करना चाहता है?",
+    "options": [
+      "1. टास्क बार (Task bar)",
+      "2. ज़ूम कंट्रोल (Zoom control)",
+      "3. क्लिप बोर्ड (Clipboard)",
+      "4. सिस्टम ट्रे (System tray)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following keyboard shortcuts is used to open the Print window in MS-Word 2019?",
+    "options": [
+      "1. Ctrl + N",
+      "2. Ctrl + P",
+      "3. Ctrl + S",
+      "4. Ctrl + F"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एमएस-वर्ड (MS-Word) 2019 में प्रिंट विंडो खोलने के लिए निम्नलिखित में से किस कीबोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Ctrl + N",
+      "2. Ctrl + P",
+      "3. Ctrl + S",
+      "4. Ctrl + F"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "___________ can be categorised into desktop, laptop, hand-held and tablet computers.",
+    "options": [
+      "1. Microcomputers",
+      "2. Minicomputers",
+      "3. Mainframe computers",
+      "4. Super computers"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "___________ को डेस्कटॉप, लैपटॉप, हैंड-हेल्ड और टैबलेट कंप्यूटर में वर्गीकृत किया जा सकता है।",
+    "options": [
+      "1. माइक्रो कंप्यूटर (Microcomputers)",
+      "2. मिनी कंप्यूटर (Minicomputers)",
+      "3. मेनफ्रेम कंप्यूटर (Mainframe computers)",
+      "4. सुपर कंप्यूटर (Super computers)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "How many layers are there in the internet protocol stack?",
+    "options": [
+      "1. Eight",
+      "2. Seven",
+      "3. Six",
+      "4. Five"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "इंटरनेट प्रोटोकॉल स्टैक (internet protocol stack) में कितनी लेयर होती हैं?",
+    "options": [
+      "1. आठ",
+      "2. सात",
+      "3. छह",
+      "4. पांच"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "TCP stands for __________.",
+    "options": [
+      "1. Transfer Control Protocol",
+      "2. Transmission Control Protocol",
+      "3. Transmission Creation Protocol",
+      "4. Transfer Create Protocol"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "TCP का पूर्ण रूप, __________ है।",
+    "options": [
+      "1. Transfer Control Protocol (ट्रांसफर कंट्रोल प्रोटोकॉल)",
+      "2. Transmission Control Protocol (ट्रांसमिशन कंट्रोल प्रोटोकॉल)",
+      "3. Transmission Creation Protocol (ट्रांसमिशन क्रिएशन प्रोटोकॉल)",
+      "4. Transfer Create Protocol (ट्रांसफर क्रिएट प्रोटोकॉल)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following was the first ever search engine developed?",
+    "options": [
+      "1. Yahoo!",
+      "2. Bing",
+      "3. Google",
+      "4. Archie"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा सर्च इंजन सबसे पहले विकसित किया गया था?",
+    "options": [
+      "1. Yahoo!",
+      "2. Bing",
+      "3. Google",
+      "4. Archie"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The Central Processing Unit (CPU) is also referred to as the ______ of a computer system.",
+    "options": [
+      "1. brain",
+      "2. heart",
+      "3. eyes",
+      "4. hands"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "सेंट्रल प्रोसेसिंग यूनिट (CPU) को कंप्यूटर सिस्टम का ______ भी कहा जाता है।",
+    "options": [
+      "1. मस्तिष्क (brain)",
+      "2. हृदय (heart)",
+      "3. नेत्र (eyes)",
+      "4. हाथ (hands)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A _______ is the most popular pointing device that is used to point to different objects on the monitor.",
+    "options": [
+      "1. mouse",
+      "2. printer",
+      "3. scanner",
+      "4. web camera"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_______ सबसे लोकप्रिय पॉइंटिंग डिवाइस है, जिसका उपयोग मॉनिटर पर विभिन्न ऑब्जेक्ट्स को पॉइंट करने के लिए किया जाता है।",
+    "options": [
+      "1. माउस (mouse)",
+      "2. प्रिंटर (printer)",
+      "3. स्कैनर (scanner)",
+      "4. वेब कैमरा (web camera)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS-Excel, the notation to refer to rows in a spreadsheet is _______.",
+    "options": [
+      "1. 1, 2, 3",
+      "2. A, B, C",
+      "3. A1, B1, C1",
+      "4. 1A, 2B, 3C"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एमएस-एक्सेल (MS-Excel) में, स्प्रेडशीट में रो (row) को ________ नोटेशन से संदर्भित किया जाता है।",
+    "options": [
+      "1. 1, 2, 3",
+      "2. A, B, C",
+      "3. A1, B1, C1",
+      "4. 1A, 2B, 3C"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "To move one cell down in a spreadsheet in MS-Excel, which of the following keys is used?",
+    "options": [
+      "1. Down arrow key",
+      "2. Up arrow key",
+      "3. Left arrow key",
+      "4. Right arrow key or Tab key"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एमएस-एक्सेल (MS-Excel) में स्प्रेडशीट में एक सेल को नीचे ले जाने के लिए निम्नलिखित में से किस की (key) का उपयोग किया जाता है?",
+    "options": [
+      "1. डाउन एरो की (Down arrow key)",
+      "2. अप एरो की (Up arrow key)",
+      "3. लेफ्ट एरो की (Left arrow key)",
+      "4. राइट एरो की (Right arrow key) या टैब की (Tab key)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following keyboard shortcuts is used to move up to cell A1 in MS-Excel 2019?",
+    "options": [
+      "1. Ctrl + Home",
+      "2. Ctrl + Right arrow key",
+      "3. Ctrl + End",
+      "4. Ctrl + Left arrow key"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एमएस-एक्सेल (MS-Excel) 2019 में सेल A1 तक जाने के लिए निम्नलिखित में से किस कीबोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Ctrl + Home",
+      "2. Ctrl + Right arrow key (राइट एरो की)",
+      "3. Ctrl + End",
+      "4. Ctrl + Left arrow key (लेफ्ट एरो की)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The ________ is that part of the CPU that controls each operation.",
+    "options": [
+      "1. arithmetic logic unit",
+      "2. control unit",
+      "3. memory unit",
+      "4. output unit"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "________ सीपीयू (CPU) का वह भाग है, जो प्रत्येक ऑपरेशन को नियंत्रित करता है।",
+    "options": [
+      "1. अरिथमेटिक लॉजिक यूनिट (arithmetic logic unit)",
+      "2. कंट्रोल यूनिट (control unit)",
+      "3. मेमोरी यूनिट (memory unit)",
+      "4. आउटपुट यूनिट (output unit)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following Paste options is used to change rows to columns and columns to rows in MS-Excel 2019?",
+    "options": [
+      "1. Grouping",
+      "2. Transpose",
+      "3. Concatenate",
+      "4. Sum"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एमएस-एक्सेल (MS-Excel) 2019 में रो (row) को कॉलम (column) में और कॉलम (column) को रो (row) में बदलने के लिए निम्न में से किस पेस्ट ऑप्शन का उपयोग किया जाता है?",
+    "options": [
+      "1. ग्रुपिंग (Grouping)",
+      "2. ट्रांसपोज़ (Transpose)",
+      "3. कॉन्कैटेनेट (Concatenate)",
+      "4. सम (Sum)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following keyboard shortcuts is used to go to the Formulas tab in MS-Excel 2019?",
+    "options": [
+      "1. Alt + H",
+      "2. Alt + F",
+      "3. Alt + N",
+      "4. Alt + M"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "एमएस-एक्सेल (MS-Excel) 2019 में फॉर्मूला टैब पर जाने के लिए निम्नलिखित में से किस कीबोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Alt + H",
+      "2. Alt + F",
+      "3. Alt + N",
+      "4. Alt + M"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "_______ is a lookup and reference function in MS-Excel 2019.",
+    "options": [
+      "1. TODAY()",
+      "2. UP()",
+      "3. LOOK()",
+      "4. VLOOKUP()"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "_______ , एमएस-एक्सेल (MS-Excel) 2019 में एक लुकअप और रेफरेन्स फ़ंक्शन है।",
+    "options": [
+      "1. TODAY()",
+      "2. UP()",
+      "3. LOOK()",
+      "4. VLOOKUP()"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Maya wants to filter her data within a range and colour them. Which of the following functions in MS-Excel 2019 should she use?",
+    "options": [
+      "1. Sort",
+      "2. Format",
+      "3. Filter",
+      "4. Conditional formatting"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "माया अपने डेटा को एक रेंज के भीतर फ़िल्टर करना चाहती है और उन्हें कलर करना चाहती है। एमएस-एक्सेल (MS-Excel) 2019 में उसे निम्नलिखित में से कौन-से फ़ंक्शन का उपयोग करना चाहिए?",
+    "options": [
+      "1. सॉर्ट (Sort)",
+      "2. फ़ॉर्मेट (Format)",
+      "3. फ़िल्टर (Filter)",
+      "4. कंडीशनल फ़ॉर्मेटिंग (Conditional formatting)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "______ is the extension for an MS-Excel 2019 workbook name.",
+    "options": [
+      "1. .xlsx",
+      "2. .xlms",
+      "3. .xlsm",
+      "4. .excel"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______,एमएस-एक्सेल (MS-Excel) 2019 वर्कबुक नेम का एक्सटेंशन है।",
+    "options": [
+      "1. .xlsx",
+      "2. .xlms",
+      "3. .xlsm",
+      "4. .excel"
+    ],
+    "answer": 0
+  }
 ]
         
         };
