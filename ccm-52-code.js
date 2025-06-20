@@ -9386,6 +9386,1048 @@
     ],
     "answer": 0
   }
+],
+  "21st March 2025 - Shift2": [
+  {
+    "q": "Which system uses two digits, 0 and 1, and is the foundation for all modern computing?",
+    "options": [
+      "1. Hexadecimal number system",
+      "2. Octal number system",
+      "3. ASCII",
+      "4. Binary number system"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कौन सी प्रणाली (System) दो अंकों, 0 कों और 1 का उपयोग करती है, और सभी आधुनिक कंप्यूटिंग की नींव है?",
+    "options": [
+      "1. हेक्साडेसीमल नंबर सिस्‍टम",
+      "2. ऑक्‍टल नंबर सिस्‍टम",
+      "3. ASCII",
+      "4. बाइनरी नंबर सिस्‍टम"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is the full form of SSD, a type of mass storage technology similar to hard disc drives?",
+    "options": [
+      "1. Synchronous Storage Device",
+      "2. Standard Storage Device",
+      "3. Solid State Drive",
+      "4. Standard State Drive"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "हार्ड डिस्‍क ड्राइव के समान एक कार की मास स्टोरेज तकनीक, SSD का पूर्ण रूप क्या है?",
+    "options": [
+      "1. सिंक्रोनस स्टोरेज डिवाइस",
+      "2. स्टैन्‍डर्ड स्टोरेज डिवाइस",
+      "3. सॉलिड स्टेट ड्राइव",
+      "4. स्टैन्‍डर्ड स्टेट ड्राइव"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is also known as non-volatile memory as the information here is stored permanently until and unless it is deleted by the user?",
+    "options": [
+      "1. ROM",
+      "2. RAM",
+      "3. Cache",
+      "4. DRAM"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍नलिखित में से किसे गैर-वाष्‍पशील (non-volatile) मेमोरी के रूप में भी जाना जाता है क्योंकि यहां जानकारी तब तक स्थायी रूप से संग्रहीत होती है जब तक कि इसे उपयोगकर्ता द्वारा हटा नहीं दिया जाता है?",
+    "options": [
+      "1. ROM",
+      "2. RAM",
+      "3. कैश (Cache)",
+      "4. DRAM"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is not an example of system software?",
+    "options": [
+      "1. Operating system",
+      "2. Device driver",
+      "3. Utility software",
+      "4. Internet Browser"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन सा सिस्‍टम सॉफ्टवेयर का उदाहरण नहीं है?",
+    "options": [
+      "1. ऑपरेटिंग सिस्‍टम",
+      "2. डिवाइस ड्राइवर",
+      "3. यूटिलिटी सॉफ्टवेयर",
+      "4. इंटरनेट ब्राउज़र"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is NOT an input device?",
+    "options": [
+      "1. Keyboard",
+      "2. Joystick",
+      "3. Mouse",
+      "4. Monitor"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्‍न में से कौन सी एक इनपुट डिवाइस नहीं है?",
+    "options": [
+      "1. की-बोर्ड",
+      "2. जॉयस्टिक",
+      "3. माउस",
+      "4. मॉनिटर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The digital ______ is a specialised device for storing, transferring and playing audio files.",
+    "options": [
+      "1. media player",
+      "2. printer",
+      "3. scanner",
+      "4. camera"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "डिजिटल ___________, ऑडियो फाइल्‍स को स्टोर करने, ट्रांसफर करने और चलाने के लिए एक विशेष डिवाइस है।",
+    "options": [
+      "1. मीडिया प्लेयर",
+      "2. प्रिंटर",
+      "3. स्कैनर",
+      "4. कैमरा"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The print speed of inkjet and laser printers is generally measured in:",
+    "options": [
+      "1. pages per minute",
+      "2. characters per second",
+      "3. pages per second",
+      "4. characters per minute"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "इंकजेट और लेजर प्रिंटर की मुद्रण गति आम तौर पर निम्‍न में से किस मापक द्वारा मापी जाती है?",
+    "options": [
+      "1. पेज प्रति मिनट",
+      "2. वर्ण प्रति सेकेंड",
+      "3. पेज प्रति सेकंड",
+      "4. वर्ण प्रति मिनट"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is not true with reference to computer languages?",
+    "options": [
+      "1. Low-Level languages are hard to understand by humans",
+      "2. Debugging is hard in Low-level languages",
+      "3. High-Level languages takes a long time to be executed",
+      "4. High-Level languages are machine friendly"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कंप्यूटर भाषाओं के संदर्भ में निम्‍नलिखित में से कौन सा सत्‍य नहीं है?",
+    "options": [
+      "1. निम्‍न-स्‍तरीय भाषाओं (Low-Level languages) को मनुष्यों के लिए समझना कठिन होता है",
+      "2. निम्‍न-स्‍तरीय भाषाओं (Low-level languages) में डिबगिंग कठिन है",
+      "3. उच्‍च स्‍तरीय भाषाओं (High-Level languages) को निष्पादित होने में काफी समय लगता है",
+      "4. उच्‍च स्‍तरीय भाषाएँ (High-Level languages) मशीन अनुकूल होती हैं"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which type of programming language follows a sequence of statements or commands in order to achieve a desired output?",
+    "options": [
+      "1. Procedural",
+      "2. Functional",
+      "3. Object-oriented",
+      "4. Modular"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "वांछित आउटपुट प्राप्‍त करने के लिए किस प्रकार की प्रोग्रामिंग भाषा कथनों या आदेशों के अनुक्रम का अनुसरण करती है?",
+    "options": [
+      "1. प्रोसीज्रल",
+      "2. फंक्‍शनल",
+      "3. ऑब्जेक्‍ट-ओरिएंटेड",
+      "4. मॉड्यूलर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Memory unit is one part of a(n):",
+    "options": [
+      "1. input device",
+      "2. output device",
+      "3. control unit",
+      "4. central processing unit"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "मेमोरी यूनिट, ________ का एक अंग है।",
+    "options": [
+      "1. इनपुट डिवाइस",
+      "2. आउटपुट डिवाइस",
+      "3. कंट्रोल यूनिट",
+      "4. सेंट्रल प्रोसेसिंग यूनिट"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A barcode is a ______ code in the form of numbers and a pattern of parallel lines of varying widths, printed on and identifying a product.",
+    "options": [
+      "1. human-readable",
+      "2. machine-readable",
+      "3. reader friendly",
+      "4. optical"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "बारकोड एक ______ कोड है जो संख्याओं और अलग-अलग चौड़ाई की समानांतर रेखाओं के पैटर्न के रूप में मुद्रित होता है और किसी उत्पाद की पहचान करता है।",
+    "options": [
+      "1. ह्यूमन-रीडेबल",
+      "2. मशीन रीडेबल",
+      "3. रीडर फ्रेंडली",
+      "4. ऑप्टिकल"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following categories of testing evaluates biometric matches for fingerprints, palm prints and latent impressions, with fingerprint personnel permitted to perform quality control steps such as sequence correction and editing of low quality images?",
+    "options": [
+      "1. User stories testing",
+      "2. Lights-out performance testing",
+      "3. Best practices performance testing",
+      "4. Operational demonstrations"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "परीक्षण की निम्‍नलिखित में से किस श्रेणी के अंतर्गत उंगलियों, हथेलियों के निशानों और अस्‍पष्‍ट छापों की बायोमेट्रिक मिलान का मूल्यांकन किया जाता है और इस परीक्षण में मिलान कर्मियों को गुणवत्ता नियंण के उपायों जैसे कि कम गुणवत्ता पूर्ण इमेज के संपादन, अनुक्रम सुधार इत्यादि की अनुमति होती है?",
+    "options": [
+      "1. उपयोगकर्ता की स्टोरीज का परीक्षण",
+      "2. लाइट्स-आउट प्रदर्शन परीक्षण",
+      "3. सर्वश्रेष्‍ठ अभ्यास प्रदर्शन परीक्षण",
+      "4. संचालन प्रदर्शन"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The Blu-ray Disc format uses blue laser technology. A blue laser light beam is ______ wavelength than a red laser.",
+    "options": [
+      "1. broader",
+      "2. shorter",
+      "3. wider",
+      "4. spacious"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ब्लू-रे डिस्‍क प्रारूप नीली लेजर तकनीक का उपयोग करता है। एक नीली लेज़र प्रकाश किरण लाल लेज़र की तुलना में ______ तरंगदैर्ध्य होती है।",
+    "options": [
+      "1. विस्तृत (broader)",
+      "2. छोटी (shorter)",
+      "3. चौड़ी (wider)",
+      "4. विशाल (spacious)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The total number of times per second an image on a display (computer monitor) repainted is referred to as _____________.",
+    "options": [
+      "1. resolution",
+      "2. size",
+      "3. refresh rate",
+      "4. brightness"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "किसी डिप्ले (कप्यूटर मॉनीटर) पर प्रति सेकण्‍ड किसी छवि को पुनः चित्रित करने की कुल संख्या को _____________ कहा जाता है।",
+    "options": [
+      "1. रेसोलूशन (resolution)",
+      "2. साइज (size)",
+      "3. रिफ्रेश रेट (refresh rate)",
+      "4. ब्राइटनेस (brightness)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following material makes the electrode-plane in Liquid Crystal Display?",
+    "options": [
+      "1. Indium-zinc oxide",
+      "2. Indium-tin oxide",
+      "3. Indium-lead oxide",
+      "4. Indium-cupric oxide"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन सी सामग्री लिक्विड क्रिस्‍टल डिस्‍प्ले में इलेक्ट्रोड-प्लेन बनाती है?",
+    "options": [
+      "1. इंडियम-जिंक ऑक्साइड",
+      "2. इंडियम-टिन ऑक्साइड",
+      "3. इंडियम-लेड ऑक्साइड",
+      "4. इंडियम-क्यूपरिक ऑक्साइड"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a form of a security breach where spyware enters the system when a suspicious link is clicked or an unknown dangerous attachment is downloaded?",
+    "options": [
+      "1. Phishing",
+      "2. Keylogger",
+      "3. Adware",
+      "4. Trojan"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन सा सुरक्षा उल्लंघन का एक रूप है जहां किसी संदिग्‍ध लिंक पर क्लिक करने या अज्ञात खतरनाक अटैचमेंट डाउनलोड होने पर स्पाइवेयर सिस्‍टम में प्रवेश करता है?",
+    "options": [
+      "1. फिशिंग (Phishing)",
+      "2. कीलॉगर (Keylogger)",
+      "3. एडवेयर (Adware)",
+      "4. ट्रोजन (Trojan)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The process of copying a file (such as a game or utility) from one computer to another through the internet is known as ________________.",
+    "options": [
+      "1. downloading",
+      "2. uploading",
+      "3. compressing",
+      "4. searching"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "इंटरनेट के माध्‍यम से किसी फ़ाइल (जैसे गेम या उपयोगिता) को एक कंप्यूटर से दूसरे कंप्यूटर पर कॉपी करने की प्रक्रिया को ________________ के रूप में जाना जाता है।",
+    "options": [
+      "1. डाउनलोडिंग (downloading)",
+      "2. अपलोडिंग (uploading)",
+      "3. कम्प्रेस्सिंग (compressing)",
+      "4. सर्चिंग (searching)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a compressed file format?",
+    "options": [
+      "1. .TAR",
+      "2. .doc",
+      "3. .wps",
+      "4. .wpd"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन सा एक संपीड़ित (Compressed) फ़ाइल स्‍वरूप है?",
+    "options": [
+      "1. .TAR",
+      "2. .doc",
+      "3. .wps",
+      "4. .wpd"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Most microphones use either an electromagnetic or an electrostatic technique to convert ____________.",
+    "options": [
+      "1. electrical energy to acoustic energy",
+      "2. electrical energy to mechanical energy",
+      "3. mechanical energy to electrical energy",
+      "4. sound waves into electrical signals"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "अधिकांश माइक्रोफ़ोन ____________ परिवर्तित करने के लिए या तो विद्युत चुम्‍बकीय या इलेक्ट्रोस्टैटिक तकनीक का उपयोग करते हैं।",
+    "options": [
+      "1. विद्युत उर्जा को ध्‍वनिक उर्जा में",
+      "2. विद्युत उर्जा को यांत्रिक उर्जा में",
+      "3. यांत्रिक उर्जा को विद्युत उर्जा में",
+      "4. ध्‍वनि तरंगों को विद्युत संकेतों में"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following not true with reference to creating strong password?",
+    "options": [
+      "1. Never use personal information",
+      "2. Use a longer password",
+      "3. Don't use the same password for each account",
+      "4. Random passwords are not the strongest"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "मजबूत पासवर्ड बनाने के संदर्भ में निम्‍नलिखित में से कौन सा सत्‍य नहीं है?",
+    "options": [
+      "1. कभी भी व्‍यक्तिगत जानकारी का उपयोग न करें",
+      "2. लंबे पासवर्ड का प्रयोग करें",
+      "3. प्रत्येक खाते के लिए एक ही पासवर्ड का उपयोग न करें",
+      "4. रैंडम पासवर्ड सबसे मजबूत नहीं होते हैं"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is not a limitation of compressed file formats?",
+    "options": [
+      "1. Lossy compression",
+      "2. Platform compatibility",
+      "3. Processing overhead",
+      "4. Data security"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन सी संपीड़ित (Compressed) फ़ाइल स्‍वरूपों (Formats)  की सीमा नहीं है?",
+    "options": [
+      "1. लॉसी कम्प्रेशन (Lossy compression)",
+      "2. प्लेटफार्म कम्पैटिबिलिटी (Platform compatibility)",
+      "3. प्रोसेसिंग ओवरहैड (Processing overhead)",
+      "4. डेटा सिक्योरिटी (Data security)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In Windows 10, the Task Manager has a ________ tab to manage which applications run on startup.",
+    "options": [
+      "1. Startup",
+      "2. Users",
+      "3. Services",
+      "4. Performance"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Windows 10 में, टास्‍क मैनेजर के पास यह प्रबंधित करने के लिए एक ________ टैब है कि कौन से एप्लिकेशन स्टार्टअप पर चलते हैं।",
+    "options": [
+      "1. स्टार्टअप (Startup)",
+      "2. यूजर्स (Users)",
+      "3. सर्विसेज (Services)",
+      "4. परफॉरमेंस (Performance)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What does NTFS, a proprietary file system developed by Microsoft stand for?",
+    "options": [
+      "1. New Transparent File System",
+      "2. New Technology File System",
+      "3. Next Technology File System",
+      "4. New Training File System"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Microsoft द्वारा विकसित एक मालिकाना फाइल सिस्‍टम NTFS का क्या मतलब है?",
+    "options": [
+      "1. New Transparent File System (न्यू ट्रांसपैरेंट फाइल सिस्‍टम)",
+      "2. New Technology File System (न्यू टेक्नोलॉजी फाइल सिस्‍टम)",
+      "3. Next Technology File System (नेक्‍स्‍ट टेक्नोलॉजी फाइल सिस्‍टम)",
+      "4. New Training File System (न्यू ट्रेनिंग फाइल सिस्‍टम)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is not a text file format?",
+    "options": [
+      "1. .doc",
+      "2. .txt",
+      "3. .rtf",
+      "4. .mdb"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन सा टेक्‍स्‍ट फ़ाइल स्‍वरूप (Format) नहीं है?",
+    "options": [
+      "1. .doc",
+      "2. .txt",
+      "3. .rtf",
+      "4. .mdb"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is the full form of UPS, which is a a device that supplies power to devices for a fixed amount of time without stopping even when there are problems occurring with utility power and other power sources in a computer system?",
+    "options": [
+      "1. Uninterruptible Power Supply",
+      "2. Unparalleled interruptible Power Supply",
+      "3. Uninterruptible Power System",
+      "4. Uninterruptible Permanent Supply"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "UPS का पूर्ण रूप क्या है, जो एक ऐसा उपकरण है जो कंप्यूटर सिस्‍टम में उपयोगिता पावर और अन्‍य पावर स्रोतों में समस्या होने पर भी बिना रूके एक निश्चित समय के लिए उपकरणों को बिजली की आपूर्ति करता है?",
+    "options": [
+      "1. अनइंटरप्टिबल पावर सप्लाई (Uninterruptible Power Supply)",
+      "2. अनपैरेल इंटरप्टिबल पावर सप्लाई (Unparalleled interruptible Power Supply)",
+      "3. अनइंटरप्टिबल पावर सिस्‍टम (Uninterruptible Power System)",
+      "4. अनइंटरप्टिबल परमानेंट सप्लाई (Uninterruptible Permanent Supply)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following directory structures is the topmost directory on the disk?",
+    "options": [
+      "1. Base",
+      "2. Tree",
+      "3. Root",
+      "4. Subdirectory"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सी डाइरेक्ट्री संरचना डिस्‍क पर सबसे ऊपरी डाइरेक्ट्री है?",
+    "options": [
+      "1. बेस",
+      "2. ट्री",
+      "3. रूट",
+      "4. सबडाइरेक्ट्री"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "An MS-Access 2019 database file has _______ extension.",
+    "options": [
+      "1. .dt",
+      "2. .data",
+      "3. .accdb",
+      "4. .dta"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Access 2019 डेटाबेस फ़ाइल का _______ एक्‍सटेंशन है।",
+    "options": [
+      "1. .dt",
+      "2. .data",
+      "3. .accdb",
+      "4. .dta"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the full form of SMPS, which is an electronic gadget or module that comprises a combination of inductors, capacitors and semiconductor gadgets like diodes and MOSFETs in a computer system?",
+    "options": [
+      "1. Silence Mode Power Supply",
+      "2. Switched Mode Power Supply",
+      "3. Synchronous Mode Power Supply",
+      "4. Switched Medium Power Supply"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "SMPS का पूर्ण रूप क्या है, जो एक इलेक्ट्रॉनिक गैजेट या मॉड्यूल है जिसमें कंप्यूटर सिस्‍टम में डायोड और MOSFETs जैसे इंडक्‍टर्स, कैपेसिटर और सेमीकंडर गैजेट्स का संयोजन शामिल होता है?",
+    "options": [
+      "1. साइलेंस मोड पावर सप्लाई (Silence Mode Power Supply)",
+      "2. स्विच्‍ड मोड पावर सप्लाई (Switched Mode Power Supply)",
+      "3. सिंक्रोनस मोड पावर सप्लाई (Synchronous Mode Power Supply)",
+      "4. स्विच्‍ड मीडियम पावर सप्लाई (Switched Medium Power Supply)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "With reference to system security, which of the following is a program that has the potential to cause serious damage to the system?",
+    "options": [
+      "1. Threat",
+      "2. Attack",
+      "3. Log",
+      "4. Error"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "सिस्‍टम सुरक्षा के संदर्भ में, निम्‍नलिखित में से कौन सा प्रोग्राम है जिसमें सिस्‍टम को गंभीर नुकसान पहुंचाने की क्षमता है?",
+    "options": [
+      "1. थ्रेट (Threat)",
+      "2. अटैक (Attack)",
+      "3. लॉग (Log)",
+      "4. एरर (Error)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a special database that holds key information about your system, including the device drivers?",
+    "options": [
+      "1. BOOT.INI",
+      "2. CONFIG.SYS",
+      "3. Windows REGISTRY",
+      "4. SYSTEM.INI"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन सा एक विशेष डेटाबेस है जिसमें डिवाइस ड्राइवर सहित आपके सिस्‍टम के बारे में महपूर्ण जानकारी होती है?",
+    "options": [
+      "1. BOOT.INI",
+      "2. CONFIG.SYS",
+      "3. Windows REGISTRY",
+      "4. SYSTEM.INI"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following keyboard short cut in MS-Excel 2019 is used to open the Formulas tab and insert, trace, and customize functions and calculations?",
+    "options": [
+      "1. Alt + M",
+      "2. Alt + H",
+      "3. Alt + P",
+      "4. Alt + N"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एमएस-एक्सेल 2019 में निम्‍नलिखित में से किस कीबोर्ड शॉर्टकट का उपयोग फॉर्मूला टैब खोलने तथा फ़ंक्‍शन और गणनाओं को इंसर्ट करने, ट्रेस करने और कस्‍टमाइज करने के लिए किया जाता है?",
+    "options": [
+      "1. Alt + M",
+      "2. Alt + H",
+      "3. Alt + P",
+      "4. Alt + N"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following services of the Internet is responsible for mappings of computer hostnames to IP addresses?",
+    "options": [
+      "1. Domain Name System",
+      "2. VoIP",
+      "3. Time services",
+      "4. Gopher"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "इंटरनेट की निम्‍नलिखित में से कौन-सी सर्विस कंप्यूटर होस्‍टनामों (Host names) को आईपी पते (IP Address) पर मैप करने के लिए उत्‍तरदायी है?",
+    "options": [
+      "1. डोमेन नेम सिस्‍टम (Domain Name System)",
+      "2. वॉइप (VoIP)",
+      "3. टाइम सर्विसेज (Time services)",
+      "4. गोफर (Gopher)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In order to publish a file in Google Docs, the ________option is used.",
+    "options": [
+      "1. publish to website",
+      "2. publish on net",
+      "3. publish to web",
+      "4. paste to web"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Google Docs में किसी फाइल को पब्लिश करने के लिए _______ विकल्‍प का उपयोग किया जाता है।",
+    "options": [
+      "1. पब्लिश टू वेबसाइट",
+      "2. पब्लिश ऑन नेट",
+      "3. पब्लिश टू वेब",
+      "4. पेस्‍ट टू वेब"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "USSD in the context of BHIM (Bharat Interface for Money) stands for ______.",
+    "options": [
+      "1. Unreliable Supplementary Service Data",
+      "2. Unstructured Supplementary Service Data",
+      "3. User Supplementary Service Data",
+      "4. Used Supplementary Service Data"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "BHIM (भारत इंटरफ़ेस फ़ॉर मनी) के संदर्भ में, USSD का पूर्णरूप क्या है?",
+    "options": [
+      "1. Unreliable Supplementary Service Data (अनरिलाएबल सप्लिमेंट्री सर्विस डेटा)",
+      "2. Unstructured Supplementary Service Data (अनस्ट्रक्‍चर्ड सप्लिमेंट्री सर्विस डेटा)",
+      "3. User Supplementary Service Data (यूजर सप्लिमेंट्री सर्विस डेटा)",
+      "4. Used Supplementary Service Data (यूज्‍ड सप्लिमेंट्री सर्विस डेटा)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What will be the output of following formula in MS-Excel 2019? <br><br> =AND(XOR(0,1),1)",
+    "options": [
+      "1. TRUE",
+      "2. FALSE",
+      "3. 2",
+      "4. #ERROR"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में निम्‍नलिखित फॉर्मूले का आउटपुट क्या होगा? <br><br> =AND(XOR(0,1),1)",
+    "options": [
+      "1. TRUE",
+      "2. FALSE",
+      "3. 2",
+      "4. #ERROR"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following wildcard characters can be used in formulas in MS-Excel 2019 while searching for sequence of characters?",
+    "options": [
+      "1. #",
+      "2. *",
+      "3. ?",
+      "4. !"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एमएस-एक्सेल 2019 में वर्णों के अनुक्रम की खोज करते समय सूत्रों में निम्‍नलिखित में से किस वाइल्‍डकार्ड वर्ण का उपयोग किया जा सकता है?",
+    "options": [
+      "1. #",
+      "2. *",
+      "3. ?",
+      "4. !"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following sequences is used to remove header in MS-Word 2019 document?",
+    "options": [
+      "1. Select Insert > Header > Remove Header",
+      "2. Select Insert > Header > Delete Header",
+      "3. Select Home > Header > Remove Header",
+      "4. Select Home > Header > Delete Header"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एमएस-वर्ड 2019 डॉक्यूमेंट में हेडर को हटाने के लिए निम्‍नलिखित में से किस अनुक्रम का उपयोग किया जाता है?",
+    "options": [
+      "1. इन्‍सर्ट चुनें > हेडर > रिमूव हैडर चुनें",
+      "2. इन्‍सर्ट चुनें > हेडर > डिलीट हेडर चुनें",
+      "3. होम चुनें > हेडर > रिमूव हैडर चुनें",
+      "4. होम चुनें > हेडर > डिलीट हेडर चुनें"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following keyboard shortcuts in MS-Word 2019 is used to decrease the font size by 1 point?",
+    "options": [
+      "1. Ctrl + Left bracket ([)",
+      "2. Ctrl + Right bracket (])",
+      "3. Shift + Right bracket (])",
+      "4. Shift + Left bracket ([)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एमएस-वर्ड 2019 में निम्‍नलिखित में से किस कीबोर्ड शॉर्टकट का उपयोग फ़ॉन्‍ट आकार को 1 अंक कम करने के लिए किया जाता है?",
+    "options": [
+      "1. Ctrl + Left bracket ([)",
+      "2. Ctrl + Right bracket (])",
+      "3. Shift + Right bracket (])",
+      "4. Shift + Left bracket ([)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following protocols describes how to make and receive phone calls over the internet?",
+    "options": [
+      "1. VoIP",
+      "2. IRC",
+      "3. List Server",
+      "4. Telnet"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन सा प्रोटोकॉल बताता है कि इंटरनेट पर फ़ोन कॉल कैसे करें और प्राप्‍त करें?",
+    "options": [
+      "1. VoIP",
+      "2. IRC",
+      "3. लिस्‍ट सर्वर (List Server)",
+      "4. टेलनेट (Telnet)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is not an essential component for connecting to the Internet?",
+    "options": [
+      "1. ISP",
+      "2. Modem",
+      "3. Printer",
+      "4. Router"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन सा इंटरनेट से जुड़ने के लिए एक आवश्‍यक घटक नहीं है?",
+    "options": [
+      "1. आईएसपी (ISP)",
+      "2. मॉडेम (Modem)",
+      "3. प्रिंटर (Printer)",
+      "4. राऊटर (Router)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which group of Home tab has the option to change the alignment of text in MS-Word 2019 document?",
+    "options": [
+      "1. View",
+      "2. Paragraph",
+      "3. Tools",
+      "4. Edit"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "होम टैब के किस समूह में MS-Word 2019 दस्तावेज़ में टेक्‍स्‍ट के संरेखण (Alignment) को बदलने का विकल्‍प है?",
+    "options": [
+      "1. व्‍यू",
+      "2. पैराग्राफ",
+      "3. टूल्‍स",
+      "4. एडिट"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "To delete text to the left of the insertion point, press the _________ key in MS-Word document.",
+    "options": [
+      "1. Backspace",
+      "2. Space",
+      "3. Ctrl + X",
+      "4. Escape Key"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एमएस-वर्ड डॉक्यूमेंट में, इंसर्शन पॉइंट के बाईं ओर टेक्‍स्‍ट को डिलीट करने के लिए, _________ कुंजी दबाएं।",
+    "options": [
+      "1. Backspace",
+      "2. Space",
+      "3. Ctrl + X",
+      "4. Escape कुंजी"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS-Excel 2019, a part of pie chart is known as a _________.",
+    "options": [
+      "1. pie",
+      "2. slice",
+      "3. part",
+      "4. circle"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 में, पाई चार्ट के एक भाग को _________ के रूप में जाना जाता है।",
+    "options": [
+      "1. पाई (pie)",
+      "2. स्लाइस (slice)",
+      "3. पार्ट (part)",
+      "4. सर्कल (circle)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A __________ is a grid of rows and columns in Microsoft Excel.",
+    "options": [
+      "1. page",
+      "2. document",
+      "3. slide",
+      "4. spreadsheet"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "__________ Microsoft Excel में पंक्तियों और स्तंभों का एक ग्रिड है।",
+    "options": [
+      "1. पेज",
+      "2. डॉक्यूमेंट",
+      "3. स्लाइड",
+      "4. स्प्रेडशीट"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Microsoft Excel 2019 labels columns in a spreadsheet as _______.",
+    "options": [
+      "1. 1, 2, 3",
+      "2. A, B, C",
+      "3. A1, B1, C1",
+      "4. 1A, 2B, 3C"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Microsoft Excel 2019 में, स्प्रेडशीट के कॉलम _________ के रूप में अंकित होते हैं।",
+    "options": [
+      "1. 1, 2, 3",
+      "2. A, B, C",
+      "3. A1, B1, C1",
+      "4. 1A, 2B, 3C"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "To move one cell up in an Microsoft Excel spreadsheet, which of the following keys is used?",
+    "options": [
+      "1. Down arrow key",
+      "2. Up arrow key",
+      "3. Left arrow key",
+      "4. Right arrow key or Tab key"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "माइक्रोसॉफ्ट एक्सेल स्प्रेडशीट में एक सेल ऊपर जाने के लिए निम्‍नलिखित में से किस कुंजी का उपयोग किया जाता है?",
+    "options": [
+      "1. डाउन एरो की",
+      "2. अप एरो की",
+      "3. लेफ्ट एरो की",
+      "4. राइट एरो की या टैब की"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Data is organised in a spreadsheet in the form of __________ in MS-Excel worksheet.",
+    "options": [
+      "1. rows and columns",
+      "2. length and breadth",
+      "3. graph only",
+      "4. chart only"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel वर्कशीट में डेटा को __________ के रूप में एक स्प्रेडशीट में व्‍यवस्थित किया जाता है।",
+    "options": [
+      "1. रो और कॉलम",
+      "2. लेंथ और ब्रेथ",
+      "3. केवल ग्राफ",
+      "4. केवल चार्ट"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS-Excel 2019, ________ is an example of relative reference.",
+    "options": [
+      "1. $B",
+      "2. B1",
+      "3. B$1",
+      "4. $B$1"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 में, ________ सापेक्ष संदर्भ (Relative Reference) का एक उदाहरण है।",
+    "options": [
+      "1. $B",
+      "2. B1",
+      "3. B$1",
+      "4. $B$1"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following keyboard shortcuts is used to go to the Insert tab in Microsoft Word 2019?",
+    "options": [
+      "1. Alt + H",
+      "2. Alt + F",
+      "3. Alt + N",
+      "4. Alt + M"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Microsoft Word 2019 में, इन्‍सर्ट टैब पर जाने के लिए निम्‍नलिखित में से किस की-बोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Alt + H",
+      "2. Alt + F",
+      "3. Alt + N",
+      "4. Alt + M"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following keyboard shortcuts is used to close the Microsoft Excel?",
+    "options": [
+      "1. Alt + F1",
+      "2. Alt + F3",
+      "3. Alt + F4",
+      "4. Alt + F5"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Microsoft Excel को बंद करने के लिए निम्‍नलिखित में से किस की-बोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Alt + F1",
+      "2. Alt + F3",
+      "3. Alt + F4",
+      "4. Alt + F5"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following keyboard shortcuts is used to get the sum of the values of adjacent cells in Microsoft Excel 2019?",
+    "options": [
+      "1. Alt + =",
+      "2. Shift + =",
+      "3. Ctrl + =",
+      "4. Alt + −"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Microsoft Excel 2019 में, निकटस्‍थ सेल के मानों का योग ज्ञात करने के लिए निम्‍नलिखित में से किस की-बोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Alt + =",
+      "2. Shift + =",
+      "3. Ctrl + =",
+      "4. Alt + −"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the decimal equivalent of the binary number 110110?",
+    "options": [
+      "1. 54",
+      "2. 53",
+      "3. 64",
+      "4. 51"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "बाइनरी संख्या 110110 का दशमलव समतुल्यांक निम्‍न में से क्या होगा?",
+    "options": [
+      "1. 54",
+      "2. 53",
+      "3. 64",
+      "4. 51"
+    ],
+    "answer": 0
+  }
 ]
         
         };
