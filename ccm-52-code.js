@@ -11471,7 +11471,7 @@
     "answer": 0
   }
 ],
-  "11th January 2025 - Shift2 pwd": [
+  "11th January 2025 - Shift2pwd": [
   {
     "q": "A multi-programming system can be defined as a:",
     "options": [
