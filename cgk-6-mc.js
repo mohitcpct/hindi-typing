@@ -121,7 +121,7 @@
     "answer": 1
   }
   ],
-  "30st May 2025 - Shift2": [
+  "30th May 2025 - Shift2": [
   {
     "q": "An easterly jet stream, called the sub-tropical easterly jet stream blows over peninsular India, approximately over 14°N during the ________ months. Options :",
     "options": [
@@ -1220,7 +1220,7 @@
     "answer": 0
   }
 ],
- "11t Jan 2025 - Shift1": [
+ "11th Jan 2025 - Shift1": [
   {
     "q": "Bailadila Mines are in the state of _________.",
     "options": [
