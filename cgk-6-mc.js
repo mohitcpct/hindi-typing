@@ -1342,7 +1342,7 @@
     "answer": 3
   }
 ],
-  "11th Jan 2025 - Shift2 PwD": [
+  "11th Jan 2025 - Shift2PwD": [
   {
     "q": "Dalmianagar of Bihar is famous for:",
     "options": [
