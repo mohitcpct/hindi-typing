@@ -242,6 +242,128 @@
     ],
     "answer": 0
   }
+],
+  "31th May 2025 - Shift1": [
+  {
+    "q": "'Necklace' is related to 'Jewellery' in the same way as 'Shirt' is related to '________'.",
+    "options": [
+      "1. Thread",
+      "2. Cloth",
+      "3. Cotton",
+      "4. Apparel"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "'हार' का 'आभूषण' से वही संबंध है जो संबंध 'कमीज' का ________से है।",
+    "options": [
+      "1. धागे",
+      "2. कपड़े",
+      "3. कपास",
+      "4. परिधान"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Each of the given letters has been assigned a unique number. Select the combination of numbers such that the corresponding letters when arranged accordingly will form a meaningful word. <br><br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOTzX_GeJSKurSZ3v_0T6PZOugmqqZTDh8nJ7wkBOzqEsCBmyTtX2PWXaCZLlppcDmgByq6t5L1HefkGQpq-Tfpuuye02UQkyEivdh-wsc4AoGhbH6V62bZODrZHNKfDc2tikiBG2bHuOVrt-_ZkKI8k6GqTGdlZBTFiJN9UhCafK9Gi1Ai-GK5ropuXkp/s1600/8%20bbf.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. 1, 3, 5, 6, 4, 2",
+      "2. 2, 3, 1, 6, 4, 5",
+      "3. 5, 3, 6, 4, 1, 2",
+      "4. 6, 3, 5, 1, 4, 2"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "दिए गए प्रत्येक अक्षर को एक विशिष्‍ट संख्या दी गई है। संख्याओं का ऐसा संयोजन चुनें जिससे संगत अक्षरों को तदनुसार व्‍यवस्थित करने पर एक सार्थक शब्‍द बने।<br><br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOTzX_GeJSKurSZ3v_0T6PZOugmqqZTDh8nJ7wkBOzqEsCBmyTtX2PWXaCZLlppcDmgByq6t5L1HefkGQpq-Tfpuuye02UQkyEivdh-wsc4AoGhbH6V62bZODrZHNKfDc2tikiBG2bHuOVrt-_ZkKI8k6GqTGdlZBTFiJN9UhCafK9Gi1Ai-GK5ropuXkp/s1600/8%20bbf.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. 1, 3, 5, 6, 4, 2",
+      "2. 2, 3, 1, 6, 4, 5",
+      "3. 5, 3, 6, 4, 1, 2",
+      "4. 6, 3, 5, 1, 4, 2"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Select the word from the options that is similar to the given set of words in a certain way and hence belongs to the same group. <br><br>Necklace : Ring : Bangle",
+    "options": [
+      "1. Belt",
+      "2. Ornaments",
+      "3. Bracelet",
+      "4. Jewelery"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "विकल्पों में से उस शब्‍द का चयन कीजिए जो किसी निश्चित तरीके से दिए गए शब्दों के समूह के समान है और इसलिए उसी समूह से संबंधित है। <br><br>हार : अंगूठी : चूड़ी",
+    "options": [
+      "1. बेल्‍ट",
+      "2. आभूषण",
+      "3. कंगन",
+      "4. जेवरात"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Select the most appropriate description about the given set of words. <br><br>Paradeep : Haldia : Kandla",
+    "options": [
+      "1. Industrial centres",
+      "2. Ships",
+      "3. Port towns",
+      "4. Coastal cities"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "शब्दों के निम्‍न समूह के उपयुक्‍त विवरण वाले विकल्‍प का चयन कीजिए। <br><br>पारादीप : हल्दिया : कांडला",
+    "options": [
+      "1. औद्योगिक केंद्र",
+      "2. जहाज",
+      "3. बंदरगाह शहर",
+      "4. तटवर्ती शहर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Select the option that is true regarding the following two statements labelled Assertion (A) and Reason (R). <br><br>Assertion (A): The British sovereignty continued to exist in free India. <br>Reason (R): The British sovereign appointed the last Governor-General of free India.",
+    "options": [
+      "1. Both A and R are true and R is the correct explanation of A.",
+      "2. Both A and R are true but R is not the correct explanation of A.",
+      "3. A is true but R is false",
+      "4. A is false but R is true."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "नीचे अभिकथन (A) और कारण (R) के रूप में चिह्नित दो कथन दिए गए हैं। इसके अनुसार सही विकल्‍प का चयन कीजिए। <br><br>अभिकथन (A): ब्रिटिश संप्रभुता, स्‍वतंत्र भारत में भी बनी रही। <br>कारण (R): ब्रिटिश संप्रभु ने स्‍वतंत्र भारत के अंतिम गवर्नर-जनरल को नियुक्‍त किया।",
+    "options": [
+      "1. A और R दोनों सत्‍य हैं और R, A का सही स्‍पष्टीकरण है।",
+      "2. A और R दोनों सत्‍य हैं परंतु R, A का सही स्‍पष्टीकरण नहीं है।",
+      "3. A सत्‍य है परंतु R असत्‍य है।",
+      "4. A असत्‍य है परंतु R सत्‍य है।"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Select the option which satisfies the same conditions of placement of the dot as I figure shown here.  <br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTcXXU83B0NMOenz7_lilX3aSLDgIdPhchdywk0uqV56Pt4is0KYzKw2uicgxN8LBC8x82Uv8LSE7OXdl3Gzj_8dcLKeDunvZERRRyKnw60Vtu92Ca9dTt_8pbIXgDaQlxY0Gu7EjXVVJHp36oKlpybgvDQrF96Yl5ka04AR6eSFrSe7stddLvvGNApUPL/s1600/9%20bbf.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQu68Y9UWoBsS5-7-qfUL_DnAFiWvXuAr6txff0gnlgBuMlr1q9V0Ri9lS32R5pVoxObY3bvy98hoqZ5RJGrdljDFXPukPI8gQxsWX-qycRqjmu65IWwUyCxzuholceolhG8ZVtm7K7q1HUROOUzhHzu-Sg3CVqAl_cJGLNBWP0O8wd3fbzbxXLucoimRg/s1600/10%20bbf.png\" style=\"max-width:100%;height:auto;\">",
+      "2. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH3NlEJuOoCOX3WldxSPhlsito7cYw1fHquQFqEZVs2KowrDlR9VQBEiYRwL3FH_e1yxglBBbr6E9YD_fe5F4LSfM9DWymN6OLdeCFB6If1VN07cpcy28QW5WlwzRKpgnGP_NLcxdWcVQ46NPHeArkM6u-aa5ATLJNXePzrS9FDLrWYlFjqfkt8hljrBlj/s1600/11%20bbf.png\" style=\"max-width:100%;height:auto;\">",
+      "3. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy2Vz8Mgl3ud5pWOA2gAnZGzgpQEuaAg4TrHci7mQ_tv3MYz7hp3nYgCtYrIJpPW1rC9nAuCKKoAI1vXZfWm54mqI2IMKkP5mw8O4WpVZbJcNv8XV6fEBNHSTSVK_OI5N17WIFnburGI920Nxm8nQqhUJVKr6oT-Dz6p7D5RIBKiHCR8-OqZqxD8ceA-IN/s1600/12%20bbf.png\" style=\"max-width:100%;height:auto;\">",
+      "4. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwZbOJbNmzLm8oxcL98TY9LwGo-sQMAfk_Nn0WstvEFYV0ALc05zV2UTKNn1op4hsCcWOUwI2ZbazMdnoQ14UOQnCuNv5owwOCEABHPA_WN3_FGNrXW4NAltOXPTCnSghm1yGucGGEvVkiWaCJlHMxA7FpY6kXrbB8xTj85vJyTVNMegNiNT-wCwEWtxac/s1600/13%20bbf.png\" style=\"max-width:100%;height:auto;\">"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "नीचे दर्शाये गए चित्र में बिंदुओं के स्‍थान नियोजन को संतुष्‍ट करने वाली स्थिति से संबंधित चित्र का चयन विकल्‍पों में से कीजिए । <br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTcXXU83B0NMOenz7_lilX3aSLDgIdPhchdywk0uqV56Pt4is0KYzKw2uicgxN8LBC8x82Uv8LSE7OXdl3Gzj_8dcLKeDunvZERRRyKnw60Vtu92Ca9dTt_8pbIXgDaQlxY0Gu7EjXVVJHp36oKlpybgvDQrF96Yl5ka04AR6eSFrSe7stddLvvGNApUPL/s1600/9%20bbf.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQu68Y9UWoBsS5-7-qfUL_DnAFiWvXuAr6txff0gnlgBuMlr1q9V0Ri9lS32R5pVoxObY3bvy98hoqZ5RJGrdljDFXPukPI8gQxsWX-qycRqjmu65IWwUyCxzuholceolhG8ZVtm7K7q1HUROOUzhHzu-Sg3CVqAl_cJGLNBWP0O8wd3fbzbxXLucoimRg/s1600/10%20bbf.png\" style=\"max-width:100%;height:auto;\">",
+      "2. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH3NlEJuOoCOX3WldxSPhlsito7cYw1fHquQFqEZVs2KowrDlR9VQBEiYRwL3FH_e1yxglBBbr6E9YD_fe5F4LSfM9DWymN6OLdeCFB6If1VN07cpcy28QW5WlwzRKpgnGP_NLcxdWcVQ46NPHeArkM6u-aa5ATLJNXePzrS9FDLrWYlFjqfkt8hljrBlj/s1600/11%20bbf.png\" style=\"max-width:100%;height:auto;\">",
+      "3. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy2Vz8Mgl3ud5pWOA2gAnZGzgpQEuaAg4TrHci7mQ_tv3MYz7hp3nYgCtYrIJpPW1rC9nAuCKKoAI1vXZfWm54mqI2IMKkP5mw8O4WpVZbJcNv8XV6fEBNHSTSVK_OI5N17WIFnburGI920Nxm8nQqhUJVKr6oT-Dz6p7D5RIBKiHCR8-OqZqxD8ceA-IN/s1600/12%20bbf.png\" style=\"max-width:100%;height:auto;\">",
+      "4. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwZbOJbNmzLm8oxcL98TY9LwGo-sQMAfk_Nn0WstvEFYV0ALc05zV2UTKNn1op4hsCcWOUwI2ZbazMdnoQ14UOQnCuNv5owwOCEABHPA_WN3_FGNrXW4NAltOXPTCnSghm1yGucGGEvVkiWaCJlHMxA7FpY6kXrbB8xTj85vJyTVNMegNiNT-wCwEWtxac/s1600/13%20bbf.png\" style=\"max-width:100%;height:auto;\">"
+    ],
+    "answer": 0
+  }
 ]
 
 
