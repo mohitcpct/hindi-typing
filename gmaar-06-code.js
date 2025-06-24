@@ -1,7 +1,7 @@
  const questionBank = {
   "30th May 2025 - Shift1": [
  {
-    "q": "Tennis' is related to 'Court' in the same way as 'Boxing' is related to '_______'.",
+    "q": "'Tennis' is related to 'Court' in the same way as 'Boxing' is related to '_______'.",
     "options": [
       "1. Pool",
       "2. Ring",
@@ -11,7 +11,7 @@
     "answer": 1
   },
   {
-    "q": "टेनिस' का 'कोर्ट' से वही संबंध है जो 'बॉक्सिंग' का '________' से संबंध है।",
+    "q": "'टेनिस' का 'कोर्ट' से वही संबंध है जो 'बॉक्सिंग' का '________' से संबंध है।",
     "options": [
       "1. पूल",
       "2. रिंग",
