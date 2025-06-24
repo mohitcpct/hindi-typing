@@ -123,7 +123,7 @@
 ],
   "30th May 2025 - Shift2": [
   {
-    "q": "Wax' is related to 'Grease' in the same way as 'Milk' is related to '________'.",
+    "q": "'Wax' is related to 'Grease' in the same way as 'Milk' is related to '________'.",
     "options": [
       "1. Drink",
       "2. Ghee",
