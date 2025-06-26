@@ -204,7 +204,7 @@
     "answer": 1
   },
   {
-    "q": "<img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE_Ahvywf8HUiHNkY3AQNeZGbeX6Mdl4XPqaVecT0viqTiMjgpLIa5B2K5BXFir6yRXfqbhLt_caeBNX2Vs3ZBcXYOuH0bO2Zfnlum7_ZCOKcLbq1vcNsu_Uj9qyyT5HE3CPRfAjUhqLC-w1g7yNSH4BOp7keUJkHURkxhRtblxJRfODOHE87frGMhr-xb/s320/131g.png\" style=\"max-width:100%;height:auto;\">",
+    "q": "<img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJHfCo-kFFN7uQzPsVVaQJMmgN8GKAwKyFj5NvHMJV1lo7oyhvEBwjKocYbGscNAIqXf7OWv_33g0Ah5zAcgRAfbwhE98Okpx8mbWgqbjC5JsjX5jatfPwyQvVsOTsiYo4Y6lGJks5befuMFhWkNxTbZgW8Z9Pi3XbWeegReHOnZv-dKKfql9rwULfTjC1/s1043/fg4554%20d.png\" style=\"max-width:100%;height:auto;\">",
     "options": [
       "1. 1",
       "2. 2",
@@ -214,7 +214,7 @@
     "answer": 2
   },
   {
-    "q": "<img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmrRWqpA92dschrTgZPz22Md5je6vCuFJuDwZ6KkHP6vFEkFR9dm8QuMYcX3KpjSMX2ZoZggixVTbYSw0eJpKjhrx-u6gv8ebIbUqKNS_ChT7fKhfWVyGc4z6vdqSHGFULbmTJgsZru2m1rtHJMUW0cMuGjPCIsbZochvkzmga2198WOZZBE5efEFp6j2X/s320/132g.png\" style=\"max-width:100%;height:auto;\">",
+    "q": "व्‍यंजक <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghcRRRD_nG43Hmgbbmxsf4YCCIjcSzVBW4ctPWA5o1hvofNHhErBlsWNKDeHtIvtxO-Q15UmF8CvC96j6coMH91WHKP-u3VP4D_Vyd7N9a-n-91je9jt_vrnCSNphJoGzSOdw1rKRJOUPfQEK47tMJHK3SCsJ96f_u0ML9gNkrz5GRo3tN6bGMtyjLe6BZ/s450/cvb%20545.png\" style=\"max-width:100%;height:auto;\">का मान क्‍या होगा, जहां a ≠ b ≠ c है ? ",
     "options": [
       "1. 1",
       "2. 2",
