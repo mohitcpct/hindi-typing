@@ -364,9 +364,130 @@
     ],
     "answer": 0
   }
+],
+
+   "31th May 2025 - Shift2": [
+  {
+    "q": "Ecology' is related to 'Environment' in the same way as 'Histology' is related to '________'.",
+    "options": [
+      "1. Fossils",
+      "2. History",
+      "3. Tissues",
+      "4. Hormones"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "'इकोलॉजी' का 'पर्यावरण' से वही संबंध है, जो संबंध 'हिस्टोलॉजी' का '________' से है।",
+    "options": [
+      "1. जीवाश्‍म",
+      "2. इतिहास",
+      "3. उत्‍तकों",
+      "4. हार्मोन्‍स"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Each of the given letters has been assigned a unique number. Select the combination of numbers such that the corresponding letters when arranged accordingly will form a meaningful word. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTwQg0pCteSTcCKw8ZI9AEruv_YW5N903WSYl_OZ1FCKEdxe-4P4Y34Ad4ikbfr3_o4cWHxFsk39s15srmVEJhsuR4G9IUhyphenhyphenfX4FcRqJcTi0w23h0kWJAfrb8_q8el6yMxqzDCleaAe9R4ppYqrv2pgkLDaAEaAeouX_drn4TRvd5bCbQUuKyxDetyrW_S/s1600/19%20ggrr.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. 1, 3, 4, 5, 6, 7, 2",
+      "2. 2, 6, 4, 5, 1, 3, 7",
+      "3. 4, 7, 3, 1, 6, 2, 5",
+      "4. 7, 6, 4, 5, 1, 3, 2"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "दिए गए प्रत्येक अक्षर को एक विशिष्‍ट संख्या दी गई है। संख्याओं का ऐसा संयोजन चुनें जिससे संगत अक्षरों को तदनुसार व्‍यवस्थित करने पर एक सार्थक शब्‍द बने। <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTwQg0pCteSTcCKw8ZI9AEruv_YW5N903WSYl_OZ1FCKEdxe-4P4Y34Ad4ikbfr3_o4cWHxFsk39s15srmVEJhsuR4G9IUhyphenhyphenfX4FcRqJcTi0w23h0kWJAfrb8_q8el6yMxqzDCleaAe9R4ppYqrv2pgkLDaAEaAeouX_drn4TRvd5bCbQUuKyxDetyrW_S/s1600/19%20ggrr.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. 1, 3, 4, 5, 6, 7, 2",
+      "2. 2, 6, 4, 5, 1, 3, 7",
+      "3. 4, 7, 3, 1, 6, 2, 5",
+      "4. 7, 6, 4, 5, 1, 3, 2"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Select the option that is true regarding the following two statements labelled Assertion (A) and Reason (R). <br><br>Assertion (A): Amoebiasis is an occupational disease.<br>Reason (R): Amoebiasis is caused by inhalation of asbestos dust.",
+    "options": [
+      "1. Both A and R are true and R is the correct explanation of A.",
+      "2. Both A and R are true but R is not the correct explanation of A.",
+      "3. A is true but R is false.",
+      "4. Both A and R are false."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "उस विकल्‍प का चयन कीजिए जो अभिकथन (A) और कारण (R) नामक निम्‍नलिखित दो कथनों के संबंध में सत्‍य है। <br><br>अभिकथन (A): अमीबता (Amoebiasis) एक व्यावसायिक रोग है। <br>कारण (R): अमीबता (Amoebiasis), एस्बेस्‍टस धूल को साँस में लेने के कारण होता है।",
+    "options": [
+      "1. A और R दोनों सत्‍य हैं और R, A का सही स्‍पष्टीकरण हैं।",
+      "2. A और R दोनों सत्‍य हैं परंतु R, A का सही स्‍पष्टीकरण नहीं हैं।",
+      "3. A सत्‍य है परंतु R असत्‍य है ।",
+      "4. A और R दोनों असत्‍य हैं।"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Four words have been given, out of which three are alike in some manner and one is different. Select the word that is different.",
+    "options": [
+      "1. Brocolli",
+      "2. Pineapple",
+      "3. Cherry",
+      "4. Plum"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "नीचे विकल्पों में चार शब्‍द दिए गए हैं जिनमें से तीन किसी प्रकार से एक जैसे हैं, जबकि एक इनसे भिन्‍न है। उस भिन्‍न शब्‍द की पहचान करें।",
+    "options": [
+      "1. ब्रॉकली",
+      "2. अनानस",
+      "3. चेरी",
+      "4. प्‍लम"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "<img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU1xEwC1OmQZYomawT22Jjo0c0y8jRzQL-O_qsgsy3icmusy0LQDNrDoOxPuMme_nu1aqIfZJriJzRURnJdTB1kzyoKY_uYuIhJlU5PBINzBs9cNNnbA_eAvOEvQszNcEkWOTgj6pF2henXfkTiLRf6-gqE0MSfHLADClypb_zioEmvUQtoV8ZuOZn_teT/s1600/14%20ggrr.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij2MaAQEXC2War8CtHaZcYqIp2Eg2BJGM2swFaOfqtPL-Y3PjEzTvEgL4oxSFGRaNyzQg4Avwu2Li10WJJ1cXbVRhHbzpNOTn3LR1a0OXR2wGM4SpH6Qm1qBPP3NTbeFm9KHsF3EF7akpYoQjjX0n_rCGHlNrbBi528AotsjsqyXCmKR_L6lFLSibakyUm/s1600/15%20ggrr.png\" style=\"max-width:100%;height:auto;\">",
+      "2. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQs9DssnM0zT3Il_LL2X1-hWFtGdugrD_yhKEXzDPjkQgF_jsJilkRN_GipqBn-XB_oo2WSG55a9_UZh_8Yk4wLpTfC6jKMEg87B2ygF_dmOABJKnQpZQwNkiq9N5yHT_0PY4q4s7DZixfySA-ZGKhArD0T7geRhjDuSb9T0Q5gHyBAQvmq2pz8twaEtPG/s1600/16%20ggrr.png\" style=\"max-width:100%;height:auto;\">",
+      "3. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNVG87Ub4DAGm9m-qZAB37amFIpIiFnuCCNg9y3IMwSEhEDCMTrs3oLXuNa6Yu05PZyFP9FUTGWykVq2uwTGHr729Wq0ZI2mSPNc19plOt8pCsYzgjVMmgnR_DneYx8PJpq8VjIs6rGSp4u-NdZGoPwyYYJ-M28sRsiaUfRmOLrNHstjq3VDkmMwY_DXg8/s1600/17%20ggrr.png\" style=\"max-width:100%;height:auto;\">",
+      "4. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4_iHc9lKopfu30D0skGyZc6Y-PFNJUi2eDdFbG7f4LHF8Y7Ap4D9oZkukzcQac2BLoWZlOJE7VQtQHlh81GUB8Xf1EbLVHo-tKp8hiaGLhMyEiBkEJrfsCpBorcUOvUxQto_FE_L42EUsvB8wgRdfGrIrvV3t2ahhAysaZIkvcO-pnNAJ8EVCjggdXk6l/s1600/18%20ggrr.png\" style=\"max-width:100%;height:auto;\">"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "<img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU1xEwC1OmQZYomawT22Jjo0c0y8jRzQL-O_qsgsy3icmusy0LQDNrDoOxPuMme_nu1aqIfZJriJzRURnJdTB1kzyoKY_uYuIhJlU5PBINzBs9cNNnbA_eAvOEvQszNcEkWOTgj6pF2henXfkTiLRf6-gqE0MSfHLADClypb_zioEmvUQtoV8ZuOZn_teT/s1600/14%20ggrr.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij2MaAQEXC2War8CtHaZcYqIp2Eg2BJGM2swFaOfqtPL-Y3PjEzTvEgL4oxSFGRaNyzQg4Avwu2Li10WJJ1cXbVRhHbzpNOTn3LR1a0OXR2wGM4SpH6Qm1qBPP3NTbeFm9KHsF3EF7akpYoQjjX0n_rCGHlNrbBi528AotsjsqyXCmKR_L6lFLSibakyUm/s1600/15%20ggrr.png\" style=\"max-width:100%;height:auto;\">",
+      "2. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQs9DssnM0zT3Il_LL2X1-hWFtGdugrD_yhKEXzDPjkQgF_jsJilkRN_GipqBn-XB_oo2WSG55a9_UZh_8Yk4wLpTfC6jKMEg87B2ygF_dmOABJKnQpZQwNkiq9N5yHT_0PY4q4s7DZixfySA-ZGKhArD0T7geRhjDuSb9T0Q5gHyBAQvmq2pz8twaEtPG/s1600/16%20ggrr.png\" style=\"max-width:100%;height:auto;\">",
+      "3. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNVG87Ub4DAGm9m-qZAB37amFIpIiFnuCCNg9y3IMwSEhEDCMTrs3oLXuNa6Yu05PZyFP9FUTGWykVq2uwTGHr729Wq0ZI2mSPNc19plOt8pCsYzgjVMmgnR_DneYx8PJpq8VjIs6rGSp4u-NdZGoPwyYYJ-M28sRsiaUfRmOLrNHstjq3VDkmMwY_DXg8/s1600/17%20ggrr.png\" style=\"max-width:100%;height:auto;\">",
+      "4. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4_iHc9lKopfu30D0skGyZc6Y-PFNJUi2eDdFbG7f4LHF8Y7Ap4D9oZkukzcQac2BLoWZlOJE7VQtQHlh81GUB8Xf1EbLVHo-tKp8hiaGLhMyEiBkEJrfsCpBorcUOvUxQto_FE_L42EUsvB8wgRdfGrIrvV3t2ahhAysaZIkvcO-pnNAJ8EVCjggdXk6l/s1600/18%20ggrr.png\" style=\"max-width:100%;height:auto;\">"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "If in a certain code, the coding is done as follows: <br> <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvFsGFcUkL_631f7IgFnz7eD9RQAFVPTDkydasUCmFTrjT0GFQejTNRdY1xBgbIE_JeB1HOEuYRuZoVJX2Lz0eh70hpa_hG2CdKJfCJyES5pUevBt5rfqBjk1ddyookhjc45yzsXtabYLmqOlMxOhJTyj7oPxOoONFf8euskzM4fi6cFOV1xFM8ca3djOF/s1600/20%20ggrr.png\" style=\"max-width:100%;height:auto;\"><br>then how will MDFHLTR be coded?",
+    "options": [
+      "1. 9175320",
+      "2. 9175230",
+      "3. 9137502",
+      "4. 9175302"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "यदि एक निश्चित कोड में, कोडिंग निम्नानुसार की जाती है: <br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvFsGFcUkL_631f7IgFnz7eD9RQAFVPTDkydasUCmFTrjT0GFQejTNRdY1xBgbIE_JeB1HOEuYRuZoVJX2Lz0eh70hpa_hG2CdKJfCJyES5pUevBt5rfqBjk1ddyookhjc45yzsXtabYLmqOlMxOhJTyj7oPxOoONFf8euskzM4fi6cFOV1xFM8ca3djOF/s1600/20%20ggrr.png\" style=\"max-width:100%;height:auto;\"><br>तो MDFHLTR को कैसे कोडबद्ध किया जाएगा?",
+    "options": [
+      "1. 9175320",
+      "2. 9175230",
+      "3. 9137502",
+      "4. 9175302"
+    ],
+    "answer": 3
+  }
 ]
-
-
         
         };
     
