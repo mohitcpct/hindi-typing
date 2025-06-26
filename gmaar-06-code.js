@@ -388,7 +388,7 @@
     "answer": 2
   },
   {
-    "q": "Each of the given letters has been assigned a unique number. Select the combination of numbers such that the corresponding letters when arranged accordingly will form a meaningful word. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTwQg0pCteSTcCKw8ZI9AEruv_YW5N903WSYl_OZ1FCKEdxe-4P4Y34Ad4ikbfr3_o4cWHxFsk39s15srmVEJhsuR4G9IUhyphenhyphenfX4FcRqJcTi0w23h0kWJAfrb8_q8el6yMxqzDCleaAe9R4ppYqrv2pgkLDaAEaAeouX_drn4TRvd5bCbQUuKyxDetyrW_S/s1600/19%20ggrr.png\" style=\"max-width:100%;height:auto;\">",
+    "q": "Each of the given letters has been assigned a unique number. Select the combination of numbers such that the corresponding letters when arranged accordingly will form a meaningful word. <br> <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTwQg0pCteSTcCKw8ZI9AEruv_YW5N903WSYl_OZ1FCKEdxe-4P4Y34Ad4ikbfr3_o4cWHxFsk39s15srmVEJhsuR4G9IUhyphenhyphenfX4FcRqJcTi0w23h0kWJAfrb8_q8el6yMxqzDCleaAe9R4ppYqrv2pgkLDaAEaAeouX_drn4TRvd5bCbQUuKyxDetyrW_S/s1600/19%20ggrr.png\" style=\"max-width:100%;height:auto;\">",
     "options": [
       "1. 1, 3, 4, 5, 6, 7, 2",
       "2. 2, 6, 4, 5, 1, 3, 7",
@@ -398,7 +398,7 @@
     "answer": 2
   },
   {
-    "q": "दिए गए प्रत्येक अक्षर को एक विशिष्‍ट संख्या दी गई है। संख्याओं का ऐसा संयोजन चुनें जिससे संगत अक्षरों को तदनुसार व्‍यवस्थित करने पर एक सार्थक शब्‍द बने। <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTwQg0pCteSTcCKw8ZI9AEruv_YW5N903WSYl_OZ1FCKEdxe-4P4Y34Ad4ikbfr3_o4cWHxFsk39s15srmVEJhsuR4G9IUhyphenhyphenfX4FcRqJcTi0w23h0kWJAfrb8_q8el6yMxqzDCleaAe9R4ppYqrv2pgkLDaAEaAeouX_drn4TRvd5bCbQUuKyxDetyrW_S/s1600/19%20ggrr.png\" style=\"max-width:100%;height:auto;\">",
+    "q": "दिए गए प्रत्येक अक्षर को एक विशिष्‍ट संख्या दी गई है। संख्याओं का ऐसा संयोजन चुनें जिससे संगत अक्षरों को तदनुसार व्‍यवस्थित करने पर एक सार्थक शब्‍द बने। <br> <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTwQg0pCteSTcCKw8ZI9AEruv_YW5N903WSYl_OZ1FCKEdxe-4P4Y34Ad4ikbfr3_o4cWHxFsk39s15srmVEJhsuR4G9IUhyphenhyphenfX4FcRqJcTi0w23h0kWJAfrb8_q8el6yMxqzDCleaAe9R4ppYqrv2pgkLDaAEaAeouX_drn4TRvd5bCbQUuKyxDetyrW_S/s1600/19%20ggrr.png\" style=\"max-width:100%;height:auto;\">",
     "options": [
       "1. 1, 3, 4, 5, 6, 7, 2",
       "2. 2, 6, 4, 5, 1, 3, 7",
