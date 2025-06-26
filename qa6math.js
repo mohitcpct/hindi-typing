@@ -184,7 +184,7 @@
     "answer": 3
   },
   {
-    "q": "यदि <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq_npYBHE6oSZdDz6a5IA2E7iL3y3k0mZM0v-U87H-nA2CjtWLLd4iBiHPhndX77YV_sTeGkxq6QqS5zSpW5f95zDQj7JmUv1HtzcJC-XDJrfrkG8kXRoUNe1PDObby8qHbjWgtFzE1jEv2YZAfDPPA02SRwDYgQ9wOAzI1U1dkeLiWitPRtkkYd01ZOh6/s320/sd34%20d.png\" style=\"max-width:100%;height:auto;\">का मान कितना होगा ?",
+    "q": "<img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq_npYBHE6oSZdDz6a5IA2E7iL3y3k0mZM0v-U87H-nA2CjtWLLd4iBiHPhndX77YV_sTeGkxq6QqS5zSpW5f95zDQj7JmUv1HtzcJC-XDJrfrkG8kXRoUNe1PDObby8qHbjWgtFzE1jEv2YZAfDPPA02SRwDYgQ9wOAzI1U1dkeLiWitPRtkkYd01ZOh6/s320/sd34%20d.png\" style=\"max-width:100%;height:auto;\">",
     "options": [
       "1. 0",
       "2. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhafgVexCAE6yHUJFM_Te-a9DR1PCSrWHRvfJeN1cL1Gfi2cAffhRl9k88ui4yXTHQx4UcFTRMHcjO2mhNRyprLYVFQHbaS3j2NVyy9vyQZmaasNgvCQAigGIYKxwHGuMaEhzPIbHKziidz53corfccvGeBaKQBmWPQXUEXK27uYQIbggBEH0zOhxP_w1ZK/s1600/128g.png\" style=\"max-width:100%;height:auto;\">",
@@ -194,7 +194,7 @@
     "answer": 1
   },
   {
-    "q": "<img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMKumkHV9XPpKSy33kXI1z23kgq-smiWbN5JBPip4v7x2TKRr4UCcqwfHH-LiFXMzVM2RRWlV48JKftz-adTiMOBc-jub8Dh6OvJzXGR52BRpPBxbH83qntdY8vxzVkovuOBqyYdP5Z5ixQZ_zokr1Uqg_v0bUNDiYQmGTzfNtasjq-9BWFjoPlVv8G1vz/s320/127g.png\" style=\"max-width:100%;height:auto;\">",
+    "q": "यदि '<img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMKumkHV9XPpKSy33kXI1z23kgq-smiWbN5JBPip4v7x2TKRr4UCcqwfHH-LiFXMzVM2RRWlV48JKftz-adTiMOBc-jub8Dh6OvJzXGR52BRpPBxbH83qntdY8vxzVkovuOBqyYdP5Z5ixQZ_zokr1Uqg_v0bUNDiYQmGTzfNtasjq-9BWFjoPlVv8G1vz/s320/127g.png\" style=\"max-width:100%;height:auto;\">' का मान कितना होगा ?",
     "options": [
       "1. 0",
       "2. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhafgVexCAE6yHUJFM_Te-a9DR1PCSrWHRvfJeN1cL1Gfi2cAffhRl9k88ui4yXTHQx4UcFTRMHcjO2mhNRyprLYVFQHbaS3j2NVyy9vyQZmaasNgvCQAigGIYKxwHGuMaEhzPIbHKziidz53corfccvGeBaKQBmWPQXUEXK27uYQIbggBEH0zOhxP_w1ZK/s1600/128g.png\" style=\"max-width:100%;height:auto;\">",
