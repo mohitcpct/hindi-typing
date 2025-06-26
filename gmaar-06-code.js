@@ -487,7 +487,130 @@
     ],
     "answer": 3
   }
+],
+   "15th March 2025 - Shift1": [
+  {
+    "q": "Select the option that is related to the third word in the same way as the second word is related to the first word. <br><br>Jungle : Zoo :: Sea : ?",
+    "options": [
+      "1. Aquarium",
+      "2. Harbor",
+      "3. Water",
+      "4. Fishery"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "उस विकल्‍प का चयन कीजिए जो तीसरे शब्‍द से उसी प्रकार संबंधित है जिस प्रकार दूसरा शब्‍द पहले शब्‍द से संबंधित है। <br><br>जंगल : चिड़ियाघर :: समुद्र : ?",
+    "options": [
+      "1. मछलीघर",
+      "2. बंदरगाह",
+      "3. पानी",
+      "4. मात्स्यिकी"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "If each of the 12 numbers on a watch is replaced by English vowels a, e, i, o, u in sequence (1 by a, 2 by e ,..., 5 by u, 6 by a, and so on), the hour hand will be between which pair of vowels at 9:30 a.m.?",
+    "options": [
+      "1. a and e",
+      "2. e and i",
+      "3. i and o",
+      "4. o and u"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "यदि किसी घड़ी पर अंकित 12 अंकों में से प्रत्येक अंक को अंग्रेजी स्‍वरों a, e, i , o, u से क्रमानुसार प्रतिस्थापित (1 को a से, 2 को e से ,... , 5 को u से, 6 को a से, और इसी प्रकार आगे अन्‍य) किया जाए, तो घंटे की सुई प्रातः 9:30 बजे स्‍वरों के किस युग्‍म के बीच होगी?",
+    "options": [
+      "1. a और e",
+      "2. e और i",
+      "3. i और o",
+      "4. o और u"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Select the word from the options that is similar to the given set of words and hence belongs to the same group. <br><br>Jute : Cotton : Wool",
+    "options": [
+      "1. Tyrolean",
+      "2. Silk",
+      "3. Rayon",
+      "4. Nylon"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "विकल्पों में से वह शब्‍द चुनिए जो शब्दों के दिए गए समूह के समान है और इस प्रकार उसी समूह से संबंधित है। <br><br>जूट : कपास : ऊन",
+    "options": [
+      "1. टायरोलीन",
+      "2. रेशम",
+      "3. रेयान",
+      "4. नायलॉन"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Four words have been given, out of which three are alike in some manner and one is different. Select the one that is different.",
+    "options": [
+      "1. Physics",
+      "2. Chemistry",
+      "3. Geography",
+      "4. Botany"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "चार शब्‍द दिए गए हैं, जिनमें से तीन किसी तरह से समान हैं और एक भिन्‍न है। भिन्‍न शब्‍द को चुनिए।",
+    "options": [
+      "1. भौतिक विज्ञान",
+      "2. रसायन विज्ञान",
+      "3. भूगोल",
+      "4. वनस्‍पति विज्ञान"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "This question consists of six statements followed by options consisting of three statements put together in a specific order. Select the option that indicates a valid argument containing logically related statements, that is, where the third statement is a conclusion drawn from the preceding two statements. <br><br>A: Some abra are dabra. <br>B: All abra are cabra. <br>C: All dabra are abra. <br>D: All dabra are not abra.<br>E: Some cabra are abra.<br>F: Some cabra are dabra.",
+    "options": [
+      "1. ABD",
+      "2. AEF",
+      "3. BCD",
+      "4. BCF"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "इस प्रश्‍न में छह कथन और उसके बाद विकल्‍प दिए गए हैं, तथा विकल्पों में तीन कथनों को एक विशिष्‍ट क्रम में एक साथ रखा गया है। वह विकल्‍प चुनें जो तार्किक रूप से संबंधित कथनों वाले वैध तर्क को इंगित करता है, अर्थात जहाँ तीसरा कथन पिछले दो कथनों से निकाला गया निष्‍कर्ष है। <br><br>A: कुछ आबरा, डाबरा हैं । <br>B: सभी आबरा, काबरा हैं ।<br>C: सभी डाबरा, आबरा हैं।<br>D: सभी डाबरा, आबरा नहीं हैं।<br>E: कुछ काबरा, आबरा हैं।<br>F: कुछ काबरा, डाबरा हैं ।",
+    "options": [
+      "1. ABD",
+      "2. AEF",
+      "3. BCD",
+      "4. BCF"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Four words have been given, out of which three are alike in some manner and one is different. Select the one that is different.",
+    "options": [
+      "1. Brisk",
+      "2. Nimble",
+      "3. Swift",
+      "4. Clumsy"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "चार शब्‍द दिए गए हैं, जिनमें से तीन किसी तरह से समान हैं और एक भिन्‍न है। भिन्‍न शब्‍द को चुनिए।",
+    "options": [
+      "1. तीव्र (Brisk)",
+      "2. तेज़ (Nimble)",
+      "3. स्विफ्ट (Swift)",
+      "4. भद्दा (Clumsy)"
+    ],
+    "answer": 3
+  }
 ]
+  
         
         };
     
