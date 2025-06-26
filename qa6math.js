@@ -184,7 +184,7 @@
     "answer": 3
   },
   {
-    "q": "<img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkyYpFpS5xm05h9dIudNPMH1s5fjGMtbdA_5UxJBqpsZq1uHiMFn4nuhLsl7uDvp2qkMclRwnYKg9XkWGJZjE6Sbm3PBPzQXM75-QUFBoK9Rf0di3hV4O7y9rCGok464GqSXK4l5sGGHgDejRKHnVXQdw6T-DaL7Da3H_Ibvm2ExbXLnAYKtrmSFql_IXm/s320/126g.png\" style=\"max-width:100%;height:auto;\">",
+    "q": "यदि <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq_npYBHE6oSZdDz6a5IA2E7iL3y3k0mZM0v-U87H-nA2CjtWLLd4iBiHPhndX77YV_sTeGkxq6QqS5zSpW5f95zDQj7JmUv1HtzcJC-XDJrfrkG8kXRoUNe1PDObby8qHbjWgtFzE1jEv2YZAfDPPA02SRwDYgQ9wOAzI1U1dkeLiWitPRtkkYd01ZOh6/s320/sd34%20d.png\" style=\"max-width:100%;height:auto;\">का मान कितना होगा ?",
     "options": [
       "1. 0",
       "2. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhafgVexCAE6yHUJFM_Te-a9DR1PCSrWHRvfJeN1cL1Gfi2cAffhRl9k88ui4yXTHQx4UcFTRMHcjO2mhNRyprLYVFQHbaS3j2NVyy9vyQZmaasNgvCQAigGIYKxwHGuMaEhzPIbHKziidz53corfccvGeBaKQBmWPQXUEXK27uYQIbggBEH0zOhxP_w1ZK/s1600/128g.png\" style=\"max-width:100%;height:auto;\">",
