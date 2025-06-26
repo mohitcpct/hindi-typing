@@ -448,7 +448,7 @@
     "answer": 0
   },
   {
-    "q": "<img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU1xEwC1OmQZYomawT22Jjo0c0y8jRzQL-O_qsgsy3icmusy0LQDNrDoOxPuMme_nu1aqIfZJriJzRURnJdTB1kzyoKY_uYuIhJlU5PBINzBs9cNNnbA_eAvOEvQszNcEkWOTgj6pF2henXfkTiLRf6-gqE0MSfHLADClypb_zioEmvUQtoV8ZuOZn_teT/s1600/14%20ggrr.png\" style=\"max-width:100%;height:auto;\">",
+    "q": "Select the option that satisfies the same conditions of the placement of the dots as shown in the given figure. <br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU1xEwC1OmQZYomawT22Jjo0c0y8jRzQL-O_qsgsy3icmusy0LQDNrDoOxPuMme_nu1aqIfZJriJzRURnJdTB1kzyoKY_uYuIhJlU5PBINzBs9cNNnbA_eAvOEvQszNcEkWOTgj6pF2henXfkTiLRf6-gqE0MSfHLADClypb_zioEmvUQtoV8ZuOZn_teT/s1600/14%20ggrr.png\" style=\"max-width:100%;height:auto;\">",
     "options": [
       "1. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij2MaAQEXC2War8CtHaZcYqIp2Eg2BJGM2swFaOfqtPL-Y3PjEzTvEgL4oxSFGRaNyzQg4Avwu2Li10WJJ1cXbVRhHbzpNOTn3LR1a0OXR2wGM4SpH6Qm1qBPP3NTbeFm9KHsF3EF7akpYoQjjX0n_rCGHlNrbBi528AotsjsqyXCmKR_L6lFLSibakyUm/s1600/15%20ggrr.png\" style=\"max-width:100%;height:auto;\">",
       "2. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQs9DssnM0zT3Il_LL2X1-hWFtGdugrD_yhKEXzDPjkQgF_jsJilkRN_GipqBn-XB_oo2WSG55a9_UZh_8Yk4wLpTfC6jKMEg87B2ygF_dmOABJKnQpZQwNkiq9N5yHT_0PY4q4s7DZixfySA-ZGKhArD0T7geRhjDuSb9T0Q5gHyBAQvmq2pz8twaEtPG/s1600/16%20ggrr.png\" style=\"max-width:100%;height:auto;\">",
@@ -458,7 +458,7 @@
     "answer": 3
   },
   {
-    "q": "<img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU1xEwC1OmQZYomawT22Jjo0c0y8jRzQL-O_qsgsy3icmusy0LQDNrDoOxPuMme_nu1aqIfZJriJzRURnJdTB1kzyoKY_uYuIhJlU5PBINzBs9cNNnbA_eAvOEvQszNcEkWOTgj6pF2henXfkTiLRf6-gqE0MSfHLADClypb_zioEmvUQtoV8ZuOZn_teT/s1600/14%20ggrr.png\" style=\"max-width:100%;height:auto;\">",
+    "q": "उस विकल्‍प का चययन करें जो यहॉं दिखाई गई आकृ‍ित के अनुसार बिंदु के प्‍लेसमेंट की समान शर्तो को पूर्ण करता है। <br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU1xEwC1OmQZYomawT22Jjo0c0y8jRzQL-O_qsgsy3icmusy0LQDNrDoOxPuMme_nu1aqIfZJriJzRURnJdTB1kzyoKY_uYuIhJlU5PBINzBs9cNNnbA_eAvOEvQszNcEkWOTgj6pF2henXfkTiLRf6-gqE0MSfHLADClypb_zioEmvUQtoV8ZuOZn_teT/s1600/14%20ggrr.png\" style=\"max-width:100%;height:auto;\">",
     "options": [
       "1. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij2MaAQEXC2War8CtHaZcYqIp2Eg2BJGM2swFaOfqtPL-Y3PjEzTvEgL4oxSFGRaNyzQg4Avwu2Li10WJJ1cXbVRhHbzpNOTn3LR1a0OXR2wGM4SpH6Qm1qBPP3NTbeFm9KHsF3EF7akpYoQjjX0n_rCGHlNrbBi528AotsjsqyXCmKR_L6lFLSibakyUm/s1600/15%20ggrr.png\" style=\"max-width:100%;height:auto;\">",
       "2. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQs9DssnM0zT3Il_LL2X1-hWFtGdugrD_yhKEXzDPjkQgF_jsJilkRN_GipqBn-XB_oo2WSG55a9_UZh_8Yk4wLpTfC6jKMEg87B2ygF_dmOABJKnQpZQwNkiq9N5yHT_0PY4q4s7DZixfySA-ZGKhArD0T7geRhjDuSb9T0Q5gHyBAQvmq2pz8twaEtPG/s1600/16%20ggrr.png\" style=\"max-width:100%;height:auto;\">",
