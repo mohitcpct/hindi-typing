@@ -609,6 +609,128 @@
     ],
     "answer": 3
   }
+],
+  "15th March 2025 - Shift2": [
+  {
+    "q": "Happiness' is related to 'Sorrow' in the same way as 'Comfort' is related to '_________'.",
+    "options": [
+      "1. Hardship",
+      "2. Rest",
+      "3. Poverty",
+      "4. Difficulty"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "'प्रसन्‍नत' का 'दुख' से वही संबंध है, जो संबंध 'आराम' का ________ से है।",
+    "options": [
+      "1. कष्‍ट",
+      "2. विश्राम",
+      "3. निर्धनता",
+      "4. कठिनाई"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Each of the given letters has been assigned a  unique number. Select the combination of numbers  such that the corresponding letters when arranged accordingly will form a meaningful word. <br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh_CeOdehNgts4W5zBIeTShn2AMDamPbH16Hx4NebT8ST0LAqj_vUL2P0AdzKZoxris8C_Sm7B0SgxmZSxWrMTu5vYuHqN4MOhFHB4RJYgUGAGJGMpsf8nuJYIhBIEa7y7_W9qNpo1L59frD6_VwGFT0fO6wVat8YtqlluXU6MFEonGmTHG1iE64oIGpfy/s1600/21%20ggrr.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. 1, 2, 6, 4, 3, 5",
+      "2. 4, 2, 6, 5, 3, 1",
+      "3. 5, 3, 6, 4, 2, 1",
+      "4. 6, 3, 1, 4, 2, 5"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "दिए गए प्रत्‍येक अक्षर को एक विशिष्‍ट संख्‍या दी गई है। संख्‍याअें के संयोजन का चयन इस प्रकर करें कि संगत अक्षरों को तदनुसार व्‍यवस्थित करने पर एक अर्थपूर्ण शब्‍द बने। <br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh_CeOdehNgts4W5zBIeTShn2AMDamPbH16Hx4NebT8ST0LAqj_vUL2P0AdzKZoxris8C_Sm7B0SgxmZSxWrMTu5vYuHqN4MOhFHB4RJYgUGAGJGMpsf8nuJYIhBIEa7y7_W9qNpo1L59frD6_VwGFT0fO6wVat8YtqlluXU6MFEonGmTHG1iE64oIGpfy/s1600/21%20ggrr.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. 1, 2, 6, 4, 3, 5",
+      "2. 4, 2, 6, 5, 3, 1",
+      "3. 5, 3, 6, 4, 2, 1",
+      "4. 6, 3, 1, 4, 2, 5"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Select the word from the options that is similar to the given set of words in a certain way and hence belongs to the same group. <br><br>Basket : Pail : Pan",
+    "options": [
+      "1. Spoon",
+      "2. Bowl",
+      "3. Fork",
+      "4. Knife"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "विकल्पों में से वह शब्‍द चुनिए जो किसी निश्चित तरीके से दिए गए शब्दों के समूह के समान है और इसलिए उसी समूह से संबंधित है।<br><br>टोकरी : डोल : पैन",
+    "options": [
+      "1. चम्‍मच",
+      "2. कटोरी",
+      "3. काँटा",
+      "4. चाकू"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Select the most appropriate description about the given set of words.<br><br>Colorado : Seine : Volga",
+    "options": [
+      "1. Ports",
+      "2. Rivers",
+      "3. Lakes",
+      "4. Harbours"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "शब्दों के दिए गए समूह के बारे में सबसे उपयु विवरण का चयन करें।<br><br>कोलोराडो : सीन : वोल्गा",
+    "options": [
+      "1. बंदरगाह",
+      "2. नदी",
+      "3. झील",
+      "4. हार्बर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Select the option that is true regarding the following two statements labelled Assertion (A) and Reason (R). <br><br>Assertion (A): Alcohol rather than mercury is used in a thermometer to measure a temperature of -60˚C. <br>Reason (R): Alcohol has a lower freezing point than mercury.",
+    "options": [
+      "1. Both A and R are true and R is the correct explanation of A.",
+      "2. Both A and R are true but R is not the correct explanation of A.",
+      "3. A is true but R is false.",
+      "4. A is false but R is true."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "उस विकल्‍प का चयन कीजिए जो अभिकथन (A) और कारण (R) नामक निम्‍नलिखित दो कथनों के संबंध में सत्‍य है।<br><br>अभिकथन (A): -60˚C के तापमान को मापने के लिए पारे के स्थान पर ऐल्कोहॉल का उपयोग थर्मामीटर में किया जाता है। <br>कारण (R): पारे की तुलना में ऐल्कोहॉल का हिमांक बिंदु कम होता है।",
+    "options": [
+      "1. A और R दोनों सत्‍य हैं और R, A का सही स्‍पष्टीकरण हैं।",
+      "2. A और R दोनों सत्‍य हैं परंतु R, A का सही स्‍पष्टीकरण नहीं हैं।",
+      "3. A सत्‍य है परंतु R असत्‍य है।",
+      "4. A असत्‍य है परंतु R सत्‍य है।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Select the option that satisfies the same conditions of the placement of the dots as shown in the given figure. <br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJHkMBGVXhGgKJbKZXZDj5KFwm7GvOQcpFNZY2uXMYKQTGv_8gCJLBjt-Vkii1KsR1tXWWQWmytR7daRH6Gg9_zbJLfJdDxIFnC8UhnLlBd9d8y1EkVbFKc3ONaRQ_cKnEwyTXlGZlkaBZKmFOdSA0dCfCt0CLwh-BHtY_yP_OnwoVedpnbLMQxEgf26ax/s1600/22%20ggrr.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuPYpQOmAMW0JXUHgcpBYSs0T2oC3blBiJdIr2RKrI9valZhc8ds_xuBi7MQ3WJLcHVBcEcK_AexWzI1RJrokX7FS0-Zdt-vsERfyHknR6axkeh1BhVx40CuK4VaegoyT4wzVDn-3oI8kWQbZb3zR-6gsFuswwjldxs_pMjNeWIyudM0WKTGIBXzNjB7uo/s1600/23%20ggrr.png\" style=\"max-width:100%;height:auto;\">",
+      "2. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbJJFFK2i5RJpFrGUptY8kt9-ZN6696FIuxDxWdUVSUs58TyJZzz-RZBdRmZtUvpnLFSR7feSWXGHTJ_SHukq7HmpzBiIN9po9mBNVeyFXtyU5_FdNa19iQsyHuglfLPm8eOlNzB7g-78bKRgnODud0MRcCooE0RjorDIjjeEnVlhFLxkaZ2w6aTxup_cl/s1600/24%20ggrr.png\" style=\"max-width:100%;height:auto;\">",
+      "3. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE0NFowBR10-xI67csYxdGc6jodCXxroLcY7l_pL1stVG_umt7baco-4iW8MnK003UdOEf-7NU5DmbuK1UEqjnvdsis_5ZMLZ75R9PZ2UQ4JPA1jfjHfC1K7Oic0x-ore0yOFfXvlS3nE0TfipD5k0DrN6RxUs0yHGKw-yG7UNrPjIXMrWEdH6XvJj90TE/s1600/25%20ggrr.png\" style=\"max-width:100%;height:auto;\">",
+      "4. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVVA1NlvQqlJH6P2jULG2VMggaDUfIW8WWuj76Hjij1bdJujnvuiIaCAGPjAldaEaUfUanE8NwlVMSdVq5OeCNsJ8dqNFNuky54uhkWhmBdpGyORSOO7621DBzPO0RMt5yjwvFkf7PFMfRujFGaklSQLBr-mL9TJlHBHwd2n0BPSL2n8-lLcM1A6UMo4Hw/s1600/26%20ggrr.png\" style=\"max-width:100%;height:auto;\">"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "उस विकल्‍प का चयन करें जो नीचे दर्शित चित्र के अनुसार बिंदुओं के स्थान-निर्धारण की समान शर्तों को पूर्ण करता है।<br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJHkMBGVXhGgKJbKZXZDj5KFwm7GvOQcpFNZY2uXMYKQTGv_8gCJLBjt-Vkii1KsR1tXWWQWmytR7daRH6Gg9_zbJLfJdDxIFnC8UhnLlBd9d8y1EkVbFKc3ONaRQ_cKnEwyTXlGZlkaBZKmFOdSA0dCfCt0CLwh-BHtY_yP_OnwoVedpnbLMQxEgf26ax/s1600/22%20ggrr.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuPYpQOmAMW0JXUHgcpBYSs0T2oC3blBiJdIr2RKrI9valZhc8ds_xuBi7MQ3WJLcHVBcEcK_AexWzI1RJrokX7FS0-Zdt-vsERfyHknR6axkeh1BhVx40CuK4VaegoyT4wzVDn-3oI8kWQbZb3zR-6gsFuswwjldxs_pMjNeWIyudM0WKTGIBXzNjB7uo/s1600/23%20ggrr.png\" style=\"max-width:100%;height:auto;\">",
+      "2. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbJJFFK2i5RJpFrGUptY8kt9-ZN6696FIuxDxWdUVSUs58TyJZzz-RZBdRmZtUvpnLFSR7feSWXGHTJ_SHukq7HmpzBiIN9po9mBNVeyFXtyU5_FdNa19iQsyHuglfLPm8eOlNzB7g-78bKRgnODud0MRcCooE0RjorDIjjeEnVlhFLxkaZ2w6aTxup_cl/s1600/24%20ggrr.png\" style=\"max-width:100%;height:auto;\">",
+      "3. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE0NFowBR10-xI67csYxdGc6jodCXxroLcY7l_pL1stVG_umt7baco-4iW8MnK003UdOEf-7NU5DmbuK1UEqjnvdsis_5ZMLZ75R9PZ2UQ4JPA1jfjHfC1K7Oic0x-ore0yOFfXvlS3nE0TfipD5k0DrN6RxUs0yHGKw-yG7UNrPjIXMrWEdH6XvJj90TE/s1600/25%20ggrr.png\" style=\"max-width:100%;height:auto;\">",
+      "4. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVVA1NlvQqlJH6P2jULG2VMggaDUfIW8WWuj76Hjij1bdJujnvuiIaCAGPjAldaEaUfUanE8NwlVMSdVq5OeCNsJ8dqNFNuky54uhkWhmBdpGyORSOO7621DBzPO0RMt5yjwvFkf7PFMfRujFGaklSQLBr-mL9TJlHBHwd2n0BPSL2n8-lLcM1A6UMo4Hw/s1600/26%20ggrr.png\" style=\"max-width:100%;height:auto;\">"
+    ],
+    "answer": 0
+  }
 ]
   
         
