@@ -406,6 +406,120 @@ demo4: {
   }
           ]
         }
+      },
+ 
+  demo5: {
+        label: "31th May 2025 - Shift 1",
+        hindi: {
+          passage: `दिए गए गद्यांश को पढ़ें और उसके आधार पर प्रश्नों के उत्तर दें।\n\nमेरा टहलना\n\nमेरे सारे जीवन के दौरान में एक टहलने वाला व्यक्ति रहा हूँ। आज तक, मैं न तो किसी कार, बस, ट्रैक्टर, हवाई जहाज, मोटरसाइकिल, ट्रक या स्टीमरोलर का मालिक रहा हूँ और न ही इन्हें चलाया है। चुनने के लिए मजबूर किए जाने पर मैं धीमी लेकिन स्थिर प्रगति के कारण स्टीम रोलर को चुनूंगा। और इस कारण से भी कि अन्य वाहन स्टीम-रोलर्स को सड़क से धक्का देकर हटाने की कोशिश भी नहीं कर पाते।\n\nएक संक्षिप्त अवधि के लिए, मेरी किशोर अवस्था में, मेरे पास एक साइकिल थी जिसकी में उस दिन तक सवारी करता रहा, जब तक कि मैं एक बैलगाड़ी से टकरा गया और मेरी नई साइकिल बर्बाद हो गई। बैल भयभीत हो गए और गाड़ी के साथ भाग गए, जबकि गुस्से में बैलगाड़ी चालक मुझे सड़क पर चलने के बारे में व्याख्यान दे रहा था।\n\nमेरी सबसे पुरानी यादें जामनगर नामक एक जगह की है। मेरे पिता कई भारतीय राजकुमारों और राजकुमारियों के लिए शिक्षक थे। यही वह जगह थी जहाँ मेरा चलना वास्तव में शुरु हुआ क्योंकि जामनगर विशाल महलों, लॉनों और बगीचों से भरा था। जब तक में चार वर्ष का था, तब तक में स्वयं ही इस क्षेत्र का अधिकतर भाग घूम रहा था, फिर पहली बार मेरा सामना एक साँप से हुआ। मुझ पर हमला करने के बजाय, उसने मुझे गुजर जाने दिया। जमीन के इतने निकट और हर गति के प्रति संवेदनशील रहते हुए उसे यह समझ आ गया होगा कि मैं उसके लिए कोई खतरा नहीं था।\n\nपास के समुद्र तट के किनारे घूमते हुए, सीपों को एकत्रित करते हुए, मुझे चलते समय जमीन पर नजर गड़ाए रखने की आदत बन गई थी। यह आदत नेरे पूरे जीवन में रही है। इसके परिणामस्वरूप मैंने कई अजीब चीजें इकट्ठी की जैसे कि सिक्के, चाबियाँ, कंचे, टूटी हुई चूड़ियाँ, कलम, सुंदर पत्थर, पंख, लेडीबर्ड! मेरे संग्रह को देखते हुए मेरे दोस्त जोर देते हैं कि मुझे एक मेटल डिटेक्टर का उपयोग करना चाहिए। लेकिन असली वज़ह यही है कि मैं नीचे देखते हुए चलता हूँ।\n\nकभी-कभी, मेरी इस आदत के परिणामस्वरूप मेरे गंतव्य पीछे छूट जाते हैं। और क्यों नहीं? इसका साधारण अर्थ एक नए और अलग गंतव्य, स्थलों और ध्वनियों की खोज करना है। मैं उन स्थानों को छोड़ देता यदि ठीक उसी स्थान पर चला जाता जहाँ मुझे जाना था। और मैं हर समय जमीन पर नहीं देखता रहता हूँ। मैं समय-समय पर दृष्टि उठाकर आस-पास से गुजरने वालों को भी देख लेता हूँ\n\nSub questions`,
+          questions: [
+           {
+    "q": "यदि कोई विकल्‍प दिया होता तो कथाकार किसे चलाता?",
+    "options": [
+      "1. हवाई जहाज",
+      "2. बैलगाड़ी",
+      "3. साइकिल",
+      "4. स्टीम रोलर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "दुर्घटना के बाद गाड़ी चालक ने कैसा अनुभव किया?",
+    "options": [
+      "1. प्रसन्‍न",
+      "2. क्रोधित",
+      "3. खुश",
+      "4. दुखी"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "इनमें से कौन-सा कथन गलत है?",
+    "options": [
+      "1. सांप, लड़के के लिए कोई खतरा नहीं बना।",
+      "2. सांप जमीन में कंपन महसूस कर सकते हैं।",
+      "3. लड़का, सांप के लिए कोई खतरा नहीं बना।",
+      "4. लड़का और सांप एक दूसरे से डर गए थे।"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कथाकार की आदत में क्या शामिल नहीं है?",
+    "options": [
+      "1. चलते समय जमीन पर देखना",
+      "2. उसके साथ एक धातु डिटेक्‍टर ले जाना",
+      "3. जमीन से वस्तुओं को उठाना",
+      "4. समुद्र तट के किनारे टहलते हुए सीपियां इकट्ठी करना"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "गद्यांश हमें कथाकार के बारे में क्या बताता है?",
+    "options": [
+      "1. वह गाड़ी चलाने का शौकीन है।",
+      "2. वह साँपों का शौकीन है।",
+      "3. वह साहस का शौकीन है।",
+      "4. वह जामनगर का शौकीन है।"
+    ],
+    "answer": 2
+  }
+]
+        },
+        english: {
+          passage: `Read the given passage and answer the questions that follow.\n\nMy walkabouts\n\nAll my life I have been a walking person. Up to this day, I have neither owned nor driven a car, bus, tractor, airplane, motorcycle, truck or steamroller. Forced to make a choice I would drive a steam-roller because of its slow but solid progress. And also because other vehicles don’t try pushing steamrollers off the road.\n\nFor a brief period, in my early teens, I had a bicycle which I used to ride until one day, I rammed into a bullock cart and ruined my new cycle. The bullocks panicked and ran away with the cart while the furious cart driver was giving me a lecture on road sense.\n\n My earliest memories are of a place called Jamnagar. My father was a tutor to several Indian princes and princesses. This was where my walking really began because Jamnagar was full of spacious palaces, lawns and gardens. By the time I was four, I was exploring much of this territory on my own. It was then that I encountered my first snake. Instead of striking me, it allowed me to pass. Living so close to the ground and sensitive to every movement, it must have known that I presented no threat.\n\n Walking along a nearby beach, collecting seashells, I had got into the habit of staring hard at the ground while walking. This habit has remained with me all my life. It has resulted in my picking up odd objects − coins, keys, marbles, broken bangles, pens, pretty stones, feathers, ladybirds! Looking at my collections my friends insist that I must be using a metal detector. But it is only because I keep my nose to the ground. \n\n Sometimes, my habit results in my walking some way past my destination. And why not? It simply means discovering a new and different destination, sights and sounds I would have missed if I had gone exactly where I was supposed to go. And I am not looking at the ground all the time. I look up from time to time to notice the faces of the passers-by. \n\nSub questions`,
+          questions: [
+            {
+    "q": "If given a choice, what would the narrator have driven?",
+    "options": [
+      "1. Airplane",
+      "2. Bullock cart",
+      "3. Cycle",
+      "4. Steamroller"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "How did the cart driver feel after the accident?",
+    "options": [
+      "1. Amused",
+      "2. Angry",
+      "3. Pleased",
+      "4. Sad"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following statements is FALSE?",
+    "options": [
+      "1. The snake posed no threat to the boy.",
+      "2. A snake can sense vibrations in the ground.",
+      "3. The boy posed no threat to the snake.",
+      "4. The boy and the snake were scared of each other."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The narrator is NOT in the habit of:",
+    "options": [
+      "1. looking at the ground while walking",
+      "2. carrying a metal detector with him",
+      "3. picking up objects from the ground",
+      "4. walking along the beach collecting seashells"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What does the passage tell us about the narrator?",
+    "options": [
+      "1. He is fond of driving.",
+      "2. He is fond of snakes.",
+      "3. He is fond of adventure.",
+      "4. He is fond of Jamnagar."
+    ],
+    "answer": 2
+  }
+]
+        }
       }
     };
 
