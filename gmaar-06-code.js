@@ -975,6 +975,129 @@
     ],
     "answer": 2
   }
+],
+
+  "21st March 2025 - Shift1": [
+  {
+    "q": "'Major' is related to 'Lieutenant' in the same way as 'Squadron Leader' is related to '__________'.",
+    "options": [
+      "1. Group Caption",
+      "2. Flying Attendant",
+      "3. Flying Officer",
+      "4. Pilot Officer"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "'मेजर' का 'लेफ़्टिनेंट' से वही संबंध है जो 'स्क्वाड्रन लीडर' का '________' से है।",
+    "options": [
+      "1. ग्रुप कैप्‍टन",
+      "2. फ्लाइंग अटेंडेंट",
+      "3. फ्लाइंग ऑफिसर",
+      "4. पायलट ऑफिसर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Each of the letters given below has been assigned a unique number. Select the combination of numbers such that the corresponding letters when arranged accordingly will form a meaningful word.<br><br>A E H R K N<br>1 2 3 4 5 6",
+    "options": [
+      "1. 3, 1, 6, 5, 2, 4",
+      "2. 4, 1, 5, 3, 2, 6",
+      "3. 5, 3, 1, 4, 2, 6",
+      "4. 6, 1, 5, 3, 4, 2"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "नीचे दिए गए प्रत्येक अक्षर को एक विशिष्‍ट संख्या निर्दिष्‍ट की गई है। संख्याओं के ऐसे संयोजन का चयन करें जिससे संगत अक्षरों को तदनुसार व्‍यवस्थित करने पर एक सार्थक शब्‍द बन जाए।<br><br>A E H R K N<br>1 2 3 4 5 6",
+    "options": [
+      "1. 3, 1, 6, 5, 2, 4",
+      "2. 4, 1, 5, 3, 2, 6",
+      "3. 5, 3, 1, 4, 2, 6",
+      "4. 6, 1, 5, 3, 4, 2"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Select the word from the options that is similar to the given set of words and hence belongs to the same group.<br><br>Daisy : Pansy : Rose",
+    "options": [
+      "1. Garden",
+      "2. Tree",
+      "3. Violet",
+      "4. Red"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "विकल्पों में से वह शब्‍द चुनिए जो दिए गए शब्दों के समूह के समान है और इसलिए उसी समूह से संबंधित है।<br><br>डेज़ी : पैन्सी : गुलाब",
+    "options": [
+      "1. बगीचा",
+      "2. वृक्ष",
+      "3. बैंगनी",
+      "4. लाल"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Select the most appropriate description about the given set of words.<br><br>Stirrup : Anvil : Drum",
+    "options": [
+      "1. They are used by riders.",
+      "2. They are parts of the ear.",
+      "3. They are musical instruments.",
+      "4. They are used by folk artists."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्‍न शब्‍द समूह का सही विवरण करने वाले विकल्‍प का चयन कीजिए।<br><br>स्टिरप : ऐन्विल : ड्रम",
+    "options": [
+      "1. इनका उपयोग सवार द्वारा किया जाता है",
+      "2. ये कान के भाग हैं",
+      "3. ये संगीत वाद्ययंत्र हैं",
+      "4. इनका उपयोग लोक कलाकारों द्वारा किया जाता है"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Select the option that is true regarding the following two statements labelled Assertion (A) and Reason (R).<br><br>Assertion (A): Indian President is the head of the State.<br>Reason (R): Indian Parliament consists of President, Lok Sabha and Rajya Sabha.",
+    "options": [
+      "1. Both A and R are true and R is the correct explanation of A.",
+      "2. Both A and R are true but R is not the correct explanation of A.",
+      "3. A is true but R is false.",
+      "4. A is false but R is true."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "उस विकल्‍प का चयन कीजिए जो अभिकथन (A) और कारण (R) नामक निम्‍नलिखित दो कथनों के संबंध में सत्‍य है।<br><br>अभिकथन (A): भारतीय राष्ट्रपति राज्‍य का प्रमुख होता है।<br>कारण (R): भारतीय संसद में राष्ट्रपति , लोकसभा और राज्‍य सभा शामिल होते हैं।",
+    "options": [
+      "1. A और R दोनों सत्‍य हैं और R, A का सही स्‍पष्टीकरण है।",
+      "2. A और R दोनों सत्‍य हैं परंतु R, A का सही स्‍पष्टीकरण नहीं है।",
+      "3. A सत्‍य है परंतु R असत्‍य है।",
+      "4. A असत्‍य है परंतु R सत्‍य है।"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Select the option which satisfies the same conditions of placement of the dot as in figure shown here. <br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaejhscIaIbh1O3YvchrmrsugbaEzFGdhLKK92Mro-9XKp_4y_29UYXHBH-7RyOcp2JHLG9O0cPSp4Fy5i_hKMSJN4USnCX4ij17FbvZguXOyA0iCTEoyjJX11DQiJVagdLrLEVQmy16rzRrfCTkc6dwdv_7vepREteBqu8QSXfrbxQxW_M9oi0feSVo5Q/s1600/130%20rtt.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJUXt0Mjb2htwj0LnDQSpkI0mrhjI4Uj7gTqfj9EDxe7SP7mpAWrILYK5OKyi6uy2fnV1RsBno-JkHf1eAs4AmSBDzmOUxCaNQ-YoL-Qutu5iSTPxa8h6NfK08dKH9a0viXeTfmziR1xkC-krU34fKHaCZq-h88vwV1kxKEpk6lwB07osLl_Cc3rXnlHLl/s1600/131%20rtt.png\" style=\"max-width:100%;height:auto;\">",
+      "2. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4C8iIXFZeTnQVquRf3w8dVoQh4DcWTfr6SrHwq9kR6fhdQ7yp2Dwfdarpj8CckjnxPkUitfW_11DoYCyj8NKp6bxON4xwfLDY7sRJYOWfisg9e7kP-FE6FOIzvakUzGWcLjc1nrLfUiT6A02ny3GwU5ZBi_NmfgxvM4e5qgY8buJVt4HOYmF1WESKQN77/s1600/132%20rtt.png\" style=\"max-width:100%;height:auto;\">",
+      "3. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEib-xEdoHr1niHhWzF95LMyiR8dldnKgS5OLKB9L8oW13wXlLx6Uvq2J_c0NjGV47AvdJdpi7GZCobbhWJZ6f0UFJKZhcJ_Z6Ip_ZjaA6Q66VXwDhbn7gRrr3On3vAqgorZxPeXB2GIxbSZ4SrEPrUnIBNOJZkroid_8WNUqxaCDOGSASYexhwoEHrD5seA/s1600/133%20rtt.png\" style=\"max-width:100%;height:auto;\">",
+      "4. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnLy0huzb-zJ9_m0ynym0fLbT1LRu-IChMZJvw9OFGpENMZDFETdVvSmYkengnGXOb0aObQouPT1MAfeg79kf6Qq9L2kR5iWMIvBdPGcm9HKq52-ZyIeQNNhRa32pSsini6HcB9-ntVC7E4-XQgox38W_Plk3wEPM_iArpxRT2rcCvvexP6U6nTdwuLjg1/s1600/134%20rtt.png\" style=\"max-width:100%;height:auto;\">"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "उस विकल्‍प का चयन करें जो नीचे प्रदर्शित चित्र के अनुसार बिंदुओं के स्थान-निर्धारण की समान शर्तों को पूर्ण करता है।<br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaejhscIaIbh1O3YvchrmrsugbaEzFGdhLKK92Mro-9XKp_4y_29UYXHBH-7RyOcp2JHLG9O0cPSp4Fy5i_hKMSJN4USnCX4ij17FbvZguXOyA0iCTEoyjJX11DQiJVagdLrLEVQmy16rzRrfCTkc6dwdv_7vepREteBqu8QSXfrbxQxW_M9oi0feSVo5Q/s1600/130%20rtt.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJUXt0Mjb2htwj0LnDQSpkI0mrhjI4Uj7gTqfj9EDxe7SP7mpAWrILYK5OKyi6uy2fnV1RsBno-JkHf1eAs4AmSBDzmOUxCaNQ-YoL-Qutu5iSTPxa8h6NfK08dKH9a0viXeTfmziR1xkC-krU34fKHaCZq-h88vwV1kxKEpk6lwB07osLl_Cc3rXnlHLl/s1600/131%20rtt.png\" style=\"max-width:100%;height:auto;\">",
+      "2. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4C8iIXFZeTnQVquRf3w8dVoQh4DcWTfr6SrHwq9kR6fhdQ7yp2Dwfdarpj8CckjnxPkUitfW_11DoYCyj8NKp6bxON4xwfLDY7sRJYOWfisg9e7kP-FE6FOIzvakUzGWcLjc1nrLfUiT6A02ny3GwU5ZBi_NmfgxvM4e5qgY8buJVt4HOYmF1WESKQN77/s1600/132%20rtt.png\" style=\"max-width:100%;height:auto;\">",
+      "3. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEib-xEdoHr1niHhWzF95LMyiR8dldnKgS5OLKB9L8oW13wXlLx6Uvq2J_c0NjGV47AvdJdpi7GZCobbhWJZ6f0UFJKZhcJ_Z6Ip_ZjaA6Q66VXwDhbn7gRrr3On3vAqgorZxPeXB2GIxbSZ4SrEPrUnIBNOJZkroid_8WNUqxaCDOGSASYexhwoEHrD5seA/s1600/133%20rtt.png\" style=\"max-width:100%;height:auto;\">",
+      "4. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnLy0huzb-zJ9_m0ynym0fLbT1LRu-IChMZJvw9OFGpENMZDFETdVvSmYkengnGXOb0aObQouPT1MAfeg79kf6Qq9L2kR5iWMIvBdPGcm9HKq52-ZyIeQNNhRa32pSsini6HcB9-ntVC7E4-XQgox38W_Plk3wEPM_iArpxRT2rcCvvexP6U6nTdwuLjg1/s1600/134%20rtt.png\" style=\"max-width:100%;height:auto;\">"
+    ],
+    "answer": 2
+  }
 ]
   
         
