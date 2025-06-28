@@ -853,6 +853,128 @@
     ],
     "answer": 2
   }
+],
+   "16th March 2025 - Shift2": [
+  {
+    "q": "'Cup' is related to 'Crockery' in the same way as 'Pen' is related to",
+    "options": [
+      "1. Books",
+      "2. Paper",
+      "3. Ink",
+      "4. Stationery"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "'कप' का संबंध 'क्रॉकरी ' से उसी प्रकार है जैसे 'पेन' का संबंध __________ से है",
+    "options": [
+      "1. किताबों",
+      "2. कागज़",
+      "3. स्याही",
+      "4. स्टेशनरी"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Each of the given letters has been assigned a unique number. Select the combination of numbers such that the corresponding letters when arranged accordingly will form a meaningful word. <br> <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCGQymK4LCHl5EwUB6kWCl_kKEyiimczWfoLy2HoYEqeZVdnAgPf7MEcSNUzoSK1p2LIBYDZxbXXDdlX9XmKgYBDJdUPEi2DtqsILKFmRmrEOy7H5qw5a8kxWiq86lIcrBSWn82FWhUlgrkpteH5NXrbeZwbddb_V_NskARNgPWKIT11148t8FXrsCM3ub/s1600/12rt.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. 1, 6, 2, 3, 5, 4",
+      "2. 3, 6, 2, 4, 5, 1",
+      "3. 4, 5, 3, 6, 2, 1",
+      "4. 5, 4, 3, 6, 2, 1"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "दिए गए प्रत्‍येक अक्षर को एक विशिष्‍ट संख्‍या दी गई है। संख्‍याओं के संयोजन का चयन इस प्रकार करें कि संगत अक्षरों को तदनुसार व्‍यवस्थित करने पर एक अर्थपूर्ण शब्‍द बने। <br> <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCGQymK4LCHl5EwUB6kWCl_kKEyiimczWfoLy2HoYEqeZVdnAgPf7MEcSNUzoSK1p2LIBYDZxbXXDdlX9XmKgYBDJdUPEi2DtqsILKFmRmrEOy7H5qw5a8kxWiq86lIcrBSWn82FWhUlgrkpteH5NXrbeZwbddb_V_NskARNgPWKIT11148t8FXrsCM3ub/s1600/12rt.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. 1, 6, 2, 3, 5, 4",
+      "2. 3, 6, 2, 4, 5, 1",
+      "3. 4, 5, 3, 6, 2, 1",
+      "4. 5, 4, 3, 6, 2, 1"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Select the word from the options that is similar to the given set of words in a certain way.<br>Flood : Fire : Cyclone",
+    "options": [
+      "1. Damage",
+      "2. Earthquake",
+      "3. Rain",
+      "4. Accident"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "दिए गए विकल्पों में से उस शब्‍द का चयन कीजिए जो दिए गए शब्दों के समुच्‍यय के समान है।<br>बाढ़ : आग : चक्रवात",
+    "options": [
+      "1. क्षति",
+      "2. भूकंप",
+      "3. बारिश",
+      "4. दुर्घटना"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Select the option that is true regarding the following two statements labelled Assertion (A) and Reason (R).<br><br>Assertion (A): In India, females have higher life expectancy than the males.<br>Reason (R): Females receive a better diet.",
+    "options": [
+      "1. Both A and R are true and R is the correct explanation of A.",
+      "2. Both A and R are true but R is not the correct explanation of A.",
+      "3. A is true but R is false",
+      "4. Both A and R are false"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "उस विकल्‍प का चयन कीजिए जो अभिकथन (A) और कारण (R) नामक निम्‍नलिखित दो कथनों के संबंध में सत्‍य है।<br><br>अभिकथन (A): भारत में, पुरूषों की तुलना में महिलाओं की जीवन प्रत्‍याशा अधिक होती है।<br>कारण (R): महिलाओं को बेहतर आहार मिलता है।",
+    "options": [
+      "1. A और R दोनों सत्‍य हैं और R, A का सही स्‍पष्टीकरण हैं।",
+      "2. A और R दोनों सत्‍य हैं परंतु R, A का सही स्‍पष्टीकरण नहीं हैं।",
+      "3. A सत्‍य है परंतु R असत्‍य है।",
+      "4. A और R दोनों असत्‍य है।"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Select the option that satisfies the same conditions of the placement of the dots as shown in the given figure. <br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQazzOq1tXHDCp7hjUKH4WBwMoyQmt45oB3qI81PIp_7BkBP16vLZVo7J4cDUt3pMVSqcx1dUScszesCo2-amg-6HaXVDw0zxWHT_IMnew_KFF7J_IHO48zwKtm-Fe2Zz3MIEhnoQ3TN-r8vkjBQHXP78NgdYhbUXX0tfe70wAv38p0n_4IvZsUNCwg2xn/s1600/13rt.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieuQBdCIdsM-K1j-KeL4sj6-Pncd7YmS4QOdMouQUuQXpuNgZ-oC4fdNoBg0xVjwzBZRN-9woYwHjvgeUZTkRWF1IVGfHkiT_gn002-dadYFma4ynXV1d_lPEzNrEXKx3iwQbJxM1_hGuCC1bXUwMqZTCT41AntsASJWin3-soG-RHrLB9-WXlCLcyhofC/s1600/14rt.png\" style=\"max-width:100%;height:auto;\">",
+      "2. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIhsX091i-kaXrHeSgkkX2atFZhusNCteKDFRbc21oSj1u2xUZGlmWyMkr5cZTbqWBzHsytpSk4SCLQM7ZQWi5VoegE_60Ra4tcmmtaT1vVMnWxjONGo0R-ZWwrpUx6A8RUbzPNtrdZF2_EHs73cNkxtO_swwafw2y1jOFV3tvAR3CWSD-_J2JYObCLbJe/s1600/15rt.png\" style=\"max-width:100%;height:auto;\">",
+      "3. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgA8w53j2MGfj9L7IT633unItF1SzkRiON-OhGgAZ66Wj9-lE1FwfVs7NPOFLk1DvSeWd_kg6RgPWLCFCx6OaQgvIhslLCNtCPiFOhXJ5-OKsW_SDtuzOoCVj_Th2bW0drcwM5B59EruwwdL5JWaO8n3L1tbtU-WBGNRzzY3yoqLWJ-Z1t7Hir5-ZIe_Lr/s1600/16rt.png\" style=\"max-width:100%;height:auto;\">",
+      "4. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSnLdBIJICTMvd6wkAWY9PHcUW4oHYQSwpltFTw3Me7nGVtcnRUyEIbpoExdsSklvbmRxsaKW27CUlgz2LW4Rg0njxvVoklDio8DiuiMwixwiCxuTdqimoqFh7liYx7h3DktlRsDS2DpvjpLCHesEgAxUUKV0FWxBCCvJWtxAMTYmarc_nKdbSjGUq6r8z/s1600/17rt.png\" style=\"max-width:100%;height:auto;\">"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "उस विकल्‍प का चयन करें जो नीचे प्रदर्शित चित्र के अनुसार बिंदुओं के स्थान-निर्धारण की समान शर्तों को पूर्ण करता है। <br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQazzOq1tXHDCp7hjUKH4WBwMoyQmt45oB3qI81PIp_7BkBP16vLZVo7J4cDUt3pMVSqcx1dUScszesCo2-amg-6HaXVDw0zxWHT_IMnew_KFF7J_IHO48zwKtm-Fe2Zz3MIEhnoQ3TN-r8vkjBQHXP78NgdYhbUXX0tfe70wAv38p0n_4IvZsUNCwg2xn/s1600/13rt.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieuQBdCIdsM-K1j-KeL4sj6-Pncd7YmS4QOdMouQUuQXpuNgZ-oC4fdNoBg0xVjwzBZRN-9woYwHjvgeUZTkRWF1IVGfHkiT_gn002-dadYFma4ynXV1d_lPEzNrEXKx3iwQbJxM1_hGuCC1bXUwMqZTCT41AntsASJWin3-soG-RHrLB9-WXlCLcyhofC/s1600/14rt.png\" style=\"max-width:100%;height:auto;\">",
+      "2. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIhsX091i-kaXrHeSgkkX2atFZhusNCteKDFRbc21oSj1u2xUZGlmWyMkr5cZTbqWBzHsytpSk4SCLQM7ZQWi5VoegE_60Ra4tcmmtaT1vVMnWxjONGo0R-ZWwrpUx6A8RUbzPNtrdZF2_EHs73cNkxtO_swwafw2y1jOFV3tvAR3CWSD-_J2JYObCLbJe/s1600/15rt.png\" style=\"max-width:100%;height:auto;\">",
+      "3. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgA8w53j2MGfj9L7IT633unItF1SzkRiON-OhGgAZ66Wj9-lE1FwfVs7NPOFLk1DvSeWd_kg6RgPWLCFCx6OaQgvIhslLCNtCPiFOhXJ5-OKsW_SDtuzOoCVj_Th2bW0drcwM5B59EruwwdL5JWaO8n3L1tbtU-WBGNRzzY3yoqLWJ-Z1t7Hir5-ZIe_Lr/s1600/16rt.png\" style=\"max-width:100%;height:auto;\">",
+      "4. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSnLdBIJICTMvd6wkAWY9PHcUW4oHYQSwpltFTw3Me7nGVtcnRUyEIbpoExdsSklvbmRxsaKW27CUlgz2LW4Rg0njxvVoklDio8DiuiMwixwiCxuTdqimoqFh7liYx7h3DktlRsDS2DpvjpLCHesEgAxUUKV0FWxBCCvJWtxAMTYmarc_nKdbSjGUq6r8z/s1600/17rt.png\" style=\"max-width:100%;height:auto;\">"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "If in a certain language, BAT is coded as 23 and COLD is coded as 34, then how will PRETTY be coded in that language?",
+    "options": [
+      "1. 100",
+      "2. 84",
+      "3. 104",
+      "4. 78"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "यदि एक निश्चित भाषा में, BAT को 23 और COLD को 34 के रूप में कूटबद्ध किया जाता है, तो उस भाषा में PRETTY को कैसे कूटबद्ध किया जाएगा?",
+    "options": [
+      "1. 100",
+      "2. 84",
+      "3. 104",
+      "4. 78"
+    ],
+    "answer": 2
+  }
 ]
   
         
