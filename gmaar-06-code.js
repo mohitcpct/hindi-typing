@@ -1464,6 +1464,128 @@
     ],
     "answer": 1
   }
+],
+   "11th January 2025 - Shift2 PwD": [
+  {
+    "q": "Among the following words, which one will come second if they are arranged as per their order in an English dictionary?",
+    "options": [
+      "1. Fraudulent",
+      "2. Fraught",
+      "3. Fraternity",
+      "4. Franchise"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "चार शब्द दिये गये हैं। यदि सभी शब्दों को एक शब्दकोश के अनुसार वर्णानुक्रम में व्यवस्थित किया जाता है, तो दूसरे स्थान पर कौन सा शब्द आयेगा?",
+    "options": [
+      "1. Fraudulent",
+      "2. Fraught",
+      "3. Fraternity",
+      "4. Franchise"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Select the option that is related to the third word in the same way as the second word is related to the first word.<br><br>Igloos : Canada :: Rondavels : ?",
+    "options": [
+      "1. Africa",
+      "2. Rangoon",
+      "3. Russia",
+      "4. Indonesia"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "उस विकल्प का चयन करें जो तीसरे शब्द से उसी प्रकार संबंधित है जैसे दूसरा शब्द पहले शब्द से संबंधित है।<br><br>इग्लू : कनाडा :: रोंडावेल्स : ?",
+    "options": [
+      "1. अफ्रीका",
+      "2. रंगून",
+      "3. रूस",
+      "4. इंडोनेशिया"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Select the option that means the same as each of the given words. <br><br>Canoe, Raft, Wangan",
+    "options": [
+      "1. Dinghy",
+      "2. Shallot",
+      "3. Canopy",
+      "4. Submarine"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "उस विकल्प का चयन करें जिसका अर्थ दिए गए प्रत्येक शब्द के समान है।<br><br>कनू (Canoe), राफ्ट (Raft), वांगन (Wangan)",
+    "options": [
+      "1. डोंगी (Dinghy)",
+      "2. छोटे प्याज़ (Shallot)",
+      "3. चंदवा (Canopy)",
+      "4. पनडुब्बी (Submarine)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Select the alternative with the most appropriate description about these three words.<br><br>Voodoo, Sorcery, Necromancy",
+    "options": [
+      "1. They are ancient arts found in sculptures.",
+      "2. They are terms connected with black magic.",
+      "3. They are ancient scripts.",
+      "4. They are means of communication of pre–historic age."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "इन तीन शब्दों के संबंध में सबसे उचित विवरण वाले विकल्प का चयन करें।<br><br>वूडू : जादू-टोना : प्रेत-विधा",
+    "options": [
+      "1. ये प्राचीन कलाएं हैं जो मूर्तियों में देखने को मिलती है।",
+      "2. ये काले जादू से जुड़े शब्द हैं।",
+      "3. ये प्राचीन लिपि हैं।",
+      "4. ये पूर्व-ऐतिहासिक युग के संचार का साधन हैं।"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Four words have been given out of which three are alike in some manner, while the fourth one is different. Select the word that is different.",
+    "options": [
+      "1. Cygnus",
+      "2. Orion",
+      "3. Scorpio",
+      "4. Vega"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "चार शब्द दिए गए हैं, जिनमें से तीन शब्द किसी रूप में एक समान हैं जबकि चौथा शब्द विभिन्न है। असमान शब्द का चयन करें।",
+    "options": [
+      "1. हंस (Cygnus)",
+      "2. मृग (Orion)",
+      "3. वृश्चिक (Scorpio)",
+      "4. वेगा (Vega)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Four pairs of words have been given, out of which three are alike in some manner and one is different. Select the word-pair that is different.",
+    "options": [
+      "1. Sahara : Africa",
+      "2. Thar : India",
+      "3. Kalahari : America",
+      "4. Gobi : Mongolia"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "शब्दों के चार जोड़े दिए गए हैं, जिनमें से तीन किसी तरह से समान हैं और एक अलग है। उस शब्द -युग्म का चयन करें जो भिन्न है।",
+    "options": [
+      "1. सहारा : अफ़्रीका",
+      "2. थार : भारत",
+      "3. कालाहारी : अमेरिका",
+      "4. गोबी : मंगोलिया"
+    ],
+    "answer": 2
+  }
 ]
   
         
