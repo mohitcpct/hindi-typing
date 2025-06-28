@@ -1342,6 +1342,128 @@
     ],
     "answer": 2
   }
+],
+  "11th January 2025 - Shift2": [
+  {
+    "q": "Select the option that is related to the third term in the same way as the second term is related to the first term.<br><br>Wine : Grapes :: Jaggery : ?",
+    "options": [
+      "1. Potatoes",
+      "2. Apples",
+      "3. Oranges",
+      "4. Sugarcane"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "उस विकल्प का चयन कीजिए जो तीसरे पद से उसी प्रकार संबंधित है जिस प्रकार दूसरा पद प्रथम पद से संबंधित है।<br><br>शराब : अंगूर :: गुड़ : ?",
+    "options": [
+      "1. आलू",
+      "2. सेब",
+      "3. संतरा",
+      "4. गन्ना"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In the following series of letters, a defined order exists. Which letters will be the next two letters in the correct order?<br><br>A J K T U B I L S V C H M R W D G N Q X E F O __ __",
+    "options": [
+      "1. PY",
+      "2. PZ",
+      "3. YZ",
+      "4. ZA"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित अक्षर-श्रृंखला में एक निश्चित क्रम मौजूद है। सही क्रम में अगले दो अक्षर कौन से होंगे?<br><br>A J K T U B I L S V C H M R W D G N Q X E F O __ __",
+    "options": [
+      "1. PY",
+      "2. PZ",
+      "3. YZ",
+      "4. ZA"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Select the option that is similar to the given set of words and hence belongs to the same group.<br><br>Calf, Kid, Pup",
+    "options": [
+      "1. Infant",
+      "2. Young",
+      "3. Larva",
+      "4. Animal"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "उस विकल्प का चयन करें जो शब्दों के दिए गए समूह के समान है और इस प्रकार उस समूह से संबंधित है।<br><br>बछड़ा, बच्चा, पिल्ला",
+    "options": [
+      "1. शिशु",
+      "2. युवा",
+      "3. लार्वा",
+      "4. जानवर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Four words have been given, out of which three are alike in some manner and one is different. Select the one that is different.",
+    "options": [
+      "1. Cap",
+      "2. Turban",
+      "3. Helmet",
+      "4. Veil"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "चार शब्द दिए गए हैं, जिनमें से तीन किसी तरह से समान हैं और एक भिन्न है। भिन्न शब्द को चुनिए।",
+    "options": [
+      "1. टोपी",
+      "2. पगड़ी",
+      "3. हेलमेट",
+      "4. घूंघट"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Four words have been given, out of which three are alike in some manner and one is different. Select the one that is different.",
+    "options": [
+      "1. Crimson",
+      "2. Scarlet",
+      "3. Vermillion",
+      "4. Red"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "चार शब्द दिए गए हैं, जिनमें से तीन किसी तरह से एकसमान हैं और एक भिन्न है। भिन्न शब्द को चुनिए।",
+    "options": [
+      "1. गहरा लाल (Crimson)",
+      "2. ककरेजी (Scarlet)",
+      "3. सिंदूर (Vermillion)",
+      "4. लाल (Red)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "This question contains six statements followed by options consisting of three statements put together in a specific order. Select the option that indicates a valid argument containing logically related statements, that is, where the third statement is a conclusion drawn from the preceding two statements.<br><br>A: Lizard are birds.<br>B: Some birds are ants.<br>C: Lizards are ants.<br>D: Some lizards are ants.<br>E: Some lizards are not ants.<br>F: No lizard is an ant.",
+    "options": [
+      "1. ACE",
+      "2. ADB",
+      "3. BAC",
+      "4. BFD"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "इस प्रश्न में छह कथन और उसके बाद विकल्प दिए गए हैं, तथा विकल्पों में तीन कथनों को एक विशिष्ट क्रम में एक साथ रखा गया है। वह विकल्प चुनें जो तार्किक रूप से संबंधित कथनों वाले वैध तर्क को इंगित करता है, अर्थात जहाँ तीसरा कथन पिछले दो कथनों से निकाला गया निष्कर्ष है।<br><br>A: छिपकलियाँ, पक्षी है।<br>B: कुछ पक्षी, चींटियाँ हैं।<br>C: छिपकलियाँ, चींटियाँ हैं।<br>D: कुछ छिपकलियाँ, चींटियाँ हैं।<br>E: कुछ छिपकलियाँ, चींटियाँ नहीं हैं।<br>F: कोई छिपकली, चींटी नहीं है।",
+    "options": [
+      "1. ACE",
+      "2. ADB",
+      "3. BAC",
+      "4. BFD"
+    ],
+    "answer": 1
+  }
 ]
   
         
