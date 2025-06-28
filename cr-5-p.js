@@ -746,6 +746,119 @@ demo5: {
   }
 ]
         }
+      },
+  demo8: {
+        label: "16th March 2025 - Shift 2",
+        hindi: {
+          passage: `दिए गए गद्यांश को पढ़ें और उसके आधार पर प्रश्नों के उत्तर दें।\n\nदर्द\n\nशारीरिक दर्द और पीड़ा मानव जीवन के दो पहलू हैं जिनसे हम आमतौर पर डरते हैं। शारीरिक दर्द शरीर से संबंधित है, जबकि पीड़ा दर्द के अनुभव के प्रति हमारी मानसिक और भावनात्मक प्रतिक्रिया है। क्या दर्द और पीड़ा किसी गहन उद्देश्य की पूर्ति करते हैं?\n\n'पेनः दि गिफ्ट नोबॅडी वॉन्ट्स [Pain: The Gift Nobody Wants]' नामक पुस्तक, डॉ. पॉल ब्रांड द्वारा लिखित है जिसमें वह शारीरिक दर्द के उद्देश्य और मूल्य का अन्वेषण करते हैं। उनका मत यह है कि दर्द एक बहुत ईमानदार मित्र है जो हमें शरीर के लिए कुछ खतरे की चेतावनी देता है और इस प्रकार हमें बचाता है। यदि दर्द के रूप में कोई चेतावनी नहीं होती, तो कोई जलती हुई वस्तु को पुनः प्राप्त करने के लिए किसी को आग में हाथ डालने से भी संकोच नहीं होता। हमारा हाथ जल जाता और हमें पता भी नहीं लगता। यह दर्द का डर है जो हमें खतरनाक वस्तुओं को पकड़ने से दूर रखता है। थोड़ा दर्द हमें एक बड़े नुकसान से बचाता है। जो बच्चे बहुत सारी मिठाई और चॉकलेट खाते हैं, अक्सर दाँत दर्द की शिकायत करते हैं। माता-पिता उन्हें तुरंत एक दंत चिकित्सक के पास ले जाते हैं। दंत चिकित्सक समस्या देखता है और इसे सही करने के लिए कदम उठाता है। यदि कोई दर्द नहीं होता, तो बच्चे के इसके बारे में कभी भी जाने बिना पूरा दाँत क्षयित हो सकता था।\n\nडॉ. ब्रांड को एक बार उन मरीजों के साथ कार्य करना पड़ा था जिन्होंने अपने अंगों में दर्द की संवेदना खो दी थी। उन्होंने उनमें से कुछ को विभाजित त्वचा और यहाँ तक कि खुली हड्डियों के साथ चलते देखा। उनकी हालत दिन-प्रतिदिन खराब हो रही थी लेकिन उन्हें इसके बारे में पता नहीं था। यदि वे दर्द का अनुभव करने में सक्षम होते तो वे इस दयनीय स्थिति को रोकने के लिए बहुत पहले खुद का ख्याल रख लेते। अक्सर यह एक आश्चर्य है कि दर्द का अनुभव इतना अप्रिय क्यों होना चाहिए?\n\nडॉ. ब्रांड समझाते हैं कि यह दर्द की अप्रियता है जो हमें बचाने में और हमें खतरे एवं चोट की चेतावनी देने में अत्यंत प्रभावी है। अप्रियता और असुविधा की भावना पूरे शरीर को दर्द के कारण जानने और तदनुसार कार्य करने के लिए मजबूर करती है। इसके अलावा, दर्द की स्मृति मस्तिष्क में संरक्षित होती है और भविष्य में हमें बचाती है।\n\nSub questions `,
+          questions: [
+     {
+    "q": "पीड़ा क्या है?",
+    "options": [
+      "1. दर्द के लिए मानसिक प्रतिक्रिया।",
+      "2. दर्द के लिए शारीरिक प्रतिक्रिया।",
+      "3. दर्द के लिए भावनाक प्रतिक्रिया।",
+      "4. दर्द के लिए मानसिक और भावनाक प्रतिक्रिया।"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "डॉ. ब्रांड के अनुसार इनमें से कौन-सा कथन सत्‍य नहीं है?",
+    "options": [
+      "1. दर्द हमें क्षति से बचाता है।",
+      "2. दर्द हमारा सबसे बड़ा शत्रु है।",
+      "3. दर्द एक चेतावनी संकेत है।",
+      "4. दर्द की अप्रियता हमें बचाती है।"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "दाँत दर्द  छद्म रूप में कैसे वरदान बन सकता है?",
+    "options": [
+      "1. यह क्षय की प्रक्रिया को धीमा कर देता है।",
+      "2. यह दाँत क्षय को रोकते हुए समय पर कार्रवाई करता है।",
+      "3. यह दंत चिकित्‍सक के लिए लाभदायक है।",
+      "4. यह दर्द सहन करने की क्षमता को बढ़ाता है।"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "विभाजित त्‍वचा वाले मरीज चारों ओर घूम सके क्योंकि :",
+    "options": [
+      "1. वे जानते थे कि उनका इलाज नहीं किया जा सका।",
+      "2. वे उपचार वहन नहीं कर सके।",
+      "3. वे अपने शरीर की क्षति के बारे में जागरूक नहीं थे।",
+      "4. वे असहनीय दर्द का अनुभव कर रहे थे।"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "दर्द के प्रति शरीर की तत्काल प्रतिक्रिया क्या है?",
+    "options": [
+      "1. यह दर्द का आदी हो जाता है।",
+      "2. यह दर्द के प्रति उदासीन हो जाता है।",
+      "3. यह दर्द के कारण का पता लगाता है और कार्य करता है।",
+      "4. यह अनुभव को स्मृति में संग्रहीत करता है।"
+    ],
+    "answer": 2
+  }
+]
+        },
+        english: {
+          passage: `Read the given passage and answer the questions. \n\nPain \n\nPhysical pain and suffering are two aspects of human life that we are usually scared of. Physical pain is related to the body, while suffering is our mental and emotional response to the experience of pain. Do pain and suffering serve any deeper purpose? \n\n ‘Pain: The Gift Nobody Wants’ is a book by Dr. Paul Brand where he explores the purpose and value of physical pain. He is of the opinion that pain is a very sincere friend that warns us of some danger to the body and thus protects us. If there were no warning in the form of pain, one would not hesitate to put one’s hand into the fire to retrieve a burning object. Our hand would get burned and we wouldn’t even know. It is the fear of pain that keeps us away from handling dangerous objects. A little pain saves us from a larger damage. Children who eat lots of sweets and chocolates often complain of toothache. Parents rush them to a dentist immediately. The dentist attends to the problem and takes steps to set it right. Had there been no pain, the entire tooth might have decayed without the child ever knowing about it.\n\nDr. Brand once had to work with some patients who had lost the sensation of pain in their limbs. He saw some of them walking with broken skin and even exposed bones. Their condition was getting worse day-by-day, but they were not aware of it. Had they been capable of experiencing pain they would have taken care of themselves long before to prevent this miserable condition. One often wonders why the experience of pain should be so unpleasant.\n\nDr. Brand explains that it is the unpleasantness of pain that makes it so effective in protecting us and warning us of danger and injury. The feeling of unpleasantness and discomfort forces the entire body to attend to the cause of pain and act accordingly. Besides, the memory of the pain gets preserved in the mind and protects us in the future.\n\nSub questions `,
+          questions: [
+            {
+    "q": "What is suffering?",
+    "options": [
+      "1. Mental response to pain.",
+      "2. Physical response to pain.",
+      "3. Emotional response to pain.",
+      "4. Mental and emotional response to pain."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "According to Dr. Brand, which of the following is NOT true?",
+    "options": [
+      "1. Pain saves us from damage.",
+      "2. Pain is our greatest enemy.",
+      "3. Pain is a warning signal.",
+      "4. Unpleasantness of pain protects us."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "How can toothache become a blessing in disguise?",
+    "options": [
+      "1. It slows down the process of decay.",
+      "2. It leads to timely action preventing tooth decay.",
+      "3. It is profitable for the dentist.",
+      "4. It increases the ability to bear pain."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The patients with broken skin could walk around because they:",
+    "options": [
+      "1. knew that they could not be treated",
+      "2. could not afford the treatment",
+      "3. were not aware of the damage to their body",
+      "4. were experiencing unbearable pain"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the body’s immediate response to pain?",
+    "options": [
+      "1. It becomes accustomed to pain.",
+      "2. It becomes indifferent to pain.",
+      "3. It attends to the cause of pain and acts.",
+      "4. It stores the experience to memory."
+    ],
+    "answer": 2
+  }
+]
+        }
       }
   
     };
