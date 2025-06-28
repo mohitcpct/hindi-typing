@@ -633,6 +633,119 @@ demo5: {
   }
 ]
         }
+      },
+  demo7: {
+        label: "16th March 2025 - Shift 1",
+        hindi: {
+          passage: `दिए गए गद्यांश को पढ़ें और उसके आधार पर प्रश्नों के उत्तर दें।\n\nबहुत समय पहले जापान के एक गांव में, गोम्बे नामक एक बहेलिया रहता था। सर्दियों के महीनों में जब झीलों में पानी जम जाता था, जंगली बतखों के झुंड हर रोज कीटों और छोटी मछलियों की तलाश में उड़ते हुए वहां आते थे।\n\nएक दिन गोम्बे ने सोचा, "मैं कितना मूर्ख हूँ कि में हर दिन इतनी भयंकर ठंड में घंटों इंतज़ार करने के बाद एक या दो बत्तखें ही पकड़ पाता हूँ। कितना अच्छा हो, यदि मैं एक दिन में सौ बत्तखें पकड़ पाऊं! मैं उन्हें बेचकर इतना पैसा कमा लूंगा कि मुझे अगले निन्यानबे दिनों तक काम करने की ज़रुरत नहीं होगी।\n\nअगले दिन गोम्बे ने बहुत सारी रस्सियां लीं और उन सभी में बत्तखों को जकड़ने वाली हल्की गांठें बनाकर एक जाल बुन लिया। ये जाल ऐसा था कि इस पर यदि बत्तखें एक बार पांव रखेंगी तो वह एक झटके में आसानी से उन्हें फंसा सकेगा। तभी एक बतख ने जाल पर कदम रखा और अपने पंख फरफड़ाते हुए वह जाल में गिर गई। एक और बतख नीचे गिरी, उसका भी पैर जाल में फंस गया था उसके बाद एक और बत्तख धीरे-धीरे आई और उसमें गिर गई। एक के बाद एक, पंख फड़फड़ाते, क्वैक-क्वैक करते हुए..... बत्तखें गोम्बे के जाल में फंसती गईं। \n"वाह! बढ़िया!" गोम्बे खुशी में चिल्लाया। "एक, दो, तीन.... नौ... बीस... छत्तीस... पैंतालीस." गोम्बे गिनती करते हुए बहुत खुश था। "मैं रस्सी केवल तभी खींचूंगा जब ये सौ हो जाएंगी! तब मैं निन्यानबे दिनों तक आराम से खाऊंगा-पियूंगा।"\n\nजैसे-जैसे और बत्तखें जाल में फंसती गईं, गोम्बे खुशी से नाचने और कूदने लगा। "छियासठ... सत्तर, पच्चासी... निन्यानबे,"; उसने गिना। अरे नहीं, सौ से केवल एक कम! ठंड से कांपता हुआ गोम्बे पैरों की ओर झुका और अपने हाथों को मसला, "एक और बत्तख फंसने तक इंतज़ार करता हूँ।" लेकिन आखिरी बतख नहीं आयी।\n\nअचानक, जोर से एक आवाज आई 'क्वाक क्वाक, क्वाक-क्वाक'! निन्यानबे बत्तखें पैरों में फंसी रस्सियों पर घिसटने लगीं। फिर सभी ने अचानक रस्सियों को अपने पैरों में कसके जकड़ा और पंखों की तेज़ गड़गड़ाहट के साथ जाल को लेकर आकाश में उड़ गईं। बेचारा गोम्बे जो रस्सियों को पकड़कर बैठा था, पक्षियों के साथ हवा में ऊपर उठ गया। उसने डरते हुए जाल छोड़ा क्योंकि वह हवा में काफी ऊपर उठ गया था!\n\nSub questions `,
+          questions: [
+     {
+    "q": "गोम्बे कौन था?",
+    "options": [
+      "1. एक पक्षी दर्शी",
+      "2. एक बहेलिया",
+      "3. एक पक्षी प्रेमी",
+      "4. एक पक्षी पालने वाला"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "गोम्बे सौ बत्‍तखें एकसाथ क्यों पकड़ना चाहता था?",
+    "options": [
+      "1. ताकि वह एक भव्‍य दावत का आनंद ले सके",
+      "2. ताकि वह बहुत अमीर बन सके",
+      "3. ताकि वह निन्यानबे दिन तक बिना काम किये आराम से खा सके",
+      "4. ताकि वह पक्षियों के साथ खेल सके"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "गोम्बे ने बत्‍तखों को कैसे पकड़ा?",
+    "options": [
+      "1. उनका पीछा करके",
+      "2. उन पर उछल कर",
+      "3. जाल फेंककर",
+      "4. हल्की गांठों का जाल बनाकर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "बत्‍तखों ने स्‍वयं को कैसे बचाया?",
+    "options": [
+      "1. रस्सियां काटकर",
+      "2. पंख फड़फड़ाकर",
+      "3. रस्सियों के साथ उड़कर",
+      "4. रस्सियों पर तेजी से घिसटकर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "उस विकल्‍प का चयन कीजिए जिसमें निम्‍न वाक्यों का सही अनुक्रम दिया गया है।<br><br>a. बखों ने रस्सियों को कसकर अपने पैरों में जकड़ा<br>b. एक-एक करके बतखें जाल में फंसती गईं<br>c. गोम्बे ने सौवीं बतख का इंतजार किया<br>d. बखें गोम्बे को साथ लेकर उड़ गईं",
+    "options": [
+      "1. badc",
+      "2. dacb",
+      "3. bcad",
+      "4. abcd"
+    ],
+    "answer": 2
+  }
+]
+        },
+        english: {
+          passage: `Read the given passage and answer the questions.\n\nLong ago in a village in Japan, there lived a bird catcher called Gombe. During the cold winter months when the water froze in the lakes, flocks of wild ducks came flying everyday in search of worms and small fish.\n\nOne day Gombe thought,"How foolish I am to stand for hours in the freezing cold every day to catch a duck or two! Oh, it would be wonderful if I could catch a hundred ducks in a single day! I could earn so much money by selling them that I would not need to work for the next ninety nine days.\n\nSo, the next day Gombe took many lengths of rope and made slip-knot traps at the end of each one. If the ducks stepped over these traps, a pull...a tug...and they would all be caught. Just then one duck stepped over the trap and fell over flapping its wings. Another duck flew down, caught its leg in the trap and tumbled. Then another came waddling and was caught too. One after the other, flippity flip, quackity quack....ducks fell into Gombe’s trap. "Wonderful! Fantastic!" cried Gombe in joy. "One, two, three....nine...twenty....thirty-six...forty-five," counted Gombe in delight. "I will pull the ropes only when there are a hundred! Then I will eat, drink and enjoy for ninety nine days."\n\nAs more and more ducks were caught, Gombe danced and jumped with joy. "Sixty-six...seventy, eighty-five...ninety-nine," he counted. Oh no, just one short of a hundred! Shivering with cold Gombe stamped his feet and rubbed his hands, "I will wait till I catch one more." But the last duck didn’t come.\n\nSuddenly, there was a loud sound, ‘quack quack , quackity-quack’! The ninety nine ducks tugged hard at the ropes caught around their feet. Then all at once they gave a final pull at the ropes and took off into the sky! There was a loud beating of wings as all the ninety nine ducks flew off together. Poor Gombe who was holding on tightly to the ropes rose into the air with the birds. He struggled hard to hang on as he was carried up, up and away into the sky!\n\nSub questions `,
+          questions: [
+            {
+    "q": "Who was Gombe?",
+    "options": [
+      "1. A bird watcher",
+      "2. A bird catcher",
+      "3. A bird lover",
+      "4. A bird tamer"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Gombe wanted to catch a hundred ducks together so that:",
+    "options": [
+      "1. he could enjoy a grand feast",
+      "2. he could become very rich",
+      "3. he could live ninety nine days without work",
+      "4. he could play with the birds"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Gombe caught the birds by:",
+    "options": [
+      "1. chasing them",
+      "2. pouncing on them",
+      "3. throwing a net",
+      "4. making slip-knot traps"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "How did the ducks escape?",
+    "options": [
+      "1. By cutting the ropes",
+      "2. By beating their wings",
+      "3. By flying away with the ropes",
+      "4. By tugging hard at the ropes"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following options gives the correct sequence?<br><br>a. The ducks pulled hard at the ropes<br>b. One by one the ducks fell into the traps<br>c. Gombe waited for the hundredth duck<b>d. They flew off together carrying Gombe with them",
+    "options": [
+      "1. badc",
+      "2. dacb",
+      "3. bcad",
+      "4. abcd"
+    ],
+    "answer": 2
+  }
+]
+        }
       }
   
     };
