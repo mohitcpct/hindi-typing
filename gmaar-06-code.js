@@ -1141,7 +1141,7 @@
     "answer": 3
   },
   {
-    "q": "Select the word from the options that is similar to the given set of words in a certain way and hence belongs to the same group.<br> Basic : Pascal : Fortran",
+    "q": "Select the word from the options that is similar to the given set of words in a certain way and hence belongs to the same group.<br><br> Basic : Pascal : Fortran",
     "options": [
       "1. Cyclotron",
       "2. Computer",
@@ -1151,7 +1151,7 @@
     "answer": 2
   },
   {
-    "q": "विकल्पों में से वह शब्‍द चुनिए जो किसी निश्चित तरीके से दिए गए शब्दों के समूह के समान है और इसलिए उसी समूह से संबंधित है। <br>बेसिक : पास्‍कल : फोरट्रान",
+    "q": "विकल्पों में से वह शब्‍द चुनिए जो किसी निश्चित तरीके से दिए गए शब्दों के समूह के समान है और इसलिए उसी समूह से संबंधित है। <br><br>बेसिक : पास्‍कल : फोरट्रान",
     "options": [
       "1. साइक्लोट्रोन",
       "2. कंप्यूटर",
@@ -1161,7 +1161,7 @@
     "answer": 2
   },
   {
-    "q": "Select the most appropriate description about the given set of words.<br>Harmattan : Chinook : Foehn",
+    "q": "Select the most appropriate description about the given set of words.<br><br>Harmattan : Chinook : Foehn",
     "options": [
       "1. Fishes",
       "2. Birds",
@@ -1171,7 +1171,7 @@
     "answer": 2
   },
   {
-    "q": "दिए गए शब्दों के समूह के बारे में सबसे उपयुक्‍त विवरण का चयन करें।<br>हरमट्टन : चिनूक : फोहेन",
+    "q": "दिए गए शब्दों के समूह के बारे में सबसे उपयुक्‍त विवरण का चयन करें।<br><br>हरमट्टन : चिनूक : फोहेन",
     "options": [
       "1. मछलियां",
       "2. पक्षी",
