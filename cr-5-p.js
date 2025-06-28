@@ -735,7 +735,7 @@ demo5: {
     "answer": 2
   },
   {
-    "q": "Which of the following options gives the correct sequence?<br><br>a. The ducks pulled hard at the ropes<br>b. One by one the ducks fell into the traps<br>c. Gombe waited for the hundredth duck<b>d. They flew off together carrying Gombe with them",
+    "q": "Which of the following options gives the correct sequence?<br><br>a. The ducks pulled hard at the ropes<br>b. One by one the ducks fell into the traps<br>c. Gombe waited for the hundredth duck <br> d. They flew off together carrying Gombe with them",
     "options": [
       "1. badc",
       "2. dacb",
