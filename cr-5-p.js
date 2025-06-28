@@ -520,6 +520,119 @@ demo5: {
   }
 ]
         }
+      },
+  demo6: {
+        label: "15th March 2025 - Shift 2",
+        hindi: {
+          passage: `दिए गए गद्यांश को पढ़ें और उसके आधार पर प्रश्नों के उत्तर दें।\n\nमार्को पोलो वेनिस, इटली में रहता था। वह तब सिर्फ सत्रह वर्ष का एक लड़का था, जब उसने अपनी यात्राएँ प्रारंभ कीं और तब वह बहुत मजबूत नहीं था। वह 1271 में अपने पिता और चाचा के साथ चीन के लिए रवाना हुआ। उन्हें पहाड़ों के ऊपर, भयानक रेगिस्तानों के पार, गर्म जलती भूमियों और उन स्थानों से होकर जाना पड़ा जहाँ जमा देने वाली ठंड थी। कई बार कठिन और खतरनाक यात्रा के कारण मार्को बीमार पड़ जाता, लेकिन वह बेहतर हो जाता और बहादुरी से आगे बढ़ता रहता। चीन पहुँचने में उन्हें तीन साल लगे, जहाँ चीन के राजा कुबलई खान ने उनका स्वागत किया।\n\nमार्को पोलो चीनी राज दरबार में बड़ा हुआ और राजा का पसंदीदा बन गया। उसने कई भाषाएँ बोलनी सीखी। वह इतना चतुर था कि राजा ने उसे भारत और अन्य देशों में अपने राजदूत के रूप में भेजा। प्रत्येक बार जब वह लौटा तो राजा को बताने के लिए उसके पास उन स्थानों के बारे में बहुत सारी चीजें होती थीं जिनका वह दौरा करता था-जैसे, वहाँ लोग कैसे रहते थे, उनके क्या व्यापार थे और उन्होंने राजा के लिए क्या संदेश भेजे। कुबलई खान इस जानकारी से इतना खुश था कि उसने मार्को पोलो पर धन का ढेर लगा दिया। \n\nपोलो चीन में खुश थे लेकिन वे वेनिस लौटने के लिए उत्सुक थे। यह 1295 था जब तीनों यात्री वेनिस लौटे। उनके कपड़े फटे हुए थे और वे अजीब भाषा बोलते थे। किसी ने उन्हें नहीं पहचाना क्योंकि वे इतने समय से दूर थे। यहां तक कि उनके परिवार ने उन्हें मरा हुआ समझकर छोड़ दिया था। मार्को अब एक अधेड़ उम्र का आदमी था। उन्होंने लोगों को चीन के बारे में अद्भुत बातें बताईं। उसने कहा, चीनी अपने हाथों से किताबें नहीं लिखते। उन्होंने एक समय में कई पुस्तके छापीं। वे समय बताने के लिए पानी से चलने वाली घड़ियों का उपयोग करते थे। उन्होंने बारूद नामक एक अजीब चीज़ से रंगीन आतिशबाज़ी बनाई।\n\nउस समय इटली में, किसी ने गनपाउडर (बारूद), प्रिंटिंग या घड़ियों के बारे में नहीं सुना था। उन्होंने सोचा कि तीन पुरुष पागल थे। यह सिद्ध करने के लिए कि वे कौन थे, मार्को पोलो ने अपने कपड़ों में पैच खोल दिए और हर किसी को आश्चर्यचकित करते हुए, हीरे, रूबी, मोती और नीलमणि नीचे गिरा दिए। ऐसे खजाने को देखकर लोग आश्चर्यचकित हुए। अब उन्होंने विश्वास किया कि अजनबी वास्तव में एक अद्भुत यात्रा से वापस लौटे, पोलो लोग थे।\n\n Sub questions`,
+          questions: [
+     {
+    "q": "पोलो का गंतव्‍य क्या था?",
+    "options": [
+      "1. वेनिस",
+      "2. भारत",
+      "3. चीन",
+      "4. इटली"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "कुबलई खान ने मार्को पोलो को बहुमूल्‍य उपहार दिए क्योंकि:",
+    "options": [
+      "1. वह कई भाषाएँ बोल सकता था।",
+      "2. उसने दूर देशों का दौरा किया।",
+      "3. उसने एक राजदूत के रूप में कार्य किया।",
+      "4. उसने राजा को मूल्‍यवान जानकारी दी।"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "पोलो घर से कितने वर्ष दूर रहा था?",
+    "options": [
+      "1. 22 वर्ष",
+      "2. 23 वर्ष",
+      "3. 24 वर्ष",
+      "4. 25 वर्ष"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "दिए गए गद्यांश के अनुसार इनमें से कौन-सा कथन गलत है?",
+    "options": [
+      "1. चीनियों ने अपनी किताबें मुद्रित कीं।",
+      "2. चीनियों ने बिजली की घड़ियों का उपयोग किया।",
+      "3. चीनियों ने गनपाउडर (बारूद) का आविष्कार किया।",
+      "4. चीनियों ने रंगीन आतिशबाजी निर्मित की।"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "आखिरकार पोलो लोगों की पहचान किससे सिद्ध हुई?",
+    "options": [
+      "1. उन्होंने चीनी भाषा बोली।",
+      "2. उनके पास कीमती रत्‍न थे।",
+      "3. वे फटे हुए कपड़े पहने थे।",
+      "4. उन्होंने विचित्र कहानियां सुनाईं।"
+    ],
+    "answer": 1
+  }
+]
+        },
+        english: {
+          passage: `Read the given passage and answer the questions.\n\nMarco Polo lived in Venice, Italy. He was just a boy of seventeen and not very strong when he set out on his travels. He left for China in 1271 along with his father and uncle. They had to go over the mountains, across terrible deserts, through hot burning lands and places where it was freezing cold. At times, Marco was ill on account of the hard and dangerous journey but he got better and kept moving on bravely. It took them three years to reach China where Kublai Khan, the king of China welcomed them.\n\nMarco Polo grew up at the Chinese court and became a great favourite of the king. He learnt to speak several languages. He was so clever that the king sent him to India and other lands as his ambassador. Each time when he returned he had lots of things to tell the king – about the places he had visited, how the people lived there, what their trades were and what messages they sent for the king. Kublai Khan was so happy with the information that he heaped riches on Marco Polo.\n\nThe Polos were happy in China but they longed to return to Venice. It was 1295 when the three travellers returned to Venice. Their clothes were tattered and they spoke a strange language. Nobody recognised them for they had been away so long. Even their family had given them up for dead. Marco was now a middle-aged man. He told the people wonderful things about China. The Chinese, he said, did not write books with their hands. They printed many books at a time. They used clocks powered by water to tell the time. They made colourful fireworks from a strange thing called gunpowder.\n\nAt that time in Italy, no one had heard about gunpowder, printing or clocks. They thought the three men were mad. In order to prove who they were, Marco Polo cut open the patches in his clothes and to everyone’s surprise, out fell diamonds, rubies, pearls and sapphires. People were amazed to see such treasures. Now they believed that the strangers were really the Polos back from a marvellous journey.\n\nSub questions `,
+          questions: [
+            {
+    "q": "What was the destination of the Polos?",
+    "options": [
+      "1. Venice",
+      "2. India",
+      "3. China",
+      "4. Italy"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Kublai Khan gave precious gifts to Marco Polo because:",
+    "options": [
+      "1. he could speak several languages",
+      "2. he visited far-away lands",
+      "3. he worked as an ambassador",
+      "4. he gave valuable information to the king"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The Polos had been away from home for:",
+    "options": [
+      "1. 22 years",
+      "2. 23 years",
+      "3. 24 years",
+      "4. 25 years"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following statements is FALSE as per the given passage?",
+    "options": [
+      "1. The Chinese printed their books.",
+      "2. The Chinese used electric clocks.",
+      "3. The Chinese invented gunpowder.",
+      "4. The Chinese made colourful fireworks."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What ultimately proved the identity of the Polos?",
+    "options": [
+      "1. They spoke in Chinese.",
+      "2. They possessed precious gems.",
+      "3. They wore tattered clothes.",
+      "4. They told strange tales."
+    ],
+    "answer": 1
+  }
+]
+        }
       }
   
     };
