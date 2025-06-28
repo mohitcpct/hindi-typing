@@ -1098,6 +1098,128 @@
     ],
     "answer": 2
   }
+],
+  "21st March 2025 - Shift2": [
+  {
+    "q": "'Chef' is related to 'Restaurant' in the same way as 'Druggist' is related to '_______'.",
+    "options": [
+      "1. Medicine",
+      "2. Pharmacy",
+      "3. Store",
+      "4. choreographer"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "'रसोइये' का 'रेस्‍तरां' से वही संबंध है जो संबंध 'औषधि-विक्रेता' का '________' से है।",
+    "options": [
+      "1. दवाई",
+      "2. फार्मेसी",
+      "3. स्टोर",
+      "4. कोरियोग्राफर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Each of the given letters has been assigned unique number. Select the combination of numbers such that the corresponding letters when arranged accordingly will form a meaningful word. <br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSQR4YLxjbYhR0cLxURJkik_g5rdSbQ0mK4E5AtlMGxxDNhn4hZMCNtd7SIzaa163UdL_44HJUbSqw2DMeDBkrz-eAGdrinlaAPHSygxWcX8pxKBKqDn2ynovXcWcV9RS6od3EJFuv2KLCXMxgcPIbv8Q3ygcit0WaRkbLDSjkqHgJUEtr83C_pUykf_P9/s1600/135%20rtt.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. 4, 6, 3, 5, 2, 1",
+      "2. 4, 6, 5, 2, 3, 1",
+      "3. 5, 2, 3, 1, 6, 4",
+      "4. 5, 6, 4, 1, 3, 2"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "दिए गए प्रत्‍येक अक्षर को एक विशिष्‍ट संख्‍या दी गई है। संख्‍याओं के संयोजन का चयन इस प्रकार करें कि संगत अक्षरों को तदनुसार व्‍यवस्थित करने पर एक अर्थपूर्ण शब्‍द बने। <br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSQR4YLxjbYhR0cLxURJkik_g5rdSbQ0mK4E5AtlMGxxDNhn4hZMCNtd7SIzaa163UdL_44HJUbSqw2DMeDBkrz-eAGdrinlaAPHSygxWcX8pxKBKqDn2ynovXcWcV9RS6od3EJFuv2KLCXMxgcPIbv8Q3ygcit0WaRkbLDSjkqHgJUEtr83C_pUykf_P9/s1600/135%20rtt.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. 4, 6, 3, 5, 2, 1",
+      "2. 4, 6, 5, 2, 3, 1",
+      "3. 5, 2, 3, 1, 6, 4",
+      "4. 5, 6, 4, 1, 3, 2"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Select the word from the options that is similar to the given set of words in a certain way and hence belongs to the same group.<br> Basic : Pascal : Fortran",
+    "options": [
+      "1. Cyclotron",
+      "2. Computer",
+      "3. COBOL",
+      "4. Calculator"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "विकल्पों में से वह शब्‍द चुनिए जो किसी निश्चित तरीके से दिए गए शब्दों के समूह के समान है और इसलिए उसी समूह से संबंधित है। <br>बेसिक : पास्‍कल : फोरट्रान",
+    "options": [
+      "1. साइक्लोट्रोन",
+      "2. कंप्यूटर",
+      "3. कोबोल (COBOL)",
+      "4. कैलकुलेटर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Select the most appropriate description about the given set of words.<br>Harmattan : Chinook : Foehn",
+    "options": [
+      "1. Fishes",
+      "2. Birds",
+      "3. Winds",
+      "4. Insects"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "दिए गए शब्दों के समूह के बारे में सबसे उपयुक्‍त विवरण का चयन करें।<br>हरमट्टन : चिनूक : फोहेन",
+    "options": [
+      "1. मछलियां",
+      "2. पक्षी",
+      "3. पवन",
+      "4. कीट"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Select the option that is true regarding the following two statements labelled Assertion (A) and Reason (R).<br><br>Assertion (A): There is no vaccine for AIDS.<br>Reason (R): The AIDS virus changes its genetic code.",
+    "options": [
+      "1. Both A and R are true and R is the correct explanation of A.",
+      "2. Both A and R are true but R is not the correct explanation of A.",
+      "3. A is true but R is false.",
+      "4. A is false but R is true."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "उस विकल्‍प का चयन कीजिए जो अभिकथन (A) और कारण (R) नामक निम्‍नलिखित दो कथनों के संबंध में सत्‍य है।<br><br>अभिकथन (A): एड्स के लिए कोई टीका नहीं है।<br>कारण (R): एड्स वायरस अपने आनुवंशिक कोड को बदलता है।",
+    "options": [
+      "1. A और R दोनों सत्‍य हैं और R, A का सही स्‍पष्टीकरण हैं।",
+      "2. A और R दोनों सत्‍य हैं परंतु R, A का सही स्‍पष्टीकरण नहीं हैं।",
+      "3. A सत्‍य है परंतु R असत्‍य है।",
+      "4. A असत्‍य है परंतु R सत्‍य है।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Select the option that satisfies the same conditions of the placement of the dots as shown in the given figure. <br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS5Sqbz9rsO9X-PdL6AAC3VP_Cf-Ew1Lf33ZzL3FTmvM-M27trBDF9rqHqJ1zGB8Tlv1CNGvC_ZVRhdVquIgkUTh-k7Drs3T_7rYiPARDSg5dO_LNEJDo0ar18pOtQsnFj9Ew1gktnFJnc011aHoYqZ47yHRkB8L2doDkBMfs9aWJmVgEGkW1xLR-wEywc/s1600/136%20rtt.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieaEoGIJcMc6yhoyCXKSPuyUyjAaEQesf4sq0HZsmsvmtjNjZ5A1AVLh7CmHC7kcL1s-tVPhnMrA_y2ee7_VBft6c2KcZmwjTYa38bwFuKsZZlFompU-8lmdkB9ZWKUhwq0mzJqIig65ObDVsz9P2qqrK8U_hBPnKasukR6CkRxUG33oOq62vqLAK725Lm/s1600/137%20rtt.png\" style=\"max-width:100%;height:auto;\">",
+      "2. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6SfqxVtuwa3nWzMlU-BoHoOpQjHCHPALPQXwLrvTtwW_nyzJ8fdy1H12aVJPMq4z3eYPs_cnhCg6JSLQrYvdoeDdNf8htVGWYx5WvpekWvh2LWekqo9VqxgB6cgpHINlBQopD4JqFRGb5k2DNk5zlTDsdrYFhuT4LWVfeI6y_gKWRWx4dLxkmyNpPj4I0/s1600/138%20rtt.png\" style=\"max-width:100%;height:auto;\">",
+      "3. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkLOALkLsiymFapmzwsVB65KplQUMsG3kDW1th55ZtkGggbxJpfk-MScAPQOiq_4EG5AyXzr2TNMkOYB_9vHik-Q5xU7dly_1vMPZExSgq3DTbL4bpgWKTwhT-0wAPDxtnTLeeBEorsVL1pnkXCJ2eWhhZDf2RfOtP9RiMbLVNKV2XrGZy4S9uPhQHV-Uk/s1600/139%20rtt.png\" style=\"max-width:100%;height:auto;\">",
+      "4. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIBb-B5lcMMIr5DQNWAV7F6ULQQ5JW6VlstDOIIGqWXD-xmK4xHXnAt_e3ITU8F4UnHARFzlTJt-Y9MpmVifnJiRFSfYunYyhXA3AvVl5hzKx8vOzoYavkBGP9Vw9ANUwNe65_SOGiBoTx3RYW-9TyALb1DcAUWjadqehRF0hEEfIWt5xpJCzRW1zTICoP/s1600/140%20rtt.png\" style=\"max-width:100%;height:auto;\">"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "उस विकल्‍प का चयन करें जो नीचे प्रदर्शित चित्र के अनुसार बिंदुओं के स्थान-निर्धारण की समान शर्तों को पूर्ण करता है।<br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS5Sqbz9rsO9X-PdL6AAC3VP_Cf-Ew1Lf33ZzL3FTmvM-M27trBDF9rqHqJ1zGB8Tlv1CNGvC_ZVRhdVquIgkUTh-k7Drs3T_7rYiPARDSg5dO_LNEJDo0ar18pOtQsnFj9Ew1gktnFJnc011aHoYqZ47yHRkB8L2doDkBMfs9aWJmVgEGkW1xLR-wEywc/s1600/136%20rtt.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieaEoGIJcMc6yhoyCXKSPuyUyjAaEQesf4sq0HZsmsvmtjNjZ5A1AVLh7CmHC7kcL1s-tVPhnMrA_y2ee7_VBft6c2KcZmwjTYa38bwFuKsZZlFompU-8lmdkB9ZWKUhwq0mzJqIig65ObDVsz9P2qqrK8U_hBPnKasukR6CkRxUG33oOq62vqLAK725Lm/s1600/137%20rtt.png\" style=\"max-width:100%;height:auto;\">",
+      "2. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6SfqxVtuwa3nWzMlU-BoHoOpQjHCHPALPQXwLrvTtwW_nyzJ8fdy1H12aVJPMq4z3eYPs_cnhCg6JSLQrYvdoeDdNf8htVGWYx5WvpekWvh2LWekqo9VqxgB6cgpHINlBQopD4JqFRGb5k2DNk5zlTDsdrYFhuT4LWVfeI6y_gKWRWx4dLxkmyNpPj4I0/s1600/138%20rtt.png\" style=\"max-width:100%;height:auto;\">",
+      "3. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkLOALkLsiymFapmzwsVB65KplQUMsG3kDW1th55ZtkGggbxJpfk-MScAPQOiq_4EG5AyXzr2TNMkOYB_9vHik-Q5xU7dly_1vMPZExSgq3DTbL4bpgWKTwhT-0wAPDxtnTLeeBEorsVL1pnkXCJ2eWhhZDf2RfOtP9RiMbLVNKV2XrGZy4S9uPhQHV-Uk/s1600/139%20rtt.png\" style=\"max-width:100%;height:auto;\">",
+      "4. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIBb-B5lcMMIr5DQNWAV7F6ULQQ5JW6VlstDOIIGqWXD-xmK4xHXnAt_e3ITU8F4UnHARFzlTJt-Y9MpmVifnJiRFSfYunYyhXA3AvVl5hzKx8vOzoYavkBGP9Vw9ANUwNe65_SOGiBoTx3RYW-9TyALb1DcAUWjadqehRF0hEEfIWt5xpJCzRW1zTICoP/s1600/140%20rtt.png\" style=\"max-width:100%;height:auto;\">"
+    ],
+    "answer": 3
+  }
 ]
   
         
