@@ -731,6 +731,128 @@
     ],
     "answer": 0
   }
+],
+   "16th March 2025 - Shift1": [
+  {
+    "q": "'Shoes' is related to 'Cobbler' in the same way as 'Eyeglasses' is related to '_________'.",
+    "options": [
+      "1. Oculist",
+      "2. Ophthalmologist",
+      "3. Optometrist",
+      "4. Optician"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "जूते का 'मोची' से वही संबंध है, जो चश्में का '__________' से है।",
+    "options": [
+      "1. ऑक्यूलिस्‍ट",
+      "2. ऑप्‍थाल्मोलॉजिस्‍ट",
+      "3. ऑप्टोमेट्रिस्‍ट",
+      "4. ऑप्टीशियन"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Each of the letters given below has been assigned a unique number. Select the combination of numbers such that the corresponding letters when arranged accordingly will form a meaningful word.<br><br>A C E S T H<br>1 2 3 4 5 6",
+    "options": [
+      "1.    2, 6, 1, 4, 5, 3",
+      "2.    4, 3, 5, 6, 1, 2",
+      "3.    6, 1, 4, 5, 3, 2",
+      "4.    6, 3, 2, 1, 4, 5"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "नीचे दिए गए प्रत्येक अक्षर के लिए एक विशिष्‍ट संख्या निर्दिष्‍ट की गई है। संख्याओं के ऐसे संयोजन का चयन करें जिससे संगत अक्षरों को तदनुसार व्‍यवस्थित करने पर एक सार्थक शब्‍द बन जाए।<br><br>A C E S T H<br>1 2 3 4 5 6",
+    "options": [
+      "1.    2, 6, 1, 4, 5, 3",
+      "2.    4, 3, 5, 6, 1, 2",
+      "3.    6, 1, 4, 5, 3, 2",
+      "4.    6, 3, 2, 1, 4, 5"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Select the word from the options that is similar to the given set of words and hence belongs to the same group.<br><br>Grandfather : Father : Brother",
+    "options": [
+      "1. Son-in-law",
+      "2. Son",
+      "3. Father-in-law",
+      "4. Baby"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "विकल्पों में से वह शब्‍द चुनिए जो दिए गए शब्दों के समूह के समान है और इसलिए उसी समूह से संबंधित है।<br><br>दादा : पिता : भाई",
+    "options": [
+      "1. दामाद",
+      "2. पुत्र",
+      "3. ससुर",
+      "4. शिशु"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Four words have been given, out of which three are alike in some manner and one is different. Select the one that is different. Options :",
+    "options": [
+      "1. Skull",
+      "2. Appendix",
+      "3. Pelvis",
+      "4. Fibula"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "विकल्पों में चार शब्‍द दिए गए हैं जिनमें से तीन किसी प्रकार समान हैं, जबकि कोई एक उनसे असमान है। उस असमान शब्‍द का चयन कीजिए।",
+    "options": [
+      "1. खोपड़ी (Skull)",
+      "2. परिशेषिका (Appendix)",
+      "3. श्रोणि (Pelvis)",
+      "4. बहिर्जंघिका (Fibula)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Select the word-pair in which the two words share a different relationship from that shared by the two words in the rest of the options.",
+    "options": [
+      "1. Pelican : Reptile",
+      "2. Gnu : Antelope",
+      "3. Elk : Deer",
+      "4. Shark : Fish"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "उस शब्‍द-युग्‍म का चयन करें जिसमें दो शब्‍द, शेष विकल्पों में दिए गए दो शब्दों के बीच के संबंध से भिन्‍न संबंध साझा करते हैं।",
+    "options": [
+      "1. पेलिकन : सरीसृप",
+      "2. ग्नू : एंटीलोप",
+      "3. एल्‍क : हिरण",
+      "4. शार्क : मछल"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Four numbers have been given, out of which three are alike in some manner and one is different. Select the one that is different.",
+    "options": [
+      "1. 2345",
+      "2. 3456",
+      "3. 5467",
+      "4. 5678"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "विकल्पों में चार संख्याएं दी गई हैं जिनमें से तीन किसी कार समान हैं, जबकि कोई एक उनसे भिन्‍न है। उस भिन्‍न संख्या का चयन कीजिए।",
+    "options": [
+      "1. 2345",
+      "2. 3456",
+      "3. 5467",
+      "4. 5678"
+    ],
+    "answer": 2
+  }
 ]
   
         
