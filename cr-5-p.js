@@ -859,6 +859,120 @@ demo5: {
   }
 ]
         }
+      },
+
+  demo9: {
+        label: "21st March 2025 - Shift 1",
+        hindi: {
+          passage: `दिए गए गद्यांश को पढ़ें और उसके आधार पर प्रश्नों के उत्तर दें।\n\nसहिष्णुता\n\nभारत में मौजूद एनेक विविधताओं के कारण सहिष्णुता आज की विशेष आवश्यकता है। यहां पूर्ण और केंद्र शासित कुल मिलाकर छत्तीस राज्य हैं। भारतीय छः से अधिक धर्मों का पालन करते हैं, प्रत्येक धर्म में कई उप-संप्रदाय हैं। यहां 22 से अधिक आधिकारिक रूप से मान्यता प्राप्त भाषाएं हैं। यहां तक कि एक ही भाषा, उदाहरण के लिए अंग्रेजी, को बोलते समय उत्तर भारतीयों और दक्षिण भारतीयों के उच्चारणों तक में भिन्नता पाई जाती है। यहां के लोग अलग अलग प्रकार की पोशाके पहनते हैं और विभिन्न सामाजिक रीति-रिवाजों का पालन करते हैं। उनके भोजन अलग-अलग हैं और अपने त्यौहारों को वे अलग-अलग अपनी स्थानीय परंपराओं के अनुसार मनाते हैं। यह सांस्कृतिक विविधता भारत की समृद्धि में वृद्धि करती है लेकिन यही विविधता कभी कभी क्षणिक उद्वेग का कारण भी बन जाती है। इसलिए, हमें अन्य देशों की तुलना में अधिक सहिष्णु होने की आवश्यकता है।\n\nसहिष्णुता को सामान्यतः 'जो हमारी रूचि या मत के विपरीत है उसे भी साथ लेकर चलने' के रूप में परिभाषित किया जा सकता है। सहिष्णुता एक ऐसा महान गुण है जिससे पूरी दुनिया में शांति और सद्भाव लाया जा सकता है। हमें यह समझना होगा कि यदि सहिष्णुता आरंभ से ही रही होती तो इतने युद्ध न हुए होते। और यदि इतने युद्ध न हुए होते तो मानव समाज आज की तुलना में और अधिक उन्नत होता।\n\nआइए, अपनी सहिष्णुता के लिए प्रसिद्ध संत एकनाथ के जीवन में घटी एक दिलचस्प घटना पढ़ें।\n\nएक दिन एकनाथ पवित्र गंगा में सुबह स्नान करने के बाद अपनी झोपड़ी की ओर लौट रहे थे। एक दुष्ट पड़ोसी उनका इंतजार कर रहा था। वह एक पेड़ पर चढ़ गया और जब एकनाथ उसके नीचे से वे से गुजरे तो उसने उन पर थूक दिया। संत पड़ोसी को एक भी शब्द कहे बिना स्नान के लिए वापस चले गए। उस दुष्ट आदमी ने दुबारा उनपर थूक दिया। एकनाथ के स्थान पर कोई और होता तो वह क्रोधित हो हो जाता लेकिन एकनाथ शांत रहे। वह एक बार और स्नान करने के लिए नदी की ओर लौट गए। ऐसा कहा जाता है कि उस दुष्ट व्यक्ति ने एकनाथ के ऊपर एक दर्जन से अधिक बार थूका लेकिन एकनाथ ने कोई प्रतिक्रिया नहीं दी। \n\nआखिरकार, उस दुष्ट व्यक्ति को स्वयं पर लज्जा आई और क्षमा मांगते हुए वह एकनाथ के पैरों पर गिर गया। एकनाथ मुस्कुराए और उसे एक दर्जन से अधिक बार पवित्र डुबकी लगवाने के अवसर के लिए धन्यवाद दिया। संत एकनाथ ने कहा, "इस घटना ने मुझे एक बेहतर इंसान बनने बनने में सहायता की है।"\n\nSub questions`,
+          questions: [
+     {
+    "q": "भारतीय विभिन्‍न धर्मों का पालन करते हैं। यह किसका संकेत है?",
+    "options": [
+      "1. एकता",
+      "2. शत्रुता",
+      "3. विविधता",
+      "4. भेदभाव"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "सहिष्णुता एक महान गुण क्यों है?",
+    "options": [
+      "1. क्योंकि केवल संतों में पाया जाता है",
+      "2. क्योंकि इसके लिए कुछ भी करने की आवश्‍यकता नहीं होती है",
+      "3. क्योंकि इसके द्वारा शांति और सद्भाव लाया जा सकता है",
+      "4. क्योंकि इससे हमें दुष्टों से मुकाबला करने में सहायता मिलती है"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "गद्यांश के अनुसार, यदि लोग अधिक सहिष्णु होते, तो:",
+    "options": [
+      "1. लोग अधिक तीव्रता से उत्‍तेजित होते",
+      "2. हैंशांति और समरसता नहीं होती",
+      "3. अत्‍यधिक सांस्‍कृतिक विविधता होती",
+      "4. यु्द्ध नहीं होते"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "संत एकनाथ ने अपने पड़ोसी को किसलिए धन्‍यवाद दिया?",
+    "options": [
+      "1. उन पर कई बार थूकने के लिए",
+      "2. उन्हें एक बेहतर व्‍यक्ति बनने में सहायता करने के लिए",
+      "3. उन्हें बार-बार स्नान करने का अवसर देने के लिए",
+      "4. पश्चाताप में उनके पैरों पर गिरने के लिए"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एकनाथ की कहानी से हम क्या निष्‍कर्ष निकाल सकते हैं?",
+    "options": [
+      "1. एकनाथ एक डरपोक व्‍यक्ति थे",
+      "2. एकनाथ का कोई आत्‍म सम्मान नहीं था",
+      "3. सहिष्णुता दुष्‍टता पर विजय प्राप्‍त कर सकती है",
+      "4. दुष्‍टता व्‍यक्ति को शक्तिशाली बनाती है"
+    ],
+    "answer": 2
+  }
+]
+        },
+        english: {
+          passage: `Read the given passage and answer the questions.\n\nTolerance\n\nTolerance is the special need of the day in India because of the diversity present here. There are thirty-six States and Union Territories. Indians follow more than six religions, with each religion having several sub-sects. They speak more than 22 officially recognised languages. Even when they speak the same language, English for example, the accent in northern India is different from the one in southern India. People follow different dress codes and different social customs. They have different food habits and celebrate their festivals with a distinct local flavour. This cultural diversity not only adds to the richness of India but can also be an instant flashpoint. So, we need to practice tolerance more than any other people. \n\nTolerance may simply be defined as ‘putting up with what we do not like’. It is a rather passive quality because it demands no action. But it is a heavenly virtue because it is the only way to achieve peace and harmony in the world. We must realise that if there had been more tolerance, there would have been no wars. Human society would have been far more advanced than what it is today.\n\nLet us read an interesting incident from the life of Saint Eknath who was known for his tolerance. One day Eknath was returning to his hut after an early morning dip in the holy Ganga. A wicked neighbour lay in wait for him. He climbed up a tree and just when Eknath passed by, he spat on him. The saint went back for a bath without a word to the neighbour. Again, the wicked man repeated his prank. Anyone in Eknath’s place would have got angry but Eknath kept his cool. He returned to the river for another dip. It is said that the wicked man spat on Eknath more than a dozen times but Eknath did not react. \n\nFinally, the wicked man felt ashamed of his deed and fell at Eknath’s feet, asking for forgiveness. Eknath smiled and thanked him for the opportunity of having a holy dip more than a dozen times. “This episode has helped me to become a better human being,” said Saint Eknath.\n\n Sub questions  `,
+          questions: [
+           {
+    "q": "Indians follow different religions. This is a sign of:",
+    "options": [
+      "1. unity",
+      "2. enmity",
+      "3. diversity",
+      "4. discrimination"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Tolerance is a heavenly virtue because:",
+    "options": [
+      "1. it is found only in saints",
+      "2. it needs no action",
+      "3. it ushers in peace and harmony",
+      "4. it makes us put up with wickedness"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "According to the passage, if people had been more tolerant, there would have been:",
+    "options": [
+      "1. more instant flashpoints",
+      "2. loss of peace and harmony",
+      "3. greater cultural diversity",
+      "4. no wars"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Saint Eknath thanked his neighbour for:",
+    "options": [
+      "1. spitting on him several times",
+      "2. making him keep his cool",
+      "3. making him bathe again and again",
+      "4. falling at his feet in repentance"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What can we conclude from Eknath’s episode?",
+    "options": [
+      "1. Eknath was a timid man.",
+      "2. Eknath had no self-respect.",
+      "3. Tolerance can win over wickedness.",
+      "4. Wickedness makes one powerful."
+    ],
+    "answer": 2
+  }
+]
+        }
       }
   
     };
