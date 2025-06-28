@@ -1220,6 +1220,128 @@
     ],
     "answer": 3
   }
+],
+  "11th January 2025 - Shift1": [
+  {
+    "q": "Select the option that is related to the third word in the same way as the second word is related to the first word.<br><br>Funk : Vitamins :: Curie : ?",
+    "options": [
+      "1. Uranium",
+      "2. Radium",
+      "3. Alpha radiation",
+      "4. Photography"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "उस विकल्प का चयन कीजिए जो तीसरे शब्द से उसी प्रकार संबंधित है जिस प्रकार दूसरा शब्द पहले शब्द से संबंधित है।<br>फंक : विटामिन :: क्यूरी : ?",
+    "options": [
+      "1. यूरेनियम",
+      "2. रेडियम",
+      "3. अल्फा विकिरण",
+      "4. फोटोग्राफी"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The following question is based on the given English alphabetical series. <b><br>A B C D E F G H I J K L M N O P Q R S T U V W X Y Z <br><br>If the last ten letters of the alphabet are written in the reverse order, which of the following letters will be sixth to the right of the thirteenth letter from the left end?",
+    "options": [
+      "1. U",
+      "2. V",
+      "3. W",
+      "4. X"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित प्रश्न दी गई अंग्रेजी वर्णमाला श्रेणी पर आधारित है।<br><br>A B C D E F G H I J K L M N O P Q R S T U V W X Y Z <br><br>यदि वर्णमाला के अंतिम दस अक्षरों को उल्‍टे क्रम में लिखा जाए, तो निम्‍नलिखित में से कौन-सा अक्षर बाएं छोर से तेरहवें अक्षर के दाईं ओर छठा होगा?",
+    "options": [
+      "1. U",
+      "2. V",
+      "3. W",
+      "4. X"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Select two words (from 1, 2, 3, 4 and A, B, C, D) related to the pair of words already given – one word for each of the two given words.<br><br>I. : Rain :: Dam : II. <br><br>I. (1) Cloud (2) Fog (3) Water (4) Umbrella<br>II. (A) Electricity (B) Flood (C) High (D) Spillway",
+    "options": [
+      "1. 1A",
+      "2. 1B",
+      "3. 3B",
+      "4. 4B"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "दिए गए शब्दों के युग्म से संबंधित (1, 2, 3, 4) और (A, B, C, D) में से एक-एक शब्द का चयन कीजिए – दिए गए दो शब्दों में से प्रत्येक के लिए एक शब्द का चयन कीजिए। <br><br>I : बारिश :: बाँध : II<br><br>I. (1) बादल (2) कोहरा (3) पानी (4) छाता<br>II. (A) बिजली (B) बाढ़ (C) उच्च (D) स्पिलवे",
+    "options": [
+      "1. 1A",
+      "2. 1B",
+      "3. 3B",
+      "4. 4B"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Three of the following four words are alike in some manner and one is different. Select the word that is different.",
+    "options": [
+      "1. Cow",
+      "2. Goat",
+      "3. Donkey",
+      "4. Buffalo"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित चार शब्दों मेंसेतीन किसी न किसी तरह सेएकसमान हैंऔर एक असंगत है। असंगत शब्द का चयन कीजिए।",
+    "options": [
+      "1. गाय",
+      "2. बकरी",
+      "3. गधा",
+      "4. भैंस"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Three of the following four words are alike in some manner and one is different. Select the word that is different.",
+    "options": [
+      "1. Run",
+      "2. Walk",
+      "3. Think",
+      "4. Jump"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित चार शब्दों में से तीन किसी न किसी तरह से एक समान हैं और एक असंगत है। असंगत शब्द का चयन कीजिए।",
+    "options": [
+      "1. दौड़ना",
+      "2. चलना",
+      "3. सोचना",
+      "4. कूदना"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Three of the following four words are alike in some manner and one is different. Select the word that is different.",
+    "options": [
+      "1. Euphrates",
+      "2. Huang He",
+      "3. Amazon",
+      "4. Brahmaputra"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित चार शब्दों में से तीन किसी न किसी तरह से एक समान हैं और एक असंगत है। असंगत शब्द का चयन कीजिए।",
+    "options": [
+      "1. युफ्रेटीज़ (Euphrates)",
+      "2. ह्वांग हे (Huang He)",
+      "3. अमेज़ॅन (Amazon)",
+      "4. ब्रह्मपुत्र (Brahmaputra)"
+    ],
+    "answer": 2
+  }
 ]
   
         
