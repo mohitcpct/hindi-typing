@@ -16680,6 +16680,1048 @@
     ],
     "answer": 3
   }
+],
+  "06th September 2024 - Shift2": [
+  {
+    "q": "A multi-programming system can be defined as a:",
+    "options": [
+      "1. computer system that permits multiple users to run programs at the same time",
+      "2. computer system that permits to run similar programs at multiple time",
+      "3. computer system that permits multiple programs simultaneously on a single processor",
+      "4. computer program that runs on multiple processors"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "मल्टी प्रोग्रामिंग सिस्टम क्या है?",
+    "options": [
+      "1. एक ऐसा कंप्यूटर सिस्टम जो एकाधिक उपयोगकर्ताओं को एक ही समय में प्रोग्राम रन करने की अनुमति देता है",
+      "2. एक ऐसा कंप्यूटर सिस्टम जो मल्‍टीपल समय पर समान प्रोग्राम रन करने की अनुमति देता है",
+      "3. वह कंप्यूटर सिस्टम जो एक ही प्रोसेसर पर एक साथ कई प्रोग्राम की अनुमति देता है",
+      "4. एक ऐसा कंप्यूटर प्रोग्राम जो एकाधिक प्रोसेसर पर रन होता है"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What of the following characteristics of read-only memory (ROM) makes it useful?",
+    "options": [
+      "1. ROM information can be easily updated.",
+      "2. ROM provides very large amounts of inexpensive data storage.",
+      "3. Data in ROM is non-volatile, that is, it remains there even without electrical power.",
+      "4. ROM chips are easily swapped between different brands of computers."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "रीड-ओनली मेमोरी (ROM) की निम्न में से कौन सी विशेषता इसे उपयोगी बनाती है?",
+    "options": [
+      "1. ROM की इनफार्मेशन को आसानी से अपडेट किया जा सकता है",
+      "2. ROM सस्ती डेटा स्टोरेज़ की बहुत बड़ी मात्रा प्रदान करता है",
+      "3. ROM में डेटा नॉनवोलेटाइल होता है, अर्थात, यह इलेक्ट्रिक पॉवर के बिना भी वहां रहता है",
+      "4. ROM चिप्स आसानी से विभिन्न ब्रांड्स के कंप्यूटर्स के बीच स्वैप हो जाती हैं"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "One TB storage capacity is equal to _____ MB.",
+    "options": [
+      "1. 1024¹",
+      "2. 1024²",
+      "3. 1024³",
+      "4. 1024⁴"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक टीबी भंडारण क्षमता _____ एमबी के बराबर होती है।",
+    "options": [
+      "1. 1024¹",
+      "2. 1024²",
+      "3. 1024³",
+      "4. 1024⁴"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the key combination to delete text to the end of the sentence in an OpenOffice writer?",
+    "options": [
+      "1. Ctrl + Del",
+      "2. Ctrl + Shift + Del",
+      "3. Shift + Del",
+      "4. Tab + Del"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ओपन ऑफिस राइटर (OpenOffice writer) में, किसी वाक्य के अंत से टेक्स्ट को डिलीट करने के लिए किस की-बोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Ctrl + Del",
+      "2. Ctrl + Shift + Del",
+      "3. Shift + Del",
+      "4. Tab + Del"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "DVD stands for ______.",
+    "options": [
+      "1. Digital Vertical Disc",
+      "2. Digital Versatile Disc",
+      "3. Data Varying Disc",
+      "4. Digital Vertical Data"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "DVD का पूर्णरूप क्या है?",
+    "options": [
+      "1. Digital Vertical Disc (डिजिटल वर्टिकल डिस्क)",
+      "2. Digital Versatile Disc (डिजिटल वर्सेटाइल डिस्क)",
+      "3. Data Varying Disc (डेटा वैरीइंग डिस्क)",
+      "4. Digital vertical Data (डिजिटल वर्टिकल डेटा)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which function converts an octal number to hexadecimal in MS-Excel 2019?",
+    "options": [
+      "1. O2H function",
+      "2. OCT2HEX function",
+      "3. OCTTOHEXD function",
+      "4. OCT2HEXD function"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 में, कौन सा फंक्शन किसी ऑक्टल संख्या को हेक्सा डेसिमल में परिवर्तित करता है?",
+    "options": [
+      "1. O2H फंक्शन",
+      "2. OCT2HEX फंक्शन",
+      "3. OCTTOHEXD फंक्शन",
+      "4. OCT2HEXD फंक्शन"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A ______ is a stationary pointing device with a ball mechanism on its top.",
+    "options": [
+      "1. trackball",
+      "2. mouse",
+      "3. touchpad",
+      "4. touchscreen"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_____ एक स्थिर पॉइंटिंग डिवाइस है जिसके शीर्ष पर एक बॉल युक्त तंत्र होता है।",
+    "options": [
+      "1. ट्रैकबॉल",
+      "2. माउस",
+      "3. टचपैड",
+      "4. टच स्क्रीन"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which type of computer peripheral is dot-matrix, deskjet, inkjet and laser?",
+    "options": [
+      "1. Keyboard",
+      "2. Software",
+      "3. Monitor",
+      "4. Printer"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "डॉट-मैट्रिक्स , डेस्कजेट, इंकजेट और लेज़र निम्न में से किस प्रकार के कंप्यूटर पेरीफेरल्स हैं?",
+    "options": [
+      "1. की-बोर्ड",
+      "2. सॉफ्टवेयर",
+      "3. मॉनिटर",
+      "4. प्रिंटर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is the most basic and comprehensive backup method, where all data is sent to another location?",
+    "options": [
+      "1. Restoration",
+      "2. Incremental",
+      "3. Differential",
+      "4. Full"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन सी सबसे बुनियादी और व्यापक बैकअप विधि है, जहाँ सारा डेटा दूसरे स्थान पर भेजा जाता है?",
+    "options": [
+      "1. रीस्टोरेशन",
+      "2. इंक्रीमेंटल",
+      "3. डिफ़रेंशियल",
+      "4. फुल"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Optimizing the drives helps to run the PC smoother and boot up faster. Which of the following options is used to open the Optimize drives in Windows 10?",
+    "options": [
+      "1. Click the Search bar on the taskbar and enter defrag & select Defragment and Optimise Drives.",
+      "2. Click the Start menu on the taskbar and enter administrative tools.",
+      "3. Click the Search bar on the taskbar and enter Control Panel.",
+      "4. Click the Search bar on the taskbar and enter Windows system."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "ड्राइव को ऑप्टिमाइज़ करने से PC को सुचारू रूप से चलाने और तेजी से बूट करने में सहायता मिलती है। Windows 10 में, ऑप्टिमाइज़ ड्राइव को खोलने के लिए निम्न में से किस विकल्प का उपयोग किया जाता है?",
+    "options": [
+      "1. टास्कबार के सर्च बार पर क्लिक करें और डीफ़्रैग दर्ज करें और फिर \"डीफ़्रैगमेंट और ऑप्टिमाइज़ ड्राइव\" चुनें।",
+      "2. टास्कबार के स्टार्ट मेन्यू पर क्लिक करें और एडमिनिस्ट्रेटिव टूल्स एंटर करें।",
+      "3. टास्कबार के सर्च बार पर क्लिक करें और कंट्रोल पैनल एंटर करें।",
+      "4. टास्कबार के सर्च बार पर क्लिक करें और विंडोज सिस्टम एंटर करें।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The black and white elements of a barcode is scanned by illumination of the code with the ______, which is then converted into matching text.",
+    "options": [
+      "1. yellow light",
+      "2. green light",
+      "3. red light",
+      "4. blue light"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "बारकोड के काले और सफेद अवयवों को ______ द्वारा कोड के इलुमिनेशन से स्कैन किया जाता है, जिसे बाद में मैचिंग टेक्स्ट में बदल दिया जाता है।",
+    "options": [
+      "1. पीले प्रकाश",
+      "2. हरे प्रकाश",
+      "3. लाल प्रकाश",
+      "4. नीले प्रकाश"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following devices scans a particular document by recognising its individual characters and converting it into editable form?",
+    "options": [
+      "1. Optical Mark Reader",
+      "2. Optical Character Recognition",
+      "3. Magnetic Ink Character Recognition",
+      "4. Bar Code Reader"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन सी डिवाइस किसी विशेष डॉक्यूमेंट के अलग-अलग वर्णों को पहचानकर और उन्हें एडिटिंग योग्य रूप में बदलकर स्कैन करती है?",
+    "options": [
+      "1. ऑप्टिकल मार्क रीडर (Optical Mark Reader)",
+      "2. ऑप्टिकल कैरेक्टर रिकग्निशन (Optical Character Recognition)",
+      "3. मैग्नेटिक इंक कैरेक्टर रिकग्निशन (Magnetic Ink Character Recognition)",
+      "4. बारकोड रीडर (Bar Code Reader)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following plotter draw on negatively charged paper with positively charged toner?",
+    "options": [
+      "1. Drum",
+      "2. Flatbed",
+      "3. Electrostatic",
+      "4. Inkjet"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा प्लॉटर धनात्मक आवेशित टोनर के साथ ऋणात्मक आवेशित कागज पर चित्र बनाता है?",
+    "options": [
+      "1. ड्रम",
+      "2. फ्लैटबेड",
+      "3. इलेक्ट्रोस्टैटिक",
+      "4. इंकजेट"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following devices consists of one or more buttons and a stick to control the movement of the cursor on the screen by pointing in all directions?",
+    "options": [
+      "1. Mouse",
+      "2. Keyboard",
+      "3. Joystick",
+      "4. Light pen"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से किस उपकरण में सभी दिशाओं में इंगित कर के स्क्रीन पर कर्सर के संचलन को नियंत्रित करने के लिए एक या अधिक बटन और एक स्टिक होती है?",
+    "options": [
+      "1. माउस",
+      "2. की-बोर्ड",
+      "3. जॉयस्टिक",
+      "4. लाइट पेन"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the function of the printer spooler in Windows 10?",
+    "options": [
+      "1. To specify the parameters of the print job that are waiting to process to OS.",
+      "2. To manage the message sent from the printer to the operating system when a print job is completed.",
+      "3. To manage the printing jobs sent from a computer to a printer or print server.",
+      "4. To queue the print job that are waiting to print."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Windows 10 में, प्रिंटर स्पूलर का क्या कार्य है?",
+    "options": [
+      "1. प्रिंट कार्य के पैरामीटर निर्दिष्ट करने के लिए जो OS पर संसाधित होने की प्रतीक्षा कर रहे हैं।",
+      "2. प्रिंट कार्य पूरा होने पर प्रिंटर से ऑपरेटिंग सिस्टम को भेजे गए संदेश को प्रबंधित करने के लिए।",
+      "3. कंप्यूटर से प्रिंटर या प्रिंट सर्वर पर भेजे गए प्रिंटिंग कार्यों को प्रबंधित करने के लिए।",
+      "4. प्रिंट होने के लिए प्रतीक्षा कर रहे मुद्रण कार्य को कतार में लगाने के लिए।"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "An ethernet address is made up of how many bytes?",
+    "options": [
+      "1. 3",
+      "2. 4",
+      "3. 5",
+      "4. 6"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "एक ईथरनेट एड्रेस कितने बाइट्स का बना होता है?",
+    "options": [
+      "1. 3",
+      "2. 4",
+      "3. 5",
+      "4. 6"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is not a reason to print to a File?",
+    "options": [
+      "1. To be able to print a document at a later time without having to open it in the software that originally created the file.",
+      "2. To save a document to a PDF file that can be used or printed on a computer which does not support the software program used to create the document.",
+      "3. To email a file to another person to print that does not have the software program used to create the file.",
+      "4. To delete a file so that to print a document at a later time."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा फ़ाइल पर प्रिंट करने का कारण नहीं है?",
+    "options": [
+      "1. किसी दस्तावेज़ को मूल रूप से फ़ाइल बनाने वाले सॉफ़्टवेयर में खोले बिना उसे बाद में प्रिंट करने में सक्षम होना।",
+      "2. किसी दस्तावेज़ को एक पीडीएफ फ़ाइल में सहेजने के लिए जिसका उपयोग कंप्यूटर पर किया जा सकता है या मुद्रित किया जा सकता है जो दस्तावेज़ बनाने के लिए उपयोग किए जाने वाले सॉफ़्टवेयर प्रोग्राम का समर्थन नहीं करता है।",
+      "3. किसी फ़ाइल को प्रिंट करने के लिए किसी अन्य व्यक्ति को ईमेल करना जिसके पास फ़ाइल बनाने के लिए उपयोग किया जाने वाला सॉफ़्टवेयर प्रोग्राम नहीं है।",
+      "4. किसी फ़ाइल को हटाना ताकि बाद में किसी दस्तावेज़ को प्रिंट किया जा सके।"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following printers does NOT require ink, toner and other supplies?",
+    "options": [
+      "1. Laser jet printer only",
+      "2. Inkjet printer only",
+      "3. Thermal printer",
+      "4. both Inkjet printer and Laser printer"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-से प्रिंटर को स्याही, टोनर और अन्य आपूर्ति की आवश्यकता नहीं होती है?",
+    "options": [
+      "1. लेजर जेट प्रिंटर",
+      "2. इंकजेट प्रिंटर",
+      "3. थर्मल प्रिंटर",
+      "4. इंकजेट प्रिंटर और लेजर प्रिंटर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is the amount of amplification for the speakers?",
+    "options": [
+      "1. Watts",
+      "2. Frequency response",
+      "3. Total harmonic distortion",
+      "4. Frequency input"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से स्पीकर के लिए प्रवर्धन की मात्रा क्या है?",
+    "options": [
+      "1. वाट्स",
+      "2. फ्रीक्‍वेंसी रिस्पांस",
+      "3. टोटल हार्मोनिक डिस्टोर्शन",
+      "4. फ्रीक्‍वेंसी इनपुट"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is used to connect to a computer to generate sound, which is, one of the most common output devices?",
+    "options": [
+      "1. Speaker",
+      "2. Printer",
+      "3. Microphone",
+      "4. Plotter"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "ध्वनि उत्पन्न करने के लिए कंप्यूटर से कनेक्ट करने के लिए निम्नलिखित में से किसका उपयोग किया जाता है, जो कि सबसे आम आउटपुट डिवाइस में से एक है?",
+    "options": [
+      "1. स्पीकर",
+      "2. प्रिंटर",
+      "3. माइक्रोफोन",
+      "4. प्लॉटर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following options gives correct sequence to Compressing a File in Windows OS?<br><br>A. Right-click on the file.<br>B. Select 'Send To' from the menu that appears<br>C. Browse to find the file you wish to compress<br>D. Select Compressed (zipped) folder from the list of options to create a compressed folder",
+    "options": [
+      "1. A,B,C,D",
+      "2. A,C,B,D",
+      "3. A,B,D,C",
+      "4. C,A,B,D"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा विकल्प विंडोज़ ओएस में किसी फ़ाइल को संपीड़ित करने का सही क्रम देता है?<br><br>A. फ़ाइल पर राइट-क्लिक करें।<br>B. दिखाई देने वाले मेनू से 'सेंड टू' का चयन करें<br>C. उस फ़ाइल को ढूंढने के लिए ब्राउज़ करें जिसे आप संपीड़ित करना चाहते हैं<br>D. संपीड़ित फ़ोल्डर बनाने के लिए विकल्पों की सूची से संपीड़ित (ज़िप्ड) फ़ोल्डर का चयन करें",
+    "options": [
+      "1. A,B,C,D",
+      "2. A,C,B,D",
+      "3. A,B,D,C",
+      "4. C,A,B,D"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In Data Encryption Standard (DES), due to ______, a small change in plain text results in a very great change in the ciphertext.",
+    "options": [
+      "1. Iris effect",
+      "2. Gabber effect",
+      "3. Avalanche effect",
+      "4. Newton effect"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "डेटा एन्क्रिप्शन स्टैण्डर्ड (DES) में, ______ के कारण प्लेन टेक्स्ट में छोटा सा बदलाव सिफरटेक्स्ट में बहुत बड़ा परिवर्तन लाता है।",
+    "options": [
+      "1. आइरिस इफ़ेक्ट",
+      "2. गैबर इफ़ेक्ट",
+      "3. एवलांच इफ़ेक्ट",
+      "4. न्यूटन इफ़ेक्ट"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "IAB stands for ________.",
+    "options": [
+      "1. Internet Act Board",
+      "2. Internet Archives Board",
+      "3. Internet Architecture Board",
+      "4. Internet Act Band"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "IAB का पूर्णरूप क्या है?",
+    "options": [
+      "1. Internet Act Board (इंटरनेट एक्ट बोर्ड)",
+      "2. Internet Archives Board (इंटरनेट आर्काइव्ज बोर्ड)",
+      "3. Internet Architecture Board (इंटरनेट आर्किटेक्चर बोर्ड)",
+      "4. Internet Act Band (इंटरनेट एक्ट बैंड)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MIME stands for ________.",
+    "options": [
+      "1. Multipurpose Internet Mail Extensions",
+      "2. Multipurpose Internet Mail Email",
+      "3. Multipurpose International Mail Entity",
+      "4. Multipurpose International Mail End"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MIME का पूर्णरूप क्या है?",
+    "options": [
+      "1. Multipurpose Internet Mail Extensions (मल्टीपर्पस इंटरनेट मेल एक्सटेंशन)",
+      "2. Multipurpose Internet Mail Email (मल्टीपर्पस इंटरनेट मेल ईमेल)",
+      "3. Multipurpose International Mail Entity (मल्टी पर्पस इंटरनेशनल मेल एटिंटी)",
+      "4. Multipurpose International Mail End (मल्टी पर्पस इंटरनेशनल मेल एन्ड)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In Unix, which command is used to find the resource limits of the session?",
+    "options": [
+      "1. ulimit",
+      "2. getrlimit",
+      "3. rlimit",
+      "4. setrlimit"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "यूनिक्स में किस कमान्ड का उपयोग सेशन की रिसोर्सलिमिट फाइंड करने के लिए किया जाता है?",
+    "options": [
+      "1. ulimit",
+      "2. getrlimit",
+      "3. rlimit",
+      "4. setrlimit"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The ______ file format is used for a comma separated value file.",
+    "options": [
+      "1. .csv",
+      "2. .cs",
+      "3. .cf",
+      "4. .ccf"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "किस फाइल फॉर्मेट का उपयोग कॉमा सेपरेटेड वैल्यू फाइल के लिए किया जाता है?",
+    "options": [
+      "1. .csv",
+      "2. .cs",
+      "3. .cf",
+      "4. .ccf"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the file format of a system file?",
+    "options": [
+      "1. SF",
+      "2. SAF",
+      "3. CBA",
+      "4. CAB"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "सिस्टम फाइल का फाइल फॉर्मेट क्या होता है?",
+    "options": [
+      "1. SF",
+      "2. SAF",
+      "3. CBA",
+      "4. CAB"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Some image file formats such as PNG or BMP use ________.",
+    "options": [
+      "1. defragmenting algorithm",
+      "2. lossless data compression algorithm",
+      "3. lossy data compression algorithm",
+      "4. fragmenting algorithm"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कुछ इमेज फाइल फॉर्मेट, जैसे कि PNG अथवा BMP ______ का उपयोग करते हैं।",
+    "options": [
+      "1. डीफ्रैग्मेंटिंग एल्गोरिदम",
+      "2. लॉसलेस डाटा कम्प्रेशन एल्गोरिदम",
+      "3. लॉसी डाटा कम्प्रेशन एल्गोरिदम",
+      "4. फ्रैग्मेंटिंग एल्गोरिदम"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a completely new installation of an operating system or application on a computer?",
+    "options": [
+      "1. A clean installation",
+      "2. A headless installation",
+      "3. An unattended installation",
+      "4. A silent installation"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा कंप्यूटर पर ऑपरेटिंग सिस्टम या एप्लिकेशन की पूरी तरह से नई स्थापना है?",
+    "options": [
+      "1. एक साफ़ इन्स्टॉलेशन (A clean installation)",
+      "2. एक हेडलेस इन्स्टॉलेशन (A headless installation)",
+      "3. एक अनअटेन्डेड इन्स्टॉलेशन (An unattended installation)",
+      "4. साइलेन्ट इन्स्टॉलेशन (A silent installation)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "When is acceptance testing performed in Agile development?",
+    "options": [
+      "1. Daily",
+      "2. On request of customer",
+      "3. After system is ready",
+      "4. At the end of each sprint"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "एजाइल डेवलपमेंट (Agile development) में स्वीकृति परीक्षण कब किया जाता है?",
+    "options": [
+      "1. रोजाना",
+      "2. ग्राहक के अनुरोध पर",
+      "3. सिस्टम तैयार होने के बाद",
+      "4. प्रत्येक स्प्रिंट के अंत में"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following does NOT belong to the category of microcomputers?",
+    "options": [
+      "1. Desktop computers",
+      "2. Cray-1",
+      "3. Palmtop computers",
+      "4. Workstations"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा माइक्रो कंप्यूटर की श्रेणी से संबंधित नहीं है?",
+    "options": [
+      "1. डेस्कटॉप कंप्यूटर्स",
+      "2. क्रे-1",
+      "3. पॉमटॉप कंप्यूटर्स",
+      "4. वर्कस्टेशंस"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Electronic Data Interchange is necessary in ______.",
+    "options": [
+      "1. B2C e-Commerce",
+      "2. C2C e-Commerce",
+      "3. B2B e-Commerce",
+      "4. manual transaction"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "इलेक्ट्रॉनिक डेटा इंटरचेंज _____________ में आवश्यक होता है।",
+    "options": [
+      "1. B2C ई-कॉमर्स",
+      "2. C2C ई-कॉमर्स",
+      "3. B2B ई-कॉमर्स",
+      "4. हस्तचालित लेन-देन"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What does the abbreviation 'WWW' stands for?",
+    "options": [
+      "1. World With Web",
+      "2. Wide Wide Web",
+      "3. World Width Web",
+      "4. World Wide Web"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "WWW का पूर्णरूप क्या है?",
+    "options": [
+      "1. World With Web (वर्ल्ड विथ वेब)",
+      "2. Wide Wide Web (वाइड वाइड वेब)",
+      "3. World Width Web (वर्ल्ड विड्थ वेब)",
+      "4. World Wide Web (वर्ल्ड वाइड वेब)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is scalable font?",
+    "options": [
+      "1. A font that can increase in size without causing any degradation in the quality.",
+      "2. It is a font with different characters and different pitches.",
+      "3. It is an outline of each character which are geometrically defined.",
+      "4. It is an object-oriented graphics language such as PostScript."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "स्केलेबल फ़ॉन्ट क्या है?",
+    "options": [
+      "1. एक फ़ॉन्ट जो गुणवत्ता में कोई गिरावट लाए बिना आकार में बढ़ सकता है।",
+      "2. विभिन्न पिचों के साथ विभिन्न वर्णों का फ़ॉन्ट",
+      "3. प्रत्येक वर्णकी एक रूपरेखा, जिसे ज्या मितीय रूप से परिभाषित किया गया है",
+      "4. एक ऑब्जेक्ट उन्मुख ग्राफिक्स भाषा, जैसे कि पोस्टस्क्रिप्ट"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The Keyboard shortcut, F1 in MS-Excel 2019 _________.",
+    "options": [
+      "1. displays the Excel Help task pane.",
+      "2. pastes a name from the Paste Name dialog box (if names have been defined in the workbook).",
+      "3. creates a chart of the data in the current range in a separate Chart sheet.",
+      "4. cycles through all combinations of absolute and relative references in a formula if a cell reference or range is selected."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में कीबोर्ड शॉर्टकट, F1 _________।",
+    "options": [
+      "1. एक्सेल हेल्प टास्क पेन प्रदर्शित करता है",
+      "2. पेस्ट नेम डायलॉग बॉक्स से नाम पेस्ट करता है (यदि नाम कार्यपुस्तिका में परिभाषित किए गए हैं)",
+      "3. एक अलग चार्ट शीट में वर्तमान श्रेणी में डेटा का एक चार्ट बनाता है",
+      "4. चक्र के माध्यम से सभी संयोजनों के अब्सोलुट और रिलेटिव संदर्भ से एक सूत्र में यदि सेल संदर्भ या श्रेणी का चयन किया जाता है"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "To insert a picture in a columnar section, click the ______ tab and click Picture in the Illustrations group in MS-Word 2019.",
+    "options": [
+      "1. Insert",
+      "2. Page Layout",
+      "3. Home",
+      "4. Design"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Word 2019 में कोलुमनार सेक्शन में एक चित्र इन्सर्ट करने के लिए, ______ टैब पर क्लिक करें और इलस्ट्रेशन ग्रुप में चित्र पर क्लिक करें।",
+    "options": [
+      "1. इन्सर्ट",
+      "2. पेज लेआउट",
+      "3. होम",
+      "4. डिजाईन"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT a portable computer?",
+    "options": [
+      "1. Laptop",
+      "2. PDAs",
+      "3. Desktop",
+      "4. Tablet"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्न में से कौन सा एक पोर्टेबल कंप्यूटर नहीं है?",
+    "options": [
+      "1. लैपटॉप",
+      "2. PDAs",
+      "3. डेस्कटॉप",
+      "4. टैबलेट"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "PDP-11 is an example of ________.",
+    "options": [
+      "1. minicomputers",
+      "2. microcomputers",
+      "3. supercomputers",
+      "4. mainframe computers"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "PDP-11, __________ का एक उदाहरण है।",
+    "options": [
+      "1. मिनी कंप्यूटर",
+      "2. माइक्रो कंप्यूटर",
+      "3. सुपर कंप्यूटर",
+      "4. मेनफ्रेम कंप्यूटर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following keyboard shortcuts is used to 'Align Right' the text in Microsoft Word 2019?",
+    "options": [
+      "1. Ctrl + L",
+      "2. Ctrl + E",
+      "3. Ctrl + R",
+      "4. Ctrl + A"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Microsoft Word 2019 में, टेक्स्ट के 'दाएं संरेखण (Align Right)' के लिए उपयोग किया जाने वाला एक की-बोर्ड शॉर्टकट क्या है?",
+    "options": [
+      "1. Ctrl + L",
+      "2. Ctrl + E",
+      "3. Ctrl + R",
+      "4. Ctrl + A"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following shortcuts will you use to open the Margin dialog box in Microsoft Word 2019?",
+    "options": [
+      "1. Alt + P + S",
+      "2. Alt + P + M",
+      "3. Alt + P + N",
+      "4. Alt + P"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Microsoft Word 2019 में, मार्जिन डायलॉग बॉक्स खोलने के लिए निम्नलिखित में से किस की-बोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Alt + P + S",
+      "2. Alt + P + M",
+      "3. Alt + P + N",
+      "4. Alt + P"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following are connected to the Backbones i.e., fiber optic trunk lines at Network Access Points with high speed lines in internet Architecture?",
+    "options": [
+      "1. Internet Service Providers",
+      "2. Domain Name Server",
+      "3. Social networks",
+      "4. News groups"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन इंटरनेट आर्किटेक्चर में हाई स्पीड लाइनों के साथ नेटवर्क एक्सेस पॉइंट्स पर बैकबोन यानी फाइबर ऑप्टिक ट्रंक लाइनों से जुड़ा है?",
+    "options": [
+      "1. इंटरनेट सर्विस प्रोवाइडर्स",
+      "2. डोमेन नेम सर्वर",
+      "3. सोशल नेटवर्क्स",
+      "4. न्यूज़ ग्रुप्स"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In star topology, all devices connected to a central device by _________.",
+    "options": [
+      "1. Hub only",
+      "2. Switch only",
+      "3. Router",
+      "4. Hub or Switch"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "स्टार टोपोलॉजी में, सभी डिवाइस ______ द्वारा एक केंद्रीय डिवाइस से जुड़े होते हैं।",
+    "options": [
+      "1. केवल हब",
+      "2. केवल स्विच",
+      "3. राउटर",
+      "4. हब या स्विच"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "URL normalisation is performed by the:",
+    "options": [
+      "1. Web crawler",
+      "2. Web site",
+      "3. servers",
+      "4. clients"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "यूआरएल (URL) सामान्यी करण इसके द्वारा किया जाता है:",
+    "options": [
+      "1. वेब क्रॉलर",
+      "2. वेब साइट",
+      "3. सर्वर",
+      "4. क्ला इंट"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The decimal equivalent of binary number 010 is _______.",
+    "options": [
+      "1. 2",
+      "2. 1",
+      "3. 4",
+      "4. 6"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "बाइनरी संख्या 010 का दशमलव समतुल्य क्या होगा?",
+    "options": [
+      "1. 2",
+      "2. 1",
+      "3. 4",
+      "4. 6"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The correct syntax for the SUM function in Microsoft Excel is _______.",
+    "options": [
+      "1. =SUM(C1.C2.C3)",
+      "2. SUM(C1,C2,C3)",
+      "3. SUM(C1+C2+C3)",
+      "4. =SUM(C1+C2+C3)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Microsoft Excel में, SUM फ़ंक्शन के लिए सही सिंटेक्स क्या है?",
+    "options": [
+      "1. =SUM(C1.C2.C3)",
+      "2. SUM(C1,C2,C3)",
+      "3. SUM(C1+C2+C3)",
+      "4. =SUM(C1+C2+C3)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following functions makes Microsoft Excel search for a certain value in a column (the so-called 'table array'), in order to return a value from a different column in the same row?",
+    "options": [
+      "1. COUNT",
+      "2. SUMIF",
+      "3. VLOOKUP",
+      "4. MAX"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा फंक्शन Microsoft Excel में एक कॉलम (तथाकथित 'टेबल एरे') में एक निश्चित वैल्यू को सर्च करता है, ताकि उसी पंक्ति में एक अलग कॉलम से एक वैल्यू को रिटर्न किया जा सके?",
+    "options": [
+      "1. COUNT",
+      "2. SUMIF",
+      "3. VLOOKUP",
+      "4. MAX"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In Microsoft Excel 2019, use ______ key on your keyboard to switch between relative, absolute, and mixed cell references.",
+    "options": [
+      "1. F1",
+      "2. F2",
+      "3. F3",
+      "4. F4"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Microsoft Excel 2019 में, रिलेटिव, अब्सोलुटे और मिक्स्ड सेल संदर्भों के बीच स्विच करने के लिए अपने कीबोर्ड पर ______ कुंजी का उपयोग करें।",
+    "options": [
+      "1. F1",
+      "2. F2",
+      "3. F3",
+      "4. F4"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In Microsoft Excel 2019, the Customize Ribbon option that helps create a macro is present in the ______ tab.",
+    "options": [
+      "1. Insert",
+      "2. File",
+      "3. Design",
+      "4. Developer"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Microsoft Excel 2019 में, मैक्रो क्रिएट करने में सहायक कस्टमाइज़ रिबन विकल्प ______ टैब में मौजूद होता है।",
+    "options": [
+      "1. इन्सर्ट",
+      "2. फ़ाइल",
+      "3. डिजाइन",
+      "4. डेवलपर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In Microsoft Excel, to quickly autofit all columns in a worksheet, you must click the ______ button and then double-click any boundary between two column headings.",
+    "options": [
+      "1. Select All",
+      "2. Clear All",
+      "3. Delete All",
+      "4. Undo"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Microsoft Excel में, किसी वर्कशीट में सभी कॉलमों को तुरंत ऑटोफिट करने के लिए, आपको ____ बटन पर क्लिक करना होगा और फिर दो कॉलम हेडिंग्स के बीच किसी भी बाउंड्री पर डबल-क्लिक करना होगा।",
+    "options": [
+      "1. सेलेक्ट ऑल (Select All)",
+      "2. क्लियर ऑल (Clear All)",
+      "3. डिलीट ऑल (Delete All)",
+      "4. अनडू (Undo)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The ASCII value of ‘B’ is ________.",
+    "options": [
+      "1. 66",
+      "2. 97",
+      "3. 32",
+      "4. 65"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "‘B’ का ASCII मान क्या है?",
+    "options": [
+      "1. 66",
+      "2. 97",
+      "3. 32",
+      "4. 65"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In Microsoft Excel, a pivot table is used to ________.",
+    "options": [
+      "1. record a sequence of steps",
+      "2. repeat a sequence of steps",
+      "3. summarise data in a table",
+      "4. test data in a table"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Microsoft Excel में, पिवोट टेबल का उपयोग ________ के लिए किया जाता है।",
+    "options": [
+      "1. चरणों का क्रम रिकॉर्ड करने",
+      "2. चरणों का क्रम दोहराने",
+      "3. डेटा को एक तालिका में संक्षेपित करने",
+      "4. किसी तालिका में डेटा का परीक्षण करने"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The binary equivalent of decimal 9 is ________.",
+    "options": [
+      "1. 111",
+      "2. 1001",
+      "3. 1111",
+      "4. 10001"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "दशमलव संख्या 9 का बाइनरी समतुल्य क्या होगा?",
+    "options": [
+      "1. 111",
+      "2. 1001",
+      "3. 1111",
+      "4. 10001"
+    ],
+    "answer": 1
+  }
 ]
         
         };
