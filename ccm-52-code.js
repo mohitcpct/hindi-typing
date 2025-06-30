@@ -18764,6 +18764,1048 @@
     ],
     "answer": 2
   }
+],
+  "13th July 2024 - Shift1": [
+  {
+    "q": "The keyboard shortcut ______ will launch the Start menu.",
+    "options": [
+      "1. Esc",
+      "2. Shift",
+      "3. Windows",
+      "4. Ctrl"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्न में से कौन सा की-बोर्ड शॉर्टकट, स्टार्ट मेन्यू को खोलता है?",
+    "options": [
+      "1. Esc",
+      "2. Shift",
+      "3. Windows",
+      "4. Ctrl"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "There are ______ bits in one byte.",
+    "options": [
+      "1. 4",
+      "2. 8",
+      "3. 16",
+      "4. 32"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक बाइट में कितने बिट्स होते हैं?",
+    "options": [
+      "1. 4",
+      "2. 8",
+      "3. 16",
+      "4. 32"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Notebook computer belongs to which generation of computers?",
+    "options": [
+      "1. First",
+      "2. Second",
+      "3. Fourth",
+      "4. Fifth"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "नोटबुक कंप्यूटर किस पीढ़ी के कंप्यूटर से संबंधित है?",
+    "options": [
+      "1. पहला",
+      "2. दूसरा",
+      "3. चौथा",
+      "4. पांचवां"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "CAE is the use of computer software to simulate performance to improve product designs or assist in the resolution of engineering problems for a wide range of industries. What is the full form of CAE?",
+    "options": [
+      "1. Computer-analogy engineering",
+      "2. Computer-aided engineering",
+      "3. Computer-aided entertainment",
+      "4. Congruent-aided engineering"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "CAE उत्पाद डिजाइन में सुधार के लिए प्रदर्शन का अनुकरण करने या उद्योगों की एक विस्तृत श्रृंखला के लिए इंजीनियरिंग समस्याओं के समाधान में सहायता करने के लिए कंप्यूटर सॉफ्टवेयर का उपयोग है। CAE का पूर्ण रूप क्या है?",
+    "options": [
+      "1. कंप्यूटर-एनालोजी इंजीनियरिंग",
+      "2. कंप्यूटर-एडेड इंजीनियरिंग",
+      "3. कंप्यूटर-एडेड एंटरटेनमेंट",
+      "4. कोंग्रुकों ग्रुएन्ट-एडेड इंजीनियरिंग"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which keyboard shortcut is used to go and select text to start of document in OpenOffice.org writer?",
+    "options": [
+      "1. Alt + Home",
+      "2. Ctrl + Shift + Home",
+      "3. Ctrl + Home",
+      "4. Home"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "OpenOffice.org राइटर में डॉक्यूमेंट की शुरुआत में टेक्स्ट का चयन करने के लिए किस कीबोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Alt + Home",
+      "2. Ctrl + Shift + Home",
+      "3. Ctrl + Home",
+      "4. Home"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which function returns the number of periods for an investment in Microsoft Excel?",
+    "options": [
+      "1. NPER function",
+      "2. TPERIOD function",
+      "3. TNPERIOD function",
+      "4. TNPER function"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कौन सा फ़ंक्शन Microsoft Excel में निवेश के लिए अवधियों की संख्या लौटाता है?",
+    "options": [
+      "1. NPER फंक्शन",
+      "2. TPERIOD फंक्शन",
+      "3. TNPERIOD फंक्शन",
+      "4. TNPER फंक्शन"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In Microsoft PowerPoint, a ________ is used to hold the text, pictures and charts.",
+    "options": [
+      "1. Scroll bar",
+      "2. Placeholder",
+      "3. Quick Access toolbar",
+      "4. Title bar"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Microsoft PowerPoint में, टेक्स्ट, चित्र और चार्ट को रखने के लिए ________ का उपयोग किया जाता है।",
+    "options": [
+      "1. स्क्रॉल बार",
+      "2. प्लेसहोल्डर",
+      "3. क्विक एक्सेस टूलबार",
+      "4. टाइटल बार"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ determines the clarity and sharpness of a computer screen image.",
+    "options": [
+      "1. Low fidelity",
+      "2. High fidelity",
+      "3. View option",
+      "4. Resolution"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कंप्यूटर स्क्रीन इमेज की स्पष्टता और निखार का निर्धारण निम्न में से किसके द्वारा होता है?",
+    "options": [
+      "1. कम निष्ठा (Low Fidelity)",
+      "2. उच्च निष्ठा (High Fidelity)",
+      "3. व्यू ऑप्शन",
+      "4. रिज़ॉल्यूशन"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following statements is NOT valid about the magnetic tape?",
+    "options": [
+      "1. It is a plastic ribbon.",
+      "2. It is coated on both sides with iron oxide.",
+      "3. It can be erased and reused.",
+      "4. It cannot be used as a storage medium."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "चुंबकीय टेप के संबंध में निम्न में से कौन सा कथन वैध नहीं है?",
+    "options": [
+      "1. यह एक प्लास्टिक रिबन है।",
+      "2. इसके दोनों तरफ आयरन ऑक्साइड की परत चढ़ी होती है",
+      "3. इसे मिटाया और पुन:उपयोग किया जा सकता है।",
+      "4. इसका उपयोग भंडारण माध्यम के रूप में नहीं किया जा सकता है।"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In the flat file database, each line of the plain-text file holds only one record. These records are separated using delimiters called _________.",
+    "options": [
+      "1. tab",
+      "2. paragraph marks",
+      "3. back slash",
+      "4. asterisk"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "फ्लैट फ़ाइल डेटाबेस में, प्लेन टेक्स्ट फ़ाइल की प्रत्येक पंक्ति में केवल एक रिकॉर्ड होता है। इन रिकार्ड्स को _________ नामक परिसीमकों (delimiters) का उपयोग करके अलग किया जाता है।",
+    "options": [
+      "1. टैब (Tab)",
+      "2. पैराग्राफ मार्क्स (Paragraph Marks)",
+      "3. बैक स्लैश (Back Slash)",
+      "4. तारांकन (Asterisk)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The presentation in Microsoft PowerPoint is saved with _________ extension.",
+    "options": [
+      "1. .ptpx",
+      "2. .pptx",
+      "3. .pttx",
+      "4. .tppx"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Microsoft PowerPoint में प्रेजेंटेजेंटेशन को _________ एक्सटेंशन के साथ सेव किया जाता है।",
+    "options": [
+      "1. .ptpx",
+      "2. .pptx",
+      "3. .pttx",
+      "4. .tppx"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following device performs the same basic function as a hard drive, but data is instead stored on interconnected flash memory chips that retain the data even when there is no power flowing through them?",
+    "options": [
+      "1. Cache memory chip",
+      "2. Dynamic RAM",
+      "3. Static RAM",
+      "4. Solid State drive"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा उपकरण हार्ड ड्रा इव के समान मूल कार्य करता है, लेकिन डेटा को इंटरकनेक्टेड फ्लैश-मेमोरी चिप्स पर संग्रहीत किया जाता है जो डेटा को तब भी बनाए रखता है जब उनके माध्यम से कोई बिजली प्रवाहित नहीं होती है?",
+    "options": [
+      "1. कैश मेमोरी चिप (Cache memory chip)",
+      "2. डायनेमिक रैम (Dynamic RAM)",
+      "3. स्टेटिक रैम (Static RAM)",
+      "4. सॉलिड स्टेट ड्राइव (Solid State drive)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "_________ is used to draw complex design and graphs, charts.",
+    "options": [
+      "1. Flatbed plotter",
+      "2. Flatbed scanner",
+      "3. Drum plotter",
+      "4. Inkjet printer"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_________ का उपयोग जटिल डिज़ाइन और ग्राफ़, चार्ट बनाने के लिए किया जाता है।",
+    "options": [
+      "1. फ्लैटबेड प्लॉटर",
+      "2. फ्लैटबेड स्कैनर",
+      "3. ड्रम प्लॉटर",
+      "4. इंकजेट प्रिंटर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "There are ______ types of plotters.",
+    "options": [
+      "1. one",
+      "2. five",
+      "3. three",
+      "4. six"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "प्लॉटर कितने प्रकार के होते हैं?",
+    "options": [
+      "1. एक",
+      "2. पाँच",
+      "3. तीन",
+      "4. छह"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The Cathode Ray Tube (CRT) display consists of small picture elements known as ________.",
+    "options": [
+      "1. parameters",
+      "2. pixels",
+      "3. icons",
+      "4. pictures"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कैथोड रे ट्यूब (CRT) डिस्प्ले में छोटे चित्र तत्व होते हैं जिन्हें ________ के रूप में जाना जाता है।",
+    "options": [
+      "1. पैरामीटर",
+      "2. पिक्सेल",
+      "3. आइकॉन",
+      "4. पिक्चर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "PERL stands for:",
+    "options": [
+      "1. Practical Extraction and Report Language",
+      "2. Previous Examination and Report Language",
+      "3. Practical Examination and Report Language",
+      "4. Practical Extraction and Rewritten Language"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "पर्ल (PERL) का पूर्ण रूप क्‍या है?",
+    "options": [
+      "1. Practical Extraction and Report Language (प्रैक्टिकल एक्सट्रैक्शन एंड रिपोर्ट लैंग्वेज)",
+      "2. Previous Examination and Report Language (प्रीवियस एग्जामिनेशन एंड रिपोर्ट लैंग्वेज)",
+      "3. Practical Examination and Report Language (प्रैक्टिकल एग्जामिनेशन एंड रिपोर्ट लैंग्वेज)",
+      "4. Practical Extraction and Rewritten Language (प्रैक्टिकल एक्सट्रैक्शन एंड रिरिटेन लैंग्वेज)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "If we want to print a page in vertical orientation, then which of the following is a CORRECT option?",
+    "options": [
+      "1. Landscape",
+      "2. Portrait",
+      "3. Both Landscape and Portrait",
+      "4. Diagonal"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "यदि हम किसी पेज को वर्टिकल ओरिएंटेशन में प्रिंट करना चाहते हैं, तो निम्नलिखित में से कौन सा सही विकल्प है?",
+    "options": [
+      "1. लैंडस्केप (Landscape)",
+      "2. पोर्ट्रेट (Portrait)",
+      "3. लैंडस्केप (Landscape) और पोर्ट्रेट (Portrait) दोनों",
+      "4. विकर्णी"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is 'Finishing' in the Printer Properties?",
+    "options": [
+      "1. It allows you to print multiple copies and enables to set the order of pages.",
+      "2. When printing a single page, it enables to set the order of pages.",
+      "3. When printing multiple copies, it disables to set the order of pages",
+      "4. When printing multiple copies, it enables the order of printers"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "प्रिंटर प्रॉपर्टीज़ में 'Finishing (फिनिशिंग)' क्या है?",
+    "options": [
+      "1. आपको कई प्रतियां प्रिंट करने की अनुमति देता है और यह पृष्ठ के क्रम को सेट करने में सक्षम बनाता है।",
+      "2. एक एकल पृष्ठ को प्रिंट करते समय, यह पृष्ठ के क्रम को सेट करने में सक्षम बनाता है।",
+      "3. कई प्रतियों को प्रिंट करते समय, यह पृष्ठ के क्रम को सेट करने में अक्षम बनाता है।",
+      "4. कई प्रतियों को प्रिंट करते समय, यह प्रिंटर के क्रम को सेट करने में सक्षम बनाता है।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a non-impact printer?",
+    "options": [
+      "1. Daisy Wheel printer",
+      "2. Dot-Matrix printer",
+      "3. Thermal printer",
+      "4. Drum printer"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, एक नॉन-इम्पैक्ट प्रिंटर है?",
+    "options": [
+      "1. डेज़ी व्हील प्रिंटर",
+      "2. डॉट-मैट्रिक्स प्रिंटर",
+      "3. थर्मल प्रिंटर",
+      "4. ड्रम प्रिंटर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which device is used to share data for a shorter distance?",
+    "options": [
+      "1. Microwave",
+      "2. Satellite",
+      "3. Co-axial cable",
+      "4. Bluetooth"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कम दूरी के लिए डेटा साझा (शेयर) करने के लिए किस डिवाइस का उपयोग किया जाता है?",
+    "options": [
+      "1. माइक्रोवेव",
+      "2. सैटेलाइट",
+      "3. को-ऐक्सियल केबल",
+      "4. ब्लूटूथ"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is a solid font printer?",
+    "options": [
+      "1. Inkjet printer",
+      "2. Laser printer",
+      "3. LED printer",
+      "4. Band printer"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा एक सॉलिड फॉन्ट प्रिंटर है?",
+    "options": [
+      "1. इंकजेट प्रिंटर",
+      "2. लेज़र प्रिंटर",
+      "3. LED प्रिंटर",
+      "4. बैंड प्रिंटर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is an Operating System?",
+    "options": [
+      "1. DragonFlyBSD",
+      "2. MS-Word",
+      "3. MS-Paint",
+      "4. MS-PowerPoint"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सी एक ऑपरेटिंग सिस्टम है?",
+    "options": [
+      "1. ड्रेगनफ्लायBSD",
+      "2. MS-Word",
+      "3. MS-Paint",
+      "4. MS-PowerPoint"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A typical CD consists of reflective layer coated with:",
+    "options": [
+      "1. brass",
+      "2. zinc",
+      "3. mercury",
+      "4. aluminium"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "एक सामान्य सीडी (CD) में निम्न के साथ लेपित परावर्तक परत होती है:",
+    "options": [
+      "1. पीतल की",
+      "2. जस्ते की",
+      "3. पारे की",
+      "4. ऐल्युमीनियम की"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Reduction of data is needed in case of:",
+    "options": [
+      "1. image equalisation",
+      "2. image enhancement",
+      "3. image compression",
+      "4. image normalisation"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "किस मामले में डेटा के न्यूनन (रिडक्शन) की आवश्यकता होती है?",
+    "options": [
+      "1. चित्र इक्वलाइजेशन (Image Equalisation)",
+      "2. चित्र एनहांसमेंट (Image Enhancement)",
+      "3. चित्र संपीडन (Image Compression)",
+      "4. चित्र नोर्मलाईजेशन (Image Normalisation)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which is of the following is NOT a step of JPEG compression?",
+    "options": [
+      "1. DCT",
+      "2. Quantization",
+      "3. Encoding",
+      "4. Summation of pixel intensities"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से कौन-सा, JPEG संपीड़न (Compression) का एक चरण (Step) नहीं है?",
+    "options": [
+      "1. DCT",
+      "2. प्रमात्रीकरण (Quantization)",
+      "3. एन्कोडिंग",
+      "4. पिक्सल तीव्रता का संकलन (Summation of pixel intensities)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is NOT produced by the hash function in cryptography?",
+    "options": [
+      "1. Hash Value",
+      "2. Message Digest",
+      "3. Digital Fingerprint",
+      "4. Digital Watermark"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "क्रिप्टोग्राफी में हैश फंक्शन के द्वारा निम्नलिखित में से किसे प्रस्तुत नहीं किया जाता है?",
+    "options": [
+      "1. हैश वैल्यू",
+      "2. मैसेज डाइजेस्ट",
+      "3. डिजिटल फिंगरप्रिन्ट",
+      "4. डिजिटल वाटरमार्क"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In color inkjet cartridge, the ink is in primary pigments _____, ______ and ____________.",
+    "options": [
+      "1. cyan, magenta and yellow",
+      "2. green, red and yellow",
+      "3. green, magenta and yellow",
+      "4. cyan, red and yellow"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कलर इंकजेट कार्ट्रिज में, स्याही प्राथमिक वर्णक _____, ______ और ____________ में होती है।",
+    "options": [
+      "1. नीला हरित (Cyan), लालिमायुक्त बैगनी (Magenta) और पीले",
+      "2. हरा, लाल और पीले",
+      "3. हरा, लालिमायुक्त बैगनी (Magenta) और पीले",
+      "4. नीला हरित (Cyan), लाल और पीले"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the full form of RSS?",
+    "options": [
+      "1. Real Simple Syndication",
+      "2. Real Single Syndication",
+      "3. Really Single Syndication",
+      "4. Really Simple Syndication"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "RSS का पूर्ण रूप (पूरा नाम) क्या है?",
+    "options": [
+      "1. Real Simple Syndication (रियल सिम्पल सिंडिकेशन)",
+      "2. Real Single Syndication (रियल सिंगल सिंडिकेशन)",
+      "3. Really Single Syndication (रियली सिंगल सिंडिकेशन)",
+      "4. Really Simple Syndication (रियली सिम्पल सिंडिकेशन)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is NOT a webmail provider?",
+    "options": [
+      "1. Gmail",
+      "2. Outlook",
+      "3. Kloser",
+      "4. Yahoo"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, एक वेबमेल प्रदाता नहीं है?",
+    "options": [
+      "1. जीमेल (Gmail)",
+      "2. आउटलुक (Outlook)",
+      "3. क्लोज़र (Kloser)",
+      "4. याहू (Yahoo)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Name an evaluation technique to assess the quality of test cases.",
+    "options": [
+      "1. Verification",
+      "2. Mutation analysis",
+      "3. Validation",
+      "4. Performance analysis"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "परीक्षण केस (test cases) की गुणवत्ता का मूल्यांकन करने के लिए एक मूल्यांकन तकनीक का नाम बताएं।",
+    "options": [
+      "1. सत्यापन (Verification)",
+      "2. उत्परिवर्तन विश्लेषण (Mutation analysis)",
+      "3. मान्‍यकरण (Validation)",
+      "4. प्रदर्शन विश्लेषण (Performance analysis)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which button in MS-Word is used when you want to copy formatting from one object or text to another?",
+    "options": [
+      "1. Format Painter",
+      "2. Header",
+      "3. Subscript",
+      "4. Superscript"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "जब आप एक ऑब्जेक्ट या टेक्स्ट की फ़ॉर्मेटिंग को किसी दूसरे ऑब्जेक्ट या टेक्स्ट में कॉपी करना चाहते हैं, तो MS-Word में किस बटन का उपयोग किया जाता है?",
+    "options": [
+      "1. फॉर्मेट पेंटर",
+      "2. हेडर",
+      "3. सबस्क्रिप्ट",
+      "4. सुपरस्क्रिप्ट"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "World Wide Web was founded by ________.",
+    "options": [
+      "1. Bill Gates",
+      "2. Linus Torvalds",
+      "3. Tim Berners-Lee",
+      "4. Steve Jobs"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "वर्ल्ड वाइड वेब (WWW) की स्थापना किसके द्वारा की गई?",
+    "options": [
+      "1. बिल गेट्स",
+      "2. लाइनस टॉरवाल्ड्स",
+      "3. टिम बर्नर्स-ली",
+      "4. स्टीव जॉब्स"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "_______ tag indicates start of the HTML document.",
+    "options": [
+      "1. <HTML>",
+      "2. <BODY>",
+      "3. <TITLE>",
+      "4. <HEAD>"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_______ टैग, HTML डॉक्यूमेंट की शुरुआत को दर्शाता है।",
+    "options": [
+      "1. <HTML>",
+      "2. <BODY>",
+      "3. <TITLE>",
+      "4. <HEAD>"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The full form of CUI is _______.",
+    "options": [
+      "1. Character User Interface",
+      "2. Character Under Interface",
+      "3. Command User Interchange",
+      "4. Command Under Interchange"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "CUI का पूर्णरूप क्या है?",
+    "options": [
+      "1. Character User Interface (कॅरक्टर यूजर इंटरफेस)",
+      "2. Character Under Interface (कॅरक्टरअंडर इंटरफेस)",
+      "3. Command User Interchange (कमांड यूजर इंटरचेंज)",
+      "4. Command Under Interchange (कमांड अंडर इंटरचेंज)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In 1970, Alan Kay invented the first object-oriented programming language called __________.",
+    "options": [
+      "1. Tablet Comp",
+      "2. Kiddi Comp",
+      "3. Kudo Comp",
+      "4. Smalltalk"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "1970 में, एलन केए (Alan Kay) ने __________ नामक पहली ऑब्जेक्ट-ओरिएंटेड प्रोग्रामिंग भाषा (object-oriented programming language) का आविष्कार किया।",
+    "options": [
+      "1. टैबलेट कॉम्प",
+      "2. किड्डी कॉम्प",
+      "3. कुडो कॉम्प",
+      "4. स्मालटॉक"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A computer can only understand ____________ directly.",
+    "options": [
+      "1. machine language",
+      "2. algorithms",
+      "3. high-level language",
+      "4. middle-level language"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कंप्यूटर केवल ____________ को सीधे समझ सकता है।",
+    "options": [
+      "1. मशीन लैंग्वेज",
+      "2. एल्गोरिदम",
+      "3. हाई लेवल लैंग्वेज",
+      "4. मिडिल लेवल लैंग्वेज"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In Windows 10, ___________ is the recent replacement of the old Control Panel.",
+    "options": [
+      "1. Control app",
+      "2. Settings app",
+      "3. System app",
+      "4. Cortana"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Windows 10 में, ________ पुराने कंट्रोल पैनल का नवीनतम प्रतिस्थापन है।",
+    "options": [
+      "1. कंट्रोल ऐप",
+      "2. सेटिंग ऐप",
+      "3. सिस्टम ऐप",
+      "4. कोर्टाना"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a fifth generation language?",
+    "options": [
+      "1. COBOL",
+      "2. LISP",
+      "3. Java",
+      "4. BASIC"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्न में से कौन सी भाषा कम्प्यूटरों की पांचवीं पीढ़ी से संबंधित है?",
+    "options": [
+      "1. COBOL",
+      "2. LISP",
+      "3. Java",
+      "4. BASIC"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "An ________ is also called a slate computer.",
+    "options": [
+      "1. iPod",
+      "2. iPhone",
+      "3. iMac",
+      "4. iPad"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "________ को स्लेट कंप्यूटर भी कहा जाता है।",
+    "options": [
+      "1. iPod",
+      "2. iPhone",
+      "3. iMac",
+      "4. iPad"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which among the following is/are characteristics of the Internet of Things?<br><br>A. Connectivity<br>B. Dynamic and Self-Adapting<br>C. Scalability",
+    "options": [
+      "1. Both A and B",
+      "2. Both B and C",
+      "3. Both A and C",
+      "4. All of A, B, C"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सी इंटरनेट ऑफ थिंग्स (Internet of Things) की विशेषता है/हैं?<br><br>A. कनेक्टिविटी (Connectivity)<br>B. गतिशील और आत्म-अनुकूलन (Dynamic and Self-Adapting)<br>C. मापनीयता (Scalability)",
+    "options": [
+      "1. A और B दोनों",
+      "2. B और C दोनों",
+      "3. A और C दोनों",
+      "4. A, B, C सभी"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "_________ is a set of programs that are used to manage the database.",
+    "options": [
+      "1. Hardware",
+      "2. Software",
+      "3. Administrator",
+      "4. Data"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "_________ प्रोग्राम्स का एक सेट है, जो डेटाबेस को प्रबंधित करने के लिए उपयुक्त होता है।",
+    "options": [
+      "1. हार्डवेयर",
+      "2. सॉफ्टवेयर",
+      "3. एडमिनिस्ट्रेटर",
+      "4. डेटा"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______________ is a computer network organised by an individual for personal use.",
+    "options": [
+      "1. Local Area Network(LAN)",
+      "2. Metropolitan Area Network(MAN)",
+      "3. Personal Area Network(PAN)",
+      "4. Wide Area Network(WAN)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "व्यक्तिगत उपयोग के लिए प्रयुक्त होने वाला कंप्यूटर नेटवर्क निम्न में से कौन सा है?",
+    "options": [
+      "1. लोकल एरिया नेटवर्क (LAN)",
+      "2. मेट्रो पोलिटन एरिया नेटवर्क (MAN)",
+      "3. पर्सनल एरिया नेटवर्क (PAN)",
+      "4. वाइड एरिया नेटवर्क (WAN)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which generation of computer languages includes Structured Query Language (SQL)?",
+    "options": [
+      "1. Fourth Generation Languages(4GL)",
+      "2. Second Generation Languages(2GL)",
+      "3. Third Generation Languages(3GL)",
+      "4. Fifth Generation Languages(5GL)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कंप्यूटर भाषाओं की किस पीढ़ी में स्ट्रक्चर्ड क्वेरी लैंग्वेज (SQL) शामिल है?",
+    "options": [
+      "1. फोर्थ जनरेशन लैंग्वेजेज (4GL)",
+      "2. सेकंड जनरेशन लैंग्वेजेज (2GL)",
+      "3. थर्ड जनरेशन लैंग्वेजेज (3GL)",
+      "4. फिफ्थ जनरेशन लैंग्वेजेज (5GL)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The ASCII value of ‘a’ in decimal is ________.",
+    "options": [
+      "1. 97",
+      "2. 65",
+      "3. 98",
+      "4. 66"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "‘a’ का ASCII मान दशमलव में क्या होगा?",
+    "options": [
+      "1. 97",
+      "2. 65",
+      "3. 98",
+      "4. 66"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The octal equivalent of binary number 1111 is _______.",
+    "options": [
+      "1. 15",
+      "2. 14",
+      "3. 17",
+      "4. 16"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "द्विआधारी (Binary) संख्या 1111 का अष्टक समतुल्य क्या होगा?",
+    "options": [
+      "1. 15",
+      "2. 14",
+      "3. 17",
+      "4. 16"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following Excel formula will find out the minimum value from the range D1 to D6?",
+    "options": [
+      "1. =MIN(D1:D6)",
+      "2. MIN(D1:D6)",
+      "3. =MINIMUM(D1:D6)",
+      "4. MINIMUM(D1:D6)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा Excel फॉर्मूला D1 से D6 तक के न्यूनतम मान का पता लगाएगा?",
+    "options": [
+      "1. =MIN(D1:D6)",
+      "2. MIN(D1:D6)",
+      "3. =MINIMUM(D1:D6)",
+      "4.  MINIMUM(D1:D6)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "With respect to DBMS, lowest level of data abstraction is ______ Level.",
+    "options": [
+      "1. Logical",
+      "2. Physical",
+      "3. View option",
+      "4. Representation"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "DBMS के संबंध में, डेटा मतिहीनता (abstraction) का न्यूनतम स्तर ________है।",
+    "options": [
+      "1. लॉजिकल",
+      "2. फिजिकल",
+      "3. व्यू ऑप्शन",
+      "4. रेप्रेज़ेंटशन"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The _______ table is used to summarise or analyse data in large tables in Microsoft Excel.",
+    "options": [
+      "1. Data",
+      "2. Reference",
+      "3. Pivot",
+      "4. Quick"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "_______ तालिका का उपयोग Microsoft Excel में बड़ी तालिकाओं में डेटा को सारांशित (summarize) या विश्लेषण (analyze) करने के लिए किया जाता है।",
+    "options": [
+      "1. डेटा (Data)",
+      "2. रेफेरेंस (Reference)",
+      "3. पिवोट (Pivot)",
+      "4. क्विक (Quick)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "COBOL stands for Common _______ Oriented Language.",
+    "options": [
+      "1. Basic",
+      "2. Beginner",
+      "3. Business",
+      "4. Based"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "COBOL का पूर्ण रूप, कॉमन _________ ओरिएंटेड लैंग्वेज है।",
+    "options": [
+      "1. बेसिक",
+      "2. बिगिनर",
+      "3. बिजनेस",
+      "4. बेस्ड"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The ASCII value of 9 is ________.",
+    "options": [
+      "1. 57",
+      "2. 97",
+      "3. 32",
+      "4. 65"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "‘9’ का ASCII मान क्या है?",
+    "options": [
+      "1. 57",
+      "2. 97",
+      "3. 32",
+      "4. 65"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is FALSE with reference to computer hardware?",
+    "options": [
+      "1. It consists of electronic components like ICs, diodes, registers, crystals, boards, insulators, etc.",
+      "2. It is mostly constructed for all types of computer systems.",
+      "3. It includes physical components of computer system.",
+      "4. It can understand only high level language."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कंप्यूटर हार्डवेयर के संदर्भ में निम्नलिखित में से कौन-सा गलत (FALSE) है?",
+    "options": [
+      "1. इसमें आईसी, डायोड, रजिस्टर, क्रिस्टल, बोर्ड, इंसुलेटर इत्यादि जैसे इलेक्ट्रॉ निक घटक होते हैं।",
+      "2. यह ज्यादातर सभी प्रकार के कंप्यूटर सिस्टम के लिए बनाया गया है।",
+      "3. इसमें कंप्यूटर सिस्टम के भौतिक घटक शामिल होते हैं।",
+      "4. यह केवल उच्च स्तरीय भाषा को ही समझ सकता है।"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which language is optimised for web and internet applications?",
+    "options": [
+      "1. Java",
+      "2. Cobol",
+      "3. C++",
+      "4. C"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "वेब और इंटरनेट अनुप्रयोगों के लिए निम्न में से कौन सी भाषा अनुकूल है?",
+    "options": [
+      "1. Java",
+      "2. Cobol",
+      "3. C++",
+      "4. C"
+    ],
+    "answer": 0
+  }
 ]
         
         };
