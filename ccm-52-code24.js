@@ -5208,6 +5208,1049 @@
     ],
     "answer": 0
   }
+],
+  "14th July 2024 - Shift1": [
+  const questions = [
+  {
+    "q": "Which of the following displays programs that are currently running in Windows 10 OS?",
+    "options": [
+      "1. Menu bar",
+      "2. Task bar",
+      "3. Title bar",
+      "4. Status bar"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा प्रोग्राम उन प्रोग्रामों को प्रदर्शित करता है जो वर्तमान में विंडोज़ 10 ओएस में चल रहे हैं?",
+    "options": [
+      "1. मेनू बार",
+      "2. टास्क बार",
+      "3. टाइटल बार",
+      "4. स्टेटस बार"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is NOT a unit of memory in the computers?",
+    "options": [
+      "1. Megabyte (MB)",
+      "2. Gigabyte (GB)",
+      "3. Nato byte (NB)",
+      "4. Byte"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्न में से कौन सी कंप्यूटर में प्रयुक्त मेमोरी की एक इकाई नहीं है?",
+    "options": [
+      "1. मेगाबाइट (MB)",
+      "2. गीगाबाइट (GB)",
+      "3. नाटोबाइट (NB)",
+      "4. बाइट"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is NOT a type of RAM?",
+    "options": [
+      "1. SRAM (Static RAM)",
+      "2. Prime RAM",
+      "3. DDR RAM (Double Data Rate RAM)",
+      "4. SDRAM (Synchronous Dynamic RAM)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्न में से कौन सी एक प्रकार की RAM नहीं है?",
+    "options": [
+      "1. SRAM (स्टेटिक रैम)",
+      "2. प्राइम RAM",
+      "3. DDR RAM (डबल डेटा रेट रैम)",
+      "4. SDRAM (सिंक्रोनस डायनामिक रैम)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which keyboard shortcut is used to delete the text to the beginning of the word in an Open Office writer?",
+    "options": [
+      "1. Backspace",
+      "2. Ctrl + Alt + Backspace",
+      "3. Ctrl + Backspace",
+      "4. Shift + Backspace"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "ओपन ऑफिस राइटर (OpenOffice writer) में, किसी शब्द की शुरुआत से टेक्स्ट को डिलीट करने के लिए निम्न में से किस की-बोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Backspace",
+      "2. Ctrl + Alt + Backspace",
+      "3. Ctrl + Backspace",
+      "4. Shift + Backspace"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "______ is a volatile memory.",
+    "options": [
+      "1. RAM",
+      "2. ROM",
+      "3. EEPROM",
+      "4. EPROM"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से कौन सी एक उदवायी मेमोरी है?",
+    "options": [
+      "1. RAM",
+      "2. ROM",
+      "3. EEPROM",
+      "4. EPROM"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following functions converts text to number in a locale independent manner in Microsoft Excel 2019?",
+    "options": [
+      "1. LOCLEVALUE function",
+      "2. TEXTVALUE function",
+      "3. NUMTEXTVALUE function",
+      "4. NUMBERVALUE function"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Microsoft Excel 2019 में, कौन सा फंक्शन किसी स्थानीय स्वतंत्र तरीके से टेक्स्ट को अक्षरों में बदलता है?",
+    "options": [
+      "1. LOCLEVALUE फंक्शन",
+      "2. TEXTVALUE फंक्शन",
+      "3. NUMTEXTVALUE फंक्शन",
+      "4. NUMBERVALUE फंक्शन"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "An input device that allows a user to input data into a computer system by speaking to it is known as ______.",
+    "options": [
+      "1. Microphone",
+      "2. Mouse",
+      "3. Projector",
+      "4. Scanner"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से वह इनपुट डिवाइस कौन सी है जिसके द्वारा बोलकर कंप्यूटर सिस्टम में डेटा इनपुट किया जा सकता है?",
+    "options": [
+      "1. माइक्रोफोन",
+      "2. माउस",
+      "3. प्रोजेक्टर",
+      "4. स्कैनर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following devices is used for translating information from the computer into pictorial form on a paper?",
+    "options": [
+      "1. Light pen",
+      "2. Keyboard",
+      "3. Plotter",
+      "4. Touch panel"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "किसी इनफार्मेशन को कंप्यूटर से पेपर पर चित्रात्मक रूप में परिवर्तित करने के लिए निम्न में से किस डिवाइस का उपयोग किया जाता है ?",
+    "options": [
+      "1. लाइट पेन",
+      "2. कीबोर्ड",
+      "3. प्लॉटर",
+      "4. टच पैनल"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "CD is a(n) ______ type of data storage.",
+    "options": [
+      "1. optical",
+      "2. electrical",
+      "3. mechanical",
+      "4. magnetic"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "सीडी (CD), ___________ प्रकार का डेटा स्टोरेज है।",
+    "options": [
+      "1. ऑप्टिकल",
+      "2. इलेक्ट्रिकल",
+      "3. मैकेनिकल",
+      "4. मैग्नेटिक"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The full form of ISP is ________.",
+    "options": [
+      "1. Intranet Service Provider",
+      "2. Internet System Provider",
+      "3. Internet Service Provider",
+      "4. Internet Service Plan"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "ISP का पूर्णरूप क्या है?",
+    "options": [
+      "1. Intranet Service Provider (इंट्रानेट सर्विस प्रोवाइडर)",
+      "2. Internet System provider (इंटरनेट सिस्टम प्रोवाइडर)",
+      "3. Internet Service provider (इंटरनेट सर्विस प्रोवाइडर)",
+      "4. Internet Service Plan (इंटरनेट सर्विस प्लान)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A barcode scanner eccentrically consists of three different parts, EXCLUDING:",
+    "options": [
+      "1. The illumination system",
+      "2. The virtual locking system",
+      "3. The sensor",
+      "4. The decoder"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक बारकोड स्कैनर में विलक्षण रूप से तीन अलग-अलग भाग होते हैं, सिवाय:",
+    "options": [
+      "1. इलुमिनेशन सिस्टम",
+      "2. वर्चुअल लॉकिंग सिस्टम",
+      "3. सेंसर",
+      "4. डिकोडर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In a Blue Ray Disc, Spacer-Layer thickness must be higher than ______ to avoid deterioration of the readout signal caused by the optical crosstalk from adjacent layers.",
+    "options": [
+      "1. 6 µm",
+      "2. 10 µm",
+      "3. 5 µm",
+      "4. 9 µm"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ब्लू रे डिस्क में, आसन्न परतों से ऑप्टिकल क्रॉस टॉक के कारण रीडआउट सिग्नल की गिरावट से बचने के लिए स्पेसर-लेयर की मोटाई _______ से अधिक होनी चाहिए।",
+    "options": [
+      "1. 6 µm",
+      "2. 10 µm",
+      "3. 5 µm",
+      "4. 9 µm"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "________ refers to the learning with the use of technology that enables people to learn anytime or anywhere.",
+    "options": [
+      "1. E-learning",
+      "2. Email",
+      "3. E-commerce",
+      "4. E-banking"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "________ प्रौद्योगिकी के उपयोग से सीखने को संदर्भित करता है जो लोगों को कभी भी या कहीं भी सीखने में सक्षम बनाता है।",
+    "options": [
+      "1. इ-लर्निंग (E-Learning)",
+      "2. इ-मेल (E-Mail)",
+      "3. इ-कॉमर्स (E-Commerce)",
+      "4. इ-बैंकिंग (E-Banking)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following molecules are usually composed in thermotropic liquid crystals?",
+    "options": [
+      "1. Oval molecules",
+      "2. Circular molecules",
+      "3. Rod like molecules",
+      "4. Water molecules"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा अणु आमतौर पर थर्मोट्रोपिक तरल क्रिस्टल में बना होता है?",
+    "options": [
+      "1. अंडाकार अणु (Oval molecules)",
+      "2. वृत्ताकार अणु (Circular molecules)",
+      "3. छड़ के आकार के अणु (Rod like molecules)",
+      "4. जल अणु (Water molecules)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is hexcode of command to 16 x 2 LCD instruction register to use '2 lines and 5 x 7 matrix'?",
+    "options": [
+      "1. 0x38",
+      "2. 0x18",
+      "3. 0x14",
+      "4. 0x80"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "2 लाइन और 5 x 7 मैट्रिक्स' का उपयोग करने के लिए 16 x 2 एलसीडी अनुदेश रजिस्टर के कमांड का हेक्स कोड निम्नलिखित में से कौन सा है?",
+    "options": [
+      "1. 0x38",
+      "2. 0x18",
+      "3. 0x14",
+      "4. 0x80"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following protocols working on the Transport layer provides a connectionless service between hosts?",
+    "options": [
+      "1. IP",
+      "2. ARP",
+      "3. TCP",
+      "4. UDP"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "ट्रांसपोर्ट लेयर पर कार्यरत वह कौन सा प्रोटोकॉल है जो होस्ट के बीच एक कनेक्शन रहित सेवा प्रदान करता है?",
+    "options": [
+      "1. IP",
+      "2. ARP",
+      "3. TCP",
+      "4. UDP"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What will you do when print head CANNOT travel its full horizontal distance?",
+    "options": [
+      "1. Install correct drivers",
+      "2. Open the cover and make sure there is nothing obstructing the movement of the print head",
+      "3. install ink cartridge",
+      "4. Clear the clogged ink cartridge"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "यदि प्रिंट हेड अपनी पूर्ण क्षैतिज दूरी तय नहीं कर पा रहा है, तो आप क्या करेंगे?",
+    "options": [
+      "1. सही ड्राइवर स्थापित करें.",
+      "2. कवर खोलें और सुनिश्चित करें कि प्रिंट हेड की गति में कोई बाधा नहीं है",
+      "3. इंक कार्ट्रिज इनस्टॉल करें",
+      "4. अवरुद्ध इंक कार्ट्रिज को साफ करना"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "If you try to print a high-quality photo and use plain paper setting, then the printout is:",
+    "options": [
+      "1. smeared/messy",
+      "2. normal",
+      "3. colourful",
+      "4. high quality"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "यदि आप उच्च-गुणवत्ता वाली फ़ोटो प्रिंट करने का प्रयास करते हैं लेकिन आपने प्लेन पेपर सेटिंग का उपयोग किया है, तो प्राप्त प्रिंटआउट कैसा होगा?",
+    "options": [
+      "1. अस्पष्ट / मैला",
+      "2. सामान्य",
+      "3. रंगीन",
+      "4. उच्च गुणवत्ता वाला"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following options of Windows 11 settings is used to connect a wireless printer?",
+    "options": [
+      "1. Bluetooth & devices",
+      "2. Network and internet",
+      "3. Privacy & Security",
+      "4. Personalization"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "वायरलेस प्रिंटर को कनेक्ट करने के लिए विंडोज 11 सेटिंग्स के निम्नलिखित में से किस विकल्प का उपयोग किया जाता है?",
+    "options": [
+      "1. ब्लूटूथ एंड डिवाइसेस",
+      "2. नेटवर्क एंड इंटरनेट",
+      "3. प्राइवेसी एंड सिक्योरिटी",
+      "4. पेर्सनालाइजेशन"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Saina has purchased an Apple phone. Which of the following operating systems is likely to be installed on her phone?",
+    "options": [
+      "1. Android",
+      "2. Windows",
+      "3. iOS",
+      "4. Blackberry OS"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "साइना ने एक एप्पल फोन खरीदा। उसके फ़ोन में निम्नलिखित में से कौन सा ऑपरेटिंग सिस्टम इंस्टॉल होने की संभावना है?",
+    "options": [
+      "1. Android",
+      "2. Windows",
+      "3. iOS",
+      "4. Blackberry OS"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In Amplitude Modulation, generally, the modulation index is always ______ one.",
+    "options": [
+      "1. greater than or equal to",
+      "2. greater than",
+      "3. equal to",
+      "4. less than"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "एम्पलीटूड मॉडुलेशन में, सामान्य तौर पर मॉड्यूलेशन इंडेक्स हमेशा एक ______ होता है।",
+    "options": [
+      "1. से अधिक अथवा बराबर",
+      "2. से अधिक",
+      "3. के बराबर",
+      "4. से कम"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following property of DES makes cipher very strong?",
+    "options": [
+      "1. Avalanche effect, completeness",
+      "2. Avalanche effect, incompleteness",
+      "3. Newton effect, completeness",
+      "4. Newton effect, incompleteness"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "DES का निम्नलिखित में से कौन सा गुण सिफर को बहुत मजबूत बनाता है?",
+    "options": [
+      "1. अवालांचे प्रभाव, पूर्णता",
+      "2. अवालांचे प्रभाव, अपूर्णता",
+      "3. न्यूटन प्रभाव, पूर्णता",
+      "4. न्यूटन प्रभाव, अपूर्णता"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In which of the following OS intallation, the hard disk is formatted and completely erased?",
+    "options": [
+      "1. Clean Install",
+      "2. In-Place Upgrade",
+      "3. Repair Install",
+      "4. Unrepair install"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से किस OS इंस्टॉलेशन में, हार्ड डिस्क को फ़ॉर्मेट किया जाता है और पूरी तरह से मिटा दिया जाता है?",
+    "options": [
+      "1. क्लीन इनस्टॉल",
+      "2. इन-प्लेस अपग्रेड",
+      "3. रिपेयर इनस्टॉल",
+      "4. अनरिपेयर इनस्टॉल"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a device that connects two or more packet-switched networks or subnetworks?",
+    "options": [
+      "1. Router",
+      "2. Firewalls",
+      "3. Switches",
+      "4. Repeater"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा उपकरण है जो दो या दो से अधिक पैकेट-स्विच्ड नेटवर्क या सबनेटवर्क को जोड़ता है?",
+    "options": [
+      "1. राऊटर",
+      "2. फायरवॉल",
+      "3. स्विच",
+      "4. रिपीटर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is an example of sequential file access method?",
+    "options": [
+      "1. accessing randomly relative to the current position of the file pointer",
+      "2. using index to access the file directly.",
+      "3. accessing one record right after another record in an order",
+      "4. reading and writing record rapidly in no particular order"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्न में से कौन सा एक सिक्वेंशियल फाइल एक्सेस प्रणाली का उदाहरण है?",
+    "options": [
+      "1. फ़ाइल सूचक की वर्तमान स्थिति के सापेक्ष यादृच्छिक रूप से पहुँचना",
+      "2. फ़ाइल तक सीधे पहुंचने के लिए इंडेक्स का उपयोग करना",
+      "3. एक क्रम में एक रिकॉर्ड के ठीक बाद दूसरे रिकॉर्ड तक पहुँचना",
+      "4. पढ़ना और लिखना बिना किसी विशेष क्रम के तेजी से रिकॉर्ड होता है"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "ISO is a file format of ______.",
+    "options": [
+      "1. disk files",
+      "2. disc image files",
+      "3. video files",
+      "4. audio files"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ISO ____________ का फाइल फॉर्मेट है।",
+    "options": [
+      "1. डिस्क फाइल",
+      "2. डिस्क इमेज फाइल",
+      "3. वीडियो फाइल",
+      "4. ऑडियो फाइल"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ file has SWF file format.",
+    "options": [
+      "1. Microsoft Encarta Document",
+      "2. Adobe Flash Movie file",
+      "3. Microsoft Office Document",
+      "4. Image File"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्न में से किस फाइल का फॉर्मेट SWF होता है?",
+    "options": [
+      "1. माइक्रोसॉफ्ट एनकार्टा डॉक्यूमेंट",
+      "2. एडोब फ़्लैश मूवी फाइल",
+      "3. माइक्रोसॉफ्ट ऑफिस डॉक्यूमेंट",
+      "4. इमेज फाइल"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The gzip method implements a public domain variation of:",
+    "options": [
+      "1. run length codes",
+      "2. Huffman codes",
+      "3. Lempel-Ziv algorithm",
+      "4. dynamic Huffman codes"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "gzip विधि में निम्न में से कौन सी सार्वजनिक डोमेन विविधता लागू होती है?",
+    "options": [
+      "1. रन लेंथ कोड्स",
+      "2. हफमैन कोड्स",
+      "3. लेमपेल-जिव एल्गोरिदम",
+      "4. डायनामिक हफमैन कोड्स"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "_______ operating system runs on a set of computers that are interconnected by a network.",
+    "options": [
+      "1. Stand alone",
+      "2. Distributed",
+      "3. Off-line",
+      "4. Batch processing"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "_________ ऑपरेटिंग सिस्टम, कंप्यूटर के उस सेट पर चलता है जो एक नेटवर्क द्वारा आपस में जुड़े हुए होते हैं।",
+    "options": [
+      "1. स्टैंड अलोन",
+      "2. डिस्ट्रिब्यूटेड",
+      "3. ऑफलाइन",
+      "4. बैच प्रोसेसिंग"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In Microsoft Excel, a formula should always be preceded by a/an ______ sign.",
+    "options": [
+      "1.00$",
+      "2. =",
+      "3. *",
+      "4. #"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Microsoft Excel में, किसी फॉर्मूले के पहले हमेशा _________ चिह्न होना चाहिए।",
+    "options": [
+      "1.00$",
+      "2. =",
+      "3. *",
+      "4. #"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is World Wide Web?",
+    "options": [
+      "1. It is a series of webpages that are typically accessed through a web browser and are hosted on a web server",
+      "2. It refers to the Web browser in the user's machine or mobile device.",
+      "3. A collection of websites or webpages stored in web servers and connected to local computers through the internet",
+      "4. It is a software application used to retrieve data from webpages"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "वर्ल्ड वाइड वेब क्या है?",
+    "options": [
+      "1. यह वेबपेजों की एक श्रृंखला है जो आम तौर पर एक वेब ब्राउज़र के माध्यम से एक्सेस की जाती है और एक वेब सर्वर पर होस्ट की जाती है",
+      "2. यह उपयोगकर्ता की मशीन या मोबाइल डिवाइस में वेब ब्राउज़र को संदर्भित करता है",
+      "3. वेब सर्वर में संग्रहीत और इंटरनेट के माध्यम से स्थानीय कंप्यूटरों से जुड़ी वेबसाइटों या वेबपेजों का एक संग्रह",
+      "4. यह एक सॉफ्टवेयर एप्लिकेशन है जिसका उपयोग वेबपेजों से डेटा पुनर्प्राप्त करने के लिए किया जाता है"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "______ transactions refer to situations where payment is done over the network and the amount gets transferred from one financial body to another financial body without any involvement of a middleman.",
+    "options": [
+      "1. E-money",
+      "2. E-bay",
+      "3. E-biz",
+      "4. E-plan"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_______ लेनदेन, उस स्थिति को संदर्भित करता है जिसमें भुगतान एक नेटवर्क पर किया जाता है और राशि एक वित्तीय निकाय से किसी अन्य वित्तीय निकाय पर किसी मध्यस्थ की भागीदारी के बिना ही स्थानांतरित हो जाती है।",
+    "options": [
+      "1. ई-मनी",
+      "2. ई-बे",
+      "3. ई-बिज़",
+      "4. ई-प्लान"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The extensions .gov, .edu and .net are called:",
+    "options": [
+      "1. domain names",
+      "2. mail to addresses",
+      "3. email targets",
+      "4. recipient's name"
+    ],
+    "answer": 0
+  },
+  {
+    "q": ".gov , .edu और .net एक्सटेंसन क्या कहलाते हैं?",
+    "options": [
+      "1. डोमेन के नाम",
+      "2. मेल के लिए एड्रेस",
+      "3. ई-मेल टार्गेट्स",
+      "4. प्राप्तकर्ताओं के नाम"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What do you understand by font family in Windows?",
+    "options": [
+      "1. It is a characteristic of a font and its style.",
+      "2. It is a set of fonts that have a common design",
+      "3. It is defined in points which are often equal to pixels on computer display.",
+      "4. It is sets of numbers, punctuation and letters."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "विंडोज़ में फ़ॉन्ट परिवार से आप क्या समझते हैं?",
+    "options": [
+      "1. यह किसी फ़ॉन्ट और इसकी शैली की एक विशेषता है",
+      "2. यह फ़ॉन्ट्स का एक सेट है जिसमें एक सामान्य डिज़ाइन होता है",
+      "3. इसे उन बिंदुओं के रूप में परिभाषित किया जाता है जो अक्सर कंप्यूटर डिस्प्ले के पिक्सल के बराबर होते हैं",
+      "4. यह संख्याओं, ओं विराम चिह्नों, ह्नों अक्षरों का सेट है"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is NOT a valid slide layout in MS-PowerPoint 2019?",
+    "options": [
+      "1. Title Slide",
+      "2. Title and Content",
+      "3. Section Header",
+      "4. Paragraph Header"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन MS-PowerPoint 2019 में एक वैलिड स्लाइड लेआउट नहीं है?",
+    "options": [
+      "1. टाइटल स्लाइड",
+      "2. टाइटल एंड कंटेंट",
+      "3. सेक्शन हैडर",
+      "4. पैराग्राफ हैडर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "____________is the number system that we use on a daily basis based on the 10 digits.",
+    "options": [
+      "1. binary",
+      "2. decimal",
+      "3. octal",
+      "4. hexadecimal"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "________ वह संख्या प्रणाली है जिसका उपयोग हम 10 अंकों के आधार पर दैनिक आधार पर करते हैं।",
+    "options": [
+      "1. द्विधारी",
+      "2. दशमलव",
+      "3. अष्टाधारी",
+      "4. षोडश आधारी"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The binary equivalent of the decimal number '31' is ________.",
+    "options": [
+      "1. 11111",
+      "2. 11011",
+      "3. 11110",
+      "4. 10111"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "दशमलव संख्या '31' का बाइनरी समतुल्य क्या होगा?",
+    "options": [
+      "1. 11111",
+      "2. 11011",
+      "3. 11110",
+      "4. 10111"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which keyboard shortcut will you use to convert your text to BOLD in MS-Word 2019?",
+    "options": [
+      "1. ALT + B",
+      "2. Ctrl + Shift + B",
+      "3. Shift + F3",
+      "4. Ctrl + B"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Word 2019 में अपने टेक्स्ट को BOLD में बदलने के लिए आप किस कीबोर्ड शॉर्टकट का उपयोग करेंगे?",
+    "options": [
+      "1. ALT + B",
+      "2. Ctrl + Shift + B",
+      "3. Shift + F3",
+      "4. Ctrl + B"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The base of the Hexa Decimal number system is ______.",
+    "options": [
+      "1. 16",
+      "2. 11",
+      "3. 12",
+      "4. 13"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "हेक्सा दशमलव संख्या पद्धति की आधार संख्या क्या है?",
+    "options": [
+      "1. 16",
+      "2. 11",
+      "3. 12",
+      "4. 13"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In the given number (8)₁₀, 10 is the _______ of the number system.",
+    "options": [
+      "1. base",
+      "2. power",
+      "3. exponent",
+      "4. cube"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "दी गई संख्या (8)₁₀ में, 10 संख्या प्रणाली का _______ है।",
+    "options": [
+      "1. Base (आधारिक)",
+      "2. Power (घातांकीय)",
+      "3. Exponent (चर घातांकीय)",
+      "4. Cube (घन)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following represents the binary number system?",
+    "options": [
+      "1. (11)₁₀",
+      "2. (11)₂",
+      "3. (11)₈",
+      "4. (11)₁₆"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्न में से कौन सी संख्या बाइनरी संख्या प्रणाली से संबंधित है?",
+    "options": [
+      "1. (11)₁₀",
+      "2. (11)₂",
+      "3. (11)₈",
+      "4. (11)₁₆"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "WAN stands for:",
+    "options": [
+      "1. Web Area Network",
+      "2. World Area Network",
+      "3. Wide Area Network",
+      "4. Worst Area Network"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "WAN का पूर्णरूप क्या है?",
+    "options": [
+      "1. Web Area Network (वेब एरिया नेटवर्क)",
+      "2. World Area Network (वर्ल्ड एरिया नेटवर्क)",
+      "3. Wide Area Network (वाइड एरिया नेटवर्क)",
+      "4. Worst Area Network (वर्स्ट एरिया नेटवर्क)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The purpose of _______________ is to transform a URL into a normalized or canonical URL so it is possible to determine if two syntactically different URLs are equivalent.",
+    "options": [
+      "1. URL normalization",
+      "2. URL support",
+      "3. URL balancing",
+      "4. URL modification"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_______________ का उद्देश्य एक यूआरएल को सामान्यीकृत या कैनोनिकल यूआरएल में बदलना है ताकि यह निर्धारित करना संभव हो कि दो वाक्यात्मक रूप से भिन्न यूआरएल समकक्ष हैं या नहीं।",
+    "options": [
+      "1. URL सामान्यीकरण",
+      "2. URL समर्थन",
+      "3. URL संतुलन",
+      "4. URL संशोधन"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The binary equivalent of the decimal number 3 is ______.",
+    "options": [
+      "1. 101",
+      "2. 110",
+      "3. 111",
+      "4. 011"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "दशमलव संख्या 3 का बाइनरी समतुल्य क्या होगा?",
+    "options": [
+      "1. 101",
+      "2. 110",
+      "3. 111",
+      "4. 011"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The octal equivalent of the binary number 1001 is _______.",
+    "options": [
+      "1. 15",
+      "2. 11",
+      "3. 10",
+      "4. 8"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "बाइनरी संख्या 1001 का अष्टाधारी समतुल्य (octal equivalent) क्या होगा?",
+    "options": [
+      "1. 15",
+      "2. 11",
+      "3. 10",
+      "4. 8"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is the hardware in a computing device where the operating system, application programs and data in current use are kept so they can be quickly reached by the device's processor?",
+    "options": [
+      "1. RAM",
+      "2. CD-ROM",
+      "3. Flash Drive",
+      "4. Hard Disk"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा एक कंप्यूटिंग डिवाइस का हार्डवेयर है जहां ऑपरेटिंग सिस्टम, एप्लिकेशन प्रोग्राम और वर्तमान उपयोग में आने वाले डेटा को रखा जाता है ताकि उन तक डिवाइस के प्रोसेसर द्वारा जल्दी से पहुंचा जा सके?",
+    "options": [
+      "1. RAM",
+      "2. CD-ROM",
+      "3. फ्लैश ड्राइव",
+      "4. हार्ड डिस्क"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The decimal equivalent of the binary number '11011' is __________.",
+    "options": [
+      "1. 23",
+      "2. 25",
+      "3. 27",
+      "4. 29"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "बाइनरी संख्या '11011' का दशमलव समतुल्य क्या होगा?",
+    "options": [
+      "1. 23",
+      "2. 25",
+      "3. 27",
+      "4. 29"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "________ is the shortcut key to apply a filter in MS-Excel 2019.",
+    "options": [
+      "1. Ctrl + Shift + L",
+      "2. Ctrl + Shift + C",
+      "3. Ctrl + Shift + K",
+      "4. Ctrl + Shift + M"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Microsoft Excel 2019 में, फ़िल्टर लगाने के लिए किस की-बोर्ड शॉर्टकट का उपयोग किया जाता है।",
+    "options": [
+      "1. Ctrl + Shift + L",
+      "2. Ctrl + Shift + C",
+      "3. Ctrl + Shift + K",
+      "4. Ctrl + Shift + M"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In Microsoft Excel 2019, the Field List option should appear when you click anywhere in the _________ table.",
+    "options": [
+      "1. Data",
+      "2. Reference",
+      "3. Pivot",
+      "4. Quick"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Microsoft Excel 2019 में, जब आप _____ तालिका में कहीं भी क्लिक करते हैं तो फ़ील्ड सूची विकल्प दिखाई देना चाहिए।",
+    "options": [
+      "1. डेटा",
+      "2. रेफरेंस",
+      "3. पिवोट",
+      "4. क्विक"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is an example of email address?",
+    "options": [
+      "1. http://vianet.com/index.htm",
+      "2. D:\\ \\Email\\Standard",
+      "3. joesmart@billme.com",
+      "4. Chaminade.org/teachers/mail addresses"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्न में से कौन ईमेल एड्रेस का उदाहरण है?",
+    "options": [
+      "1. http://vianet.com/index.htm",
+      "2. D:\\ \\Email\\Standard",
+      "3. joesmart@billme.com",
+      "4. Chaminade.org/teachers/mail addresses"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Identify the correct sequence of steps required to remove duplicate values in Microsoft Excel 2019.",
+    "options": [
+      "1. Go to the Data tab -> in data Tools group -> Click on Remove Duplicates",
+      "2. Go to the Insert tab -> Click on Conditional Formatting -> Under Highlight Cells Rules click on Duplicate Values",
+      "3. Go to the Design tab -> Click on Conditional Formatting -> Under Highlight Cells Rules click on Duplicate Values",
+      "4. Go to the File tab -> Click on Conditional Formatting -> Under Highlight Cells Rules click on Duplicate Values"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Microsoft Excel 2019 में, डुप्लिकेट मानों को हटाने के लिए आवश्यक चरणों के सही क्रम की पहचान कीजिए।",
+    "options": [
+      "1. डेटा टैब पर जाएं -> डेटा टूल्स ग्रुप में -> रिमूव डुप्लिकेट्स पर क्लिक करें",
+      "2. इन्सर्ट टैब पर जाएं -> कंडीशनल फॉर्मेटिंग पर क्लिक करें -> हाइलाइट सेल्स रूल्स के अंतर्गत डुप्लिकेट वैल्यूज़ पर क्लिक करें",
+      "3. डिज़ाइन टैब पर जाएं -> कंडीशनल फॉर्मेटिंग पर क्लिक करें -> हाइलाइट सेल्स रूल्स के अंतर्गत डुप्लिकेट वैल्यूज़ पर क्लिक करें",
+      "4. फाइल टैब पर जाएं -> कंडीशनल फॉर्मेटिंग पर क्लिक करें -> हाइलाइट सेल्स रूल्स के अंतर्गत डुप्लिकेट वैल्यूज़ पर क्लिक करें"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In Microsoft Excel 2019, the pivot table error ‘field name is not valid’ usually appears because ________.",
+    "options": [
+      "1. one or more row heading cells in the source data are blank",
+      "2. one or more of the column heading cells in the source data is blank",
+      "3. one or more column cells in the source data are blank",
+      "4. the worksheet with the pivot table is full"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Microsoft Excel 2019 में, पिवोट टेबल एरर ‘field name is not valid’ सामान्यतः किस कारण आती है?",
+    "options": [
+      "1. स्रोत (Source) डेटा में एक या अधिक पंक्ति (Row) शीर्षक कक्ष (Heading Cell) रिक्त हैं।",
+      "2. स्रोत (Source) डेटा में एक या अधिक स्तंभ शीर्षक कक्ष (Column Heading Cell) रिक्त हैं।",
+      "3. स्रोत (Source) डेटा में एक या अधिक स्तंभ कक्ष (Column Cell) रिक्त हैं।",
+      "4. पिवट टेबल वाली वर्कशीट भरी हुई है।"
+    ],
+    "answer": 1
+  }
 ]
         
         };
