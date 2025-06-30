@@ -19806,6 +19806,1048 @@
     ],
     "answer": 0
   }
+],
+  "13th July 2024 - Shift2": [
+  {
+    "q": "Which program do you use to manage folders and files in Windows10?",
+    "options": [
+      "1. Accessories",
+      "2. Control Panel",
+      "3. File Explorer",
+      "4. Office"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Windows10 में फोल्डर और फाइल को मैनेज करने के लिए आप किस प्रोग्राम का उपयोग करते हैं?",
+    "options": [
+      "1. एक्सेसरीज",
+      "2. कंट्रोल पैनल",
+      "3. फाइल एक्स्प्लोरर",
+      "4. ऑफिस"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The main function of a Web browser is to:",
+    "options": [
+      "1. write HTML programs",
+      "2. retrieve information from the World Wide Web and making it available for users.",
+      "3. know the structure and behaviour of a computer system as seen by the user.",
+      "4. interpret CGI programs"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "वेब ब्राउज़र का मुख्य कार्य क्या है?",
+    "options": [
+      "1. HTML प्रोग्राम लिखना।",
+      "2. वर्ल्ड वाइड वेब से जानकारी प्राप्त करना और उसे उपयोगकर्ताओं के लिए उपलब्ध कराना।",
+      "3. उपयोगकर्ता द्वारा देखे गए कंप्यूटर सिस्टम की संरचना और व्यवहार को जानें।",
+      "4. CGI कार्यक्रमों को इन्टरप्रेट करना।"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following represents secondary memory?",
+    "options": [
+      "1. RAM",
+      "2. ROM",
+      "3. Cache memory",
+      "4. HDD"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से कौन-सी, एक द्वितीयक मेमोरी को दर्शाती है?",
+    "options": [
+      "1. RAM",
+      "2. ROM",
+      "3. कैश मेमोरी (Cache memory)",
+      "4. HDD"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "EEPROM stands for:",
+    "options": [
+      "1. Eelectrically Erasable Programmable Read Only Memory",
+      "2. Erasable Electrically Programmable Read Only Memory",
+      "3. Easily Erasable Programmable Read Only Memory",
+      "4. Eventually Erasable Programmable Read Only Memory"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "EEPROM का विस्‍तारित (पूर्ण) रूप क्‍या है?",
+    "options": [
+      "1. इलेक्ट्रिकली इरेसेबल प्रोग्रामेबल रीड ओन्ली मेमोरी (Electrically Erasable Programmable Read Only Memory)",
+      "2. इरेसेबल इलेक्ट्रिकली प्रोग्रामेबल रीड ओन्ली मेमोरी (Erasable Electrically Programmable Read Only Memory)",
+      "3. इज़िली इरेसेबल प्रोग्रामेबल रीड ओन्ली मेमोरी (Easily Erasable Programmable Read Only Memory)",
+      "4. ऐवेंट्युअली इरेज़ेबल प्रोग्रामेबल रीड ओन्ली मेमोरी (Eventually Erasable Programmable Read Only Memory)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT an output device?",
+    "options": [
+      "1. Plotter",
+      "2. Monitor",
+      "3. Joystick",
+      "4. Printer"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "इनमें से कौन-सा, एक आउटपुट डिवाइस नहीं है?",
+    "options": [
+      "1. प्लॉटर",
+      "2. मॉनिटर",
+      "3. जॉयस्टिक",
+      "4. प्रिंटर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "OCR stands for:",
+    "options": [
+      "1. Optical Character Recognition",
+      "2. Optical CPU Recognition",
+      "3. Optimal Character Rendering",
+      "4. Optical Computer Record"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "OCR का पूर्ण रूप क्‍या है?",
+    "options": [
+      "1. ऑप्टिकल करैक्टर रिकग्निशन (Optical Character Recognition)",
+      "2. ऑप्टिकल CPU रिकग्निशन (Optical CPU Recognition)",
+      "3. ऑप्टीमल करैक्टर रैंडरिंग (Optimal Character Rendering)",
+      "4. ऑप्टिकल कंप्यूटर रिकॉर्ड (Optical Computer Record)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In Windows 10 Snipping Tool, ________ is used to choose the kind of screenshot you take.",
+    "options": [
+      "1. New",
+      "2. Delay",
+      "3. Mode",
+      "4. Options"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "विंडोज 10 स्निपिंग टूल में, आपके द्वारा लिए गए स्क्रीनशॉट के प्रकार को चुनने के लिए ________ का उपयोग किया जाता है",
+    "options": [
+      "1. New",
+      "2. Delay",
+      "3. Mode",
+      "4. Options"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Hierarchical File System was introduced in 1985 to use in which of the following Operating Systems?",
+    "options": [
+      "1. Cent OS",
+      "2. Mac OS",
+      "3. Windows",
+      "4. Linux"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्न में से किस ऑपरेटिंग सिस्टम में उपयोग के लिए 1985 में पदानुक्रमित फ़ाइल सिस्टम की शुरुआत की गई थी?",
+    "options": [
+      "1. सेंट ओएस (Cent OS)",
+      "2. मैक ओएस (Mac OS)",
+      "3. विंडोज (Windows)",
+      "4. लिनक्स (Linux)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In which tab of OpenOffice Writer, is the Toggle case option available?",
+    "options": [
+      "1. View",
+      "2. Insert",
+      "3. Edit",
+      "4. Format"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "ओपन ऑफिस राइटर (open office writer) के किस टैब में टॉगल केस विकल्प उपलब्ध है?",
+    "options": [
+      "1. व्यू (View)",
+      "2. इन्सर्ट (Insert)",
+      "3. एडिट (Edit)",
+      "4. फॉर्मेट (Format)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following key of a computer keyboard is used to delete the character at the cursor position?",
+    "options": [
+      "1. Insert",
+      "2. Delete",
+      "3. Space bar",
+      "4. Shift"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कंप्यूटर कीबोर्ड की निम्नलिखित में से किस कुंजी का उपयोग कर्सर स्थिति पर वर्ण को हटाने के लिए किया जाता है?",
+    "options": [
+      "1. इन्सर्ट",
+      "2. डिलीट",
+      "3. स्पेस बार",
+      "4. शिफ्ट"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following storage types is known as disconnected storage?",
+    "options": [
+      "1. Off-line storage",
+      "2. On-line storage",
+      "3. In-line storage",
+      "4. Cloud storage"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से कौन-से स्टोरेज प्रकार को डिस्कनेक्टेड स्टोरेज के रूप में जाना जाता है?",
+    "options": [
+      "1. ऑफलाइन स्टोरेज",
+      "2. ऑनलाइन स्टोरेज",
+      "3. इन-लाइन स्टोरेज",
+      "4. क्लाउड स्टोरेज"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT a component of laser printer?",
+    "options": [
+      "1. Toner cartridge",
+      "2. Image drum",
+      "3. Transfer roller",
+      "4. Hammer"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा लेजर प्रिंटर का घटक नहीं है?",
+    "options": [
+      "1. टोनर कार्ट्रिज (Toner cartridge)",
+      "2. छवि ड्रम (Image drum)",
+      "3. स्थानांतरण रोलर (Transfer roller)",
+      "4. हथौड़ा (Hammer)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is a memory management method where computers use secondary memory to compensate for the scarcity of physical memory?",
+    "options": [
+      "1. magnetic",
+      "2. virtual",
+      "3. storage",
+      "4. static"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन सी एक मेमोरी प्रबंधन विधि है जहां कंप्यूटर भौतिक मेमोरी की कमी की भरपाई के लिए द्वितीयक मेमोरी का उपयोग करते हैं?",
+    "options": [
+      "1. चुंबकीय",
+      "2. वर्चुअल",
+      "3. स्टोरेज",
+      "4. स्टैटिक"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Computers use _________ and decoding schemes to store and retrieve meaningful information as data",
+    "options": [
+      "1. encoding",
+      "2. enlarging",
+      "3. expanding",
+      "4. lengthening"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कंप्यूटर सार्थक जानकारी को डेटा के रूप में संग्रहीत और पुनर्प्राप्त करने के लिए __________ और डिकोडिंग (decoding) योजनाओं का उपयोग करते हैं।",
+    "options": [
+      "1. एन्कोडिंग (encoding)",
+      "2. एंलार्जिंग (enlarging)",
+      "3. एक्सपैंडिंपैं डिंग (expanding)",
+      "4. लेंग्थेनिंग (lengthening)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "USB traffic is divided into _________ of equal length of one millisecond each.",
+    "options": [
+      "1. tokens",
+      "2. blocks",
+      "3. frames",
+      "4. pages"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "USB ट्रैफ़िक को एक मिलीसेकंड की समान लंबाई के _________ में विभाजित किया गया है।",
+    "options": [
+      "1. टोकन्स",
+      "2. ब्लॉक्स",
+      "3. फ़्रेम्स",
+      "4. पेजेज़"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The length of Ipv6 addresses is ______.",
+    "options": [
+      "1. 32 bits",
+      "2. 128 bits",
+      "3. 64 bits",
+      "4. 16 bits"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Ipv6 एड्रेस की लंबाई _____ है।",
+    "options": [
+      "1. 32 बिट्स",
+      "2. 128 बिट्स",
+      "3. 64 बिट्स",
+      "4. 16 बिट्स"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "__________ provides a neat way to present complex information in vertical columns and horizontal rows of cells in Microsoft Word.",
+    "options": [
+      "1. Pictures",
+      "2. Tables",
+      "3. Margins",
+      "4. Gridlines"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "__________ Microsoft word में सेल्स की वर्टिकल कॉलम और हॉरिजॉन्टल रो में जटिल जानकारी प्रस्तुत करने का एक साफ-सुथरा तरीका प्रदान करता है।",
+    "options": [
+      "1. चित्र (पिक्चर)",
+      "2. टेबल्स",
+      "3. मार्जिन",
+      "4. ग्रिडलाइंस"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which among the following register is used for storage data either coming to the CPU or data being transferred by the CPU?",
+    "options": [
+      "1. Program Counter",
+      "2. Memory Buffer Register",
+      "3. Memory Address Register",
+      "4. Accumulator"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से किस रजिस्टर का उपयोग CPU में आने वाले डेटा को संग्रहीत करने या CPU द्वारा स्थानांतरित किए जाने वाले डेटा के लिए किया जाता है?",
+    "options": [
+      "1. प्रोग्राम काउंटर",
+      "2. मेमोरी बफर रजिस्टर",
+      "3. मेमोरी एड्रेस रजिस्टर",
+      "4. संचायक (एक्युमुलेटर)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "For which of the following purposes is a printer NOT used?",
+    "options": [
+      "1. To print documents",
+      "2. To print pictures",
+      "3. To print receipts",
+      "4. To play videos"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से किस उद्देश्य के लिए प्रिंटर का उपयोग नहीं किया जाता है?",
+    "options": [
+      "1. दस्तावेज़ों को प्रिंट करना",
+      "2. चित्रों को प्रिंट करना",
+      "3. रसीदें प्रिंट करना",
+      "4. वीडियो चलाना"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In a dual track magnetic tape, the two tracks are separated by a/an ____________.",
+    "options": [
+      "1. channel",
+      "2. upper track",
+      "3. guard band",
+      "4. lower track"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एक दोहरे ट्रैक चुंबकीय टेप में, दोनों ट्रैक ________ द्वारा अलग होते हैं।",
+    "options": [
+      "1. चैनल",
+      "2. अपर ट्रैक",
+      "3. गार्ड बैंड",
+      "4. लोअर ट्रैक"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "We get an impression of ________________ when frames are shown on the screen in a faster manner with reference to video streaming.",
+    "options": [
+      "1. motion",
+      "2. immobility",
+      "3. unmoving",
+      "4. idleness"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "जब वीडियो स्ट्रीमिंग के संदर्भ में फ़्रेम को स्क्रीन पर तेज़ तरीके से दिखाया जाता है तो हमें ____________ का आभास होता है।",
+    "options": [
+      "1. गति (मोशन)",
+      "2. गतिहीनता",
+      "3. अचलता",
+      "4. निष्क्रियता"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a common vector image drawing program?",
+    "options": [
+      "1. Photoshop",
+      "2. General Image Manipulation Program",
+      "3. CorelDraw",
+      "4. Paint Shop"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा एक सामान्य वेक्टर इमेज ड्राइंग प्रोग्राम है?",
+    "options": [
+      "1. Photoshop",
+      "2. General Image Manipulation Program",
+      "3. CorelDraw",
+      "4. Paint Shop"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Since a hash is a smaller representation of larger data, it is also referred to as a _____________ with reference to Cryptography Hash functions.",
+    "options": [
+      "1. digest",
+      "2. digestion",
+      "3. secrete key",
+      "4. public key"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "चूंकि हैश बड़े डेटा का एक छोटा प्रतिनिधित्व है, इसलिए इसे क्रिप्टोग्राफी हैश फ़ंक्शंस के संदर्भ में _______ भी कहा जाता है।",
+    "options": [
+      "1. डाइजेस्ट",
+      "2. डाइजेशन",
+      "3. सीक्रेट कुंजी",
+      "4. पब्लिक कुंजी"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which among the following is the function for today's date in MS-Excel 2019?",
+    "options": [
+      "1. DAY()",
+      "2. DAYS()",
+      "3. TODAY()",
+      "4. WEEKDAY()"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel 2019 में आज की तारीख के लिए निम्नलिखित में से कौन सा फ़ंक्शन है?",
+    "options": [
+      "1. DAY()",
+      "2. DAYS()",
+      "3. TODAY()",
+      "4. WEEKDAY()"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the full form of POST with reference to turning on a computer?",
+    "options": [
+      "1. Power-On-Self-Test",
+      "2. Pulse-On-Self-Test",
+      "3. Power-On-Self-Terminal",
+      "4. Pulse-On-Self-Terminal"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कंप्यूटर के टर्निंग ऑन (चालू होने) के संदर्भ में POST का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Power-On-Self-Test (पावर-ऑन-सेल्फ-टेस्ट)",
+      "2. Pulse-On-Self-Test (पल्स-ऑन-सेल्फ-टेस्ट)",
+      "3. Power-On-Self-Terminal (पावर-ऑन-सेल्फ-टर्मिनल)",
+      "4. Pulse-On-Self-Terminal (पल्स-ऑन-सेल्फ-टर्मिनल)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "To resize a window of a computer application in two directions at once, you must drag the mouse pointer ______________.",
+    "options": [
+      "1. horizontally",
+      "2. vertically",
+      "3. diagonally",
+      "4. broadly"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एक बार में दो दिशाओं में एक विन्डोज ऐप्लि्केशन का आकार बदलने के लिए आपको माउस पॉइंटर को ______ खींचना होगा।",
+    "options": [
+      "1. क्षैतिज (horizontally) रूप से",
+      "2. लंबवत (vertically) रूप से",
+      "3. तिरछे (diagonally) रूप से",
+      "4. विस्तृत (broadly) रूप से"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A Single Unix Specification Version 2 provides enhanced support for which of the following variants?",
+    "options": [
+      "1. 8 bit",
+      "2. 16 bit",
+      "3. 32 bit",
+      "4. 64 bit"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "सिंगल यूनिक्स स्पेसिफ़िकेशन संस्करण 2 किस वैरिएन्ट के लिए परिष्कृत (enhanced) सहायता प्रदान करता है?",
+    "options": [
+      "1. 8 बिट",
+      "2. 16 बिट",
+      "3. 32 बिट",
+      "4. 64 बिट"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "How many maximum number of primary partitions are supported by Master Boot Record in MS-Windows 10 OS without logical partitions?",
+    "options": [
+      "1. Two",
+      "2. Four",
+      "3. Three",
+      "4. Five"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "तार्किक विभाजन के बिना MS-Windows 10 OS में मास्टर बूट रिकॉर्ड (Master Boot Record) द्वारा अधिकतम कितने प्राथमिक विभाजन समर्थित हैं?",
+    "options": [
+      "1. दो",
+      "2. चार",
+      "3. तीन",
+      "4. पाँच"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following applications are best suitable to view PDF files?",
+    "options": [
+      "1. Capture One Pro",
+      "2. Notepad",
+      "3. Adobe Acrobat",
+      "4. MS-Paint"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सी एप्लिकेशन PDF फाइलों को देखने के लिए सबसे उपयुक्त है?",
+    "options": [
+      "1. Capture One Pro",
+      "2. Notepad",
+      "3. Adobe Acrobat",
+      "4. MS-Paint"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In Software Testing Life Cycle, which of the following is the APPROPRIATE exit criteria for terminating or concluding the process of testing?",
+    "options": [
+      "1. When all test cases are NOT done.",
+      "2. When you run out of time.",
+      "3. When all bugs are NOT fixed.",
+      "4. When executing and updating of all test cases are done."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "सॉफ़्टवेयर परीक्षण जीवन चक्र में, परीक्षण की प्रक्रिया को समाप्त करने या समाप्त करने के लिए निम्नलिखित में से कौन सा उचित निकास मानदंड (Exit Criteria) है?",
+    "options": [
+      "1. जब सभी परीक्षण मामले नहीं किए जाते हैं।",
+      "2. जब आपका समय समाप्त हो जाता है।",
+      "3. जब सभी बग्स को ठीक नहीं किया जाता है।",
+      "4. जब सभी परीक्षण मामलों का निष्पादन (execute) और अद्यतन (update) किया जाता है"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A ______________ is a search tool that sends user requests to several other search engines and/or databases, and aggregates the results into a single list or displays them according to their source.",
+    "options": [
+      "1. Gopher",
+      "2. metasearch engine",
+      "3. USENET",
+      "4. spider"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "_______ एक ऐसा खोजी टूल (search tool) है जो उपयोगकर्ता के अनुरोध कई अन्य खोज इंजनों (search engines) नों और/या डेटाबेस को भेजता है और परिणामों को एक सूची में जोड़ता है या उनके स्रोत के अनुसार उन्हें प्रदर्शित करता है।",
+    "options": [
+      "1. गोफर (Gopher)",
+      "2. मेटा सर्च इंजन (metasearch engine)",
+      "3. यूज़नेट (USENET)",
+      "4. स्पाइडर (spider)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A/An ___________ is a set of rules for sending information and messages over the internet.",
+    "options": [
+      "1. HTML",
+      "2. applet",
+      "3. ISP",
+      "4. protocol"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "________, इंटरनेट पर सूचना और संदेश भेजने के लिए नियमों का एक समूह है।",
+    "options": [
+      "1. HTML",
+      "2. एप्लेट (Applet)",
+      "3. ISP",
+      "4. प्रोटोकॉल (Protocol)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In Google drive, ______ search operators can be utilised when the search needs to be narrowed by more specific criteria.",
+    "options": [
+      "1. advanced",
+      "2. local",
+      "3. hard",
+      "4. public"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Google ड्राइव में, ______ खोज ऑपरेटरों का उपयोग तब किया जा सकता है जब खोज को अधिक विशिष्ट मानदंडों द्वारा सीमित करने की आवश्यकता होती है।",
+    "options": [
+      "1. एडवांस्ड",
+      "2. लोकल",
+      "3. हार्ड",
+      "4. पब्लिक"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT a part of an email address?",
+    "options": [
+      "1. Username",
+      "2. At symbol (@)",
+      "3. Email provider's domain",
+      "4. User domain"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, ईमेल पते (एड्रेस) का एक हिस्सा नहीं है?",
+    "options": [
+      "1. उपयोगकर्ता का नाम (यूज़रनेम)",
+      "2. एट का प्रतीक (@)",
+      "3. ईमेल प्रदाता की डोमेन",
+      "4. उपयोगकर्ता की डोमेन"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In MS-Word 2019, if we apply toggle case option in Change case to \"Ramu is good\", ________ number of capital letter will be noticed in modified text.",
+    "options": [
+      "1. 9",
+      "2. 8",
+      "3. 7",
+      "4. 6"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Word 2019 में, यदि हम चेंज केस में टॉगल केस विकल्प को \"Ramu is good\" पर लागू करते हैं, तो संशोधित टेक्स्ट में ________ बड़े अक्षरों की संख्या देखी जाएगी।",
+    "options": [
+      "1. 9",
+      "2. 8",
+      "3. 7",
+      "4. 6"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS-Word 2019, which type of break is indicated by given symbol?<br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSHvxf_-lkptlyz1QuRtqqcleSTCJ9iGPfppPfz4oZeR3psLqhxd1HfHvhp2YIiwreOFqNcpAjqt_f6vLNyM5nBAEw_SLma6o7cYn189UuyakinoGVn2oDDBsZ6PMdjbYRv_6yq4qBueVAANDZKizXfmAlbZ1S1I_wmNlXnu6iGIQEIEX_96XOL9RMZg5w/s1600/fg%20hh.jpg\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. Text wrapping",
+      "2. Column",
+      "3. Odd page",
+      "4. Next page"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Word 2019 में, दिए गए चिन्ह द्वारा किस प्रकार के ब्रेक को दर्शाया गया है?<br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSHvxf_-lkptlyz1QuRtqqcleSTCJ9iGPfppPfz4oZeR3psLqhxd1HfHvhp2YIiwreOFqNcpAjqt_f6vLNyM5nBAEw_SLma6o7cYn189UuyakinoGVn2oDDBsZ6PMdjbYRv_6yq4qBueVAANDZKizXfmAlbZ1S1I_wmNlXnu6iGIQEIEX_96XOL9RMZg5w/s1600/fg%20hh.jpg\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. टेक्स्ट रैपिंग",
+      "2. कॉलम",
+      "3. ऑड पेज",
+      "4. नेक्स्ट पेज"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In the Font group dialogue box of MS-Word 2019, which of the following set of parameters are included?",
+    "options": [
+      "1. Font, Font style, Size, Font color, Underline style, Editing",
+      "2. Font, Font style, Size, Font color, Underline style, Effects, Preview",
+      "3. Size, Font color, Underline style, Effects, Analysis",
+      "4. Font style, Size, Font color, Underline style, Preview, Styles"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Word 2019 के फॉन्ट ग्रुप डायलॉग बॉक्स में निम्नलिखित में से कौन से पैरामीटर का सेट शामिल है?",
+    "options": [
+      "1. फ़ॉन्ट, फ़ॉन्ट शैली, आकार, फ़ॉन्ट रंग, अंडरलाइन शैली, एडिटिंग",
+      "2. फ़ॉन्ट, फ़ॉन्ट शैली, आकार, फ़ॉन्ट रंग, अंडरलाइन शैली, प्रभाव, पूर्वावलोकन (प्रिव्यू)",
+      "3. आकार, फ़ॉन्ट रंग, अंडरलाइन शैली, प्रभाव, विश्लेषण",
+      "4. फ़ॉन्ट शैली, आकार, फ़ॉन्ट रंग, अंडरलाइन शैली, पूर्वावलोकन (प्रिव्यू), शैलीयां"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Satheesh is working on a MS-Word 2019 document. When he typed ':)', AutoCorrect properly inserts a/an ______ symbol.",
+    "options": [
+      "1. copyright",
+      "2. trademark",
+      "3. arrow",
+      "4. smiley-face"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "सतीश MS-Word 2019 में एक Word डॉक्यूमेंट पर काम कर रहा है, जब उसने ':)' टाइप किया, तो ओटो करेक्ट सही ढंग से ______ प्रतीक सम्मिलित करता है।",
+    "options": [
+      "1. कॉपीराइट",
+      "2. ट्रेडमार्क",
+      "3. एरो (तीर)",
+      "4. स्माईली फेस (प्रसन्नचित्त चेहरा)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Identify the INCORRECT checkbox option when correcting Spelling and Grammar in MS-Word 2019 under Auto correct tab.",
+    "options": [
+      "1. Capitalize first letter of sentences",
+      "2. Capitalize first letter of table cells",
+      "3. Capitalize names of days",
+      "4. Show readability statistics"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Word 2019 में वर्तनी और व्याकरण (स्पेलिंग एंड ग्रामर) को सही करते समय ऑटो करेक्ट टैब के तहत निम्नलिखित में से गलत चेकबॉक्स विकल्प की पहचान करें।",
+    "options": [
+      "1. Capitalize first letter of sentences (वाक्यों के पहले अक्षर को बड़े अक्षरों में लिखें)",
+      "2. Capitalize first letter of table cells (तालिका कक्षों के पहले अक्षर को बड़े अक्षरों में लिखें)",
+      "3. Capitalize names of days (दिनों के नाम बड़े अक्षरों में लिखें)",
+      "4. Show readability statistics (पठनीयता आंकड़े दिखाएं)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "With the help of which shortcut can you apply underline to your texts in MS-Word 2019?",
+    "options": [
+      "1. Ctrl + B",
+      "2. Ctrl + U",
+      "3. Ctrl + R",
+      "4. Ctrl + L"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "किस शॉर्टकट की मदद से आप MS-Word 2019 में अपने टेक्स्ट पर अंडरलाइन लगा सकते हैं?",
+    "options": [
+      "1. Ctrl + B",
+      "2. Ctrl + U",
+      "3. Ctrl + R",
+      "4. Ctrl + L"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What do you mean by broadcasting in networking?",
+    "options": [
+      "1. It means addressing a packet to all machines.",
+      "2. It means addressing a packet to some machines.",
+      "3. It means addressing a packet to a particular machine.",
+      "4. It means addressing a packet to all machines, except a particular machine."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "नेटवर्किंग में ब्रॉडकास्ट करने (broadcasting) से आपका क्या तात्पर्य है?",
+    "options": [
+      "1. इसका मतलब है कि सभी मशीनों पर एक पैकेट को एड्रेस करना।",
+      "2. इसका मतलब है कि कुछ मशीन पर एक पैकेट को एड्रेस करना।",
+      "3. इसका मतलब है किसी विशेष मशीन पर एक पैकेट को एड्रेस करना।",
+      "4. इसका मतलब है किसी विशेष मशीन को छोड़कर सभी मशीनों पर एक पैकेट को एड्रेस करना।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a communication protocol used to send files from a computer to another computer, with one of them acting as the server, provided the two have an internet connection?",
+    "options": [
+      "1. HTTP",
+      "2. DNS",
+      "3. DHCP",
+      "4. FTP"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा एक संचार प्रोटोकॉल है जिसका उपयोग एक कंप्यूटर से दूसरे कंप्यूटर पर फाइल भेजने के लिए किया जाता है, जिसमें से एक सर्वर के रूप में कार्य करता है, बशर्ते दोनों में इंटरनेट कनेक्शन हो?",
+    "options": [
+      "1. HTTP",
+      "2. DNS",
+      "3. DHCP",
+      "4. FTP"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following protocols is popularly associated with web services?",
+    "options": [
+      "1. SMTP ( Simple Mail Transfer Protocol)",
+      "2. SOAP (Simple Object Access Protocol)",
+      "3. HTTP (Hypertext Transfer Protocol)",
+      "4. DHCP (Dynamic Host Configuration Protocol)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा प्रोटोकॉल लोकप्रिय रूप से वेब सेवाओं से संबंधित है?",
+    "options": [
+      "1. SMTP (सिंपल मेल ट्रान्सफर प्रोटोकॉल)",
+      "2. SOAP (सिंपल ऑब्जेक्ट एक्सेस प्रोटोकॉल)",
+      "3. HTTP (हाइपरटेक्स्ट ट्रा न्सफर प्रोटोकॉल)",
+      "4. DHCP (डायनामिक होस्ट कॉन्फ़िगरेशन प्रोटोकॉल)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "When we ______ cells in MS-Excel, we change the appearance of a number without changing the value of the number.",
+    "options": [
+      "1. copy",
+      "2. format",
+      "3. move",
+      "4. delete"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel में, सेल को ______ करने पर, नंबर की वैल्यू को बदले बिना किसी नंबर की दिखावट (अपियरेन्स) बदल जाती है।",
+    "options": [
+      "1. कॉपी",
+      "2. फॉर्मेट",
+      "3. मूव",
+      "4. डिलीट"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The formula '=B$5*$A5' is an example of ______ referencing in MS-Excel 2019.",
+    "options": [
+      "1. absolute",
+      "2. immediate",
+      "3. mixed",
+      "4. relative"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel में, फॉर्मूला '=B$5*$A5' ______ संदर्भ (रेफरेन्सिंग) का एक उदाहरण है।",
+    "options": [
+      "1. निरपेक्ष (एब्सोल्यूट)",
+      "2. तत्काल (इमीडियेट)",
+      "3. मिश्रित (मिक्स्ड)",
+      "4. सापेक्षिक (रिलेटिव)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In MS-Excel 2019, in the formula ‘=CONCAT(A1,A2) , A1 and A2 are the names of ______.",
+    "options": [
+      "1. images",
+      "2. graphics",
+      "3. symbol",
+      "4. text strings"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel 2019 में, फॉर्मूला '=CONCAT(A1,A2)' में, A1 और A2 ______ के नाम हैं।",
+    "options": [
+      "1. छवि (images)",
+      "2. आलेखी (graphics)",
+      "3. प्रतीक (symbol)",
+      "4. टेक्स्ट स्ट्रिंग्स (text strings)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In MS-Excel 2019, the cell E4 contains ‘=$B4*E$2’. When the same formula is copied to cell F4, it becomes ______.",
+    "options": [
+      "1. =$B4*F$2",
+      "2. =$B5*F$2",
+      "3. =$B6*F$2",
+      "4. =$B5*E$4"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में, सेल E4 में फॉर्मूला ‘=$B4*E$2’ लगाया गया है। जब उसी फॉर्मूला को सेल F4 में कॉपी किया जाता है, तो यह______ बन जाता है।",
+    "options": [
+      "1. =$B4*F$2",
+      "2. =$B5*F$2",
+      "3. =$B6*F$2",
+      "4. =$B5*E$4"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The ______ dialog window helps to create a macro in MS-Excel 2019.",
+    "options": [
+      "1. Create Macro",
+      "2. Export Macro",
+      "3. Import Macro",
+      "4. Record Macro"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel 2019 में, ______ डायलॉग विंडो, मैक्रो बनाने में मदद करती है।",
+    "options": [
+      "1. क्रिएट मैक्रो",
+      "2. एक्सपोर्ट मैक्रो",
+      "3. इम्पोर्ट मैक्रो",
+      "4. रिकॉर्ड मैक्रो"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following MS-Excel 2019 functions returns a subtotal in a list or database?",
+    "options": [
+      "1. SUBTOTAL",
+      "2. SUBTOT",
+      "3. SUB",
+      "4. STOTAL"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा MS-Excel 2019 फ़ंक्शन, किसी सूची या डेटाबेस में सबटोटल (subtotal) प्रदान करता है?",
+    "options": [
+      "1. SUBTOTAL",
+      "2. SUBTOT",
+      "3. SUB",
+      "4. STOTAL"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In the MS-Excel 2019 worksheet containing a PivotTable, the Ribbon will contain the PivotTable Tools, with _________ and ________ tabs.",
+    "options": [
+      "1. PivotTable Analyze; Design",
+      "2. Design; Plot",
+      "3. Select; Visualize",
+      "4. Summarize; Display"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 वर्कशीट में PivotTable वाले, रिबन में PivotTable टूल्स होंगे, जिसमें _________ और ________ टैब होंगे।",
+    "options": [
+      "1. पिवट टेबल एनालाइज़; डिजाइन (PivotTable Analyze; Design)",
+      "2. डिजाइन; प्लॉट (Design; Plot)",
+      "3. सिलेक्ट; विज़ुअलाइज़ (Select; Visualize)",
+      "4. समराइज़; डिस्प्ले (Summarize; Display)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Each column in MS-Excel 2019 has a maximum column width of ______ characters.",
+    "options": [
+      "1. 31",
+      "2. 63",
+      "3. 127",
+      "4. 255"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel 2019 के प्रत्येक कॉलम में ______ वर्णों (कैरेक्टर्स) की अधिकतम कॉलम चौड़ाई होती है।",
+    "options": [
+      "1. 31",
+      "2. 63",
+      "3. 127",
+      "4. 255"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In MS-Excel 2019, the predefined header to display the name of the workbook is ______.",
+    "options": [
+      "1. &[File]",
+      "2. &[Page]",
+      "3. &[Path]",
+      "4. &[Tab]"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में, वर्कबुक का नाम प्रदर्शित करने के लिए पूर्वनिर्धारित हैडर ______ है।",
+    "options": [
+      "1. &[File]",
+      "2. &[Page]",
+      "3. &[Path]",
+      "4. &[Tab]"
+    ],
+    "answer": 0
+  }
 ]
         
         };
