@@ -5210,7 +5210,6 @@
   }
 ],
   "14th July 2024 - Shift1": [
-  const questions = [
   {
     "q": "Which of the following displays programs that are currently running in Windows 10 OS?",
     "options": [
