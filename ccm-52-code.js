@@ -17722,6 +17722,1048 @@
     ],
     "answer": 1
   }
+],
+  "08th September 2024 - Shift1": [
+  {
+    "q": "Random Access Memory (RAM) is a _______ type of memory.",
+    "options": [
+      "1. short-term",
+      "2. permanent",
+      "3. flash",
+      "4. smart"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "रैंडम एक्सेस मेमोरी (RAM) एक _______ प्रकार की मेमोरी है।",
+    "options": [
+      "1. लघु अवधि (शार्ट-टर्म)",
+      "2. स्थायी (परमानेंट)",
+      "3. फ्लैश",
+      "4. स्मार्ट"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Three types of compact disks include CD, CD-R and ______.",
+    "options": [
+      "1. CD-W",
+      "2. CD-RAM",
+      "3. CD-DVD",
+      "4. CD-RW"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "CD, CD-R और _____ ये कॉम्पैक्ट डिस्क के तीन प्रकार हैं।",
+    "options": [
+      "1. CD-W",
+      "2. CD-RAM",
+      "3. CD-DVD",
+      "4. CD-RW"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following app the best way to write quick notes on your Windows 10 desktop by signing up with Microsoft account?",
+    "options": [
+      "1. Sticky pad",
+      "2. Adobe Reader",
+      "3. Sticky notes",
+      "4. Sketchbook"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा ऐप Microsoft खाते के साथ साइन अप करके आपके विंडोज 10 डेस्कटॉप पर त्व रित नोट्स लिखने का सबसे अच्छा तरीका है?",
+    "options": [
+      "1. स्टिकी पैड",
+      "2. एडोबी रीडर",
+      "3. स्टिकी नोट्स",
+      "4. स्केचबुक"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following keyboard shortcut is used for selecting to the right word by word in Open Office Writer?",
+    "options": [
+      "1. Arrow Right",
+      "2. Shift + Arrow Right",
+      "3. Ctrl + Shift + Arrow Right",
+      "4. Ctrl + Arrow Right"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "ओपन ऑफिस राइटर में शब्द दर शब्द दाईं ओर चयन करने के लिए निम्नलिखित में से किस कीबोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Arrow Right",
+      "2. Shift+Arrow Right",
+      "3. Ctrl+Shift+Arrow Right",
+      "4. Ctrl+Arrow Right"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which function returns the matrix inverse of an array in MS-Excel 2019?",
+    "options": [
+      "1. MINV function",
+      "2. MINVERSE function",
+      "3. INVM function",
+      "4. INVERSEM function"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 में, कौन-सा फंक्शन ऐरे का प्रतिलोम मैट्रिक्स देता है?",
+    "options": [
+      "1. MINV फंक्शन",
+      "2. MINVERSE फंक्शन",
+      "3. INVM फंक्शन",
+      "4. INVERSEM फंक्शन"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "_______ is generally used to play fast computer games.",
+    "options": [
+      "1. Track ball",
+      "2. Joystick",
+      "3. Touch surface",
+      "4. Touch screen"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "_______ का उपयोग आमतौर पर तेज़ कंप्यूटर गेम खेलने के लिए किया जाता है।",
+    "options": [
+      "1. ट्रैक बॉल",
+      "2. जॉयस्टिक",
+      "3. टच सरफेस",
+      "4. टच स्क्रीन"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "_______ is used for storing programs and data currently being processed by the CPU.",
+    "options": [
+      "1. Mass memory",
+      "2. RAM",
+      "3. ROM",
+      "4. PROM"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "वर्तमान में सीपीयू (CPU) द्वारा संसाधित प्रोग्रामों और डेटा को संग्रहीत करने के लिए कौन-सी कंप्यूटर मेमोरी का उपयोग किया जाता है?",
+    "options": [
+      "1. मास मेमोरी (Mass Memory)",
+      "2. RAM",
+      "3. ROM",
+      "4. PROM"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following programming language is used in general for Artificial intelligence based problems?",
+    "options": [
+      "1. C",
+      "2. Python",
+      "3. Assembly",
+      "4. BASIC"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "आर्टिफिशियल इंटेलिजेंस आधारित समस्याओं के लिए निम्नलिखित में से कौन सी प्रोग्रामिंग भाषा का सामान्य रूप से उपयोग किया जाता है?",
+    "options": [
+      "1. C",
+      "2. पाइथन (Python)",
+      "3. असेंबली (Assembly)",
+      "4. बेसिक (BASIC)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "There are three types of data found in a spreadsheet:",
+    "options": [
+      "1. Number, Text and Logical",
+      "2. Data, Words and Object",
+      "3. Data, Numbers and Labels",
+      "4. Equation, Data and Object"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "स्प्रेडशीट में निम्न में से कौन-से तीन प्रकार के डेटा पाए जाते हैं?",
+    "options": [
+      "1. नंबर्स, टेक्स्ट और लॉजिकल",
+      "2. डेटा, वर्ड्स और ऑब्जेक्ट",
+      "3. डेटा, नंबर्स और लेबल",
+      "4. ईक्‍वेशन, डेटा और ऑब्जेक्ट"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following has the .xps file extension?",
+    "options": [
+      "1. XML paper specification",
+      "2. Microsoft Word",
+      "3. Notepad",
+      "4. Microsoft Excel"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से किसका फ़ाइल एक्सटेंशन .xps होता है?",
+    "options": [
+      "1. एक्सएमएल पेपर स्पेसिफिकेशन (XML paper specification)",
+      "2. माइक्रोसॉफ्ट वर्ड (Microsoft Word)",
+      "3. नोटपैड (Notepad)",
+      "4. माइक्रोसॉफ्ट एक्सेल (Microsoft Excel)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is false with reference to memory unit of a computer system?",
+    "options": [
+      "1. The Memory unit can be categorized in two ways namely, primary memory and secondary memory",
+      "2. Secondary storage is the fastest memory than primary memory that operates at electronic speeds",
+      "3. The most common examples of primary memory are RAM and ROM",
+      "4. Secondary memory is used when a large amount of data and programs have to be stored for a long-term basis"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कंप्यूटर सिस्टम की मेमोरी यूनिट के संदर्भ में निम्नलिखित में से कौन सा गलत है?",
+    "options": [
+      "1. मेमोरी यूनिट को दो तरह से वर्गीकृत किया जा सकता है, प्राइमरी मेमोरी और सेकेंडरी मेमोरी",
+      "2. सेकेंडरी स्टोरेज प्राइमरी मेमोरी की तुलना में सबसे तेज़ मेमोरी है जो इलेक्ट्रॉनिक गति से संचालित होती है",
+      "3. प्राइमरी मेमोरी के सबसे आम उदाहरण RAM और ROM हैं",
+      "4. सेकेंडरी मेमोरी का उपयोग तब किया जाता है जब बड़ी मात्रा में डेटा और प्रोग्राम को दीर्घकालिक आधार पर संग्रहीत करना होता है"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "________ defines the rights of individual users or organisations to keep their personal data and information secret.",
+    "options": [
+      "1. Phishing",
+      "2. Data Privacy",
+      "3. Software piracy",
+      "4. Spamming"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "________, व्यक्तिगत उपयोगकर्ताओं या संगठनों के अपने व्यक्तिगत डेटा और सूचना को गुप्त रखने के अधिकारों को परिभाषित करता है।",
+    "options": [
+      "1. फ़िशिंग",
+      "2. डेटा प्राइवेसी",
+      "3. सॉफ्टवेयर पायरेसी",
+      "4. स्पैमिंग"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following does NOT represent a barcode reader type?",
+    "options": [
+      "1. CCD",
+      "2. Laser",
+      "3. Device-Driver scanner",
+      "4. Pen-type"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा बारकोड रीडर का एक प्रकार नहीं है?",
+    "options": [
+      "1. सीसीडी (CCD)",
+      "2. लेज़र",
+      "3. डिवाइस-ड्राइवर स्कैनर",
+      "4. पेन-टाइप"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is NOT a rule listed in the ten commandments of computer ethics as defined by the Computer Ethics Institute?",
+    "options": [
+      "1. Thou shall not use a computer to steal.",
+      "2. Thou shall snoop through other people's computer files.",
+      "3. Thou shall not use a computer to bear false witness.",
+      "4. Thou shall not appropriate other people's intellectual output."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कंप्यूटर नैतिकता संस्थान द्वारा परिभाषित कंप्यूटर नैतिकता की दस कंमांडमेंट्स में निम्नलिखित में से कौन-सा नियम सूचीबद्ध नहीं है?",
+    "options": [
+      "1. आप कंप्यूटर का उपयोग चोरी करने के लिए नहीं करेंगे।",
+      "2. आप अन्य लोगों की कंप्यूटर फ़ाइलों के माध्यम से ताक-झांक करेंगे।",
+      "3. आप झूठी गवाही देने के लिए कंप्यूटर का उपयोग नहीं करेंगे।",
+      "4. आप अन्य लोगों के बौद्धिक परिणाम को उचित नहीं ठहराएंगे।"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The primary function of which unit is to send the processed results to the user?",
+    "options": [
+      "1. Input unit",
+      "2. Output unit",
+      "3. ALU",
+      "4. Memory unit"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "किस यूनिट का प्राथमिक कार्य उपयोगकर्ता को संसाधित परिणाम भेजना है?",
+    "options": [
+      "1. इनपुट यूनिट",
+      "2. आउटपुट यूनिट",
+      "3. एएलयू (ALU)",
+      "4. मेमोरी यूनिट"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ is a network located entirely on one site such as an office, school or within a group of buildings that are in close area, that are connected together.",
+    "options": [
+      "1. LAN",
+      "2. PAN",
+      "3. MAN",
+      "4. WAN"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "____________ एक नेटवर्क है, जो पूरी तरह से एक ही साइट जैसे; कार्यालय, स्कूल या आपस में जुड़ी हुई निकटवर्ती इमारतों के समूह पर स्थित होता है।",
+    "options": [
+      "1. LAN",
+      "2. PAN",
+      "3. MAN",
+      "4. WAN"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the Decimal Equivalent of the given Octal Number (60)8 ?",
+    "options": [
+      "1. 60",
+      "2. 48",
+      "3. 64",
+      "4. 84"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "दी गई अष्टक संख्या (60)₈ का दशमलव समतुल्य क्या है?",
+    "options": [
+      "1. 60",
+      "2. 48",
+      "3. 64",
+      "4. 84"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Who among the following is famously associated with the Facebook as a founder?",
+    "options": [
+      "1. Mark Zuckerberg",
+      "2. Tim Berners-Lee",
+      "3. Charles Babbage",
+      "4. Paul Buchheit"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन फेसबुक के संस्थापक के रूप में प्रसिद्ध है?",
+    "options": [
+      "1. मार्क जुकरबर्ग",
+      "2. टिम बर्नर्स-ली",
+      "3. चार्ल्स बैबेज",
+      "4. पॉल बुचेइट"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The full form of CC in an email is _________.",
+    "options": [
+      "1. corrected copy",
+      "2. cancelled copy",
+      "3. curation copy",
+      "4. carbon copy"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "ई-मेल में CC का पूर्णरूप क्या होता है?",
+    "options": [
+      "1. corrected copy (करेक्टेड कॉपी)",
+      "2. cancelled copy (कैंसिल्ड कॉपी)",
+      "3. curation copy (क्यूरेशन कॉपी)",
+      "4. carbon copy (कार्बन कॉपी)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A file-infecting virus infects files with _______ extensions.",
+    "options": [
+      "1. .exe and .com",
+      "2. .doc and .xls",
+      "3. .ppt and .pxs",
+      "4. .y2k and .wmk"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एक फाइल-संक्रमित वायरस _______ एक्स टेंशन वाली फाइलों को संक्रमित करता है।",
+    "options": [
+      "1. .exe और .com",
+      "2. .doc और .xls",
+      "3. .ppt और .pxs",
+      "4. .y2k और .wmk"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT the MPEG compression technique?",
+    "options": [
+      "1. MPEG-1",
+      "2. MPEG-2",
+      "3. MPEG-4",
+      "4. MPEG-12"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से कौन सी एक MPEG संपीडन तकनीक नहीं है?",
+    "options": [
+      "1. MPEG-1",
+      "2. MPEG-2",
+      "3. MPEG-4",
+      "4. MPEG-12"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In the output gain of audio compression controls, if the audio signal has been compressed, the overall level of the signal will be _______.",
+    "options": [
+      "1. maintained",
+      "2. reduced",
+      "3. increased",
+      "4. ignored"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ऑडियो संपीडन नियंत्रण के आउटपुट गेन में, यदि ऑडियो सिग्नल को संपीडित किया जाता है, तो सिग्‍नल के समग्र स्तर पर क्या प्रभाव पड़ेगा?",
+    "options": [
+      "1. एक नियत स्तर पर बरकरार रहेगा",
+      "2. घट जाएगा",
+      "3. बढ़ जाएगा",
+      "4. कोई प्रभाव नहीं पड़ेगा"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The ______ helps the user to detect any changes made to the original file.",
+    "options": [
+      "1. File Type Monitoring",
+      "2. File Hash Monitoring",
+      "3. File Integrity Monitoring",
+      "4. File Authenticity Monitoring"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "______ उपयोगकर्ता को मूल फ़ाइल (Original File) में किए गए किसी भी बदलाव का पता लगाने में मदद करता है।",
+    "options": [
+      "1. फाइल टाइप मॉनिटरिंग (File Type Monitoring)",
+      "2. फाइल हैश मॉनिटरिंग (File Hash Monitoring)",
+      "3. फाइल इंटीग्रिटी मॉनिटरिंग (File Integrity Monitoring)",
+      "4. फाइल ऑथेंटिसिटी मॉनिटरिंग (File Authenticity Monitoring)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The first computer virus was called _______, which was written by Richard Skrenta.",
+    "options": [
+      "1. Danish Boot",
+      "2. Elk Cloner",
+      "3. Melissa.A",
+      "4. Mr. Klunky"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "___________ नामक पहला कंप्यूटर वायरस रिचर्ड स्क्रेन्ट (Richard Skrenta) द्वारा लिखा गया था।",
+    "options": [
+      "1. Danish Boot",
+      "2. Elk Cloner",
+      "3. Melissa.A",
+      "4. Mr. Klunky"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The Advanced Boot Options screen can be started by pressing the ____ key before Windows starts.",
+    "options": [
+      "1. F8",
+      "2. F7",
+      "3. F4",
+      "4. F1"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "विंडोज़ के चालू होने से पहले ____ की को दबाकर एडवांस्ड बूट ऑप्शंस स्क्रीन खोली जा सकती है।",
+    "options": [
+      "1. F8",
+      "2. F7",
+      "3. F4",
+      "4. F1"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the full form of SSL?",
+    "options": [
+      "1. Secure Socket Layer",
+      "2. Secure Standard Layer",
+      "3. Secure Socket Location",
+      "4. Safe Socket Layer"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "SSL का पूर्णरूप क्या है?",
+    "options": [
+      "1. Secure Socket Layer (सिक्योर सॉकेट लेयर)",
+      "2. Secure Standard Layer (सिक्योर स्टैंडर्ड लेयर)",
+      "3. Secure Socket Location (सिक्योर सॉकेट लोकेशन)",
+      "4. Safe Socket Layer (सेफ सॉकेट लेयर)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The _______________ virus can affect both the boot sector and the program files at the same time.",
+    "options": [
+      "1. Polyboot.B",
+      "2. Boot Sector",
+      "3. Multipartite",
+      "4. Macro"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "___________ वायरस एक ही समय में बूट सेक्टर और प्रोग्राम फाइल दोनों को प्रभावित कर सकता है।",
+    "options": [
+      "1. पॉलीबूट.बी (Polyboot.B)",
+      "2. बूट सेक्टर (Boot Sector)",
+      "3. मल्टी पारटाइट (Multipartite)",
+      "4. मैक्रो (Macro)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "You can choose to create a ______ that will appear at the end of every email we send, either as a contact information or a favorite quote.",
+    "options": [
+      "1. signature",
+      "2. subject",
+      "3. formatting options",
+      "4. attachments"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "आप एक ______ बनाना चुन सकते हैं जो हमारे द्वारा भेजे जाने वाले प्रत्येक ईमेल के अंत में, संपर्क जानकारी या पसंदीदा उद्धरण के रूप में दिखाई देगा।",
+    "options": [
+      "1. signature (सिग्नेचर)",
+      "2. subject (सब्जे क्ट )",
+      "3. formatting options (फॉर्मेटिंग ऑप्शंस)",
+      "4. attachments (अटैचमेंट्स)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "EPS file format represents which of the below file?",
+    "options": [
+      "1. Encapsulated PostScript",
+      "2. Audio File",
+      "3. Programming/Scripting file",
+      "4. Hypertext file"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "EPS फाइल फॉर्मेट, निम्नलिखित में से किस फाइल को व्यक्त करता है?",
+    "options": [
+      "1. एनकैपसुलेटेड पोस्ट स्क्रिप्ट (Encapsulated PostScript)",
+      "2. ऑडियो फाइल (Audio File)",
+      "3. प्रोग्रामिंग/स्क्रिप्टिंग फाइल (Programming/Scripting file)",
+      "4. हाइपरटेक्स्ट फाइल (Hypertext file)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Testing any software or an application according to the client's needs without using any automation tool is known as ________ testing.",
+    "options": [
+      "1. automation",
+      "2. mechanical",
+      "3. manual",
+      "4. automatic"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "किसी ऑटोमेशन टूल का उपयोग किए बिना क्लाइंट की जरूरतों के अनुसार किसी सॉफ्टवेयर या एप्लिकेशन का परीक्षण (Testing) करना ________ परीक्षण (Testing) के रूप में जाना जाता है।",
+    "options": [
+      "1. ऑटोमेशन",
+      "2. मैकेनिकल",
+      "3. मैन्युअल",
+      "4. आटोमेटिक"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Who among the following is the co-founder of Twitter?",
+    "options": [
+      "1. Jack Dorsey",
+      "2. Andrew McCollum",
+      "3. Jimmy Wales",
+      "4. Steven Levy"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन  ट् विटर के सह संस्थापक है?",
+    "options": [
+      "1. जैक डॉर्सी",
+      "2. एंड्र मैक्कलम",
+      "3. जिमी वेल्स",
+      "4. स्टीवेन लेवी"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is used to search other websites by typing a keyword?",
+    "options": [
+      "1. Social networks",
+      "2. Search engine",
+      "3. Routers",
+      "4. Protocols"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से किसका उपयोग कीवर्ड टाइप करके अन्य वेबसाइटों को खोजने के लिए किया जाता है?",
+    "options": [
+      "1. सोशल नेटवर्क",
+      "2. सर्च इंजन",
+      "3. राउटर्स",
+      "4. प्रोटोकॉल"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a communication service on Internet?",
+    "options": [
+      "1. Web services",
+      "2. Telnet",
+      "3. FTP",
+      "4. Gopher"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन सी इंटरनेट पर संचार सेवा है?",
+    "options": [
+      "1. वेब सेवाएं",
+      "2. टेलनेट",
+      "3. एफ़टीपी (FTP)",
+      "4. धानीमूष (Gopher)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the use of a UPI PIN in BHIM?",
+    "options": [
+      "1. Authenticate all bank transactions",
+      "2. Encrypt all bank transactions",
+      "3. Decrypt all bank transactions",
+      "4. Scan all bank transactions"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "भीम (BHIM) में यू.पी.आई (UPI) पिन की क्या उपयोगिता है?",
+    "options": [
+      "1. सभी बैंक लेनदेन को प्रमाणित करना",
+      "2. समस्त बैंक लेनदेन को एन्क्रिप्ट करना",
+      "3. समस्त बैंक लेनदेन को डिक्रिप्ट करना",
+      "4. समस्त बैंक लेनदेन को स्कैन करना"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the keyboard shortcut to decrease font size in Microsoft Word 2010?",
+    "options": [
+      "1. Ctrl + F + >",
+      "2. Ctrl + Shift + <",
+      "3. Ctrl + >",
+      "4. Ctrl + F + <"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "माइक्रोसॉफ्ट Word 2010 में, फ़ॉन्ट के आकार को कम करने के लिए उपयोग किया जाने वाला कीबोर्ड शॉर्टकट क्या है?",
+    "options": [
+      "1. Ctrl + F + >",
+      "2. Ctrl + Shift + <",
+      "3. Ctrl + >",
+      "4. Ctrl + F + <"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What Does TrueType Font mean?",
+    "options": [
+      "1. It is a type of protocol",
+      "2. It is a type of file extension",
+      "3. It is a type of computer language",
+      "4. It is a font standard used in Microsoft and Apple OS"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "ट्रू टाइप फ़ॉन्ट का क्या अर्थ है?",
+    "options": [
+      "1. यह एक प्रकार का प्रोटोकॉल है।",
+      "2. यह एक प्रकार का फाइल एक्स टेंशन है।",
+      "3. यह एक प्रकार की कंप्यूटर भाषा है।",
+      "4. यह Microsoft और Apple OS में उपयोग किया जाने वाला एक फ़ॉन्ट मानक है।"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "How many levels of indented text can appear in a multilevel list in an MS-Word 2010 document?",
+    "options": [
+      "1. Nine",
+      "2. Seven",
+      "3. Eight",
+      "4. Ten"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एक MS-Word 2010 डॉक्युमेंट में एक बहुस्तरीय सूची में इंडेंट किए गए टेक्स्ट के कितने स्तर दिखाई दे सकते हैं?",
+    "options": [
+      "1. नौ (9)",
+      "2. सात (7)",
+      "3. आठ (8)",
+      "4. दस (10)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following statements in Microsoft Word is correct?",
+    "options": [
+      "1. Capitalize names of days",
+      "2. Capitalize last letter of table cells",
+      "3. Capitalize last letter of sentences",
+      "4. Correct THree INitial CApitals"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Word में निम्नलिखित में से कौन-सा कथन सही है?",
+    "options": [
+      "1. Capitalize names of days (कैपिटलाइज़ नेम्स ऑफ़ डेज)",
+      "2. Capitalize last letter of table cells (कैपिटलाइज़ लास्ट लेटर ऑफ़ टेबल सेल्स)",
+      "3. Capitalize last letter of sentences (कैपिटलाइज़ लास्ट लेटर ऑफ़ सेन्टेन्सेस)",
+      "4. Correct THree INitial CApitals (करेक्ट थ्री इनिशियल कैपिटल्स)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "While working with line and paragraph spacing in the Paragraph group, you can use Microsoft Word document's ______ feature to save all of the formatting changes you made and automatically apply them to new documents.",
+    "options": [
+      "1. Set as Default",
+      "2. Apply",
+      "3. Ok",
+      "4. Tabs"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "पैराग्राफ ग्रुप में लाइन और पैराग्राफ स्पेसिंग के साथ काम करते समय, आप माइक्रोसॉफ्ट Word डॉक्युमेंट के ______ फीचर का उपयोग अपने द्वारा किए गए सभी फॉर्मेटिंग परिवर्तनों को सेव करने के लिए कर सकते हैं और स्वचालित रूप से उन्हें नए डॉक्युमेंट पर लागू कर सकते हैं।",
+    "options": [
+      "1. सेट एस डिफ़ॉल्ट (Set as Default)",
+      "2. एप्लाय (Apply)",
+      "3. ओके (Ok)",
+      "4. टैब्स (Tabs)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Select _____________ to see a list of all changes next to your document while tracking changes in the MS-Word 2019.",
+    "options": [
+      "1. Reviewing Pane Above",
+      "2. Reviewing Pane Below",
+      "3. Reviewing Pane Horizontal",
+      "4. Reviewing Pane Vertical"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Word 2019 में परिवर्तनों को ट्रैक करते समय अपने दस्तावेज़ के आगे सभी परिवर्तनों की सूची देखने के लिए _____________ चुनें।",
+    "options": [
+      "1. Reviewing Pane Above",
+      "2. Reviewing Pane Below",
+      "3. Reviewing Pane Horizontal",
+      "4. Reviewing Pane Vertical"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "______ view in Microsoft Word 2019 displays the original document without tracked changes and comments showing. However, any tracked changes or comments in the document that have not been accepted, rejected or deleted remain in the document.",
+    "options": [
+      "1. Final Showing Markup",
+      "2. Final",
+      "3. Original",
+      "4. Original Showing Markup"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "माइक्रोसॉफ्ट वर्ड 2019 में ______ व्यू, ट्रैक किए गए परिवर्तनों (चेंज) और टिप्पणियों (कमेंट्स) को दिखाए बिना मूल डॉक्युमेंट प्रदर्शित करता है। हालाँकि, डॉक्यूमेंट में किया गया कोई भी ट्रैक परिवर्तन (चेंज) या टिप्पणियाँ (कमेंट्स) जिन्हें स्वीकार, अस्वीकार या हटाया (डिलीट किया) नहीं गया है, वह डॉक्युमेंट में बनी रहती हैं।",
+    "options": [
+      "1. फाइनल शोविंग मार्कअप",
+      "2. फाइनल",
+      "3. ओरिजिनल",
+      "4. ओरिजिनल शोविंग मार्कअप"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The _____ symbol is used to denote copyright.",
+    "options": [
+      "1. &",
+      "2. @",
+      "3. ©",
+      "4. #"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "कॉपीराइट को दर्शाने के लिए _____ चिह्न का उपयोग किया जाता है।",
+    "options": [
+      "1. &",
+      "2. @",
+      "3. ©",
+      "4. #"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The process by which URLs are modified and standardised in a consistent manner is called:",
+    "options": [
+      "1. URL modification",
+      "2. URL support",
+      "3. URL balancing",
+      "4. URL normalisation"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "उस प्रक्रिया को क्या कहते हैं जिसके तहत URL को सतत रूप से संशोधित और मानकीकृत किया जाता है?",
+    "options": [
+      "1. URL संशोधन (modification)",
+      "2. URL समर्थन (support)",
+      "3. URL संतुलन (balancing)",
+      "4. URL सामान्यी करण (normalisation)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "To use the ______ in Microsoft Excel, bring the mouse pointer at the bottom right corner of the cell. It will change into a + sign. Left-click on it and drag it downwards to the required range of cells.",
+    "options": [
+      "1. Fill handle",
+      "2. Pivot table",
+      "3. Pointer",
+      "4. Ribbon"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "माइक्रोसॉफ्ट Excel में, ______ का उपयोग करने के लिए माउस कर्सर को सेल के निचले दाएं कोने में लाएं। यह एक +  चिह्न में बदल जाएगा। उस पर लेफ्ट -क्लिक करें और इसे नीचे की ओर खींचकर आवश्यक सेल्स की रेंज में ले जाऍं।",
+    "options": [
+      "1. फिल हैंडल",
+      "2. पिवट टेबल",
+      "3. पॉइंटर",
+      "4. रिबन"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In Microsoft Excel 2019, if cell B2 contains the date of birth of a person, his/her age can be computed by ______.",
+    "options": [
+      "1. =AGE(B2, TODAY(),”Y”)",
+      "2. =DATE(B2, TODAY(),”Y”)",
+      "3. =DATE(TODAY(),B2,”Y”)",
+      "4. =DATEDIF(B2, TODAY(),”Y”)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "माइक्रोसॉफ्ट Excel 2019 में, यदि सेल B2 में किसी व्यक्ति की जन्मतिथि है, तो उसकी आयु की गणना ______ द्वारा की जा सकती है।",
+    "options": [
+      "1. =AGE(B2, TODAY(),”Y”)",
+      "2. =DATE(B2, TODAY(),”Y”)",
+      "3. =DATE(TODAY(),B2,”Y”)",
+      "4. =DATEDIF(B2, TODAY(),”Y”)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Identify the correct sequence of steps for naming a range of cells in Microsoft Excel 2019.",
+    "options": [
+      "1. Data -> Data Tools group -> Text to Columns",
+      "2. Formulas -> Defined Names group -> Define Name",
+      "3. Home -> Cells group -> Format",
+      "4. View -> Show group -> Headings"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 में सेल्स की रेंज के नामकरण के लिए चरणों के सही क्रम की पहचान करें।",
+    "options": [
+      "1. डेटा -> डेटा टूल्स ग्रुप -> टेक्स्ट टू कॉलम्स (Data -> Data Tools group -> Text to Columns)",
+      "2. फॉर्मुलास -> डिफाइंड नेम्स ग्रुप -> डिफाइन नेम (Formulas -> Defined Names group -> Define Name)",
+      "3. होम -> सेल्स ग्रुप -> फॉर्मेट (Home -> Cells group -> Format)",
+      "4. व्यू -> शो ग्रुप -> हेडिंग्स (View -> Show group -> Headings)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "An MS-Excel macro-enabled workbook has the filename extension ______.",
+    "options": [
+      "1. .xls",
+      "2. .xlsm",
+      "3. .xlss",
+      "4. .xlsx"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel मैक्रो-इनेबल्ड वर्कबुक में फ़ाइल नेम एक्सटेंशन ______ होता है।",
+    "options": [
+      "1. .xls",
+      "2. .xlsm",
+      "3. .xlss",
+      "4. .xlsx"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The keyboard shortcut Alt + F11 ______ in Microsoft Excel 2019.",
+    "options": [
+      "1. closes the Developer tab",
+      "2. executes a macro",
+      "3. opens Help Menu for macros",
+      "4. opens the Microsoft Visual Basic For Applications Editor"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel 2019 में कीबोर्ड शॉर्टकट Alt + F11 ______।",
+    "options": [
+      "1. डेवलपर टैब को बंद करता है",
+      "2. मैक्रो को निष्पादित करता है",
+      "3. मैक्रोज़ के लिए हेल्प मेनू ओपन करता है",
+      "4. एप्लिकेशन एडिटर के लिए Microsoft Visual Basic खोलता है"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following keyboard shortcut in MS-Excel 2019 display the Create Table dialog box?",
+    "options": [
+      "1. Ctrl + L",
+      "2. Alt + T",
+      "3. Ctrl + Shift + T",
+      "4. Ctrl + Alt + L"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में निम्नलिखित में से कौन सा कीबोर्ड शॉर्टकट क्रिएट टेबल डायलॉग बॉक्स प्रदर्शित करता है?",
+    "options": [
+      "1. Ctrl + L",
+      "2. Alt + T",
+      "3. Ctrl + Shift + T",
+      "4. Ctrl + Alt + L"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "By using regression analysis, you can extend a ______ in a chart beyond the actual data to predict the future values in Microsoft Excel 2019.",
+    "options": [
+      "1. bar",
+      "2. gridline",
+      "3. legend",
+      "4. trendline"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "प्रतिगमन विश्लेषण (रिग्रेशन एनालिसिस) का उपयोग करके, आप MS-Excel 2019 में भविष्य के मूल्यों (फ्यूचर वैल्यूज़) की भविष्य वाणी करने के लिए एक चार्ट में वास्तविक डेटा से परे ______ का विस्तार कर सकते हैं।",
+    "options": [
+      "1. बार",
+      "2. ग्रिडलाइन",
+      "3. लीजेंड",
+      "4. ट्रेंडलाइन"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In Microsoft Office, how many levels of Undo operations can be done in a sequence?",
+    "options": [
+      "1. 10",
+      "2. 50",
+      "3. 100",
+      "4. 127"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS Office में एक क्रम में Undo ऑपरेशंस को कितने स्तरों तक किया जा सकता है?",
+    "options": [
+      "1. 10",
+      "2. 50",
+      "3. 100",
+      "4. 127"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A background image can be added to an MS-Excel spreadsheet using the ______ tab.",
+    "options": [
+      "1. Home",
+      "2. Insert",
+      "3. Page Layout",
+      "4. View"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "बैकग्राउंड इमेज को ______ टैब का उपयोग करके MS-Excel स्प्रेडशीट में जोड़ा (ऐड किया) जा सकता है।",
+    "options": [
+      "1. होम (Home)",
+      "2. इन्सर्ट (Insert)",
+      "3. पेज लेआउट (Page Layout)",
+      "4. व्यू (View)"
+    ],
+    "answer": 2
+  }
 ]
         
         };
