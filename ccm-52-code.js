@@ -15638,6 +15638,1048 @@
     ],
     "answer": 3
   }
+],
+  "06th September 2024 - Shift1": [
+  {
+    "q": "Which of the following is valid categorization of computer memory?",
+    "options": [
+      "1. primary and secondary",
+      "2. permanent and secondary",
+      "3. secondary and tertiary",
+      "4. CD and DVD"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा कंप्यूटर मेमोरी का वैध वर्गीकरण है?",
+    "options": [
+      "1. प्राथमिक और द्वितीयक",
+      "2. स्थायी और द्वितीयक",
+      "3. द्वितीयक और तृतीयक",
+      "4. CD और DVD"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Magnetic tape is NOT practical for applications where data must be quickly recalled, because the tape is:",
+    "options": [
+      "1. a random access medium",
+      "2. expensive",
+      "3. a read-only medium",
+      "4. a sequential access medium"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "डेटा को तुरंत रिकॉल करने वाले अनुप्रयोगों के लिए चुंबकीय टेप व्यावहारिक नहीं है, क्योंकि यह एक _________ होता है।",
+    "options": [
+      "1. रैंडम एक्सेस माध्यम",
+      "2. महंगा",
+      "3. रीड ओनली माध्यम",
+      "4. सिक्‍वेंशल एक्सेस माध्यम"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following commands is used to delete a sticky note in Windows 10?",
+    "options": [
+      "1. Ctrl + D",
+      "2. Shift + D",
+      "3. Alt + D",
+      "4. Del"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "WINDOWS 10 में, स्टिकी नोट को डिलीट करने के लिए निम्न में से किस कमांड का उपयोग किया जाता है?",
+    "options": [
+      "1. Ctrl + D",
+      "2. Shift + D",
+      "3. Alt + D",
+      "4. Del"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the key combination to go to the end of a word in an OpenOffice writer?",
+    "options": [
+      "1. Ctrl + Shift + Arrow Right",
+      "2. Shift + Arrow Right",
+      "3. Ctrl + Arrow Right",
+      "4. Tab + Arrow Right"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "ओपन ऑफिस राइटर (OpenOffice writer) में, शब्द के अंत में जाने के लिए किस की-बोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Ctrl+Shift+Arrow Right",
+      "2. Shift+Arrow Right",
+      "3. Ctrl+Arrow Right",
+      "4. Tab+Arrow Right"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which function returns the most frequently occurring, or repetitive, value in an array or range of data in MS-Excel 2019?",
+    "options": [
+      "1. MCM function",
+      "2. MODE function",
+      "3. MCV function",
+      "4. MCOM function"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कौन सा फ़ंक्शन MS-Excel 2019 में किसी सरणी या डेटा की श्रेणी में सबसे अधिक बार होने वाला या दोहराव वाला मान लौटाता है?",
+    "options": [
+      "1. MCM फंक्शन",
+      "2. MODE फंक्शन",
+      "3. MCV फंक्शन",
+      "4. MCOM फंक्शन"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is NOT a pointing device?",
+    "options": [
+      "1. Joystick",
+      "2. Mouse",
+      "3. Keyboard",
+      "4. Touch screen"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्न में से कौन सी एक पॉइंटिंग डिवाइस नहीं है?",
+    "options": [
+      "1. जॉयस्टिक",
+      "2. माउस",
+      "3. की-बोर्ड",
+      "4. टच स्क्रीन"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A/An _____ converts and executes one statement at a time.",
+    "options": [
+      "1. complier",
+      "2. interpreter",
+      "3. converter",
+      "4. loader"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "___________, एक समय में एक ही स्टेटमेंट को बदलता (convert) है और निष्पादित (execute) करता है।",
+    "options": [
+      "1. कंपाइलर",
+      "2. इंटरप्रेटर",
+      "3. कनवर्टर",
+      "4. लोडर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following programs will generate a '#DIV/0!' error indicating that the formula or calculation is invalid?",
+    "options": [
+      "1. Microsoft Outlook",
+      "2. Microsoft PowerPoint",
+      "3. Microsoft Excel",
+      "4. Microsoft Word"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्न में से कौन सा प्रोग्राम '#DIV/0!' एरर उत्पन्न करता है, जो सूत्र या गणना के अमान्य होने का संकेत करती है?",
+    "options": [
+      "1. Microsoft Outlook",
+      "2. Microsoft PowerPoint",
+      "3. Microsoft Excel",
+      "4. Microsoft Word"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following memories must be refreshed many times per second?",
+    "options": [
+      "1. EPROM",
+      "2. ROM",
+      "3. Static RAM",
+      "4. Dynamic RAM"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से कौन सी मेमोरी प्रति सेकंड कई बार रिफ्रेश की जानी चाहिए?",
+    "options": [
+      "1. EPROM",
+      "2. ROM",
+      "3. स्थैतिक RAM (Static RAM)",
+      "4. गतिशील RAM (Dynamic RAM)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "______ is used to select the tray from which the printer will print.",
+    "options": [
+      "1. Load feeder",
+      "2. Print feeder",
+      "3. Sheet feeder",
+      "4. Line feeder"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "__________का उपयोग उस ट्रे का चयन करने के लिए किया जाता है, जिससे प्रिंटर मुद्रण करेगा।",
+    "options": [
+      "1. लोड फीडर",
+      "2. प्रिंट फीडर",
+      "3. शीट फीडर",
+      "4. लाइन फीडर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Why does a DRAM employ address multiplexing technique?",
+    "options": [
+      "1. To reduce the number of memory locations",
+      "2. To increase the number of memory locations",
+      "3. To reduce the number of pins on the chip",
+      "4. To increase the number of address lines"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "DRAM में एड्रेस मल्टीप्लेक्सिंग तकनीक का उपयोग क्यों किया जाता है?",
+    "options": [
+      "1. मेमोरी लोकेशंस की संख्या कम करने के लिए",
+      "2. मेमोरी लोकेशंस की संख्या बढ़ाने के लिए",
+      "3. चिप पर पिन की संख्या कम करने के लिए",
+      "4. एड्रेस लाइनों की संख्या बढ़ाने के लिए"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The most frequently used instructions of a computer program are fetched from _________.",
+    "options": [
+      "1. Register",
+      "2. Main memory",
+      "3. Cache memory",
+      "4. Hard disk"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "किसी कंप्यूटर प्रोग्राम का सार्वाधिक उपयोग किया जाने वाला निर्देश ______ से लिया जाता है।",
+    "options": [
+      "1. रजिस्टर",
+      "2. मुख्य मेमोरी",
+      "3. कैश मेमोरी",
+      "4. हार्ड डिस्क"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following does NOT represent a barcode reader type?",
+    "options": [
+      "1. Superficial scanner",
+      "2. CCD readers",
+      "3. LED scanners",
+      "4. Camera-based readers"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा बारकोड रीडर का एक प्रकार नहीं है?",
+    "options": [
+      "1. सुपरफिशियल स्कैनर",
+      "2. CCD रीडर",
+      "3. LED स्कैनर",
+      "4. कैमरा-बेस्ड रीडर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the value of expression '=8*(5+3)-8/2' using the order in which MS Excel 2019 performs operations in formulas?",
+    "options": [
+      "1. 8",
+      "2. 60",
+      "3. 28",
+      "4. 58"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "व्यंजक '=8*(5+3)-8/2' का मान उस क्रम का उपयोग करते हुए ज्ञात कीजिए, जिस क्रम में MS Excel 2019 सूत्रों की संक्रियाओं का संचालन करता है।",
+    "options": [
+      "1. 8",
+      "2. 60",
+      "3. 28",
+      "4. 58"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The binary expansion 1 x 20 is equal to decimal number _________.",
+    "options": [
+      "1. 1",
+      "2. 2",
+      "3. 3",
+      "4. 4"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "बाइनरी विस्तार 1 x 20 निम्न में से किस दशमलव संख्या के बराबर है?",
+    "options": [
+      "1. 1",
+      "2. 2",
+      "3. 3",
+      "4. 4"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a geographical network classification?",
+    "options": [
+      "1. Client",
+      "2. WAN",
+      "3. Server",
+      "4. Peer to peer"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन एक भौगोलिक नेटवर्क वर्गीकरण है?",
+    "options": [
+      "1. क्लाइंट",
+      "2. WAN",
+      "3. सर्वर",
+      "4. पीयर-टू-पीयर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following codes is used for data recording in modern magnetic tapes?",
+    "options": [
+      "1. 4-bit BCD",
+      "2. 8-bit EBCDIC",
+      "3. 7-bit ASCII",
+      "4. 16-bit Unicode"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "आधुनिक चुंबकीय टेप में डेटा रिकॉर्डिंग के लिए निम्नलिखित में से किस कोड का उपयोग किया जाता है?",
+    "options": [
+      "1. 4-बिट BCD",
+      "2. 8-बिट EBCDIC",
+      "3. 7-बिट ASCII",
+      "4. 16-बिट यूनिकोड"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is NOT a printer type?",
+    "options": [
+      "1. Dot matrix printer",
+      "2. Line printer",
+      "3. Chain printer",
+      "4. Brand printer"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से कौन सा प्रिंटर का एक प्रकार नहीं है?",
+    "options": [
+      "1. डॉट मैट्रिक्स प्रिंटर",
+      "2. लाइन प्रिंटर",
+      "3. चेन प्रिंटर",
+      "4. ब्रांड प्रिंटर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is a fast and expensive memory that stores copies of data from the main memory that needs to be frequently accessed by the CPU?",
+    "options": [
+      "1. Primary Memory",
+      "2. Cache Memory",
+      "3. Secondary Memory",
+      "4. Registers"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन सी वह तीव्र और महंगी मेमोरी है, जो CPU द्वारा बार-बार एक्सेस किये जाने वाले डेटा की प्रतियों को मुख्य मेमोरी से संग्रहीत करती है?",
+    "options": [
+      "1. प्राथमिक मेमोरी",
+      "2. कैश मेमोरी",
+      "3. द्वितीयक मेमोरी",
+      "4. रजिस्टर्स"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The most important specification of loudspeakers and microphones is the:",
+    "options": [
+      "1. gain",
+      "2. power density",
+      "3. field strength",
+      "4. frequency response"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "लाउडस्पीकर और माइक्रोफोन की सबसे महत्वपूर्ण विशेषता (specification) क्या है?",
+    "options": [
+      "1. गेन (Gain)",
+      "2. पॉवर डेंसिटी (Power density)",
+      "3. फील्ड स्ट्रेंग्थ (Field strength)",
+      "4. फ्रीक्‍वेंसी रिस्पांस (Frequency response)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is a useful tool for sound engineers who want to smooth out the sound of instruments, vocals, and more?",
+    "options": [
+      "1. Backup Utility",
+      "2. Audio Compression",
+      "3. Disk Management",
+      "4. Memory Testing"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा ध्वनि इंजीनियरों के लिए एक उपयोगी उपकरण है जो वाद्ययंत्रों, स्वरों और अन्य चीज़ों की ध्वनि को सुचारू बनाना चाहते हैं?",
+    "options": [
+      "1. बैकअप यूटिलिटी",
+      "2. ऑडियो कम्प्रेशन",
+      "3. डिस्क मैनेजमेंट",
+      "4. मेमोरी टेस्टिंग"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a lossless algorithm technique?",
+    "options": [
+      "1. Hamming encoding",
+      "2. Dijakstra encoding",
+      "3. Mark encoding",
+      "4. Run length encoding"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन सी एक हानिरहित (Lossless) एल्गोरिदम तकनीक है?",
+    "options": [
+      "1. हैमिंग एन्कोडिंग",
+      "2. डिज़ाक्सतरा एन्कोडिंग",
+      "3. मार्क एन्कोडिंग",
+      "4. रन लेंग्थ एन्कोडिंग"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is a type of cybersecurity attack in which an attacker pretends to be someone else in order to gain access to systems or data?",
+    "options": [
+      "1. Masquerade",
+      "2. Repudiation",
+      "3. Replay",
+      "4. Denial of Service"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा एक प्रकार का साइबर सुरक्षा हमला है जिसमें एक हमलावर सिस्टम या डेटा तक पहुंच प्राप्त करने के लिए किसी और के होने का दिखावा करता है?",
+    "options": [
+      "1. मस्करेड (Masquerade)",
+      "2. रेपुडिएशन (Repudiation)",
+      "3. रीप्ले (Replay)",
+      "4. डिनायल ऑफ़ सर्विस (Denial of Service)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following statements is/are true with reference to 'Why peripherals devices are NOT connected to the system bus'?<br><br>(i) Peripherals may have different data formats and word lengths than that of the computer to which they are connected.<br>(ii) The data transfer rate of peripherals is usually slower than that of the CPU.",
+    "options": [
+      "1. (i) Only",
+      "2. (ii) Only",
+      "3. Both (i) and (ii)",
+      "4. Neither (i) nor (ii)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "पेरिफेरल्स डिवाइस सिस्टम बस से कनेक्ट क्यों नहीं हैं' के संदर्भ में निम्नलिखित में से कौन से कथन सही हैं?<br><br>(i) पेरिफेरल्स का डेटा फॉर्मेट और जिस कंप्यूटर से वे जुड़े हुए हैं उसकी तुलना में वर्ड की लंबाई भिन्न हो सकती है।<br> (ii) पेरिफेरल्स की डेटा स्थानांतरण दर CPU की डेटा स्थानांतरण दर की तुलना में सामान्यतः धीमी होती है।",
+    "options": [
+      "1. केवल (i)",
+      "2. केवल (ii)",
+      "3. (i) और (ii) दोनों",
+      "4. न तो (i) और न ही (ii)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following may not be a solution if the keyboard types the wrong letters?",
+    "options": [
+      "1. Must have a settings issue and that’s easy to fix",
+      "2. Need to set the correct keyboard layout",
+      "3. Make sure Num Lock isn’t on",
+      "4. Having spacebar key replaced"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "यदि कीबोर्ड गलत अक्षर टाइप करता है तो निम्नलिखित में से कौन सा सोल्युशन नहीं हो सकता है?",
+    "options": [
+      "1. अवश्य ही कोई सेटिंग समस्या होगी और उसे ठीक करना आसान है",
+      "2. सही कीबोर्ड लेआउट सेट करने की आवश्यकता है",
+      "3. सुनिश्चित करें कि Num Lock चालू नहीं है",
+      "4. स्पेसबार कुंजी को बदला जाना"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is NOT a \"Default Folder\" in Windows OS?",
+    "options": [
+      "1. Program Files",
+      "2. WinSxS",
+      "3. Windows or WINNT",
+      "4. Program Settings"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से कौन सा Windows OS में \"डिफ़ॉल्ट फ़ोल्डर\" नहीं है?",
+    "options": [
+      "1. प्रोग्राम फाइल्स",
+      "2. WinSxS",
+      "3. विंडोज़ और WINNT",
+      "4. प्रोग्राम सेटिंग्स"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The x64 Windows 10 Home version supports the RAM upto :",
+    "options": [
+      "1. 32 GB",
+      "2. 16 GB",
+      "3. 64 GB",
+      "4. 128 GB"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "x64 विंडोज़ 10 होम संस्करण निम्न तक रैम का समर्थन करता है:",
+    "options": [
+      "1. 32 GB",
+      "2. 16 GB",
+      "3. 64 GB",
+      "4. 128 GB"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "ReFS file system structure is organised in ________ format.",
+    "options": [
+      "1. B tree",
+      "2. B+ tree",
+      "3. Binary tree",
+      "4. Heap tree"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ReFS फाइल सिस्टम संरचना को निम्न में से किस फाइल फॉर्मेट में संगठित किया जाता है?",
+    "options": [
+      "1. B ट्री",
+      "2. B+ ट्री",
+      "3. बाइनरी ट्री",
+      "4. हीप ट्री"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following statements is/are false about the CPU?<br><br>(i) It controls the operation of all the components such as memory, input and output devices.<br>(ii) It is the heart of a computer and its primary function is to execute instructions.",
+    "options": [
+      "1. Only (i)",
+      "2. Only (ii)",
+      "3. Both (i) and (ii)",
+      "4. Neither (i) nor (ii)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "CPU के संबंध में निम्नलिखित में से कौन से कथन गलत हैं?<br><br>(i) यह मेमोरी, इनपुट और आउटपुट डिवाइस जैसे सभी घटकों के संचालन को नियंत्रित करता है।<br>(ii) इसे कंप्यूटर का ह्रदय भी कहा जाता है और इसका प्राथमिक कार्यनिर्देशों को निष्पादित (execute) करना है।",
+    "options": [
+      "1. केवल (i)",
+      "2. केवल (ii)",
+      "3. दोनों (i) और (ii)",
+      "4. न तो (i) और न ही (ii)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The cost of software testing in general is _______ of software development.",
+    "options": [
+      "1. 70% to 80%",
+      "2. 20% to 40%",
+      "3. 5% to 15%",
+      "4. 7% to 10%"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "सामान्य तौर पर सॉफ्टवेयर परीक्षण की लागत सॉफ्टवेयर विकास की _______ होती है।",
+    "options": [
+      "1. 70% to 80%",
+      "2. 20% to 40%",
+      "3. 5% to 15%",
+      "4. 7% to 10%"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following options gives the truthfulness of the given statements with reference to the setting up of Google Drive?<br><br>(i) The 'Back up to Google Photos' option will upload all files and folders, including photos and videos.<br>(ii) The 'Sync with Google Drive' option will skip files and documents from the folder and only upload photos, gifs, and videos to Google Photos.",
+    "options": [
+      "1. (i) True (ii) False",
+      "2. (i) True (ii) True",
+      "3. (i) False (ii) True",
+      "4. (i) False (ii) False"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा विकल्प Google Drive की स्थापना के संदर्भ में दिए गए कथनों की सत्यता बताता है?<br><br> (i) 'बैक अप टू गूगल फोटोज' विकल्प फोटो और वीडियो सहित सभी फाइलों और फ़ोल्डरों को अपलोड कर देगा।<br>(ii) 'सिंक विद गूगल ड्राइव' विकल्प फ़ोल्डर से फ़ाइलों और दस्तावेज़ों को छोड़ देगा और केवल फ़ोटो, GIF और वीडियो को Google फ़ोटो पर अपलोड करेगा।",
+    "options": [
+      "1. (i) सही (ii) ग़लत",
+      "2. (i) सही (ii) सही",
+      "3. (i) ग़लत (ii) सही",
+      "4. (i) ग़लत (ii) ग़लत"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is NOT a search engine?",
+    "options": [
+      "1. Ask.com",
+      "2. Facebook.com",
+      "3. Google.com",
+      "4. Yahoo.com"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्न में से कौन सा एक ‘सर्च इंजन’ नहीं है?",
+    "options": [
+      "1. Ask.com",
+      "2. Facebook.com",
+      "3. Google.com",
+      "4. Yahoo.com"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A computer's memory is divided into a large number of small parts called ______.",
+    "options": [
+      "1. Sections",
+      "2. Cells",
+      "3. Blocks",
+      "4. Chunks"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक कंप्यूटर की मेमोरी को बड़ी संख्या में छोटे भागों में विभाजित किया जाता है जिन्हें ______ कहा जाता है।",
+    "options": [
+      "1. सेक्शंस",
+      "2. सेल्स",
+      "3. ब्लॉक्स",
+      "4. चंक्स"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "You can make direct bank payments to anyone on _______ by scanning their QR code with the BHIM app.",
+    "options": [
+      "1. Unified Payments Interface",
+      "2. Automatic Teller Machine",
+      "3. Universal Serial Bus",
+      "4. Network Interface Card"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "आप BHIM ऐप से किसी के भी QR कोड को स्कैन करके _______ पर सीधे बैंक भुगतान कर सकते हैं।",
+    "options": [
+      "1. यूनिफाइड पेमेंट्स इंटरफ़ेस",
+      "2. ऑटोमेटिक टेलर मशीन",
+      "3. यूनिवर्सल सीरियल बस",
+      "4. नेटवर्क इंटरफ़ेस कार्ड"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What are the common extensions used for font files in computers?",
+    "options": [
+      "1. .OTF, .TTF",
+      "2. .OTF, True Type",
+      "3. .EXE, .OTF",
+      "4. True type, .TTF"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कंप्यूटर में फ़ॉन्ट फ़ाइलों के लिए उपयोग किए जाने वाले सामान्य एक्सटेंशन क्या हैं?",
+    "options": [
+      "1. .OTF, .TTF",
+      "2. .OTF, True Type",
+      "3. .EXE, .OTF",
+      "4. True Type, .TTF"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following key combinations is used to launch Task Manager in Windows 11?",
+    "options": [
+      "1. Ctrl + Esc",
+      "2. Shift + Esc",
+      "3. Ctrl + Shift + Esc",
+      "4. Ctrl + Alt + Esc"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "विंडोज़ 11 में टास्क मैनेजर लॉन्च करने के लिए निम्नलिखित में से किस कुंजी संयोजन का उपयोग किया जाता है?",
+    "options": [
+      "1. Ctrl + Esc",
+      "2. Shift + Esc",
+      "3. Ctrl + Shift + Esc",
+      "4. Ctrl + Alt + Esc"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is NOT a font effect in the font dialog box of Microsoft Word 2019?",
+    "options": [
+      "1. Superscript",
+      "2. Strikethrough",
+      "3. Title case",
+      "4. Subscript"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्न में से कौन सा फ़ॉन्ट इफ़ेक्ट , Microsoft Word 2019 के फ़ॉन्ट डॉयलॉग बॉक्स में मौजूद नहीं होता है?",
+    "options": [
+      "1. सुपरस्क्रिप्‍ट",
+      "2. स्ट्राइक-थ्रू",
+      "3. टाइटल केस",
+      "4. सबस्क्रिप्‍ट"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The _________ option in the Proofing group of MS Word 2019 provides the option to count the number of words in the document.",
+    "options": [
+      "1. Count Paragraph",
+      "2. Word Count",
+      "3. Paragraph Count",
+      "4. Count Words"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS Word 2019 के प्रूफिंग ग्रुप का कौन सा विकल्प डॉक्यूमेंट में शब्दों की संख्या गिनने का विकल्प प्रदान करता है?",
+    "options": [
+      "1. काउंट पैराग्राफ",
+      "2. वर्ड काउंट",
+      "3. पैराग्राफ काउंट",
+      "4. काउंट वर्ड्स"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In MS Word 2019, the default line spacing is measured in ______.",
+    "options": [
+      "1. lines",
+      "2. inches",
+      "3. pixels",
+      "4. centimeters"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS Word 2019 में, डिफ़ॉल्ट लाइन स्पेसिंग ______ में मापी जाती है।",
+    "options": [
+      "1. लाइनों",
+      "2. इंच",
+      "3. पिक्सेल्स",
+      "4. सेंटीमीटर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "You can insert a comment inside a balloon or a box that appears in the document ______ in MS Word 2019.",
+    "options": [
+      "1. footer",
+      "2. header",
+      "3. margins",
+      "4. text area"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "आप MS-Word 2019 में डॉक्यूमेंट ______ में दिखाई देने वाले गुब्बारे या बॉक्स के अंदर एक टिप्पणी (Comment) डाल सकते हैं।",
+    "options": [
+      "1. फुटर",
+      "2. हेडर",
+      "3. मार्जिन",
+      "4. टेक्स्ट एरिया"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In the given figure, the commands are part of the _______ group in the Review tab in MS-Excel 2019.<br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJNoQH1Ge6oYPhYU80DbFocUwYoI14w7Cw0lyUE_qB0GYHf0E7jUnbWhLLe8-nrFJuDYvpjWR68Xfs_6D0kusquF9eEXKXde6IoD5x-_Ev30BDZh3ilJl7iQTftvvWKwc2dqgvKK_9KkrcXap2wMhashBLrU8jx6rIHrqbEmc0P4kk_HQmjm_UGlHNeHri/s1600/45%20gjj.jpg\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. Proofing",
+      "2. Comments",
+      "3. Tracking",
+      "4. Changes"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "दिए गए चित्र में, कमांड MS-Excel 2019 में रिव्यू टैब में _______ समूह का हिस्सा हैं।<br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJNoQH1Ge6oYPhYU80DbFocUwYoI14w7Cw0lyUE_qB0GYHf0E7jUnbWhLLe8-nrFJuDYvpjWR68Xfs_6D0kusquF9eEXKXde6IoD5x-_Ev30BDZh3ilJl7iQTftvvWKwc2dqgvKK_9KkrcXap2wMhashBLrU8jx6rIHrqbEmc0P4kk_HQmjm_UGlHNeHri/s1600/45%20gjj.jpg\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. प्रूफिंग (Proofing)",
+      "2. कमेंट्स (Comments)",
+      "3. ट्रैकिंग (Tracking)",
+      "4. चेंजेज (Changes)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The 4 byte IP address consists of:",
+    "options": [
+      "1. routing address",
+      "2. network address only",
+      "3. host address only",
+      "4. both network address and host address"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "4 बाइट IP एड्रेस में निम्न में से क्या शामिल होता है?",
+    "options": [
+      "1. राउटिंग एड्रेस",
+      "2. केवल नेटवर्क एड्रेस",
+      "3. केवल होस्ट एड्रेस",
+      "4. नेटवर्क एड्रेस और होस्ट एड्रेस दोनों"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A URL is also termed as a specific type of:",
+    "options": [
+      "1. Universal Resource Identifier",
+      "2. Uniform Range Identifier",
+      "3. Uniform Resource Identifier",
+      "4. Uniform Remote Identifier"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "URL को एक विशिष्ट प्रकार के ______ रूप में भी जाना जाता है।",
+    "options": [
+      "1. यूनिवर्सल रिसोर्स आइडेंटिफायर",
+      "2. यूनिफॉर्मरेंज आइडेंटिफायर",
+      "3. यूनिफॉर्मरिसोर्स आइडेंटिफायर",
+      "4. यूनिफॉर्मरिमोट आइडेंटिफायर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In Microsoft Excel 2019, to add all numbers greater than 7 in a range, we may use ______.",
+    "options": [
+      "1. =SUM(range, >7)",
+      "2. =SUM(range, \">7\")",
+      "3. =SUMIF(range, \">7\")",
+      "4. =SUMIF(range, \"7\")"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Microsoft Excel 2019 में, एक श्रेणी में 7 से बड़ी सभी संख्या ओं को जोड़ने के लिए, हम ______ का उपयोग कर सकते हैं।",
+    "options": [
+      "1. =SUM(range, >7)",
+      "2. =SUM(range, \">7\")",
+      "3. =SUMIF(range, \">7\")",
+      "4. =SUMIF(range, \"7\")"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In Microsoft Excel 2019, the absolute cell reference formed by row 20 and columns D, E is ________.",
+    "options": [
+      "1. $D$20:$E$20",
+      "2. $D20:$E20",
+      "3. D20:E20",
+      "4. $$D20:E20$$"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Microsoft Excel 2019 में, पंक्ति 20 और कॉलम D, E द्वारा गठित निरपेक्ष सेल रेफरेंस निम्न में से क्या होगा?",
+    "options": [
+      "1. $D$20:$E$20",
+      "2. $D20:$E20",
+      "3. D20:E20",
+      "4. $$D20:E20$$"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "If there is something wrong with the cells referenced by a formula, the ______ error is shown in MS Excel 2019.",
+    "options": [
+      "1. $ERROR!",
+      "2. #ERROR!",
+      "3. #VALUE!",
+      "4. #######"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "यदि सूत्र द्वारा संदर्भित (referenced) सेल्स में कुछ गड़बड़ है, तो MS Excel 2019 में ______ एरर प्रदर्शित होगी।",
+    "options": [
+      "1. $ERROR!",
+      "2. #ERROR!",
+      "3. #VALUE!",
+      "4. #######"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is not a type of cell reference in Microsoft Excel?",
+    "options": [
+      "1. Relative reference",
+      "2. Absolute reference",
+      "3. Total reference",
+      "4. Mixed reference"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्न में से क्या Microsoft Excel में सेल रेफरेंस का एक प्रकार नहीं है?",
+    "options": [
+      "1. सापेक्ष संदर्भ (Relative reference)",
+      "2. निरपेक्ष संदर्भ (Absolute reference)",
+      "3. कुल संदर्भ (Total reference)",
+      "4. मिश्रित संदर्भ (Mixed reference)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The ________ function returns the smallest value in a set of values in MS-Excel 2019.",
+    "options": [
+      "1. MAX",
+      "2. MIN",
+      "3. AVG",
+      "4. LEAST"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "________ फ़ंक्शन MS-Excel 2019 में मानों के एक सेट में सबसे छोटा मान लौटाता है।",
+    "options": [
+      "1. MAX",
+      "2. MIN",
+      "3. AVG",
+      "4. LEAST"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A cell can be formatted to hold a number in exponential notation (for example: 6.2E+08) using the ______ option in cell format in MS-Excel 2019.",
+    "options": [
+      "1. Fraction",
+      "2. Number",
+      "3. Percentage",
+      "4. Scientific"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel 2019 में संख्या को घातांकीय संकेतन (उदाहरण के लिए: 6.2E+08) में रखने के लिए सेल को फॉर्मेट करने हेतु, सेल फॉर्मेट के ______ विकल्प का उपयोग किया जा सकता है।",
+    "options": [
+      "1. फ्रैक्शन",
+      "2. नंबर",
+      "3. परसेंटेज",
+      "4. साइंटिफिक"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The Comments group is available under the ______ tab in Microsoft Excel 2019.",
+    "options": [
+      "1. File",
+      "2. Home",
+      "3. Formulas",
+      "4. Review"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Microsoft Excel 2019 में, कमेंट्स ग्रुप किस टैब के अंतर्गत उपलब्ध होते हैं?",
+    "options": [
+      "1. फ़ाइल",
+      "2. होम",
+      "3. फ़ॉर्मूलास",
+      "4. रिव्यू"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In order to track changes to a worksheet in Microsoft Excel 2019, the Changes group is provided under the ______ tab.",
+    "options": [
+      "1. Home",
+      "2. Insert",
+      "3. Review",
+      "4. View"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Microsoft Excel 2019 में, वर्कशीट में परिवर्तनों को ट्रैक करने के लिए, चेंजेज़ ग्रुप ______ टैब के अंतर्गत प्रदान किया गया है।",
+    "options": [
+      "1. होम",
+      "2. इंसर्ट",
+      "3. रिव्यू",
+      "4. व्यू"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The Product function in Microsoft Excel 2019 ______.",
+    "options": [
+      "1. accepts exactly two arguments",
+      "2. multiplies the first two numbers given as arguments",
+      "3. expects three arguments",
+      "4. multiplies all the numbers given as arguments"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Microsoft Excel 2019 में प्रोडक्ट फंक्शन ______।",
+    "options": [
+      "1. ठीक दो आर्ग्यूमेंट्स को स्वीकार करता है",
+      "2. आर्ग्यूमेंट्स के रूप में दी गई पहली दो संख्याओं को गुणा करता है",
+      "3. तीन आर्ग्यूमेंट्स की अपेक्षा करता है",
+      "4. आर्ग्यूमेंट्स के रूप में दी गई सभी संख्याओं को गुणा करता है"
+    ],
+    "answer": 3
+  }
 ]
         
         };
