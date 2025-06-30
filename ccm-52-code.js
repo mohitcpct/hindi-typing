@@ -14596,6 +14596,1048 @@
     ],
     "answer": 0
   }
+],
+   "12th January 2025 - Shift2": [
+  {
+    "q": "The folder that remains in one folder while creating a hierarchical structure in a file system is called a _______.",
+    "options": [
+      "1. mini folder",
+      "2. tiered folder",
+      "3. subfolder",
+      "4. super folder"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "सोपानिक संरचना (hierarchical structure) बनाते समय जब कोई फ़ोल्डर किसी फ़ोल्डर के अंतर्गत रहता है, तो उसे _______ कहा जाता है।",
+    "options": [
+      "1. मिनी फोल्डर",
+      "2. टियर्ड फोल्डर",
+      "3. सबफोल्डर",
+      "4. सुपर फोल्डर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "________ is a language which is used to design standardised Web Pages so that the Web contents can be read and understood from any computer across the globe.",
+    "options": [
+      "1. Hyper Text Machine Language",
+      "2. Hyper Traffic Markup Language",
+      "3. Hyper Transmission Markup Language",
+      "4. Hyper Text Markup Language"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "___________ एक भाषा है जिसका उपयोग मानकीकृत वेब पेजों को डिजाइन करने के लिए किया जाता है ताकि वेब सामग्री को दुनिया भर के किसी भी कंप्यूटर से पढ़ा और समझा जा सके।",
+    "options": [
+      "1. हाइपर टेक्स्ट मशीन लैंग्वेज",
+      "2. हाइपर ट्रैफिक मार्कअप लैंग्वेज",
+      "3. हाइपर ट्रांसमिशन मार्कअप लैंग्वेज",
+      "4. हाइपर टेक्स्ट मार्कअप लैंग्वेज"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The basic computer information processing cycle consists of _________.",
+    "options": [
+      "1. input, processing, storage and output",
+      "2. system and application data",
+      "3. information and application",
+      "4. hardware, software and firmware"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "आधारभूत कंप्यूटर सूचना प्रसंस्करण चक्र में _________ होते हैं।",
+    "options": [
+      "1. इनपुट, प्रोसेसिंग, स्टोरेज और आउटपुट",
+      "2. सिस्टम और ऐप्लिकेशन डेटा",
+      "3. इन्फॉ र्मेशन और ऐप्लिकेश",
+      "4. हार्डवेयर, सॉफ्ट वेयर और फर्मवेयर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Reusable optical storage will typically have the acronym:",
+    "options": [
+      "1. R",
+      "2. W",
+      "3. RM",
+      "4. RW"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "पुन: प्रयोज्य ऑप्टिकल भंडारण का सामान्यतः संक्षिप्त नाम होगा:",
+    "options": [
+      "1. R",
+      "2. W",
+      "3. RM",
+      "4. RW"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is the key combination to add subscript in an OpenOffice writer?",
+    "options": [
+      "1. Ctrl+Shift+A",
+      "2. Ctrl+Shift+B",
+      "3. Ctrl+Shift+S",
+      "4. Ctrl+Shift+D"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक ओपन ऑफिस राइटर (OpenOffice writer) में सबस्क्रिप्ट जोड़ने के लिए कुंजी संयोजन क्या है?",
+    "options": [
+      "1. Ctrl+Shift+A",
+      "2. Ctrl+Shift+B",
+      "3. Ctrl+Shift+S",
+      "4. Ctrl+Shift+D"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is NOT an output device?",
+    "options": [
+      "1. Monitor",
+      "2. Scanner",
+      "3. Printer",
+      "4. Plotter"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्न में से कौन-सा, एक आउटपुट डिवाइस नहीं है?",
+    "options": [
+      "1. मॉनिटर",
+      "2. स्कैनर",
+      "3. प्रिंटर",
+      "4. प्लॉटर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which function in MS-Excel 2019 converts a text string that represents a number to a number?",
+    "options": [
+      "1. VALUE",
+      "2. N",
+      "3. NVAL",
+      "4. VALN"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एमएस-एक्सेल 2019 (MS-Excel 2019) में कौन- सा फ़ंक्शन, एक संख्या को निरूपित करने वाली एक टेक्स्ट स्ट्रिंग को संख्या में परिवर्तित करता है?",
+    "options": [
+      "1. VALUE",
+      "2. N",
+      "3. NVAL",
+      "4. VALN"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT a type of printer?",
+    "options": [
+      "1. Ink jet printer",
+      "2. Laser printer",
+      "3. Opto-mechanical printer",
+      "4. Thermal printer"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्न में से कौन-सा, एक प्रिंटर का प्रकार नहीं है ?",
+    "options": [
+      "1. इंक जेट प्रिंटर",
+      "2. लेज़र प्रिंटर",
+      "3. ऑप्टो-मैकेनिकल प्रिंटर",
+      "4. थर्मल प्रिंटर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following can only have sequential access?",
+    "options": [
+      "1. Magnetic disk",
+      "2. Magnetic tape",
+      "3. CD-ROM",
+      "4. DVD-ROM"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से किस तक केवल अनुक्रमिक पहुंच (sequential access) हो सकती है?",
+    "options": [
+      "1. मैग्नेटिक डिस्क",
+      "2. मैग्नेटिक टैप",
+      "3. CD-ROM",
+      "4. DVD-ROM"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following option in MS-Excel 2019 allows you to makes it easy to highlight certain values or make particular cells easy to identify?",
+    "options": [
+      "1. Filter",
+      "2. Sort",
+      "3. Conditional Formatting",
+      "4. Format as table"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एमएस-एक्सेल 2019 (MS-Excel 2019) में निम्नलिखित में से कौन- सा विकल्प , कुछ मूल्यों को हाइलाइट करना या विशेष सेल को पहचानना सरल बनाता है?",
+    "options": [
+      "1. फ़िल्टर (Filter)",
+      "2. सॉर्ट (Sort)",
+      "3. कंडीशनल फॉर्मेटिंग (Conditional Formatting)",
+      "4. फॉर्मेट एज़ टेबल (Format as table)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A linear barcode typically holds:",
+    "options": [
+      "1. signal information",
+      "2. video information",
+      "3. audio information",
+      "4. text information"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "एक रैखिक बारकोड आमतौर पर होल्ड (धारण) कर सकता है:",
+    "options": [
+      "1. सिग्नल इनफॉर्मेशन",
+      "2. वीडियो इनफॉर्मेशन",
+      "3. ऑडियो इनफॉर्मेशन",
+      "4. टेक्स्ट इनफॉर्मेशन"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The total number of unique patterns that can be generated using 8 bits is __________.",
+    "options": [
+      "1. 127",
+      "2. 256",
+      "3. 128",
+      "4. 255"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "8 बिट्स का उपयोग करके उत्पन्न किए जा सकने वाले अद्वितीय पैटर्न की कुल संख्या _________ है।",
+    "options": [
+      "1. 127",
+      "2. 256",
+      "3. 128",
+      "4. 255"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "VLSI (Very Large Scale Integration) microprocessors are used in which generation of computers?",
+    "options": [
+      "1. First Generation",
+      "2. Third Generation",
+      "3. Fourth Generation",
+      "4. Fifth Generation"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "VLSI (वेरी लार्ज स्केल इंटीग्रेशन) माइक्रोप्रोसेसरों का प्रयोग किस पीढ़ी के कंप्यूटरों में किया जाता है?",
+    "options": [
+      "1. पहली पीढ़ी",
+      "2. तीसरी पीढ़ी",
+      "3. चौथी पीढ़ी",
+      "4. पांचवी पीढ़ी"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following CANNOT be made using the plotters?",
+    "options": [
+      "1. Creating screen print stencils",
+      "2. Creating your own stickers",
+      "3. Creating series of videos",
+      "4. Cutting window tinting"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से क्या प्लॉटर का उपयोग करके नहीं बनाया जा सकता है?",
+    "options": [
+      "1. स्क्रीन प्रिंट स्टेंसिल बनाना",
+      "2. अपने स्वयं के स्टिकर बनाना",
+      "3. वीडियो सीरीज़ बनाना",
+      "4. कटिंग विंडो टिंटिंग"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The first drum plotter in the year 1959 worked on _______ pen(s).",
+    "options": [
+      "1. three",
+      "2. zero",
+      "3. one",
+      "4. five"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "वर्ष 1959 में पहला ड्रम प्लॉटर _______ पेन/पेनों पर कार्य करता था।",
+    "options": [
+      "1. तीन",
+      "2. शून्य",
+      "3. एक",
+      "4. पांच"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The ability to do error-free calculations represents the ________ characteristic of the computer.",
+    "options": [
+      "1. scalability",
+      "2. accuracy",
+      "3. speed",
+      "4. no IQ"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "त्रुटि-रहित गणना करने की क्षमता, कंप्यूटर की ________ विशेषता को दर्शाती है।",
+    "options": [
+      "1. मापनीयता",
+      "2. परिशुद्धता",
+      "3. गति",
+      "4. कोई IQ नहीं"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Who among the following is credited with having conceived the first automatic digital computer?",
+    "options": [
+      "1. Blaise Pascal",
+      "2. Charles Babbage",
+      "3. Tim Berners-Lee",
+      "4. John V Atanasoff"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से किसे प्रथम स्वचालित डिजिटल कंप्यूटर परिकल्पित करने का श्रेय दिया जाता है?",
+    "options": [
+      "1. बेल्ज़ पास्कल",
+      "2. चार्ल्स बैबेज",
+      "3. टिम बर्नर्सली",
+      "4. जॉन वी अटानासॉफ"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which protocol is used to transfer individual files typically for an interactive user session?",
+    "options": [
+      "1. HTTP",
+      "2. SMTP",
+      "3. RIP",
+      "4. FTP"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "इंटरैक्टिव यूजर सेक्शन की व्यक्तिगत फ़ाइलों को स्थानांतरित करने के लिए सामान्यतः कौन से प्रोटोकॉल का उपयोग किया जाता है?",
+    "options": [
+      "1. HTTP",
+      "2. SMTP",
+      "3. RIP",
+      "4. FTP"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is a single user computer system having a moderately powerful microprocessor?",
+    "options": [
+      "1. Personal Computer",
+      "2. Mini-computer",
+      "3. Mainframe Computer",
+      "4. Supercomputer"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा एकल उपयोगकर्ता कंप्यूटर सिस्टम है जिसमें मध्यम शक्तिशाली माइक्रोप्रोसेसर होता है?",
+    "options": [
+      "1. पर्सनल कंप्यूटर",
+      "2. मिनी कंप्यूटर",
+      "3. मेनफ्रेम कंप्यूटर",
+      "4. सुपर कंप्यूटर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "With reference to compression formats, what does ALAC stands for?",
+    "options": [
+      "1. Apple Lossless Audio Codec",
+      "2. Apple Lossy Audio Codec",
+      "3. Apple Lossless Audio Cooperation",
+      "4. Apple Lossless Audio Creation"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "संपीड़न प्रारूपों (compression formats) के संदर्भ में, ALAC का क्या अर्थ है?",
+    "options": [
+      "1. Apple Lossless Audio Codec (एप्पल लॉसलेस ऑडियो कोडेक)",
+      "2. Apple Lossy Audio Codec (एप्पल लॉसी ऑडियो कोडेक)",
+      "3. Apple Lossless Audio Cooperation (एप्पल लॉसलेस ऑडियो कोऑपरेशन)",
+      "4. Apple Lossless Audio Creation (एप्पल लॉसलेस ऑडियो क्रिएशन)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "When you type the text on the screen, a small vertical black line always blinks on the screen called the __________.",
+    "options": [
+      "1. indicator",
+      "2. cursor",
+      "3. shape",
+      "4. icon"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "जब आप स्क्रीन पर टेक्स्ट टाइप करते हैं, तो स्क्रीन पर हमेशा एक छोटी खड़ी काली रेखा ब्लिंक होती रहती है, जिसे __________ कहा जाता है।",
+    "options": [
+      "1. इंडिकेटर",
+      "2. कर्सर",
+      "3. शेप",
+      "4. आइकॉन"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "System software controls a computer's internal functioning, chiefly through a/an __________.",
+    "options": [
+      "1. Application Programs",
+      "2. Operating System",
+      "3. Database Management System",
+      "4. Random Access Memory"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "सिस्टम सॉफ्टवेयर, कंप्यूटर की आंतरिक कार्यप्रणाली को मुख्यतः __________ के माध्यम से नियंत्रित करता है।",
+    "options": [
+      "1. ऐप्लिकेशन प्रोग्राम",
+      "2. ऑपरेटिंग सिस्टम",
+      "3. डेटाबेस मैनेजमेन्‍ट सिस्टम",
+      "4. रैंडम एक्सेस मेमोरी"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What does RHEL stand for with reference to Operating Systems?",
+    "options": [
+      "1. Red Hat Eternal Linux",
+      "2. Red Hat Enterprise Linux",
+      "3. Red Hat External Linux",
+      "4. Red Har Everlasting Linux"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ऑपरेटिंग सिस्टम के संदर्भ में RHEL का क्या अर्थ है?",
+    "options": [
+      "1. Red Hat Eternal Linux (रेड हैट एटर्नल लिनक्स )",
+      "2. Red Hat Enterprise Linux (रेड हैट इंटरप्राइज़ लिनक्स )",
+      "3. Red Hat External Linux (रेड हैट एक्सटर्नल लिनक्स )",
+      "4. Red Hat Everlasting Linux (रेड हैट एवरलास्टिंग लिनक्स )"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What does the inverter that is usually placed on the bottom of the LCD screen do?",
+    "options": [
+      "1. It allows for the laptop’s display to be lit by providing power to the screen’s backlight.",
+      "2. It supplies electricity to the LCD monitor when there is power failure.",
+      "3. It acts like a battery.",
+      "4. It inverts the power supply."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "प्राय: एलसीडी (LCD) स्क्रीन के नीचे स्थित इन्वर्टर का क्या कार्य है?",
+    "options": [
+      "1. यह स्क्रीन की बैकलाइट को पावर प्रदान करके लैपटॉप का डिस्प्लेप्रकाशित करता है।",
+      "2. यह बिजली न होने पर एलसीडी (LCD) मॉनिटर को बिजली की आपूर्ति करता है।",
+      "3. यह एक बैटरी की तरह काम करता है",
+      "4. यह बिजली की आपूर्ति को अंतवर्तित करता है।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT a translator program?",
+    "options": [
+      "1. Loader",
+      "2. Compiler",
+      "3. Assembler",
+      "4. Interpreter"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से कौन सा एक ट्रांसलेटर प्रोग्राम नहीं है?",
+    "options": [
+      "1. लोडर",
+      "2. कंपाइलर",
+      "3. असेंबलर",
+      "4. इंटरप्रेटर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The directory structure of many operating system is:",
+    "options": [
+      "1. hierarchical",
+      "2. discrete",
+      "3. sequential",
+      "4. random"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "बहुत से ऑपरेटिंग सिस्टम्स में डाइरेक्ट्री की संरचना _______ होती है।",
+    "options": [
+      "1. पदानुक्रमित (hierarchical)",
+      "2. विविक्‍त (discrete)",
+      "3. अनुक्रमिक (sequential)",
+      "4. यादृच्छिक (random)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Yahoo messenger data file has ______ extension.",
+    "options": [
+      "1. .yps",
+      "2. .yahoo",
+      "3. .ysp",
+      "4. .yss"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Yahoo मैसेंजर डेटा फाइल का एक्सटेंशन ______ है।",
+    "options": [
+      "1. .yps",
+      "2. .yahoo",
+      "3. .ysp",
+      "4. .yss"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The Microsoft Word window has ____________ scroll bars.",
+    "options": [
+      "1. two",
+      "2. three",
+      "3. four",
+      "4. five"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "माइक्रोसॉफ्ट वर्ड (Microsoft Word) विंडो में ____________ स्क्रॉल बार होती हैं।",
+    "options": [
+      "1. दो",
+      "2. तीन",
+      "3. चार",
+      "4. पांच"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A document that contains description of any event that has happened, which requires further investigation is called a/an ____________.",
+    "options": [
+      "1. Bug report",
+      "2. Defect report",
+      "3. Incident report",
+      "4. Test summary report"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एक दस्तावेज जिसमें किसी घटित घटना का विवरण होता है जिसके लिए आगे जाँच की आवश्यकता होती है, उसे ____________ कहा जाता है।",
+    "options": [
+      "1. बग रिपोर्ट",
+      "2. डिफेक्ट रिपोर्ट",
+      "3. इंसिडेंट रिपोर्ट",
+      "4. टेस्ट समरी रिपोर्ट"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The unreachable code would best be found using:",
+    "options": [
+      "1. a coverage analysis",
+      "2. code inspection",
+      "3. a test management tool",
+      "4. code reviews"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "अप्राप्य कोड (unreachable code) को निम्न में से किसका उपयोग करके ढूंढना सार्वाधिक उपयुक्त होगा?",
+    "options": [
+      "1. कवरेज विश्लेषण (a coverage analysis)",
+      "2. कोड निरीक्षण (code inspection)",
+      "3. परीक्षण प्रबंधन उपकरण (a test management tool)",
+      "4. कोड समीक्षा (code reviews)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following network's strategies are widely used on the internet?",
+    "options": [
+      "1. Terminal",
+      "2. Client/server",
+      "3. Peer-to-peer",
+      "4. Organisational"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सी नेटवर्क स्ट्रेटेजी, इंटरनेट पर व्यापक रूप से उपयोग की जाती है?",
+    "options": [
+      "1. टर्मिनल",
+      "2. क्लाइंट/सर्वर",
+      "3. पीयर-टू-पीयर",
+      "4. ऑर्गेनाइज़ेशनल"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is NOT a search engine?",
+    "options": [
+      "1. Windows",
+      "2. Google",
+      "3. Yahoo",
+      "4. Bing"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा एक सर्च इंजन नहीं है?",
+    "options": [
+      "1. विंडोज (Windows)",
+      "2. गूगल (Google)",
+      "3. याहू (Yahoo)",
+      "4. बिंग (Bing)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following type advertising are shown between pages on a Web site?",
+    "options": [
+      "1. Interstitial Banners",
+      "2. Content sponsorships",
+      "3. Banner flags",
+      "4. Pop-Ups"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से किस प्रकार के विज्ञापन वेब साइट पर पृष्ठों के बीच दिखाए जाते हैं?",
+    "options": [
+      "1. इंटरस्टिशियल बैनर",
+      "2. कंटेंट स्‍पांसरशिप",
+      "3. बैनर फ्लैग",
+      "4. पॉप-अप"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What do you mean by font weight with reference to Google fonts?",
+    "options": [
+      "1. It is the character of numbers, weight, style.",
+      "2. It is defined in points that are often equal to pixels on a computer display.",
+      "3. It is a group of fonts.",
+      "4. It refers to how thick a character is."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "गूगल फ़ॉन्ट्स (Google fonts) के संदर्भ में फ़ॉन्ट वज़न (font weight) का क्या अर्थ है?",
+    "options": [
+      "1. यह संख्या (numbers), वजन (weight), शैली (style) का कैरेक्‍टर है।",
+      "2. इसे पॉइंट्स में निर्धारित किया जाता है जो प्रायः कम्प्यूटर डिस्प्ले पर पिक्सेल के बराबर होते हैं।",
+      "3. यह फ़ॉन्ट्स का एक समूह है।",
+      "4. यह दर्शाता है कि कोई कैरेक्‍टर कितना मोटा है।"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is NOT a valid numeric format in Number tab of Format Cells window in MS-Excel 2019?",
+    "options": [
+      "1. Dollar",
+      "2. Currency",
+      "3. Percentage",
+      "4. Fraction"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एमएस-एक्सेल 2019 (MS-Excel 2019) में Format Cells विंडो के Number टैब में निम्नलिखित में से कौन- सा वैध संख्यात्मक प्रारूप नहीं है?",
+    "options": [
+      "1. डॉलर",
+      "2. करेंसी",
+      "3. परसेंटेज",
+      "4. फ्रैक्शन"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following are types of memory?<br><b>A. Register Memory <br>B. Primary Memory or Main Memory<br>C. Secondary or Auxiliary Memory",
+    "options": [
+      "1. A and B",
+      "2. B and C",
+      "3. C and A",
+      "4. All of A, B and C"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-से मेमोरी के प्रकार हैं?<br><b>A. रजिस्टर मेमोरी<br>B. प्राइमरी मेमोरी या मेन मेमोरी<br>C. सेकेंडरी या ऑक्जिलरी मेमोरी",
+    "options": [
+      "1. A और B",
+      "2. B और C",
+      "3. C और A",
+      "4. A, B और C सभी"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "When we copy a range in MS-Excel 2019, which of the following appear around the selected area?",
+    "options": [
+      "1. Moving border",
+      "2. Static border",
+      "3. Double line border",
+      "4. Single line border"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एमएस-एक्सेल 2019 (MS-Excel 2019) में किसी रेंज को कॉपी करने पर, सेलेक्‍टेड एरिया के आसपास क्या दिखाई देता है?",
+    "options": [
+      "1. मूविंग बोर्डर",
+      "2. स्टेटिक बोर्डर",
+      "3. डबल लाइन बोर्डर",
+      "4. सिंगल लाइन बोर्डर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following can be used to insert page numbers in MS-Word 2019?",
+    "options": [
+      "1. Insert > Page Number",
+      "2. Draw > Page Number",
+      "3. Mailing > Page Number",
+      "4. References > Page Number"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एमएस-वर्ड 2019 (MS-Word 2019) में पेज नंबर डालने के लिए निम्नलिखित में से किसका उपयोग किया जा सकता है?",
+    "options": [
+      "1. Insert > Page Number",
+      "2. Draw > Page Number",
+      "3. Mailing > Page Number",
+      "4. References > Page Number"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the shortcut key for double underline in MS-Word 2019?",
+    "options": [
+      "1. Ctrl + Shift + D",
+      "2. Ctrl + Shift + H",
+      "3. Ctrl + Shift + U",
+      "4. Ctrl + Shift + R"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एमएस-वर्ड 2019 (MS-Word 2019) में डबल अंडरलाइन के लिए शॉर्टकट कुंजी क्या है?",
+    "options": [
+      "1. Ctrl + Shift + D",
+      "2. Ctrl + Shift + H",
+      "3. Ctrl + Shift + U",
+      "4. Ctrl + Shift + R"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What do you understand by tab key in a computer keyboard?",
+    "options": [
+      "1. A key on computer keyboards that inserts a tab character or moves the insertion point to the next tab stop.",
+      "2. A key that opens the tab dialog box.",
+      "3. A key that acts like a ruler.",
+      "4. A key that describes the paragraph in your text."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कंप्यूटर कीबोर्ड में टैब कुंजी से आप क्या समझते हैं?",
+    "options": [
+      "1. कंप्यूटर कीबोर्ड पर एक ऐसी कुंजी जो एक टैब कैरेक्टर इन्सर्ट करती है या इन्सर्शन पॉइंट को अगले टैब स्टॉप पर ले जाती है।",
+      "2. एक कुंजी जो डायलॉग बॉक्स टैब खोलती है।",
+      "3. एक कुंजी जो रूलर की तरह कार्य करती है।",
+      "4. एक कुंजी जो आपके टेक्स्ट में पैराग्राफ वर्णित करती है।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "With reference to computer network, NIC stands for ________.",
+    "options": [
+      "1. Net Interface Card",
+      "2. Network Interface Card",
+      "3. Network Interface Connection",
+      "4. New Internet Connection"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कंप्यूटर नेटवर्क के संदर्भ में, NIC का पूर्णरूप ________ है।",
+    "options": [
+      "1. Net Interface Card (नेट इंटरफेस कार्ड)",
+      "2. Network Interface Card (नेटवर्क इंटरफेस कार्ड)",
+      "3. Network Interface Connection (नेटवर्क इंटरफेस कनेक्शन)",
+      "4. New Internet Connection (न्यू इंटरनेट कनेक्शन)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Repeater operates in the _______ layer of the OSI model.",
+    "options": [
+      "1. transport",
+      "2. data link",
+      "3. physical",
+      "4. network"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "रिपीटर (Repeater), OSI मॉडल की _______ लेयर में कार्य करता है।",
+    "options": [
+      "1. ट्रांसपोर्ट",
+      "2. डेटा लिंक",
+      "3. फिजिकल",
+      "4. नेटवर्क"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "When the weather condition is snow buildup or extreme heat, which internet service is effected?",
+    "options": [
+      "1. DSL",
+      "2. Fiber",
+      "3. Cable",
+      "4. Satellite"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "बर्फबारी, या अत्यधिक गर्मी के मौसम में कौन- सी इंटरनेट सेवा प्रभावित होती है?",
+    "options": [
+      "1. डीएसएल (DSL)",
+      "2. फाइबर (Fiber)",
+      "3. केबल (Cable)",
+      "4. सैटेलाइट (Satellite)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The full form of ASCII is _______.",
+    "options": [
+      "1. American Standard Code for Interchange Institution",
+      "2. American Standard Code for Information Interchange",
+      "3. American Standard Code for Information Exchange",
+      "4. American Standard Code for Information Institution"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ASCII का पूर्णरूप _________ है।",
+    "options": [
+      "1. American Standard Code for Interchange Institution (अमेरिकन स्टैण्डर्ड कोड फॉर इंटरचेंज इंस्टीट्यूशन)",
+      "2. American Standard Code for Information Interchange (अमेरिकन स्टैण्डर्ड कोड फॉर इन्फॉर्मेशन इंटरचेंज)",
+      "3. American Standard Code for Information Exchange (अमेरिकन स्टैण्डर्ड कोड फॉर इन्फॉर्मेशन एक्स चेंज)",
+      "4. American Standard Code for Information Institution (अमेरिकन स्टैण्डर्ड कोड फॉर इन्फॉर्मेशन इंस्टीट्यूशन)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The decimal equivalent of binary 110 is ________.",
+    "options": [
+      "1. 2",
+      "2. 3",
+      "3. 6",
+      "4. 5"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "द्विआधारी (बाइनरी) 110 का दशमलव समतुल्य (डेसीमल एक्विवैलेन्ट ) ________ है।",
+    "options": [
+      "1. 2",
+      "2. 3",
+      "3. 6",
+      "4. 5"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following functions of MS-Excel 2019 is used to find the arithmetic mean of the arguments?",
+    "options": [
+      "1. AVERAGE",
+      "2. SUMIF",
+      "3. MEDIAN",
+      "4. PERCENTAGE"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एमएस-एक्सेल 2019 (MS-Excel 2019) में निम्नलिखित में से कौन- सा फ़ंक्शन, ऑर्ग्‍युमेन्‍ट्स का अंकगणितीय माध्य ज्ञात करने के लिए उपयोग किया जाता है?",
+    "options": [
+      "1. AVERAGE",
+      "2. SUMIF",
+      "3. MEDIAN",
+      "4. PERCENTAGE"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "By default, a cell reference is a/an ____________ reference in MS-Excel?",
+    "options": [
+      "1. absolute",
+      "2. circular",
+      "3. dynamic",
+      "4. relative"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "डिफ़ॉल्ट रूप से, एमएस-एक्सेल (MS-Excel) में एक सेल संदर्भ एक ____________ संदर्भ होता है?",
+    "options": [
+      "1. एब्सोल्यूट (absolute)",
+      "2. सर्कुलर (circular)",
+      "3. डायनामिक (dynamic)",
+      "4. रिलेटिव (relative)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The keyboard shortcut _______ is used to wrap text in MS-Excel 2019.",
+    "options": [
+      "1. Shift + Enter",
+      "2. Alt + H + W",
+      "3. Ctrl + H + W",
+      "4. Spacebar + Enter"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एमएस-एक्सेल 2019 (MS-Excel 2019) में टेक्स्ट को रैप (wrap) करने के लिए कीबोर्ड शॉर्टकट _______ का उपयोग किया जाता है।",
+    "options": [
+      "1. Shift + Enter",
+      "2. Alt + H + W",
+      "3. Ctrl + H + W",
+      "4. Spacebar + Enter"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is not an element of MS-Excel 2019 table?",
+    "options": [
+      "1. Header row",
+      "2. Banded rows",
+      "3. Calculated columns",
+      "4. Total columns"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, एमएस-एक्सेल 2019 (MS-Excel 2019) तालिका का तत्व नहीं है?",
+    "options": [
+      "1. Header row",
+      "2. Banded rows",
+      "3. Calculated columns",
+      "4. Total column"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following functions belongs to the 'Logical' category in MS-Exel 2019?",
+    "options": [
+      "1. XOR()",
+      "2. VLOOKUP()",
+      "3. SQRT()",
+      "4. DATE()"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एमएस-एक्सेल 2019 (MS-Excel 2019) में निम्नलिखित में से कौन- सा फ़ंक्शन 'Logical ' श्रेणी से संबंधित है?",
+    "options": [
+      "1. XOR()",
+      "2. VLOOKUP()",
+      "3. SQRT()",
+      "4. DATE()"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_______ is the keyboard shortcut used in MS-Excel 2019 to launch a Macro dialog box.",
+    "options": [
+      "1. Ctrl + F4",
+      "2. Alt + F4",
+      "3. Alt + F8",
+      "4. Ctrl + F8"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एमएस-एक्सेल 2019 (MS-Excel 2019) में _______, Macro डायलॉग बॉक्स लॉन्च करने के लिए उपयोग किया जाने वाला कीबोर्ड शॉर्टकट है।",
+    "options": [
+      "1. Ctrl + F4",
+      "2. Alt + F4",
+      "3. Alt + F8",
+      "4. Ctrl + F8"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The ______ logical function returns TRUE if either argument evaluates to TRUE and FALSE if both arguments are TRUE or neither is TRUE in MS-Excel 2019.",
+    "options": [
+      "1. AND",
+      "2. IF",
+      "3. OR",
+      "4. XOR"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "एमएस-एक्सेल 2019 (MS-Excel 2019) में यदि कोई ऑर्ग्‍युमेन्‍ट TRUE और FALSE का मूल्‍यांकन करता है यदि दोनों ऑर्ग्‍युमेन्‍ट TRUE हैं या कोई भी TRUE नहीं है तो ______ लॉजिकल फ़ंक्शन TRUE रिटर्न करता है।",
+    "options": [
+      "1. AND",
+      "2. IF",
+      "3. OR",
+      "4. XOR"
+    ],
+    "answer": 3
+  }
 ]
         
         };
