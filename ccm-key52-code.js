@@ -18765,7 +18765,7 @@
     "answer": 2
   }
 ],
-  "13th July 2024 - Shift1": [
+  "13th July 2024 - Shift1": [ 
   {
     "q": "The keyboard shortcut ______ will launch the Start menu.",
     "options": [
