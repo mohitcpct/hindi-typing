@@ -19409,20 +19409,20 @@
   {
     "q": "_______ tag indicates start of the HTML document.",
     "options": [
-      "1. <HTML>",
-      "2. <BODY>",
-      "3. <TITLE>",
-      "4. <HEAD>"
+      "1. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9yABl9OLc81NL4JQs4MSNRB4NH9glKlHbf9O9d-u5O42VVnv_glGHmTvl_XfTO3ja0Mufxxot6Ff0nHj605tuCMJqXaZRIIoi-v4Uj2pfctcq3vzN6Hd61tckxmWgFP9oA2sjAXLw_Dm7BHe7R7eV_35hy6fTomgWL8Olp1Bq-2xIbj0BFAvFLJKYAsJU/s1600/215%20hh.jpg\" style=\"max-width:100%;height:auto;\">",
+      "2. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghzVBm3DrchTNMgXGFfl0cskE3AQjGLQ3VUPv_dcR3u9fUPNjlZ069D7lrnbZGh9_kPX8pPy8pXRkZUtokTdKLzynhkKbq9BJKAbAXqaubULBcIULBhtpmHP7SndQKGa8nTZQCw0N2Q09mS6I8a6ozXtKldzmI3lpQ9FX2_rJ0Z78CNZ_QooGR0kP3yaIf/s1600/216%20hh.jpg\" style=\"max-width:100%;height:auto;\">",
+      "3. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgm29nrHoyRisvhBWtZVxBLOHSpwyCkMTeD1K8LsgsAstzCoys-GgmhYsKx54XPiI2npogqMa0WpUInDxLTfazBJxGun1ZEG_CvnbUCFB7khVMXzIBZ7fKnu1xRcBlGuSlHzdTO1M8cZh4wakMb1D5vHl4CV3tjGnCxhxtScYpcVqJGTyc5BOU5dke9Xsb0/s1600/217%20hh.jpg\" style=\"max-width:100%;height:auto;\">",
+      "4. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKmKWZcpY6V3-v46pvQMqJq8V4W2wqD_ddk8AK11ZJ32Tnc3xHOnchbBrYsUK5qlDwquJdryZswqbpKMLAHjBJKFkM6gfYegOAhj6jR8DMdwVUbzR3IiCfBXK4jMgdyhIQaNWEC8uAgw7_JtN65WeP8S4ziotDJOVoaDinplJJIX_goRQxjgTt9QT-KAHT/s1600/218%20hh.jpg\" style=\"max-width:100%;height:auto;\">"
     ],
     "answer": 0
   },
   {
     "q": "_______ टैग, HTML डॉक्यूमेंट की शुरुआत को दर्शाता है।",
     "options": [
-      "1. <HTML>",
-      "2. <BODY>",
-      "3. <TITLE>",
-      "4. <HEAD>"
+      "1. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9yABl9OLc81NL4JQs4MSNRB4NH9glKlHbf9O9d-u5O42VVnv_glGHmTvl_XfTO3ja0Mufxxot6Ff0nHj605tuCMJqXaZRIIoi-v4Uj2pfctcq3vzN6Hd61tckxmWgFP9oA2sjAXLw_Dm7BHe7R7eV_35hy6fTomgWL8Olp1Bq-2xIbj0BFAvFLJKYAsJU/s1600/215%20hh.jpg\" style=\"max-width:100%;height:auto;\">",
+      "2. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghzVBm3DrchTNMgXGFfl0cskE3AQjGLQ3VUPv_dcR3u9fUPNjlZ069D7lrnbZGh9_kPX8pPy8pXRkZUtokTdKLzynhkKbq9BJKAbAXqaubULBcIULBhtpmHP7SndQKGa8nTZQCw0N2Q09mS6I8a6ozXtKldzmI3lpQ9FX2_rJ0Z78CNZ_QooGR0kP3yaIf/s1600/216%20hh.jpg\" style=\"max-width:100%;height:auto;\">",
+      "3. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgm29nrHoyRisvhBWtZVxBLOHSpwyCkMTeD1K8LsgsAstzCoys-GgmhYsKx54XPiI2npogqMa0WpUInDxLTfazBJxGun1ZEG_CvnbUCFB7khVMXzIBZ7fKnu1xRcBlGuSlHzdTO1M8cZh4wakMb1D5vHl4CV3tjGnCxhxtScYpcVqJGTyc5BOU5dke9Xsb0/s1600/217%20hh.jpg\" style=\"max-width:100%;height:auto;\">",
+      "4. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKmKWZcpY6V3-v46pvQMqJq8V4W2wqD_ddk8AK11ZJ32Tnc3xHOnchbBrYsUK5qlDwquJdryZswqbpKMLAHjBJKFkM6gfYegOAhj6jR8DMdwVUbzR3IiCfBXK4jMgdyhIQaNWEC8uAgw7_JtN65WeP8S4ziotDJOVoaDinplJJIX_goRQxjgTt9QT-KAHT/s1600/218%20hh.jpg\" style=\"max-width:100%;height:auto;\">"
     ],
     "answer": 0
   },
