@@ -2405,7 +2405,7 @@
     "answer": 0
   },
   {
-    "q": "What is the Decimal Equivalent of the given Octal Number (60)8 ?",
+    "q": "What is the Decimal Equivalent of the given Octal Number (60)₈ ?",
     "options": [
       "1. 60",
       "2. 48",
