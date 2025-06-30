@@ -1,4 +1,4 @@
- const questionBank = {
+ const questionBank24 = {
   "06th September 2024 - Shift1": [
   {
     "q": "Which of the following is valid categorization of computer memory?",
