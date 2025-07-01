@@ -10418,6 +10418,1048 @@
     ],
     "answer": 1
   }
+],
+   "27th January 2024 - Shift1": [
+{
+    "q": "The code originally used in personal computers is ______.",
+    "options": [
+      "1. Octal",
+      "2. EBCDIC",
+      "3. ASCII",
+      "4. Unicode"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "पर्सनल कंप्यूटर्स में मूल रूप से इस्तेमाल किया गया कोड __________ होता है।",
+    "options": [
+      "1. ऑक्टल",
+      "2. EBCDIC",
+      "3. ASCII",
+      "4. यूनिकोड"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following directories contains executable program files in Linux?",
+    "options": [
+      "1. /usr",
+      "2. /dev",
+      "3. /tmp",
+      "4. /bin"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "लिनक्स (Linux) में कौन-सी डायरेक्टरी में निष्पादन योग्य प्रोग्राम फाइलें होती हैं?",
+    "options": [
+      "1. /usr",
+      "2. /dev",
+      "3. /tmp",
+      "4. /bin"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is a byte?",
+    "options": [
+      "1. Group of 8 bits",
+      "2. Group of 4 bits",
+      "3. Group of 16 bits",
+      "4. Group of 32 bits"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "बाइट (byte) क्या है?",
+    "options": [
+      "1. 8 बिट्स का समूह",
+      "2. 4 बिट्स का समूह",
+      "3. 16 बिट्स का समूह",
+      "4. 32 बिट्स का समूह"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT a database application?",
+    "options": [
+      "1. Dbase",
+      "2. Flash",
+      "3. Fox pro",
+      "4. Access"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सी, एक डेटाबेस एप्लिकेशन नहीं है?",
+    "options": [
+      "1. डीबेस (Dbase)",
+      "2. फ्लेश (Flash)",
+      "3. फॉक्स प्रो (Fox pro)",
+      "4. एक्से स (Access)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Choose the Hexadecimal color code for red.",
+    "options": [
+      "1. #FF0000",
+      "2. #00FF00",
+      "3. #0000FF",
+      "4. #FFFFFF"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "लाल के लिए हेक्साडेसिमल रंग कूट (कलर कोड) क्या होगा?",
+    "options": [
+      "1. #FF0000",
+      "2. #00FF00",
+      "3. #0000FF",
+      "4. #FFFFFF"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What will be the output after applying the Function BASE(15,2) in MS-Excel?",
+    "options": [
+      "1. 11 00",
+      "2. 111 000",
+      "3. 1111",
+      "4. 1111 0000"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Excel में, फंक्शन BASE(15,2) को लागू करने के बाद आउटपुट क्या होगा?",
+    "options": [
+      "1. 11 00",
+      "2. 111 000",
+      "3. 1111",
+      "4. 1111 0000"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Other than the Caps Lock key, which of the following keyboard keys can be used to insert uppercase letters in the document?",
+    "options": [
+      "1. Escape",
+      "2. Shift",
+      "3. Control",
+      "4. Tab"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "CAPS LOCK कुंजी के अलावा, आप किस कीबोर्ड कुंजी का उपयोग दस्तावेज़ (डॉक्युमेंट) में अपरकेस लैटर्स (केपिटल अक्षर) को शामिल करने के लिए कर सकते हैं?",
+    "options": [
+      "1. Escape",
+      "2. Shift",
+      "3. Control",
+      "4. Tab"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What does ARP stands for?",
+    "options": [
+      "1. Address Resolution Protocol",
+      "2. Area Resolution Protocol",
+      "3. Audio Resolution Protocol",
+      "4. Address Revision Protocol"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "ARP का पूर्णरूप क्या है?",
+    "options": [
+      "1. Address Resolution Protocol (एड्रेस रेज़ोल्युशन प्रोटोकॉल)",
+      "2. Area Resolution Protocol (एरिया रेज़ोल्युशन प्रोटोकॉल)",
+      "3. Audio Resolution Protocol (ऑडियो रेज़ोल्युशन प्रोटोकॉल)",
+      "4. Address Revision Protocol (एड्रेस रिविज़न प्रोटोकॉल)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A CPU repeatedly performs the fetch, decode and execute steps in its operations which is collectively known as:",
+    "options": [
+      "1. write cycle",
+      "2. data cycle",
+      "3. instruction cycle",
+      "4. DMA cycle"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एक CPU अपने संचालन के दौरान बार-बार फैच करता है, डिकोड करता है और विभिन्न कदम (स्टेप) निष्पादित करता है, इन क्रियाओं को सामूहिक रूप से किस नाम से जाना जाता है?",
+    "options": [
+      "1. लेखन चक्र (Write Cycle)",
+      "2. डेटा चक्र (Data Cycle)",
+      "3. निर्देश चक्र (Instruction Cycle)",
+      "4. DMA चक्र (DMA Cycle)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The sound card can be installed in ______ of a motherboard. Choose from below whichever options that can be used to fill in the blank.<br><br>1. PCI slot<br>2. ISA slot<br>3. PCI express slot<br>4. EISA slot",
+    "options": [
+      "1. 1 or 2 or 3",
+      "2. 1 or 3 or 4",
+      "3. 1 or 2 or 4",
+      "4. 2 or 3 or 4"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "मदरबोर्ड के ______ में साउंड कार्ड इंस्टाल किया जा सकता है। नीचे दिए गए विकल्पों में से वह चुनेंजिसका उपयोग रिक्त स्थान को भरने के लिए किया जा सकता है।<br><br>1. पीसीआई स्लॉट<br>2. आईएसए स्लॉट<br>3. पीसीआई एक्स प्रेस स्लॉट<br>4. ईआईएसए स्लॉट",
+    "options": [
+      "1. 1 या 2 या 3",
+      "2. 1 या 3 या 4",
+      "3. 1 या 2 या 4",
+      "4. 2 या 3 या 4"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Expand SAN?",
+    "options": [
+      "1. Sub Area network",
+      "2. Standard Area Network",
+      "3. Storage Area Network",
+      "4. Storage Aided Network"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "SAN का पूर्णरूप क्या है?",
+    "options": [
+      "1. Sub Area network (सब एरिया नेटवर्क)",
+      "2. Standard Area network (स्टैण्डर्ड एरिया नेटवर्क)",
+      "3. Storage Area Network (स्टोरेज एरिया नेटवर्क)",
+      "4. Storage Aided Network (स्टोरेज एइडेड नेटवर्क)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "______ tablet uses a stylus that generates clicks with a spark plug.",
+    "options": [
+      "1. Artistic",
+      "2. Optic",
+      "3. Spark",
+      "4. Laser"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "______ टैबलेट एक शलाका (स्टाइलस) का प्रयोग करता है जो स्पार्क प्लग से क्लि क्स उत्प न्न करता है।",
+    "options": [
+      "1. कलात्मक (आर्टिस्टिक)",
+      "2. प्रकाशीय (ऑप्टिक)",
+      "3. स्पार्क",
+      "4. लेज़र"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Hexadecimal refers to the ______ number system.",
+    "options": [
+      "1. base-10",
+      "2. base-16",
+      "3. base-8",
+      "4. base-15"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "हेक्सा डेसिमल ______ संख्या प्रणाली (नंबर पद्धति) संदर्भित करता है।",
+    "options": [
+      "1. बेस-10",
+      "2. बेस-16",
+      "3. बेस-8",
+      "4. बेस-15"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a network topology type?",
+    "options": [
+      "1. Tree",
+      "2. Bench",
+      "3. Desk",
+      "4. Chair"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन एक नेटवर्क टोपोलॉजी प्रकार है?",
+    "options": [
+      "1. ट्री",
+      "2. बेंच",
+      "3. डेस्क",
+      "4. चेयर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following type(s) of beams is/are used in CRT monitors?",
+    "options": [
+      "1. Neutron beams",
+      "2. Proton beams",
+      "3. Electron beams",
+      "4. Neutron and proton beams"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "बीम का (के) कौन-सा(से) प्रकार सी.आर.टी. (CRT) मॉनिटर्स में उपयोग किया (किए) जाता (जाते) है (हैं)?",
+    "options": [
+      "1. न्यूट्रॉन बीम्स",
+      "2. प्रोटॉन बीम्स",
+      "3. इलेक्ट्रॉन बीम्स",
+      "4. न्यूट्रॉन और प्रोटॉन बीम्स"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "_______ switching is the method by which the Internet works.",
+    "options": [
+      "1. Packet",
+      "2. Telephone",
+      "3. Circuit",
+      "4. Telex"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_______ स्विचिंग वह तरीका है जिसके द्वारा इंटरनेट काम करता है।",
+    "options": [
+      "1. पैकेट",
+      "2. टेलीफोन",
+      "3. सर्किट",
+      "4. टेलेक्स"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A printer is an output device that prints the output on a _______.",
+    "options": [
+      "1. monitor",
+      "2. paper",
+      "3. pen drive",
+      "4. keyboard"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "प्रिंटर एक आउटपुट डिवाइस है जो आउटपुट को _____ पर प्रिंट करता है।",
+    "options": [
+      "1. मॉनिटर",
+      "2. कागज़",
+      "3. पेन ड्राइव",
+      "4. कीबोर्ड"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a pointing device of a computer?",
+    "options": [
+      "1. Mouse",
+      "2. Keyboard",
+      "3. Game-pad",
+      "4. Printer"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से कौन-सा, कंप्यूटर का एक पॉइंटिंग डिवाइस है?",
+    "options": [
+      "1. माउस",
+      "2. कीबोर्ड",
+      "3. गेम-पैड",
+      "4. प्रिंटर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ printers produce highest quality printed output.",
+    "options": [
+      "1. Chain",
+      "2. Dot matrix",
+      "3. Inkjet",
+      "4. Laser"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "______ प्रिंटर उच्चतम गुणवत्ता वाले मुद्रित आउटपुट का उत्पादन करते हैं।",
+    "options": [
+      "1. चेइन",
+      "2. डॉट मैट्रिक्स",
+      "3. इंकजेट",
+      "4. लेज़र"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A bank's code number and cheque number printed on the cheques can be detected by a/an ______ reader.",
+    "options": [
+      "1. OCR",
+      "2. smart card",
+      "3. MICR",
+      "4. barcode"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "चेक पर छपे बैंक के कोड क्रमांक और चेक क्रमांक का पता ______ रीडर द्वारा लगाया जा सकता है।",
+    "options": [
+      "1. OCR",
+      "2. स्मार्ट कार्ड",
+      "3. MICR",
+      "4. बारकोड"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is NOT a storage device?",
+    "options": [
+      "1. CD ROM",
+      "2. DVD",
+      "3. Plotter",
+      "4. Flash drive"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्न में से कौन-सा, एक भंडारण (स्टोरेज) डिवाइस नहीं है?",
+    "options": [
+      "1. CD ROM",
+      "2. DVD",
+      "3. प्लॉटर",
+      "4. फ्लैश ड्राइव"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The diameter of a standard CD is ______.",
+    "options": [
+      "1. 70 mm",
+      "2. 80 mm",
+      "3. 120 mm",
+      "4. 180 mm"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एक मानक CD का व्यास _________ होता है।",
+    "options": [
+      "1. 70 mm",
+      "2. 80 mm",
+      "3. 120 mm",
+      "4. 180 mm"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is NOT a file compression software?",
+    "options": [
+      "1. WinZip",
+      "2. WinRar",
+      "3. 7-Zip",
+      "4. File Zipper"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "इनमें से कौन-सा एक फाइल संपीडन (कम्प्रेशन) सॉफ्टवेयर नहीं है?",
+    "options": [
+      "1. विनज़िप (WinZip)",
+      "2. विनरार (WinRar)",
+      "3. 7-ज़िप (Zip)",
+      "4. फाइल ज़िपर (File Zipper)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Raster (bitmap) images require ______ resolutions for smooth appearance.",
+    "options": [
+      "1. higher",
+      "2. low",
+      "3. very low",
+      "4. distorted"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "रास्टर (बिटमैप) छवियों को अच्छा दिखाई देने (smooth appearance) के लिए _____ रेसोल्यूशन की आवश्यकता होती है।",
+    "options": [
+      "1. उच्चतर",
+      "2. कम",
+      "3. बहुत कम",
+      "4. विकृत"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The SHA are a family of cryptographic hash functions published by the National Institute of Standards and Technology (NIST).<br>Here, SHA stands for:",
+    "options": [
+      "1. Secure Hash Algorithms",
+      "2. Simple Hash Algorithms",
+      "3. Secure Hidden Algorithms",
+      "4. Secret Hash Algorithms"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "SHA राष्ट्रीय मानक और प्रौद्योगिकी संस्थान (NIST) द्वारा प्रकाशित क्रिप्टोग्राफ़िक हैश फ़ंक्शंस का एक परिवार है।<br>यहाँ, SHA का अर्थ है:",
+    "options": [
+      "1. सिक्योर हैश एल्गोरिथम (Secure Hash Algorithm)",
+      "2. सिंपल हैश एल्गोरिथम (Simple Hash Algorithm)",
+      "3. सिक्योर हिडन एल्गोरिथम (Secure Hidden Algorithm)",
+      "4. सीक्रेट हैश एल्गोरिथम (Secret Hash Algorithm)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Decimal equivalent of (23)₈:",
+    "options": [
+      "1. 19",
+      "2. 32",
+      "3. 23",
+      "4. 91"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "(23)₈ के बराबर दशमलव :",
+    "options": [
+      "1. 19",
+      "2. 32",
+      "3. 23",
+      "4. 91"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Network-based interface devices such as switches and routers can block incoming or outgoing requests based on ________.",
+    "options": [
+      "1. IP address",
+      "2. MAC address",
+      "3. Machine name and IP address",
+      "4. Operating system"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "नेटवर्क आधारित इंटरफेस डिवाइस (स्विच, राउटर, इत्यादि) किस आधार पर इनकमिंग या आउटगोइंग अनुरोधों को ब्लॉक कर सकते हैं?",
+    "options": [
+      "1. IP एड्रेस",
+      "2. MAC एड्रेस",
+      "3. मशीन का नाम और IP एड्रेस",
+      "4. ऑपरेटिंग सिस्टम"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the extension for a Java class file?",
+    "options": [
+      "1. .java",
+      "2. .class",
+      "3. .jvm",
+      "4. .jdk"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Java क्लास फाइल का एक्सटेंशन क्या है?",
+    "options": [
+      "1. .java",
+      "2. .class",
+      "3. .jvm",
+      "4. .jdk"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ is a software that gathers information about a person or organisation without their knowledge.",
+    "options": [
+      "1. Spyware",
+      "2. Malware",
+      "3. Ad-Aware",
+      "4. Trojan Horse"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ एक ऐसा सॉफ़्टवेयर है जो किसी व्यक्ति या संगठन के बारे में जानकारी उनके संज्ञान में लाए बिना ही एकत्र करता है।",
+    "options": [
+      "1. स्पाईवेयर",
+      "2. मैलवेयर",
+      "3. एड-अवेयर",
+      "4. ट्रोजन हॉर्स"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "________ is a set of instructions that directs the computer to process information.",
+    "options": [
+      "1. Compiler",
+      "2. Software",
+      "3. Hardware",
+      "4. CPU"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "________ निर्देशों का एक समूह (सेट) है जो कंप्यूटर को सूचना को प्रोसेस करने हेतु निर्देशित करता है।",
+    "options": [
+      "1. कंपाइलर",
+      "2. सॉफ्टवेयर",
+      "3. हार्डवेयर",
+      "4. सीपीयू (CPU)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A ______ is a computer that is accessible over a network.",
+    "options": [
+      "1. host",
+      "2. address",
+      "3. IP address",
+      "4. URL's address"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "________ एक कंप्यूटर होता है जो एक नेटवर्क पर एक्सेस करने योग्य होता है।",
+    "options": [
+      "1. होस्ट",
+      "2. एड्रेस",
+      "3. IP एड्रेस",
+      "4. URL एड्रेस"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A/an ______ is the term used when a search engine displays a web page that matches the search criteria.",
+    "options": [
+      "1. blog",
+      "2. information",
+      "3. link",
+      "4. view"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "______ वह शब्द है जिसका प्रयोग तब किया जाता है जब सर्च इंजन किसी ऐसे वेबपेज पर वापस आ जाता है जो सर्च मानदंड से मेल खाता है।",
+    "options": [
+      "1. ब्‍लॉग",
+      "2. इन्फर्मेशन",
+      "3. लिंक",
+      "4. व्‍यू"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "An area of memory or disk that is assigned to store email messages sent by other users is called:",
+    "options": [
+      "1. post-email",
+      "2. postbox",
+      "3. outbox",
+      "4. mailbox"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "अन्य उपयोगकर्ताओं द्वारा भेजे गए ई-मेल संदेशों को स्टोर करने के लिए आवंटित मेमौरी या डिस्क का क्षेत्र क्या कहलाता है?",
+    "options": [
+      "1. पोस्ट-ईमेल",
+      "2. पोस्टबॉक्स",
+      "3. आउटबॉक्स",
+      "4. मेलबॉक्स"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Internet Explorer, Mozilla Firefox and Google Chrome are the examples of:",
+    "options": [
+      "1. presentation applications",
+      "2. backup",
+      "3. browsers",
+      "4. operating systems"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "इंटरनेट एक्स्प्लोरर (Internet explorer), मोज़िला फायरफॉक्स (Mozilla Firefox) और गूगल क्रोम (Google chrome) _______ के उदाहरण हैं।",
+    "options": [
+      "1. प्रेजेंटेशन एप्लिकेशन",
+      "2. बैकअप",
+      "3. ब्राउजर",
+      "4. ऑपरेटिंग सिस्टम"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "When you apply drop cap function on a paragraph how many lines will it drop by default?",
+    "options": [
+      "1. 3",
+      "2. 4",
+      "3. 5",
+      "4. 6"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "जब आप एक पैराग्राफ पर ड्रॉप कैप फंक्शन लागू करते हैं, तो यह कितनी लाइन डिफ़ॉल्ट रूप से छोड़ देगा?",
+    "options": [
+      "1. 3",
+      "2. 4",
+      "3. 5",
+      "4. 6"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is the backbone of the World Wide Web (WWW)?",
+    "options": [
+      "1. HTTP",
+      "2. FTP",
+      "3. SMTP",
+      "4. Router"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से _____वर्ल्ड वाइड वेब (WWW) की रीढ़ है",
+    "options": [
+      "1. HTTP",
+      "2. FTP",
+      "3. SMTP",
+      "4. Router"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS-Excel, which function returns the serial number of the current date and time",
+    "options": [
+      "1. NOW",
+      "2. TIME",
+      "3. DATE",
+      "4. DATETIME"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel में, कौन-सा फंक्शन वर्तमान दिनांक और समय का अनुक्रमांक लौटाता है?",
+    "options": [
+      "1. NOW",
+      "2. TIME",
+      "3. DATE",
+      "4. DATETIME"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "BHIM is developed by the ______________.",
+    "options": [
+      "1. National Payment Corporation of India",
+      "2. National Informatics Center",
+      "3. National Psychological Corporation",
+      "4. National Productivity Council"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "BHIM को ____________ द्वारा विकसित किया गया है।",
+    "options": [
+      "1. भारतीय राष्ट्रीय भुगतान निगम (National Payment Corporation of India)",
+      "2. राष्ट्रीय सूचना विज्ञान केंद्र (National Informatics Center)",
+      "3. राष्ट्रीय मनोवैज्ञानिक निगम (National Psychological Corporation)",
+      "4. राष्ट्रीय उत्पा दकता परिषद (National Productivity Council)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What does .com domain specify?",
+    "options": [
+      "1. Commercial enterprise",
+      "2. Network",
+      "3. Military site",
+      "4. Educational site"
+    ],
+    "answer": 0
+  },
+  {
+    "q": ".com डोमेन क्या निर्दिष्ट करता है?",
+    "options": [
+      "1. वाणिज्यिक उपक्रम",
+      "2. नेटवर्क",
+      "3. सैन्य साइट",
+      "4. शैक्षिक साइट"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "To use a keyboard shortcut to change between lowercase, uppercase, and capitalise each word, select the text and press ______ until the case you want is applied.",
+    "options": [
+      "1. SHIFT + F3",
+      "2. SHIFT + F4",
+      "3. SHIFT + F5",
+      "4. SHIFT + F6"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "लोअरकेस, अप्परकेस, और प्रत्येक शब्द के पहले अक्षर को कैपिटल (बड़ा) करना, यह सब कार्य हेतु कीबोर्ड शॉर्टकट का उपयोग करने के लिए, टेक्स्ट को सिलेक्ट करें और ______ तब तक दबाएं जब तक आपका इच्छित केस लागू नहीं हो जाता।",
+    "options": [
+      "1. SHIFT + F3",
+      "2. SHIFT + F4",
+      "3. SHIFT + F5",
+      "4. SHIFT + F6"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following protocols is used for establishing internet communcations?",
+    "options": [
+      "1. FTP",
+      "2. HTTP",
+      "3. SMTP",
+      "4. TCP"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से किस प्रोटोकॉल का उपयोग इंटरनेट संचार स्थापित करने के लिए किया जाता है?",
+    "options": [
+      "1. FTP",
+      "2. HTTP",
+      "3. SMTP",
+      "4. TCP"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "OSI stands for?",
+    "options": [
+      "1. Open Systems Interconnection",
+      "2. Open Storage Interconnection",
+      "3. Other State Interconnection",
+      "4. Other Storage Interaction"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "OSI का मतलब क्या है?",
+    "options": [
+      "1. ओपन सिस्टम्स इंटरकनेक्शन (Open Systems Interconnection)",
+      "2. ओपन स्टोरेज इंटरकनेक्शन (Open Storage Interconnection)",
+      "3. इतर स्टेट इंटरकनेक्शन (Other State Interconnection )",
+      "4. इतर स्टोरेज इंटरेक्शन (Other Storage Interaction)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Choose a type of Bridge from the following?",
+    "options": [
+      "1. Source Routing Bridge",
+      "2. Sample Bridge",
+      "3. Destination Routing Bridge",
+      "4. Path Routing Bridge"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से ब्रिज का एक प्रकार चुनें।",
+    "options": [
+      "1. स्रोत राऊटिंग ब्रिज (Source Routing Bridge)",
+      "2. सेम्पल ब्रिज (Sample Bridge)",
+      "3. गंतव्य राऊटिंग ब्रिज (Destination Routing Bridge)",
+      "4. पथ राऊटिंग ब्रिज (Path Routing Bridge)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which one is not a type of Hub?",
+    "options": [
+      "1. Simple Hub",
+      "2. Active Hub",
+      "3. Passive Hub",
+      "4. Intelligent Hub"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से कौन-सा हब (Hub) का एक प्रकार नहीं है?",
+    "options": [
+      "1. सिम्पल हब",
+      "2. एक्टिव हब",
+      "3. पैसिव हब",
+      "4. इंटेलिजेंट हब"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "DSL is a communication medium, which is used to transfer internet through _______ wire telecommunication line.",
+    "options": [
+      "1. fibre optic",
+      "2. aluminium",
+      "3. zinc",
+      "4. copper"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "DSL एक संचार माध्यम है, जिसका उपयोग _______ वायर टेलीकम्युनिकेशन लाइन के माध्यम से इंटरनेट ट्रांसफर करने के लिए किया जाता है।",
+    "options": [
+      "1. फाइबर ऑप्टिक",
+      "2. एल्यु मीनियम",
+      "3. जस्ता",
+      "4. तांबा"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "________ is a passage to connect two networks together that may work upon different networking models.",
+    "options": [
+      "1. Gateway",
+      "2. Router",
+      "3. Junction",
+      "4. Switch"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "__________ दो नेटवर्क को एक साथ जोड़ने का एक मार्ग है जो विभिन्न नेटवर्किंग मॉडल पर काम कर सकता है।",
+    "options": [
+      "1. गेटवे (Gateway)",
+      "2. राउटर (Router)",
+      "3. जंक्शन (Junction)",
+      "4. स्विच (Switch)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What does UTP stands for in Transmission Media?",
+    "options": [
+      "1. Unshielded Twisted Pair",
+      "2. Universally Twisted Pair",
+      "3. Unit Twisted Pair",
+      "4. Unshielded Tin Pair"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "ट्रांसमिशन मीडिया में UTP का पूर्णरूप क्या है?",
+    "options": [
+      "1. Unshielded Twisted Pair (अनशिल्डेड ट्विस्टेड पेयर)",
+      "2. Universally Twisted Pair (यूनिवर्सली ट्विस्टेड पेयर)",
+      "3. Unit Twisted Pair (यूनिट ट्विस्टेड पेयर)",
+      "4. Unshielded Tin Pair (अनशिल्डेड टिन पेयर)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following tabs on the ribbon displays the header and footer commands?",
+    "options": [
+      "1. Home",
+      "2. Page layout",
+      "3. View",
+      "4. Insert"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "रिबन पर कौन-सा टैब हेडर और फुटर कमांड प्रदर्शित करता है?",
+    "options": [
+      "1. होम",
+      "2. पेज लेआउट",
+      "3. व्यू",
+      "4. इन्सर्ट"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is the full form of JPG/JPEG?",
+    "options": [
+      "1. Joint Photographic Expert Group",
+      "2. Joint Picture Expert Group",
+      "3. Joint Photographic Expert Graph",
+      "4. Joint Picture Expert Graph"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "JPG/JPEG का पूर्णरूप क्या है?",
+    "options": [
+      "1. जॉइंट फोटोग्राफिक एक्सपर्ट ग्रुप",
+      "2. जॉइंट पिक्चर एक्सपर्ट ग्रुप",
+      "3. जॉइंट फोटोग्राफिक एक्सपर्ट ग्राफ",
+      "4. जॉइंट पिक्चर एक्सपर्ट ग्राफ"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Using ______, students can attend lectures and training from different locations.",
+    "options": [
+      "1. videoconferencing",
+      "2. blog",
+      "3. chatting",
+      "4. email"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ का उपयोग करके छात्र अलग-अलग स्थानों से व्याख्यान और प्रशिक्षण में भाग ले सकते हैं।",
+    "options": [
+      "1. वीडियो कॉन्फ्रेन्सिंग",
+      "2. ब्लॉग",
+      "3. चैटिंग",
+      "4. ईमेल"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "1Tbps = __________.",
+    "options": [
+      "1. 1024 Mbps",
+      "2. 1024 Kbps",
+      "3. 1024 Gbps",
+      "4. 1024 bps"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "1Tbps = __________",
+    "options": [
+      "1. 1024 Mbps",
+      "2. 1024 Kbps",
+      "3. 1024 Gbps",
+      "4. 1024 bps"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In Excel, the ______ function returns the logical value TRUE if the specified value is text. Otherwise returns FALSE.",
+    "options": [
+      "1. ISTEXT",
+      "2. ISNUMBER",
+      "3. ISREF",
+      "4. ISNONTEXT"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एक्सेल में, यदि निर्दिष्ट मान टेक्स्ट है तो ______ फ़ंक्शन तार्किक मान TRUE लौटता है। अन्य था FALSE लौटाता है।",
+    "options": [
+      "1. ISTEXT",
+      "2. ISNUMBER",
+      "3. ISREF",
+      "4. ISNONTEXT"
+    ],
+    "answer": 0
+  }
 ]
         
         };
