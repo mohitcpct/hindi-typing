@@ -6250,6 +6250,1048 @@
     ],
     "answer": 1
   }
+],
+    "16th March 2024 - Shift1": [
+  {
+    "q": "Which of the following is a painting and image editing program?",
+    "options": [
+      "1. AppleWorks",
+      "2. OpenOffice Writer",
+      "3. WordPerfect",
+      "4. Photoshop"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "इनमें से कौन-सा प्रोग्राम, पेन्टिंग प्रोग्राम और इमेज एडिटिंग प्रोग्राम है?",
+    "options": [
+      "1. AppleWorks",
+      "2. OpenOffice Writer",
+      "3. WordPerfect",
+      "4. Photoshop"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following tools is NOT available in the MS Paint program?",
+    "options": [
+      "1. Eraser",
+      "2. Texture",
+      "3. Fill Tool",
+      "4. Text"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "इनमें से कौन-सा टूल, MS पेंट प्रोग्राम में उपलब्ध नहीं होता हैं?",
+    "options": [
+      "1. इरेजर (Eraser)",
+      "2. टेक्सचर (Texture)",
+      "3. फिल टूल (Fill Tool)",
+      "4. टेक्स्ट (Text)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "If a memory chip is volatile, it ______.",
+    "options": [
+      "1. stores data permanently",
+      "2. lose its contents if the power is turned OFF",
+      "3. is used for data storage only",
+      "4. is referred to as ROM"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "यदि एक मेमोरी चिप अस्थिर (volatile) है, तो यह ______।",
+    "options": [
+      "1. डेटा को स्थायी रूप से संग्रहीत करता है",
+      "2. बिजली बन्द होने कि स्थिति में इसकी सामग्री खो देगी",
+      "3. केवल डेटा संग्रहण के लिए इस्तेमाल की जा सकती है",
+      "4. ROM के नाम से जाना जाता है"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is external memory of a computer?",
+    "options": [
+      "1. RAM",
+      "2. ROM",
+      "3. SDRAM",
+      "4. Hard disk"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन सी कंप्यूटर की बाहरी मेमोरी है?",
+    "options": [
+      "1. RAM",
+      "2. ROM",
+      "3. SDRAM",
+      "4. Hard disk"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "______ will change the colour of the screen border when you create a snip in Windows Snipping Tool.",
+    "options": [
+      "1. Fill colour",
+      "2. Paint colour",
+      "3. Ink colour",
+      "4. Background colour"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "जब आप विंडोज स्निपिंग टूल में स्निप बनाते हैं, तो __________स्क्रीन बॉर्डर का रंग बदल देगा।",
+    "options": [
+      "1. फिल कलर (Fill color)",
+      "2. पेन्ट कलर (Paint color)",
+      "3. इंक कलर (Ink color)",
+      "4. बैकग्राउंड कलर (Background color)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "By using which tab can you record a macro in OpenOffice Writer?",
+    "options": [
+      "1. Help",
+      "2. File",
+      "3. Tools",
+      "4. Format"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "किस टैब का उपयोग करके आप ओपन ऑफिस राइटर (open office writer) में मैक्रो रिकॉर्ड कर सकते हैं?",
+    "options": [
+      "1. हेल्प (Help)",
+      "2. फाइल (File)",
+      "3. टूल्स (Tools)",
+      "4. फॉर्मेट (Format)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following input devices works with a CRT monitor but NOT compatible with an LCD monitor?",
+    "options": [
+      "1. Light pen",
+      "2. Mouse",
+      "3. Keyboard",
+      "4. Webcam"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा इनपुट डिवाइस CRT मॉनिटर के साथ काम करता है लेकिन LCD मॉनिटर के साथ संगत नहीं करता है?",
+    "options": [
+      "1. लाइट पेन",
+      "2. माउस",
+      "3. कीबोर्ड",
+      "4. वेबकैम"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which function returns the parameters of an exponential trend in Microsoft Excel 2019?",
+    "options": [
+      "1. EXPO function",
+      "2. ELOG function",
+      "3. LOGEST function",
+      "4. LOGEXE function"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "माइक्रोसॉफ्ट Excel 2019 में, कौन-सा फंक्शन एक घातीय प्रवृत्ति के प्राचल देता है?",
+    "options": [
+      "1. EXPO फंक्शन",
+      "2. ELOG फंक्शन",
+      "3. LOGEST फंक्शन",
+      "4. LOGEXE फंक्शन"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A ______ memory such as a magnetic tape is organised by arranging memory cells in a linear sequence.",
+    "options": [
+      "1. sequential access",
+      "2. indirect access",
+      "3. index",
+      "4. hash"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "__________ मेमोरी, जैसे कि चुंबकीय टेप को रैखिक अनुक्रम में मेमोरी सेल्स की व्यवस्था करके व्यवस्थित किया जाता है।",
+    "options": [
+      "1. अनुक्रमिक एक्सेस (sequential access)",
+      "2. अप्रत्यक्ष एक्सेस (indirect access)",
+      "3. इंडेक्स (index)",
+      "4. हैश (hash)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT an output device?",
+    "options": [
+      "1. Plotter",
+      "2. Monitor",
+      "3. Joystick",
+      "4. Printer"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "इनमें से कौन-सा, एक आउटपुट डिवाइस नहीं है?",
+    "options": [
+      "1. प्लॉटर",
+      "2. मॉनिटर",
+      "3. जॉयस्टिक",
+      "4. प्रिंटर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The smallest and fastest memory in a computer is located in the CPU in the form of _________.",
+    "options": [
+      "1. registers",
+      "2. RAM",
+      "3. BIOS",
+      "4. I/O"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कंप्यूटर में सबसे छोटी और तेज़ मेमोरी CPU में _________ के रूप में स्थित होती है।",
+    "options": [
+      "1. रजिस्टर",
+      "2. RAM",
+      "3. BIOS",
+      "4. I/O"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ refers to a secondary data storage unit of the computer.",
+    "options": [
+      "1. Registers",
+      "2. Hard disk",
+      "3. Read Only Memory",
+      "4. Random Access Memory"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ कंप्यूटर की एक द्वितीयक डेटा संग्रहण इकाई को संदर्भित करता/करती है।",
+    "options": [
+      "1. रजिस्टर",
+      "2. हार्ड डिस्क",
+      "3. रीड ओनली मेमोरी",
+      "4. रैंडम एक्सेस मेमोरी"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The barcode scanner consists of a light source, a lens and a light sensor that __________.",
+    "options": [
+      "1. converts analog signal to digital signal",
+      "2. translates optical impulses into electrical impulses",
+      "3. converts digital signal to analog signal",
+      "4. converts electronic wave to magnetic wave"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "बारकोड स्कैनर में एक प्रकाश स्रोत, एक लेंस और एक प्रकाश संवेदक (सेंसर) होता है जो __________।",
+    "options": [
+      "1. एनालॉग सिग्नल को डिजिटल सिग्नल में परिवर्तित करता है",
+      "2. ऑप्टिकल आवेगों को विद्युत आवेगों में परिवर्तित करता है",
+      "3. डिजिटल सिग्नल को एनालॉग सिग्नल में परिवर्तित करता है",
+      "4. इलेक्ट्रॉनिक तरंग को चुंबकीय तरंग में परिवर्तित करता है"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A Universal Product Code, a type of barcode is made up of how many digits?",
+    "options": [
+      "1. 8-digit number",
+      "2. 10-digit number",
+      "3. 12-digit number",
+      "4. 16-digit number"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एक सार्वभौमिक उत्पाद कोड (Universal product code),जो एक प्रकार का बारकोड है, कितने अंकों से बना होता है?",
+    "options": [
+      "1. 8 अंकों की संख्या",
+      "2. 10 अंकों की संख्या",
+      "3. 12 अंकों की संख्या",
+      "4. 16 अंकों की संख्या"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The first drum plotter in the year 1959 could handle media which was _______ wide.",
+    "options": [
+      "1. 150 inches",
+      "2. 11 inches",
+      "3. 200 inches",
+      "4. 30 inches"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "वर्ष 1959 में प्रस्तुत पहला ड्रम प्लॉटर _______ इंच चौड़े के मीडिया को संभाल सकता था।",
+    "options": [
+      "1. 150",
+      "2. 11",
+      "3. 200",
+      "4. 30"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Terminators are used in ______ topology.",
+    "options": [
+      "1. bus",
+      "2. star",
+      "3. ring",
+      "4. token ring"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "टर्मिनेटर का उपयोग __________टॉपोलॉजी में किया जाता है।",
+    "options": [
+      "1. बस",
+      "2. स्टार",
+      "3. रिंग",
+      "4. टोकन रिंग"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A malicious user may create a spoof page of any website that looks identical but is hosted on a different server, this is known as:",
+    "options": [
+      "1. IP spoofing",
+      "2. Phone number spoofing",
+      "3. Domain spoofing",
+      "4. App spoofing"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "किसी चालबाज़ उपयोगकर्ता द्वारा किसी वेबसाइट का हू-ब-हू नकली पेज बनाकर किसी अन्य सर्वर पर होस्ट कराने की प्रक्रिया क्या कहलाती है?",
+    "options": [
+      "1. IP स्पूफ़िंग",
+      "2. फ़ोन नंबर स्पूफ़िंग",
+      "3. डोमेन स्पूफ़िंग",
+      "4. ऐप स्पूफ़िंग"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is used to play audio and video files in Windows 10?",
+    "options": [
+      "1. Windows Defender",
+      "2. Event Viewer",
+      "3. Windows Media Player",
+      "4. Windows Photo Gallery"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Windows 10 में, ऑडियो और वीडियो फ़ाइलों को चलाने के लिए निम्नलिखित में से किसका उपयोग किया जाता है?",
+    "options": [
+      "1. विंडोज़ डिफ़ेंडर",
+      "2. इवेंट व्यूअर",
+      "3. विंडोज़ मीडिया प्लेयर",
+      "4. विंडोज़ फोटो गैलरी"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "When do you need a printer?",
+    "options": [
+      "1. When you wish to scan a document",
+      "2. When you want a hard copy of a document",
+      "3. When you want to access your document from any device",
+      "4. When you wish to send a document over the internet"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "आपको प्रिंटर की आवश्यकता कब होती है?",
+    "options": [
+      "1. जब आप किसी डॉक्यूमेंट को स्कैन करना चाहते हैं।",
+      "2. जब आप किसी डॉक्यूमेंट की हार्ड कॉपी चाहते हैं।",
+      "3. जब आप अपने डॉक्यूमेंट को किसी भी डिवाइस से एक्सेस करना चाहते हैं।",
+      "4. जब आप इंटरनेट द्वारा कोई डॉक्यूमेंट भेजना चाहते हैं"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The print preview combined with the Print window to create the Print pane is located in ________ view in MS-Word 2010.",
+    "options": [
+      "1. Backstage",
+      "2. Print Layout",
+      "3. Outline",
+      "4. Draft"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Print pane बनाने के लिए Print window के साथ संयुक्त Print preview MS-Word 2010 में ________ view में स्थित है।",
+    "options": [
+      "1. बैकस्टेज (Backstage)",
+      "2. प्रिंट लेआउट",
+      "3. आउटलाइन",
+      "4. ड्राफ्ट"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following option in Windows 11 is used to see a list of what's printing and the upcoming print order?",
+    "options": [
+      "1. Print test page",
+      "2. Open print queue",
+      "3. Printer preferences",
+      "4. Hardware properties"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Windows 11 में निम्नलिखित में से किस विकल्प का उपयोग क्या प्रिंट हो रहा है और आगामी प्रिंट ऑर्डर की सूची देखने के लिए किया जाता है?",
+    "options": [
+      "1. प्रिंट टेस्ट पेज (Print test page)",
+      "2. ओपन प्रिंट क्यू (Open print queue)",
+      "3. प्रिंटर प्रैफरेंसेज (Printer preferences)",
+      "4. हार्डवेयर प्रॉपर्टीज (Hardware properties)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A thermal printer is ______ type of printer.",
+    "options": [
+      "1. Impact",
+      "2. Line",
+      "3. Non-impact",
+      "4. Plotter"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "थर्मल प्रिंटर ______ प्रिंटर का प्रकार है।",
+    "options": [
+      "1. इम्पैक्ट",
+      "2. लाइन",
+      "3. नॉन-इम्पैक्ट",
+      "4. प्लॉटर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the full form of MODEM?",
+    "options": [
+      "1. Modulator-Demodulator",
+      "2. Modern Demand",
+      "3. Modulation and Demand",
+      "4. Modern Demodulation"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MODEM का पूर्ण-रूप क्या है?",
+    "options": [
+      "1. Modulator-Demodulator (मॉडूलेटर-डीमॉडूलेटर)",
+      "2. Modern Demand (मॉडर्न डिमांड)",
+      "3. Modulation and Demand (मॉड्युलेशन एंड डिमांड)",
+      "4. Modern Demodulation (मॉडर्न डीमॉड्युलेशन)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The edges of ______ graphics remain smooth at any size or resolution.",
+    "options": [
+      "1. scalar",
+      "2. vector",
+      "3. raster",
+      "4. scalar and raster"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "_____ ग्राफिक्स के किनारे किसी भी आकार या रिज़ोल्यूशन पर अच्छे रहते हैं।",
+    "options": [
+      "1. स्केलर",
+      "2. वेक्टर",
+      "3. रास्टर",
+      "4. स्केलर और रास्टर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Where can I find the IP address of a default printer in Windows 11?",
+    "options": [
+      "1. Click on the printer, select ‘menu’ -> select networking ->select TCP/IP to view IP address",
+      "2. Click on the printer, select 'Printer Properties' -> select General -> Location shows IP address",
+      "3. Click on the printer, select ‘control panel’ -> select networking -> select TCP/IP to view IP address",
+      "4. Click on the printer, select ‘menu’ -> select sharing -> select TCP/IP to view IP address"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Windows 11 में डिफ़ॉल्ट प्रिंटर के IP एड्रेस को कैसे प्राप्त किया जा सकता है?",
+    "options": [
+      "1. प्रिंटर पर क्लिक करें, 'Menu' चुनें -> 'Networking' चुनें -> IP address देखने के लिए TCP/IP चुनें।",
+      "2. प्रिंटर पर क्लिक करें, 'Printer Properties' चुनें -> 'General' चुनें -> Location IP address दिखाता है।",
+      "3. प्रिंटर पर क्लिक करें, 'Control panel' चुनें -> 'Networking' चुनें -> IP address देखने के लिए TCP/IP चुनें।",
+      "4. प्रिंटर पर क्लिक करें, 'Menu' चुनें -> 'Sharing' चुनें -> IP पता देखने के लिए TCP/IP चुनें।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What are Cookies?",
+    "options": [
+      "1. They are small pieces of text sent to your browser by a website you visit.",
+      "2. They are web browser elements.",
+      "3. They are client files.",
+      "4. They are programs that check for viruses in a browser."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कुकीज़ क्या हैं?",
+    "options": [
+      "1. वे आपके द्वारा देखी गई वेबसाइट द्वारा आपके ब्राउज़र पर भेजे गए पाठ के छोटे टुकड़े हैं",
+      "2. ये वेब ब्राउज़र के तत्व हैं।",
+      "3. ये क्लाइंट फाइलें हैं।",
+      "4. ये ब्राउज़र में वायरस की जांच करने वाले प्रोग्राम होते हैं।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The minimum space required for a partition in Windows 11 for 64 bit versions is __________.",
+    "options": [
+      "1. 40 GB",
+      "2. 30 GB",
+      "3. 20 GB",
+      "4. 80 GB"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "64 बिट संस्करणों के लिए Windows 11 में एक विभाजन के लिए आवश्यक न्यूनतम स्थान __________ है।",
+    "options": [
+      "1. 40 GB",
+      "2. 30 GB",
+      "3. 20 GB",
+      "4. 80 GB"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A temporary file has ______ file format.",
+    "options": [
+      "1. .temp",
+      "2. .tm",
+      "3. .tpf",
+      "4. .tmpt"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "टेम्पररी फाइल (Temporary file) का फाइल फॉर्मेट क्या होता है?",
+    "options": [
+      "1. .temp",
+      "2. .tm",
+      "3. .tpf",
+      "4. .tmpt"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ file has SVG file format.",
+    "options": [
+      "1. Image file",
+      "2. Audio file",
+      "3. MS office document",
+      "4. Example query"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "किस फाइल में SVG फाइल फॉर्मेट होता है?",
+    "options": [
+      "1. इमेज फ़ाइल",
+      "2. ऑडियो फ़ाइल",
+      "3. MS office डॉक्यूमेंट",
+      "4. एग्ज़ाम्पल क्वेरी"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "While choosing a webcam, you need to consider the following features from performance point of view, EXCEPT the:",
+    "options": [
+      "1. lens",
+      "2. resolution",
+      "3. frame rate",
+      "4. print speed"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "वेबकैम चुनते समय, आपको प्रदर्शन के दृष्टिकोण से निम्नलिखित विशेषताओं पर विचार करना होगा, सिवाय इसके:",
+    "options": [
+      "1. लेंस",
+      "2. रिज़ोल्यूशन",
+      "3. फ्रेम दर",
+      "4. प्रिंट स्पीड"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is a URL?",
+    "options": [
+      "1. A computer software program",
+      "2. A type of programming object",
+      "3. An address of a document or resource on the World Wide Web",
+      "4. An acronym for Unlimited Resources for Learning"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "URL क्या है ?",
+    "options": [
+      "1. एक कंप्यूटर सॉफ्टवेयर प्रोग्राम",
+      "2. एक प्रकार का प्रोग्रामिंग ऑब्जेक्ट",
+      "3. वर्ल्ड वाइड वेब पर किसी दस्तावेज़ या संसाधन का पता",
+      "4. सीखने हेतु असीमित संसाधनों के लिए एक संक्षिप्त शब्द"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "______ is the URL for creating a new Google document in Google Drive.",
+    "options": [
+      "1. docs.google.com/in",
+      "2. docs.google.com/create",
+      "3. docs.google.com/insert",
+      "4. docs.google.com/new"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "गूगल ड्राइव में ___________ URL का प्रयोग नए गूगल डॉक्युमेंट को बनाने के लिए किया जाता है।",
+    "options": [
+      "1. docs.google.com/in",
+      "2. docs.google.com/create",
+      "3. docs.google.com/insert",
+      "4. docs.google.com/new"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the full form of BHIM?",
+    "options": [
+      "1. Balanced Interface for Money",
+      "2. Bharat Internet for Money",
+      "3. Bharat Interface for Multiuse",
+      "4. Bharat Interface for Money"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "BHIM का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Balanced Interface for Money (बैलेंस्ड इंटरफ़ेस फॉर मनी)",
+      "2. Bharat Internet for Money (भारत इंटरनेट फॉर मनी)",
+      "3. Bharat Interface for Multiuse (भारत इंटरफ़ेस फॉर मल्टीयूज़)",
+      "4. Bharat Interface for Money (भारत इंटरफ़ेस फॉर मनी)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "There will be ______ number of capital letters when we use the lowercase option in the Change Case list in Microsoft Word 2019.",
+    "options": [
+      "1. same",
+      "2. as many as the small",
+      "3. only one",
+      "4. zero"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Microsoft Word 2019 में, जब हम केस बदलें (change case) सूची में लोअरकेस विकल्प का प्रयोग करते हैं तो ______ संख्या में बड़े (कैपिटल) अक्षर होंगे।",
+    "options": [
+      "1. उतने ही",
+      "2. जितने छोटे हैं उतने ही",
+      "3. केवल एक",
+      "4. शून्य"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "When we apply the ______ option in the Change Case list in Microsoft Word 2019, then the number of capital letters in that text will be the number of small letters.",
+    "options": [
+      "1. toggle case",
+      "2. lowercase",
+      "3. uppercase",
+      "4. sentence case"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Microsoft Word 2019 में, जब हम केस बदलें (change case) सूची में ______ विकल्प लागू करते हैं तो उस टेक्स्ट में जितने बड़े (कैपिटल) अक्षर हैं वह छोटे (स्मॉल) अक्षर हो जाएंगे।",
+    "options": [
+      "1. टॉगल केस",
+      "2. लोअरकेस",
+      "3. अप्परकेस",
+      "4. सेंटेंस केस"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which extension is widely used on a Windows computer and is an acronym for true type fonts?",
+    "options": [
+      "1. .XLS",
+      "2. .TTF",
+      "3. .OTF",
+      "4. .EXE"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Windows कंप्यूटर पर कौन-सा एक्सटेंशन व्यापक रूप से उपयोग किया जाता है और ट्रू टाइप फ़ॉन्ट के लिए एक संक्षिप्त शब्द (acronym) है?",
+    "options": [
+      "1. .XLS",
+      "2. .TTF",
+      "3. .OTF",
+      "4. .EXE"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "OTF stands for ________.",
+    "options": [
+      "1. Open Type Font",
+      "2. Output Text Format",
+      "3. Output True Type",
+      "4. Output Type Font"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "OTF का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Open Type Font (ओपन टाइप फ़ॉन्ट)",
+      "2. Output Text Format (आउटपुट टेक्स्ट फॉर्मेट)",
+      "3. Output True Type (आउटपुट ट्रू टाइप)",
+      "4. Output Type Font (आउटपुट टाइप फॉन्ट)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Given here are the steps to format line spacing in Microsoft Word 2019. Identify the option that arrange them in correct sequence.<br><br>a) Click the Line and Paragraph Spacing command in the Paragraph group of the Home tab. <br> b) Select the desired paragraph spacing option from the dropdown menu.<br> c) Select the text you want to format.<br>d) From the dropdown menu, you can also select Line Spacing Options to open the Paragraph dialog box. From here, you can adjust the line spacing with even more precision.",
+    "options": [
+      "1. c, a, b, d",
+      "2. c, a, d, b",
+      "3. c, b, a, d",
+      "4. a, c, b, d"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Microsoft Word 2019 में लाइन स्पेसिंग को फॉर्मेट करने के लिए निम्न चरण दिए गए हैं, उन्हें अनुक्रम में व्यवस्थित करें।<br><br>a) होम टैब पर पैराग्राफ ग्रुप में लाइन और पैराग्राफ स्पेसिंग कमांड पर क्लिक करें।<br>b) ड्रॉप-डाउन मेनू से वांछित पैराग्राफ स्पेसिंग विकल्प का चयन करें।<br>c) उस टेक्स्ट का चयन करें जिसे आप फ़ॉर्मेट करना चाहते हैं।<br>d) ड्रॉप-डाउन मेनू से, आप पैराग्राफ डायलॉग बॉक्स खोलने के लिए लाइन स्पेसिंग विकल्प भी चुन सकते हैं। यहां से, आप लाइन स्पेसिंग को और भी सटीकता से समायोजित कर सकते हैं।",
+    "options": [
+      "1. c, a, b, d",
+      "2. c, a, d, b",
+      "3. c, b, a, d",
+      "4. a, c, b, d"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Ravi wants to add a new comment to an Microsoft Word 2019 document. To do this, he will have to go to the Review tab and in the ________ group choose New Comment.",
+    "options": [
+      "1. Proofing",
+      "2. Comments",
+      "3. Tracking",
+      "4. Changes"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "रवि Microsoft Word 2019 डॉक्युमेंट में एक नई कमेंट जोड़ना चाहता है। ऐसा करने के लिए उसे रिव्यू (Review) टैब में जाना होगा और ________ ग्रुप में न्यू कमेंट (New Comment) चुनना होगा।",
+    "options": [
+      "1. प्रूफिंग",
+      "2. कमेंट्स",
+      "3. ट्रैकिंग",
+      "4. चेंजिस"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following document type in MS-Word 2019 lists a batch of information for each item in your data source and can be used to print out your contact list, or to list groups of information, like all of the students in each class?",
+    "options": [
+      "1. Directory",
+      "2. Labels",
+      "3. Letters",
+      "4. Email"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Word 2019 में निम्नलिखित में से कौन सा दस्तावेज़ प्रकार आपके डेटा स्रोत में प्रत्येक आइटम के लिए जानकारी का एक बैच सूचीबद्ध करता है और इसका उपयोग आपकी संपर्क सूची को प्रिंट करने, या प्रत्येक कक्षा के सभी छात्रों की तरह जानकारी के समूहों को सूचीबद्ध करने के लिए किया जा सकता है?",
+    "options": [
+      "1. डायरेक्टरी (Directory)",
+      "2. लेबल (Labels)",
+      "3. लेटर्स (Letters)",
+      "4. ईमेल (Email)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT a tab in Microsoft Excel 2019?",
+    "options": [
+      "1. Home",
+      "2. Left",
+      "3. Insert",
+      "4. Data"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्न में से कौन-सा, Microsoft Excel 2019 में एक टैब नहीं है?",
+    "options": [
+      "1. होम (Home)",
+      "2. लेफ्ट (Left)",
+      "3. इन्सर्ट (Insert)",
+      "4. डेटा (Data)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "For a small website, one needs to buy space from the:",
+    "options": [
+      "1. network administrator",
+      "2. telephone exchange",
+      "3. ISP",
+      "4. network"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एक छोटी वेबसाइट के लिए, किसी को निम्नलिखित में से किससे स्पेस खरीदने की आवश्यकता होती है?",
+    "options": [
+      "1. नेटवर्क व्यवस्थापक",
+      "2. टेलिफ़ोन एक्सचेंज",
+      "3. ISP",
+      "4. नेटवर्क"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is FALSE with reference to Symmetric DSL (SDSL)?",
+    "options": [
+      "1. It enables data transfer on a single line.",
+      "2. It allows symmetric bandwidth on the upstream and downstream.",
+      "3. It offers faster downloads and slower uploads.",
+      "4. It is based on technology enabling symmetric data-transfer over a telephone network."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "सममित DSL (SDSL), के संदर्भ में निम्नलिखित में से कौन सा गलत है?",
+    "options": [
+      "1. यह एक ही लाइन पर डेटा ट्रांसफर को सक्षम बनाता है।",
+      "2. यह अपस्ट्रीम और डाउनस्ट्रीम पर सममित बैंडविड्थ की अनुमति देता है।",
+      "3. यह तेज़ डाउनलोड और धीमे अपलोड प्रदान करता है।",
+      "4. यह एक टेलीफोन नेटवर्क पर सममित डेटा-स्थानांतरण को सक्षम करने वाली तकनीक पर आधारित है।"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "______ lists in Microsoft Excel 2019 are used to sort data based on the user's choice.",
+    "options": [
+      "1. Custom",
+      "2. Free",
+      "3. Ordered",
+      "4. Unique"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में ______ लिस्ट्स का उपयोग उपयोगकर्ता की पसंद के आधार पर डेटा को सॉर्ट करने के लिए किया जाता है।",
+    "options": [
+      "1. कस्टम",
+      "2. फ्री",
+      "3. ऑर्डर्ड",
+      "4. यूनिक"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In Microsoft Excel, if cell B4 contains the text 'define', then the formula ‘=RIGHT(B4,4)’ in cell D4 results in ______.",
+    "options": [
+      "1. defi",
+      "2. definefine",
+      "3. fine",
+      "4. ne"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel में, यदि सेल B4 में टेक्स्ट 'define' है, तो सेल D4 में फॉर्मूला '=RIGHT(B4,4)' का परिणाम ______ होता है।",
+    "options": [
+      "1. defi",
+      "2. definefine",
+      "3. fine",
+      "4. ne"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In the Microsoft Excel formula ‘=E$3’, ______ number is/are fixed when you copy the formula to other cells.",
+    "options": [
+      "1. the cell",
+      "2. the column",
+      "3. the row",
+      "4. the row and column"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel फॉर्मूला '=E$3' में, जब आप फॉर्मूला को अन्य सेल्स में कॉपी करते हैं, तो ______ नंबर निश्चित (फिक्स्ड) होता है।",
+    "options": [
+      "1. सेल",
+      "2. कॉलम",
+      "3. रो",
+      "4. रो और कॉलम"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In the VBA editor of Microsoft Excel, all workbooks and objects are listed in the ______ window.",
+    "options": [
+      "1. Immediate",
+      "2. Project Explorer",
+      "3. Properties",
+      "4. Toolbar"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Microsoft Excel के VBA एडिटर में, सभी वर्कबुक्स और ऑब्जेक्ट ______ विंडो में सूचीबद्ध होते हैं।",
+    "options": [
+      "1. तत्काल (Immediate)",
+      "2. प्रोजेक्ट एक्स्प्लोरर (Project Explorer)",
+      "3. प्रॉपर्टीज़ (Properties)",
+      "4. टूलबार (Toolbar)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In MS-Excel 2019, by default, tables are named ______, etc.",
+    "options": [
+      "1. A, B, C",
+      "2. T1, T2, T3",
+      "3. Table1, Table2, Table3",
+      "4. 1, 2, 3"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel 2019 में, डिफ़ॉल्ट रूप से, टेबल्स को ______, आदि नाम दिया जाता है।",
+    "options": [
+      "1. A, B, C",
+      "2. T1, T2, T3",
+      "3. Table1, Table2, Table3",
+      "4. 1, 2, 3"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A ______ chart in Microsoft Excel 2019 compares the aggregate values of several data series.",
+    "options": [
+      "1. bubble",
+      "2. doughnut",
+      "3. radar",
+      "4. stock"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Microsoft Excel 2019 में, एक ______ चार्ट कई डेटा सीरीज़ की कुल वैल्यूज की तुलना करता है।",
+    "options": [
+      "1. बबल (bubble)",
+      "2. डोनट (doughnut)",
+      "3. रेडार (radar)",
+      "4. स्टॉक (stock)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In MS-Excel 2019, an entire worksheet can be selected by pressing the keyboard shortcut _________.",
+    "options": [
+      "1. Ctrl + A",
+      "2. Ctrl + Enter",
+      "3. Ctrl + F1",
+      "4. Ctrl + F8"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में, किस कीबोर्ड शॉर्टकट से एक संपूर्ण वर्कशीट का चयन किया जा सकता है?",
+    "options": [
+      "1. Ctrl + A",
+      "2. Ctrl + Enter",
+      "3. Ctrl + F1",
+      "4. Ctrl + F8"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Data from multiple spreadsheets can be cross-referenced and brought into a single table by using the ______ function in MS-Excel 2019.",
+    "options": [
+      "1. CHOOSE",
+      "2. FIND",
+      "3. TEXTJOIN",
+      "4. VLOOKUP"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel 2019 में ______ फ़ंक्शन का उपयोग करके कई स्प्रेडशीट के डेटा को क्रॉस-रेफरेंस किया जा सकता है और एक ही टेबल में लाया जा सकता है।",
+    "options": [
+      "1. चूज़ (CHOOSE)",
+      "2. फाइंड (FIND)",
+      "3. टेक्स्टजॉइन (TEXTJOIN)",
+      "4. वीलुकअप (VLOOKUP)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which number format in MS-Excel 365 will displays a number as a postal code (ZIP Code), phone number, or Social Security number?",
+    "options": [
+      "1. Accounting",
+      "2. Number",
+      "3. Scientific",
+      "4. Special"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel 365 में कौन सा नंबर प्रारूप किसी नंबर को पोस्टल कोड (ज़िप कोड), फ़ोन नंबर या सामाजिक सुरक्षा नंबर के रूप में प्रदर्शित करेगा?",
+    "options": [
+      "1. एकाउंटिंग",
+      "2. नंबर",
+      "3. साइंटिफिक",
+      "4. स्पेशल"
+    ],
+    "answer": 3
+  }
 ]
         
         };
