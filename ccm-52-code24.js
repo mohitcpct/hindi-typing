@@ -8334,6 +8334,1048 @@
     ],
     "answer": 0
   }
+],
+    "17th March 2024 - Shift1": [
+  {
+    "q": "A named area on a disk that is used to store related sub-folders and files is called a ________.",
+    "options": [
+      "1. desktop",
+      "2. folder",
+      "3. menu",
+      "4. window"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "डिस्क पर एक नामित क्षेत्र जिसका उपयोग संबंधित सब फ़ोल्डर और फ़ाइलों को संग्रहीत करने के लिए किया जाता है, उसे ________ कहा जाता है।",
+    "options": [
+      "1. डेस्कटॉप",
+      "2. फोल्डर",
+      "3. मेनू",
+      "4. विंडो"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Computers use the ______ number system to store data and perform calculations.",
+    "options": [
+      "1. binary",
+      "2. decimal",
+      "3. hexadecimal",
+      "4. octal"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कंप्यूटर डेटा को स्टोर करने और गणना करने के लिए _____ नंबर सिस्टम का उपयोग करते हैं।",
+    "options": [
+      "1. बाइनरी",
+      "2. डेसीमल",
+      "3. हेक्साडेसीमल",
+      "4. ऑक्टल"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "RAM, ROM and flash are types of ___________.",
+    "options": [
+      "1. monitors",
+      "2. memories",
+      "3. keyboards",
+      "4. processors"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "RAM, ROM और फ़्लैश ___________ के प्रकार हैं।",
+    "options": [
+      "1. मॉनिटर्स",
+      "2. मेमोरीज",
+      "3. कीबोर्ड्स",
+      "4. प्रोसेसर्स"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Flash drive is a type of:",
+    "options": [
+      "1. ROM",
+      "2. software",
+      "3. operating system",
+      "4. storage device"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "फ़्लैश ड्राइव किसका एक प्रकार है?",
+    "options": [
+      "1. ROM",
+      "2. सॉफ्टवेयर",
+      "3. ऑपरेटिंग सिस्टम",
+      "4. भंडारण उपकरण (storage device)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is the keyboard shortcut for inserting a manual page break in OpenOffice Writer?",
+    "options": [
+      "1. Alt + Enter",
+      "2. Ctrl + Alt+ Enter",
+      "3. Ctrl + Enter",
+      "4. Shift + Enter"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "ओपनऑफिस राइटर (open office writer) में मैन्युअल पेज ब्रेक डालने के लिए कीबोर्ड शॉर्टकट क्या है?",
+    "options": [
+      "1. Alt + Enter",
+      "2. Ctrl + Alt + Enter",
+      "3. Ctrl + Enter",
+      "4. Shift + Enter"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which function returns the internal rate of return for a series of cash flows represented by the numbers in values in MS-Excel 2019?",
+    "options": [
+      "1. IRPN function",
+      "2. MIRR function",
+      "3. IRR function",
+      "4. MIRPN function"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel 2019 में मूल्यों में संख्याओं द्वारा दर्शाए गए नकदी प्रवाह श्रृंखला के लिए कौन-सा फ़ंक्शन रिटर्न की आंतरिक दर देता है?",
+    "options": [
+      "1. IRPN फंक्शन",
+      "2. MIRR फंक्शन",
+      "3. IRR फंक्शन",
+      "4. MIRPN फंक्शन"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A ______ is used for reading bar coded data.",
+    "options": [
+      "1. point-of-sale (POS) scanner",
+      "2. marker",
+      "3. stylus",
+      "4. joystick"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "बार कोडित डेटा पढ़ने के लिए ___________ का उपयोग किया जाता है।",
+    "options": [
+      "1. पॉइंट-ऑफ़-सेल (POS) स्कैनर",
+      "2. मार्कर",
+      "3. स्टाइलस",
+      "4. जॉयस्टिक"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which printer prints data or images by spraying small droplets of ink at high speed onto the surface of the paper?",
+    "options": [
+      "1. Ink jet printer",
+      "2. Laser printer",
+      "3. Drum printer",
+      "4. Dot matrix printer"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कौन सा प्रिंटर कागज की सतह पर उच्च स्पीड से स्याही की छोटी बूंदों को छिड़का कर डेटा या छवियों को छापता है ?",
+    "options": [
+      "1. इंक जेट प्रिंटर",
+      "2. लेज़र प्रिंटर",
+      "3. ड्रम प्रिंटर",
+      "4. डॉट मैट्रिक्स प्रिंटर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "When you save your data to ______, it will remain intact even when the computer is turned off.",
+    "options": [
+      "1. the RAM",
+      "2. the motherboard",
+      "3. a secondary storage device",
+      "4. a primary storage device"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "जब डेटा को ______ में सेव किया जाता है, तो यह कंप्यूटर बंद होने पर भी बरकरार रहेगा।",
+    "options": [
+      "1. रैम (RAM)",
+      "2. मदर बोर्ड (the motherboard)",
+      "3. द्वितीयक भंडारण डिवाइस (a secondary storage device)",
+      "4. प्राथमिक भंडारण डिवाइस (a primary storage device)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following keyboard shortcut in MS-Excel 2019 is used for navigating in cells to the lowest used row of the rightmost used column?",
+    "options": [
+      "1. Tab",
+      "2. End + Arrow key",
+      "3. Ctrl + Home",
+      "4. Ctrl + End"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel 2019 में निम्नलिखित में से किस कीबोर्ड शॉर्टकट का उपयोग सेल में सबसे दाहिनी ओर उपयोग किए जाने वाले कॉलम की सबसे निचली पंक्ति में नेविगेट करने के लिए किया जाता है?",
+    "options": [
+      "1. Tab",
+      "2. End + Arrow key",
+      "3. Ctrl + Home",
+      "4. Ctrl + End"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A complex barcode that includes information such as price, quantity, web address or image is a:",
+    "options": [
+      "1. 2D barcode",
+      "2. linear barcode",
+      "3. 1D barcode",
+      "4. text barcode"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा एक जटिल बारकोड है जिसमें मूल्य, मात्रा, वेब एड्रेस (पता) या इमेज जैसी जानकारी शामिल होती है?",
+    "options": [
+      "1. 2D बारकोड",
+      "2. रैखिक बारकोड",
+      "3. 1D बारकोड",
+      "4. टेक्स्ट बारकोड"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is not a type of optical blu-ray disk?",
+    "options": [
+      "1. BD-R",
+      "2. BD-RE",
+      "3. BD-XL",
+      "4. BD-XR"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा ऑप्टिकल ब्लू-रे डिस्क का एक प्रकार नहीं है?",
+    "options": [
+      "1. BD-R",
+      "2. BD-RE",
+      "3. BD-XL",
+      "4. BD-XR"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "______ is a very high speed semiconductor memory which can speed up the CPU. It acts as a buffer between the CPU and the main memory.",
+    "options": [
+      "1. Blue-Ray Disk Read Only Memory",
+      "2. Primary memory",
+      "3. Secondary memory",
+      "4. Cache memory"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "______ एक बहुत हाईस्पीड वाली सेमीकंडक्टर (अर्धचालक) मेमोरी है जो CPU की स्पीड बढ़ा सकती है। यह CPU और मुख्य मेमोरी के बीच बफर की तरह काम करती है।",
+    "options": [
+      "1. ब्ल्यू-रे डिस्क रीड ओनली मेमोरी (Blue-Ray Disk Read Only Memory)",
+      "2. प्राथमिक मेमोरी",
+      "3. द्वितीयक मेमोरी",
+      "4. कैश मेमोरी"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is a real-life application of a plotter?",
+    "options": [
+      "1. Creating video",
+      "2. Creating audio",
+      "3. Creating wall stickers",
+      "4. Communicating"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "इनमें से कौन-सा वास्तविक जीवन में प्लॉटर का उपयोग है?",
+    "options": [
+      "1. वीडियो बनाना",
+      "2. ऑडियो बनाना",
+      "3. वॉल स्टिकर बनाना",
+      "4. संचार"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In order to create an image on display, an LCD uses layers of different materials through which a light is passed. Identify the option that arranges the layers in correct sequence from bottom to top.",
+    "options": [
+      "1. Mirror ->Polarising film -> Glass filter ->Negative electrode -> Liquid crystal Layer -> Positive electrode -> Glass filter -> Polarising film -> Cover glass",
+      "2. Polarising film -> Glass with electrode -> Liquid crystal -> Electrode -> Polarising film -> Mirror",
+      "3. Liquid crystal -> Polarizing film -> Glass with electrode -> Polarising film -> Electrode -> Mirror",
+      "4. Mirror -> Electrode -> Polarising film -> Glass with electrode -> Polarising film -> Liquid crystal"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "डिस्प्ले पर छवि निर्मित करने के लिए एल.सी.डी. में विभिन्न पदार्थों की परतों का उपयोग करता है जिनसे होकर प्रकाश गुजरता है। परतों को नीचे से ऊपर की ओर सही क्रम में व्यवस्थित करें।",
+    "options": [
+      "1. मिरर -> पोलराइजिंग फिल्म -> ग्लास फ़िल्टर -> नेगेटिव इलेक्ट्रोड -> लिक्विड क्रिस्टल लेयर -> पॉजिटिव इलेक्ट्रोड -> ग्लास फ़िल्टर -> पोलराइजिंग फिल्म -> कवर ग्लास",
+      "2. पोलराइजिंग फिल्म -> ग्लास विद इलेक्ट्रोड -> लिक्विड क्रिस्टल -> इलेक्ट्रोड -> पोलराइजिंग फिल्म -> मिरर",
+      "3. लिक्विड क्रिस्टल -> पोलराइजिंग फिल्म -> ग्लास विद इलेक्ट्रोड -> पोलराइजिंग फिल्म -> इलेक्ट्रोड -> मिरर",
+      "4. मिरर -> इलेक्ट्रोड -> पोलराइजिंग फिल्म -> ग्लास विद इलेक्ट्रोड -> पोलराइजिंग फिल्म -> लिक्विड क्रिस्टल"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The TCP/IP protocol suite was officially adopted by the _____________ in 1983.",
+    "options": [
+      "1. ARPANET",
+      "2. USENET",
+      "3. NEMA",
+      "4. SONET"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "टीसीपी/आईपी प्रोटोकॉल सूट को आधिकारिक तौर पर 1983 में ____________ द्वारा अपनाया गया था।",
+    "options": [
+      "1. अरपानेट (ARPANET)",
+      "2. यूज़नेट (USENET)",
+      "3. नेमा (NEMA)",
+      "4. सोनेट(SONET)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What are the types of orientation for printing a page in MS-Word 2019?",
+    "options": [
+      "1. Portrait only",
+      "2. Landscape only",
+      "3. Both Portrait and Landscape",
+      "4. Diagonal"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Word 2019 में पेज प्रिंट करने के लिए ओरिएंटेशन के प्रकार क्या हैं?",
+    "options": [
+      "1. केवल पोर्ट्रेट",
+      "2. केवल लैंडस्केप",
+      "3. पोर्ट्रेट और लैंडस्केप दोनों",
+      "4. डायगनल"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which option of Review tab is used, If you want to print your document in MS-Word 2019 without any comments?",
+    "options": [
+      "1. Markup",
+      "2. No Markup",
+      "3. Comments",
+      "4. No Comments"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "यदि आप अपने दस्तावेज़ को MS-Word 2019 में बिना किसी टिप्पणी के प्रिंट करना चाहते हैं, तो Review टैब का कौन सा विकल्प उपयोग किया जाता है?",
+    "options": [
+      "1. मार्कअप (Markup)",
+      "2. नो मार्कअप (No Markup)",
+      "3. कमैंट्स (Comments)",
+      "4. नो कमैंट्स (No Comments)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following units is NOT used to measure the speed of a printer?",
+    "options": [
+      "1. CPM",
+      "2. LPM",
+      "3. PPM",
+      "4. BIT"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से किस मात्रक का उपयोग प्रिंटर की गति मापने के लिए नहीं किया जाता है?",
+    "options": [
+      "1. CPM",
+      "2. LPM",
+      "3. PPM",
+      "4. BIT"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Device drivers are a group of files which will help the hardware device to communicate with the computer's ______.",
+    "options": [
+      "1. operating system",
+      "2. motherboard",
+      "3. peripherals",
+      "4. memory"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "डिवाइस ड्राइवर उन फ़ाइलों का एक समूह है, जो हार्डवेयर उपकरणों को कंप्यूटर के ____________ के साथ संचार करने में सहायता प्रदान करता है।",
+    "options": [
+      "1. ऑपरेटिंग सिस्टम",
+      "2. मदरबोर्ड",
+      "3. पेरिफेरल",
+      "4. मेमोरी"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following in MS-PowerPoint 2019 gives various options for saving, opening, printing, and sharing your presentations?",
+    "options": [
+      "1. Slide Navigation Pane",
+      "2. Slide Pane",
+      "3. Backstage view",
+      "4. Zooming in and out"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-PowerPoint 2019 में , आपके प्रेजेंटेशन को सेव करने, खोलने, प्रिंट करने और शेयर करने के विकल्प निम्न में से किस टैब में मौज़ूद होते हैं?",
+    "options": [
+      "1. स्लाइड नेविगेशन पैन (Slide Navigation Pane)",
+      "2. स्लाइड पैन (Slide Pane)",
+      "3. बैक स्टेज व्यू (Backstage View)",
+      "4. ज़ूमिंग इन एंड आउट (Zooming In and Out)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following option is not helpful in aligning objects in MS-PowerPoint 2019?",
+    "options": [
+      "1. Align",
+      "2. Guides",
+      "3. Gridline",
+      "4. Checkboxes"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा विकल्प MS-PowerPoint 2019 में ऑब्जेक्ट को संरेखित करने में सहायक नहीं है?",
+    "options": [
+      "1. अलाइन (Align)",
+      "2. गाइड्स (Guides)",
+      "3. ग्रिडलाइन (Gridline)",
+      "4. चेकबॉक्सेस (Check Boxes)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "With reference to big data, misspelled data, typos, duplicate data, erroneously parsed data refers to _________.",
+    "options": [
+      "1. information",
+      "2. knowledge",
+      "3. meaningful data",
+      "4. dirty data"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "बड़े डेटा के संदर्भ में, गलत वर्तनी वाला डेटा, टाइपो, डुप्लिकेट डेटा, गलत तरीके से पार्स किया गया डेटा _________ को संदर्भित करता है।",
+    "options": [
+      "1. सूचना (information)",
+      "2. ज्ञान (knowledge)",
+      "3. अर्थपूर्ण डेटा (meaningful data)",
+      "4. अशुद्ध डेटा (dirty data)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is not a raster file type?",
+    "options": [
+      "1. JPEG",
+      "2. BMP",
+      "3. GIF",
+      "4. SVG"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा रैस्टर फ़ाइल प्रकार नहीं है?",
+    "options": [
+      "1. JPEG",
+      "2. BMP",
+      "3. GIF",
+      "4. SVG"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The DES Algorithm Cipher System consists of ______ rounds (iterations) each with a round key.",
+    "options": [
+      "1. 16",
+      "2. 7",
+      "3. 21",
+      "4. 10"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "डीईएस (DES) एल्गोरिथम सिफर सिस्टम में ________ चक्र (पुनरावर्तन) होते हैं, जिनमें से प्रत्येक में एक राउंड की होती है।",
+    "options": [
+      "1. 16",
+      "2. 7",
+      "3. 21",
+      "4. 10"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "If printer is working and connected properly and doesn’t show any flashing lights, then the issue is related to the:",
+    "options": [
+      "1. No paper",
+      "2. Printer driver",
+      "3. Computer processor",
+      "4. Paper jam"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "यदि प्रिंटर, कंप्यूटर से कनेक्ट हो लेकिन उसमें कोई भी फ्लैशिंग लाइट न दिख रही हो, तो यह _________ से संबंधित समस्या है।",
+    "options": [
+      "1. नो पेपर",
+      "2. प्रिंटर ड्राइवर",
+      "3. कंप्यूटर प्रोसेसर",
+      "4. पेपर जॅम"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is NOT a common network device?",
+    "options": [
+      "1. Router",
+      "2. Gateway",
+      "3. Switch",
+      "4. LAN printer"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से कौन एक सामान्य नेटवर्क डिवाइस नहीं है?",
+    "options": [
+      "1. राउटर",
+      "2. गेटवे",
+      "3. स्विच",
+      "4. LAN प्रिंटर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following file extensions indicates only graphic file?",
+    "options": [
+      "1. BMP and DOC",
+      "2. TXT and STK",
+      "3. JPEG and TXT",
+      "4. BMP and GIF"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से कौन सा फ़ाइल एक्सटेंशन केवल ग्राफिक फ़ाइल को इंगित करता है?",
+    "options": [
+      "1. BMP और DOC",
+      "2. TXT और STK",
+      "3. JPEG और TXT",
+      "4. BMP और GIF"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "You can print in fast or draft quality to save ink, using which of the following option of Windows 10 OS?",
+    "options": [
+      "1. Printing Preferences",
+      "2. Page layout setting",
+      "3. Font size setting",
+      "4. Font style setting"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "आप विंडोज 10 ओएस के निम्नलिखित में से किस विकल्प का उपयोग करके स्याही बचाने के लिए तेज या ड्राफ्ट गुणवत्ता में प्रिंट कर सकते हैं?",
+    "options": [
+      "1. प्रिंटिंग प्रैफरेंसेज",
+      "2. पेज लेआउट सेटिंग",
+      "3. फॉन्ट साइज़ सेटिंग",
+      "4. फॉन्ट स्टाइल सेटिंग"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a software update comprised of code inserted into the code of an executable program?",
+    "options": [
+      "1. a version",
+      "2. an add-on",
+      "3. a tutorial",
+      "4. a patch"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा एक सॉफ्टवेयर अपडेट है जिसमें एक एक्जीक्यूटेबल प्रोग्राम के कोड में कोड डाला जाता है?",
+    "options": [
+      "1. वर्ज़न",
+      "2. एड-ऑन",
+      "3. ट्यूटोरियल",
+      "4. पैच"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following CANNOT be used to send emails?",
+    "options": [
+      "1. Yahoo!",
+      "2. Outlook",
+      "3. Gmail",
+      "4. MagicBricks"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से किसका उपयोग ईमेल भेजने के लिए नहीं किया जा सकता है?",
+    "options": [
+      "1. याहू (Yahoo)",
+      "2. आउटलुक (Outlook)",
+      "3. जीमेल (Gmail)",
+      "4. मैजिकब्रिक्स (Magicbricks)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "_________ crawls the web to index it and provides information based on the user search query.",
+    "options": [
+      "1. HTML",
+      "2. HTTP",
+      "3. Search engine",
+      "4. Hypertext"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "_________ वेब को अनुक्रमित करने के लिए क्रॉल करता है और उपयोगकर्ता खोज क्वेरी (user search query) के आधार पर जानकारी प्रदान करता है।",
+    "options": [
+      "1. HTML",
+      "2. HTTP",
+      "3. सर्च इंजन",
+      "4. हाइपरटेक्स्ट"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the full form of SAP in the context of data processing?",
+    "options": [
+      "1. Systems, Applications and Products",
+      "2. Systems, Applications and Procedure",
+      "3. Sets, Applications and Products",
+      "4. Sets, Application and Procedure"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "डेटा प्रोसेसिंग के संदर्भ में SAP का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Systems, Applications and Products (सिस्टम्स, एप्लिकेशन्स एंड प्रोडक्ट्स)",
+      "2. Systems, Applications and Procedure (सिस्टम्स, एप्लिकेशन्स एंड प्रोसीज़र)",
+      "3. Sets, Applications and Products (सेट्स, एप्लिकेशन्स एंड प्रोडक्ट्स)",
+      "4. Sets, Application and Procedure (सेट्स, एप्लिकेशन एंड प्रोसीज़र)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A collection of interconnected networks all over the world is called a/an _______.",
+    "options": [
+      "1. intranet",
+      "2. extranet",
+      "3. internet",
+      "4. VPN"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "पूरी दुनिया में आपस में जुड़े नेटवर्क के संग्रह को ________ कहा जाता है।",
+    "options": [
+      "1. इंट्रानेट (intranet)",
+      "2. एक्सट्रानेट (extranet)",
+      "3. इंटरनेट (internet)",
+      "4. वीपीएन (VPN)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "While reviewing tracking changes in MS-Word 2019, which of the following options within the Reviewing Pane group must be selected to view a list of all changes below your document?",
+    "options": [
+      "1. Reviewing Pane Vertical",
+      "2. Reviewing Pane Left",
+      "3. Reviewing Pane Right",
+      "4. Reviewing Pane Horizontal"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "एमएस-वर्ड 2019 में ट्रैकिंग परिवर्तनों की समीक्षा करते समय, आपके दस्तावेज़ के नीचे सभी परिवर्तनों की सूची देखने के लिए समीक्षा फलक समूह के भीतर निम्नलिखित में से कौन सा विकल्प चुना जाना चाहिए?",
+    "options": [
+      "1. रिव्यूइंग पैन वर्टीकल (Reviewing Pane Vertical)",
+      "2. रिव्यूइंग पैन लेफ्ट (Reviewing Pane Left)",
+      "3. रिव्यूइंग पैन राइट (Reviewing Pane Right)",
+      "4. रिव्यूइंग पैन हॉरिजॉन्टल (Reviewing Pane Horizontal)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A _______ is a device that converts digital signals into an analog signal form that can travel over phone lines. It also re-converts the analog signals back into digital signals.",
+    "options": [
+      "1. modem",
+      "2. port",
+      "3. router",
+      "4. codec"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "__________ एक ऐसा उपकरण है जो डिजिटल सिग्नल को एनालॉग सिग्नल रूप में परिवर्तित करता है जो फोन लाइनों पर संचरित हो सकता है। यह एनालॉग सिग्नल को वापस डिजिटल सिग्नल में भी परिवर्तित करता है।",
+    "options": [
+      "1. मॉडेम",
+      "2. पोर्ट",
+      "3. राऊटर",
+      "4. कोडेक"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What does Quick Parts in MS-Word 2019 do?",
+    "options": [
+      "1. Inserts cliparts",
+      "2. Insert reusable pieces of content, including AutoText and custom text you create.",
+      "3. Inserts date & time in the current document",
+      "4. Inserts picture from a folder"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Word 2019 में क्विक पार्ट्स (Quick Parts) क्या करता है?",
+    "options": [
+      "1. क्लिप आर्ट इन्सर्ट करता है।",
+      "2. ऑटो टेक्स्ट और आपके द्वारा बनाए गए कस्टम टेक्स्ट सहित सामग्री के पुन: प्रयोज्य टुकड़े डालें।",
+      "3. एक वर्तमान डॉक्यूमेंट में दिनांक और समय इन्सर्ट करता है।",
+      "4. एक फोल्डर में से पिक्चर इन्सर्ट करता है।"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ISO/OSI reference model has ____ layers.",
+    "options": [
+      "1. three",
+      "2. four",
+      "3. seven",
+      "4. five"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "ISO/OSI संदर्भ मॉडल में _______ परतें होती हैं।",
+    "options": [
+      "1. तीन",
+      "2. चार",
+      "3. सात",
+      "4. पांच"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is the keyboard shortcut to open the paragraph dialog box in MS-Word 2019?",
+    "options": [
+      "1. Alt + H + P + G",
+      "2. Alt + H + A + O",
+      "3. Alt + H + P",
+      "4. Alt + H + G"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Word 2019 में पैराग्राफ डायलॉग बॉक्स खोलने के लिए निम्न में से कौन-सा कीबोर्ड शॉर्टकट है?",
+    "options": [
+      "1. Alt + H + P + G",
+      "2. Alt + H + A + O",
+      "3. Alt + H + P",
+      "4. Alt + H + G"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is delay in a communication over a network called?",
+    "options": [
+      "1. Latency",
+      "2. Throughput",
+      "3. Frequency",
+      "4. Turnaround time"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "नेटवर्क पर संचार में विलंब (delay) को क्या कहते हैं?",
+    "options": [
+      "1. लेटेंसी (Latency)",
+      "2. थ्रूपुट (Throughput)",
+      "3. आवृत्ति (Frequency)",
+      "4. टर्नअराउंड समय (Turnaround time)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In HTTPS, ‘S’ stands for:",
+    "options": [
+      "1. Single",
+      "2. Server",
+      "3. Simple",
+      "4. Secure"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "HTTPS में, 'S' का पूर्ण रूप क्या है?",
+    "options": [
+      "1. सिंगल (Single)",
+      "2. सर्वर (Server)",
+      "3. सिंपल (Simple)",
+      "4. सिक्योर (Secure)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which Network topology requires multipoint connection?",
+    "options": [
+      "1. Star",
+      "2. Ring",
+      "3. Mesh",
+      "4. Bus"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "किस नेटवर्क टोपोलॉजी को मल्टीपॉइंट कनेक्शन की आवश्यकता होती है?",
+    "options": [
+      "1. स्टार (Star)",
+      "2. रिंग (Ring)",
+      "3. मेश (Mesh)",
+      "4. बस (Bus)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Web services are offered using the concept of ______ computing.",
+    "options": [
+      "1. utility",
+      "2. pervasive",
+      "3. ubiquitous",
+      "4. DNA"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "वेब सेवाओं की पेशकश ______ कंप्यूटिंग की अवधारणा का उपयोग करके की जाती है।",
+    "options": [
+      "1. उपयोगिता (utility)",
+      "2. व्यापक (pervasive)",
+      "3. सर्वव्यापी (ubiquitous)",
+      "4. DNA"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The radix (r) value of the octal number system is _______.",
+    "options": [
+      "1. 16",
+      "2. 8",
+      "3. 2",
+      "4. 10"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "अष्टक संख्या पद्धति (ऑक्टल नंबर सिस्टम) का मूलांक (r) मान _______ है।",
+    "options": [
+      "1. 16",
+      "2. 8",
+      "3. 2",
+      "4. 10"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The decimal equivalent of binary 101 is _______.",
+    "options": [
+      "1. 2",
+      "2. 3",
+      "3. 6",
+      "4. 5"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "द्विआधारी (बाइनरी) 101 का दशमलव समतुल्य (डेसीमल एक्विवैलेन्ट) ________ है।",
+    "options": [
+      "1. 2",
+      "2. 3",
+      "3. 6",
+      "4. 5"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which MS-Excel 2019 function is used to return the seconds of a time value?",
+    "options": [
+      "1. SECOND()",
+      "2. VLOOKUP()",
+      "3. FIXED()",
+      "4. FIND()"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "समय मान के सेकंड वापस करने के लिए किस MS-Excel 2019 फ़ंक्शन का उपयोग किया जाता है?",
+    "options": [
+      "1. SECOND()",
+      "2. VLOOKUP()",
+      "3. FIXED()",
+      "4. FIND()"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS-Excel, to change the reference from relative to absolute, you need to add the _______ sign before the column notation and the row number.",
+    "options": [
+      "1.00$",
+      "2. @",
+      "3. #",
+      "4. *"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel में, रेफरेंस को रिलेटिव से एब्सोल्यूट में बदलने के लिए, आपको कॉलम नोटेशन और रो नंबर से पहले _______ साइन ऐड करना होगा।",
+    "options": [
+      "1.00$",
+      "2. @",
+      "3. #",
+      "4. *"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The _________ function is used to sort data in MS-Excel 2019.",
+    "options": [
+      "1. SORT",
+      "2. FILTER",
+      "3. SQRT",
+      "4. FILT"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में डेटा को सॉर्ट करने के लिए _________ फ़ंक्शन का उपयोग किया जाता है।",
+    "options": [
+      "1. सॉर्ट (SORT)",
+      "2. फ़िल्टर (FILTER)",
+      "3. SQRT",
+      "4. FILT"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Suppose there is a table in MS-Excel 2019 containing marks of students of a class. If we want to filter the data in the table to display only the details of students who scored more than 70 marks, the ______ option is used.",
+    "options": [
+      "1. sort",
+      "2. custom sort",
+      "3. filter",
+      "4. custom select"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "मान लीजिए कि MS-Excel 2019 में एक टेबल है जिसमें किसी कक्षा के छात्रों के अंक दिए गए हैं। यदि हम केवल 70 से अधिक अंक प्राप्त करने वाले छात्रों का विवरण प्रदर्शित करने के लिए तालिका में डेटा को फ़िल्टर करना चाहते हैं, तो ______ विकल्प का उपयोग किया जाता है।",
+    "options": [
+      "1. सॉर्ट (sort)",
+      "2. कस्टम सॉर्ट (custom sort)",
+      "3. फ़िल्टर (filter)",
+      "4. कस्टम सिलेक्ट (custom select)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "_________ is the logical function used in MS-Excel 2019.",
+    "options": [
+      "1. AND()",
+      "2. VLOOKUP()",
+      "3. SQRT()",
+      "4. DATEVALUE()"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_________ MS-Excel 2019 में उपयोग किया जाने वाला लॉजिकल फंक्शन है।",
+    "options": [
+      "1. AND()",
+      "2. VLOOKUP()",
+      "3. SQRT()",
+      "4. DATEVALUE()"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "___________ is the date function used in MS-Excel 2019.",
+    "options": [
+      "1. IF()",
+      "2. VLOOKUP()",
+      "3. AVG()",
+      "4. DATE()"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "___________ MS-Excel 2019 में उपयोग किया जाने वाला डेट (दिनांक) फ़ंक्शन है।",
+    "options": [
+      "1. IF()",
+      "2. VLOOKUP()",
+      "3. AVG()",
+      "4. DATE()"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "______ is the file extension used to save an MS-Excel 2016 workbook as Macro-Enabled Workbook.",
+    "options": [
+      "1. .xlsm",
+      "2. .xls",
+      "3. .xlsv",
+      "4. .xlss"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ फ़ाइल एक्सटेंशन है जिसका उपयोग MS-Excel 2016 वर्कबुक को मैक्रो-इनेबल्ड वर्कबुक के रूप में सहेजने के लिए किया जाता है।",
+    "options": [
+      "1. .xlsm",
+      "2. .xls",
+      "3. .xlsv",
+      "4. .xlss"
+    ],
+    "answer": 0
+  }
 ]
         
         };
