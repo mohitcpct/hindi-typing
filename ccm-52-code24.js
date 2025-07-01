@@ -7292,6 +7292,1048 @@
     ],
     "answer": 3
   }
+],
+    "16th March 2024 - Shift2": [
+  {
+    "q": "The Maximize button changes to the ______, immediately after a window has been maximized in Windows 10 OS.",
+    "options": [
+      "1. Close button",
+      "2. Minimize button",
+      "3. Maximize button",
+      "4. Restore button"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Windows 10 OS में, विंडोज़ को मैक्सिमाइज करते ही, मैक्सिमाइज बटन _________ में परिवर्तित हो जाता है।",
+    "options": [
+      "1. क्लोज बटन",
+      "2. मिनीमाइज बटन",
+      "3. मैक्सिमाइज",
+      "4. रिस्टोर बटन"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is a non-volatile memory?",
+    "options": [
+      "1. Random Access Memory",
+      "2. Read Only Memory",
+      "3. Virtual Memory",
+      "4. Cache Memory"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्न में से कौन सी एक स्थायी (नॉन वॉलेटाइल) मेमोरी है?",
+    "options": [
+      "1. रैंडम एक्सेस मेमोरी",
+      "2. रीड ओनली मेमोरी",
+      "3. वर्चुअल मेमोरी",
+      "4. कैश मेमोरी"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "To listen to the songs from your computer, you need to install a ______ on your computer.",
+    "options": [
+      "1. sound card",
+      "2. network interface card",
+      "3. memory card",
+      "4. PC card"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कंप्यूटर से गाने सुनने के लिए आपको अपने कंप्यूटर में __________ इंस्टाल करना होगा।",
+    "options": [
+      "1. साउंड कार्ड",
+      "2. नेटवर्क इंटरफेस कार्ड",
+      "3. मेमोरी कार्ड",
+      "4. PC कार्ड"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MICR, C stands for:",
+    "options": [
+      "1. Code",
+      "2. Colours",
+      "3. Computer",
+      "4. Character"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MICR में, C का पूर्णरूप क्या है?",
+    "options": [
+      "1. Code (कोड)",
+      "2. Colours (कलर्स)",
+      "3. Computer (कंप्यूटर)",
+      "4. Character (करैक्टर)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following devices is used to capture an image (drawing or photo) so that it can be stored on a computer?",
+    "options": [
+      "1. Modem",
+      "2. Software",
+      "3. Scanner",
+      "4. Keyboard"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "किसी इमेज (चित्र या फ़ोटो) को कंप्यूटर में सेव करने के उद्देश्य से उसे कैप्चर करने के लिए निम्न में से किस डिवाइस का उपयोग किया जाता है?",
+    "options": [
+      "1. मॉडेम",
+      "2. सॉफ्टवेयर",
+      "3. स्कैनर",
+      "4. की-बोर्ड"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following feature in MS-Excel works like a text field where you can enter words and phrases about what you want to do next and quickly get to features you want to use or actions you want to perform?",
+    "options": [
+      "1. Formula bar",
+      "2. Name box",
+      "3. Tell me",
+      "4. Quick access tool bar"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel में निम्नलिखित में से कौन-सी सुविधा (फ़ीचर) एक टेक्स्ट फ़ील्ड की तरह काम करती है जहाँ आप उस बारे में शब्दों और वाक्यांशों को दर्ज कर सकते हैं कि आप आगे क्या करना चाहते हैं और तुरंत उन सुविधाओं (फ़ीचर्स) को प्राप्त कर सकते हैं जिनका आप उपयोग करना चाहते हैं या कार्य करना चाहते हैं?",
+    "options": [
+      "1. फ़ॉर्मूला बार",
+      "2. नेम बॉक्स",
+      "3. टेल मी",
+      "4. क्विक एक्सेस टूल बार"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In Linux, you can change your working directory using ______ command followed by the path name to which you want to move.",
+    "options": [
+      "1. usr",
+      "2. ls",
+      "3. cd",
+      "4. pwd"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "लिनक्स (Linux) में, आप जहां जाना चाहते हैं उस पाथ का उपयोग करते हुए, अपनी वर्किंग डायरेक्टरी को ____________ कमांड का उपयोग कर के बदल सकते हैं।",
+    "options": [
+      "1. usr",
+      "2. ls",
+      "3. cd",
+      "4. pwd"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the key combination to apply default paragraph style in an OpenOffice writer?",
+    "options": [
+      "1. Ctrl+D",
+      "2. Ctrl+0 (Zero)",
+      "3. Ctrl+1",
+      "4. Ctrl+D+P"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ओपन ऑफिस राइटर में डिफ़ॉल्ट पैराग्राफ स्टाइल लागू करने के लिए किस की-बोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Ctrl+D",
+      "2. Ctrl+0 (ज़ीरो)",
+      "3. Ctrl+1",
+      "4. Ctrl+D+P"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which types of computers are NOT generally used to enter large amounts of text?",
+    "options": [
+      "1. Desktop computers",
+      "2. Mini computers",
+      "3. Personal Computer",
+      "4. Mobile Phones"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "बड़े टेक्स्ट इनपुट करने के लिए सामान्यतः किस प्रकार के कंप्यूटरों का उपयोग नहीं किया जाता है?",
+    "options": [
+      "1. डेस्कटॉप कंप्यूटर",
+      "2. मिनी कंप्यूटर",
+      "3. निजी कंप्यूटर (Personal Computer)",
+      "4. मोबाइल फोन (Mobile Phones)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which function returns the serial number of the current date and time in MS-Excel?",
+    "options": [
+      "1. DATE function",
+      "2. NOW function",
+      "3. TODAY function",
+      "4. CURDATE function"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel में, कौन सा फंक्शन वर्तमान दिनांक और समय का क्रमांक (serial number) देता है?",
+    "options": [
+      "1. DATE फंक्शन",
+      "2. NOW फंक्शन",
+      "3. TODAY फंक्शन",
+      "4. CURDATE फंक्शन"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following uses a method similar to that of the VCR for storing data?",
+    "options": [
+      "1. Magnetic tape",
+      "2. Video Disk",
+      "3. Digital tape",
+      "4. Audio Disk"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन डेटा संग्रहीत करने के लिए वीसीआर के समान विधि का उपयोग करता है?",
+    "options": [
+      "1. मैग्नेटिक टेप",
+      "2. वीडियो डिस्क",
+      "3. डिजिटल टेप",
+      "4. ऑडियो डिस्क"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "How many different types of colour toners are used in a laser printer?",
+    "options": [
+      "1. Two",
+      "2. Three",
+      "3. Four",
+      "4. Five"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "लेजर प्रिंटर में कितने अलग-अलग प्रकार के कलर टोनर्स का उपयोग किया जाता है?",
+    "options": [
+      "1. दो",
+      "2. तीन",
+      "3. चार",
+      "4. पांच"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is NOT a correct name of the 2D Barcode font?",
+    "options": [
+      "1. PDF417",
+      "2. MaxiCode",
+      "3. Data Matrix",
+      "4. Codabar"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा 2D बारकोड फ़ॉन्ट का सही नाम नहीं है?",
+    "options": [
+      "1. PDF417",
+      "2. मैक्सीकोड",
+      "3. डेटा मैट्रिक्स",
+      "4. कोडबार"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Groove of BD-R is modulated by:",
+    "options": [
+      "1. tracking",
+      "2. solomon",
+      "3. wobbling",
+      "4. grooving"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "BD-R का ग्रूव ______ द्वारा मॉड्युलेट होता है।",
+    "options": [
+      "1. ट्रैकिंग (tracking)",
+      "2. सोलोमन (solomon)",
+      "3. वोब्लिंग (wobbling)",
+      "4. ग्रूविंग (grooving)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The first LCDs became commercially available in the late ______ and were based on a light scattering effect known as the dynamic scattering model.",
+    "options": [
+      "1. 1950s",
+      "2. 1960s",
+      "3. 1970s",
+      "4. 1980s"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "LCD पहली बार ______ के उत्तरार्ध में बाज़ार में आए। ये प्रकाश प्रकीर्णन प्रभाव पर आधारित थे, जिसे गतिशील प्रकीर्णन मॉडल के रूप में जाना जाता था।",
+    "options": [
+      "1. 1950 के दशक",
+      "2. 1960 के दशक",
+      "3. 1970 के दशक",
+      "4. 1980 के दशक"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following networks provide access to consolidated, block-level data storage?",
+    "options": [
+      "1. SAN",
+      "2. PAN",
+      "3. WAN",
+      "4. LAN"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से कौन सा नेटवर्क समेकित, ब्लॉक लेवल डेटा स्टोरेज तक पहुंच प्रदान करता है?",
+    "options": [
+      "1. SAN",
+      "2. PAN",
+      "3. WAN",
+      "4. LAN"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The bank's code number and cheque number printed on the cheques can be detected by a/an _________ reader.",
+    "options": [
+      "1. OCR",
+      "2. smart card",
+      "3. MICR",
+      "4. barcode"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "बैंक चेक पर लिखे कोड संख्या और चेक संख्या की जानकारी प्राप्त करने के लिए ___________ रीडर का उपयोग किया जाता है।",
+    "options": [
+      "1. OCR",
+      "2. स्मार्ट कार्ड",
+      "3. MICR",
+      "4. बारकोड"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "LCD stands for ____________.",
+    "options": [
+      "1. Liquid Clean Display",
+      "2. Liquid Clean Drive",
+      "3. Liquid Crystal Driver",
+      "4. Liquid Crystal Display"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "LCD का पूर्णरूप क्या है?",
+    "options": [
+      "1. Liquid Clean Display (लिक्विड क्लीन डिस्प्ले)",
+      "2. Liquid Clean Drive (लिक्विड क्लीन ड्राइव)",
+      "3. Liquid Crystal Driver (लिक्विड क्रिस्टल ड्राइवर)",
+      "4. Liquid Crystal Display (लिक्विड क्रिस्टल डिस्प्ले)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which printer is most commonly used in aerospace engineering?",
+    "options": [
+      "1. Dot matrix printer",
+      "2. Laser jet printer",
+      "3. Inkjet printer",
+      "4. 3D printer"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से किस प्रिंटर का उपयोग मुख्यतः एयरोस्पेस इंजीनियरिंग में किया जाता है?",
+    "options": [
+      "1. डॉट मैट्रिक्स प्रिंटर",
+      "2. लेजर जेट प्रिंटर",
+      "3. इंकजेट प्रिंटर",
+      "4. 3D प्रिंटर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "_________ exists in packet switching networks.",
+    "options": [
+      "1. Time frame",
+      "2. Datagram",
+      "3. Time Wrap",
+      "4. Time Stamp"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "_________, पैकेट स्विचिंग नेटवर्क में मौजूद होते हैं।",
+    "options": [
+      "1. टाइम फ्रेम",
+      "2. डेटाग्राम",
+      "3. टाइम रैप",
+      "4. टाइम स्टैंप"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Granular noise occurs when:",
+    "options": [
+      "1. the step size is too small",
+      "2. the step size is too large",
+      "3. the bandwidth is too large",
+      "4. there is interference from the adjacent channel"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ग्रैनुलर (Granular) शोर कब होता है?",
+    "options": [
+      "1. जब स्टेप आकार बहुत छोटा होता है",
+      "2. जब स्टेप आकार बहुत बड़ा होता है",
+      "3. जब बैंडविड्थ बहुत बड़ा होता है",
+      "4. जब संलग्न चैनल से व्यवधान होता है"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Vector quantization and transform coding are examples of:",
+    "options": [
+      "1. pixel",
+      "2. pulse",
+      "3. transmission",
+      "4. lossy compression"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "वेक्टर क्वांटिज़ेशन और ट्रांसफॉर्म कोडिंग किसके उदाहरण हैं?",
+    "options": [
+      "1. पिक्सल",
+      "2. पल्स",
+      "3. ट्रांसमिशन",
+      "4. क्षतिकारक संपीडन"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "________ is a type of malware that appear useful but in reality, damages the files.",
+    "options": [
+      "1. Worms",
+      "2. Computer virus",
+      "3. Trojan horse",
+      "4. Malware"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "_________ एक उपयोगी मलवेयर के रूप में प्रदर्शित होता है लेकिन वास्तव में फाइलों को डैमेज कर देता है।",
+    "options": [
+      "1. वर्म",
+      "2. कंप्यूटर वायरस",
+      "3. ट्रोजन हॉर्स",
+      "4. मलवेयर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A cryptographic system based on Feistel cipher structure uses ______ algorithm for both encryption and decryption.",
+    "options": [
+      "1. the same",
+      "2. different",
+      "3. multiple",
+      "4. huge"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "फीस्टल सिफर संरचना पर आधारित क्रिप्टोग्राफिक प्रणाली, एन्क्रिप्शन और डिक्रिप्शन दोनों के लिए ____एल्गोरिथम का उपयोग करती है।",
+    "options": [
+      "1. समान",
+      "2. भिन्न",
+      "3. कई",
+      "4. विशाल"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Laser printers produce marks on paper by using a fine dust called _________.",
+    "options": [
+      "1. reader",
+      "2. toner",
+      "3. sensor",
+      "4. printer"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "लेजर प्रिंटर _________ नामक महीन धूल का उपयोग करके कागज पर निशान बनाते हैं।",
+    "options": [
+      "1. रीडर",
+      "2. टोनर",
+      "3. सेंसर",
+      "4. प्रिंटर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "USB is called a ______.",
+    "options": [
+      "1. Universal Serial Bus",
+      "2. Unique Serial Bus",
+      "3. Universal Simple Bus",
+      "4. Unique Simple Bus"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "USB का पूर्णरूप क्या है?",
+    "options": [
+      "1. Universal Serial Bus (यूनिवर्सल सीरियल बस)",
+      "2. Unique Serial Bus (यूनिक सीरियल बस)",
+      "3. Universal Simple Bus (यूनिवर्सल सिंपल बस)",
+      "4. Unique Simple Bus (यूनिक सिंपल बस)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The first screen that appears on the monitor is called the _________.",
+    "options": [
+      "1. desktop",
+      "2. application",
+      "3. window",
+      "4. frame"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "मॉनिटर पर प्रदर्शित होने वाली पहली स्क्रीन क्या कहलाती है?",
+    "options": [
+      "1. डेस्कटॉप",
+      "2. एप्लीकेशन",
+      "3. विंडो",
+      "4. फ्रेम"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What does NIC stands for?",
+    "options": [
+      "1. Network Identification Card",
+      "2. Network Identified Client",
+      "3. Network Interface Card",
+      "4. Network Identified Card"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "NIC का पूर्णरूप क्या है?",
+    "options": [
+      "1. Network Identification Card (नेटवर्क आइडेन्टिफ़िकेशन कार्ड)",
+      "2. Network Identified Client (नेटवर्क आईडेन्टिफॉइड क्लाइन्ट)",
+      "3. Network Interface Card (नेटवर्क इन्टरफेस कार्ड)",
+      "4. Network Identified Card (नेटवर्क आईडेन्टिफ़ाइड कार्ड)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following has .doc file format?",
+    "options": [
+      "1. Microsoft Excel",
+      "2. Microsoft Word",
+      "3. Microsoft PowerPoint",
+      "4. Image Document"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से किसका फाइल फॉर्मेट .doc होता है?",
+    "options": [
+      "1. माइक्रोसॉफ्ट एक्सेल",
+      "2. माइक्रोसॉफ्ट वर्ड",
+      "3. माइक्रोसॉफ्ट पॉवरपॉइंट",
+      "4. इमेज डॉक्यूमेंट"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which extension is used for Windows cursor file?",
+    "options": [
+      "1. .cur",
+      "2. .cursor",
+      "3. .curr",
+      "4. .curs"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "विंडोज़ कर्सर फाइल के लिए निम्न में से किस एक्सटेंशन का उपयोग किया जाता है?",
+    "options": [
+      "1. .cur",
+      "2. .cursor",
+      "3. .curr",
+      "4. .curs"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "HTTP stands for:",
+    "options": [
+      "1. Hyper Text Transfer Protocol",
+      "2. Hyper Tetra Transfer Protocol",
+      "3. Heavy Text Transfer Protocol",
+      "4. Huge Text Transfer Protocol"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "HTTP का पूर्णरूप क्या है?",
+    "options": [
+      "1. Hyper Text Transfer Protocol (हाइपर टेक्स्ट ट्रांसफर प्रोटोकॉल)",
+      "2. Hyper Tetra Transfer Protocol (हाइपर टेट्रा ट्रांसफर प्रोटोकॉल)",
+      "3. Heavy Text Transfer Protocol (हैवी टेक्स्ट ट्रांसफर प्रोटोकॉल)",
+      "4. Huge Text Transfer Protocol (ह्यूज़ टेक्स्ट ट्रांसफर प्रोटोकॉल)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Google is an example of:",
+    "options": [
+      "1. an antivirus",
+      "2. a search engine",
+      "3. an internet browser",
+      "4. the internet"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Google एक ________ का उदाहरण है।",
+    "options": [
+      "1. एक एंटीवायरस का",
+      "2. सर्च इंजन का",
+      "3. इंटरनेट ब्राउजर का",
+      "4. इंटरनेट का"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In Google, ______ operator is used to retrieve pages that include either word A or word B",
+    "options": [
+      "1. AND",
+      "2. OR",
+      "3. NOT",
+      "4. NAND"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Google में, ______ ऑपरेटर का उपयोग उन पृष्ठों को पुनः प्राप्त करने के लिए किया जाता है जिनमें शब्द A या शब्द B शामिल होता है।",
+    "options": [
+      "1. AND",
+      "2. OR",
+      "3. NOT",
+      "4. NAND"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is NOT a valid worksheet view in MS-Excel 2019?",
+    "options": [
+      "1. Normal view",
+      "2. Page Layout view",
+      "3. Page Break view",
+      "4. Section Break view"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से कौन सा MS-Excel 2019 का एक वैध वर्कशीट व्यू नहीं है?",
+    "options": [
+      "1. नॉर्मल व्यू",
+      "2. पेज लेआउट व्यू",
+      "3. पेज क्रिएट व्यू",
+      "4. सेक्शन ब्रेक व्यू"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Identify the case option which does exactly the opposite action of Capitalize Each Word in MS Word.",
+    "options": [
+      "1. Sentence",
+      "2. UPPER",
+      "3. lower",
+      "4. tOGGLE"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "उस केस विकल्प की पहचान कीजिए जो MS-Word में 'कैपिटलाइज़ ईच वर्ड' के बिल्कुल विपरीत कार्रवाई करता है।",
+    "options": [
+      "1. सेंटेंस",
+      "2. अप्पर",
+      "3. लोअर",
+      "4. टॉगल"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following types of section break is more suitable while working with columns in MS Word 2019?",
+    "options": [
+      "1. Next page",
+      "2. Continuous",
+      "3. Even page",
+      "4. Odd page"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Word 2019 के कॉलम्स में काम करने के दौरान निम्नलिखित में से किस प्रकार का सेक्शन ब्रेक अधिक उपयुक्त होता है।",
+    "options": [
+      "1. नेक्स्ट पेज",
+      "2. कंटीन्यूअस",
+      "3. इवेन पेज",
+      "4. ऑड पेज"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In MS-Word 2019, the Add space before paragraph spacing can be measured in ______.",
+    "options": [
+      "1. points",
+      "2. millimeters",
+      "3. inches",
+      "4. centimetres"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Word 2019 में, पैराग्राफ स्पेसिंग से पहले 'ऐड स्पेस' को ______ में मापा जा सकता है।",
+    "options": [
+      "1. पॉइंट्स",
+      "2. मिलीमीटर",
+      "3. इंच",
+      "4. सेंटीमीटर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In Ms-Word 2019, there is/are ______ type(s) of markups under Show Markup command.",
+    "options": [
+      "1. 1",
+      "2. 2",
+      "3. 3",
+      "4. 5"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Word 2019 में, शो मार्कअप कमांड के अंतर्गत मार्कअप के ______ प्रकार मौज़ूद होते हैं।",
+    "options": [
+      "1. 1",
+      "2. 2",
+      "3. 3",
+      "4. 5"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "When we rest the pointer on a comment in the MS-Word 2019 document, the comment appears in a ______.",
+    "options": [
+      "1. tab",
+      "2. ScreenTip",
+      "3. Window",
+      "4. header"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Word 2019 डॉक्यूमेंट में, पॉइंटर को किसी कमेंट पर रोक देने से कमेंट ______ में दिखाई देता है।",
+    "options": [
+      "1. टैब",
+      "2. स्क्रीन टिप",
+      "3. विंडो",
+      "4. हेडर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "To edit the header and footer, which of the following tabs is used in MS-Word 2019?",
+    "options": [
+      "1. File",
+      "2. Mailings",
+      "3. Insert",
+      "4. References"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Word 2019 में, हेडर और फुटर को एडिट करने के लिए निम्न में से किस टैब का उपयोग किया जाता है?",
+    "options": [
+      "1. फ़ाइल",
+      "2. मेलिंग्स",
+      "3. इंसर्ट",
+      "4. रेफेरेंसेस"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A communication channel is shared by all machines on the network in a:",
+    "options": [
+      "1. multicast network",
+      "2. unicast network",
+      "3. single network",
+      "4. broadcast network"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "________ में नेटवर्क पर सभी मशीनों द्वारा संचार चैनल साझा किया जाता है।",
+    "options": [
+      "1. मल्टीकास्ट नेटवर्क",
+      "2. यूनिकास्ट नेटवर्क",
+      "3. एकल नेटवर्क",
+      "4. ब्रॉडकास्ट नेटवर्क"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is a predesigned spreadsheet in MS-Excel, that can be used to create a new workbook quickly?",
+    "options": [
+      "1. Pivot table",
+      "2. Template",
+      "3. Microsoft Account",
+      "4. Ribbon"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel में, शीघ्रता से नई वर्कबुक क्रिएट करने के लिए उपयोग की जा सकने वाली पूर्वनिर्मित स्प्रेडशीट निम्न में से कौन सी है?",
+    "options": [
+      "1. पाइवोट टेबल",
+      "2. टेम्पलेट",
+      "3. माइक्रोसॉफ्ट अकाउंट",
+      "4. रिबन"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The ______ is the basic architecture used by most RPC-style middleware systems.",
+    "options": [
+      "1. CBA",
+      "2. RTA",
+      "3. WOA",
+      "4. SOA"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "अधिकांश RPC-स्टाइल वाले मिडिलवेयर सिस्टम्स द्वारा उपयोग की जाने वाली मूलभूत संरचना निम्न में से कौन सी है?",
+    "options": [
+      "1. CBA",
+      "2. RTA",
+      "3. WOA",
+      "4. SOA"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In MS-Excel 2019, the Sort option is available under the ______ tab.",
+    "options": [
+      "1. Data",
+      "2. Formulas",
+      "3. File",
+      "4. View"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में, सॉर्ट (Sort) विकल्प ______ टैब के अंतर्गत उपलब्ध होता है।",
+    "options": [
+      "1. डेटा",
+      "2. फ़ॉर्मूला",
+      "3. फ़ाइल",
+      "4. व्यू"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS-Excel, enter value 0 into cell A1, value 1 into cell A2 and ‘=A1+A2’ into cell A3. Clicking on the lower right corner of cell A3 and dragging it down results in ______ sequence.",
+    "options": [
+      "1. an arithmetic",
+      "2. a Fibonacci",
+      "3. a geometric",
+      "4. a harmonic"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel में, सेल A1 में 0, सेल A2 में 1 और सेल A3 में '=A1+A2' मान इंटर करके, सेल A3 के निचले दाएं कोने पर क्लिक करके इसे नीचे खींचने के परिणामस्वरूप एक ______ अनुक्रम प्राप्त होता है।",
+    "options": [
+      "1. समांतर (arithmetic)",
+      "2. हेमचंद्र (Fibonacci)",
+      "3. गुणोत्तर (geometric)",
+      "4. हरात्मक (harmonic)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In an MS-Excel formula, the range of cells from E2 to E10 are denoted by ______.",
+    "options": [
+      "1. E2.E10",
+      "2. E2..E10",
+      "3. E2:E10",
+      "4. E2_E10"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel फ़ॉर्मूला में, E2 से E10 तक की सेल्स परास को ______ द्वारा दर्शाया जाता है।",
+    "options": [
+      "1. E2.E10",
+      "2. E2..E10",
+      "3. E2:E10",
+      "4. E2_E10"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "If you press and hold down the Ctrl key and press the down arrow key, you are taken to the ______ in MS-Excel.",
+    "options": [
+      "1. column left",
+      "2. edge of the data range",
+      "3. next column right",
+      "4. rightmost column"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel में, यदि आप Ctrl की दबाकर रखते हैं और डाउन एरो की दबाते हैं, तो आप ______ पर पहुंच जाएंगे।",
+    "options": [
+      "1. काँलम बायां",
+      "2. डेटा रेंज के किनारे",
+      "3. अगले दाएं कॉलम पर",
+      "4. सबसे दाहिने कॉलम पर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ is Microsoft’s programming language for MS-Excel.",
+    "options": [
+      "1. C",
+      "2. C#",
+      "3. VB",
+      "4. VBA"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "____________, MS-Excel के लिए उपयोग की गई माइक्रोसॉफ्ट की प्रोग्रामिंग लैंग्वेज है।",
+    "options": [
+      "1. C",
+      "2. C#",
+      "3. VB",
+      "4. VBA"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In MS-Excel, the ______ function removes the duplicate spaces and spaces at the start and end of a text string.",
+    "options": [
+      "1. MID",
+      "2. ROUND",
+      "3. TRIM",
+      "4. TRUNC"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel में, ______ फ़ंक्शन किसी टेक्स्ट स्ट्रिंग के आरंभ और अंत में मौज़ूद डुप्लिकेट अंतरालों को हटा देता है।",
+    "options": [
+      "1. मिड (MID)",
+      "2. राउंड (ROUND)",
+      "3. ट्रिम (TRIM)",
+      "4. ट्रंक (TRUNC)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "We can allow specific users to edit certain ranges in a workbook or sheet in MS-Excel by using the ______ option under the Review tab.",
+    "options": [
+      "1. Accessibility",
+      "2. Proofing",
+      "3. Language",
+      "4. Protect"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "रिव्यु टैब में मौज़ूद ______ विकल्प का उपयोग करके विशिष्ट उपयोगकर्ताओं को MS-Excel में किसी वर्कबुक या शीट में कुछ परासों (ranges) को एडिट करने की अनुमति दी जा सकती है।",
+    "options": [
+      "1. एक्सेसिबिलिटी",
+      "2. प्रूफिंग",
+      "3. लैंग्वेज",
+      "4. प्रोटेक्ट"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The keyboard shortcut to undo the previous action in MS-Excel is ______.",
+    "options": [
+      "1. Ctrl + D",
+      "2. Ctrl + U",
+      "3. Ctrl + X",
+      "4. Ctrl + Z"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel में पिछली क्रिया को पूर्ववत (अनडू) करने के लिए प्रयुक्त की-बोर्ड शॉर्टकट क्या है?",
+    "options": [
+      "1. Ctrl + D",
+      "2. Ctrl + U",
+      "3. Ctrl + X",
+      "4. Ctrl + Z"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In MS-Excel, the “Toggle Breakpoint” is done from the ________ menu.",
+    "options": [
+      "1. Debug",
+      "2. Design",
+      "3. Developer",
+      "4. Run"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel में, \"टॉगल ब्रेकप्वाइंट\" ________ मेनू से किया जाता है।",
+    "options": [
+      "1. डीबग",
+      "2. डिज़ाइन",
+      "3. डेवलपर",
+      "4. रन"
+    ],
+    "answer": 0
+  }
 ]
         
         };
