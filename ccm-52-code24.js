@@ -15628,6 +15628,1048 @@
     ],
     "answer": 1
   }
+],
+    "30th September 2023 - Shift2": [
+   {
+    "q": "The notebook system unit is often called ______.",
+    "options": [
+      "1. Midrange",
+      "2. Laptop",
+      "3. Desktop",
+      "4. PDA"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "नोटबुक सिस्टम यूनिट को अक्सर ____________ कहा जाता है।",
+    "options": [
+      "1. मिडरेंज़",
+      "2. लैपटॉप",
+      "3. डेस्कटॉप",
+      "4. PDA"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ is loaded first when the system boots in Linux.",
+    "options": [
+      "1. Shell",
+      "2. BIOS",
+      "3. Keyboard",
+      "4. Motherboard"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "लिनक्स (Linux) में सिस्टम बूट होने पर पहले _____ लोड होता है।",
+    "options": [
+      "1. शेल",
+      "2. BIOS",
+      "3. कीबोर्ड",
+      "4. मदरबोर्ड"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following terms is related to Relational Database Management System?",
+    "options": [
+      "1. PHP",
+      "2. C",
+      "3. Oracle",
+      "4. Assembly"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा शब्द रिलेशनल डाटाबेस मैनेजमेंट सिस्टम से संबंधित है?",
+    "options": [
+      "1. PHP",
+      "2. C",
+      "3. ओरेकल (Oracle)",
+      "4. असेंबली"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Where does Sqoop ingest data from?",
+    "options": [
+      "1. Linux file directory",
+      "2. MySQL",
+      "3. Windows folder",
+      "4. HBase"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "स्कूप डेटा कहाँ से ग्रहण करता है?",
+    "options": [
+      "1. Linux फ़ाइल डायरेक्टरी",
+      "2. MySQL",
+      "3. Windows फ़ोल्डर",
+      "4. HBase"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which function in MS-Excel removes all non-printable characters from text?",
+    "options": [
+      "1. REMOVE function",
+      "2. CLEAN function",
+      "3. DELETE function",
+      "4. CUT function"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel में, कौन-सा फंक्शन टेक्स्ट से सभी गैर मुद्रण योग्य अक्षरों को हटाता है?",
+    "options": [
+      "1. REMOVE फंक्शन",
+      "2. CLEAN फंक्शन",
+      "3. DELETE फंक्शन",
+      "4. CUT फंक्शन"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ key is used to enter blank space between the two characters.",
+    "options": [
+      "1. Spacebar",
+      "2. Home",
+      "3. Alt",
+      "4. Function"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ कुंजी का उपयोग दो अक्षरों के बीच रिक्त स्थान दर्ज करने के लिए किया जाता है।",
+    "options": [
+      "1. स्पेसबार",
+      "2. होम",
+      "3. ऑल्ट",
+      "4. फंक्शन"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A computer program that translates the instructions of a program line by line into a machine language is called a/an _______.",
+    "options": [
+      "1. interpreter",
+      "2. CPU",
+      "3. compiler",
+      "4. processor"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एक कंप्यूटर प्रोग्राम जो पंक्ति दर पंक्ति में एक प्रोग्राम निर्देश को एक मशीन भाषा में अनुवाद करता है उसे _______ कहा जाता है।",
+    "options": [
+      "1. इंटरप्रिटर",
+      "2. CPU",
+      "3. कंपाइलर",
+      "4. प्रोसेसर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the disc diameter of a Blu-ray Disc?",
+    "options": [
+      "1. 116 mm",
+      "2. 120 mm",
+      "3. 112 mm",
+      "4. 118 mm"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ब्लू -रे डिस्क का डिस्क व्यास कितना होता है?",
+    "options": [
+      "1. 116 mm",
+      "2. 120 mm",
+      "3. 112 mm",
+      "4. 118 mm"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Where does the CPU store the variables on which it is working?",
+    "options": [
+      "1. Registers",
+      "2. DVD",
+      "3. ROM",
+      "4. Flash"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "CPU जिन चरों पर काम करता है, उन्हें कहां संग्रहीत करता है?",
+    "options": [
+      "1. रजिस्टर",
+      "2. DVD",
+      "3. ROM",
+      "4. फ्लै श"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In network, what does PAN stand for?",
+    "options": [
+      "1. Personal Area Network",
+      "2. Private Area Network",
+      "3. Public Area Network",
+      "4. Protected Area Network"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "नेटवर्क में, PAN का पूर्णरूप क्या है?",
+    "options": [
+      "1. पर्सनल एरिया नेटवर्क (Personal Area Network)",
+      "2. प्राइवेट एरिया नेटवर्क (Private Area Network)",
+      "3. पब्लिक एरिया नेटवर्क (Public Area Network)",
+      "4. प्रोटेक्टेड एरिया नेटवर्क (Protected Area Network)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Two types of monitors are:",
+    "options": [
+      "1. CRT and DVD",
+      "2. CRT and LCD",
+      "3. DVD and VCD",
+      "4. LED and DVD"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "मॉनिटर्स के दो प्रकार कौन-कौन से हैं?",
+    "options": [
+      "1. CRT और DVD",
+      "2. CRT और LCD",
+      "3. DVD और VCD",
+      "4. LED और DVD"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a network device?",
+    "options": [
+      "1. Bridge",
+      "2. Light pen",
+      "3. Tablet",
+      "4. Stylus"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, एक नेटवर्क डिवाइस है?",
+    "options": [
+      "1. ब्रिज (Bridge)",
+      "2. लाइट पेन (Light pen)",
+      "3. टैबलेट (Tablet)",
+      "4. स्टाइलस (Stylus)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In big-endian architectures, the leftmost bytes are ____________ significant.",
+    "options": [
+      "1. the most",
+      "2. the least",
+      "3. not",
+      "4. less"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "बिग-एडिंयन आर्किटेक्चर में, सबसे बाईं बाइट्स ______ होती हैं।",
+    "options": [
+      "1. अधिक महत्त्वपूर्ण",
+      "2. कम से कम महत्त्वपूर्ण",
+      "3. महत्त्वपूर्ण नहीं",
+      "4. कम महत्त्वपूर्ण"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A ________________ is a network security system or shielding layer that lies between the internet and the computer networks.",
+    "options": [
+      "1. router",
+      "2. switch",
+      "3. port",
+      "4. firewall"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "________ एक नेटवर्क सुरक्षा प्रणाली या परिरक्षण लेयर है जो इंटरनेट और कंप्यूटर नेटवर्क के बीच स्थित होता/होती है।",
+    "options": [
+      "1. राउटर (router)",
+      "2. स्विच (switch)",
+      "3. पोर्ट (port)",
+      "4. फ़ायरवॉल (firewall)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is NOT a direct threat to data security?",
+    "options": [
+      "1. Phishing",
+      "2. Virus",
+      "3. Applet",
+      "4. Malware"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्न में से कौन-सा, डेटा सुरक्षा के लिए प्रत्यक्ष खतरा नहीं है?",
+    "options": [
+      "1. फ़िशिंग",
+      "2. वाइरस",
+      "3. एप्लेट",
+      "4. मैलवेयर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which cable has foil shielding over a twisted wire?",
+    "options": [
+      "1. Shielded Twisted Pair (STP)",
+      "2. Coaxial cable",
+      "3. Single-mode fiber optic cable",
+      "4. Multi-mode fiber optic cable"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से कौन सी केबल में आपस में गुंथे हुए तारों पर फॉइल शील्डिंग लगी होती है?",
+    "options": [
+      "1. शिल्डेड ट्वि स्टेड पेयर (STP)",
+      "2. कोएक्सियल केबल",
+      "3. सिंगल-मोड फाइबर ऑप्टिक केबल",
+      "4. मल्टी -मोड फाइबर ऑप्टिक केबल"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "If you want to print the pages based on the quality, then which of the following is the correct option?",
+    "options": [
+      "1. File --> Print --> Properties --> Page Setup",
+      "2. File --> Print --> Properties --> Finishing",
+      "3. File --> Print --> Properties --> Page Source",
+      "4. File --> Print -> Printer Properties -> Quality"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "अच्छी गुणवत्ता वाले पृष्ठों को प्रिंट करने के लिए निम्न में से कौन सा विकल्प सहायक होगा?",
+    "options": [
+      "1. फाइल -> प्रिंट -> प्रॉपर्टीज -> पेज सेटअप",
+      "2. फाइल -> प्रिंट -> प्रॉपर्टीज -> फिनिशिंग",
+      "3. फाइल -> प्रिंट -> प्रॉपर्टीज -> पेज सोर्स",
+      "4. फाइल -> प्रिंट -> प्रिंटर प्रॉपर्टीज -> क्वालिटी"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What are the steps to print the test page?",
+    "options": [
+      "1. My computer --> Printer and devices --> Select printer --> Right-click to see properties --> Click on 'print test page' button.",
+      "2. Home --> Printer and devices --> Select printer --> Right-click to see properties --> Click on 'Print test page' button.",
+      "3. Control panel --> Printer and devices --> Select printer --> Right-click to see properties --> Click on 'Print test page' button.",
+      "4. Control panel --> Printer and devices --> Select printer --> Right-click to see properties -->Page source-> Click on 'Print test page' button."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्न में से किन चरणों का उपयोग करते हुए टेस्ट पेज को प्रिंट किया जा सकता है?",
+    "options": [
+      "1. माय कंप्यूटर-> प्रिंटर एंड डिवाइसेस-> सेलेक्ट प्रिंटर-> प्रॉपर्टीज को देखने के लिए दायां क्लिक करें-> ‘प्रिंट टेस्ट पेज’ बटन पर क्लिक करें",
+      "2. होम-> प्रिंटर एंड डिवाइसेस-> सेलेक्ट प्रिंटर-> प्रॉपर्टीज को देखने के लिए दायां क्लिक करें-> ‘प्रिंट टेस्ट पेज’ बटन पर क्लिक करें",
+      "3. कंट्रोल पैनल-> प्रिंटर एंड डिवाइसेस-> सेलेक्ट प्रिंटर-> प्रॉपर्टीज को देखने के लिए दायां क्लिक करें-> ‘प्रिंट टेस्ट पेज’ बटन पर क्लिक करें",
+      "4. कंट्रोल पैनल-> प्रिंटर एंड डिवाइसेस-> सेलेक्ट प्रिंटर-> प्रॉपर्टीज को देखने के लिए दायां क्लिक करें-> पेज सोर्स-> ‘प्रिंट टेस्ट पेज’ बटन पर क्लिक करें"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Pin feed method of moving paper through the printer is commonly found in a _______ printer.",
+    "options": [
+      "1. dot-matrix",
+      "2. laser jet",
+      "3. inkjet",
+      "4. 3D"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "प्रिंटर के माध्यम से मूविंग पेपर की पिन फीड विधि का उपयोग सामान्यतः किस प्रकार के प्रिंटरों में किया जाता है?",
+    "options": [
+      "1. डॉट मैट्रिक्स",
+      "2. लेजर जेट",
+      "3. इंकजेट",
+      "4. 3D"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The full form of Wi-Fi is ___________.",
+    "options": [
+      "1. Wireless Fidelity",
+      "2. Wired Fidelity",
+      "3. Wireless Fixing",
+      "4. Wireless Fixture"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Wi-Fi का पूर्णरूप क्या है?",
+    "options": [
+      "1. Wireless Fidelity (वायरलेस फिडेलिटी)",
+      "2. Wired Fidelity (वायर्ड फिडेलिटी)",
+      "3. Wireless Fixing (वायरलेस फिक्सिंग)",
+      "4. Wireless Fixture (वायरलेस फिक्स़चर)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_________ waves are used in the SONAR device.",
+    "options": [
+      "1. Sound",
+      "2. Infrared",
+      "3. Ultrasonic",
+      "4. Infrasonic"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "सोनार में, हम ________ तरंगों का उपयोग करते हैं।",
+    "options": [
+      "1. ध्वनि",
+      "2. अवरक्त",
+      "3. अल्ट्रासोनिक",
+      "4. इन्फ्रासोनिक"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The MP3 version of the song ____ sound exactly the same as the original CD song.",
+    "options": [
+      "1. does",
+      "2. does not",
+      "3. completely",
+      "4. temporarily"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "किसी गीत का MP3 संस्करण, मूल CD गीत की तुलना में कैसा होता है?",
+    "options": [
+      "1. समान होता है",
+      "2. समान नहीं होता है",
+      "3. पूर्णतः समान होता है",
+      "4. अस्थाई रूप से समान होता है"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following are vector file formats?",
+    "options": [
+      "1. PDF, EPS, SVG",
+      "2. PDF, EPS, BMP",
+      "3. TIFF, JPEG, PDF",
+      "4. PNG, EPS, PS"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से कौन से वेक्टर फ़ाइल फॉर्मेट हैं?",
+    "options": [
+      "1. PDF, EPS, SVG",
+      "2. PDF, EPS, BMP",
+      "3. TIFF, JPEG, PDF",
+      "4. PNG, EPS, PS"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following are types of cyber security attacks?",
+    "options": [
+      "1. Active and passive",
+      "2. True and false",
+      "3. Positive and negative",
+      "4. Faster and slower"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से कौन से साइबर सुरक्षा हमलों के प्रकार हैं?",
+    "options": [
+      "1. सक्रिय और निष्क्रिय",
+      "2. सही और गलत",
+      "3. सकारात्मक और नकारात्मक",
+      "4. तीव्र और मंद"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_______ means that the sender converts the original information into another form and sends the unintelligible message over the network.",
+    "options": [
+      "1. Encryption",
+      "2. Decryption",
+      "3. Subscription",
+      "4. Migration"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_________, का अर्थ है कि प्रेषक मूल जानकारी को किसी अन्य रूप में परिवर्तित कर नेटवर्क पर अस्पष्ट संदेश भेजता है।",
+    "options": [
+      "1. इन्क्रिप्शन",
+      "2. डीक्रिप्शन",
+      "3. सब्स क्रिप्शन",
+      "4. माइग्रेशन"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "If your printer is offline or it's NOT ready, then the next printing job will:",
+    "options": [
+      "1. Cancel",
+      "2. Postpone for unlimited time",
+      "3. Keep in the printing queue",
+      "4. Have to change your printer"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "यदि आपका प्रिंटर ऑफलाइन है या तैयार (रेडी) नहीं है, तो अगला मुद्रण कार्य ______________।",
+    "options": [
+      "1. रद्द हो जाएगा",
+      "2. असीमित समय के लिए स्थगित हो जाएगा",
+      "3. प्रिंटिंग क्यू में रखा जाएगा",
+      "4. आपको अपना प्रिंटर बदलना होगा"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "If the DVD drive is NOT playing discs inserted into it and it is visible in BIOS as well as device manager, then probably there might be a problem in its ______.",
+    "options": [
+      "1. Power supply",
+      "2. Device driver",
+      "3. Monitor",
+      "4. Operating system"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "यदि DVD ड्राइव में डाली गई डिस्क चल नहीं रही है और यह BIOS के साथ-साथ डिवाइस मैनेजर में दिख रही है, तो इसके ___________________ में कोई समस्या हो सकती है।",
+    "options": [
+      "1. बिजली आपूर्ति",
+      "2. डिवाइस ड्राइवर",
+      "3. मॉनिटर",
+      "4. ऑपरेटिंग सिस्टम"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Where is the Recycle Bin icon found?",
+    "options": [
+      "1. In Properties Dialog box",
+      "2. In Shortcut menu",
+      "3. On Hard drive",
+      "4. On Desktop"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "रीसायकल बिन (Recycle Bin) आइकन कहां पाया जाता है?",
+    "options": [
+      "1. प्रॉपर्टीज डायलॉग बॉक्स में",
+      "2. शॉर्टकट मेनूमें",
+      "3. हार्ड ड्राइव पर",
+      "4. डेस्कटॉप पर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The entire process of loading the operating system into RAM is referred to as _______ of the computer.",
+    "options": [
+      "1. processing",
+      "2. managing",
+      "3. controlling",
+      "4. booting"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "RAM में ऑपरेटिंग सिस्टम को लोड करने की संपूर्णप्रक्रिया को कंप्यूटर की _________ कहा जाता है।",
+    "options": [
+      "1. प्रोसेसिंग",
+      "2. मैनेजिंग",
+      "3. कंट्रोलिंग",
+      "4. बूटिंग"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Backup file has ______ file format.",
+    "options": [
+      "1. .bash",
+      "2. .sh",
+      "3. .bak",
+      "4. .backup"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "बैकअप फाइल में निम्न में से कौन सा फाइल फॉर्मेट होता है?",
+    "options": [
+      "1. .bash",
+      "2. .sh",
+      "3. .bak",
+      "4. .backup"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The rules for exchanging data between computers are called ______.",
+    "options": [
+      "1. programs",
+      "2. procedures",
+      "3. hyperlinks",
+      "4. protocols"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कंप्यूटर के बीच डेटा के आदान-प्रदान करने के नियमों को __________ कहा जाता है।",
+    "options": [
+      "1. प्रोग्राम्स",
+      "2. प्रक्रिया (प्रोसीजर)",
+      "3. हाइपरलिंक",
+      "4. प्रोटोकॉल"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is a search engine?",
+    "options": [
+      "1. Internet Explorer",
+      "2. Flash",
+      "3. Google",
+      "4. Chrome"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्न में से कौन-सा एक सर्च इंजन है?",
+    "options": [
+      "1. इंटरनेट एक्स्प्लोरर",
+      "2. फ़्लैश",
+      "3. गूगल",
+      "4. क्रोम"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "SMTP is associated with:",
+    "options": [
+      "1. TCP/IP",
+      "2. Electronic mail",
+      "3. Internet Explorer",
+      "4. World Wide Web"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "SMTP किसके साथ जुड़ा हुआ है?",
+    "options": [
+      "1. TCP/IP",
+      "2. इलेक्ट्रॉनिक मेल",
+      "3. इंटरनेट एक्स्प्लोरर",
+      "4. वर्ल्ड वाइड वेब (World Wide Web)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The browser _______ keeps a list of web pages you have visited during the current session.",
+    "options": [
+      "1. history",
+      "2. favorite",
+      "3. cache",
+      "4. flash"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "ब्राउज़र _______ आपके द्वारा वर्तमान सत्र के दौरान विज़िट किए गए वेब पेजों की एक सूची रखता है।",
+    "options": [
+      "1. हिस्ट्री (history)",
+      "2. फेवरिट (favorite)",
+      "3. कैश (cache)",
+      "4. फ्लैश (flash)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is/are commonly found on web pages?",
+    "options": [
+      "1. Internet",
+      "2. Hyperlinks",
+      "3. Intranet",
+      "4. Templates"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से क्या सामान्यतः वेब पेजों पर पाया जाता है?",
+    "options": [
+      "1. इंटरनेट",
+      "2. हाइपरलिंक",
+      "3. इंट्रानेट",
+      "4. टेम्पलेट"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which function is used to begin a paragraph with a large dropped initial capital letter in a Word document?",
+    "options": [
+      "1. Caps",
+      "2. All caps",
+      "3. Drop cap",
+      "4. Format"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "वर्ड डॉक्युमेंट में एक बड़े \"ड्रॉप्ड\" प्रारंभिक कैपिटल अक्षर के साथ एक पैराग्राफ शुरू करने के लिए कौन-से फंक्शन का उपयोग किया जाता है?",
+    "options": [
+      "1. कैप्स (Caps)",
+      "2. सभी कैप्स (All caps)",
+      "3. ड्रॉप कैप (Drop cap)",
+      "4. फॉर्मेट (Format)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "______ is the first block of volume and it contains information needed to boot an operating system",
+    "options": [
+      "1. Boot Control Block",
+      "2. Volume Control Block",
+      "3. Directory Structure",
+      "4. RAM"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "________ वॉल्यूम का पहला ब्लॉक होता है और इसमें ऑपरेटिंग सिस्टम को बूट करने के लिए आवश्यक जानकारी होती है।",
+    "options": [
+      "1. बूट कंट्रोल ब्लॉक (Boot Control Block)",
+      "2. वॉल्यू म कंट्रोल ब्लॉक (Volume Control Block)",
+      "3. डायरेक्ट्री स्ट्रक्चर (Directory Structure)",
+      "4. रेम (RAM)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "BHIM Aadhaar Pay is also called:",
+    "options": [
+      "1. Image-based Payment System",
+      "2. Barcode-based Payment System",
+      "3. Biometric-based Payment System",
+      "4. Picture-based Payment System"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "भीम (BHIM) आधार पे कौन-से अन्य नाम से भी जाना जाता है?",
+    "options": [
+      "1. इमेज आधारित भुगतान प्रणाली",
+      "2. बारकोड आधारित भुगतान प्रणाली",
+      "3. बायोमेट्रिक आधारित भुगतान प्रणाली",
+      "4. चित्र आधारित भुगतान प्रणाली"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following file extension is used for a markup file?",
+    "options": [
+      "1. .doc",
+      "2. .org",
+      "3. .htm",
+      "4. .lib"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "मार्कअप फाइल (markup file) के लिए निम्न में से किस फाइल एक्सटेंशन का उपयोग किया जाता है?",
+    "options": [
+      "1. .doc",
+      "2. .org",
+      "3. .htm",
+      "4. .lib"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "To undo the case change, press ______.",
+    "options": [
+      "1. Ctrl + Z",
+      "2. Ctrl + C",
+      "3. Ctrl + V",
+      "4. Ctrl + B"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "केस चेंज को पूर्ववत करने के लिए, ______ दबाएं।",
+    "options": [
+      "1. CTRL + Z",
+      "2. CTRL + C",
+      "3. CTRL + V",
+      "4. CTRL + B"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The Left indent controls the space between the ______ and the left margin.",
+    "options": [
+      "1. paragraph",
+      "2. line",
+      "3. words",
+      "4. letters"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "बायां इंडेंट ______ और बाएं मार्जिन के बीच की जगह को नियंत्रित करता है।",
+    "options": [
+      "1. अनुच्छेद (paragraph)",
+      "2. लाइन",
+      "3. शब्द",
+      "4. अक्षर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following file extension is used for a batch file?",
+    "options": [
+      "1. .bat",
+      "2. .txt",
+      "3. .obj",
+      "4. .xml"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "बैच फ़ाइल (batch file) के लिए निम्न में से किस फ़ाइल एक्सटेंशन का उपयोग किया जाता है?",
+    "options": [
+      "1. .bat",
+      "2. .txt",
+      "3. .obj",
+      "4. .xml"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT an example of Database Management System?",
+    "options": [
+      "1. MS Access",
+      "2. MySQL",
+      "3. Oracle",
+      "4. File"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, डेटाबेस प्रबंधन प्रणाली का उदाहरण नहीं है?",
+    "options": [
+      "1. MS Access",
+      "2. MySQL",
+      "3. ओरेकल (Oracle)",
+      "4. फाइल (File)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is the hexadecimal equivalent of the decimal number 39?",
+    "options": [
+      "1. 39",
+      "2. 27",
+      "3. 2A",
+      "4. A2"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "दशमलव संख्या 39 के बराबर हेक्सा डेसिमल (hexadecimal) क्या है?",
+    "options": [
+      "1. 39",
+      "2. 27",
+      "3. 2A",
+      "4. A2"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is NOT an example of digital wallet?",
+    "options": [
+      "1. Google Pay",
+      "2. BHIM",
+      "3. Apple Wallet",
+      "4. Purse"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, डिजिटल वॉलेट का उदाहरण नहीं है?",
+    "options": [
+      "1. गूगल पे",
+      "2. BHIM",
+      "3. एपल वॉलेट",
+      "4. पर्स"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is NOT a classification of data model?",
+    "options": [
+      "1. Object-based data model",
+      "2. Record-based data model",
+      "3. Physical data model",
+      "4. Track-based data model"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, डेटा मॉडल का वर्गीकरण नहीं है?",
+    "options": [
+      "1. ऑब्जे क्ट -आधारित डेटा मॉडल",
+      "2. रिकॉर्ड-आधारित डेटा मॉडल",
+      "3. भौतिक डेटा मॉडल",
+      "4. ट्रैक-आधारित डेटा मॉडल"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "DDL stands for:",
+    "options": [
+      "1. Data Definition Language",
+      "2. Data Descriptive Language",
+      "3. Direct Definition Language",
+      "4. Discrete Definition Language"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "DDL का पूर्णरूप क्या है?",
+    "options": [
+      "1. डेटा डेफ़िनिशन लैंग्वेज (Data Definition Language)",
+      "2. डेटा डिस्क्रिप्टिव लैंग्वेज (Data Descriptive Language)",
+      "3. डायरेक्ट डेफ़िनिशन लैंग्वेज (Direct Definition Language)",
+      "4. डिस्क्रीट डेफ़िनिशन लैंग्वेज (Discrete Definition Language)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT a logical operator?",
+    "options": [
+      "1. AND",
+      "2. OR",
+      "3. XOR",
+      "4. MINUS"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, एक लॉजिकल ऑपरेटर नहीं है?",
+    "options": [
+      "1. AND",
+      "2. OR",
+      "3. XOR",
+      "4. MINUS"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which shortcut is used to directly jump right to the header?",
+    "options": [
+      "1. Alt + V",
+      "2. Alt + H",
+      "3. Alt + V + H",
+      "4. Alt + V + G"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "हेडर के दाएं जंप करने के लिए कौन सा शॉर्टकट उपयोग किया जाता है?",
+    "options": [
+      "1. Alt + V",
+      "2. Alt + H",
+      "3. Alt + V + H",
+      "4. Alt + V + G"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Identify the group under Mailings in MS-Word, which has the maximum number of icons in it.",
+    "options": [
+      "1. Create",
+      "2. Start Mail Merge",
+      "3. Write & Insert fields",
+      "4. Finish"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Word में मेलिंग के अंतर्गत उस समूह की पहचान करें जिसमें अधिकतम संख्या में आइकन हों।",
+    "options": [
+      "1. बनाएं (Create)",
+      "2. मेल मर्ज शुरू करें (Start Mail Merge)",
+      "3. फील्ड लिखें और डालें (Write & Insert fields)",
+      "4. समाप्त (Finish)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which company has developed the Snapdragon processor?",
+    "options": [
+      "1. Qualcomm",
+      "2. Apple",
+      "3. HP",
+      "4. Intel"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "स्नैपड्रैगन प्रोसेसर किस कंपनी ने विकसित किया है?",
+    "options": [
+      "1. क्‍वालकॉम",
+      "2. एपल",
+      "3. HP",
+      "4. इंटेल"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a video-sharing site?",
+    "options": [
+      "1. Gmail",
+      "2. Yahoo Mail",
+      "3. YouTube",
+      "4. Rediff"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सी एक वीडियो शेयरिंग साइट है?",
+    "options": [
+      "1. जीमेल (Gmail)",
+      "2. याहू मेल (Yahoo Mail)",
+      "3. यूट्यूब (YouTube)",
+      "4. रेडिफ़ (Rediff)"
+    ],
+    "answer": 2
+  }
 ]
         
         };
