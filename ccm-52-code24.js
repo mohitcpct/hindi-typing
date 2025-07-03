@@ -13544,6 +13544,1048 @@
     ],
     "answer": 0
   }
+],
+    "01st October 2023 - Shift1": [
+  {
+    "q": "Which of the following switching does the internet use?",
+    "options": [
+      "1. Packet switching",
+      "2. Circuit switching",
+      "3. Telephone switching",
+      "4. Telex switching"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "इंटरनेट द्वारा निम्न में से किस स्विचिंग का उपयोग किया जाता है?",
+    "options": [
+      "1. पैकेट स्विचिंग",
+      "2. सर्किट स्विचिंग",
+      "3. टेलीफोन स्विचिंग",
+      "4. टेलेक्स स्विचिंग"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a graphical package?",
+    "options": [
+      "1. CorelDraw",
+      "2. Microsoft Excel",
+      "3. Microsoft Word",
+      "4. Microsoft Access"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा एक ग्राफिकल पैकेज है?",
+    "options": [
+      "1. कॉरल ड्रा (CorelDraw)",
+      "2. माइक्रोसॉफ्ट एक्सेल (Microsoft Excel)",
+      "3. माइक्रोसॉफ्ट वर्ड (Microsoft Word)",
+      "4. माइक्रोसॉफ्ट एक्सेस (Microsoft Access)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The content of the disk that is recorded at the time of manufacture and that cannot be changed or erased by the user is ________.",
+    "options": [
+      "1. Read-only",
+      "2. Memory-only",
+      "3. Run-only",
+      "4. Write-only"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "डिस्क का वह कंटेंट क्या कहलाता है जिसे निर्माण के समय रिकॉर्ड करने के बाद उसे यूजर द्वारा दोबारा बदला या मिटाया नहीं जा सकता है?",
+    "options": [
+      "1. रीड-ओनली",
+      "2. मेमोरी-ओनली",
+      "3. रन-ओनली",
+      "4. राइट-ओनली"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A CD-RW disk:",
+    "options": [
+      "1. has a faster access than an internal disk.",
+      "2. is a form of an optical disk, so it can be written once.",
+      "3. holds less data than a floppy disk.",
+      "4. can be erased and rewritten."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से क्या CD-RW डिस्क की एक विशेषता है?",
+    "options": [
+      "1. इसका एक्सेस इंटरनल डिस्क से तीव्र होता है",
+      "2. यह ऑप्टिकल डिस्क का एक रूप है, इसलिए इसे एक ही बार लिखा जा सकता है",
+      "3. फ्लॉपी डिस्क की तुलना में इसमें कम डेटा संग्रहित हो पाता है",
+      "4. इसे मिटाया और दोबारा लिखा जा सकता है"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Virtual memory is _________.",
+    "options": [
+      "1. a memory on the hard disk that the CPU uses as an extended RAM",
+      "2. a ROM",
+      "3. only necessary if you do not have any RAM in your computer",
+      "4. a backup device for floppy disks"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "वर्चुअल मेमोरी क्या है?",
+    "options": [
+      "1. हार्डडिस्क पर मौजूद एक मेमोरी जिसका उपयोग CPU द्वारा आवर्धित RAM के रूप में किया जाता है",
+      "2. ROM",
+      "3. इसकी आवश्यकता केवल तभी होती है जब आपके कंप्यूटर में कोई RAM नहीं होती है",
+      "4. यह फ्लॉपी डिस्क के लिए एक बैकअप डिवाइस है"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "By using which tab can you update fields in OpenOffice writer?",
+    "options": [
+      "1. View",
+      "2. Format",
+      "3. Help",
+      "4. Insert"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "ओपन ऑफिस राइटर (OpenOffice writer) में फ़ील्ड्स को अद्यतन करने के लिए निम्न में से किस टैब का उपयोग किया जा सकता है?",
+    "options": [
+      "1. व्यू",
+      "2. फॉर्मेट",
+      "3. हेल्प",
+      "4. इन्सर्ट"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "______ is a light-sensitive computer input device.",
+    "options": [
+      "1. MICR",
+      "2. Light Pen",
+      "3. Scanner",
+      "4. OMCR"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्न में से कौन सी एक प्रकाश-संवेदी कंप्यूटर इनपुट डिवाइस है?",
+    "options": [
+      "1. MICR",
+      "2. लाइट पेन",
+      "3. स्कैनर",
+      "4. OMCR"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ can digitise full motion and still images.",
+    "options": [
+      "1. Plotter",
+      "2. Speaker",
+      "3. Microphone",
+      "4. Digital Camera"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से क्या गतिशील और स्थिर चित्रों को पूर्णतः डिजिटाइज़ कर सकता है?",
+    "options": [
+      "1. प्लॉटर",
+      "2. स्पीकर",
+      "3. माइक्रोफोन",
+      "4. डिजिटल कैमरा"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which function counts non-blank cells in a database in MS-Excel?",
+    "options": [
+      "1. COUNTNC function",
+      "2. COUNTA function",
+      "3. DCOUNTNC function",
+      "4. DCOUNTCELL function"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS Excel का निम्न में से कौन सा फंक्शन डेटाबेस में भरे हुए (non-blank) सेल की गणना करता है?",
+    "options": [
+      "1. COUNTNC फंक्शन",
+      "2. COUNTA फंक्शन",
+      "3. DCOUNTNC फंक्शन",
+      "4. DCOUNTCELL फंक्शन"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A ______ card is an expansion card that generates a feed of output images to a display (such as a computer monitor).",
+    "options": [
+      "1. sound",
+      "2. video",
+      "3. network interface",
+      "4. PC"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्न में से कौन सा एक एक्स पेंशन (expansion) कार्ड है जो आउटपुट इमेजों के फीड को किसी डिस्प्ले (जैसे कंप्यूटर मॉनिटर) पर प्रदर्शित करता है?",
+    "options": [
+      "1. साउंड कार्ड",
+      "2. वीडियो कार्ड",
+      "3. नेटवर्क इंटरफेस कार्ड",
+      "4. पर्सनल कंप्यूटर (PC) कार्ड"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following software rearranges files so that all parts of the files are next to each other?",
+    "options": [
+      "1. Disk defragmenter",
+      "2. Backup",
+      "3. File Synchronization",
+      "4. Scheduling"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से कौन सा सॉफ़्टवेयर फाइलों को इस प्रकार पुनर्व्यवस्थित करता है, जिससे फ़ाइलों के सभी अंश एक-दूसरे के आसपास रहें?",
+    "options": [
+      "1. डिस्क डीफ्रैग्मेंटर",
+      "2. बैकअप",
+      "3. फ़ाइल सिंक्रनाइज़ेशन",
+      "4. शेड्यूलिंग"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_________ is the scanning of paper to detect the presence or absence of a mark in a predetermined position.",
+    "options": [
+      "1. OMR",
+      "2. OCR",
+      "3. MICR",
+      "4. PICR"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एक पेपर पर किसी चिह्न की किसी पूर्व-निर्धारित स्थिति की उपस्थिति या अनुपस्थिति का पता लगाने के लिए, उस पेपर की ________ स्कैनिंग की जाती है।",
+    "options": [
+      "1. OMR",
+      "2. OCR",
+      "3. MICR",
+      "4. PICR"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Parallel ports are often referred to as ________ ports.",
+    "options": [
+      "1. LPP",
+      "2. LPI",
+      "3. LPR",
+      "4. LPT"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "समांतर पोर्ट को प्रायः ________ पोर्ट के रूप में जाना जाता है।",
+    "options": [
+      "1. LPP",
+      "2. LPI",
+      "3. LPR",
+      "4. LPT"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A ____________ is a portable storage device that connects to a computer via a USB port.",
+    "options": [
+      "1. flash drive",
+      "2. DVD",
+      "3. CD",
+      "4. motherboard"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से कौन सी वह पोर्टेबल स्टोरेज डिवाइस है जो USB पोर्ट की सहायता से कंप्यूटर से जुड़ी होती है?",
+    "options": [
+      "1. फ्लैश ड्राइव",
+      "2. DVD",
+      "3. CD",
+      "4. मदरबोर्ड"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT a name of 1D Barcode font?",
+    "options": [
+      "1. Bookland",
+      "2. Interleaved 2 of 5",
+      "3. Codabar",
+      "4. CODE 128"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा 1D बारकोड फ़ॉन्ट का एक नाम नहीं है?",
+    "options": [
+      "1. Bookland",
+      "2. Interleaved 2 of 5",
+      "3. Codabar",
+      "4. CODE 128"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS-Word which keyboard shortcut is used to open a document",
+    "options": [
+      "1. Shift+O",
+      "2. Alt+O",
+      "3. Ctrl+N",
+      "4. Ctrl+O"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Word में, डॉक्यु मेंट्स को खोलने के लिए किस कीबोर्ड शॉर्टकट का प्रयोग किया जाता है?",
+    "options": [
+      "1. Shift+O",
+      "2. Alt+O",
+      "3. Ctrl+N",
+      "4. Ctrl+O"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A printer's speed determines its:",
+    "options": [
+      "1. cost",
+      "2. number of pages printed per minute",
+      "3. brand",
+      "4. quality"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक प्रिंटर की स्पीड इसकी/इसके _______ निर्धारित करती है।",
+    "options": [
+      "1. कीमत",
+      "2. प्रति मिनट मुद्रित पृष्ठों की संख्या",
+      "3. ब्रांड",
+      "4. गुणवत्ता"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which among the following MS-Excel function converts a serial number to a minute?",
+    "options": [
+      "1. MIN",
+      "2. MINUTE",
+      "3. MINA",
+      "4. MINVERSE"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा MS-Excel फ़ंक्शन एक सीरियल नंबर को एक मिनट में परिवर्तित करता है?",
+    "options": [
+      "1. MIN",
+      "2. MINUTE",
+      "3. MINA",
+      "4. MINVERSE"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following printers is an impact printer?",
+    "options": [
+      "1. Laser printer",
+      "2. Ink jet printer",
+      "3. Thermal printer",
+      "4. Dot matrix printer"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कौन-सा प्रिंटर इम्पैक्ट प्रिंटर है?",
+    "options": [
+      "1. लेज़र प्रिंटर",
+      "2. इंकजेट प्रिंटर",
+      "3. थर्मल प्रिंटर",
+      "4. डॉट मैट्रिक्स प्रिंटर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is a printer language?",
+    "options": [
+      "1. PostScript",
+      "2. Prescript",
+      "3. Scripting",
+      "4. HTML"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से कौन-सी, एक प्रिंटर भाषा है?",
+    "options": [
+      "1. पोस्टस्क्रिप्ट",
+      "2. प्रीस्क्रिप्ट",
+      "3. स्क्रिप्टिंग",
+      "4. HTML"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS-Word, which keyboard shortcut is used to center the text?",
+    "options": [
+      "1. Ctrl+E",
+      "2. Shift+E",
+      "3. Alt+E",
+      "4. Ctrl+F"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Word में, टेक्स्ट को मध्य (सेंटर) में करने के लिए किस कीबोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Ctrl+E",
+      "2. Shift+E",
+      "3. Alt+E",
+      "4. Ctrl+F"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS-Excel, which function returns the annual nominal interest rate",
+    "options": [
+      "1. NORM",
+      "2. NOMINAL",
+      "3. INT",
+      "4. INTEREST"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel में, कौन-सा फ़ंक्शन वार्षिक नोमिनल ब्याज दर लौटाता है?",
+    "options": [
+      "1. NORM",
+      "2. NOMINAL",
+      "3. INT",
+      "4. INTEREST"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In MS-Word, which keyboard shortcut is used to align the text to the right?",
+    "options": [
+      "1. Ctrl+R",
+      "2. Alt+R",
+      "3. Shift+R",
+      "4. Ctrl+A"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Word में, टेक्स्ट को दाई ओर संरेखित करने के लिए किस कीबोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Ctrl+R",
+      "2. Alt+R",
+      "3. Shift+R",
+      "4. Ctrl+A"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT a networking device?",
+    "options": [
+      "1. Gateway",
+      "2. Firewall",
+      "3. Linux",
+      "4. Router"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "इनमें से कौन-सा, नेटवर्किंग डिवाइस नहीं है?",
+    "options": [
+      "1. गेटवे",
+      "2. फायरवॉल",
+      "3. लिनक्स",
+      "4. राउटर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "लेज़र प्रिंटर _____ स्याही का प्रयोग करता है।",
+    "options": [
+      "1. पाउडर रूप में सफेद",
+      "2. पाउडर रूप में काली",
+      "3. पाउडर रूप मेंग्रे",
+      "4. पाउडर रूप मेंRGB"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Laser printer uses _____ ink.",
+    "options": [
+      "1. powdered white",
+      "2. powdered black",
+      "3. powdered gray",
+      "4. powdered RGB"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What does the image type \"GIF\" stand for?",
+    "options": [
+      "1. Graphics Interchange Format",
+      "2. Graph Interchange Format",
+      "3. Graphics Internal File",
+      "4. Graphics Internal Format"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "छवि प्रकार में \"GIF\" का क्या अर्थ है?",
+    "options": [
+      "1. ग्राफ़िक्स इंटरचेंज फॉर्मेट",
+      "2. ग्राफ इंटरचेंज फॉर्मेट",
+      "3. ग्राफ़िक्स इंटरनल फाइल",
+      "4. ग्राफ़िक्स इंटरनल फॉर्मेट"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following are the block cipher modes of operation?",
+    "options": [
+      "1. PCMC, PCBC, ECB, RBC",
+      "2. EBC, RBC, CBC, CFB",
+      "3. ECB, CBC, CFB, OFB, CTR",
+      "4. PCMC, PCBC, ECC, RBC"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्न में से कौन-सा, ऑपरेशन का ब्लॉक साइफर मोड है?",
+    "options": [
+      "1. PCMC, PCBC, ECB, RBC",
+      "2. EBC, RBC, CBC, CFB",
+      "3. ECB, CBC, CFB, OFB, CTR",
+      "4. PCMC, PCBC, ECC, RBC"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In Excel, in which category does NORMSDIST function belong to?",
+    "options": [
+      "1. Statistical",
+      "2. Compatibility",
+      "3. Text",
+      "4. Logical"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Excel में, NORMSDIST फंक्शन किस श्रेणी में आता है?",
+    "options": [
+      "1. सांख्यिकीय (Statistical)",
+      "2. संगतता (Compatibility)",
+      "3. टेक्स्ट (Text)",
+      "4. तार्किक (Logical)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In Microsoft Word, Ctrl + _______ will cut selected text from your Word document.",
+    "options": [
+      "1. F1",
+      "2. F2",
+      "3. F3",
+      "4. F4"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Microsoft Word में, Ctrl + _______ आपके वर्ड डॉक्यूमेंट से चयनित टेक्स्ट को काट देगा।",
+    "options": [
+      "1. F1",
+      "2. F2",
+      "3. F3",
+      "4. F4"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What are swells?",
+    "options": [
+      "1. Short-term increases in voltage levels",
+      "2. Huge, sudden increases in voltage levels",
+      "3. Short decreases in voltage levels",
+      "4. Complete loss of electricity"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "स्वेल्स (swells) क्या होते हैं?",
+    "options": [
+      "1. वोल्टेज स्तर में अल्पकालिक वृद्धि",
+      "2. वोल्टेज स्तर में अचानक भारी वृद्धि",
+      "3. वोल्टेज स्तर में अल्प घटाव",
+      "4. विद्युत की पूर्ण हानि"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a URL?",
+    "options": [
+      "1. mkclindi@mkcl.org",
+      "2. www.gmail.com",
+      "3. Microsoft Edge",
+      "4. Firefox"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्न में से से कौन सा एक URL है?",
+    "options": [
+      "1. mkclindi@mkcl.org",
+      "2. www.gmail.com",
+      "3. Microsoft Edge",
+      "4. Firefox"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "_________ is a free service from Google that allows you to store files online and access them anywhere using the cloud.",
+    "options": [
+      "1. Microsoft Word",
+      "2. Google Slides",
+      "3. Google Drive",
+      "4. Paint"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "_________, गूगल की एक निःशुल्क सेवा है जो आपको फ़ाइलों को ऑनलाइन स्टोर करने और क्लाउड का उपयोग करके कहीं से भी उन्हें एक्सेस करने की अनुमति देती है।",
+    "options": [
+      "1. माइक्रोसॉफ्ट वर्ड",
+      "2. गूगल स्लाइड्स",
+      "3. गूगल ड्राइव",
+      "4. पेंट"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is NOT required to start BHIM?",
+    "options": [
+      "1. Smartphone with internet access and an Indian bank account.",
+      "2. Smartphone with internet access.",
+      "3. Smartphone with Indian bank account.",
+      "4. Foreign Bank account"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "BHIM प्रारंभ करने के लिए निम्नलिखित में से किसकी आवश्यकता नहीं है?",
+    "options": [
+      "1. स्मार्टफोन, इंटरनेट की सुविधा, भारतीय बैंक खाता",
+      "2. स्मार्टफोन, इंटरनेट की सुविधा",
+      "3. स्मार्टफोन, भारतीय बैंक खाता",
+      "4. विदेशी बैंक खाता"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Accepting and rejecting any change in the Microsoft Word document is a part of ________ process.",
+    "options": [
+      "1. reviewing",
+      "2. formatting",
+      "3. recording",
+      "4. deleting"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Microsoft Word डॉक्यूमेंट में किसी भी परिवर्तन को स्वीकार या अस्वीकार करना ________ प्रक्रिया का एक हिस्सा है।",
+    "options": [
+      "1. रिव्यूविंग",
+      "2. फॉर्मेटिंग",
+      "3. रिकॉर्डिंग",
+      "4. डिलीटिंग"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "How many number of small letters are there when we use the toggle case option in the change case list of Microsoft Word?",
+    "options": [
+      "1. Remains the same",
+      "2. As many as the capital letter before applying the change case",
+      "3. Only one",
+      "4. Zero"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Microsoft Word की चेंज केस सूची से जब हम टॉगल केस विकल्प का उपयोग करते हैं, तो उसमें कितने छोटे अक्षर मौजूद होते हैं?",
+    "options": [
+      "1. इनपर कोई प्रभाव नहीं पड़ता है",
+      "2. चेंज केस लागू करने से पहले जितने बड़े अक्षर थे",
+      "3. केवल एक",
+      "4. शून्य"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is a font size?",
+    "options": [
+      "1. It is defined as the collection of all fonts.",
+      "2. It is defined as in points which are equivalent to pixels on computer displays.",
+      "3. It is defined as a set of characters.",
+      "4. It characterizes by weight."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "फ़ॉन्ट के आकार से क्या तात्पर्य है?",
+    "options": [
+      "1. इसे सभी फ़ॉन्ट्स के संग्रह के रूप में परिभाषित किया जाता है।",
+      "2. इसे उन बिंदुओं के रूप में परिभाषित किया जाता है, जो कंप्यूटर डिस्प्ले पर पिक्सेल के बराबर होते हैं।",
+      "3. इसे वर्णो के सेट के रूप में परिभाषित किया जाता है।",
+      "4. इसे भार के अनुसार वर्गीकृत किया जाता है।"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which parameters are included in the decorative classification of fonts?",
+    "options": [
+      "1. Graffiti, grunge, psychedelic",
+      "2. Formal, casual, calligraphic, blackletter and lombardic",
+      "3. Psychedelic, grunge, casual, formal",
+      "4. Formal, casual, calligraphic, geometric"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "फ़ॉन्ट्स के सजावटी वर्गीकरण में निम्न में से कौन से पैरामीटर शामिल होते हैं?",
+    "options": [
+      "1. ग्राफिटी, ग्रंज, साइकेडेलिक (Graffiti, grunge, psychedelic)",
+      "2. फॉर्मल, कैज़ुअल, कलिग्रफिक, ब्लैकलेटर और लोम्बार्डिक (Formal, casual, calligraphic, blackletter and lombardic)",
+      "3. साइकेडेलिक, ग्रंज, कैज़ुअल, फॉर्मल (Psychedelic, grunge, casual, formal)",
+      "4. फॉर्मल, कैज़ुअल, कलिग्रफिक, जियोमेट्रिक (Formal, casual, calligraphic, geometric)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Following are the steps to format the line spacing in Microsoft Word. Arrange them in a sequence.<br><br>a) Click the Line and Paragraph Spacing command in the Paragraph group on the Home tab.<br> b) Select the desired spacing option from the drop-down menu.<br>c) Select the text you want to format.",
+    "options": [
+      "1. c, a, b",
+      "2. a, b, c",
+      "3. c, b, a",
+      "4. a, c, b"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Microsoft Word में, लाइन स्पेसिंग को फ़ॉर्मेट करने के चरण नीचे दिए गए हैं, उन्हें सही क्रम मेंव्यवस्थित कीजिए। <br><br>a) होम टैब के पैराग्राफ ग्रुप में लाइन एड पैरा ं ग्राफ स्पेसिंग कमांड पर क्लि क कीजिए।<br>b) ड्रॉप-डाउन मेनू से वांछित स्पेसिंग विकल्प का चयन कीजिए।<br>c) फ़ॉर्मेट किये जाने वाले टेक्स्ट का चयन कीजिए।",
+    "options": [
+      "1. c, a, b",
+      "2. a, b, c",
+      "3. c, b, a",
+      "4. a, c, b"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In Excel, _______ is/are used to add a note or explain a formula in a cell.",
+    "options": [
+      "1. Comments",
+      "2. Show Ink",
+      "3. Insertions and Deletions",
+      "4. Markup area highlight"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Excel में, _________ का उपयोग किसी सेल में नोट्स जोड़ने या सूत्र की व्याख्या करने के लिए किया जाता है।",
+    "options": [
+      "1. कमेंट्स",
+      "2. शो इंक",
+      "3. इंसर्शन एंड डिलीशन",
+      "4. मार्क अप एरिया हाईलाइट"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Microsoft Excel file is saved with the ______ file extension.",
+    "options": [
+      "1. .xlsx",
+      "2. .bmp",
+      "3. .docx",
+      "4. .pptx"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Microsoft Excel फाइल को, ______ फाइल एक्स टेंशन के साथ सेव किया जाता है।",
+    "options": [
+      "1. .xlsx",
+      "2. .bmp",
+      "3. .docx",
+      "4. .pptx"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In Mail Merge, ________ contains all the variable information in the form of fields.",
+    "options": [
+      "1. envelope",
+      "2. form label",
+      "3. address book",
+      "4. main document"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "मेल मर्ज (Mail Merge) में, सभी परिवर्तनीय जानकारियां फील्ड के रूप में, ________ में मौजूद होती हैं।",
+    "options": [
+      "1. एनवलप",
+      "2. फॉर्म लेबल",
+      "3. एड्रेस बुक",
+      "4. मेन डॉक्यूमेंट"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The first page that you visit in a website is called the ________ page.",
+    "options": [
+      "1. Middle",
+      "2. Last",
+      "3. Home",
+      "4. Master"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "किसी वेबसाइट का पहला पेज क्या कहलाता है?",
+    "options": [
+      "1. मध्य पेज",
+      "2. अंतिम पेज",
+      "3. होम पेज",
+      "4. मास्टर पेज"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Identify the statement that is False for symmetric DSL",
+    "options": [
+      "1. They have the same download and upload rates.",
+      "2. There are no internet bottlenecks.",
+      "3. You can upload file and update at the same time.",
+      "4. These connections are almost always less expensive."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "उस कथन को पहचानें जो सममित DSL के लिए गलत है।",
+    "options": [
+      "1. उनकी डाउनलोड और अपलोड दरें समान हैं।",
+      "2. इंटरनेट की कोई बाधा नहीं है.",
+      "3. आप एक ही समय मेंफ़ाइल अपलोड और अपडेट कर सकते हैं।",
+      "4. ये कनेक्शन लगभग हमेशा कम महंगे होते हैं।"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which keyboard shortcut is used to hide and unhide the ribbon in Microsoft Excel?",
+    "options": [
+      "1. Ctrl + F5",
+      "2. Ctrl + F1",
+      "3. Alt + F4",
+      "4. Alt + F9"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Microsoft Excel में रिबन को छिपाने और दर्शाने के लिए निम्न में से किस की-बोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Ctrl + F5",
+      "2. Ctrl + F1",
+      "3. Alt + F4",
+      "4. Alt + F9"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In Microsoft Excel, the keyboard shortcut ______ inserts a new row.",
+    "options": [
+      "1. Alt + R",
+      "2. Ctrl + Shift + +",
+      "3. Ctrl + Shift + R",
+      "4. Ctrl + Alt + N"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Microsoft Excel में, एक नई रो ऐड करने के लिए निम्न में से किस की-बोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Alt + R",
+      "2. Ctrl + Shift + +",
+      "3. Ctrl + Shift + R",
+      "4. Ctrl + Alt + N"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ chart in Microsoft Excel plots two groups of numbers as one series of XY coordinates.",
+    "options": [
+      "1. An area",
+      "2. A pie",
+      "3. A scatter",
+      "4. A stock"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Microsoft Excel का ______ चार्ट, संख्याओं के दो समूहों को XY निर्देशांकों की एक शृंखला के रूप में प्लॉट करता है।",
+    "options": [
+      "1. एरिया",
+      "2. पाई",
+      "3. स्कैटर",
+      "4. स्टॉक"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is NOT a chart element in Microsoft Excel?",
+    "options": [
+      "1. Axis titles",
+      "2. Data labels",
+      "3. Error bars",
+      "4. Progress marker"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा Microsoft Excel का एक चार्ट एलिमेंट नहीं है?",
+    "options": [
+      "1. एक्सिस टाइटल्स",
+      "2. डेटा लेबल्स",
+      "3. एरर बार्स",
+      "4. प्रोग्रेस मार्कर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In Microsoft Excel, to replace a word with another word, selected from a list of words with the same meaning, the ______ option may be used.",
+    "options": [
+      "1. Language",
+      "2. Spelling and Grammar",
+      "3. Thesaurus",
+      "4. Translate"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Microsoft Excel में, समान अर्थ वाले शब्दों की सूची से चुने गए किसी शब्द को दूसरे शब्द से बदलने के लिए, ______ विकल्प का उपयोग किया जा सकता है।",
+    "options": [
+      "1. लैंग्वेज",
+      "2. स्पेलिंग एंड ग्रामर",
+      "3. थिसॉरस",
+      "4. ट्रांसलेट"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "To convert a Microsoft Excel file to CSV format, which of the following steps must be taken?",
+    "options": [
+      "1. File --> Export",
+      "2. File --> Import",
+      "3. File --> Save",
+      "4. File --> Save As"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Microsoft Excel फ़ाइल को CSV फॉर्मेट में परिवर्तित करने के लिए निम्नलिखित में से किन चरणों का उपयोग किया जाना चाहिए?",
+    "options": [
+      "1. फाइल -> एक्सपोर्ट",
+      "2. फाइल -> इम्पोर्ट",
+      "3. फ़ाइल -> सेव",
+      "4. फ़ाइल -> सेव एज़"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In Microsoft Excel, a ______ is a special graphic object that includes text within a rectangular graphic object.",
+    "options": [
+      "1. Clip Art",
+      "2. Gridline",
+      "3. Text Box",
+      "4. Word Art"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "___________, MS-Excel का एक विशेष ग्राफिक ऑब्जेक्ट है जिसमें एक आयताकार ग्राफिक ऑब्जेक्ट के भीतर टेक्स्ट शामिल होता है।",
+    "options": [
+      "1. क्लिप आर्ट",
+      "2. ग्रिडलाइन",
+      "3. टेक्स्ट बॉक्स",
+      "4. वर्ड आर्ट"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "To freeze an area of cells in a Microsoft Excel worksheet, the ______ option may be used.",
+    "options": [
+      "1. Freeze Block",
+      "2. Freeze Cells",
+      "3. Freeze Panes",
+      "4. Freeze Table"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Microsoft Excel वर्कशीट में, सेल के किसी क्षेत्र को फ्रीज करने के लिए, ______ विकल्प का उपयोग किया जा सकता है।",
+    "options": [
+      "1. फ्रीज़ ब्लॉक",
+      "2. फ्रीज़ सेल्स",
+      "3. फ्रीज़ पैन्स",
+      "4. फ्रीज़ टेबल"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In Microsoft Excel, the ______ error may occur when a function name is spelt incorrectly.",
+    "options": [
+      "1. #NAME?",
+      "2. #NULL!",
+      "3. #N/A",
+      "4. #REF!"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Microsoft Excel में, ______ एरर तब आता है, जब फ़ंक्शन के नाम की स्पेलिंग गलत हो जाती है।",
+    "options": [
+      "1. #NAME?",
+      "2. #NULL!",
+      "3. #N/A",
+      "4. #REF!"
+    ],
+    "answer": 0
+  }
 ]
         
         };
