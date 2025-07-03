@@ -14586,6 +14586,1048 @@
     ],
     "answer": 0
   }
+],
+    "30th September 2023 - Shift1": [
+   {
+    "q": "______ contains buttons that provide quick access to frequently used commands.",
+    "options": [
+      "1. The Quick access toolbar",
+      "2. The Menu bar",
+      "3. A Window",
+      "4. The Find option"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_________ पर ऐसे बटन होते हैं जो बार-बार उपयोग में आने वाले कमांड का त्वरित एक्सेस प्रदान करते हैं।",
+    "options": [
+      "1. क्विक एक्सेस टूलबार",
+      "2. मेनू बार",
+      "3. विंडो",
+      "4. फाइंड विकल्प"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The ______ utility identifies non-essential files on the hard disk and erases them only when the user allows their erasure in Windows OS.",
+    "options": [
+      "1. File compression",
+      "2. Disk cleanup",
+      "3. Uninstall program",
+      "4. Backup"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ यूटिलिटी हार्ड डिस्क पर गैर-जरूरी फाइलों को पहचानती (खोज निकालती) है और तब उन्हें इरेज़ कर देती है, जब उपयोगकर्ता विंडोज ओएस उन्हें इरेज़ करने की अनुमति दें।",
+    "options": [
+      "1. फाइल कम्प्रेशन",
+      "2. डिस्क क्लीनअप",
+      "3. अनइंस्टाल प्रोग्राम",
+      "4. बैकअप"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a primary memory?",
+    "options": [
+      "1. Hard disk",
+      "2. CD",
+      "3. RAM",
+      "4. Pen drive"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सी एक प्राथमिक मेमोरी है?",
+    "options": [
+      "1. हार्ड डिस्क",
+      "2. CD",
+      "3. RAM",
+      "4. पेन ड्राइव"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following are the two main components of a microprocessor?",
+    "options": [
+      "1. Slots and SMPS",
+      "2. Control Unit and Arithmetic Logic Unit",
+      "3. Mouse and keyboard",
+      "4. ASCII and EBCDIC"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्न में से कौन-से, माइक्रोप्रोसेसर के दो मुख्य कंपोनेंट्स हैं?",
+    "options": [
+      "1. स्लॉट्स और SMPS",
+      "2. कंट्रोल यूनिट और अर्थमेटिक लॉजिक यूनिट",
+      "3. माउस और कीबोर्ड",
+      "4. ASCII और EBCDIC"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a web server?",
+    "options": [
+      "1. Perl",
+      "2. Fedora",
+      "3. Lucene",
+      "4. Apache"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, एक वेब सर्वर है?",
+    "options": [
+      "1. पर्ल",
+      "2. फेडोरा",
+      "3. ल्युसीन",
+      "4. अपाचे"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The Autocorrect option is available in the _______ tab of OpenOffice Writer.",
+    "options": [
+      "1. Edit",
+      "2. Tools",
+      "3. Help",
+      "4. Insert"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ओपन ऑफिस राइटर (open office writer) के किस टैब में ऑटो करेक्ट (Autocorrect) विकल्प उपलब्ध है?",
+    "options": [
+      "1. एडिट (Edit)",
+      "2. टूल्स (Tools)",
+      "3. हेल्प (Help)",
+      "4. इन्स र्ट (Insert)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A ______ is used to digitise pictures or documents and present it on a computer screen.",
+    "options": [
+      "1. printer",
+      "2. keyboard",
+      "3. scanner",
+      "4. plotter"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एक ________ का उपयोग चित्रों या दस्तावेजों को डिजिटाइज़ करने हेतु और इसे कंप्यूटर स्क्रीन पर प्रस्तुत करने के लिए किया जाता है।",
+    "options": [
+      "1. प्रिंटर",
+      "2. कीबोर्ड",
+      "3. स्कैनर",
+      "4. प्लॉटर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following access methods is used in magnetic tapes?",
+    "options": [
+      "1. Object access",
+      "2. Portable access",
+      "3. Sequential access",
+      "4. Direct access"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से किस एक्सेस विधि का उपयोग चुंबकीय टेप में किया जाता है?",
+    "options": [
+      "1. ऑब्जेक्ट एक्सेस",
+      "2. पोर्टेबल एक्सेस",
+      "3. सिक्वेन्शियल एक्सेस",
+      "4. डायरेक्ट एक्सेस"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is NOT a part of the CPU?",
+    "options": [
+      "1. Memory Unit",
+      "2. Arithmetic Logic Unit",
+      "3. Visual Display Unit",
+      "4. Control Unit"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्न में से कौन-सा, सीपीयू (CPU) का एक भाग नहीं है?",
+    "options": [
+      "1. मेमोरी यूनिट",
+      "2. अरिथमेटिक लॉजिक यूनिट",
+      "3. विज़ुअल डिस्प्ले यूनिट",
+      "4. कंट्रोल यूनिट"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following commands must be typed into the Start Search box to launch Problem Steps Recorder in Windows 7?",
+    "options": [
+      "1. psr.exe",
+      "2. probstprecd",
+      "3. winpsr",
+      "4. psr.open"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Windows 7 में प्रॉब्लेम स्‍टेप्‍स रिकॉर्डर को लॉन्च करने के लिए स्टार्ट सर्च बॉक्स में किस कमांड को टाइप किया जाना चाहिए?",
+    "options": [
+      "1. psr.exe",
+      "2. probstprecd",
+      "3. winpsr",
+      "4. psr.open"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which semiconductor device does an LED printer use?",
+    "options": [
+      "1. Piezoelectric crystal",
+      "2. Light Emitting Diode",
+      "3. Light Emitting Device",
+      "4. Liquid Crystal Device"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "LED प्रिंटर किस सेमीकंडक्टर डिवाइस का उपयोग करता है?",
+    "options": [
+      "1. पिइज़ोइलेक्ट्रिक क्रिस्टल",
+      "2. प्रकाश उत्सर्जक डायोड",
+      "3. प्रकाश उत्सर्जक डिवाइस",
+      "4. तरल क्रिस्टल डिवाइस"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A barcode is used to ______ information in a visual pattern readable by a machine.",
+    "options": [
+      "1. decode",
+      "2. encode",
+      "3. compress",
+      "4. decrypt"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "बारकोड का उपयोग, किसी मशीन द्वारा पठनीय दृश्य पैटर्न में किसी सूचना को ______ करने हेतु किया जाता है।",
+    "options": [
+      "1. डीकोड",
+      "2. एनकोड",
+      "3. कंप्रेस",
+      "4. डिक्रिप्ट"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following features is NOT supported by a biometric sensor system?",
+    "options": [
+      "1. Access control",
+      "2. Spam mail",
+      "3. Authentication",
+      "4. Identification"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "बायोमेट्रिक सेंसर प्रणाली निम्न में से किस विशेषता (features) को सपोर्ट नहीं करती है?",
+    "options": [
+      "1. एक्सेस कंट्रोल",
+      "2. स्पैम मेल",
+      "3. प्रमाणीकरण (ऑथेंटिकेशन)",
+      "4. अभिनिर्धारण (आइडेंटिफिकेशन)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is NOT a utility software?",
+    "options": [
+      "1. Disk defragmenter",
+      "2. Backup software",
+      "3. Firmware",
+      "4. Virus scanning software"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, एक उपयोगिता (यूटिलिटी) सॉफ्टवेयर नहीं है?",
+    "options": [
+      "1. डिस्क डीफ़्रेग्मेंटर",
+      "2. बैकअप सॉफ़्टवेयर",
+      "3. फर्मवेयर",
+      "4. वायरस स्कैनिंग सॉफ़्टवेयर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "If you set up a worksheet with row or column headings, these headings will not be visible when you scroll down or to the right.<br>MS Excel 2019 provides a handy solution to this problem with ______ panes.",
+    "options": [
+      "1. squeezing",
+      "2. closing",
+      "3. blocking",
+      "4. freeze"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "यदि आप पंक्ति या स्तंभ शीर्षकों के साथ एक कार्यपत्रक सेट करते हैं, तो ये शीर्षक नीचे या दाईं ओर स्क्रॉल करने पर दिखाई नहीं देंगे। एमएस एक्सेल 2019 ______ पैन के साथ इस समस्या का आसान समाधान प्रदान करता है।",
+    "options": [
+      "1. स्क्वीज़िंग (squeezing)",
+      "2. क्लोजिंग (closing)",
+      "3. ब्लॉकिंग (blocking)",
+      "4. फ्रीज (freeze)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "_______ refers to hacking or deception that imitates another person, software program, hardware device, or computer to bypass security measures.",
+    "options": [
+      "1. Access",
+      "2. Virus",
+      "3. Spoof",
+      "4. Firewall"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "______________ हैकिंग या धोखे को संदर्भित करता है जो सुरक्षा उपायों को बायपास करने के लिए किसी अन्य व्यक्ति, सॉफ्टवेयर प्रोग्राम, हार्डवेयर डिवाइस या कंप्यूटर की नकल करता है।",
+    "options": [
+      "1. पहुँच (एक्सेस)",
+      "2. वायरस",
+      "3. स्पूफ़",
+      "4. फ़ायरवॉल"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Printer resolution is measured in:",
+    "options": [
+      "1. DPI",
+      "2. GPU",
+      "3. CPU",
+      "4. MPI"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "प्रिंटर के रिज़ॉल्यूशन को किसमें मापा जाता है?",
+    "options": [
+      "1. डीपीआई (DPI)",
+      "2. जीपीयू (GPU)",
+      "3. सीपीयू (CPU)",
+      "4. एमपीआई (MPI)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The powdered black ink used by laser printers is called ______ cartridge.",
+    "options": [
+      "1. ink",
+      "2. toner",
+      "3. mixed",
+      "4. primary"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "लेजर प्रिंटर द्वारा उपयोग की जाने वाली पाउडरमय काली स्याही को _____ कार्ट्रिज कहा जाता है।",
+    "options": [
+      "1. इंक",
+      "2. टोनर",
+      "3. मिक्स्ड",
+      "4. प्राइमरी"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is character printer?",
+    "options": [
+      "1. Dot matrix",
+      "2. chain",
+      "3. band",
+      "4. laser"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा करैक्टर प्रिंटर है ?",
+    "options": [
+      "1. डॉट मैट्रिक्स",
+      "2. चैन",
+      "3. बैंड",
+      "4. लेज़र"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following domain names is used by commercial businesses?",
+    "options": [
+      "1. .net",
+      "2. .org",
+      "3. .com",
+      "4. .edu"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्न में से कौन-सा डोमेन नाम व्यावसायिक व्यवसायों द्वारा उपयोग किया जाता है?",
+    "options": [
+      "1. .net",
+      "2. .org",
+      "3. .com",
+      "4. .edu"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is the earliest known device that recorded sound from the air?",
+    "options": [
+      "1. Magnetic tape recorder",
+      "2. Radio",
+      "3. Voice recorder",
+      "4. Phonautograph"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा सबसे पुराना ज्ञात उपकरण है जिसने हवा से ध्वनि रिकॉर्ड की?",
+    "options": [
+      "1. मैग्नेटिक टेप रिकॉर्डर",
+      "2. रेडियो",
+      "3. वॉइस रिकॉर्डर",
+      "4. फोनऑटोग्राफ (Phonautograph)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is NOT a network topology type?",
+    "options": [
+      "1. Star",
+      "2. Mesh",
+      "3. Ring",
+      "4. Plain"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, एक नेटवर्क टोपोलॉजी प्रकार नहीं है?",
+    "options": [
+      "1. स्टार (Star)",
+      "2. मेश (Mesh)",
+      "3. रिंग (Ring)",
+      "4. प्लेन (Plain)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What does PNG stand for?",
+    "options": [
+      "1. Portable Network Graphic",
+      "2. Personal Network Graphic",
+      "3. Private Network Graphic",
+      "4. Protected Network Graphic"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "PNG का पूर्णरूप क्या है?",
+    "options": [
+      "1. पोर्टेबल नेटवर्क ग्राफ़िक (Portable Network Graphic)",
+      "2. पर्सनल नेटवर्क ग्राफ़िक (Personal Network Graphic)",
+      "3. प्राइवेट नेटवर्क ग्राफ़िक (Private Network Graphic)",
+      "4. प्रोटेक्टेड नेटवर्क ग्राफ़िक (Protected Network Graphic)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is WPA?",
+    "options": [
+      "1. Wi-Fi Protected Access",
+      "2. Wired Protected Access",
+      "3. Wired Process Access",
+      "4. Wi-Fi Process Access"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "WPA का पूर्णरूप क्या है?",
+    "options": [
+      "1. wi-fi protected access (वाई-फ़ाई प्रोटेक्टेड एक्सेस)",
+      "2. wired protected access (वायर्ड प्रोटेक्टेड एक्सेस)",
+      "3. wired process access (वायर्ड प्रोसेस एक्सेस)",
+      "4. wi-fi process access (वाई-फ़ाई प्रोसेस एक्सेस)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The operating speed of a printer is usually calculated as ___________.",
+    "options": [
+      "1. pages per minute",
+      "2. dots per inch",
+      "3. dots per minute",
+      "4. blocks per inch"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "प्रिंटर की ऑपरेटिंग गति की गणना आमतौर पर ___________ के रूप में की जाती है।",
+    "options": [
+      "1. पृष्ठ प्रति मिनट",
+      "2. बिंदू प्रति इंच",
+      "3. बिंदू प्रति मिनट",
+      "4. ब्लॉक प्रति इंच"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The ______ is a signal emitted by hardware or software when a process or an event needs immediate attention",
+    "options": [
+      "1. alert",
+      "2. interrupt",
+      "3. alarm",
+      "4. noise"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "________ हार्डवेयर या सॉफ्ट वेयर द्वारा उत्सर्जित एक संकेत है जब किसी प्रोसेस या इवेन्ट पर तत्काल ध्यान देने की आवश्यकता होती है।",
+    "options": [
+      "1. अलर्ट (alert)",
+      "2. इंटरप्ट (interrupt)",
+      "3. अलार्म (alarm)",
+      "4. नॉइज़ (noise)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Triple DES systems are ______ than single DES, but _______ than single DES.",
+    "options": [
+      "1. secure, slower",
+      "2. unsecure, faster",
+      "3. secure, faster",
+      "4. unsecure, slower"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "ट्रिपल डीईएस (DES) सिस्टम सिंगल डीईएस (DES) की तुलना में ______ हैं, लेकिन सिंगल डीईएस (DES) की तुलना में _______ हैं।",
+    "options": [
+      "1. सुरक्षित, धीमा",
+      "2. असुरक्षित, तेज",
+      "3. सुरक्षित, तेज",
+      "4. असुरक्षित, धीमा"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following statements is NOT true?",
+    "options": [
+      "1. An operating system (OS) is a collection of software.",
+      "2. The operating system is an essential component of the system software in a computer system.",
+      "3. Application programs usually require an operating system to function.",
+      "4. An operating system is an optional component of a computer system."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित कथनों में से कौन-सा, सत्य नहीं है?",
+    "options": [
+      "1. कोई भी ऑपरेटिंग सिस्टम (OS) सॉफ़्टवेयर का एक संग्रह होता है।",
+      "2. ऑपरेटिंग सिस्टम किसी कंप्यूटर सिस्टम मेंसिस्टम सॉफ़्टवेयर का एक आवश्यक घटक होता है।",
+      "3. एप्लिकेशन प्रोग्राम को कार्य करने के लिए आमतौर पर एक ऑपरेटिंग सिस्टम की आवश्यकता होती है।",
+      "4. ऑपरेटिंग सिस्टम किसी कंप्यूटर का एक वैकल्पि क घटक होता है।"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Static bypass system:",
+    "options": [
+      "1. transfers the load to the AC power if the inverter system fails.",
+      "2. transfers the load to the DC power if the inverter system fails.",
+      "3. transfers the load to the AC power if the inverter system is working.",
+      "4. transfers the load to the DC power if the inverter system is working."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "\"स्टेटिक बाईपास\" प्रणाली क्या करती है?",
+    "options": [
+      "1. इन्वर्टर सिस्टम विफल होने पर लोड को AC पावर में स्थानांतरित करती है।",
+      "2. इन्वर्टर सिस्टम विफल होने पर लोड को DC पावर में स्थानांतरित करती है।",
+      "3. इन्वर्टर सिस्टम काम कर रहा है तो लोड को AC पावर में स्थानांतरित करती है।",
+      "4. इन्वर्टर सिस्टम काम कर रहा है तो लोड को DC पावर में स्थानांतरित करती है।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Blackouts are:",
+    "options": [
+      "1. total power failure",
+      "2. short-term decreases in voltage",
+      "3. long-term increase in voltage",
+      "4. also called surges"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "ब्लैक आउट्स क्या हैं?",
+    "options": [
+      "1. कुल विद्युत विफलता",
+      "2. वोल्टेज में अल्पकालिक कमी",
+      "3. वोल्टेज में दीर्घकालिक वृद्धि",
+      "4. इसे सर्ज के रूप में भी जाना जाता है।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT a purpose of the Internet?",
+    "options": [
+      "1. For downloading songs online",
+      "2. For creating a folder on the desktop",
+      "3. For watching television programmes online",
+      "4. For purchasing mobile phones"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा इंटरनेट का उद्देश्य नहीं है?",
+    "options": [
+      "1. गीतों को ऑनलाइन डाउनलोड करने के लिए",
+      "2. डेस्कटॉप पर फोल्डर बनाने के लिए",
+      "3. टेलीविजन कार्यक्रम ऑनलाइन देखने के लिए",
+      "4. मोबाइल फोन खरीदने के लिए"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ is a software program that searches documents and files for keywords and returns the results of any file containing those keywords.",
+    "options": [
+      "1. A search engine",
+      "2. A URL locator",
+      "3. An index page",
+      "4. Facebook"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ एक सॉफ्टवेयर प्रोग्राम है जो डॉक्युमेंट्स और फाइलों की खोज किसी कीवर्ड से करता है और परिणामस्वरूप उन कीवर्ड वाली किसी भी फाइल को दर्शाता है।",
+    "options": [
+      "1. एक सर्च इंजन",
+      "2. एक URL लोकेटर",
+      "3. एक इंडेक्स पेज",
+      "4. फेसबुक"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "How many main models of cloud computing are available?",
+    "options": [
+      "1. One",
+      "2. Two",
+      "3. Three",
+      "4. Four"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "क्लाउड कंप्यूटिंग के कितने मुख्य मॉडल उपलब्ध हैं?",
+    "options": [
+      "1. एक",
+      "2. दो",
+      "3. तीन",
+      "4. चार"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Video and audio recordings can now be streamed on-the-go using ______.",
+    "options": [
+      "1. Wikis",
+      "2. Mobile computing",
+      "3. Webmasters",
+      "4. Mash-ups"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "वीडियो और ऑडियो रिकॉर्डिंग को अब ______ का उपयोग करके चलते-फिरते स्ट्रीम किया जा सकता है।",
+    "options": [
+      "1. विकिस",
+      "2. मोबाइल कंप्यूटिंग",
+      "3. वेबमास्टर्स",
+      "4. मैश-अप्स"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following keyboard shortcuts is used to change lowercase letters to uppercase letters in Microsoft Word 2019?",
+    "options": [
+      "1. Alt + F3",
+      "2. Ctrl + F3",
+      "3. Shift + F3",
+      "4. Alt + Shift + F3"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "माइक्रोसॉफ्ट Word 2019 में, निम्न में से कौन-सा कीबोर्ड शॉर्टकट लोअरकेस अक्षरों को अपरकेस अक्षरों में बदलने के लिए उपयोग किया जाता है?",
+    "options": [
+      "1. Alt + F3",
+      "2. Ctrl + F3",
+      "3. Shift + F3",
+      "4. Alt + Shift + F3"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Microsoft Word 2019 allows you to record all changes electronically using the ______ feature.",
+    "options": [
+      "1. Track Changes",
+      "2. Editor",
+      "3. Spellcheck",
+      "4. Thesaurus"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "माइक्रोसॉफ्ट Word 2019 आपको ______ फीचर का उपयोग करके सभी परिवर्तनों को इलेक्ट्रॉनिक रूप से रिकॉर्ड करने की अनुमति देता है।",
+    "options": [
+      "1. ट्रैक चेंजिस",
+      "2. एडिटर",
+      "3. स्पेलचेक",
+      "4. थिसॉरस"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The full form of BIOS is ______.",
+    "options": [
+      "1. Beginner In Out System",
+      "2. Basic Input Output System",
+      "3. Basic In Out System",
+      "4. Beginner Input Output System"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "BIOS का पूर्णरूप क्या है?",
+    "options": [
+      "1. Beginner In Out System (बिगिनर इन आउट सिस्टम)",
+      "2. Basic Input Output System (बेसिक इनपुट आउटपुट सिस्टम)",
+      "3. Basic In Out System (बेसिक इन आउट सिस्टम)",
+      "4. Beginner Input Output System (बिगिनर इनपुट आउटपुट सिस्टम)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In Microsoft Word 2019, the Spelling and Grammar feature is available under __________ tab.",
+    "options": [
+      "1. File",
+      "2. Home",
+      "3. Insert",
+      "4. Review"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "माइक्रोसॉफ्ट Word 2019 में, स्पेलिंग और ग्रामर फीचर ______ टैब के अंतर्गत उपलब्ध है।",
+    "options": [
+      "1. फाइल (File)",
+      "2. होम (Home)",
+      "3. इंसर्ट (Insert)",
+      "4. रिव्यू (Review)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is the address of the cell at the intersection of the third column and sixth row in Microsoft Excel?",
+    "options": [
+      "1. D6",
+      "2. A6",
+      "3. F3",
+      "4. C6"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "माइक्रोसॉफ्ट Excel में तीसरी कॉलम और छठी पंक्ति (रॉ) के प्रतिच्छेदन पर सेल का पता (एड्रेस) क्या होता है?",
+    "options": [
+      "1. D6",
+      "2. A6",
+      "3. F3",
+      "4. C6"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A domain name is the ________ where internet users can access your website.",
+    "options": [
+      "1. host",
+      "2. address",
+      "3. post",
+      "4. port"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक डोमेन नाम वह ________ है जहां इंटरनेट उपयोगकर्ता आपकी वेबसाइट का एक्सेस प्राप्त कर सकते हैं।",
+    "options": [
+      "1. होस्ट",
+      "2. एड्रेस",
+      "3. पोस्ट",
+      "4. पोर्ट"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following should come under dont's for naming a file?",
+    "options": [
+      "1. Include version numbers",
+      "2. Be cryptic",
+      "3. Be consistent",
+      "4. Be short"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "फाइल का नामकरण करने के लिए निम्न में से कौन-सा ‘’don’ts’’ के तहत आना चाहिए?",
+    "options": [
+      "1. संस्करण संख्या शामिल करें",
+      "2. क्रिप्‍टीक बनें (Be cryptic)",
+      "3. निरतंरता बनाए रखें",
+      "4. संक्षेप/शॉर्ट बनें (Be short)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following feature in MS-Word 2016 is used to change the color of the text in a document?",
+    "options": [
+      "1. Font Color",
+      "2. Text Highlight Color",
+      "3. Shading",
+      "4. Text Painter"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एमएस-वर्ड 2016 में निम्नलिखित में से किस विशेषता का उपयोग दस्तावेज़ में टेक्स्ट के रंग को बदलने के लिए किया जाता है?",
+    "options": [
+      "1. फॉण्ट कलर",
+      "2. टेक्स्ट हाईलाइट कलर",
+      "3. शेडिंग",
+      "4. टेक्स्ट पेंटर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The process of capitalising letters in escape sequences as shown in the example,<br>http.//www.example.com/a%c2%blb <br><br>to<br><br>http.//www.example.com/a%C2%B1b is known as:",
+    "options": [
+      "1. URL balancing",
+      "2. URL support",
+      "3. URL modification",
+      "4. URL normalization"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "दर्शाए गए उदाहरण के अनुसार, ऐस्केप क्रम में अक्षरों को बड़े (कैपिटल) अक्षरों में बदलने की प्रक्रिया को क्या कहा जाता है?<br> http.//www.example.com/a%c2%blb <br>से<br>http.//www.example.com/a%C2%B1b",
+    "options": [
+      "1. URL संतुलन",
+      "2. URL समर्थन",
+      "3. URL संशोधन",
+      "4. URL सामान्यीकरण"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The keyboard shortcut to display the Create Table dialog box in MS-Excel 2019 is _______.",
+    "options": [
+      "1. Alt + T",
+      "2. Ctrl + T",
+      "3. Ctrl + Alt + T",
+      "4. Shift + T"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 में क्रिएट टेबल डायलॉग बॉक्स प्रदर्शित करने के लिए कीबोर्ड शॉर्टकट _______ है।",
+    "options": [
+      "1. Alt + T",
+      "2. Ctrl + T",
+      "3. Ctrl + Alt + T",
+      "4. Shift + T"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "________ is the keyboard shortcut to activate AutoFilter in Microsoft Excel 2019.",
+    "options": [
+      "1. Ctrl + Shift + L",
+      "2. Ctrl + Shift + C",
+      "3. Ctrl + Shift + K",
+      "4. Ctrl + Shift + M"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "___________ माइक्रोसॉफ्ट एक्सेल 2019 में ऑटोफिल्टर को सक्रिय करने के लिए कीबोर्ड शॉर्टकट है।",
+    "options": [
+      "1. Ctrl + Shift + L",
+      "2. Ctrl + Shift + C",
+      "3. Ctrl + Shift + K",
+      "4. Ctrl + Shift + M"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In Microsoft Excel 2019, the ______ is a key that is used to identify the colours, patterns or symbols assigned to a data series in a chart.",
+    "options": [
+      "1. Data Series",
+      "2. Legend",
+      "3. Axes Titles",
+      "4. Mini Charts"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "माइक्रोसॉफ्ट Excel 2019 में, ______ एक कुंजी है जिसका उपयोग चार्ट में डेटा श्रृंखला को एसाइन किए गए रंगों, पैटर्न या प्रतीकों की पहचान करने के लिए किया जाता है।",
+    "options": [
+      "1. डेटा सीरीज़ (Data Series)",
+      "2. लीगेंड (Legend)",
+      "3. एक्सिस टाइटल (Axes Titles)",
+      "4. मिनी चार्ट्स (Mini Charts)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ is the process of arranging data in a definite sequence based on a criterion or criteria in Microsoft Excel 2019.",
+    "options": [
+      "1. Sorting",
+      "2. Filtering",
+      "3. Sequencing",
+      "4. Saving"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "________, माइक्रोसॉफ्ट Excel 2019 में किसी मानदंड या मापदंड के आधार पर डेटा को एक निश्चित क्रम में व्यवस्थित करने की प्रक्रिया है।",
+    "options": [
+      "1. सॉर्टिंग",
+      "2. फ़िल्टरिंग",
+      "3. सिक्वेंसिंग",
+      "4. सेविंग"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The keyboard shortcut ______ is used to close a workbook in Microsoft Excel 2019.",
+    "options": [
+      "1. Alt + C",
+      "2. Ctrl + C",
+      "3. Ctrl + O",
+      "4. Ctrl + W"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel 2019 में, कौन-सा कीबोर्ड शॉर्टकट वर्कबुक को बंद करने के लिए उपयोग किया जाता है?",
+    "options": [
+      "1. Alt + C",
+      "2. Ctrl + C",
+      "3. Ctrl + O",
+      "4. Ctrl + W"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In Microsoft Excel 2019, the keyboard shortcut ‘Ctrl + 9’ is used to __________.",
+    "options": [
+      "1. delete the ninth row",
+      "2. hide the selected row",
+      "3. insert a column after the ninth column",
+      "4. unhide the selected column"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 में, कीबोर्ड शॉर्टकट 'Ctrl + 9' का उपयोग ______ के लिए किया जाता है।",
+    "options": [
+      "1. नौवीं पंक्ति (रॉ) को डिलीट करने",
+      "2. चयनित पंक्ति छुपाने (हाईड) करने",
+      "3. नौवें कॉलम के बाद एक कॉलम इन्सर्ट करने",
+      "4. चयनित कॉलम को अनहाइड करने"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A spreadsheet is made up of many small rectangles which are called ______.",
+    "options": [
+      "1. sheets",
+      "2. cells",
+      "3. series",
+      "4. applications"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक स्प्रेडशीट, कई छोटे आयतों से बनी होती है जिन्हें ______ कहा जाता है।",
+    "options": [
+      "1. शीट",
+      "2. सेल",
+      "3. सीरीज़",
+      "4. एप्लिकेशन"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The rightmost column in a Microsoft Excel 2019 worksheet is ______.",
+    "options": [
+      "1. FFZ",
+      "2. XFD",
+      "3. YYZ",
+      "4. ZZZ"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 वर्कशीट में सबसे दाहिना कॉलम ______ होता है।",
+    "options": [
+      "1. FFZ",
+      "2. XFD",
+      "3. YYZ",
+      "4. ZZZ"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In Microsoft Excel 2016, ______ alignment option is applicable in a cell only if the cell is formatted as wrapped text and uses more than one line.",
+    "options": [
+      "1. Center",
+      "2. Justify",
+      "3. Left",
+      "4. Right"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2016 में, ______ अलाइनमेंट विकल्प किसी सेल में तभी लागू होता है जब सेल को रैप्ड टेक्स्ट (wrapped text) के रूप में फॉर्मेट किया जाता है और सेल एक से अधिक लाइन का उपयोग करती है।",
+    "options": [
+      "1. सेंटर",
+      "2. जस्टिफाई",
+      "3. लेफ्ट",
+      "4. राइट"
+    ],
+    "answer": 1
+  }
 ]
         
         };
