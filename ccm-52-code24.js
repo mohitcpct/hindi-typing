@@ -16671,7 +16671,7 @@
     "answer": 2
   }
 ],
-  "21st September 2023 - Shift1": [
+  "21st July 2023 - Shift1": [
   {
     "q": "The term 'operating system' means:",
     "options": [
@@ -17713,7 +17713,7 @@
     "answer": 0
   }
 ],
-  "21st September 2023 - Shift2": [
+  "21st July 2023 - Shift2": [
   {
     "q": "Windows NT वर्कस्टेशन पर किस समूह को स्वामित्व लेने का अधिकार है?",
     "options": [
