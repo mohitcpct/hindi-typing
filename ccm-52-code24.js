@@ -16670,6 +16670,1048 @@
     ],
     "answer": 2
   }
+],
+  "21st September 2023 - Shift1": [
+  {
+    "q": "The term 'operating system' means:",
+    "options": [
+      "1. a set of programs which controls the working of a computer",
+      "2. the way a computer operator works",
+      "3. conversion of high-level language into machine level language",
+      "4. the way a floppy disk drive operates"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "शब्द 'ऑपरेटिंग सिस्टम (operating system)' का क्या अर्थ है?",
+    "options": [
+      "1. प्रोग्राम का एक सेट जो कंप्यूटर की कार्यविधि को नियंत्रित करता है।",
+      "2. वह तरीका जिससे कंप्यूटर ऑपरेटर कार्य करता है।",
+      "3. उच्च स्तरीय भाषा को मशीन की भाषा में परिवर्तित करना।",
+      "4. वह तरीका जिससे फ्लॉपी डिस्क कार्य करती है।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ appears at the bottom of an MS-Excel worksheet.",
+    "options": [
+      "1. Status bar",
+      "2. Name box",
+      "3. Formula bar",
+      "4. Title bar"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______, MS-Excel वर्कशिट के नीचे (तल पर) दिखाई देता है।",
+    "options": [
+      "1. स्टेटस बार",
+      "2. नेम बॉक्स",
+      "3. फॉर्म्यूला बार",
+      "4. टाइटल बार"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which directory is responsible for resource allocation in Linux?",
+    "options": [
+      "1. /usr",
+      "2. /dev",
+      "3. /etc",
+      "4. /kernel"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Linux में संसाधन आवंटन (resource allocation) के लिए कौन-सी डायरेक्ट री जिम्मेदार है?",
+    "options": [
+      "1. /usr",
+      "2. /dev",
+      "3. /etc",
+      "4. /kernel"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In computing, output devices are used to:",
+    "options": [
+      "1. view or print data",
+      "2. input data",
+      "3. scan data",
+      "4. store data"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कंप्यूटिंग में, आउटपुट डिवाइस का उपयोग किसलिए करते हैं ?",
+    "options": [
+      "1. डेटा देखने या प्रिंट करने के लिए",
+      "2. डेटा इनपुट करने के लिए",
+      "3. डेटा स्कैन करने के लिए",
+      "4. डेटा स्टोर करने के लिए"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which function returns the k-th largest value in a data set in MS-Excel?",
+    "options": [
+      "1. KLARGE function",
+      "2. LARGEVAL function",
+      "3. LARGE function",
+      "4. VALLARGE function"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel में, डेटा सेट में कौन-सा फ़ंक्शन k-वां सबसे बड़ा मान लौटाता है?",
+    "options": [
+      "1. KLARGE फंक्शन",
+      "2. LARGEVAL फंक्शन",
+      "3. LARGE फंक्शन",
+      "4. VALLARGE फंक्शन"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following errors is related to memory error?",
+    "options": [
+      "1. RTC error",
+      "2. Syntax error",
+      "3. Parity error",
+      "4. Logical error"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सी त्रुटि, मेमोरी त्रुटि से संबंधित है?",
+    "options": [
+      "1. RTC त्रुटि",
+      "2. वाक्य रचना (सिंटेक्स ) त्रुटि",
+      "3. समता (पैरिटी) त्रुटि",
+      "4. तार्किक (लॉजिकल) त्रुटि"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The ______ is controlled by a mouse and changes shape depending upon its current function.",
+    "options": [
+      "1. icon",
+      "2. menu",
+      "3. screen",
+      "4. pointer"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "______ को एक माउस द्वारा नियंत्रित किया जाता है और जो उसके मौजूदा फ़ंक्शन के आधार पर आकार बदलता है।",
+    "options": [
+      "1. आईकॉन",
+      "2. मेन्यू",
+      "3. स्क्रीन",
+      "4. पॉइंटर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "External devices can be connected to _________ through a port.",
+    "options": [
+      "1. keyboard",
+      "2. mouse",
+      "3. system unit",
+      "4. headphone"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एक पोर्ट के माध्यम से बाहरी उपकरणों को _________ से जोड़ा जा सकता है।",
+    "options": [
+      "1. कीबोर्ड",
+      "2. माउस",
+      "3. सिस्टम यूनिट",
+      "4. हैडफ़ोन"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "FAR and FRR refer to which of the following in the matching process of a biometric sensor?",
+    "options": [
+      "1. speed",
+      "2. efficiency",
+      "3. validity",
+      "4. errors"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "बायोमेट्रिक सेंसर की मिलान प्रक्रिया मेंFAR और FRR निम्नलिखित में से किसे संदर्भित करते हैं?",
+    "options": [
+      "1. चाल (speed)",
+      "2. दक्षता (efficiency)",
+      "3. वैधता (validity)",
+      "4. त्रुटि (errors)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is NOT a function of touchscreen input devices?",
+    "options": [
+      "1. Hover",
+      "2. Tap",
+      "3. Double-tap",
+      "4. Drag"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, टचस्क्रीन इनपुट डिवाइस का कार्य नहीं है?",
+    "options": [
+      "1. होवर (Hover)",
+      "2. टैप (Tap)",
+      "3. डबल-टैप (Double-tap)",
+      "4. ड्रेग (Drag)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following refers to the instruction processing speed of a computer measured in millions of cycles per second?",
+    "options": [
+      "1. Seek time",
+      "2. Baud rate",
+      "3. Access time",
+      "4. Clock rate"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, मिलियन चक्र प्रति सेकंड में मापी गई कंप्यूटर की निर्देश प्रसंस्करण गति (instruction processing speed) को संदर्भित करता है?",
+    "options": [
+      "1. सीक टाइम (Seek time)",
+      "2. बॉड रेट (Baud rate)",
+      "3. एक्सेस टाइम (Access time)",
+      "4. क्लॉक रेट (Clock rate)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The communication between a card and a card reader takes place through direct coupling. This leads to:",
+    "options": [
+      "1. portability",
+      "2. reliability",
+      "3. better speed",
+      "4. efficiency"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "डायरेक्ट कपलिंग का उपयोग करके कार्ड और कार्ड रीडर के बीच संचार किया जाता है। इससे क्या होता/होती है?",
+    "options": [
+      "1. सुवाह्यता (पोर्टेबिलिटी)",
+      "2. विश्वसनीयता (रिलाइबिलिटी)",
+      "3. बेहतर गति (बेटर स्पीड)",
+      "4. दक्षता (एफिशिएंसी)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The horizontal and vertical wires of RAND tablets operate as:",
+    "options": [
+      "1. transmitting and receiving coils",
+      "2. transmitting coils",
+      "3. positive and negative connectors",
+      "4. analog to digital converters"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "रैंड (RAND) टैबलेट के क्षैतिज और ऊर्ध्वाधर तार इस प्रकार काम करते हैं:",
+    "options": [
+      "1. संचरणकारी (transmitting) और प्राप्तकारी (receiving) कुंडली के रूप में",
+      "2. संचरणकारी (transmitting) कुंडली के रूप में",
+      "3. सकारात्मक और नकारात्मक कनेक्टर्स के रूप में",
+      "4. एनालोग से डिजिटल परिवर्तकों के रूप में"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is binary equivalent of given decimal number (109)10?",
+    "options": [
+      "1. 01101101",
+      "2. 0000 0011",
+      "3. 1111 1100",
+      "4. 111000"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "दी गई दशमलव संख्या (109)10 के द्विआधारी समतुल्य क्या है?",
+    "options": [
+      "1. 01101101",
+      "2. 0000 0011",
+      "3. 1111 1100",
+      "4. 111000"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is the base for the hexadecimal number system?",
+    "options": [
+      "1. 2",
+      "2. 8",
+      "3. 10",
+      "4. 16"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, हेक्साडेसिमल संख्या प्रणाली का आधार (base) है?",
+    "options": [
+      "1. 2",
+      "2. 8",
+      "3. 10",
+      "4. 16"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A(n) ______ may specify whether a user or a users group has the access to a file or a folder on that computer or network.",
+    "options": [
+      "1. account lockout threshold",
+      "2. access control list",
+      "3. reset account lockout",
+      "4. account lockout duration"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक ______ यह निर्दिष्ट कर सकता है कि उपयोगकर्ता या उपयोगकर्ता समूह की उस कंप्यूटर या नेटवर्क पर किसी फ़ाइल या फ़ोल्डर तक पहुँच होगी अथवा नहीं।",
+    "options": [
+      "1. अकाउंट लॉकआउट थ्रेशोल्ड",
+      "2. एक्सेस कंट्रोल लिस्ट",
+      "3. रीसेट अकाउंट लॉकआउट",
+      "4. खाता लॉकआउट अवधि"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A printer puts ______ and ______ on a paper.",
+    "options": [
+      "1. text; graphics",
+      "2. text; audio",
+      "3. text; video",
+      "4. graphics; audio"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "प्रिंटर, पेपर पर _____ और _____ अंकित करता है।",
+    "options": [
+      "1. टेक्स्ट; ग्राफ़िक्स",
+      "2. टेक्स्ट; ऑडियो",
+      "3. टेक्स्ट; विडियो",
+      "4. ग्राफ़िक्स ; ऑडियो"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Inkjet printers create images by spraying ______ onto a page.",
+    "options": [
+      "1. information",
+      "2. data",
+      "3. ink",
+      "4. toner"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "इंकजेट प्रिंटर पृष्ठ पर _____ स्प्रे करके चित्र बनाता है।",
+    "options": [
+      "1. इनफॉर्मेशन",
+      "2. डेटा",
+      "3. स्याही",
+      "4. टोनर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is an input device?",
+    "options": [
+      "1. Speaker",
+      "2. Word",
+      "3. Joystick",
+      "4. Printer"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा एक इनपुट डिवाइस है?",
+    "options": [
+      "1. स्पीकर",
+      "2. वर्ड",
+      "3. जॉयस्टिक",
+      "4. प्रिंटर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The sharpness of text and images on a paper is called as:",
+    "options": [
+      "1. printer resolution",
+      "2. printer font",
+      "3. printer speed",
+      "4. printer colour"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "पेपर पर टेक्स्ट और चित्रों की स्पष्टता निम्न में किसे संदर्भित करती है?",
+    "options": [
+      "1. प्रिंटर के रिजोल्यूशन",
+      "2. प्रिंटर के फ़ॉन्ट",
+      "3. प्रिंटर की गति",
+      "4. प्रिंटर के रंग"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Warm boot of PC is generally done by pressing:",
+    "options": [
+      "1. the power on button",
+      "2. F5 function key",
+      "3. F10 function key",
+      "4. ALT + CTRL + DEL together"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "पीसी (PC) को वार्म बूट करने के लिए सामान्यतः किसका उपयोग किया जाता है?",
+    "options": [
+      "1. पॉवर ऑन बटन",
+      "2. F5 फंक्शन की",
+      "3. F10 फंक्शन की",
+      "4. ALT + CTRL + DEL को एक साथ दबाकर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which printer sprays streams of quick drying ink for printing?",
+    "options": [
+      "1. Laser",
+      "2. Inkjet",
+      "3. 3D",
+      "4. LED"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कौन सा प्रिंटर मुद्रण के लिए तेजी से सूखने वाली स्याही को स्प्रे करता है?",
+    "options": [
+      "1. लेज़र",
+      "2. इंकजेट",
+      "3. 3D",
+      "4. LED"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a network topology type?",
+    "options": [
+      "1. Star",
+      "2. Wire",
+      "3. Chain",
+      "4. Coin"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से कौन सा नेटवर्क टोपोलॉजी का एक प्रकार है?",
+    "options": [
+      "1. स्टार",
+      "2. वायर",
+      "3. चेन",
+      "4. कॉइन"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ files are limited to just 256 colours.",
+    "options": [
+      "1. JPEG",
+      "2. BMP",
+      "3. GIF",
+      "4. PNG"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "______ फाइलों में केवल 256 रंग ही होते हैं।",
+    "options": [
+      "1. JPEG",
+      "2. BMP",
+      "3. GIF",
+      "4. PNG"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Snapdragon is a suite of system on a chip (SoC) semiconductor products for mobile devices designed and marketed by ______ Technologies Inc.",
+    "options": [
+      "1. Qualcomm",
+      "2. IIT Madras",
+      "3. Infosys",
+      "4. WIPRO"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "स्नैपड्रैगन (Snapdragon) ______ टेक्नोलॉजीज इंकॉर्पोरेटेड (Technologies Inc) द्वारा डिज़ाइन तथा विपणन किए गए मोबाइल उपकरणों के लिए एक सिस्टम ऑन चिप (SoC) सेमीकंडक्टर प्रोडक्ट्स की एक सुइट है।",
+    "options": [
+      "1. क्‍वालकॉम (Qualcomm)",
+      "2. आईआईटी मद्रास (IIT Madras)",
+      "3. इंफोसिस (Infosys)",
+      "4. विप्रो (WIPRO)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_____ cryptography schemes are generally categorised as being either stream ciphers or block ciphers.",
+    "options": [
+      "1. Symmetric Key Algorithm",
+      "2. Public Key Algorithm",
+      "3. Hash function",
+      "4. Popular Key Algorithm"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_____ क्रिप्टोग्राफी स्कीम को सामान्यतः स्ट्रीम सिफर या ब्लॉक सिफर के रूप में वर्गीकृत किया जाता है।",
+    "options": [
+      "1. सिमेट्रिक की एल्गोरिथम",
+      "2. पब्लिक की एल्गोरिथम",
+      "3. हैश फंक्शन",
+      "4. पॉपुलर की एल्गोरिथम"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which among the following is an example of a computer hardware?",
+    "options": [
+      "1. Compiler",
+      "2. Operating System",
+      "3. Motherboard",
+      "4. Disk Defragmenter"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, कंप्यूटर हार्डवेयर का एक उदाहरण है?",
+    "options": [
+      "1. संकलक (Compiler)",
+      "2. ऑपरेटिंग सिस्टम (Operating System)",
+      "3. मदरबोर्ड (Motherboard)",
+      "4. डिस्क डीफ़्रेग्मेंटर (Disk Defragmenter)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is NOT the communication system call of UNIX?",
+    "options": [
+      "1. pipe( )",
+      "2. shmget( )",
+      "3. mmap( )",
+      "4. sleep( )"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से कौन सा यूनिक्स (UNIX) का एक कम्युनिकेशन सिस्टम कॉल नहीं है?",
+    "options": [
+      "1. pipe( )",
+      "2. shmget( )",
+      "3. mmap( )",
+      "4. sleep( )"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "_______ is an unwanted electrical signal of high frequency from other equipment around.",
+    "options": [
+      "1. Noise",
+      "2. Voice",
+      "3. Sound",
+      "4. Sine wave"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ आसपास के अन्य उपकरणों से प्राप्त होने वाला उच्च आवृत्ति का एक अवांछित विद्युत संकेत है।",
+    "options": [
+      "1. शोर",
+      "2. आवाज़",
+      "3. ध्वनि",
+      "4. साइन वेव"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following way can be used to view your computer on a TV screen?",
+    "options": [
+      "1. Using wired or wireless mode",
+      "2. Using another CPU",
+      "3. Using another monitor",
+      "4. It is not possible"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "टीवी स्क्रीन पर अपने कंप्यूटर को देखने के लिए निम्नलिखित में से किस तरीके का उपयोग किया जा सकता है?",
+    "options": [
+      "1. वायर्ड या वायरलेस मोड का उपयोग करके",
+      "2. अन्य CPU का उपयोग करके",
+      "3. अन्य मॉनिटर का उपयोग करके",
+      "4. यह संभव नहीं है"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Every day, you receive email messages from an unknown sender. What is the term used for this type of security threat?",
+    "options": [
+      "1. Spam",
+      "2. Phishing",
+      "3. Hacking",
+      "4. Spoofing"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "हर दिन, आपको किसी अज्ञात प्रेषक से ईमेल संदेश प्राप्त होते हैं। इस प्रकार के सुरक्षा खतरे के लिए किस शब्द का प्रयोग किया जाता है?",
+    "options": [
+      "1. स्पैम",
+      "2. फिशिंग",
+      "3. हेकिंग",
+      "4. स्पूफ़िंग"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following options in Google drive is used to copy a file or document from a computer?",
+    "options": [
+      "1. Load",
+      "2. Upload",
+      "3. Transfer",
+      "4. Make a copy"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "गूगल ड्राइव में निम्न में से कौन-सा विकल्प , कंप्यूटर से किसी फ़ाइल या डोक्युमेंट को कॉपी करने के लिए उपयोग किया जाता है?",
+    "options": [
+      "1. लोड (Load)",
+      "2. अपलोड (Upload)",
+      "3. ट्रांसफर (Transfer)",
+      "4. मेक अ कॉपी (Make a copy)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is meant by a browser?",
+    "options": [
+      "1. It is a software which is used to browse source code.",
+      "2. It is an antivirus software.",
+      "3. It is a software that enables internet users to view web pages.",
+      "4. It is a security software."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "ब्राउज़र से क्या तात्पर्य है?",
+    "options": [
+      "1. यह एक सॉफ्टवेयर है जो स्रोत कोड ब्राउज़ करने के लिए उपयोग किया जाता है।",
+      "2. यह एक एंटीवायरस सॉफ़्टवेयर है।",
+      "3. यह एक ऐसा सॉफ्टवेयर है जो इंटरनेट उपयोगकर्ताओं को वेब पेज देखने में सक्षम बनाता है।",
+      "4. यह एक सुरक्षा सॉफ्टवेयर है।"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following software belongs to the category of shareware?",
+    "options": [
+      "1. Adobe Photoshop",
+      "2. Mozilla Firefox",
+      "3. Microsoft Office",
+      "4. Winzip"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा सॉफ्टवेयर शेयरवेयर की श्रेणी में आता है?",
+    "options": [
+      "1. एडोब फोटोशॉप (Adobe Photoshop)",
+      "2. मोज़िला फ़ायरफ़ॉक्स (Mozilla Firefox)",
+      "3. माइक्रोसॉफ्ट ऑफिस (Microsoft Office)",
+      "4. विनज़िप (Winzip)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A(n) ______ section break starts a new section on the following page in MS-Word.",
+    "options": [
+      "1. next page",
+      "2. continuous",
+      "3. even page",
+      "4. odd page"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एक ______ सेक्शन ब्रेक MS-Word में अनुगामी पेज पर एक नया सेक्शन शुरू करता है।",
+    "options": [
+      "1. नेक्स्ट पेज",
+      "2. कंटीन्यूअस",
+      "3. इवन पेज",
+      "4. ऑड पेज"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT a wild card character in Windows OS?",
+    "options": [
+      "1. ?",
+      "2. []",
+      "3. *",
+      "4. ^t"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से कौन-सा, विंडोज ओएस (OS) में वाइल्ड कार्ड कैरेक्टर नहीं है?",
+    "options": [
+      "1. ?",
+      "2. []",
+      "3. *",
+      "4. ^t"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Satheesh is working on an MS-Word document. When he types :(, autocorrect properly inserts a(n) ______ symbol.",
+    "options": [
+      "1. happy face",
+      "2. trademark",
+      "3. arrow",
+      "4. frowning face"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "सतीश एक MS-Word डोक्युमेंट पर काम कर रहा है, जब उसने दबाया :(, ऑटोकरेक्ट सही ढंग से ______ प्रतीक प्रविष्ट करता है।",
+    "options": [
+      "1. प्रसन्नचित्त चेहरा (हैप्पी फेस)",
+      "2. ट्रेडमार्क",
+      "3. तीर (एरो)",
+      "4. क्रोधित चेहरा (फ्राउनिंग फेस)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Satheesh is working on an MS-Word document. When he types :-, autocorrect properly inserts a(n) ______ symbol.",
+    "options": [
+      "1. frowning face",
+      "2. neutral face",
+      "3. arrow",
+      "4. happy face"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "सतीश MS-Word डोक्युमेंट पर काम कर रहा है। जब वह टाइप करता है :-, ऑटोकरेक्ट स्पष्ट रूप से एक ______ प्रतीक सम्मिलित करता है।",
+    "options": [
+      "1. क्रोधित चेहरा (फ्राउनिंग फेस)",
+      "2. शून्य भाव चेहरा (न्यूट्रल फेस)",
+      "3. तीर (एरो)",
+      "4. प्रसन्नचित्त चेहरा (हैप्पी फेस)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The spacing option in MS-Word will be applicable to ______.",
+    "options": [
+      "1. paragraphs",
+      "2. words",
+      "3. letters",
+      "4. sentences"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Word में स्पेसिंग विकल्प ______ पर लागू होगा।",
+    "options": [
+      "1. पैराग्राफ",
+      "2. शब्द",
+      "3. अक्षर",
+      "4. वाक्य"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "If the ______ command is unavailable, you might have to turn off document protection in MS-Word.",
+    "options": [
+      "1. Track Changes",
+      "2. Balloons",
+      "3. Reviewing Pane",
+      "4. Show Markup"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "यदि ______ कमांड अनुपलब्ध है, तो आपको MS-Word में डॉक्यूमेंट प्रोटेक्शन को बंद करना पड़ सकता है।",
+    "options": [
+      "1. ट्रैक चेंज",
+      "2. बैलून्स",
+      "3. रिव्युइंग पैन",
+      "4. शो मार्कअप"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a network node that connects two different networks that use different protocols for communicating over the internet?",
+    "options": [
+      "1. Bridge",
+      "2. Hub",
+      "3. Modem",
+      "4. Gateway"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सी, एक नेटवर्क नोड है जो दो अलग-अलग नेटवर्क को जोड़ता है जो इंटरनेट पर संचार करने के लिए अलग अलग प्रोटोकॉल का उपयोग करते हैं?",
+    "options": [
+      "1. ब्रिज",
+      "2. हब",
+      "3. मॉडेम",
+      "4. गेटवे"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following statements with reference to a cell in an electronic spreadsheet is FALSE?",
+    "options": [
+      "1. Cell reference identifies the location of a cell.",
+      "2. Active cell address is displayed in the formula box.",
+      "3. Cell reference consists of the column letter and row number.",
+      "4. The selection of more than one cell is known as a cell range."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "इलेक्ट्रॉनिक स्प्रेडशीट में सेल के संदर्भ में निम्नलिखित में से कौन-सा कथन गलत (FALSE) है?",
+    "options": [
+      "1. सेल संदर्भ (reference) सेल के स्थान (location) की पहचान करता है।",
+      "2. सक्रिय (Active) सेल एड्रेस, सूत्र बॉक्स (formula box) में प्रदर्शित होता है।",
+      "3. सेल संदर्भ (reference) में कॉलम अक्षर और पंक्ति (row) संख्या होती है।",
+      "4. एक से अधिक सेल के चयन को सेल रेंज (cell range) के रूप में जाना जाता है।"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The change in the appearance of the value in a cell of a spreadsheet is referred to as:",
+    "options": [
+      "1. spacing",
+      "2. design",
+      "3. layout",
+      "4. format"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "स्प्रैडशीट के सेल में मान के दिखावट (प्रकटन) में परिवर्तन को _______ के रूप में संदर्भित किया जाता है।",
+    "options": [
+      "1. स्पेसिंग (spacing)",
+      "2. डिज़ाइन (design)",
+      "3. लेआउट (layout)",
+      "4. फोर्मेट (format)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following statements with reference to the internet is FALSE ?",
+    "options": [
+      "1. A client computer is where websites are stored.",
+      "2. Email is used to communicate and share information on the internet.",
+      "3. Social media allows people to connect in a variety of ways and build communities online.",
+      "4. The World Wide Web is also called the Web in short."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "इंटरनेट के संदर्भ में निम्नलिखित में से कौन-सा कथन गलत (FALSE) है?",
+    "options": [
+      "1. एक क्लाइंट कंप्यूटर वह जगह है जहां वेबसाइटें संग्रहीत की जाती हैं।",
+      "2. इंटरनेट पर संचार और जानकारी साझा करने के लिए ईमेल का उपयोग किया जाता है।",
+      "3. सोशल मीडिया लोगों को विभिन्न तरीकों से जुड़ने और ऑनलाइन समुदाय बनाने की अनुमति देता है।",
+      "4. वर्ल्ड वाइड वेब को संक्षेप में वेब भी कहा जाता है।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT an envelope size within MS-Word's Mail Merge option?",
+    "options": [
+      "1. C4",
+      "2. C5",
+      "3. C6",
+      "4. C7"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, MS-Word के मेल मर्ज (Mail Merge) विकल्प के भीतर एक एन्वेलप साइज़ नहीं है?",
+    "options": [
+      "1. C4",
+      "2. C5",
+      "3. C6",
+      "4. C7"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Selecting address list is done in which step of the step-by-step process of Mail Merge in MS-Word?",
+    "options": [
+      "1. Step3",
+      "2. Step5",
+      "3. Step2",
+      "4. Step6"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "पता सूची (address list) का चयन MS-Word में मेल मर्ज (Mail Merge) की चरण-दर-चरण प्रक्रिया के किस चरण में किया जाता है?",
+    "options": [
+      "1. चरण 3",
+      "2. चरण 5",
+      "3. चरण 2",
+      "4. चरण 6"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT an example of a word processor?",
+    "options": [
+      "1. Open Office Impress",
+      "2. Google Docs",
+      "3. Open Office Writer",
+      "4. Microsoft Word"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, वर्ड प्रोसेसर का उदाहरण नहीं है?",
+    "options": [
+      "1. ओपन ऑफिस इंप्रेस",
+      "2. गूगल डॉक्स",
+      "3. ओपन ऑफिस राइटर",
+      "4. माइक्रोसॉफ्ट वर्ड"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following options in the File pull down menu is used to close an MS-Word document?",
+    "options": [
+      "1. Quit",
+      "2. Close",
+      "3. Exit",
+      "4. New"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा फाइल पुल डाउन मेनू का विकल्प एक MS-Word डॉक्यूमेंट को बंद करने के लिए उपयोग किया जाता है?",
+    "options": [
+      "1. क्विट (Quit)",
+      "2. क्लोज (Close)",
+      "3. एग्जिट (Exit)",
+      "4. न्यू (New)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Letters of the alphabet are used to represent which of the following in a spreadsheet?",
+    "options": [
+      "1. Columns",
+      "2. Rows",
+      "3. Tabs",
+      "4. Menus"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "स्प्रेडशीट में निम्नलिखित में से किसका निरूपण करने के लिए वर्णमाला (alphabet) के अक्षरों का उपयोग किया जाता है?",
+    "options": [
+      "1. कॉलम्स (Columns)",
+      "2. पंक्तियां (Rows)",
+      "3. टैब्स (Tabs)",
+      "4. मैनूज (Menus)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The process of transferring files from an FTP server to an FTP client is called _______.",
+    "options": [
+      "1. downloading",
+      "2. uploading",
+      "3. reloading",
+      "4. executing"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "FTP सर्वर से FTP क्लाइंट में फाइल स्थानांतरित करने की प्रक्रिया को _______ कहा जाता है।",
+    "options": [
+      "1. डाउनलोडिंग",
+      "2. अपलोडिंग",
+      "3. री-लोडिंग",
+      "4. एक्जीक्युटिंग"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following refers to a process that involves the transfer of files between computers over a network?",
+    "options": [
+      "1. FTP",
+      "2. DHCP",
+      "3. POP",
+      "4. ARP"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, एक प्रक्रिया को संदर्भित करता है जिसमें एक नेटवर्क पर कंप्यूटर के बीच फाइलों का स्थानांतरण शामिल है?",
+    "options": [
+      "1. FTP",
+      "2. DHCP",
+      "3. POP",
+      "4. ARP"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ means the use of more than one media in communication.",
+    "options": [
+      "1. Multimedia",
+      "2. Animation",
+      "3. Sound",
+      "4. Visuals"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "________ का अर्थ है संचार में एक से अधिक मीडिया का उपयोग करना।",
+    "options": [
+      "1. मल्टीमीडिया",
+      "2. एनिमेशन",
+      "3. साउंड",
+      "4. विजुअल्स"
+    ],
+    "answer": 0
+  }
 ]
         
         };
