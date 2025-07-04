@@ -17712,6 +17712,1048 @@
     ],
     "answer": 0
   }
+],
+  "21st September 2023 - Shift2": [
+  {
+    "q": "Windows NT वर्कस्टेशन पर किस समूह को स्वामित्व लेने का अधिकार है?",
+    "options": [
+      "1. यूज़र",
+      "2. एडमिनिस्ट्रेटर",
+      "3. प्रिंट ऑपरेटर",
+      "4. अकाउंट ऑपरेटर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What group on Windows NT workstation has the right to take ownership?",
+    "options": [
+      "1. Users",
+      "2. Administrators",
+      "3. Print Operators",
+      "4. Account Operators"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "लाइट पेन क्या है?",
+    "options": [
+      "1. मकैनिकल इनपुट डिवाइस",
+      "2. ऑप्टिकल इनपुट डिवाइस",
+      "3. मकैनिकल आउटपुट डिवाइस",
+      "4. ऑप्टिकल आउटपुट डिवाइस"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is meant by a light pen?",
+    "options": [
+      "1. Mechanical input device",
+      "2. Optical input device",
+      "3. Mechanical output device",
+      "4. Optical output device"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS Excel में, कौन सा फंक्शन दो संख्याओं का 'Bit wise OR' देता है?",
+    "options": [
+      "1. BITOR फंक्शन",
+      "2. BITWISEOR फंक्शन",
+      "3. BITWOR फंक्शन",
+      "4. BOR2 फंक्शन"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which function returns a bit wise OR of two numbers in MS-Excel?",
+    "options": [
+      "1. BITOR function",
+      "2. BITWISEOR function",
+      "3. BITWOR function",
+      "4. BOR2 function"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से किसे दूसरी पीढ़ी के कंप्यूटरों की भाषा कहा जाता है?",
+    "options": [
+      "1. असेंबली भाषा",
+      "2. उच्च स्तरीय भाषा",
+      "3. मशीनी भाषा",
+      "4. बेसिक भाषा"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which language is called as the second-generation language?",
+    "options": [
+      "1. Assembly language",
+      "2. High level language",
+      "3. Machine language",
+      "4. Basic language"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "संख्याओं को शीघ्रता से प्रविष्ट करने के लिए ______ उपयोगी है। की (key) को एक पारंपरिक कैलकुलेटर या योग क्रिया करने वाली मशीन की तरह एक ब्लॉक में समूहीकृत किया जाता है।",
+    "options": [
+      "1. फ़ंक्शन कुंजी (Function keys)",
+      "2. संख्यात्मक कीपैड (Numeric keypad)",
+      "3. कंट्रोल कुंजी (Control keys)",
+      "4. नेविगेशन कुंजी (Navigation keys)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The ______ is handy for entering numbers quickly. The keys are grouped together in a block like a conventional calculator or adding machine.",
+    "options": [
+      "1. Function keys",
+      "2. Numeric keypad",
+      "3. Control keys",
+      "4. Navigation keys"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक कंपाइलर उच्च स्तरीय भाषा में लिखे गए प्रोग्राम को ______ में अनुवाद करता है।",
+    "options": [
+      "1. मशीनी भाषा",
+      "2. एक एल्गोरिदम",
+      "3. एक डीबग प्रोग्राम",
+      "4. जावा"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A compiler translates a program written in a high level language into ______.",
+    "options": [
+      "1. a machine language",
+      "2. an algorithm",
+      "3. a debugged program",
+      "4. Java"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The word wrap feature in MS Word:",
+    "options": [
+      "1. automatically moves the text to the next line when necessary.",
+      "2. appears at the bottom of the document.",
+      "3. allows you to type over text.",
+      "4. is the short horizontal line indicating the end of the document."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS Word में शब्द वेष्ट (word wrap) फीचर क्या करता है?",
+    "options": [
+      "1. जब आवश्यक होता है टेक्स्ट को अपने आप अगली लाइन में भेज देता है।",
+      "2. डॉक्यूमेंट के नीचे दिखाई देता है।",
+      "3. टेक्स्ट के ऊपर टाइप करने की अनुमति देता है।",
+      "4. एक छोटी क्षैतिज लाइन होती है जो डॉक्यूमेंट के खत्म होने का संकेत देती है।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Where can you find the watermark option in MS Word?",
+    "options": [
+      "1. Design tab",
+      "2. Layout tab",
+      "3. Home tab",
+      "4. Review tab"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS Word में वॉटरमार्क का विकल्प कहां मिलेगा?",
+    "options": [
+      "1. डिजाइन टैब",
+      "2. लेआउट टैब",
+      "3. होम टैब",
+      "4. रिव्युटैब"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT a name of the 1D Barcode font?",
+    "options": [
+      "1. Codabar",
+      "2. MaxiCode",
+      "3. PostNet",
+      "4. Bookland"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा 1D बारकोड फ़ॉन्ट का एक नाम नहीं है?",
+    "options": [
+      "1. कोडबार",
+      "2. मैक्सीकोड",
+      "3. पोस्टनेट",
+      "4. बुकलैंड"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Speech recognition and gait of a user serve the purpose of:",
+    "options": [
+      "1. physiological biometric features",
+      "2. behavioral biometric features",
+      "3. psychometric features",
+      "4. visual features"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "उपयोगकर्ता की वाक् पहचान (Speech recognition) और चाल/गेट निम्नलिखित किस उद्धेश्य की पूर्ति करते हैं?",
+    "options": [
+      "1. शारीरिक (कार्यिकी) बायोमेट्रिक फ़ीचर",
+      "2. स्वभावजन्य (व्यवहारिक) बायोमेट्रिक फ़ीचर",
+      "3. साइकोमेट्रिक फ़ीचर",
+      "4. दृश्य फ़ीचर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The interval from the time of submission of a process to the time of completion.",
+    "options": [
+      "1. Seek time",
+      "2. Response time",
+      "3. Access time",
+      "4. Turnaround time"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "एक प्रक्रिया प्रस्तुत करने के समय से पूरा होने के समय तक का अंतराल।",
+    "options": [
+      "1. सीक टाइम",
+      "2. रेस्पॉन्स टाइम",
+      "3. एक्सेस टाइम",
+      "4. टर्नअराउंड टाइम"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "On the modern motherboards, the CMOS chip is integrated into ______.",
+    "options": [
+      "1. RAM",
+      "2. Northbridge (NB)",
+      "3. Graphics Processing Unit (GPU)",
+      "4. Southbridge (SB)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "आधुनिक मदरबोर्ड पर, CMOS चिप ______ में एकीकृत होती है।",
+    "options": [
+      "1. RAM",
+      "2. नॉर्थब्रिज (NB)",
+      "3. ग्राफिक्स प्रोसेसिंग यूनिट (GPU)",
+      "4. साउथब्रिज (SB)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Arrange in ascending order the units of memory:<br>1. KiloBytes<br>2. TeraBytes<br>3. Bytes<br>4. GigaBytes",
+    "options": [
+      "1. 1, 2, 3, 4",
+      "2. 4, 3, 2, 1",
+      "3. 3, 1, 4, 2",
+      "4. 2, 4, 1, 3"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "मेमोरी (memory) की इकाइयों को आरोही क्रम में व्यवस्थित करें।<br>1. किलोबाइट्स (KiloBytes)<br>2. टेराबाइट्स (TeraBytes)<br>3. बाइट्स (Bytes)<br>4. गीगाबाइट्स (GigaBytes)",
+    "options": [
+      "1. 1, 2, 3, 4",
+      "2. 4, 3, 2, 1",
+      "3. 3, 1, 4, 2",
+      "4. 2, 4, 1, 3"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Capturing data by tracing or entering the corners of linear poly-lines or shapes is called:",
+    "options": [
+      "1. snapping",
+      "2. ionising",
+      "3. sampling",
+      "4. digitising"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "रैखिक बहु-रेखाओं (पॉली लाइंस) या आकारों के कोनों को ट्रेस करके या एंटर करके, डेटा कैप्चर करने की प्रक्रिया किस नाम से जानी जाती है?",
+    "options": [
+      "1. स्नैपिंग",
+      "2. आयनाइज़िंग",
+      "3. सैंपलिंग",
+      "4. डिजिटाइज़िंग"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The binary equivalent of decimal 11 is ______.",
+    "options": [
+      "1. 1101",
+      "2. 1100",
+      "3. 1011",
+      "4. 1110"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "डेसिमल 11 के बराबर बाइनरी ______ है।",
+    "options": [
+      "1. 1101",
+      "2. 1100",
+      "3. 1011",
+      "4. 1110"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is used to measure the speed of computers used to perform floating-point calculations?",
+    "options": [
+      "1. Input",
+      "2. Output",
+      "3. Access time",
+      "4. MFLOPS"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "फ्लोटिंग-पॉइंट गणना करने के लिए उपयोग किए जाने वाले कंप्यूटरों की गति (स्पीड) को मापने हेतु निम्न में से किसका उपयोग किया जाता है?",
+    "options": [
+      "1. इनपुट",
+      "2. आउटपुट",
+      "3. एक्सेस टाइम",
+      "4. MFLOPS"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "If you want to print a selected text in an MS-Word document, then what is the correct option?",
+    "options": [
+      "1. Highlight the text, press Ctrl + P, in print option click 'Print Selection' only",
+      "2. Highlight the text, press Shift + P, in print option click 'Selection' only",
+      "3. Highlight the text, press Ctrl + P, in print option click 'Highlighted All' only",
+      "4. Highlight the text, press Alt + P, in print option click 'Selection' only"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "यदि आप MS-Word डॉक्यूमेंट में, चयनित टेक्स्ट को प्रिंट करना चाहते हैं, तो सही विकल्प क्या है?",
+    "options": [
+      "1. टेक्स्ट को हाईलाइट करें, Ctrl + P दबाऍं, प्रिंट विकल्प में केवल 'Print Selection' पर क्लिक करें।",
+      "2. टेक्स्ट को हाईलाइट करें, Shift + P दबाऍं, प्रिंट विकल्प में केवल 'Selection' पर क्लिक करें।",
+      "3. टेक्स्ट को हाईलाइट करें, Ctrl + P दबाऍं, प्रिंट विकल्प में केवल 'Highlighted All' पर क्लि क करें।",
+      "4. टेक्स्ट को हाईलाइट करें, Alt + P दबाऍं, प्रिंट विकल्प में केवल 'Selection' पर क्लिक करें।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following contains the programming needed to start a PC and is essential for boot up?",
+    "options": [
+      "1. RAM",
+      "2. Hard disk",
+      "3. ROM",
+      "4. Floppy disk"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से किसमें एक PC शुरू करने के लिए आवश्यक प्रोग्रामिंग शामिल है और बूट-अप के लिए आवश्यक है?",
+    "options": [
+      "1. RAM",
+      "2. हार्ड डिस्क",
+      "3. ROM",
+      "4. फ्लोपी डिस्क"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following storage devices uses the concept of track and sector?",
+    "options": [
+      "1. Hard disk",
+      "2. ROM",
+      "3. RAM",
+      "4. Magnetic tape"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा स्टोरेज डिवाइस ट्रैक और सेक्टर की अवधारणा का उपयोग करता है?",
+    "options": [
+      "1. हार्ड डिस्क",
+      "2. ROM",
+      "3. RAM",
+      "4. मैग्नेटिक टेप"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following refers to the letter ‘D’ in DRAM, with reference to computer memory?",
+    "options": [
+      "1. Driven",
+      "2. Dynamic",
+      "3. Data",
+      "4. Dangling"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कंप्यूटर मेमोरी के संदर्भ में, निम्नलिखित में से कौन-सा, DRAM में 'D' अक्षर को संदर्भित करता है?",
+    "options": [
+      "1. ड्राइवन (Driven)",
+      "2. डायनामिक (Dynamic)",
+      "3. डेटा (Data)",
+      "4. डैंगलिंग (Dangling)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In MS-Word, the keyboard shortcut, Ctrl + N, is used to ______.",
+    "options": [
+      "1. Create a New Document",
+      "2. Save the Document",
+      "3. Open the Document",
+      "4. Close the Document"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Word में, कीबोर्ड शॉर्टकट, Ctrl + N, का उपयोग ______ के लिए किया जाता है।",
+    "options": [
+      "1. कोई नया डॉक्यूमेंट बनाएँ",
+      "2. डॉक्यूमेंट को सहेजें",
+      "3. डॉक्यूमेंट को खोलें",
+      "4. डॉक्यूमेंट को बंद करें"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "An encoder that converts the angular position of the moving shaft into an analogue or digital electronic signal is a:",
+    "options": [
+      "1. linear encoder",
+      "2. rotary encoder",
+      "3. manual encoder",
+      "4. data selector"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कौन-सा एनकोडर मूविंग शाफ्ट की कोणीय (एन्ग्युलर) स्थिति को एनालॉग या डिजिटल इलेक्ट्रॉनिक सिग्नल में परिवर्तित करता है?",
+    "options": [
+      "1. लीनियर एनकोडर",
+      "2. रोटरी एनकोडर",
+      "3. मैन्यु अल एनकोडर",
+      "4. डेटा सिलेक्ट र"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In any situation, over modulation results in:",
+    "options": [
+      "1. distortion",
+      "2. excessive carrier power",
+      "3. weakening of the signal",
+      "4. signal amplification"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "किसी भी स्थिति में, अधिक मॉड्यूलेशन का परिणाम क्या होता है?",
+    "options": [
+      "1. विरूपण",
+      "2. अत्यधिक वाहक शक्ति",
+      "3. सिग्नल का कमजोर होना",
+      "4. सिग्नल प्रवर्धन"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What are the JPEG operation modes?",
+    "options": [
+      "1. Lossless, sequential, progressive, hierarchical",
+      "2. Lossless, binary, progressive, hierarchical",
+      "3. Lossless, potential, progressive, hierarchical",
+      "4. Lossless, sequential, incremental, hierarchical"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "JPEG ऑपरेशन मोड क्या हैं?",
+    "options": [
+      "1. हानिरहित, अनुक्रमिक, प्रगतिशील, अधिक्रमिक (Lossless, sequential, progressive, hierarchical)",
+      "2. हानिरहित, बाइनरी, प्रगतिशील, अधिक्रमिक (Lossless, binary, progressive, hierarchical)",
+      "3. हानिरहित, संभावित, प्रगतिशील, अधिक्रमिक (Lossless, potential, progressive, hierarchical)",
+      "4. हानिरहित, अनुक्रमिक, वृद्धिशील, अधिक्रमिक (Lossless, sequential, incremental, hierarchical)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Cryptographic keys designed to be used only for a single session or transaction are called ______.",
+    "options": [
+      "1. static keys",
+      "2. permanent keys",
+      "3. long lasting keys",
+      "4. ephemeral keys"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "केवल एकल सत्र या लेनदेन के लिए उपयोग किए जाने वाले क्रिप्टोग्राफिक कुंजी (Cryptographic keys) को ______ कहा जाता है।",
+    "options": [
+      "1. स्थिर कुंजियाँ (static keys)",
+      "2. स्थायी कुंजियाँ (permanent keys)",
+      "3. दीर्घस्थायी कुंजियाँ (long lasting keys)",
+      "4. क्षणिक कुंजियाँ (ephemeral keys)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In printing, the size of A4 paper in MS-Word is",
+    "options": [
+      "1. 21cm x 29.7cm",
+      "2. 29.7cm x 42 cm",
+      "3. 14.8cm x 21cm",
+      "4. 29.7cm x 14.8cm"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "प्रिन्टिंग में MS-Word में A4 पेपर का आकार होता है-",
+    "options": [
+      "1. 21cm x 29.7cm",
+      "2. 29.7cm x 42 cm",
+      "3. 14.8cm x 21cm",
+      "4. 29.7cm x 14.8cm"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The start button is NOT available in which of the following OS versions?",
+    "options": [
+      "1. Windows 10",
+      "2. Windows 8",
+      "3. Windows 7",
+      "4. Windows Vista"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्न में से किस OS संस्करण में स्टार्ट (start) बटन उपलब्ध नहीं होता?",
+    "options": [
+      "1. Windows 10",
+      "2. Windows 8",
+      "3. Windows 7",
+      "4. Windows Vista"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is not an illustration in Word?",
+    "options": [
+      "1. Shapes",
+      "2. SmartArt",
+      "3. Bookmark",
+      "4. Icons"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा वर्ड में एक उदाहरण नहीं है?",
+    "options": [
+      "1. शेप्स",
+      "2. स्मार्टआर्ट",
+      "3. बुकमार्क",
+      "4. आइकन"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which are the sides of the window where the scrollbar is observed?",
+    "options": [
+      "1. Left and bottom",
+      "2. Bottom and right",
+      "3. Right and top",
+      "4. Top and left"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "विंडो का वह कौन-सा भाग है जहाँ स्क्रॉलबार दिखाई देता है?",
+    "options": [
+      "1. बायाँ और नीचे",
+      "2. नीचे और दायाँ",
+      "3. दायाँ और ऊपर",
+      "4. ऊपर और बायाँ"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is equivalent to 124 nibbles?",
+    "options": [
+      "1. 62 bits",
+      "2. 62 bytes",
+      "3. 124 bits",
+      "4. 124 bytes"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, 124 निब्बल्स के बराबर है?",
+    "options": [
+      "1. 62 बिट्स",
+      "2. 62 बाइट्स",
+      "3. 124 बिट्स",
+      "4. 124 बाइट्स"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A word in a web page that, when clicked, opens another document is known as a(n):",
+    "options": [
+      "1. anchor",
+      "2. URL",
+      "3. hyperlink",
+      "4. reference"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "वेबपेज़ पर मौजूद वह शब्द क्या कहलाता है, जिसपर क्लिक करने से यह एक अन्य डॉक्यूमेंट को खोल देता है?",
+    "options": [
+      "1. एंकर",
+      "2. URL",
+      "3. हाइपरलिंक",
+      "4. रेफरेंस"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The ______ option on Google Drive home page is used to create new files.",
+    "options": [
+      "1. Rebuild",
+      "2. New",
+      "3. Build",
+      "4. Generate"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "गूगल ड्राइव होम पेज पर नई फाइलें बनाने के लिए ______ विकल्प का उपयोग किया जाता है।",
+    "options": [
+      "1. रीबिल्ड (Rebuild)",
+      "2. न्यू (New)",
+      "3. बिल्ड (Build)",
+      "4. जनरेट (Generate)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which one of the following is NOT a view?",
+    "options": [
+      "1. Read Modes",
+      "2. Print Layout",
+      "3. Web Layout",
+      "4. Side by Side"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से कौन सा एक व्यू नहीं है?",
+    "options": [
+      "1.रीड मोड्स",
+      "2. प्रिंट लेआउट",
+      "3. वेब लेआउट",
+      "4. साइड बाय साइड"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What type of commerce is enabled by technology?",
+    "options": [
+      "1. T-commerce",
+      "2. E-commerce",
+      "3. D-commerce",
+      "4. Internet"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "तकनीक द्वारा किस प्रकार का वाणिज्य (कॉमर्स) संभव है?",
+    "options": [
+      "1. टी-कॉमर्स",
+      "2. ई-कॉमर्स",
+      "3. डी-कॉमर्स",
+      "4. इंटरनेट"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which among the following functions in MS-Excel converts radians to degrees?",
+    "options": [
+      "1. DEGREES",
+      "2. RADIANS",
+      "3. CONVERT",
+      "4. DGET"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel मेंनिम्नलिखित में से कौन सा कार्य रेडियन को डिग्री में परिवर्तित करता है?",
+    "options": [
+      "1. डिग्रीज",
+      "2. रेडियंस",
+      "3. कन्वर्ट",
+      "4. डीजीईटी"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following are used to generate a message digest by the network security protocols?<br> (P) RSA<br>(Q) SHA-1<br>(R) DES<br>(S) MD5",
+    "options": [
+      "1. Q and S only",
+      "2. P and R only",
+      "3. Q and R only",
+      "4. R and S only"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से किसका उपयोग नेटवर्क सुरक्षा प्रोटोकॉल द्वारा जनरेट किया हुआ संदेश डाइजेस्ट करने के लिए किया जाता है?<br>(P) RSA<br>(Q) SHA-1<br>(R) DES<br>(S) MD5",
+    "options": [
+      "1. केवल Q और S",
+      "2. केवल P और R",
+      "3. केवल Q और R",
+      "4. केवल R और S"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "When you select the Replace option on the editing command in the Home tab of MS-Word, the dialog box that appears is called:",
+    "options": [
+      "1. Find",
+      "2. Find and Replace",
+      "3. Replace",
+      "4. Save As"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "जब आप MS-Word के Home टैब में एडिटिंग कमांड पर रिप्लेस ऑप्शन चुनते हैं, तो कौन सा डायलॉग बॉक्स दिखाई देता है?",
+    "options": [
+      "1. Find",
+      "2. Find and Replace",
+      "3. Replace",
+      "4. Save As"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In MS-Word, which of the following is NOT on the Review tab?",
+    "options": [
+      "1. Spelling and grammar",
+      "2. Thesaurus",
+      "3. Word count",
+      "4. Insert table"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Word में, Review टैब पर निम्न में से क्या मौजूद नहीं होता है?",
+    "options": [
+      "1. स्पेलिंग और ग्रामर",
+      "2. थिसॉरस",
+      "3. वर्ड काउंट",
+      "4. इन्सर्ट टेबल"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which one of the following is NOT an option under Page Breaks in MS-Word?",
+    "options": [
+      "1. Page",
+      "2. Column",
+      "3. Text Wrapping",
+      "4. Continuous"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Word में पेज ब्रेक के अंतर्गत निम्नलिखित में से कौन सा विकल्प नहीं है?",
+    "options": [
+      "1. पेज",
+      "2. कॉलम",
+      "3. टेक्स्ट रैपिंग",
+      "4. कंटीन्यूअस"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which function in MS-Excel converts a number into a text representation with the given radix?",
+    "options": [
+      "1. RADIX",
+      "2. BASE",
+      "3. DECIMAL",
+      "4. OCNVERT"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel में कौन-सा फ़ंक्शन दिए गए मूलांक (radix) के साथ किसी संख्या को टेक्स्ट (text) निरूपण में परिवर्तित करता है?",
+    "options": [
+      "1. RADIX",
+      "2. BASE",
+      "3. DECIMAL",
+      "4. OCNVERT"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In Excel, FLOOR function belongs to which category of functions?",
+    "options": [
+      "1. Math and trigonometry",
+      "2. Compatibility",
+      "3. Maths",
+      "4. Statistical"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Excel में, FLOOR फंक्शन किस श्रेणी के फंक्शन से संबंधित है?",
+    "options": [
+      "1. गणित और त्रिकोणमिति",
+      "2. संगतता (Compatibility)",
+      "3. गणित",
+      "4. सांख्यिकीय (Statistical)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which shortcut should we apply to open the font dialog box?",
+    "options": [
+      "1. Ctrl + D",
+      "2. Ctrl + P",
+      "3. Ctrl + F",
+      "4. Alt + C"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "फ़ॉन्ट डायलॉग बॉक्स खोलने के लिए हमेंकिस शॉर्टकट को उपयोग करना चाहिए?",
+    "options": [
+      "1. Ctrl + D",
+      "2. Ctrl + P",
+      "3. Ctrl + F",
+      "4. Alt + C"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following option is NOT shown in Word count in MS-Word?",
+    "options": [
+      "1. Pages",
+      "2. Words",
+      "3. Paragraph",
+      "4. Numbers"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा विकल्प MS-Word में वर्ड काउंट में नहीं दिखाया जाता है?",
+    "options": [
+      "1. पेजेस",
+      "2. वर्ड्स",
+      "3. पैराग्राफ",
+      "4. नंबर्स"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is NOT a network switching technique?",
+    "options": [
+      "1. Circuit Switching",
+      "2. Packet Switching",
+      "3. Message Switching",
+      "4. Content Switching"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन सी एक नेटवर्क स्विचिंग तकनीक नहीं है?",
+    "options": [
+      "1. सर्किट स्विचिंग",
+      "2. पैकेट स्विचिंग",
+      "3. मैसेज स्विचिंग",
+      "4. कंटेंट स्विचिंग"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is the Hexadecimal equivalent of a given Decimal number (128)₁₀?",
+    "options": [
+      "1. 80",
+      "2. 128",
+      "3. 821",
+      "4. C8"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "दिए गए दशमलव संख्या (128)₁₀ के हेक्साडेसिमल समकक्ष क्या है?",
+    "options": [
+      "1. 80",
+      "2. 128",
+      "3. 821",
+      "4. C8"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Where do you find the header and footer options on the MS-Word ribbon?",
+    "options": [
+      "1. Insert tab",
+      "2. Review tab",
+      "3. View tab",
+      "4. References tab"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Word रिबन में हेडर और फुटर विकल्प कहां पर पाये जाते हैं?",
+    "options": [
+      "1. इन्सर्ट टैब में",
+      "2. रिव्यू टैब में",
+      "3. व्यू टैब में",
+      "4. रेफरेन्सेस टैब में"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In the first step of mail merge, there is(are) _____ number(s) of radio button(s) under the 'Select document types' to 'create'.",
+    "options": [
+      "1. 1",
+      "2. 2",
+      "3. 3",
+      "4. 5"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "मेल मर्ज (merge) के पहले चरण में, 'क्रिएट' के लिए 'डॉक्यूमेंट प्रकारों को चुनें' के अंतर्गत 'रेडियो बटनों' की संख्या कितनी होती है?",
+    "options": [
+      "1. 1",
+      "2. 2",
+      "3. 3",
+      "4. 5"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of following commands are used to create a new file in Linux?",
+    "options": [
+      "1. catch command",
+      "2. cd command",
+      "3. mv command",
+      "4. cat, echo and touch commands"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "लिनक्स (Linux) में नई फाइल बनाने के लिए निम्न में से कौन-से कमांड का उपयोग किया जाता है?",
+    "options": [
+      "1. catch command",
+      "2. cd command",
+      "3. mv command",
+      "4. cat, echo और touch कमांड"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is a threat to data security?",
+    "options": [
+      "1. Phishing",
+      "2. Browser",
+      "3. Applet",
+      "4. Animation"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से कौन सा डेटा सुरक्षा के लिए एक खतरा है?",
+    "options": [
+      "1. फ़िशिंग",
+      "2. ब्राउज़र",
+      "3. एप्लेट",
+      "4. एनीमेशन"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "How will you publish a Word file on the browser with the title 'My page'?",
+    "options": [
+      "1. Save file as .png extension",
+      "2. Upload the Word file on the internet with the name My page",
+      "3. File -> Save As -> choose Web Page from Save as type -> enter the File name -> Click Save",
+      "4. Save as file 'TitleMypage'"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "आप वर्ड फ़ाइल को ब्राउज़र पर ‘माई पेज’ शीर्षक से कैसे पब्लिश करेंगे?",
+    "options": [
+      "1. फ़ाइल को .png एक्स टेंशन के रूप में सहेजें",
+      "2. माई पेज के नाम से इंटरनेट पर वर्ड फाइल को अपलोड करें",
+      "3. फ़ाइल -> सेव एज़ -> सेव एज़ टाइप से वेब पेज चुनें -> फ़ाइल का नाम दर्ज करें -> सेव करें",
+      "4. 'TitleMypage' के रूप में फाइल सेव करें"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "From the following options, what is the shortcut for superscript?",
+    "options": [
+      "1. Ctrl + Shift + S",
+      "2. Ctrl + Shift + -",
+      "3. Ctrl + Shift + +",
+      "4. Ctrl + Shift + _"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्न विकल्पों में से सुपरस्क्रिप्ट के लिए शॉर्टकट क्या है?",
+    "options": [
+      "1. Ctrl + Shift + S",
+      "2. Ctrl + Shift + -",
+      "3. Ctrl + Shift + +",
+      "4. Ctrl + Shift + _"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Internet can be used to transfer files from one computer to another using ______.",
+    "options": [
+      "1. HTML",
+      "2. TCP",
+      "3. IP",
+      "4. FTP"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "इंटरनेट का इस्तेमाल ______ का उपयोग करके फाइलें एक कंप्यूटर से दूसरे में स्थानांतरित करने के लिए किया जा सकता है।",
+    "options": [
+      "1. HTML",
+      "2. TCP",
+      "3. IP",
+      "4. FTP"
+    ],
+    "answer": 3
+  }
 ]
         
         };
