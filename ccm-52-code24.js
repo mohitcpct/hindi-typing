@@ -20838,6 +20838,1048 @@
     ],
     "answer": 1
   }
+],
+  "23rd July 2023 - Shift1": [
+ {
+    "q": "An operating system is:",
+    "options": [
+      "1. a multimedia software",
+      "2. an application software",
+      "3. a database software",
+      "4. a system software"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "ऑपरेटिंग सिस्टम क्या होता है?",
+    "options": [
+      "1. एक मल्टीमीडिया सॉफ्टवेयर",
+      "2. एक एप्लीकेशन सॉफ्टवेयर",
+      "3. एक डेटाबेस सॉफ्टवेयर",
+      "4. एक सिस्टम सॉफ्टवेयर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following memories or storages is volatile?",
+    "options": [
+      "1. Hard disk",
+      "2. Floppy disk",
+      "3. Magnetic tape",
+      "4. RAM"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से क्या अस्थायी मेमोरी या स्टोरेज है?",
+    "options": [
+      "1. हार्ड डिस्‍क",
+      "2. फ्लॉपी डिस्क",
+      "3. चुंबकीय टेप",
+      "4. RAM"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "______ is the ability of the operating system to run more than one application at a time.",
+    "options": [
+      "1. Multitasking",
+      "2. Multiframing",
+      "3. Batch processing",
+      "4. Multiprocessing"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "किसी ऑपरेटिंग सिस्टम द्वारा एक ही समय में एक से अधिक एप्लीकेशन रन करने की क्षमता क्या कहलाती है?",
+    "options": [
+      "1. मल्टी टास्किंग",
+      "2. मल्टी फ्रेमिंग",
+      "3. बैच प्रोसेसिंग",
+      "4. मल्टी प्रोसेसिंग"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following does the CPU control?",
+    "options": [
+      "1. All output and processing",
+      "2. Only external memory",
+      "3. Only numerical data",
+      "4. Only logical operations"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "CPU निम्न में से किसका नियंत्रण करता है?",
+    "options": [
+      "1. सभी आउटपुट और प्रोसेसिंग का",
+      "2. केवल वाह्य मेमोरी का",
+      "3. केवल आंकिक डेटा का",
+      "4. केवल लॉजिकल ऑपरेशंस का"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In Linux, a _______ provides the required abstraction to hide low level hardware details to system or application programs.",
+    "options": [
+      "1. compiler",
+      "2. kernel",
+      "3. shell",
+      "4. system library"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "लिनक्स (Linux) में, _______ सिस्टम या एप्लीकेशन प्रोग्रामों के लिए, निम्न स्तर के हार्डवेयर विवरण को छिपाने हेतु आवश्यक संक्षेपण प्रदान करता है।",
+    "options": [
+      "1. कंपाइलर्स",
+      "2. कर्नेल",
+      "3. शेल",
+      "4. सिस्टम लाइब्रेरी"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Header option is available in which tab of OpenOffice writer?",
+    "options": [
+      "1. Insert",
+      "2. Edit",
+      "3. Format",
+      "4. View"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "हैडर ऑफिस राइटर (OpenOffice writer) के किस टैब में एंकर विकल्प मौज़ूद होता है?",
+    "options": [
+      "1. इंसर्ट",
+      "2. एडिट",
+      "3. फॉर्मेट",
+      "4. व्यू"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following printers would an architect be most likely to use to print large plans?",
+    "options": [
+      "1. Inkjet printer",
+      "2. Laser printer",
+      "3. Dot Matrix printer",
+      "4. Plotter"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "किसी वास्तुकार द्वारा बड़ी परियोजनाओं के प्रिंट लेने के लिए निम्न में किस प्रिंटर का उपयोग करने की संभावना सबसे अधिक रहती है?",
+    "options": [
+      "1. इंकजेट प्रिंटर",
+      "2. लेज़र प्रिंटर",
+      "3. डॉट-मैट्रिक्स प्रिंटर",
+      "4. प्लॉटर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A '______' occurs when a read/write head makes contact with the hard disk's surface or with particles on its surface.",
+    "options": [
+      "1. system crash",
+      "2. head crash",
+      "3. network crash",
+      "4. CPU crash"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "\"______________\" तब होता है, जब रीड/राइट हेड, हार्ड डिस्क की सतह या उसकी सतह पर मौज़ूद कणों के संपर्क में आता है।",
+    "options": [
+      "1. सिस्टम क्रैश",
+      "2. हेड क्रैश",
+      "3. नेटवर्क क्रैश",
+      "4. CPU क्रैश"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Permanent instructions that the computer uses when it is turned on and that CANNOT be changed by other instructions are contained in a:",
+    "options": [
+      "1. ROM",
+      "2. RAM",
+      "3. Pen Drive",
+      "4. DVD"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "वे स्थायी निर्देश जिन्हें किन्हीं अन्य निर्देशों द्वारा बदला नहीं जा सकता है और जिनका उपयोग कंप्यूटर चालू होने पर करता है, निम्न में से किसमें संग्रहित होते हैं?",
+    "options": [
+      "1. ROM",
+      "2. RAM",
+      "3. पेन ड्राइव",
+      "4. DVD"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following commands when typed into the Start search box opens Add/Remove Programs or Uninstall a Program in Windows 7?",
+    "options": [
+      "1. programsfeature",
+      "2. appwiz.cpl",
+      "3. winfeatures",
+      "4. winfeatures.open"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "स्टार्ट सर्च बॉक्स में टाइप करने पर निम्नलिखित में से कौन सा कमांड प्रोग्राम जोड़ें/निकालें या Windows 7 में एक प्रोग्राम की स्थापना रद्द कर खोलता है?",
+    "options": [
+      "1. programsfeature",
+      "2. appwiz.cpl",
+      "3. winfeatures",
+      "4. winfeatures.open"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A laser printer uses _______ to create images on a printed page.",
+    "options": [
+      "1. ribbon",
+      "2. pins",
+      "3. toner",
+      "4. lens"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "मुद्रण पेज पर छवियां बनाने के लिए लेजर प्रिंटर द्वारा _______ का उपयोग किया जाता है।",
+    "options": [
+      "1. रिबन",
+      "2. पिन",
+      "3. टोनर",
+      "4. लेंस"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following bar code scanning method uses the technique of converting light signals to electric signals?",
+    "options": [
+      "1. Laser photo detector",
+      "2. Photodiode",
+      "3. Charge-coupled device (CCD)",
+      "4. Rotating line camera"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा बार कोड स्कैनिंग विधि प्रकाश संकेतों को विद्युत संकेतों में परिवर्तित करने की तकनीक का उपयोग करता है?",
+    "options": [
+      "1. लेजर फोटो डिटेक्टर",
+      "2. फोटो डायोड",
+      "3. चार्ज-कपल्ड डिवाइस (CCD)",
+      "4. रोटेटिंग लाइन कैमरा"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Handwriting Recognition System' belongs to which trait of biometric system?",
+    "options": [
+      "1. Behavioral",
+      "2. Logical",
+      "3. Physiological",
+      "4. Biological"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "हैंडराइटिंग रिकग्निशन सिस्टम' बायोमेट्रिक सिस्टम की किस विशेषता से संबंधित है?",
+    "options": [
+      "1. व्यवहार",
+      "2. तार्किक",
+      "3. शारीरिक",
+      "4. जैविक"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a web mail provider?",
+    "options": [
+      "1. Kloser",
+      "2. Gmail",
+      "3. CC Search",
+      "4. Yandex"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन एक वेब मेल प्रदाता है?",
+    "options": [
+      "1. Kloser",
+      "2. Gmail",
+      "3. CC Search",
+      "4. Yandex"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is NOT a feature of Universal Serial Bus (USB)?",
+    "options": [
+      "1. Manual configuration",
+      "2. Plug and play",
+      "3. Easy device connection",
+      "4. It is a common interface for computer devices"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन सी यूनिवर्सल सीरियल बस (USB) की विशेषता नहीं है?",
+    "options": [
+      "1. मैनुअल विन्यास",
+      "2. प्लग और प्ले करना",
+      "3. उपकरणों का आसान संयोजन",
+      "4. यह कंप्यूटर उपकरणों के लिए एक सामान्य इंटरफ़ेस है"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "________ refers to hacking or deception that imitates a software program with the intentions of bypassing security measures.",
+    "options": [
+      "1. Virus",
+      "2. Spoofing",
+      "3. Access",
+      "4. Firewall"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से वह हैकिंग या धोखेबाज़ी की तकनीक कौन सी है, जो सुरक्षा मानकों को बाईपास करने के इरादे से सॉफ्टवेर प्रोग्राम की नक़ल करती है?",
+    "options": [
+      "1. वायरस",
+      "2. स्पूफ़िंग",
+      "3. एक्सेस",
+      "4. फ़ायरवॉल"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Higher ______ of a printer means higher ______ images.",
+    "options": [
+      "1. size; quality",
+      "2. resolution; quality",
+      "3. price; quality",
+      "4. resolution; size"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "यदि प्रिंटर का __________ अच्छा/बड़ा/उत्कृष्ट होगा/होगी, तो उसके द्वारा निर्मित होने वाले चित्रों की _______ उत्कृष्ट होगी।",
+    "options": [
+      "1. आकार, गुणवत्ता",
+      "2. रिज़ोल्यूशन (Resolution), गुणवत्ता",
+      "3. कीमत, गुणवत्ता",
+      "4. रिज़ोल्यूशन, आकार"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following domain names is most commonly used by educational institutions?",
+    "options": [
+      "1. .net",
+      "2. .org",
+      "3. .com",
+      "4. .edu"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "शिक्षण संस्थानों के लिए निम्न में से किस डोमेन नाम का अधिकतर उपयोग होता है?",
+    "options": [
+      "1. .net",
+      "2. .org",
+      "3. .com",
+      "4. .edu"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "With reference to web designing, the file format CSS stands for?",
+    "options": [
+      "1. Computer Style Sheet",
+      "2. Compact Style Sheet",
+      "3. Cascading Style Sheet",
+      "4. Computer Storage Style"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "वेब डिजाइनिंग के संदर्भ में, फ़ाइल प्रारूप CSS का क्या अर्थ है?",
+    "options": [
+      "1. Computer Style Sheet (कंप्यूटर स्टाइल शीट)",
+      "2. Compact Style Sheet (कॉम्पैक्ट स्टाइल शीट)",
+      "3. Cascading Style Sheet (कैस्केडिंग स्टाइल शीट)",
+      "4. Computer Storage Style (कंप्यूटर स्टोरेज स्टाइल)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following hardware devices helps in the connection of multiple devices in same LAN?",
+    "options": [
+      "1. Repeater",
+      "2. Hub",
+      "3. Access Point",
+      "4. Modem"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्न में से कौन सा हार्डवेयर डिवाइस एक ही LAN में कई डिवाइस के कनेक्शन में मदद करता है?",
+    "options": [
+      "1. रिपीटर",
+      "2. हब",
+      "3. एक्सेस पॉइंट",
+      "4. मॉडेम"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the area covered by a Local Area Network?",
+    "options": [
+      "1. Up to 1000 km",
+      "2. Up to 10 km",
+      "3. Up to 100 km",
+      "4. Up to 10000 km"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "लोकल एरिया नेटवर्क कितने क्षेत्र में काम करता है?",
+    "options": [
+      "1. 1000 km तक",
+      "2. 10 km तक",
+      "3. 100 km तक",
+      "4. 10000 km तक"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a basic audio file extension supported by Windows OS?",
+    "options": [
+      "1. .BAT",
+      "2. .GIF",
+      "3. .DIF",
+      "4. .AU"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से कौन सा एक बुनियादी ऑडियो फ़ाइल एक्सटेंशन है जो Windows OS द्वारा समर्थित है?",
+    "options": [
+      "1. .BAT",
+      "2. .GIF",
+      "3. .DIF",
+      "4. .AU"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is NOT a lossless data compression method?",
+    "options": [
+      "1. Run length",
+      "2. Huffman",
+      "3. Lampel-Ziv",
+      "4. Transform coding"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "इनमें कौन सी हानिरहित डेटा संपीडन विधि नहीं है?",
+    "options": [
+      "1. Run length",
+      "2. Huffman",
+      "3. Lampel-Ziv",
+      "4. Transform coding"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "With reference to protocols, MIME stands for:",
+    "options": [
+      "1. Multipurpose Internet Mail Extensions",
+      "2. Multipurpose Internet Mail Email",
+      "3. Multipurpose International Mail Entity",
+      "4. Multipurpose International Mail End"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "प्रोटोकॉल के संदर्भमें, MIME का पूर्णरूप क्या है?",
+    "options": [
+      "1. मल्टी पर्पज़ इंटरनेट मेल एक्सटेंशन (Multipurpose Internet Mail Extensions)",
+      "2. मल्टी पर्पज़ इंटरनेट मेल ईमेल (Multipurpose Internet Mail Email)",
+      "3. मल्टी पर्पज़ इंटरनेशनल मेल एटिंटी (Multipurpose International Mail Entity)",
+      "4. मल्टी पर्पज़ इंटरनेशनल मेल इंड (Multipurpose International Mail End)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_______ is a communication protocol that is used to create a direct connection between two communicating devices",
+    "options": [
+      "1. PPP",
+      "2. SMTP",
+      "3. FTP",
+      "4. SFTP"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_______ एक संचार प्रोटोकॉल है जिसका उपयोग दो संचार उपकरणों के बीच सीधा (प्रत्यक्ष) कनेक्शन बनाने के लिए किया जाता है।",
+    "options": [
+      "1. PPP",
+      "2. SMTP",
+      "3. FTP",
+      "4. SFTP"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "GPU stands for?",
+    "options": [
+      "1. Graphics Processing Unit",
+      "2. Game Processing Unit",
+      "3. Graphics Primary Unit",
+      "4. Game Priliminary Unit"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "GPU का पूर्णरूप क्या है?",
+    "options": [
+      "1. Graphics Processing Unit (ग्राफिक्स प्रोसेसिंग यूनिट)",
+      "2. Game Processing Unit (गेम प्रोसेसिंग यूनिट)",
+      "3. Graphics Primary Unit (ग्राफिक्स प्राइमरी यूनिट)",
+      "4. Game Priliminary Unit (गेम प्रिलीमिनरी यूनिट)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "There are two variants of Triple DES known as:",
+    "options": [
+      "1. 3-key Triple DES (3TDES) and 8-key Triple DES (8TDES)",
+      "2. 3-key Triple DES (3TDES) and 7-key Triple DES (7TDES)",
+      "3. 3-key Triple DES (3TDES) and 5-key Triple DES (5TDES)",
+      "4. 3-key Triple DES (3TDES) and 2-key Triple DES (2TDES)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "ट्रिपल डीईएस (DES) के दो प्रकार हैं जिन्हें ______ कहा जाता है।",
+    "options": [
+      "1. 3-की ट्रिपल डीईएस (3TDES) और 8-की ट्रिपल डीईएस (8TDES)",
+      "2. 3-की ट्रिपल डीईएस (3TDES) और 7-की ट्रिपल डीईएस (7TDES)",
+      "3. 3-की ट्रिपल डीईएस (3TDES) और 5-की ट्रिपल डीईएस (5TDES)",
+      "4. 3-की ट्रिपल डीईएस (3TDES) और 2-की ट्रिपल डीईएस (2TDES)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is NOT a File Management system call used in Linux?",
+    "options": [
+      "1. open()",
+      "2. wait()",
+      "3. close()",
+      "4. write()"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्न में से कौन सा एक Linux (लिनक्स ) में उपयोग होने वाला फ़ाइल मैनेजमेंट सिस्टम कॉल नहीं है?",
+    "options": [
+      "1. open()",
+      "2. wait()",
+      "3. close()",
+      "4. write()"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Off line UPS passes ____________________.",
+    "options": [
+      "1. the input AC to the output sockets if the DC power is available",
+      "2. the input DC to the output sockets if the AC power is available",
+      "3. the input AC to the output sockets if the AC power is available",
+      "4. the input DC to the output sockets if the DC power is available"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "ऑफलाइन यू.पी.एस. (UPS) ___________________________ पास करता है।",
+    "options": [
+      "1. DC पॉवर उपलब्ध होने पर आउटपुट सॉकेट के लिए AC को",
+      "2. AC पॉवर उपलब्ध होने पर DC में आउटपुट सॉकेट को",
+      "3. AC पॉवर उपलब्ध होने पर आउटपुट सॉकेट के लिए AC को",
+      "4. DC पॉवर उपलब्ध होने पर DC आउटपुट सॉकेट को"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "_________ स्थायी रूप से कंप्यूटर की प्राथमिक मेमोरी (RAM) में रहता है।",
+    "options": [
+      "1. बूट वायरस",
+      "2. मैक्रो वायरस",
+      "3. कंप्यूटर वॉर्म",
+      "4. रेज़ीडेंट वायरस"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The _________ stays permanently in the primary memory (RAM) of the computer.",
+    "options": [
+      "1. boot virus",
+      "2. macro virus",
+      "3. computer worm",
+      "4. resident virus"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is NOT a valid CPU register?",
+    "options": [
+      "1. Program Counter",
+      "2. Accumulator",
+      "3. DMA Controller",
+      "4. Instruction Register"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, वैध CPU रजिस्टर नहीं है?",
+    "options": [
+      "1. प्रोग्राम काउंटर",
+      "2. संचायक (एक्युमुलेटर)",
+      "3. DMA कंट्रोलर",
+      "4. इंस्ट्रक्शन रजिस्टर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In the given website address 'https://www.jaav.com/full-form', which part parts represents domain name?",
+    "options": [
+      "1. www",
+      "2. https://",
+      "3. jaav.com",
+      "4. full-form"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "दिए गए वेबसाइट पते 'https://www.jaav.com/full-form' में, कौन सा भाग डोमेन नाम का प्रतिनिधित्व करता है?",
+    "options": [
+      "1. www",
+      "2. https://",
+      "3. jaav.com",
+      "4. full-form"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which search operator in Google drive refers to files owned by specified account?",
+    "options": [
+      "1. Name",
+      "2. Owner",
+      "3. Type",
+      "4. Find"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Google ड्राइव में कौन सा खोज ऑपरेटर निर्दिष्ट खाते के स्वामित्व वाली फ़ाइलों को संदर्भित करता है?",
+    "options": [
+      "1. नेम",
+      "2. ओनर",
+      "3. टाइप",
+      "4. फाइंड"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Patient Monitoring System is a computer application in which of the following category?",
+    "options": [
+      "1. Healthcare",
+      "2. Banking",
+      "3. Insurance",
+      "4. Education"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "रोगी निगरानी प्रणाली (Patient Monitoring System) निम्नलिखित में से किस श्रेणी में एक कंप्यूटर एप्लीकेशन है?",
+    "options": [
+      "1. स्वास्थ्य सेवा",
+      "2. बैंकिंग",
+      "3. बीमा",
+      "4. शिक्षा"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS-Word 2019, we can change the case of selected text in a document by clicking a single button on the Home tab called _______.",
+    "options": [
+      "1. Change Case",
+      "2. Grow Font",
+      "3. Shrink Font",
+      "4. Case Change"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Word 2019 में, हम होम टैब पर _______ नामक एक बटन पर क्लि क करके किसी दस्तावेज़ में चयनित टेक्स्ट के केस को बदल सकते हैं।",
+    "options": [
+      "1. चेंज केस",
+      "2. ग्रो फॉण्ट",
+      "3. श्रिंक फॉण्ट",
+      "4. केस चेंज"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The following icon of MS-Word 2019 represents which type of break in a document?<br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2U0bveJTQjtiPi5hyphenhyphenSCf_7IDJzpjueFGC33Ei_DuD-C0-0v8hyphenhyphenZfC4ytPHTLLrwsylf9_VlV_Eym9NZOM7FL0ZOdUEUjMaMs9D7I33NJV7bi3R0WMRcR_r2h0d_hgHW5UHcpoHKp9LxsRBS0kGd_wFhGeVVOSUyGdfSGdN0O9OLFC4gQMtQCwX0gX_S-8/s1600/35%20gh.jpg\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. Text wrapping",
+      "2. Column",
+      "3. Page",
+      "4. Next page"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Word 2019 का निम्नलिखित आइकन किस प्रकार के दस्तावेज़ ब्रेक को दर्शाता है?<br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2U0bveJTQjtiPi5hyphenhyphenSCf_7IDJzpjueFGC33Ei_DuD-C0-0v8hyphenhyphenZfC4ytPHTLLrwsylf9_VlV_Eym9NZOM7FL0ZOdUEUjMaMs9D7I33NJV7bi3R0WMRcR_r2h0d_hgHW5UHcpoHKp9LxsRBS0kGd_wFhGeVVOSUyGdfSGdN0O9OLFC4gQMtQCwX0gX_S-8/s1600/35%20gh.jpg\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. टेक्स्ट रैपिंग",
+      "2. कॉलम",
+      "3. पेज",
+      "4. नेक्स्ट पेज"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following keyboard shortcut is used to change the default font size for all or selected text in MS-Word 2019?",
+    "options": [
+      "1. Ctrl Shift + Alt + S",
+      "2. Ctrl + Shift + S + arrow keys + Enter",
+      "3. Ctrl + Shift + Enter",
+      "4. Ctrl + Shift + P and arrow keys + Enter"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Word 2019 में सभी या चयनित टेक्स्ट के लिए डिफ़ॉल्ट फ़ॉन्ट आकार को बदलने के लिए निम्नलिखित में से किस कीबोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Ctrl Shift + Alt + S",
+      "2. Ctrl + Shift + S + arrow keys + Enter",
+      "3. Ctrl + Shift + Enter",
+      "4. Ctrl + Shift + P and arrow keys + Enter"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "How can you select your default font in MS-Word 2019?",
+    "options": [
+      "1. Select the Font Dialog Box Launcher on Home Tab, then select your font and select Set As Default.",
+      "2. No option to set as default",
+      "3. By clicking font group then click on set as default",
+      "4. Simply choose the font every time you want to apply"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Word 2019 में, आप अपना डिफ़ॉल्ट फ़ॉन्ट कैसे चुन सकते हैं?",
+    "options": [
+      "1. होम टैब पर फ़ॉन्ट डायलॉग बॉक्स लॉन्चर चुनें, अपने फ़ॉन्ट का चयन करके और डिफ़ॉल्ट के रूप में सेट करने हेतु चयन करके",
+      "2. डिफ़ॉल्ट रूप में सेट करने के लिए कोई विकल्प नहीं है",
+      "3. फ़ॉन्ट समूह पर क्लिक करके डिफ़ॉल्ट के रूप में सेट पर क्लि क करके",
+      "4. प्रत्ये क बार प्रयोग करने के लिए प्रत्ये क बार फ़ॉन्ट चुनकर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Word 2019 में, पैराग्राफ़ स्पेसिंग के अंत के ऐड स्पेस को ______ में मापा जा सकता है।",
+    "options": [
+      "1. पॉइंट्स",
+      "2. पिट्स",
+      "3. इंच",
+      "4. सेंटीमीटर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS-Word 2019, the Add Space after paragraph spacing can be measured in ______.",
+    "options": [
+      "1. points",
+      "2. pits",
+      "3. inches",
+      "4. centimetres"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following options displays tracked changes with a red line in the margin while using the Tracking changes option in MS-Word 2019?",
+    "options": [
+      "1. Simple Markup",
+      "2. All Markup",
+      "3. Original",
+      "4. No Markup"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Word 2019 में ट्रैकिंग परिवर्तन विकल्प का उपयोग करते समय निम्नलिखित में से कौन सा विकल्प मार्जिन में लाल रेखा के साथ ट्रैक किए गए परिवर्तनों को प्रदर्शित करता है?",
+    "options": [
+      "1. सिंपल मार्कअप",
+      "2. आल मार्कअप",
+      "3. ओरिजनल",
+      "4. नो मार्कअप"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "With reference to networks, OSI stands for:",
+    "options": [
+      "1. Open System Interface",
+      "2. Out System Interface",
+      "3. Open System Interconnection",
+      "4. Out System Interconnection"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "नेटवर्क के संदर्भ में, OSI का पूर्णरूप क्या है?",
+    "options": [
+      "1. Open System Interface (ओपन सिस्टम इंटरफेस)",
+      "2. Out System Interface (आउट सिस्टम इंटरफेस)",
+      "3. Open System Interconnection (ओपन सिस्टम इंटरकनेक्शन)",
+      "4. Out System Interconnection (आउट सिस्टम इंटरकनेक्शन)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The Guest account on the FTP server can be assigned with a username and ______ that is required to access data on it.",
+    "options": [
+      "1. ID card",
+      "2. IP address",
+      "3. web address",
+      "4. password"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "FTP सर्वर का गेस्टअकाउंट के लिए एक यूजरनेम और ______ निर्धारित कर सकता है, जो इसपर डेटा के एक्सेस के लिए आवश्यक है।",
+    "options": [
+      "1. ID कार्ड",
+      "2. IP एड्रेस",
+      "3. वेब एड्रेस",
+      "4. पासवर्ड"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Development of ________ was initiated by Tim Berners-Lee at CERN in 1989.",
+    "options": [
+      "1. TCP/IP",
+      "2. SMTP",
+      "3. HTTP",
+      "4. WWW"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "1989 में CERN में टिम बर्नर्स-ली ने ________ को विकसित करने की शुरुआत की थी।",
+    "options": [
+      "1. TCP/IP",
+      "2. SMTP",
+      "3. HTTP",
+      "4. WWW"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In MS-Excel, enter Jan into cell A1. Select cell A1 and drag the fill handle down by five rows. Cell A3 now contains ______.",
+    "options": [
+      "1. Apr",
+      "2. Feb",
+      "3. Jan",
+      "4. Mar"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel में, सेल A1 में Jan एंटर करें। सेल A1 का चयन करें और फिल हैंडल को पांच रो नीचे खींचें। सेल A3 में अब ______ होगा।",
+    "options": [
+      "1. Apr",
+      "2. Feb",
+      "3. Jan",
+      "4. Mar"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In MS-Excel, if cell B4 contains 60, then formula =LEN(B4) computes ______.",
+    "options": [
+      "1. 0",
+      "2. 2",
+      "3. 6",
+      "4. 60"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel में, सेल B4 में 60 है, तो फ़ॉर्मूला =LEN(B4) द्वारा गणना करने पर प्राप्त परिणाम _____ होगा।",
+    "options": [
+      "1. 0",
+      "2. 2",
+      "3. 6",
+      "4. 60"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In MS-Excel, ______ refers to a value in cell C3 of Sheet2.",
+    "options": [
+      "1. Sheet2!C3",
+      "2. Sheet2$C3",
+      "3. Sheet2#C3",
+      "4. Sheet2:C3"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel में, ______ शीट2 के सेल C3 में एक मान को संदर्भित करता है।",
+    "options": [
+      "1. Sheet2!C3",
+      "2. Sheet2$C3",
+      "3. Sheet2#C3",
+      "4. Sheet2:C3"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Suppose you are in cell B1. Start recording a macro in relative reference mode, select cell B2 and complete the macro. Move to cell P4 and execute the macro. The macro will run in cell ______.",
+    "options": [
+      "1. B1",
+      "2. B2",
+      "3. P4",
+      "4. P5"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "मान लीजिए आप सेल B1 में हैं। रिलेटिव रेफेरेंस मोड में मैक्रो रिकॉर्ड करना शुरू करें, सेल B2 का चयन करें और मैक्रो को पूरा करें। सेल P4 पर जाए और मैंक्रो को एक्सीक्यूट करें। इस स्थिति में, मैक्रो कौन से सेल में रन होगी?",
+    "options": [
+      "1. B1",
+      "2. B2",
+      "3. P4",
+      "4. P5"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel allow you to enter a single formula in one cell, and then that formula will automatically expand to the rest of the column by itself. When is this statement true?",
+    "options": [
+      "1. Always",
+      "2. Never",
+      "3. When calculated columns are used",
+      "4. Only in the case of the last column of the table"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel आपको एक सेल में एक फॉर्मूला दर्ज करने की अनुमति देता है, और फिर वह फॉर्मूला स्वचालित रूप से शेष कॉलम में विस्तारित हो जाएगा। यह कथन कब सत्य है?",
+    "options": [
+      "1. हमेशा",
+      "2. कभी नहीं",
+      "3. जब परिकलित कॉलम का उपयोग किया जाता है",
+      "4. केवल टेबल के अंतिम कॉलम के संबंध में"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In MS-Excel, a ______ chart provides interactive filtering controls on the chart so that we can quickly analyse a subset of the data.",
+    "options": [
+      "1. bubble",
+      "2. column",
+      "3. pivot",
+      "4. surface"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel में, ______ चार्ट, चार्ट पर इंटरेक्टिव फ़िल्टरिंग कंट्रोल्स प्रदान करता है जिससे हम डेटा के सबसेट का शीघ्रता से विश्लेषण कर सकें।",
+    "options": [
+      "1. बबल",
+      "2. कॉलम",
+      "3. पाइवोट",
+      "4. सरफेस"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following keyboard shortcut key is used to insert a page break in MS-Word 2016 document?",
+    "options": [
+      "1. Alt + Enter",
+      "2. Shift + Enter",
+      "3. Ctrl + Enter",
+      "4. Ctrl+F9"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Word 2016 दस्तावेज़ में पेज ब्रेक डालने के लिए निम्नलिखित में से किस कीबोर्ड शॉर्टकट कुंजी का उपयोग किया जाता है?",
+    "options": [
+      "1. Alt + Enter",
+      "2. Shift + Enter",
+      "3. Ctrl + Enter",
+      "4. Ctrl+F9"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The default zoom percentage in MS-Excel is ______.",
+    "options": [
+      "1. 50%",
+      "2. 75%",
+      "3. 100%",
+      "4. 125%"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel में डिफ़ॉल्ट ज़ूम ______ प्रतिशत होता है।",
+    "options": [
+      "1. 50%",
+      "2. 75%",
+      "3. 100%",
+      "4. 125%"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The MS-Excel backstage view is provided by the ______ tab.",
+    "options": [
+      "1. Data",
+      "2. File",
+      "3. Page Layout",
+      "4. View"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel बैकस्टेज व्यू, निम्न में से किस टैब में मौज़ूद होता है?",
+    "options": [
+      "1. डेटा",
+      "2. फ़ाइल",
+      "3. पेज लेआउट",
+      "4. व्यू"
+    ],
+    "answer": 1
+  }
 ]
         
         };
