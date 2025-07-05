@@ -243,6 +243,128 @@
     ],
     "answer": 2
   }
+],
+  "30th May 2025 - Shift1": [
+  {
+    "q": "In how many different ways can the letters of the word ‘BANKING’ be arranged?",
+    "options": [
+      "1. 5040",
+      "2. 2540",
+      "3. 5080",
+      "4. 2520"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "'BANKING' शब्‍द के अक्षरों को कितने अलग-अलग तरीकों से व्‍यवस्थित किया जा सकता है?",
+    "options": [
+      "1. 5040",
+      "2. 2540",
+      "3. 5080",
+      "4. 2520"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Lokesh bought an article for ₹2,500. He spent ₹320 on its shipping. He then sold it for ₹4,089. What was the percentage of profit that he gained in this transaction? Options :",
+    "options": [
+      "1. 38%",
+      "2. 45%",
+      "3. 46%",
+      "4. 35%"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "लोकेश ने ₹2,500 में एक वस्तु खरीदी। उसने इसकी शिपिंग पर ₹320 खर्च किए। इसके बाद उसने इसे ₹4,089 में बेच दिया। इस लेन-देन में उसे कितने प्रतिशत लाभ प्राप्‍त हुआ?",
+    "options": [
+      "1. 38%",
+      "2. 45%",
+      "3. 46%",
+      "4. 35%"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What will come in place of the question mark (?) in the given number series? <br>1.5  2.5  7  24  100 ?",
+    "options": [
+      "1. 345",
+      "2. 460",
+      "3. 525",
+      "4. 505"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "दी गई संख्या श्रृंखला में प्रश्‍न  चिह्न (?) के स्थान पर क्या आएगा?<br>1.5  2.5  7  24  100 ?",
+    "options": [
+      "1. 345",
+      "2. 460",
+      "3. 525",
+      "4. 505"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Two containers have an equal amount of a mixture of milk and water in the ratios of 4 : 3 and 5 : 2. If the contents of both containers are transferred to a third container, the ratio of milk and water would become:",
+    "options": [
+      "5 : 9",
+      "5 : 4",
+      "3 : 2",
+      "9 : 5"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "पात्रों में 4 : 3 और 5 : 2 के अनुपात में दूध और पानी का मिण समान मात्रा में है। यदि दोनों पात्रों के मिण को तीसरे पा में स्थानांतरित कर दिया जाए तो दूध और पानी का अनुपात कितना हो जाएगा?",
+    "options": [
+      "5 : 9",
+      "5 : 4",
+      "3 : 2",
+      "9 : 5"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The incomes of X, Y and Z are in the ratio of 3 : 4 : 5 and the ratio of their respective expenditures is 4 : 5 : 6. If X saves 25% of his income, then the ratio of their savings is: Options :",
+    "options": [
+      "26:19:12",
+      "26:12:19",
+      "12:26:19",
+      "12:19:26"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "X, Y और Z की आय का अनुपात 3 : 4 : 5 है और उनके संबंधित य का अनुपात 4 : 5 : 6 है। अगर X अपनी आय का 25% बचाता है, तो उनकी बचत का अनुपात क्या होगा?",
+    "options": [
+      "26:19:12",
+      "26:12:19",
+      "12:26:19",
+      "12:19:26"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In a single throw of three dices, what is the probability of getting a total of at least 5?",
+    "options": [
+      "1/54",
+      "1/27",
+      "26/27",
+      "53/54"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "तीन पासों को एक बार फेंकने पर कुल कम से कम 5 आने की प्रायिकता क्या है?",
+    "options": [
+      "1/54",
+      "1/27",
+      "26/27",
+      "53/54"
+    ],
+    "answer": 3
+  }
 ]
 
    };
