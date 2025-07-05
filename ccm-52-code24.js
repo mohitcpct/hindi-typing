@@ -19796,6 +19796,1048 @@
     ],
     "answer": 1
   }
+],
+  "22nd July 2023 - Shift2": [
+ {
+    "q": "Which type of software is Linux?",
+    "options": [
+      "1. Driver Software",
+      "2. System Software",
+      "3. Utility Software",
+      "4. Application Software"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "LINUX किस प्रकार का सॉफ्टवेयर है?",
+    "options": [
+      "1. ड्राइवर सॉफ्टवेयर",
+      "2. सिस्टम सॉफ्टवेयर",
+      "3. यूटिलिटी सॉफ्टवेयर",
+      "4. एप्लीकेशन सॉफ्टवेयर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Supercomputers are primarily useful for:",
+    "options": [
+      "1. basic word processing operations",
+      "2. data intensive operations",
+      "3. business transaction processing",
+      "4. professional presentation"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "सुपरकंप्यूटर मुख्य रूप से किसके लिए उपयोगी हैं?",
+    "options": [
+      "1. बेसिक वर्ड प्रोसेसिंग ऑपरेशन्स",
+      "2. डेटा इंटेंसिव ऑपरेशन्स",
+      "3. बिज़नेस ट्रांसक्शन प्रोसेसिंग",
+      "4. प्रोफेशनल प्रेजेंटेशन"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is NOT a network device?",
+    "options": [
+      "1. Bridge",
+      "2. Router",
+      "3. Hub",
+      "4. Stylus"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से कौन-सा, एक नेटवर्क डिवाइस नहीं है?",
+    "options": [
+      "1. ब्रिज",
+      "2. राउटर",
+      "3. हब",
+      "4. स्टाइलस"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which function returns the inverse of the left tailed probability of the chi-squared distribution in MS-Excel 2019?",
+    "options": [
+      "1. CHISQ.INV",
+      "2. INVCHI.ISQ",
+      "3. CHIINVP.INV",
+      "4. INVPCHI.IHC"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कौन-सा फ़ंक्शन MS-Excel 2019 में ची-स्क्वेर्ड डिस्ट्रीब्यूशन (chi-squared distribution) की बाईं पुच्छल (left tailed) प्रायिकता का व्युत्क्रम लौटाता है?",
+    "options": [
+      "1. CHISQ.INV",
+      "2. INVCHI.ISQ",
+      "3. CHIINVP.INV",
+      "4. INVPCHI.IHC"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which part of the computer is used to type in the information into the computer?",
+    "options": [
+      "1. Mouse",
+      "2. Monitor",
+      "3. Keyboard",
+      "4. Pen"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "कंप्यूटर का कौन-सा हिस्सा कंप्यूटर में इनफार्मेशन टाइप करने के लिए उपयोग किया जाता है?",
+    "options": [
+      "1. माउस",
+      "2. मॉनिटर",
+      "3. कीबोर्ड",
+      "4. पेन"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "An assembler is used to translate a program written in ______.",
+    "options": [
+      "1. a low level language",
+      "2. a machine language",
+      "3. a high level language",
+      "4. an assembly language"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "एक असेंबलर का उपयोग ______ में लिखे गए प्रोग्राम का अनुवाद करने के लिए किया जाता है।",
+    "options": [
+      "1. एक निम्न स्तरीय भाषा",
+      "2. एक मशीन भाषा",
+      "3. एक उच्च स्तरीय भाषा",
+      "4. एक एसेम्‍बली भाषा"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The embedded software is used in _________.",
+    "options": [
+      "1. online railway information system",
+      "2. smart watches",
+      "3. e-learning software",
+      "4. multimedia movies"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एम्बेडेड सॉफ्टवेयर का प्रयोग ___________ में होता है।",
+    "options": [
+      "1. ऑनलाइन रेलवे सूचना प्रणाली",
+      "2. स्मार्ट घड़ियाँ",
+      "3. ई-लर्निंग सॉफ्टवेयर",
+      "4. मल्टीमीडिया फिल्म"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following optical discs can be written only once with audio and video data?",
+    "options": [
+      "1. BD-R",
+      "2. BD-ROM",
+      "3. BD-RE",
+      "4. BD-XL"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से कौन-सी ऑप्टिकल डिस्क केवल एक बार ऑडियो तथा वीडियो डेटा के साथ राइट की जा सकती है?",
+    "options": [
+      "1. BD-R",
+      "2. BD-ROM",
+      "3. BD-RE",
+      "4. BD-XL"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is the basic building block of a CPU?",
+    "options": [
+      "1. ALU",
+      "2. RAM",
+      "3. ROM",
+      "4. Timer"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, एक CPU का बुनियादी निर्माण ब्लॉक है?",
+    "options": [
+      "1. ALU",
+      "2. RAM",
+      "3. ROM",
+      "4. टाइमर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following connector of sound card can be used to record or mix sound signals from an external source, such as a stereo system or VCR, to the computer's hard disk?",
+    "options": [
+      "1. line-in",
+      "2. line-out",
+      "3. mono-in",
+      "4. game port"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "ध्वनि कार्ड के निम्नलिखित में से किस कनेक्टर का उपयोग कंप्यूटर की हार्ड डिस्क में स्टीरियो सिस्टम या वीसीआर जैसे बाहरी स्रोत से ध्वनि संकेतों को रिकॉर्ड या मिश्रित करने के लिए किया जा सकता है?",
+    "options": [
+      "1. लाइन-इन",
+      "2. लाइन-आउट",
+      "3. मोनो-इन",
+      "4. गेम पोर्ट"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT a high-level programming language?",
+    "options": [
+      "1. C",
+      "2. C++",
+      "3. Java",
+      "4. Binary code"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से कौन-सी, एक उच्च स्तरीय प्रोग्रामिंग भाषा नहीं है?",
+    "options": [
+      "1. C",
+      "2. C++",
+      "3. Java",
+      "4. बाइनरी कोड"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "With reference to Tablet device, ___________ data by tracing or entering the corners of linear poly lines or shapes is called digitising.",
+    "options": [
+      "1. Capturing",
+      "2. Snapping",
+      "3. Snooping",
+      "4. Sampling"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "टैबलेट डिवाइस के संदर्भ में, रैखिक बहु-रेखाओं (पॉली-लाइंस) या आकारों के कोनों को ट्रेस करके या एंटर करके, डेटा ______ करने की प्रक्रिया ड़िजिटाइज़िंग के नाम से जानी जाती है।",
+    "options": [
+      "1. कैप्चरिंग",
+      "2. स्नैपिंग",
+      "3. स्नूपिंग",
+      "4. सैम्पलिंग"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In ______ magnitude, the left-most bit is NOT actually a part of the number.",
+    "options": [
+      "1. the unsigned",
+      "2. the signed",
+      "3. the dual signed",
+      "4. both unsigned and signed"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ परिमाण (magnitude) में, सबसे बायीं बिट वास्तव में संख्या का हिस्सा नहीं होती।",
+    "options": [
+      "1. अनसाइन्ड",
+      "2. साइन्ड",
+      "3. डुअल साइन्ड",
+      "4. अनसाइन्ड और साइन्ड दोनों"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "32 bit Peripheral Component Interconnect have a transport speed of 33 MHz and work at ___________.",
+    "options": [
+      "1. 264 MBps",
+      "2. 132 MBps",
+      "3. 512 MBps",
+      "4. 1 GBps"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "32 बिट पेरिफेरल कंपोनेंट इंटरकनेक्ट की ट्रांसपोर्ट स्पीड 33 मेगाहर्ट्ज है और यह _____________ पर काम करता हैΙ",
+    "options": [
+      "1. 264 एमबीपीएस",
+      "2. 132 एमबीपीएस",
+      "3. 512 एमबीपीएस",
+      "4. 1 जीबीपीएस"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "CRT monitor has ______ guns.",
+    "options": [
+      "1. 3 electron",
+      "2. 4 neutron",
+      "3. 6 proton",
+      "4. 12 electron"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "सी.आर.टी. (CRT) मॉनिटर में ______ गन्स होती हैं।",
+    "options": [
+      "1. 3 इलेक्ट्रॉन",
+      "2. 4 न्यूट्रॉन",
+      "3. 6 प्रोटॉन",
+      "4. 12 इलेक्ट्रॉन"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Who was the founder of Bluetooth?",
+    "options": [
+      "1. Jaap Haarsten",
+      "2. Martin Cooper",
+      "3. Steve Jobs",
+      "4. Charles Babbage"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "ब्लूटूथ, निम्न में से किसके द्वारा विकसित किया गया था?",
+    "options": [
+      "1. जाप हार्स्टन",
+      "2. मार्टिन कूपर",
+      "3. स्टीव जॉब्स",
+      "4. चार्ल्स बैबेज"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following symbols must be used as a part of an e-mail address?",
+    "options": [
+      "1. equal to symbol (=)",
+      "2. dollar symbol ($)",
+      "3. at symbol (@)",
+      "4. percentage symbol (%)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्न में से किस प्रतीक का उपयोग ई-मेल एड्रेस के एक भाग के रूप में उपयोग किया जाना चाहिए?",
+    "options": [
+      "1. बराबर के प्रतीक (=)",
+      "2. डॉलर के प्रतीक ($)",
+      "3. ऐट द रेट के प्रतीक (@)",
+      "4. प्रतिशत के प्रतीक (%)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following in MS-Excel 2016 is a predesigned spreadsheet that can be used to create a new workbook quickly?",
+    "options": [
+      "1. Pivot table",
+      "2. Template",
+      "3. Microsoft Account",
+      "4. Ribbon"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन सी MS-Excel 2016 में पहले से डिज़ाइन की गई एक स्प्रेडशीट है, जिसका उपयोग शीघ्रता से एक नई वर्कबुक बनाने के लिए किया जा सकता है?",
+    "options": [
+      "1. पाइवोट तालिका",
+      "2. टेम्पलेट",
+      "3. माइक्रोसॉफ्ट अकाउंट",
+      "4. रिबन"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Toner cartridge is used by ____________ printer.",
+    "options": [
+      "1. dot matrix",
+      "2. daisy wheel",
+      "3. line",
+      "4. laser"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से किस प्रिंटर में टोनर कार्टेज का उपयोग होता है?",
+    "options": [
+      "1. डॉट मैट्रिक्स प्रिंटर",
+      "2. डेज़ी व्हील प्रिंटर",
+      "3. लाइन प्रिंटर",
+      "4. लेजर प्रिंटर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which printer uses heated pins to burn images onto heat-sensitive paper?",
+    "options": [
+      "1. Laser",
+      "2. Inkjet",
+      "3. Thermal",
+      "4. LED"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "ऊष्मा -संवेदी पेपरों पर छवियों को छापने (बर्न करने) के लिए निम्न में से किस प्रिंटर द्वारा पिनों का उपयोग किया जाता है?",
+    "options": [
+      "1. लेज़र",
+      "2. इंकजेट",
+      "3. थर्मल",
+      "4. LED"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "On the CD surface, the audio signals are stored as _______________.",
+    "options": [
+      "1. laser patterns",
+      "2. hexadecimal numbers",
+      "3. pits",
+      "4. magnetic patterns"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "CD की सतह पर, ऑडियो सिग्नल __________ के संयोजन के रूप में संग्रहीत किए जाते हैं।",
+    "options": [
+      "1. लेज़र पैटर्न्स",
+      "2. हेक्सा डेसीमल नंबर्स",
+      "3. पिट्स",
+      "4. मैग्नेटिक पैटर्न"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is a device with the primary function to accept, combine, process and monitor audio?",
+    "options": [
+      "1. Audio divider",
+      "2. Audio mixer",
+      "3. Audio generator",
+      "4. Audio creator"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ऑडियो को स्वीकार करने, संयोजित करने, प्रोसेस करने और मॉनिटर करने के लिए प्राथमिक कार्य वाला उपकरण निम्न में से कौन सा है?",
+    "options": [
+      "1. ऑडियो डिवाइडर",
+      "2. ऑडियो मिक्सर",
+      "3. ऑडियो जनरेटर",
+      "4. ऑडियो क्रिएटर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the process of modifying, encoding or converting the bits structure of data in such a way that it consumes less space on disk called?",
+    "options": [
+      "1. Data hiding",
+      "2. Data compression",
+      "3. Data decompression",
+      "4. Data encryption"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "डेटा की बिट्स संरचना को संशोधित, एन्कोडिंग या परिवर्तित करने की वह प्रक्रिया क्या कहलाती है जिसमें यह डिस्क पर कम जगह लेती है?",
+    "options": [
+      "1. डेटा हाइडिंग",
+      "2. डेटा कम्प्रेशन",
+      "3. डेटा डीकम्प्रेशन",
+      "4. डेटा एन्क्रिप्शन"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "With reference to speech and voice simulation, what is Vocoder?",
+    "options": [
+      "1. An audio processor",
+      "2. A noise in the mp3 file",
+      "3. A noise in the speech file",
+      "4. A filter"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "भाषण और आवाज सिमुलेशन के संदर्भ में वोकोडर (Vocoder) क्या है?",
+    "options": [
+      "1. एक ऑडियो प्रोसेसर",
+      "2. MP3 फाइल में शोर",
+      "3. स्पीच फाइल में शोर",
+      "4. एक फ़िल्टर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Hash function is ______ while creating hash value.",
+    "options": [
+      "1. one way",
+      "2. two way",
+      "3. three way",
+      "4. four way"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "हैश वैल्यू के सृजन के दौरान हैश फंक्शन _______ होता है।",
+    "options": [
+      "1. एक मार्गी",
+      "2. दो मार्गी",
+      "3. तीन मार्गी",
+      "4. चार मार्गी"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Solid font printer belongs to which of the following categories?",
+    "options": [
+      "1. Inkjet printers",
+      "2. Laser printers",
+      "3. Thermal printers",
+      "4. Impact printers"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "सॉलिड फॉन्ट प्रिंटर निम्नलिखित में से किस श्रेणी से संबंधित है?",
+    "options": [
+      "1. इंकजेट प्रिंटर्स",
+      "2. लेज़र प्रिंटर्स",
+      "3. थर्मल प्रिंटर्स",
+      "4. इम्पैक्ट प्रिंटर्स"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following messages will appear on the command prompt screen if the ping command did not locate the destination in a reasonable amount of time?",
+    "options": [
+      "1. Page cannot be displayed",
+      "2. Request Timed out",
+      "3. Cannot connect in Time",
+      "4. Reply from unknown host"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "यदि पिंग कमांड उचित समय मेंस्थान का पता नहीं लगाता है तो निम्न में से कौन सा संदेश कमांड प्रॉम्प्ट स्क्रीन पर दिखाई देगा?",
+    "options": [
+      "1. Page cannot be displayed",
+      "2. Request Time out",
+      "3. Cannot connect message",
+      "4. Reply from unknown host"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the extension for Bash Shell Script file?",
+    "options": [
+      "1. .bash",
+      "2. .sh",
+      "3. .shell",
+      "4. .script"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "बैश शेल स्क्रिप्ट फ़ाइल का एक्सटेंशन क्या है?",
+    "options": [
+      "1. .bash",
+      "2. .sh",
+      "3. .shell",
+      "4. .script"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Everything sent via WhatsApp is protected with a feature where no one else can read or listen to your messages or calls aside from you and the recipient. What is that feature called?",
+    "options": [
+      "1. End-to-end encryption",
+      "2. Hash function",
+      "3. Digital signature",
+      "4. Digital certificate"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "व्हाट्सएप के माध्यम से भेजी जाने वाली कोई भी चीज़ एक फ़ीचर द्वारा सुरक्षित होती है, जिससे आपके और प्राप्तकर्ता के अलावा कोई भी आपके भेजे हुए संदेशों या कॉल को पढ़ या सुन नहीं सकता है। वह फ़ीचर क्या कहलाता है?",
+    "options": [
+      "1. एंड टू एंड एन्क्रिप्शन",
+      "2. हैश फंक्शन",
+      "3. डिजिटल सिग्नेचर",
+      "4. डिजिटल सर्टिफिकेट"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT a field of software bug report?",
+    "options": [
+      "1. Lines Of Code",
+      "2. Defect ID",
+      "3. Defect Title",
+      "4. Environment"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से क्या सॉफ्टवेयर बग रिपोर्ट की एक फील्ड नहीं है?",
+    "options": [
+      "1. लाइन्स ऑफ़ कोड",
+      "2. डिफेक्ट आईडी",
+      "3. डिफेक्ट टाइटल",
+      "4. पर्यावरण (एनवायरनमेंट)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The information sent over the internet is divided into small pieces called _____________.",
+    "options": [
+      "1. packets",
+      "2. blocks",
+      "3. forms",
+      "4. messages"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "इंटरनेट पर भेजी जाने वाली जानकारी को छोटे-छोटे टुकड़ों में विभाजित किया जाता है जिसे ___________ कहा जाता है।",
+    "options": [
+      "1. पैकेट्स",
+      "2. ब्लॉक्स",
+      "3. फॉर्म्स",
+      "4. संदेश (मेसेजिस)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ is an area of memory or disk that is assigned to store email messages sent by other users.",
+    "options": [
+      "1. Post-email",
+      "2. Postbox",
+      "3. Dropbox",
+      "4. Mailbox"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "_______ मेमोरी या डिस्क का एक क्षेत्र है जो अन्य उपयोगकर्ताओं द्वारा भेजे गए ई-मेल संदेशों को संग्रहीत करने के लिए असाइन किया जाता है।",
+    "options": [
+      "1. पोस्ट-ईमेल",
+      "2. पोस्टबॉक्स",
+      "3. ड्रॉपबॉक्स",
+      "4. मेलबॉक्स"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is a search engine?",
+    "options": [
+      "1. Macromedia flash",
+      "2. Google",
+      "3. Netscape",
+      "4. Firefox"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्न में से कौन-सा, एक सर्च इंजन है?",
+    "options": [
+      "1. मैक्रोमीडिया फ्लैश",
+      "2. गूगल",
+      "3. नेटस्केप",
+      "4. फायरफॉक्स"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ is a program that provides access to the web resources.",
+    "options": [
+      "1. Web browser",
+      "2. Web site",
+      "3. Web page",
+      "4. URL"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_______ एक ऐसा प्रोग्राम है जो वेब संसाधनों तक पहुँच (एक्सेस) प्रदान करता है।",
+    "options": [
+      "1. वेब ब्राउज़र",
+      "2. वेबसाइट",
+      "3. वेब पृष्ठ",
+      "4. यूआरएल"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "__________ is a form of Internet navigation that allows a user to browse multiple web pages in a single window.",
+    "options": [
+      "1. Tabbed browsing",
+      "2. Table browsing",
+      "3. Tentative browsing",
+      "4. Tagline browsing"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_________ इंटरनेट नेविगेशन का एक रूप है जो एक उपयोगकर्ता को एक ही विंडो में कई वेब पेज ब्राउज़ करने की अनुमति देता है।",
+    "options": [
+      "1. टैब्ड ब्राउज़िंग (Tabbed browsing)",
+      "2. टेबल ब्राउजिंग (Table browsing)",
+      "3. टेंटेटिव ब्राउज़िंग (Tentative browsing)",
+      "4. टैगलाइन ब्राउज़िंग (Tagline browsing)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following options will help you generate a large capital letter as a decorative element at the beginning of a paragraph or section in MS-Word 2019?",
+    "options": [
+      "1. Uppercase",
+      "2. Lowercase",
+      "3. Drop Cap",
+      "4. Sentence Case"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा विकल्प MS-Word 2019 में एक पैराग्राफ या सेक्शन की शुरुआत में सजावटी तत्व के रूप में एक बड़ा कैपिटल लेटर बनाने (निर्माण) में आपकी मदद करेगा?",
+    "options": [
+      "1. अपरकेस (Uppercase)",
+      "2. लोअरकेस (Lowercase)",
+      "3. ड्रॉप कैप (Drop Cap)",
+      "4. सेंटेंस केस (Sentence Case)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "JRE stands for:",
+    "options": [
+      "1. Java Runtime Environment",
+      "2. Java Real Environment",
+      "3. Java Rare Environment",
+      "4. Java Real Enrollment"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "JRE का पूर्णरूप क्या है?",
+    "options": [
+      "1. Java Runtime Environment (जावा रनटाइम एनवायरनमेंट)",
+      "2. Java Real Environment (जावा रियल एनवायरनमेंट)",
+      "3. Java Rare Environment (जावा रिअर एनवायरनमेंट)",
+      "4. Java Real Enrollment (जावा रियल एनरोलमेंट)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the full form of BHIM?",
+    "options": [
+      "1. Bharat Interface For Money",
+      "2. Bharat Interaction For Money",
+      "3. Billing Interaction For Money",
+      "4. Billing Interface For Money"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "भीम (BHIM) का पूर्णरूप क्या है?",
+    "options": [
+      "1. भारत इंटरफेस फॉर मनी (Bharat Interface For Money)",
+      "2. भारत इंटरेक्शन फॉर मनी (Bharat Interaction For Money)",
+      "3. बिलिंग इंटरेक्शन फॉर मनी (Billing Interaction For Money)",
+      "4. बिलिंग इंटरफ़ेस फॉर मनी (Billing Interface For Money)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A ______ is a simple program that manages all print jobs that are submitted to the print server or a computer printer.",
+    "options": [
+      "1. print manager",
+      "2. printer pool",
+      "3. print services",
+      "4. print spooler"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "______ एक सरल प्रोग्राम है जो प्रिंट सर्वर या कंप्यूटर प्रिंटर पर सबमिट किए गए सभी प्रिंट कार्यों का प्रबंधन करता है।",
+    "options": [
+      "1. प्रिंट मेनेजर",
+      "2. प्रिंटर पूल",
+      "3. प्रिंट सर्विसिस",
+      "4. प्रिंट स्पूलर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following ribbon tab of MS-Word 2019 shows the fonts available for use?",
+    "options": [
+      "1. View",
+      "2. Page Layout",
+      "3. Reference",
+      "4. Home"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Word 2019 का निम्नलिखित में से कौन-सा रिबन टैब उपयोग के लिए उपलब्ध फ़ॉन्ट्स दिखाता है ?",
+    "options": [
+      "1. व्यू (View)",
+      "2. पेज लेआउट (Page Layout)",
+      "3. रेफरेन्स (Reference)",
+      "4. होम (Home)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is a popular client-side programming language?",
+    "options": [
+      "1. CSS",
+      "2. Java",
+      "3. C++",
+      "4. JSP"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सी, एक लोकप्रिय क्लाइंट-साइड प्रोग्रामिंग भाषा है?",
+    "options": [
+      "1. CSS",
+      "2. जावा",
+      "3. C++",
+      "4. JSP"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ is a kind of toggle key on key board that enables and disables the numeric pad.",
+    "options": [
+      "1. Num Lock",
+      "2. Insert",
+      "3. Caps lock",
+      "4. F5"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ की बोर्ड पर एक प्रकार की टॉगल कुंजी है जो संख्यात्मक (numeric) पैड को सक्रीय (एनेबल) तथा निष्क्रिय (डिसेबल) करती है।",
+    "options": [
+      "1. नम लॉक (Num Lock)",
+      "2. इन्सर्ट (Insert)",
+      "3. कैप्स लॉक (Caps lock)",
+      "4. F5"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following feature of MS-Word 2019 automatically corrects common typographical errors in a document?",
+    "options": [
+      "1. AutoFormat",
+      "2. AutoCorrect",
+      "3. AutoFill",
+      "4. AutoUpdate"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एमएस-वर्ड 2019 की निम्नलिखित में से कौन सी विशेषता दस्तावेज़ में सामान्य टाइपोग्राफ़िकल त्रुटियों को स्वचालित रूप से ठीक करता है।",
+    "options": [
+      "1. ऑटोफॉर्मेट",
+      "2. ऑटोकरेक्ट",
+      "3. ऑटोफिल",
+      "4. ऑटोअपडेट"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is least used server-side programming language?",
+    "options": [
+      "1. PHP",
+      "2. C",
+      "3. ASP",
+      "4. JSP"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सी, सर्वर-साइड प्रोग्रामिंग भाषा का सबसे कम उपयोग किया जाता है?",
+    "options": [
+      "1. PHP",
+      "2. C",
+      "3. ASP",
+      "4. JSP"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "How many paragraph alignment options are available in MS-Word?",
+    "options": [
+      "1. Three",
+      "2. Five",
+      "3. Four",
+      "4. Two"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Word में कितने अनुच्छेद अलाइनमेंट (संरेखण) विकल्प उपलब्ध हैं?",
+    "options": [
+      "1. तीन",
+      "2. पांच",
+      "3. चार",
+      "4. दो"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is NOT an example of a digital wallet?",
+    "options": [
+      "1. Google Pay",
+      "2. BHIM",
+      "3. PhonePe",
+      "4. Purse"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, डिजिटल वॉलेट का उदाहरण नहीं है?",
+    "options": [
+      "1. गूगल पे (Google Pay)",
+      "2. भीम (BHIM)",
+      "3. फ़ोनपे (PhonePe)",
+      "4. पर्स (Purse)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Identify the group under the Mailing tab in MS-Word 2019 which has only two icons in it.",
+    "options": [
+      "1. Create",
+      "2. Start mail merge",
+      "3. Write & insert fields",
+      "4. Finish"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Word 2019 में मेलिंग टैब के अंतर्गत उस समूह की पहचान करेंजिसमें केवल दो आइकन होते हैं।",
+    "options": [
+      "1. बनाएं (Create)",
+      "2. मेल मर्ज शुरू करें (Start mail merge)",
+      "3. फील्ड लिखें और डालें (Write & insert fields)",
+      "4. समाप्त करें (Finish)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The background of any Word document:",
+    "options": [
+      "1. is always white in colour",
+      "2. has the colour changing option under design tab",
+      "3. is always black in colour",
+      "4. cannot be changed"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "किसी वर्ड डॉक्यूमेंट का बैकग्राउंड कैसा होता है?",
+    "options": [
+      "1. हमेशा सफ़ेद रंग का होता है।",
+      "2. डिजाइन टैब के तहत रंग बदलने का विकल्प है।",
+      "3. हमेशा काले रंग का होता है।",
+      "4. बदला नहीं जा सकता।"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following key combinations can be used to paste the clipboard contents into a document in MS-Word 2019?",
+    "options": [
+      "1. Alt + D",
+      "2. Shift + P",
+      "3. Shift + Insert key",
+      "4. Ctrl + V"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कुंजियों का इनमें से किस संयोजन का क्लिपबोर्ड की सामग्री को किसी डॉक्युमेंट MS-Word 2019 में पेस्ट करने के लिए उपयोग किया जा सकता है?",
+    "options": [
+      "1. Alt + D",
+      "2. Shift + P",
+      "3. Shift + Insert key",
+      "4. Ctrl + V"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "______ is live, visual connection between two or more remote parties over the internet that simulates a face-to-face meeting.",
+    "options": [
+      "1. Videoconferencing",
+      "2. Email",
+      "3. Blog",
+      "4. Chatting"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ इंटरनेट पर दो या दो से अधिक दूरस्थ पार्टियों के बीच लाइव, विज़ुअल कनेक्शन है जो आमने-सामने की बैठक का अनुकरण करता है।",
+    "options": [
+      "1. वीडियो कॉन्फ्रेन्सिंग",
+      "2. ईमेल",
+      "3. ब्लॉग",
+      "4. चैटिंग"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A ____________ is a device that modulates an analog signal to digital data in order to connect to the internet.",
+    "options": [
+      "1. gateway",
+      "2. server",
+      "3. modem",
+      "4. monitor"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एक __________ उपकरण है जो इंटरनेट से जुड़ने के लिए एनालॉग सिग्नल को डिजिटल डेटा में संशोधित करता है।",
+    "options": [
+      "1. गेटवे",
+      "2. सर्वर",
+      "3. मॉडेम",
+      "4. मॉनिटर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Windows Movie Maker is a/an ______ editor.",
+    "options": [
+      "1. photo",
+      "2. video",
+      "3. text",
+      "4. both audio and text"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "विंडोज मूवी मेकर एक ______ एडिटर है।",
+    "options": [
+      "1. फोटो",
+      "2. वीडियो",
+      "3. टेक्स्ट",
+      "4. ऑडियो और टेक्स्ट दोनों"
+    ],
+    "answer": 1
+  }
 ]
         
         };
