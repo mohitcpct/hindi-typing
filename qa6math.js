@@ -428,7 +428,7 @@
     "answer": 2
   },
   {
-    "q": "<img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM0Gz8gfZ6fzOEzTK0T4kr0gkhpcSwLWRyccRDOjh2_5OkyWgA9wedmOG6e-13OFI2IfjiAFiu_5ktei-NgKw3AIsotbJuxKJuD5Paci2aPVY76AghsWeh9zlBdhADca9YRG-GGbu-vMdW_lQY5MjpoxlXx3yWi2bJY8VH_cV3vdMdvDjifugJKieAtXOb/s320/43%20gh.jpg\" style=\"max-width:100%;height:auto;\">",
+    "q": "<img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM0Gz8gfZ6fzOEzTK0T4kr0gkhpcSwLWRyccRDOjh2_5OkyWgA9wedmOG6e-13OFI2IfjiAFiu_5ktei-NgKw3AIsotbJuxKJuD5Paci2aPVY76AghsWeh9zlBdhADca9YRG-GGbu-vMdW_lQY5MjpoxlXx3yWi2bJY8VH_cV3vdMdvDjifugJKieAtXOb/s320/43%20gh.jpg\" style=\"max-width:none; height:auto;\">",
     "options": [
       "1. 0.6 and 0.7",
       "2. 0.7 and 0.8",
@@ -438,7 +438,7 @@
     "answer": 1
   },
   {
-    "q": "<img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKW66vYMV_MapXLx3ikjpLEzpGbmPX-XQEh_iXO0nJL3wfrfteruUf7SETZPJ7Za7dooFXoKJXYL-IwTqd56h-6DmsbDLca9ZbCbrzJLPYXjowtIb6OBKfElt7rJmK-Aofh4xRUdTX07yVGyjpTaOr5HxfQnXFhmvfzJWdyTclaPmEu7Y6icmCJAjKt92v/s320/44%20gh.jpg\" style=\"max-width:100%;height:auto;\">",
+    "q": "<img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKW66vYMV_MapXLx3ikjpLEzpGbmPX-XQEh_iXO0nJL3wfrfteruUf7SETZPJ7Za7dooFXoKJXYL-IwTqd56h-6DmsbDLca9ZbCbrzJLPYXjowtIb6OBKfElt7rJmK-Aofh4xRUdTX07yVGyjpTaOr5HxfQnXFhmvfzJWdyTclaPmEu7Y6icmCJAjKt92v/s320/44%20gh.jpg\" style=\"max-width:none; height:auto;\">",
     "options": [
       "1. 0.6 और 0.7",
       "2. 0.7 और 0.8",
@@ -468,7 +468,7 @@
     "answer": 1
   },
   {
-    "q": "<img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_v-mMIm6xQ2ILs452Xz_-JOn8AXdJSJaPigq8PCK3RCqkOx6zeRErurYK60d9BvYlYDkcMVrHaUdvtStVlfES3dkgt4PVllR48GtIIvR9w7Xgcuni1NRoj7M9nuosFoqYg_9-CCziDfk0Kt94YWtQRo6WnrYSalFspH95UDFreZavhi79HY6FWtjfedis/s320/45%20gh.jpg\" style=\"max-width:100%;height:auto;\">",
+    "q": "<img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_v-mMIm6xQ2ILs452Xz_-JOn8AXdJSJaPigq8PCK3RCqkOx6zeRErurYK60d9BvYlYDkcMVrHaUdvtStVlfES3dkgt4PVllR48GtIIvR9w7Xgcuni1NRoj7M9nuosFoqYg_9-CCziDfk0Kt94YWtQRo6WnrYSalFspH95UDFreZavhi79HY6FWtjfedis/s320/45%20gh.jpg\" style=\"max-width:none; height:auto;\">",
     "options": [
       "7/16",
       "-7/32",
@@ -478,7 +478,7 @@
     "answer": 2
   },
   {
-    "q": "<img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_tG4mUn9oAglNTtZn6O_3W_EEtbcAdZaF8x3PpaE3Gm4IVvTamQWZdKooiz64Jv2QoBGdc442xO6Ts62yJV82xRuj_V6vLW-VIbj0_YE7dCpDXpRldDnzY1CCwZDahwnxBp7SdfyWzvZke1ZWDcXEdvIWBN_ZH-2lgaHNAOgDzYz2Gnu4Fq28LiAxT7ir/s320/46%20gh.jpg\" style=\"max-width:100%;height:auto;\">",
+    "q": "<img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_tG4mUn9oAglNTtZn6O_3W_EEtbcAdZaF8x3PpaE3Gm4IVvTamQWZdKooiz64Jv2QoBGdc442xO6Ts62yJV82xRuj_V6vLW-VIbj0_YE7dCpDXpRldDnzY1CCwZDahwnxBp7SdfyWzvZke1ZWDcXEdvIWBN_ZH-2lgaHNAOgDzYz2Gnu4Fq28LiAxT7ir/s320/46%20gh.jpg\" style=\"max-width:none; height:auto;\">",
     "options": [
       "7/16",
       "-7/32",
