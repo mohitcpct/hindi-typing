@@ -365,6 +365,128 @@
     ],
     "answer": 3
   }
+],
+  "31th May 2025 - Shift2": [
+  {
+    "q": "What approximate value should come in place of the question mark (?) in the following equation? (You are not expected to calculate the exact value).<br><br>4563 ÷ 63 × 2.5 = ?",
+    "options": [
+      "1. 165",
+      "2. 180",
+      "3. 185",
+      "4. 200"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्‍नलिखित में प्रश्‍न चिह्न  (?) के स्थान पर अनुमानित मान क्या होना चाहिए? (आपको सटीक मान की गणना नहीं करनी है।)<br><br>4563 ÷ 63 × 2.5 = ?",
+    "options": [
+      "1. 165",
+      "2. 180",
+      "3. 185",
+      "4. 200"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Two equations numbered I and II are given. You have to solve both the equations and select the answer from the given options.<br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfUK_cwYAqojLV6HzkcDd7K9ED2J0_tQEW_122un5JqeqMh2A_bMeTO7QcXYZHuCr11btQrGkg0xyaZhTHjpcpCZ6AbeWgBJSov0KWDYb5_w1A6n-Ny5meTAuk_tmFgOokwqXJV0jEvWXqOZmdemyR8IyBK6xRI-Cv-5XW2t1ENtrSaxKozpl0rpWxESuS/s1600/42%20gh.jpg\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. x <y",
+      "2. x/2  >  y",
+      "3. x ≤ y",
+      "4. 2x > 3y"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "दो समीकरण I और II दिए गए हैं। आपको दोनों समीकरणों को हल करना होगा और दिए गए विकल्पों से उत्‍तर का चयन करना होगा।<br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfUK_cwYAqojLV6HzkcDd7K9ED2J0_tQEW_122un5JqeqMh2A_bMeTO7QcXYZHuCr11btQrGkg0xyaZhTHjpcpCZ6AbeWgBJSov0KWDYb5_w1A6n-Ny5meTAuk_tmFgOokwqXJV0jEvWXqOZmdemyR8IyBK6xRI-Cv-5XW2t1ENtrSaxKozpl0rpWxESuS/s1600/42%20gh.jpg\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. x <y",
+      "2. x/2  >  y",
+      "3. x ≤ y",
+      "4. 2x > 3y"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The ratio of the present ages of Jyoti and Ankita is 7 : 5. After six years, their ages will be the ratio of 4 : 3. what is the present age of Ankita? Options :",
+    "options": [
+      "1. 32 years",
+      "2. 36 years",
+      "3. 30 years",
+      "4. 35 years"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "ज्योति और अंकिता की वर्तमान आयु का अनुपात 7 : 5 है। यदि अब से छः वर्ष बाद, उनकी आयु का अनुपात 4 : 3 होगा, तो अंकिता की वर्तमान आयु क्या है?",
+    "options": [
+      "1. 32 वर्ष",
+      "2. 36 वर्ष",
+      "3. 30 वर्ष",
+      "4. 35 वर्ष"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "<img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM0Gz8gfZ6fzOEzTK0T4kr0gkhpcSwLWRyccRDOjh2_5OkyWgA9wedmOG6e-13OFI2IfjiAFiu_5ktei-NgKw3AIsotbJuxKJuD5Paci2aPVY76AghsWeh9zlBdhADca9YRG-GGbu-vMdW_lQY5MjpoxlXx3yWi2bJY8VH_cV3vdMdvDjifugJKieAtXOb/s320/43%20gh.jpg\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. 0.6 and 0.7",
+      "2. 0.7 and 0.8",
+      "3. 0.8 and 0.9",
+      "4. 0.9 and 1"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "<img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKW66vYMV_MapXLx3ikjpLEzpGbmPX-XQEh_iXO0nJL3wfrfteruUf7SETZPJ7Za7dooFXoKJXYL-IwTqd56h-6DmsbDLca9ZbCbrzJLPYXjowtIb6OBKfElt7rJmK-Aofh4xRUdTX07yVGyjpTaOr5HxfQnXFhmvfzJWdyTclaPmEu7Y6icmCJAjKt92v/s320/44%20gh.jpg\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. 0.6 और 0.7",
+      "2. 0.7 और 0.8",
+      "3. 0.8 और 0.9",
+      "4. 0.9 और 1"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The interior angles of a convex polygon of n sides form an arithmetic progression with a common difference of 10°. If the largest angle of the polygon is 145°, then the value of n is: Options :",
+    "options": [
+      "1. 5",
+      "2. 6",
+      "3. 8",
+      "4. 9"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "n भुजाओं वाले उत्‍तल बहुभुज के आतंरिक कोण 10° के सार्व अंतर के साथ समांतर श्रेढ़ी में हैं। यदि इस बहुभुज का सबसे बड़ा कोण 145° है, तो n का मान क्या होगा?",
+    "options": [
+      "1. 5",
+      "2. 6",
+      "3. 8",
+      "4. 9"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "<img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_v-mMIm6xQ2ILs452Xz_-JOn8AXdJSJaPigq8PCK3RCqkOx6zeRErurYK60d9BvYlYDkcMVrHaUdvtStVlfES3dkgt4PVllR48GtIIvR9w7Xgcuni1NRoj7M9nuosFoqYg_9-CCziDfk0Kt94YWtQRo6WnrYSalFspH95UDFreZavhi79HY6FWtjfedis/s320/45%20gh.jpg\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "7/16",
+      "-7/32",
+      "-1/16",
+      "-1/32"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "<img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_tG4mUn9oAglNTtZn6O_3W_EEtbcAdZaF8x3PpaE3Gm4IVvTamQWZdKooiz64Jv2QoBGdc442xO6Ts62yJV82xRuj_V6vLW-VIbj0_YE7dCpDXpRldDnzY1CCwZDahwnxBp7SdfyWzvZke1ZWDcXEdvIWBN_ZH-2lgaHNAOgDzYz2Gnu4Fq28LiAxT7ir/s320/46%20gh.jpg\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "7/16",
+      "-7/32",
+      "-1/16",
+      "-1/32"
+    ],
+    "answer": 2
+  }
 ]
 
    };
