@@ -244,7 +244,7 @@
     "answer": 2
   }
 ],
-  "30th May 2025 - Shift1": [
+  "31th May 2025 - Shift1": [
   {
     "q": "In how many different ways can the letters of the word ‘BANKING’ be arranged?",
     "options": [
