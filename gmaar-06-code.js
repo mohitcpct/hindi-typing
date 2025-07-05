@@ -23,20 +23,20 @@
   {
     "q": "Each of the given letters has been assigned a unique number. Select the combination of numbers such that the corresponding letters when arranged accordingly will form a meaningful word. <br><br>E M I H T R<br>1 2 3 4 5 6",
     "options": [
-      "1. 1, 2, 3, 4, 5, 6",
-      "2. 4, 1, 6, 2, 3, 5",
-      "3. 5, 1, 6, 4, 3, 2",
-      "4. 6, 1, 2, 3, 5, 4"
+      "1, 2, 3, 4, 5, 6",
+      "4, 1, 6, 2, 3, 5",
+      "5, 1, 6, 4, 3, 2",
+      "6, 1, 2, 3, 5, 4"
     ],
     "answer": 1
   },
   {
     "q": "दिए गए प्रत्येक अक्षर को एक विशिष्‍ट संख्या निर्दिष्‍ट की गई है। संख्याओं के संयोजन का चयन इस प्रकार करें कि संगत अक्षरों को तदनुसार व्‍यवस्थित करने पर एक अर्थपूर्ण शब्‍द बने।<br><br>E M I H T R<br>1 2 3 4 5 6",
     "options": [
-      "1. 1, 2, 3, 4, 5, 6",
-      "2. 4, 1, 6, 2, 3, 5",
-      "3. 5, 1, 6, 4, 3, 2",
-      "4. 6, 1, 2, 3, 5, 4"
+      "1, 2, 3, 4, 5, 6",
+      "4, 1, 6, 2, 3, 5",
+      "5, 1, 6, 4, 3, 2",
+      "6, 1, 2, 3, 5, 4"
     ],
     "answer": 1
   },
@@ -145,20 +145,20 @@
   {
     "q": "Each of the given letters has been assigned a unique number. Select the combination of numbers such that the corresponding letters when arranged accordingly will form a meaningful word. <br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguJ3L5H9j3slAfAk5KXD_1VhCj1IfqQZZF-J81qsPcf01cesNjj9Tq3-mezsPZ_xYgwMx_1L-VHQlAxwFhhAaBhzm7GOYnENtNkXGmRW8UVg02V7zFzppGXM5h2BFJsFgPEgMp-IyaU0HD7r1ID184c-uECeZsRIEK1AF4IrVcFbUP09NOybDUcpIE8xZ4/s1600/1%20bbf.png\" style=\"max-width:100%;height:auto;\">",
     "options": [
-      "1. 5102674938",
-      "2. 5180427639",
-      "3. 5617283094",
-      "4. 7450823796"
+      "5102674938",
+      "5180427639",
+      "5617283094",
+      "7450823796"
     ],
     "answer": 2
   },
   {
     "q": "दिए गए प्रत्येक अक्षर को एक विशिष्‍ट संख्या दी गई है। संख्याओं का ऐसा संयोजन चुनें जिससे संगत अक्षरों को तदनुसार व्‍यवस्थित करने पर एक सार्थक शब्‍द बने।  <br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguJ3L5H9j3slAfAk5KXD_1VhCj1IfqQZZF-J81qsPcf01cesNjj9Tq3-mezsPZ_xYgwMx_1L-VHQlAxwFhhAaBhzm7GOYnENtNkXGmRW8UVg02V7zFzppGXM5h2BFJsFgPEgMp-IyaU0HD7r1ID184c-uECeZsRIEK1AF4IrVcFbUP09NOybDUcpIE8xZ4/s1600/1%20bbf.png\" style=\"max-width:100%;height:auto;\">",
     "options": [
-      "1. 5102674938",
-      "2. 5180427639",
-      "3. 5617283094",
-      "4. 7450823796"
+      "5102674938",
+      "5180427639",
+      "5617283094",
+      "7450823796"
     ],
     "answer": 2
   },
@@ -193,7 +193,7 @@
     "answer": 2
   },
   {
-    "q": "विकल्पों में चार श दिए गए हैं जिनमें से तीन किसी प्रकार से संगत हैं, जबकि कोई एक उनसे असंगत है। असंगत शब्‍द का चयन कीजिए।",
+    "q": "विकल्पों में चार शब्‍द दिए गए हैं जिनमें से तीन किसी प्रकार से संगत हैं, जबकि कोई एक उनसे असंगत है। असंगत शब्‍द का चयन कीजिए।",
     "options": [
       "1. पतंगा",
       "2. मधुमक्खी",
@@ -225,20 +225,20 @@
   {
     "q": "If in a certain code, the coding is done as follows: <br><br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnwkWWEpj5rsGO6lEa94OWlFGk37CQL1DlpG0Jq4bjEDC06DNYhC7UTX6GCGFSnVQOeMi5dXNfHdTXLSQMCruoYBQKGLJ2Uum5Crw-xvUIt6HzI0n51DjlCQRGk3ic5xgBKHEswdyHnpC3I5N43U2Qt8eNWQYZgQ7GvFXFN7FdlGPHawjF4Bhg-Js9qT7O/s1600/7%20bbf.png\" style=\"max-width:100%;height:auto;\">    <br><br>then how will PRFLKHV be coded?",
     "options": [
-      "1. 4273658",
-      "2. 4273685",
-      "3. 4237865",
-      "4. 4237658"
+      " 4273658",
+      " 4273685",
+      " 4237865",
+      " 4237658"
     ],
     "answer": 0
   },
   {
     "q": "एक निश्चित कोड के लिए कोडिंग निम्नानुसार की गई है:  <br><br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnwkWWEpj5rsGO6lEa94OWlFGk37CQL1DlpG0Jq4bjEDC06DNYhC7UTX6GCGFSnVQOeMi5dXNfHdTXLSQMCruoYBQKGLJ2Uum5Crw-xvUIt6HzI0n51DjlCQRGk3ic5xgBKHEswdyHnpC3I5N43U2Qt8eNWQYZgQ7GvFXFN7FdlGPHawjF4Bhg-Js9qT7O/s1600/7%20bbf.png\" style=\"max-width:100%;height:auto;\">    <br><br>इस कोडिंग संरचना में PRFLKHV का कोड क्या होगा?",
     "options": [
-      "1. 4273658",
-      "2. 4273685",
-      "3. 4237865",
-      "4. 4237658"
+      " 4273658",
+      " 4273685",
+      " 4237865",
+      " 4237658"
     ],
     "answer": 0
   }
@@ -267,20 +267,20 @@
   {
     "q": "Each of the given letters has been assigned a unique number. Select the combination of numbers such that the corresponding letters when arranged accordingly will form a meaningful word. <br><br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOTzX_GeJSKurSZ3v_0T6PZOugmqqZTDh8nJ7wkBOzqEsCBmyTtX2PWXaCZLlppcDmgByq6t5L1HefkGQpq-Tfpuuye02UQkyEivdh-wsc4AoGhbH6V62bZODrZHNKfDc2tikiBG2bHuOVrt-_ZkKI8k6GqTGdlZBTFiJN9UhCafK9Gi1Ai-GK5ropuXkp/s1600/8%20bbf.png\" style=\"max-width:100%;height:auto;\">",
     "options": [
-      "1. 1, 3, 5, 6, 4, 2",
-      "2. 2, 3, 1, 6, 4, 5",
-      "3. 5, 3, 6, 4, 1, 2",
-      "4. 6, 3, 5, 1, 4, 2"
+      " 1, 3, 5, 6, 4, 2",
+      " 2, 3, 1, 6, 4, 5",
+      " 5, 3, 6, 4, 1, 2",
+      " 6, 3, 5, 1, 4, 2"
     ],
     "answer": 2
   },
   {
     "q": "दिए गए प्रत्येक अक्षर को एक विशिष्‍ट संख्या दी गई है। संख्याओं का ऐसा संयोजन चुनें जिससे संगत अक्षरों को तदनुसार व्‍यवस्थित करने पर एक सार्थक शब्‍द बने।<br><br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOTzX_GeJSKurSZ3v_0T6PZOugmqqZTDh8nJ7wkBOzqEsCBmyTtX2PWXaCZLlppcDmgByq6t5L1HefkGQpq-Tfpuuye02UQkyEivdh-wsc4AoGhbH6V62bZODrZHNKfDc2tikiBG2bHuOVrt-_ZkKI8k6GqTGdlZBTFiJN9UhCafK9Gi1Ai-GK5ropuXkp/s1600/8%20bbf.png\" style=\"max-width:100%;height:auto;\">",
     "options": [
-      "1. 1, 3, 5, 6, 4, 2",
-      "2. 2, 3, 1, 6, 4, 5",
-      "3. 5, 3, 6, 4, 1, 2",
-      "4. 6, 3, 5, 1, 4, 2"
+      " 1, 3, 5, 6, 4, 2",
+      " 2, 3, 1, 6, 4, 5",
+      " 5, 3, 6, 4, 1, 2",
+      " 6, 3, 5, 1, 4, 2"
     ],
     "answer": 2
   },
@@ -390,20 +390,20 @@
   {
     "q": "Each of the given letters has been assigned a unique number. Select the combination of numbers such that the corresponding letters when arranged accordingly will form a meaningful word. <br> <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTwQg0pCteSTcCKw8ZI9AEruv_YW5N903WSYl_OZ1FCKEdxe-4P4Y34Ad4ikbfr3_o4cWHxFsk39s15srmVEJhsuR4G9IUhyphenhyphenfX4FcRqJcTi0w23h0kWJAfrb8_q8el6yMxqzDCleaAe9R4ppYqrv2pgkLDaAEaAeouX_drn4TRvd5bCbQUuKyxDetyrW_S/s1600/19%20ggrr.png\" style=\"max-width:100%;height:auto;\">",
     "options": [
-      "1. 1, 3, 4, 5, 6, 7, 2",
-      "2. 2, 6, 4, 5, 1, 3, 7",
-      "3. 4, 7, 3, 1, 6, 2, 5",
-      "4. 7, 6, 4, 5, 1, 3, 2"
+      " 1, 3, 4, 5, 6, 7, 2",
+      " 2, 6, 4, 5, 1, 3, 7",
+      " 4, 7, 3, 1, 6, 2, 5",
+      " 7, 6, 4, 5, 1, 3, 2"
     ],
     "answer": 2
   },
   {
     "q": "दिए गए प्रत्येक अक्षर को एक विशिष्‍ट संख्या दी गई है। संख्याओं का ऐसा संयोजन चुनें जिससे संगत अक्षरों को तदनुसार व्‍यवस्थित करने पर एक सार्थक शब्‍द बने। <br> <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTwQg0pCteSTcCKw8ZI9AEruv_YW5N903WSYl_OZ1FCKEdxe-4P4Y34Ad4ikbfr3_o4cWHxFsk39s15srmVEJhsuR4G9IUhyphenhyphenfX4FcRqJcTi0w23h0kWJAfrb8_q8el6yMxqzDCleaAe9R4ppYqrv2pgkLDaAEaAeouX_drn4TRvd5bCbQUuKyxDetyrW_S/s1600/19%20ggrr.png\" style=\"max-width:100%;height:auto;\">",
     "options": [
-      "1. 1, 3, 4, 5, 6, 7, 2",
-      "2. 2, 6, 4, 5, 1, 3, 7",
-      "3. 4, 7, 3, 1, 6, 2, 5",
-      "4. 7, 6, 4, 5, 1, 3, 2"
+      " 1, 3, 4, 5, 6, 7, 2",
+      " 2, 6, 4, 5, 1, 3, 7",
+      " 4, 7, 3, 1, 6, 2, 5",
+      " 7, 6, 4, 5, 1, 3, 2"
     ],
     "answer": 2
   },
@@ -470,20 +470,20 @@
   {
     "q": "If in a certain code, the coding is done as follows: <br> <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvFsGFcUkL_631f7IgFnz7eD9RQAFVPTDkydasUCmFTrjT0GFQejTNRdY1xBgbIE_JeB1HOEuYRuZoVJX2Lz0eh70hpa_hG2CdKJfCJyES5pUevBt5rfqBjk1ddyookhjc45yzsXtabYLmqOlMxOhJTyj7oPxOoONFf8euskzM4fi6cFOV1xFM8ca3djOF/s1600/20%20ggrr.png\" style=\"max-width:100%;height:auto;\"><br>then how will MDFHLTR be coded?",
     "options": [
-      "1. 9175320",
-      "2. 9175230",
-      "3. 9137502",
-      "4. 9175302"
+      " 9175320",
+      " 9175230",
+      " 9137502",
+      " 9175302"
     ],
     "answer": 3
   },
   {
     "q": "यदि एक निश्चित कोड में, कोडिंग निम्नानुसार की जाती है: <br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvFsGFcUkL_631f7IgFnz7eD9RQAFVPTDkydasUCmFTrjT0GFQejTNRdY1xBgbIE_JeB1HOEuYRuZoVJX2Lz0eh70hpa_hG2CdKJfCJyES5pUevBt5rfqBjk1ddyookhjc45yzsXtabYLmqOlMxOhJTyj7oPxOoONFf8euskzM4fi6cFOV1xFM8ca3djOF/s1600/20%20ggrr.png\" style=\"max-width:100%;height:auto;\"><br>तो MDFHLTR को कैसे कोडबद्ध किया जाएगा?",
     "options": [
-      "1. 9175320",
-      "2. 9175230",
-      "3. 9137502",
-      "4. 9175302"
+      " 9175320",
+      " 9175230",
+      " 9137502",
+      " 9175302"
     ],
     "answer": 3
   }
@@ -634,20 +634,20 @@
   {
     "q": "Each of the given letters has been assigned a  unique number. Select the combination of numbers  such that the corresponding letters when arranged accordingly will form a meaningful word. <br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh_CeOdehNgts4W5zBIeTShn2AMDamPbH16Hx4NebT8ST0LAqj_vUL2P0AdzKZoxris8C_Sm7B0SgxmZSxWrMTu5vYuHqN4MOhFHB4RJYgUGAGJGMpsf8nuJYIhBIEa7y7_W9qNpo1L59frD6_VwGFT0fO6wVat8YtqlluXU6MFEonGmTHG1iE64oIGpfy/s1600/21%20ggrr.png\" style=\"max-width:100%;height:auto;\">",
     "options": [
-      "1. 1, 2, 6, 4, 3, 5",
-      "2. 4, 2, 6, 5, 3, 1",
-      "3. 5, 3, 6, 4, 2, 1",
-      "4. 6, 3, 1, 4, 2, 5"
+      " 1, 2, 6, 4, 3, 5",
+      " 4, 2, 6, 5, 3, 1",
+      " 5, 3, 6, 4, 2, 1",
+      " 6, 3, 1, 4, 2, 5"
     ],
     "answer": 1
   },
   {
-    "q": "दिए गए प्रत्‍येक अक्षर को एक विशिष्‍ट संख्‍या दी गई है। संख्‍याअें के संयोजन का चयन इस प्रकर करें कि संगत अक्षरों को तदनुसार व्‍यवस्थित करने पर एक अर्थपूर्ण शब्‍द बने। <br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh_CeOdehNgts4W5zBIeTShn2AMDamPbH16Hx4NebT8ST0LAqj_vUL2P0AdzKZoxris8C_Sm7B0SgxmZSxWrMTu5vYuHqN4MOhFHB4RJYgUGAGJGMpsf8nuJYIhBIEa7y7_W9qNpo1L59frD6_VwGFT0fO6wVat8YtqlluXU6MFEonGmTHG1iE64oIGpfy/s1600/21%20ggrr.png\" style=\"max-width:100%;height:auto;\">",
+    "q": "दिए गए प्रत्‍येक अक्षर को एक विशिष्‍ट संख्‍या दी गई है। संख्‍याओं के संयोजन का चयन इस प्रकर करें कि संगत अक्षरों को तदनुसार व्‍यवस्थित करने पर एक अर्थपूर्ण शब्‍द बने। <br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh_CeOdehNgts4W5zBIeTShn2AMDamPbH16Hx4NebT8ST0LAqj_vUL2P0AdzKZoxris8C_Sm7B0SgxmZSxWrMTu5vYuHqN4MOhFHB4RJYgUGAGJGMpsf8nuJYIhBIEa7y7_W9qNpo1L59frD6_VwGFT0fO6wVat8YtqlluXU6MFEonGmTHG1iE64oIGpfy/s1600/21%20ggrr.png\" style=\"max-width:100%;height:auto;\">",
     "options": [
-      "1. 1, 2, 6, 4, 3, 5",
-      "2. 4, 2, 6, 5, 3, 1",
-      "3. 5, 3, 6, 4, 2, 1",
-      "4. 6, 3, 1, 4, 2, 5"
+      " 1, 2, 6, 4, 3, 5",
+      " 4, 2, 6, 5, 3, 1",
+      " 5, 3, 6, 4, 2, 1",
+      " 6, 3, 1, 4, 2, 5"
     ],
     "answer": 1
   },
@@ -756,20 +756,20 @@
   {
     "q": "Each of the letters given below has been assigned a unique number. Select the combination of numbers such that the corresponding letters when arranged accordingly will form a meaningful word.<br><br>A C E S T H<br>1 2 3 4 5 6",
     "options": [
-      "1.    2, 6, 1, 4, 5, 3",
-      "2.    4, 3, 5, 6, 1, 2",
-      "3.    6, 1, 4, 5, 3, 2",
-      "4.    6, 3, 2, 1, 4, 5"
+      "2, 6, 1, 4, 5, 3",
+      "4, 3, 5, 6, 1, 2",
+      "6, 1, 4, 5, 3, 2",
+      "6, 3, 2, 1, 4, 5"
     ],
     "answer": 0
   },
   {
     "q": "नीचे दिए गए प्रत्येक अक्षर के लिए एक विशिष्‍ट संख्या निर्दिष्‍ट की गई है। संख्याओं के ऐसे संयोजन का चयन करें जिससे संगत अक्षरों को तदनुसार व्‍यवस्थित करने पर एक सार्थक शब्‍द बन जाए।<br><br>A C E S T H<br>1 2 3 4 5 6",
     "options": [
-      "1.    2, 6, 1, 4, 5, 3",
-      "2.    4, 3, 5, 6, 1, 2",
-      "3.    6, 1, 4, 5, 3, 2",
-      "4.    6, 3, 2, 1, 4, 5"
+      "2, 6, 1, 4, 5, 3",
+      "4, 3, 5, 6, 1, 2",
+      "6, 1, 4, 5, 3, 2",
+      "6, 3, 2, 1, 4, 5"
     ],
     "answer": 0
   },
@@ -836,20 +836,20 @@
   {
     "q": "Four numbers have been given, out of which three are alike in some manner and one is different. Select the one that is different.",
     "options": [
-      "1. 2345",
-      "2. 3456",
-      "3. 5467",
-      "4. 5678"
+      "2345",
+      "3456",
+      "5467",
+      "5678"
     ],
     "answer": 2
   },
   {
     "q": "विकल्पों में चार संख्याएं दी गई हैं जिनमें से तीन किसी कार समान हैं, जबकि कोई एक उनसे भिन्‍न है। उस भिन्‍न संख्या का चयन कीजिए।",
     "options": [
-      "1. 2345",
-      "2. 3456",
-      "3. 5467",
-      "4. 5678"
+      "2345",
+      "3456",
+      "5467",
+      "5678"
     ],
     "answer": 2
   }
@@ -878,20 +878,20 @@
   {
     "q": "Each of the given letters has been assigned a unique number. Select the combination of numbers such that the corresponding letters when arranged accordingly will form a meaningful word. <br> <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCGQymK4LCHl5EwUB6kWCl_kKEyiimczWfoLy2HoYEqeZVdnAgPf7MEcSNUzoSK1p2LIBYDZxbXXDdlX9XmKgYBDJdUPEi2DtqsILKFmRmrEOy7H5qw5a8kxWiq86lIcrBSWn82FWhUlgrkpteH5NXrbeZwbddb_V_NskARNgPWKIT11148t8FXrsCM3ub/s1600/12rt.png\" style=\"max-width:100%;height:auto;\">",
     "options": [
-      "1. 1, 6, 2, 3, 5, 4",
-      "2. 3, 6, 2, 4, 5, 1",
-      "3. 4, 5, 3, 6, 2, 1",
-      "4. 5, 4, 3, 6, 2, 1"
+      "1, 6, 2, 3, 5, 4",
+      "3, 6, 2, 4, 5, 1",
+      "4, 5, 3, 6, 2, 1",
+      "5, 4, 3, 6, 2, 1"
     ],
     "answer": 3
   },
   {
     "q": "दिए गए प्रत्‍येक अक्षर को एक विशिष्‍ट संख्‍या दी गई है। संख्‍याओं के संयोजन का चयन इस प्रकार करें कि संगत अक्षरों को तदनुसार व्‍यवस्थित करने पर एक अर्थपूर्ण शब्‍द बने। <br> <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCGQymK4LCHl5EwUB6kWCl_kKEyiimczWfoLy2HoYEqeZVdnAgPf7MEcSNUzoSK1p2LIBYDZxbXXDdlX9XmKgYBDJdUPEi2DtqsILKFmRmrEOy7H5qw5a8kxWiq86lIcrBSWn82FWhUlgrkpteH5NXrbeZwbddb_V_NskARNgPWKIT11148t8FXrsCM3ub/s1600/12rt.png\" style=\"max-width:100%;height:auto;\">",
     "options": [
-      "1. 1, 6, 2, 3, 5, 4",
-      "2. 3, 6, 2, 4, 5, 1",
-      "3. 4, 5, 3, 6, 2, 1",
-      "4. 5, 4, 3, 6, 2, 1"
+      "1, 6, 2, 3, 5, 4",
+      "3, 6, 2, 4, 5, 1",
+      "4, 5, 3, 6, 2, 1",
+      "5, 4, 3, 6, 2, 1"
     ],
     "answer": 3
   },
@@ -1001,20 +1001,20 @@
   {
     "q": "Each of the letters given below has been assigned a unique number. Select the combination of numbers such that the corresponding letters when arranged accordingly will form a meaningful word.<br><br>A E H R K N<br>1 2 3 4 5 6",
     "options": [
-      "1. 3, 1, 6, 5, 2, 4",
-      "2. 4, 1, 5, 3, 2, 6",
-      "3. 5, 3, 1, 4, 2, 6",
-      "4. 6, 1, 5, 3, 4, 2"
+      " 3, 1, 6, 5, 2, 4",
+      " 4, 1, 5, 3, 2, 6",
+      " 5, 3, 1, 4, 2, 6",
+      " 6, 1, 5, 3, 4, 2"
     ],
     "answer": 0
   },
   {
     "q": "नीचे दिए गए प्रत्येक अक्षर को एक विशिष्‍ट संख्या निर्दिष्‍ट की गई है। संख्याओं के ऐसे संयोजन का चयन करें जिससे संगत अक्षरों को तदनुसार व्‍यवस्थित करने पर एक सार्थक शब्‍द बन जाए।<br><br>A E H R K N<br>1 2 3 4 5 6",
     "options": [
-      "1. 3, 1, 6, 5, 2, 4",
-      "2. 4, 1, 5, 3, 2, 6",
-      "3. 5, 3, 1, 4, 2, 6",
-      "4. 6, 1, 5, 3, 4, 2"
+      " 3, 1, 6, 5, 2, 4",
+      " 4, 1, 5, 3, 2, 6",
+      " 5, 3, 1, 4, 2, 6",
+      " 6, 1, 5, 3, 4, 2"
     ],
     "answer": 0
   },
@@ -1123,20 +1123,20 @@
   {
     "q": "Each of the given letters has been assigned unique number. Select the combination of numbers such that the corresponding letters when arranged accordingly will form a meaningful word. <br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSQR4YLxjbYhR0cLxURJkik_g5rdSbQ0mK4E5AtlMGxxDNhn4hZMCNtd7SIzaa163UdL_44HJUbSqw2DMeDBkrz-eAGdrinlaAPHSygxWcX8pxKBKqDn2ynovXcWcV9RS6od3EJFuv2KLCXMxgcPIbv8Q3ygcit0WaRkbLDSjkqHgJUEtr83C_pUykf_P9/s1600/135%20rtt.png\" style=\"max-width:100%;height:auto;\">",
     "options": [
-      "1. 4, 6, 3, 5, 2, 1",
-      "2. 4, 6, 5, 2, 3, 1",
-      "3. 5, 2, 3, 1, 6, 4",
-      "4. 5, 6, 4, 1, 3, 2"
+      " 4, 6, 3, 5, 2, 1",
+      " 4, 6, 5, 2, 3, 1",
+      " 5, 2, 3, 1, 6, 4",
+      " 5, 6, 4, 1, 3, 2"
     ],
     "answer": 3
   },
   {
     "q": "दिए गए प्रत्‍येक अक्षर को एक विशिष्‍ट संख्‍या दी गई है। संख्‍याओं के संयोजन का चयन इस प्रकार करें कि संगत अक्षरों को तदनुसार व्‍यवस्थित करने पर एक अर्थपूर्ण शब्‍द बने। <br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSQR4YLxjbYhR0cLxURJkik_g5rdSbQ0mK4E5AtlMGxxDNhn4hZMCNtd7SIzaa163UdL_44HJUbSqw2DMeDBkrz-eAGdrinlaAPHSygxWcX8pxKBKqDn2ynovXcWcV9RS6od3EJFuv2KLCXMxgcPIbv8Q3ygcit0WaRkbLDSjkqHgJUEtr83C_pUykf_P9/s1600/135%20rtt.png\" style=\"max-width:100%;height:auto;\">",
     "options": [
-      "1. 4, 6, 3, 5, 2, 1",
-      "2. 4, 6, 5, 2, 3, 1",
-      "3. 5, 2, 3, 1, 6, 4",
-      "4. 5, 6, 4, 1, 3, 2"
+      " 4, 6, 3, 5, 2, 1",
+      " 4, 6, 5, 2, 3, 1",
+      " 5, 2, 3, 1, 6, 4",
+      " 5, 6, 4, 1, 3, 2"
     ],
     "answer": 3
   },
