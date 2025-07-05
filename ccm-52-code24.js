@@ -18754,6 +18754,1048 @@
     ],
     "answer": 3
   }
+],
+  "22nd July 2023 - Shift1": [
+  {
+    "q": "What is the meaning of 'Hibernate' in Windows?",
+    "options": [
+      "1. Restart the computer in Safe Mode",
+      "2. Restart the computer in Hibernate Mode",
+      "3. Shut down the computer terminating all the running applications",
+      "4. A power-off mode that preserves the last state of the computer"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Windows में हाइबरनेट से क्या तात्पर्य है?",
+    "options": [
+      "1. कंप्यूटर को सेफ मोड में रिस्टार्ट करना",
+      "2. कंप्यूटर को हाइबरनेट मोड में रिस्टार्ट करना",
+      "3. वर्तमान में चालू सभी एप्लीकेशनों को बंद करके कंप्यूटर को शट-डाउन करना",
+      "4. वह पॉवर ऑफ़ मोड जिसमें कंप्यूटर पर सबसे अंत में किया गया काम सुरक्षित रहता है"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In MS-Excel, ________ contain(s) one or more worksheets.",
+    "options": [
+      "1. the rows and columns",
+      "2. the workbook",
+      "3. the active cell",
+      "4. the label"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel के ________ में एक या अधिक वर्कशीट्स होती हैं।",
+    "options": [
+      "1. रो और कॉलम",
+      "2. वर्कबुक",
+      "3. एक्टिव सेल",
+      "4. लेबल"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following directories is used as a temporary mount point for mounting storage devices, such as CD-ROMs, floppy disks and USB (universal serial bus) key drives, in Linux?",
+    "options": [
+      "1. /mnt",
+      "2. /kernel",
+      "3. /usr",
+      "4. /dev"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "लिनक्स में सीडी-रोम, फ़्लॉपी डिस्क और यूएसबी (यूनिवर्सल सीरियल बस) की ड्राइव जैसे माउंटिंग स्टोरेज डिवाइस के लिए निम्न में से कौन सी डायरेक्टरी अस्थायी माउंट पॉइंट के रूप में उपयोग की जाती है?",
+    "options": [
+      "1. /mnt",
+      "2. /kernel",
+      "3. /usr",
+      "4. /dev"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The speed of a dot matrix printer is measured in ______ per second.",
+    "options": [
+      "1. characters",
+      "2. letters",
+      "3. symbols",
+      "4. words"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "डॉट मैट्रिक्स प्रिंटर की गति ______प्रति सेकंड में मापी जाती है।",
+    "options": [
+      "1. वर्णाक्षर",
+      "2. अक्षर",
+      "3. प्रतीक",
+      "4. शब्द"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following returns the values along a linear trend in MS-Excel?",
+    "options": [
+      "1. LINEST function",
+      "2. TREND function",
+      "3. LN function",
+      "4. LINT function"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel में, कौन सा फंक्शन किसी रेखीय प्रवृत्ति के मापदंड देता है?",
+    "options": [
+      "1. LINEST फंक्शन",
+      "2. TREND फंक्शन",
+      "3. LN फंक्शन",
+      "4. LINT फंक्शन"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a specific instruction given to a computer application to perform some kind of task or function?",
+    "options": [
+      "1. Program",
+      "2. Record",
+      "3. Field",
+      "4. Component"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "किसी भी प्रकार का कोई काम संपन्न करने के लिए कंप्यूटर प्रोग्राम को दिया गया एक विशिष्ट निर्देश क्या कहलाता है?",
+    "options": [
+      "1. प्रोग्राम",
+      "2. रिकॉर्ड",
+      "3. फील्ड",
+      "4. कॉम्पोनेन्ट"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT a pointing device for providing input to the computer.",
+    "options": [
+      "1. Track ball",
+      "2. Scanner",
+      "3. Mouse",
+      "4. Joystick"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा कंप्यूटर को इनपुट प्रदान करने के लिए एक पॉइंटिंग डिवाइस नहीं है?",
+    "options": [
+      "1. ट्रैक बॉल",
+      "2. स्कैनर",
+      "3. माउस",
+      "4. जॉयस्टिक"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The motherboard is:",
+    "options": [
+      "1. the circuit board that houses peripheral devices",
+      "2. same as the CPU chip",
+      "3. memory chip",
+      "4. the circuit board that contains a CPU and other chips"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "मदरबोर्ड क्या होता है?",
+    "options": [
+      "1. एक सर्किट बोर्ड जिस पर पेरिफेरल डिवाइस लगे होते हैं",
+      "2. CPU चिप के समान",
+      "3. मेमोरी चिप",
+      "4. वह सर्किट बोर्ड जिसमें CPU और अन्य चिप्स शामिल होते हैं"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "______ can add more complexity to the standard process of biometrics by the combining of more than one biometric modality; for example, combining a fingerprint with an iris scan.",
+    "options": [
+      "1. Multimodal biometric system",
+      "2. Privacy and discrimination",
+      "3. Access control",
+      "4. Cancelable biometrics"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "बायोमेट्रिक्स की मानक प्रक्रिया को एक से अधिक बायोमेट्रिक विधियों जैसे कि फिंगरप्रिंट के साथ आँख की पुतली के स्कैन के संयोजन से और अधिक जटिल बनाने की प्रक्रिया क्या कहलाती है?",
+    "options": [
+      "1. मल्टीमॉडल बायोमेट्रिक्स सिस्टम",
+      "2. गोपनीयता और भेदभाव",
+      "3. एक्सेस कंट्रोल",
+      "4. रद्द करने योग्य बायोमेट्रिक्स"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT a function of System bus?",
+    "options": [
+      "1. Data Sharing",
+      "2. Addressing",
+      "3. Power",
+      "4. Connects memory to disk"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा सिस्टम बस का कार्य नहीं है?",
+    "options": [
+      "1. डाटा शेयरिंग",
+      "2. एड्रेसिंग",
+      "3. पावर",
+      "4. मेमोरी को डिस्क से जोड़ता है"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is NOT a characteristic of impact printers?",
+    "options": [
+      "1. Reliable printers and inexpensive",
+      "2. Not noisy",
+      "3. Make continuous prints on paper",
+      "4. The cost of printouts is cheaper"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्न में से कौन सी इम्पैक्ट प्रिंटरों की एक विशेषता नहीं है?",
+    "options": [
+      "1. रिलाएबल प्रिंटर्स एंड इनएक्सपेंसिवे",
+      "2. ये शोर नहीं करते हैं",
+      "3. कागज पर लगातार प्रिंट करते हैं",
+      "4. प्रिंटआउट की लागत सस्ती है"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a type of reader uses radio frequency to communicate, when the card is bought close to the reader?",
+    "options": [
+      "1. Seamless card reader",
+      "2. Design card reader",
+      "3. Graphics card reader",
+      "4. Contactless card reader"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कार्डों को जब रीडर के पास लाया जाता है, तो रीडर संचार के लिए निम्नलिखित में से किस रेडियो आवृत्ति का उपयोग करते हैं?",
+    "options": [
+      "1. सीमलेस कार्ड रीडर",
+      "2. डिज़ाइन कार्ड रीडर",
+      "3. ग्राफ़िक्स कार्ड रीडर",
+      "4. कॉन्टैक्टलेस कार्ड रीडर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A passive digital tablet generates a(n) ______. This signal is received by the LC circuit in the stylus.",
+    "options": [
+      "1. analog signal",
+      "2. digital signal",
+      "3. electromagnetic signal",
+      "4. electrical signal"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "पैसिव डिजिटल टैबलेट एक ______ उत्पन्न करता है। यह सिग्नल LC परिपथ में स्टाइलस द्वारा ग्रहण किया जाता है।",
+    "options": [
+      "1. एनालॉग सिग्नल",
+      "2. डिजिटल सिग्नल",
+      "3. विद्युतचुंबकीय सिग्नल",
+      "4. विद्युत सिग्नल"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What will be the result of addition of given binary numbers (101)₂ and (11)₂?",
+    "options": [
+      "1. 1110",
+      "2. 1101",
+      "3. 1000",
+      "4. 0111"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "दी गई द्विआधारी संख्या ओं (101)₂ और (11)₂ को जोड़ने का परिणाम क्या होगा?",
+    "options": [
+      "1. 1110",
+      "2. 1101",
+      "3. 1000",
+      "4. 0111"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the full form of SSD with reference to storage devices of a computer?",
+    "options": [
+      "1. Solid State Drive",
+      "2. Structure State Drive",
+      "3. Synchronous State Drive",
+      "4. Solid Synchronous Drive"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कंप्यूटर की स्टोरेज डिवाइस के संदर्भ में SSD का पूर्णरूप क्या है?",
+    "options": [
+      "1. सॉलिड स्टेट ड्राइव (Solid State Drive)",
+      "2. स्ट्रक्चर स्टेट ड्राइव (Structure State Drive)",
+      "3. सिंक्रोनस स्टेट ड्राइव (Synchronous State Drive)",
+      "4. सॉलिड सिंक्रोनस ड्राइव (Solid Synchronous Drive)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ refers to the hacking or deception that imitates another person with the intentions of bypassing security measures.",
+    "options": [
+      "1. Spoof",
+      "2. Access",
+      "3. Firewall",
+      "4. Virus"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "__________ हैकिंग या धोखे को संदर्भित करता है जो सुरक्षा उपायों को दरकिनार करने के इरादे से किसी अन्य व्यक्ति का अनुकरण (नकल) करता है।",
+    "options": [
+      "1. स्पूफ़",
+      "2. पहुँच (एक्सेस)",
+      "3. फ़ायरवॉल",
+      "4. वायरस"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "________ is a small program that starts when the computer is booting, in order to find the operating system",
+    "options": [
+      "1. CMOS",
+      "2. Fan",
+      "3. Compiler",
+      "4. The Master Boot Record (MBR)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "__________ एक छोटा सा प्रोग्राम है जो ऑपरेटिंग सिस्टम को खोजने के लिए कंप्यूटर के बूट होने पर शुरू होता है।",
+    "options": [
+      "1. CMOS",
+      "2. पंखा (Fan)",
+      "3. संकलक (Compiler)",
+      "4. मास्टर बूट रिकॉर्ड (MBR)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In MS-Excel, in which category of functions does FREQUENCY command belongs to?",
+    "options": [
+      "1. Statistical",
+      "2. Engineering",
+      "3. Math and Trigonometry",
+      "4. Text"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel में, FREQUENCY कमांड किस श्रेणी के फंक्शन से संबंधित है?",
+    "options": [
+      "1. सांख्यिकीय",
+      "2. इंजीनियरिंग",
+      "3. गणित और त्रिकोणमिति",
+      "4. टेक्स्ट"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "James Gosling is generally known best as the founder or creator of the ______ programming language.",
+    "options": [
+      "1. JAVA",
+      "2. C",
+      "3. C++",
+      "4. COBOL"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "जेम्स गोसलिंग को आम तौर पर ______ प्रोग्रामिंग भाषा के संस्थापक या निर्माता के रूप में जाना जाता है।",
+    "options": [
+      "1. JAVA",
+      "2. C",
+      "3. C++",
+      "4. COBOL"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The printer is a device used to produce:",
+    "options": [
+      "1. hardcopy",
+      "2. softcopy",
+      "3. copy on disk",
+      "4. copy on CD"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "प्रिंटर एक उपकरण है जिसका उपयोग _______ उत्पादन के लिए किया जाता है।",
+    "options": [
+      "1. हार्डकॉपी",
+      "2. सॉफ्ट कॉपी",
+      "3. डिस्क पर कॉपी करें (copy on disk)",
+      "4. सीडी पर कॉपी (copy on CD)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Virtual memory is ______.",
+    "options": [
+      "1. Large optical device memory",
+      "2. Secondary memory can be used as if it were a part of the main memory",
+      "3. Large disk memory",
+      "4. Large secondary memory"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "वर्चुअल मेमोरी _______ है।",
+    "options": [
+      "1. लार्ज ऑप्टिकल डिवाइस मेमोरी",
+      "2. सेकेंडरी मेमोरी का उपयोग इस तरह किया जा सकता है जैसे कि वह मुख्य मेमोरी का एक हिस्सा हो",
+      "3. लार्जडिस्क मेमोरी",
+      "4. लार्ज सेकेंडरी मेमोरी"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "_______ is the main register in the ALU and contains one of the operands of an operation to be performed in the ALU.",
+    "options": [
+      "1. RAM",
+      "2. ROM",
+      "3. Memory",
+      "4. Accumulator"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "_______ ALU में मुख्य रजिस्टर है और इसमें ALU में किए जाने वाले ऑपरेशन के ऑपरेंड में से एक होता है।",
+    "options": [
+      "1. रेम (RAM)",
+      "2. रोम (ROM)",
+      "3. मेमोरी (Memory)",
+      "4. संचायक (Accumulator)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is an input device?",
+    "options": [
+      "1. Speaker",
+      "2. Word",
+      "3. Scanner",
+      "4. Printer"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, एक इनपुट डिवाइस है?",
+    "options": [
+      "1. स्पीकर",
+      "2. वर्ड",
+      "3. स्कैनर",
+      "4. प्रिंटर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "_______ is a feature in Windows 7, Windows 8, or Windows 10 that enables user to get back to the desktop swiftly.",
+    "options": [
+      "1. Aero Peek",
+      "2. Home Button",
+      "3. Windows",
+      "4. M Key"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_______, विंडोज 7, विंडोज 8 या विंडोज 10 में एक फीचर होता है जो उपयोगकर्ता को डेस्कटॉप पर तेजी से वापस आने में सक्षम बनाता है।",
+    "options": [
+      "1. एयरो पीक (Aero Peek)",
+      "2. होम बटन (Home Button)",
+      "3. विंडोज़ (Windows)",
+      "4. M कुंजी (M Key)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Choose the ROM type in which electric field is applied to erase data?",
+    "options": [
+      "1. MROM",
+      "2. PROM",
+      "3. EPROM",
+      "4. EEPROM"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "वह ROM प्रकार चुनें जिसमें डेटा मिटाने के लिए विद्युत क्षेत्र लगाया जाता है?",
+    "options": [
+      "1. MROM",
+      "2. PROM",
+      "3. EPROM",
+      "4. EEPROM"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "To access the services of the operating system, the interface is provided by the _______.",
+    "options": [
+      "1. Memory",
+      "2. System Calls",
+      "3. Client",
+      "4. Administrator"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ऑपरेटिंग सिस्टम की सेवाओं तक पहुंचने के लिए, इंटरफ़ेस _______ द्वारा प्रदान किया जाता है.",
+    "options": [
+      "1. मेमोरी",
+      "2. सिस्टम कॉल्स",
+      "3. क्ला इंट",
+      "4. एडमिनिस्ट्रेटर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In DES, due to the _____________ a small change in the plaintext results in a very great change in the ciphertext.",
+    "options": [
+      "1. Iris effect",
+      "2. Gabber effect",
+      "3. Avalanche effect",
+      "4. Newton effect"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "डी.ई.एस. (DES) में ___ के कारण प्लेनटेक्स्ट में छोटा सा बदलाव साइफरटेक्स्ट में बहुत बड़ा परिवर्तन लाता है।",
+    "options": [
+      "1. आइरिस प्रभाव",
+      "2. गैबर प्रभाव",
+      "3. ऐव़लान्‍श् (Avalanche) प्रभाव",
+      "4. न्यूटन प्रभाव"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In Linux, which command is used to record a user login session in a file?",
+    "options": [
+      "1. macro",
+      "2. read",
+      "3. script",
+      "4. login"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "लिनक्स में, किस कमांड का प्रयोग किसी फाइल में यूजर लॉगिन सेशन को रिकॉर्ड करने के लिए किया जाता है?",
+    "options": [
+      "1. मैक्रो",
+      "2. रीड",
+      "3. स्क्रिप्ट",
+      "4. लॉगिन"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In MS-Excel, In which category of functions does \"IFERROR\" belongs to?",
+    "options": [
+      "1. Statistical",
+      "2. Lookup and Reference",
+      "3. Text",
+      "4. Logical"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel में, \"IFERROR\" किस श्रेणी के फ़ंक्शन से संबंधित है?",
+    "options": [
+      "1. स्टैटिस्टिकल",
+      "2. लुकअप एंड रिफरेन्स",
+      "3. टेक्स्ट",
+      "4. लॉजिकल"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In MS-Excel, In which category of functions does \"HEX2BIN\" belongs to?",
+    "options": [
+      "1. Math and trigonometry",
+      "2. Statistical",
+      "3. Text",
+      "4. Engineering"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel में, \"HEX2BIN\" किस श्रेणी के फंक्शन से संबंधित है?",
+    "options": [
+      "1. गणित और त्रिकोणमिति",
+      "2. सांख्यिकीय",
+      "3. टेक्स्ट (Text)",
+      "4. इंजीनियरिंग (Engineering)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is NOT an example of E-commerce?",
+    "options": [
+      "1. Sending an email to your friend",
+      "2. A government employee reserving a hotel room over the internet",
+      "3. An individual paying his electricity bill through the Internet",
+      "4. An individual purchasing a book over the Internet"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, ई-कॉमर्स का एक उदाहरण नहीं है?",
+    "options": [
+      "1. आपके मित्र को कोई ई-मेल भेजना।",
+      "2. इंटरनेट पर किसी सरकारी कर्मचारी द्वारा होटल का कोई कमरा आरक्षित करना।",
+      "3. इंटरनेट के जरिये किसी व्यक्ति द्वारा अपने बिजली बिल का भुगतान करना।",
+      "4. इंटरनेट पर किसी व्यक्ति द्वारा पुस्तक खरीदना।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The process of copying a document from your Google Drive account to your flash drive is called:",
+    "options": [
+      "1. netload",
+      "2. upload",
+      "3. download",
+      "4. link load"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "किसी डोक्युमेंट को आपके Google ड्राइव खाते से आपके फ्लैश ड्राइव में कॉपी करने की प्रक्रिया क्या कहलाती है?",
+    "options": [
+      "1. नेटलोड",
+      "2. अपलोड",
+      "3. डाउनलोड",
+      "4. लिंक लोड"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following provides Internet access to users?",
+    "options": [
+      "1. TCP",
+      "2. ISP",
+      "3. FTP",
+      "4. HTTP"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्न में से कौन-सा, उपयोगकर्ताओं को इंटरनेट एक्सेस प्रदान करता है?",
+    "options": [
+      "1. TCP",
+      "2. ISP",
+      "3. FTP",
+      "4. HTTP"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Assembly language is a ______ programming language.",
+    "options": [
+      "1. high-level",
+      "2. low-level",
+      "3. medium-level",
+      "4. machine"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "असेंबली भाषा एक ______ प्रोग्रामिंग भाषा है।",
+    "options": [
+      "1. उच्च-स्तरीय",
+      "2. निम्न-स्तरीय",
+      "3. मध्यम-स्तरीय",
+      "4. मशीन"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the full form of VSAT?",
+    "options": [
+      "1. Very Small Aperture Terminal",
+      "2. Very Small Alternative Terminal",
+      "3. Very Small Asynchronous Trading",
+      "4. Very Small Aggressive Terminal"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "VSAT का पूर्णरूप क्या है?",
+    "options": [
+      "1. Very Small Aperture Terminal (वेरी स्मॉल अपर्चर टर्मिनल)",
+      "2. Very Small Alternative Terminal (वेरी स्मॉल अल्ट र्नेटिव टर्मिनल)",
+      "3. Very Small Asynchronous Trading (वेरी स्मॉल असिंक्रोनस ट्रेडिंग)",
+      "4. Very Small Aggressive Terminal (वेरी स्मॉल अग्रेसिव टर्मिनल)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The toggle case applied to “aBraCaDabra is -",
+    "options": [
+      "1. ABraCaDabrA",
+      "2. abracaDabra",
+      "3. aBracadabra",
+      "4. AbRAcAdABRA"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "\"aBraCaDabra\" पर लागू होने वाला टॉगल केस है -",
+    "options": [
+      "1. ABraCaDabrA",
+      "2. abracaDabra",
+      "3. aBracadabra",
+      "4. AbRAcAdABRA"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A(n) _______________ section break starts a new section on the same page in MS-Word.",
+    "options": [
+      "1. next page",
+      "2. continuous",
+      "3. even page",
+      "4. odd page"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक ______ सेक्शन ब्रेक MS-Word में उसी पेज पर एक नया सेक्शन शुरू करता है।",
+    "options": [
+      "1. नेक्स्ट पेज",
+      "2. कंटीन्यूअस",
+      "3. इवन पेज",
+      "4. ऑड पेज"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following options makes a search task case sensitive in the 'Find & Replace' dialog box?",
+    "options": [
+      "1. String sensitive",
+      "2. Match string",
+      "3. Case sensitive",
+      "4. Match case"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा विकल्प 'Find & Replace' डायलॉग बॉक्स में खोज कार्य (सर्च टास्क) केस सेंसिटिव बनाता है?",
+    "options": [
+      "1. स्ट्रिंग सेंसिटिव (String sensitive)",
+      "2. मैच स्ट्रिंग (Match string)",
+      "3. केस सेंसिटिव (Case sensitive)",
+      "4. मैच केस (Match case)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In MS-Word, the keyboard shortcut to open the Thesaurus task pane of Proofing tab is ________________.",
+    "options": [
+      "1. Alt + Click",
+      "2. F7",
+      "3. Shift + F7",
+      "4. Ctrl + Click"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Word में, अशुद्धि जांच (प्रूफिंग टैब) के थिसॉरस टास्क पेन को खोलने के लिए कीबोर्ड शॉर्टकट __________ है।",
+    "options": [
+      "1. Alt + क्लिक",
+      "2. F7",
+      "3. Shift + F7",
+      "4. Ctrl + क्लिक"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is NOT a valid Windows operating system version?",
+    "options": [
+      "1. Windows XP",
+      "2. Windows 95",
+      "3. Windows 98",
+      "4. Windows 99"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, वैध विंडोज ऑपरेटिंग सिस्टम संस्करण नहीं है?",
+    "options": [
+      "1. Windows XP",
+      "2. Windows 95",
+      "3. Windows 98",
+      "4. Windows 99"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is NOT an option for Paragraph spacing in MS-Word.",
+    "options": [
+      "1. Tight",
+      "2. Compact",
+      "3. Double",
+      "4. Close"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Word में पैराग्राफ स्पेसिंग के लिए निम्नलिखित में से कौन सा विकल्प नहीं है।",
+    "options": [
+      "1. टाइट",
+      "2. कॉम्पैक्ट",
+      "3. डबल",
+      "4. क्लोज"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "If there are multiple reviewers of an MS-Word document, each person will be assigned _____________ markup color for track changes.",
+    "options": [
+      "1. a different",
+      "2. the same",
+      "3. a default",
+      "4. red"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "यदि MS-Word दस्तावेज़ के कई समीक्षक (reviewers) हैं, तो प्रत्येक व्यक्ति को ट्रैक परिवर्तनों के लिए ____________ मार्कअप रंग दिया जाएगा।",
+    "options": [
+      "1. विभिन्न",
+      "2. समान",
+      "3. डिफ़ॉल्ट",
+      "4. लाल"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The given commands are a part of the _________ group in the Review tab of MS-Word.<br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPJmOtB26X-SE67k5JbGswfdj1BkKa25V8VRhXBhtt64w_RMhzeINkHWikKK9_tYm-7wfVTE_2lT-9pJASSvoe0CCywgD6KaK9KpShhPvgsw2tnRaGTq4IGUzj0yIyAlP9I3B-f3K15iSuK6BiluOsqOE6tzuzj2rwng2NBOrOT_v68Cd34V-lKdacogkh/s1600/34%20gh.jpg\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. Proofing",
+      "2. Comments",
+      "3. Tracking",
+      "4. Changes"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "दिए गए कमांड एमएस-वर्ड के रिव्यू टैब में ________ ग्रुप का हिस्सा हैं।<br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPJmOtB26X-SE67k5JbGswfdj1BkKa25V8VRhXBhtt64w_RMhzeINkHWikKK9_tYm-7wfVTE_2lT-9pJASSvoe0CCywgD6KaK9KpShhPvgsw2tnRaGTq4IGUzj0yIyAlP9I3B-f3K15iSuK6BiluOsqOE6tzuzj2rwng2NBOrOT_v68Cd34V-lKdacogkh/s1600/34%20gh.jpg\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. प्रूफिंग (Proofing)",
+      "2. कमेंट्स (Comments)",
+      "3. ट्रैकिंग (Tracking)",
+      "4. चेंजिस (Changes)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the full form of SMPS with reference to PC operation?",
+    "options": [
+      "1. Switched Mode Power Supply",
+      "2. Synchronous Mode Power Supply",
+      "3. Switch Method Power Supply",
+      "4. Switch Mode Power Supplement"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "PC ऑपरेशन के संदर्भ में SMPS का पूर्णरूप क्या है?",
+    "options": [
+      "1. स्विचएड मोड पावर सप्लाय (Switched Mode Power Supply)",
+      "2. सिंक्रोनस मोड पावर सप्लाय (Synchronous Mode Power Supply)",
+      "3. स्विच मेथड पावर सप्लाय (Switch Method Power Supply)",
+      "4. स्विच मोड पावर सप्लीमेंट (Switch Mode Power Supplement)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS-Word, the option which is NOT available in “Start Mail Merge” is",
+    "options": [
+      "1. Envelopes",
+      "2. Labels",
+      "3. Letters",
+      "4. Pages"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Word में “Start Mail Merge” में जो विकल्प उपलब्ध नहीं होता है, वह है-",
+    "options": [
+      "1. लिफाफे (Envelopes)",
+      "2. लेबल (Labels)",
+      "3. पत्र (Letters)",
+      "4. पृष्ठों (Pages)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is a convenient resting place for the most frequently used commands in MS-Word?",
+    "options": [
+      "1. Document area",
+      "2. Status bar",
+      "3. File tab",
+      "4. Quick Access Toolbar"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा MS-Word में सबसे अधिक (बार - बार) उपयोग किए जाने वाले कमांड के लिए सुविधाजनक विश्राम स्थल (resting place) है?",
+    "options": [
+      "1. डोक्युमेंट क्षेत्र (Document area)",
+      "2. स्टेटस बार (Status bar)",
+      "3. फ़ाइल टैब (File tab)",
+      "4. क्विक एक्सेस टूलबार (Quick Access Toolbar)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In MS-Word, ____________ mode is used to hide the writing tools and menus and to leave more room for the pages themselves.",
+    "options": [
+      "1. Read",
+      "2. Write",
+      "3. Draft",
+      "4. Print Layout"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Word में, ________ मोड का उपयोग राइटिंग टूल्स और मेनू को छिपाने के लिए और स्वयं पृष्ठों के लिए अधिक जगह छोड़ने के लिए किया जाता है।",
+    "options": [
+      "1. रीड (Read)",
+      "2. राइट (Write)",
+      "3. ड्राफ्ट (Draft)",
+      "4. प्रिंट लेआउट (Print Layout)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "There are many ways to insert a page number in an MS-Word document. Which of the following steps lets you insert a page number?",
+    "options": [
+      "1. Page Number from Insert menu",
+      "2. Page Setup from File menu",
+      "3. Footnote from Insert menu",
+      "4. Page Number from Design menu"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Word डॉक्यूमेंट में, पेज संख्या इन्सर्ट करने के कई तरीके हो सकते हैं। निम्नलिखित में से कौन-सा चरण आपको पेज संख्या इन्सर्ट करने में सहायता करता है?",
+    "options": [
+      "1. इन्सर्ट मेनू से पेज संख्या (Page Number from Insert menu)",
+      "2. फाइल मेनू से पेज सेटअप (Page Setup from File menu)",
+      "3. इन्सर्ट मेनू से फुटनोट (Footnote from Insert menu)",
+      "4. डिजाईन मेनू से पेज संख्या (Page Number from Design menu)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The task performed by the \"Wrap Text” feature in MS-Word is?",
+    "options": [
+      "1. It inserts spaces between words",
+      "2. It aligns text with the right margin",
+      "3. It forces all text to be confined within defined margins",
+      "4. It combines and centres the content of the selected cells"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Word में \"Wrap Text\" फीचर द्वारा किया जाने वाला कार्य है?",
+    "options": [
+      "1. यह शब्दों के बीच रिक्ति (स्पेस) जोड़ता है।",
+      "2. यह दाई मार्जिन के साथ टेक्स्ट को संरेखित करता है।",
+      "3. यह परिभाषित मार्जिन के भीतर सभी टेक्स्ट को सीमित कर देता है।",
+      "4. यह चयनित सेल की सामग्री को जोड़ता है और केंद्रित करता है।"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Ashish wants to install a flash player from the Internet where the setup link is available. Which process should he use to save the setup on his computer?",
+    "options": [
+      "1. Downloading",
+      "2. Uploading",
+      "3. Reloading",
+      "4. Indexing"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "आशीष इंटरनेट से एक फ्लैश प्लेयर स्थापित (install) करना चाहता है जहां सेटअप लिंक उपलब्ध है। सेटअप को अपने कंप्यूटर पर सेव करने के लिए उसे किस प्रक्रिया का उपयोग करना चाहिए?",
+    "options": [
+      "1. डाउनलोडिंग",
+      "2. अपलोडिंग",
+      "3. री-लोडिंग",
+      "4. इंडेक्सिं ग"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "An anonymous FTP server allows you to only ______ the files on the client machine without creating any account.",
+    "options": [
+      "1. download",
+      "2. upload",
+      "3. execute",
+      "4. delete"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एक अनाम (anonymous) FTP सर्वर आपको बिना कोई खाता बनाए क्लाइंट मशीन पर केवल फाइलों को ______ करने की अनुमति देता है।",
+    "options": [
+      "1. डाउनलोड",
+      "2. अपलोड",
+      "3. एक्जीक्युट",
+      "4. डिलीट"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Who among the following introduced the first commercial hard disk?",
+    "options": [
+      "1. Dell",
+      "2. IBM",
+      "3. Microsoft",
+      "4. Intel"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से किसने पहली कमर्शियल हार्ड डिस्क पेश की थी?",
+    "options": [
+      "1. डेल (Dell)",
+      "2. आईबीएम (IBM)",
+      "3. माइक्रोसॉफ्ट (Microsoft)",
+      "4. इन्टेल (Intel)"
+    ],
+    "answer": 1
+  }
 ]
         
         };
