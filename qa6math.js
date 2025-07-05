@@ -478,7 +478,7 @@
     "answer": 2
   },
   {
-    "q": "<img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_tG4mUn9oAglNTtZn6O_3W_EEtbcAdZaF8x3PpaE3Gm4IVvTamQWZdKooiz64Jv2QoBGdc442xO6Ts62yJV82xRuj_V6vLW-VIbj0_YE7dCpDXpRldDnzY1CCwZDahwnxBp7SdfyWzvZke1ZWDcXEdvIWBN_ZH-2lgaHNAOgDzYz2Gnu4Fq28LiAxT7ir/s320/46%20gh.jpg\" style=\"max-width:none; height:auto;\">",
+    "q": "<img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_tG4mUn9oAglNTtZn6O_3W_EEtbcAdZaF8x3PpaE3Gm4IVvTamQWZdKooiz64Jv2QoBGdc442xO6Ts62yJV82xRuj_V6vLW-VIbj0_YE7dCpDXpRldDnzY1CCwZDahwnxBp7SdfyWzvZke1ZWDcXEdvIWBN_ZH-2lgaHNAOgDzYz2Gnu4Fq28LiAxT7ir/s320/46%20gh.jpg\" style=\"width: 1200px; height:auto;\">",
     "options": [
       "7/16",
       "-7/32",
