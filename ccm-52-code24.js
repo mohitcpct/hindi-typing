@@ -21880,6 +21880,1048 @@
     ],
     "answer": 1
   }
+],
+   "23rd July 2023 - Shift2": [
+  {
+    "q": "Restoration of database to the most recent correct state if database failure occurs is called:",
+    "options": [
+      "1. storage",
+      "2. backup",
+      "3. recovery",
+      "4. copying"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "डेटाबेस विफल होने पर जब डेटाबेस को सबसे हाल ही की सही स्थिति में रिस्टोर किया जाता है, तो इसे क्‍या कहा जाता है?",
+    "options": [
+      "1. स्‍टोरेज",
+      "2. बैकअप",
+      "3. रिकवरी",
+      "4. कॉपीइंग"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is a network device?",
+    "options": [
+      "1. Bridge",
+      "2. Light pen",
+      "3. Tablet",
+      "4. Stylus"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन एक नेटवर्क डिवाइस है?",
+    "options": [
+      "1. ब्रिज",
+      "2. लाइट पेन",
+      "3. टैबलेट",
+      "4. स्टाइलस"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is a shell?",
+    "options": [
+      "1. It is a hardware component.",
+      "2. It is a command interpreter.",
+      "3. It is a part in a computer.",
+      "4. It is a tool in CPU scheduling."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "शेल (Shell) क्या होता है?",
+    "options": [
+      "1. यह एक हार्डवेयर घटक है",
+      "2. यह एक कमांड इंटरप्रेटर है",
+      "3. यह कंप्यूटर का एक भाग है",
+      "4. यह CPU शेड्यूलिंग का एक टूल है"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Choose the Hexadecimal equivalent of the decimal number 35.",
+    "options": [
+      "1. 22",
+      "2. 21",
+      "3. 23",
+      "4. 24"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "दशमलव संख्या 35 के समतुल्य हेक्साडेसिमल (Hexadecimal) चुनें।",
+    "options": [
+      "1. 22",
+      "2. 21",
+      "3. 23",
+      "4. 24"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which function returns the cumulative beta probability density function in Excel?",
+    "options": [
+      "1. CUM.BETAP function",
+      "2. BETADIST function",
+      "3. CHISQ.DIST function",
+      "4. CHIS.DISTQP function"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Excel में, कौन सा फंक्शन संचयी बीटा संभाव्यता घनत्व (cumulative beta probability density) फंक्शन लौटाता है?",
+    "options": [
+      "1. CUM.BETAP फंक्शन",
+      "2. BETADIST फंक्शन",
+      "3. CHISQ.DIST फंक्शन",
+      "4. CHIS.DISTQP फंक्शन"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In MS-Excel, ______ function returns a reference indicated by a text value",
+    "options": [
+      "1. INFO",
+      "2. INDEX",
+      "3. DIRECT",
+      "4. INDIRECT"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel में, ______ फ़ंक्शन एक टेक्स्ट मान द्वारा इंगित एक संदर्भ (reference) देता है?",
+    "options": [
+      "1. INFO",
+      "2. INDEX",
+      "3. DIRECT",
+      "4. INDIRECT"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which type of keyboard provides the greatest amount of flexibility and convenience by eliminating cables connected to the system unit?",
+    "options": [
+      "1. Traditional",
+      "2. Wireless",
+      "3. Network",
+      "4. Ergonomic"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कंप्यूटर सिस्टम से जुड़ने वाली तारों से रहित आरामदायक और सुविधाजनक कार्यप्रणाली प्रदान करने वाले की-बोर्ड किस प्रकार के की-बोर्ड कहलाते हैं?",
+    "options": [
+      "1. परंपरागत",
+      "2. वायरलेस",
+      "3. नेटवर्क",
+      "4. एर्गोनॉमिक"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "PAN, smallest network which is very personal to a user, in network stands for:",
+    "options": [
+      "1. Personal Area Network",
+      "2. Private Area Network",
+      "3. Public Area Network",
+      "4. Protected Area Network"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "पैन (PAN), सबसे छोटा नेटवर्क है जो नेटवर्क में, एक उपयोगकर्ता के लिए बहुत ही निजी होता है, इसका पूर्णरूप है:",
+    "options": [
+      "1. पर्सनल एरिया नेटवर्क (Personal Area Network)",
+      "2. प्राइवेट एरिया नेटवर्क (Private Area Network)",
+      "3. पब्लिक एरिया नेटवर्क (Public Area Network)",
+      "4. प्रोटेक्टेड एरिया नेटवर्क (Protected Area Network)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_____ holds the address of the memory location of the next instruction, which is to be fetched after the current instruction is completed.",
+    "options": [
+      "1. Program Counter",
+      "2. Data Register",
+      "3. Instruction Register",
+      "4. Accumulator"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_____ अगले निर्देश के मेमोरी स्थान का पता (एड्रेस) रखता है, जिसे वर्तमान निर्देश पूरा होने के बाद फेच किया जाना है।",
+    "options": [
+      "1. प्रोग्राम काउंटर",
+      "2. डेटा रजिस्टर",
+      "3. इंस्ट्रक्शन रजिस्टर",
+      "4. संचायक (Accumulator)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS-Excel, what is the category of the function \"ISNUMBER\"?",
+    "options": [
+      "1. Statistics",
+      "2. Look up and Reference",
+      "3. Maths and Trigonometry",
+      "4. Information"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel में, \"ISNUMBER\" फ़ंक्शन की श्रेणी क्या है?",
+    "options": [
+      "1. सांख्यिकी",
+      "2. लूक अप तथा संदर्भ (Look up and Reference)",
+      "3. गणित और त्रिकोणमिति",
+      "4. सूचना (Information)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following displays used in portable digital devices, such as watches or solar-powered calculators, consumes extremely less power?",
+    "options": [
+      "1. LCD (liquid-crystal display)",
+      "2. Incandescent",
+      "3. LED (light-emitting diode)",
+      "4. Vacuum fluorescent"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "पोर्टेबल डिजिटल डिवाइसों, जैसे घड़ियों या सौर ऊर्जा से चालित कैलकुलेटरों में उपयोग की जाने वाली वह डिस्प्ले कौन सी है जो बहुत कम ऊर्जाकी खपत करती है?",
+    "options": [
+      "1. एल.सी.डी. (लिक्विड-क्रिस्टल डिस्प्ले)",
+      "2. तापदीप्‍त (इंकंडेसेंट)",
+      "3. एल.ई.डी. (लाइट-एमिटिंग डायोड)",
+      "4. निर्वात प्रतिदीप्ति (वैक्यूम फ्लोरोसेंट)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which among the following component generates clicks with spark plug on an acoustic tablet?",
+    "options": [
+      "1. Ethernet connector",
+      "2. USB cable",
+      "3. Puck",
+      "4. Stylus"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा घटक एक एकॉस्टिक टैबलेट (acoustic tablet) पर स्पार्क प्लग से क्लि क उत्पन्न करता है?",
+    "options": [
+      "1. ईथरनेट कनेक्टर",
+      "2. USB केबल",
+      "3. पक",
+      "4. स्टाइलस"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "With ______, you can look in one column for a search term, and return a result from the same row in another column, regardless of which side the return column is on.",
+    "options": [
+      "1. VLOOKUP",
+      "2. XLOOKUP",
+      "3. HLOOKUP",
+      "4. COUNTIF"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "________ के साथ, आप एक खोज शब्द के लिए एक कॉलम में देख सकते हैं, और उसी पंक्ति से दूसरे कॉलम में परिणाम रिटर्न कर सकते हैं, रिटर्न कॉलम किस तरफ है उस पर ध्यान दिए बिना।",
+    "options": [
+      "1. VLOOKUP",
+      "2. XLOOKUP",
+      "3. HLOOKUP",
+      "4. COUNTIF"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "AGP-8X is the fastest expansion slot with a transfer rate of:",
+    "options": [
+      "1. 2,133 megabytes per second",
+      "2. 1,200 megabytes per second",
+      "3. 1,100 megabytes per second",
+      "4. 5,100 megabytes per second"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "AGP-8X सबसे तेज़ एक्सपेंशन स्लॉट है। इसकी ट्रांसफर दर कितनी है?",
+    "options": [
+      "1. 2,133 मेगाबाइट प्रति सेकंड",
+      "2. 1,200 मेगाबाइट प्रति सेकंड",
+      "3. 1,100 मेगाबाइट प्रति सेकंड",
+      "4. 5,100 मेगाबाइट प्रति सेकंड"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is the most common connector used for computer displays?",
+    "options": [
+      "1. Audio connector",
+      "2. VGA connector",
+      "3. Electric connector",
+      "4. Voltage connector"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कंप्यूटर डिस्प्लेमें सामान्यतः उपयोग होने वाला कनेक्टर निम्न में से कौन सा है?",
+    "options": [
+      "1. ऑडियो कनेक्टर",
+      "2. VGA कनेक्टर",
+      "3. इलेक्ट्रिक कनेक्टर",
+      "4. वोल्टेज कनेक्टर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "If your printer is offline or it is not ready, then the next printing job will be ________.",
+    "options": [
+      "1. cancelled",
+      "2. postponed for an unlimited time",
+      "3. held in the print queue",
+      "4. printed after one hour"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "यदि आपका प्रिंटर ऑफ़लाइन है या यह तैयार नहीं है, तो अगले प्रिंटिंग कार्य का क्या होगा?",
+    "options": [
+      "1. निरस्त हो जाएगा",
+      "2. असीमित समय के लिए स्थगित हो जाएगा",
+      "3. प्रिंट कतार में रखा जाएगा",
+      "4. एक घंटे बाद प्रिंट होगा"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is the binary equivalent of the decimal number 20?",
+    "options": [
+      "1. 11001",
+      "2. 10100",
+      "3. 11110",
+      "4. 0111"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "दशमलव संख्या 20 का बाइनरी समतुल्य निम्न में से क्या है?",
+    "options": [
+      "1. 11001",
+      "2. 10100",
+      "3. 11110",
+      "4. 0111"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which set of printers belongs to the category of line printers?",
+    "options": [
+      "1. LaserJet, inkjet and dot matrix",
+      "2. Drum, chain and band",
+      "3. Drum, chain and dot matrix",
+      "4. LaserJet, drum and chain"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "प्रिंटरों का निम्न में से कौन सा समूह लाइन प्रिंटरों की श्रेणी से संबंधित है?",
+    "options": [
+      "1. लेज़र जेट, इंकजेट और डॉट मैट्रिक्स",
+      "2. ड्रम, चेन और बैंड",
+      "3. ड्रम, चेन और डॉट मैट्रिक्स",
+      "4. लेज़र जेट, ड्रम और चेन"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is the decimal equivalent of the binary number 11001?",
+    "options": [
+      "1. 25",
+      "2. 24",
+      "3. 23",
+      "4. 22"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "बाइनरी संख्या 11001 के समतुल्य दशमलव संख्या निम्न में से कौन सी है?",
+    "options": [
+      "1. 25",
+      "2. 24",
+      "3. 23",
+      "4. 22"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ is the name of an industry standard for firmware (built-in software) that allows digital cameras and printers to communicate directly with each other.",
+    "options": [
+      "1. Switches",
+      "2. Pictbridge",
+      "3. Hub",
+      "4. Router"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______, फ़र्मवेयर (बिल्ट -इन सॉफ्ट वेयर) के लिए उद्योग मानक का नाम है जो डिजिटल कैमरों और प्रिंटरों को एक-दूसरे से प्रत्यक्ष रूप से संचार करने की अनुमति देता है।",
+    "options": [
+      "1. स्विच",
+      "2. पिक्ट ब्रिज़",
+      "3. हब",
+      "4. राउटर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following displays both the name of the application and the name of the spreadsheet in MS-Excel?",
+    "options": [
+      "1. Menu bar",
+      "2. Title bar",
+      "3. Toll bar",
+      "4. Task bar"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel में, एप्लीकेशन के नाम और स्प्रेडशीट के नाम, दोनों कहाँ पर प्रदर्शित होते हैं?",
+    "options": [
+      "1. मेनू बार",
+      "2. टाइटल बार",
+      "3. टोल बार",
+      "4. टास्क बार"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a phenomenon associated with FM reception, in which only the stronger of two signals at or near the same frequency will be demodulated?",
+    "options": [
+      "1. Capture effect",
+      "2. Two-station effect",
+      "3. Blur effect",
+      "4. Threshold effect"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सी FM रिसेप्शन से जुड़ी एक परिघटना है, जिसमें एक ही आवृत्ति पर या उसके निकट के दो सिग्नलों में से केवल प्रबल वाले को डिमॉड्यूलेट किया जाएगा?",
+    "options": [
+      "1. कैप्चर इफ़ेक्ट",
+      "2. टू-स्टेशन इफ़ेक्ट",
+      "3. ब्लर इफ़ेक्ट",
+      "4. थ्रेशोल्ड इफ़ेक्ट"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ coding is a compression technology for audio signals that is based on imperfections of the human ear.",
+    "options": [
+      "1. Perceptual Audio",
+      "2. Entropy",
+      "3. Transformation",
+      "4. Differential"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ कोडिंग, ऑडियो सिग्नल के लिए एक संपीड़न तकनीक है जो मानव कान की अपूर्णताओं (imperfections) पर आधारित है।",
+    "options": [
+      "1. पर्सेप्चूअल ऑडियो",
+      "2. एन्ट्रॉपी",
+      "3. ट्रांसफॉर्मेशन",
+      "4. डिफरेंशियल"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ can protect communications that traverse un-trusted networks.",
+    "options": [
+      "1. Bibliography",
+      "2. Cryptography",
+      "3. Sonography",
+      "4. Tomography"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "_______ उन संचारों की रक्षा कर सकता है जो असुरक्षित नेटवर्कों से होकर गुजरते हैं।",
+    "options": [
+      "1. बिब्लि योग्राफी",
+      "2. क्रिप्टोग्राफी",
+      "3. सोनोग्राफी",
+      "4. टोमोग्राफी"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which one of the following is NOT a common planned maintenance activities performed by Microsoft",
+    "options": [
+      "1. Security hotfixes",
+      "2. Operating system (OS) security updates",
+      "3. Microsoft quality updates",
+      "4. Troubleshooting"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन सी Microsoft द्वारा निष्पादित सामान्य नियोजित रखरखाव (maintenance) गतिविधियाँ नहीं है-",
+    "options": [
+      "1. सुरक्षा हॉटफ़िक्स",
+      "2. ऑपरेटिंग सिस्टम (ओएस) सुरक्षा अपडेट",
+      "3. माइक्रोसॉफ्ट गुणवत्ता अपडेट",
+      "4. समस्या निवारण"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following allows access to a computer with the external environment?",
+    "options": [
+      "1. Arithmetic Logic Unit",
+      "2. Input Unit",
+      "3. Memory Unit",
+      "4. ROM Unit"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन बाहरी वातावरण के साथ कंप्यूटर तक पहुँचने की अनुमति देता है?",
+    "options": [
+      "1. अर्थमेटिक लॉजिक यूनिट",
+      "2. इनपुट यूनिट",
+      "3. मेमोरी यूनिट",
+      "4. ROM यूनिट"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What do you call a computer on a network that requests files from another computer?",
+    "options": [
+      "1. A client",
+      "2. A host",
+      "3. A router",
+      "4. A web server"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "नेटवर्क में स्थित ऐसे कंप्यूटर को क्या कहा जाता है जो किसी अन्य कंप्यूटर से फ़ाइलों का अनुरोध करता है?",
+    "options": [
+      "1. क्लाइंट",
+      "2. होस्ट",
+      "3. राउटर",
+      "4. वेब सर्वर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The pixel dimensions of an image are what really determine the size of the image and quality of how it will display on __________.",
+    "options": [
+      "1. a paper",
+      "2. a whiteboard",
+      "3. the web",
+      "4. a blackboard"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "किसी इमेज की पिक्सल डायमेंशन का वास्तविक अर्थ है, __________ पर उस इमेज के प्रदर्शित होने वाले आकार और गुणवत्ता की माप है।",
+    "options": [
+      "1. पेपर",
+      "2. वाइटबोर्ड",
+      "3. वेब",
+      "4. ब्लैकबोर्ड"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "From where can minimised programs be accessed in the Windows OS?",
+    "options": [
+      "1. Menu bar",
+      "2. Task bar",
+      "3. Tool bar",
+      "4. Desktop"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Windows OS में मिनीमाइज किये गए प्रोग्राम्स को कहाँ से एक्सेस किया जा सकता है?",
+    "options": [
+      "1. मेनू बार",
+      "2. टास्क बार",
+      "3. टूल बार",
+      "4. डेस्कटॉप"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The development of the UNIX operating system started in the ___________.",
+    "options": [
+      "1. 1960s",
+      "2. 1950s",
+      "3. 1970s",
+      "4. 1940s"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "यूनिक्स (UNIX) ऑपरेटिंग सिस्टम का विकास किस दशक से होना शुरू होता है?",
+    "options": [
+      "1. 1960s",
+      "2. 1950s",
+      "3. 1970s",
+      "4. 1940s"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "B2C, C2C and B2B are types of ________.",
+    "options": [
+      "1. e-commerce",
+      "2. email",
+      "3. e-cash",
+      "4. protocols"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "B2C, C2C और B2B________ के प्रकार हैं।",
+    "options": [
+      "1. ई-कॉमर्स",
+      "2. ईमेल",
+      "3. ई-कैश",
+      "4. प्रोटोकॉल"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A software that searches through a database of web pages for a particular piece of information is known as a/an ____________.",
+    "options": [
+      "1. domain",
+      "2. email client",
+      "3. modem",
+      "4. search engine"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "किसी विशेष जानकारी के लिए, डेटाबेस के माध्यम से वेबपेजों की खोज करने वाले सॉफ़्टवेयर को किस नाम से जाना जाता है?",
+    "options": [
+      "1. डोमेन",
+      "2. ईमेल क्लाइंट",
+      "3. मॉडेम",
+      "4. सर्च इंजन"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following represents a valid email address?",
+    "options": [
+      "1. Vml.@india.com",
+      "2. @vrm@india.com",
+      "3. Vrm.india.com",
+      "4. Vrm@india.com"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से कौन सा एक वैध ई-मेल एड्रेस है?",
+    "options": [
+      "1. Vml.@india.com",
+      "2. @vrm@india.com",
+      "3. Vrm.india.com",
+      "4. Vrm@india.com"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "When you want to visit a website, you can type the website address or URL in the __________.",
+    "options": [
+      "1. browser address bar",
+      "2. window bar",
+      "3. taskbar",
+      "4. side bar"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "जब आप किसी वेबसाइट पर जाना चाहते हैं, तो आप ______ में वेबसाइट का एड्रेस या यूआरएल (URL) टाइप कर सकते हैं।",
+    "options": [
+      "1. ब्राउज़र एड्रेस बार",
+      "2. विंडो बार",
+      "3. टास्क बार",
+      "4. साइड बार"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Pressing which function key helps to enter BIOS setup as the computer is booting?",
+    "options": [
+      "1. F1",
+      "2. F5",
+      "3. F3",
+      "4. F4"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कंप्यूटर की बूटिंग प्रक्रिया के दौरान, BIOS सेटअप को इंटर करने के लिए निम्न में से किस फंक्शन की का इस्तेमाल किया जाता है?",
+    "options": [
+      "1. F1",
+      "2. F5",
+      "3. F3",
+      "4. F4"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which function of MS-Word is related with 'dropped' in the position option?",
+    "options": [
+      "1. Remove",
+      "2. Format",
+      "3. Drop cap",
+      "4. Edit"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS Word का कौन सा फंक्शन 'पोजिशन' विकल्प के \"ड्रॉप्ड\" से संबंधित है?",
+    "options": [
+      "1. रिमूव",
+      "2. फॉर्मेट",
+      "3. ड्रॉप कैप",
+      "4. एडिट"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which input device uses infrared LED light to bounce off surfaces to track movement?",
+    "options": [
+      "1. Optical mouse",
+      "2. Laser mouse",
+      "3. Trackball mouse",
+      "4. Wired mouse"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से किस इनपुट डिवाइस में गति को ट्रैक करने के लिए अवरक्त LED लाइट का उपयोग किया जाता है?",
+    "options": [
+      "1. ऑप्टिकल माउस",
+      "2. लेज़र माउस",
+      "3. ट्रैकबॉल माउस",
+      "4. वायर्ड माउस"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ is a payment system that allows money transfer between any two bank accounts by using a smartphone.",
+    "options": [
+      "1. UII",
+      "2. UPI",
+      "3. SII",
+      "4. SBB"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "___________ एक भुगतान प्रणाली है जो स्मार्टफोन के माध्यम से किन्ही दो बैंक खातों के बीच मुद्रा स्थानांतरण की सुविधा देती है।",
+    "options": [
+      "1. UII",
+      "2. UPI",
+      "3. SII",
+      "4. SBB"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In which year was the BHIM App launched?",
+    "options": [
+      "1. 2016",
+      "2. 2017",
+      "3. 2015",
+      "4. 2014"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "भीम (BHIM) ऐप किस वर्ष शुरू किया गया?",
+    "options": [
+      "1. 2016",
+      "2. 2017",
+      "3. 2015",
+      "4. 2014"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Alignment buttons are available on the ______ tab of MS Word.",
+    "options": [
+      "1. Review",
+      "2. Home",
+      "3. Insert",
+      "4. Page Layout"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एमएस वर्ड के ______ टैब में अलाइनमेंट बटन उपलब्ध होते हैं।",
+    "options": [
+      "1. रिव्यू",
+      "2. होम",
+      "3. इन्सर्ट",
+      "4. पेज लेआउट"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The _______ command changes the selected text to upper case, lower case, or other common capitalisation.",
+    "options": [
+      "1. Change Case",
+      "2. Grow Font",
+      "3. Shrink Font",
+      "4. Case Change"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_______ कमांड चयनित टेक्स्ट को अपर केस, लोअर केस या अन्य सामान्य कैपिटलाइज़ेशन में बदल देती है।",
+    "options": [
+      "1. चेंज केस",
+      "2. ग्रो फॉन्ट",
+      "3. श्रिंक फॉन्ट",
+      "4. केस चेंज"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Snapdragon processor is developed by which company?",
+    "options": [
+      "1. Qualcomm",
+      "2. Apple",
+      "3. HP",
+      "4. Intel"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "स्नैपड्रैगन प्रोसेसर किस कंपनी द्वारा विकसित किया गया?",
+    "options": [
+      "1. क्वालकम",
+      "2. एप्पल",
+      "3. HP",
+      "4. इंटेल"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following software is NOT a software for video conferencing?",
+    "options": [
+      "1. Google Meet",
+      "2. Zoom",
+      "3. Skype",
+      "4. Fotor"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से किस सॉफ्टवेयर वीडियो कॉन्फ्रेन्सिं ग के लिए सॉफ्टवेयर नहीं होता है?",
+    "options": [
+      "1. गूगल मीट",
+      "2. ज़ूम",
+      "3. स्काइप",
+      "4. फ़ोटोर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In general, a wrongly typed word is underlined in ______ colour.",
+    "options": [
+      "1. red",
+      "2. green",
+      "3. yellow",
+      "4. blue"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "सामान्य रूप से, गलत टाइप किया गया शब्द ______ रंग से रेखांकित हो जाता है।",
+    "options": [
+      "1. लाल",
+      "2. हरा",
+      "3. पीला",
+      "4. नीला"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "HiSilicon is a Chinese company specialising in _________ technology.",
+    "options": [
+      "1. semiconductor",
+      "2. keyboard",
+      "3. mouse",
+      "4. stylus"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "हाई सिलिकॉन (HiSilicon) एक चीनी कम्पनी है, जिसे __________ बनाने में विशेषज्ञता प्राप्त है।",
+    "options": [
+      "1. सेमीकंडक्टर",
+      "2. कीबोर्ड",
+      "3. माउस",
+      "4. स्टाइलस"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "When Deepak is unable to view the entire comment that he wants to edit, he needs to try using the ______ feature in the Tracking group.",
+    "options": [
+      "1. Balloons",
+      "2. Track Changes",
+      "3. Reviewing Pane",
+      "4. Show Markup"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "जब दीपक उस पूरे कमेंट्स को नहीं देख पा रहा है जिसे वह एडिट करना चाहता है, तो उसे ट्रैकिंग ग्रुप के ______ फ़ीचर का उपयोग करने की आवश्यकता है।",
+    "options": [
+      "1. बैलून्स",
+      "2. ट्रैक चेंज",
+      "3. रिव्यूविंग पैन",
+      "4. शो मार्कअप"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which alignment helps in aligning all your data in the middle?",
+    "options": [
+      "1. Left alignment",
+      "2. Proper alignment",
+      "3. Center alignment",
+      "4. Justified alignment"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्न में कौन सा संरेखण (alignment) आपके पूरे डेटा को मध्य में संरेखित करने में मदद करता है?",
+    "options": [
+      "1. लेफ्ट संरेखण",
+      "2. प्रॉपर संरेखण",
+      "3. सेंटर संरेखण",
+      "4. जस्टीफ़ाइड संरेखण"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "_______ is an unwanted bulk mail which is sent by an unauthorised or unidentified person in order to consume the entire disk space.",
+    "options": [
+      "1. Spam",
+      "2. Mail",
+      "3. Email",
+      "4. Advertisement"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से कौन सा वह अवांछित बल्क मेल है जिसे किसी अनधिकृत या अज्ञात व्यक्ति द्वारा डिस्क का पूरा स्पेस उपयोग कर लेने के लिए भेजा जाता है?",
+    "options": [
+      "1. स्पैम",
+      "2. मेल",
+      "3. ई-मेल",
+      "4. विज्ञापन"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Identify the option that is NOT related to Mailings Tab in MS-Word.",
+    "options": [
+      "1. Address Block",
+      "2. Greeting Line",
+      "3. Labels",
+      "4. Ruler"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "उस विकल्प को पहचानें जो एमएस-वर्ड में मेलिंग टैब से संबंधित नहीं है।",
+    "options": [
+      "1. एड्रेस ब्लॉक",
+      "2. ग्रीटिंग लाइन",
+      "3. लेबल्स",
+      "4. रूलर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Video conferencing can be beneficial in ______ learning.",
+    "options": [
+      "1. distance",
+      "2. desktop",
+      "3. limited",
+      "4. physical classroom"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ शिक्षण के लिए वीडियो कॉन्फ्रेन्सिंग लाभप्रद हो सकती है।",
+    "options": [
+      "1. दूरस्थ",
+      "2. डेस्कटॉप",
+      "3. सीमित",
+      "4. भौतिक कक्षा"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is FALSE about Network Address Translation?",
+    "options": [
+      "1. Allow multiple devices to access the Internet through a single public address.",
+      "2. Translate private IP address to public IP address",
+      "3. Translate one or more local IP address into one or more Global IP address",
+      "4. Does not do translation of port number"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "नेटवर्क एड्रेस ट्रांसलेशन के बारे में निम्नलिखित में से कौन सा गलत है?",
+    "options": [
+      "1. एक ही सार्वजनिक पते के माध्यम से कई उपकरणों को इंटरनेट तक पहुंचने की अनुमति दें।",
+      "2. निजी आईपी (IP) पते का सार्वजनिक आईपी (IP) पते में अनुवाद करें",
+      "3. एक या अधिक स्थानीय आईपी पते का एक या अधिक वैश्विक आईपी पते में अनुवाद करें",
+      "4. पोर्ट नंबर का अनुवाद नहीं करता"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MPEG is used to compress ______.",
+    "options": [
+      "1. audio",
+      "2. video",
+      "3. animation",
+      "4. graphics"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ को कम्प्रेस करने के लिए MPEG का उपयोग किया जाता है।",
+    "options": [
+      "1. ऑडियो",
+      "2. वीडियो",
+      "3. एनिमेशन",
+      "4. ग्राफिक्स"
+    ],
+    "answer": 1
+  }
 ]
         
         };
