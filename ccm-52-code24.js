@@ -23964,6 +23964,1048 @@
     ],
     "answer": 1
   }
+],
+   "13th May 2023 - Shift1": [
+  {
+    "q": "Which of the following is NOT an example of an application software?",
+    "options": [
+      "1. MS-Word",
+      "2. Screen saver program",
+      "3. Operating system",
+      "4. Antivirus program"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा एप्लीकेशन सॉफ्टवेयर का एक उदाहरण नहीं है?",
+    "options": [
+      "1. MS-Word",
+      "2. स्क्रीन सेवर प्रोग्राम",
+      "3. ऑपरेटिंग सिस्टम",
+      "4. एंटीवायरस प्रोग्राम"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "If a computer is switched on but does NOT respond to a system reset, what is it said to be?",
+    "options": [
+      "1. Dead",
+      "2. Off",
+      "3. Hang",
+      "4. Insensitive"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "यदि कोई कंप्यूटर ऑन है लेकिन सिस्टम रिसेट पर कोई प्रतिक्रिया नहीं दे रहा है, तो यह किस स्थिति में है?",
+    "options": [
+      "1. डेड",
+      "2. ऑफ",
+      "3. हैंग",
+      "4. इंसेंसिटिव"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is meant by a compiler?",
+    "options": [
+      "1. It translates source code to object code.",
+      "2. It is a low level language.",
+      "3. It is an assembly language.",
+      "4. It translates object code to assembly language."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कंपाइलर क्या करता है?",
+    "options": [
+      "1. यह सोर्स कोड को ऑब्जेक्ट कोड में अनूदित करता है।",
+      "2. यह एक निम्न स्तरीय भाषा है।",
+      "3. यह एक असेंबली भाषा है।",
+      "4. यह ऑब्जेक्ट कोड को असेंबली भाषा में अनूदित करता है।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which function returns the smallest value for which the cumulative binomial distribution is greater than or equal to a criterion value in Excel?",
+    "options": [
+      "1. BINOMINV function",
+      "2. BINOM.INV function",
+      "3. INVBINOM function",
+      "4. INV.BINOM function"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Excel में, कौन सा फंक्शन सबसे छोटा मान देता है जिसके लिए संचयी द्विपद वितरण एक मापदंड मान से कम या बराबर है?",
+    "options": [
+      "1. BINOMINV फंक्शन",
+      "2. BINOM.INV फंक्शन",
+      "3. INVBINOM फंक्शन",
+      "4. INV.BINOM फंक्शन"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Keyboard keys like Caps Lock that turn a feature on or off are called:",
+    "options": [
+      "1. combination keys",
+      "2. toggle keys",
+      "3. function keys",
+      "4. special purpose keys"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "किसी फ़ीचर को चालू या बंद करने वाली Caps Lock जैसी की-बोर्ड कीज़ क्या कहलाती हैं?",
+    "options": [
+      "1. कॉम्बिनेशन कीज़",
+      "2. टॉगल कीज़",
+      "3. फंक्शन कीज़",
+      "4. स्पेशल पर्पज़ कीज़"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The function of an assembler is to convert:",
+    "options": [
+      "1. basic language into machine language",
+      "2. high level language into machine language",
+      "3. assembly language into machine language",
+      "4. assembly language into high level language"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "असेंबलर का काम ______ परिवर्तित करना है।",
+    "options": [
+      "1. बेसिक भाषा को मशीनी भाषा में",
+      "2. उच्च स्तरीय भाषा को मशीनी भाषा में",
+      "3. असेंबली भाषा को मशीनी भाषा में",
+      "4. असेंबली भाषा को उच्च स्तरीय भाषा में"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is a Jacquard loom?",
+    "options": [
+      "1. A bird found in Japan",
+      "2. A weaving machine using punched cards",
+      "3. The first computer controlled loom",
+      "4. A machine for writing math tables"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "जैकवर्ड लूम (Jacquard Loom) से क्या आशय है?",
+    "options": [
+      "1. जापान में पाया जाने वाला एक पक्षी",
+      "2. एक बुनाई मशीन जिसमें पंच कार्ड का इस्तेमाल किया जाता था",
+      "3. कंप्यूटर द्वारा नियंत्रित पहला लूम",
+      "4. पहाड़े लिखने वाली एक मशीन"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The ______ is programmed and erased electrically. It can be erased and reprogrammed about ten thousand times.",
+    "options": [
+      "1. masked ROM",
+      "2. PROM",
+      "3. EPROM",
+      "4. EEPROM"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "______ को, विद्युत रूप से प्रोग्राम किया जाता है और मिटाया जाता है। इसे लगभग दस हज़ार बार मिटाया और प्रोग्राम किया जा सकता है।",
+    "options": [
+      "1. मास्क्ड ROM",
+      "2. PROM",
+      "3. EPROM",
+      "4. EEPROM"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following barcode fonts stores large amounts of text and data in a compressed form that is also used by airlines on boarding passes?",
+    "options": [
+      "1. PDF417",
+      "2. MaxiCode",
+      "3. Data Matrix",
+      "4. Codabar"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से कौन सा एक ऐसा बारकोड फ़ॉन्ट है जिसमें बड़ी मात्रा में टेक्स्ट और डेटा को संपीडित रूप में संग्रहित किया जाता है, जिसका उपयोग एयरलाइन के बोर्डिंग पास में भी किया जाता है?",
+    "options": [
+      "1. PDF417",
+      "2. मैक्सी कोड",
+      "3. डेटा मैट्रिक्स",
+      "4. कोडबार (Codabar)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a video conferencing software?",
+    "options": [
+      "1. Google Meet",
+      "2. Google Docs",
+      "3. Google Map",
+      "4. Google Pay"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा एक वीडियो कॉन्फ्रेंसिंग सॉफ्टवेयर है?",
+    "options": [
+      "1. Goggle Meet",
+      "2. Google Docs",
+      "3. Google Map",
+      "4. Google Pay"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Accelerated Graphics Port (AGP) expansion slot on the motherboard runs on a ______ bus.",
+    "options": [
+      "1. 16-bit",
+      "2. 32-bit",
+      "3. 64-bit",
+      "4. 128-bit"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "मदरबोर्ड पर ऐक्सीलेरेटेड ग्राफिक्स पोर्ट (AGP) एक्सपेंसन स्लॉट ______ बस पर चलता है।",
+    "options": [
+      "1. 16-बिट",
+      "2. 32-बिट",
+      "3. 64-बिट",
+      "4. 128-बिट"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the Hexadecimal equivalent of (100)₁₀?",
+    "options": [
+      "1. 160",
+      "2. 256",
+      "3. 64",
+      "4. 16"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "(100)₁₀ का हेक्साडेसिमल समतुल्य क्या है?",
+    "options": [
+      "1. 160",
+      "2. 256",
+      "3. 64",
+      "4. 16"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following keyboards is designed in the likeness of old-fashioned type writer?",
+    "options": [
+      "1. Qwerty keyboards",
+      "2. Numeric keypads",
+      "3. Ergonomic keyboards",
+      "4. Magic keyboards"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा कीबोर्ड पुराने जमाने के टाइप राइटर की तरह बनाया गया है?",
+    "options": [
+      "1. क्वेर्टी कीबोर्ड",
+      "2. न्यूमेरिक कीपैड",
+      "3. एर्गोनोमिक कीबोर्ड",
+      "4. मैजिक कीबोर्ड"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In the ______, seven digit binary numbers (between 0 to 127) are used to represent specific characters.",
+    "options": [
+      "1. ASCII character set",
+      "2. Binary Coded Decimal",
+      "3. Gray Code",
+      "4. Decimal Code"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "________ में, विशिष्ट वर्णों को दर्शाने के लिए सात अंकों की बाइनरी संख्या (0 से 127 के बीच) का उपयोग किया जाता है।",
+    "options": [
+      "1. ASCII कैरेक्टर सेट",
+      "2. बाइनरी कोडेड डेसीमल",
+      "3. ग्रे कोड",
+      "4. डेसीमल कोड"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ allows screen positions to be selected with the touch of a finger.",
+    "options": [
+      "1. Touch panel",
+      "2. Keyboard",
+      "3. Light Pen",
+      "4. Mouse"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ एक उंगली से टच करके स्क्रीन पोजीशन चुनने की सुविधा देता है।",
+    "options": [
+      "1. टच पैनल",
+      "2. कीबोर्ड",
+      "3. लाइट पेन",
+      "4. माउस"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT a component of LAN?",
+    "options": [
+      "1. Tube",
+      "2. NIC",
+      "3. Switch",
+      "4. UTP"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से कौन सा LAN का एक घटक नहीं है?",
+    "options": [
+      "1. ट्यूब",
+      "2. NIC",
+      "3. स्विच",
+      "4. UTP"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT a characteristic of impact printers?",
+    "options": [
+      "1. Very noisy",
+      "2. Very high consumable costs",
+      "3. Useful for bulk printing due to low cost",
+      "4. There is physical contact with the paper to produce an image"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्न में से क्या इम्पैक्ट प्रिंटरों की एक विशेषता नहीं है?",
+    "options": [
+      "1. ये बहुत शोर करते हैं",
+      "2. इनकी उपभोग्य लागत बहुत अधिक होती है",
+      "3. इनके द्वारा प्रिंटिंग की लागत बहुत कम आती है इसलिए अधिक संख्या में प्रिंटिंग के लिए इनका उपयोग किया जाता है",
+      "4. इनके द्वारा छपाई के लिए पेपर को हाथ से पकड़ना पड़ता है"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "If you want to set the number of copies to be printed in MS-Word, then which of the following is the correct option?",
+    "options": [
+      "1. File->Print->in 'copies' option, enter number of copies",
+      "2. File->Print->Properties->Quality->select number of copies option, enter number of copies",
+      "3. File->Print->Properties->Page setup->select number of copies option, enter number of copies",
+      "4. File->Print->Properties->Page setup->select output size option"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Word में, यदि आप प्रिंट करने के लिए प्रतियों की संख्या सेट करना चाहते हैं, तो उसके क्रमों से संबंधित सही विकल्प कौन सा है?",
+    "options": [
+      "1. फाइल -> प्रिंट -> 'कॉपीज़' विकल्प में प्रतियों की संख्या प्रविष्ट करें",
+      "2. फाइल -> प्रिंट -> प्रॉपर्टीज -> क्‍वालिटी -> 'प्रतियों की संख्या ' विकल्प को चुनें, प्रतियों की संख्या प्रविष्ट करें",
+      "3. फाइल -> प्रिंट -> प्रॉपर्टीज -> पेज सेटअप -> 'प्रतियों की संख्या विकल्प ' चुनें, प्रतियों की संख्या प्रविष्ट करें",
+      "4. फाइल -> प्रिंट -> प्रॉपर्टीज -> पेज सेटअप -> 'आउटपुट साइज़' विकल्प चुनें"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "With reference to printers, PJL stands for:",
+    "options": [
+      "1. Portable Job Language",
+      "2. Portable Job Library",
+      "3. Printer Job Library",
+      "4. Printer Job Language"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "प्रिंटरों के संदर्भ में PJL का पूर्णरूप क्या है?",
+    "options": [
+      "1. Portable Job Language (पोर्टेबल जॉब लैंग्वेज)",
+      "2. Portable Job Library (पोर्टेबल जॉब लाइब्रेरी)",
+      "3. Printer Job Library (प्रिंटर जॉब लाइब्रेरी)",
+      "4. Printer Job Language (प्रिंटर जॉब लैंग्वेज)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is NOT a printer manufacturing company?",
+    "options": [
+      "1. Epson",
+      "2. Canon",
+      "3. Nippon Electric",
+      "4. Tindle"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन सी कंपनी प्रिंटर नहीं बनाती है?",
+    "options": [
+      "1. एप्सन (Epson)",
+      "2. कैनन (Canon)",
+      "3. निपॉन इलेक्ट्रिक (Nippon Electric)",
+      "4. टिंडल (Tindle)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is the IEEE standard for wireless networks?",
+    "options": [
+      "1. 801.12",
+      "2. 801.22",
+      "3. 802.11",
+      "4. 802.13"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "वायरलेस नेटवर्कों के लिए IEEE मानक निम्न में से कौन सा है?",
+    "options": [
+      "1. 801.12",
+      "2. 801.22",
+      "3. 802.11",
+      "4. 802.13"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Gateway works at which of the layers of the OSI model?",
+    "options": [
+      "1. Physical layer",
+      "2. Session layer",
+      "3. Network layer",
+      "4. Data link layer"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "OSI मॉडल के कौन-से स्तर (लेयर) पर गेटवे (Gateway) काम करता है?",
+    "options": [
+      "1. फिज़िकल लेयर",
+      "2. सेशन लेयर",
+      "3. नेटवर्क लेयर",
+      "4. डेटा लिंक लेयर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The major advantage of FM over AM is:",
+    "options": [
+      "1. higher geographical interference",
+      "2. high radiated power",
+      "3. more complicated receiver and transmitter",
+      "4. improved signal to noise ratio"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "AM की तुलना में FM का मुख्य लाभ क्या है?",
+    "options": [
+      "1. उच्च भौगोलिक हस्तक्षेप",
+      "2. उच्च विकिरण शक्ति",
+      "3. अधिक जटिल रिसीवर और ट्रांसमीटर",
+      "4. शोर अनुपात के लिए बेहतर संकेत"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following features allow you to narrow down the data in your work sheet?",
+    "options": [
+      "1. Filters",
+      "2. Merge Cells",
+      "3. Fill Handle",
+      "4. Format"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन सी विशेषताएं आपको अपनी वर्कशीट में डेटा को कम करने की अनुमति देती हैं?",
+    "options": [
+      "1. फिल्टर",
+      "2. मर्ज सेल",
+      "3. फिल हैंडल",
+      "4. फॉर्मेट"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ creates a unique, fixed-length signature for a message or data set.",
+    "options": [
+      "1. Popular key algorithm",
+      "2. Secret key algorithm",
+      "3. Public key algorithm",
+      "4. Hashing"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "________ किसी मैसेज या डेटा सेट के लिए एक अनूठा, निश्चित लंबाई वाला हस्ताक्षर क्रिएट करता है।",
+    "options": [
+      "1. पॉपुलर की एल्गोरिथम",
+      "2. सीक्रेट की एल्गोरिथम",
+      "3. पब्लिक की एल्गोरिथम",
+      "4. हैशिंग"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The dot matrix printer belongs to which of the following categories of printers?",
+    "options": [
+      "1. Line",
+      "2. Off band",
+      "3. Non-impact",
+      "4. Character"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "डॉट मैट्रिक्स प्रिंटर निम्न में से किस प्रकार का प्रिंटर है?",
+    "options": [
+      "1. लाइन",
+      "2. ऑफ बैंड",
+      "3. नॉन-इम्पैक्ट",
+      "4. कैरेक्टर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "There are operating systems that perform multitasking. Which of the following is NOT a multitasking enabled OS?",
+    "options": [
+      "1. Windows 10",
+      "2. Windows XP",
+      "3. Windows 7",
+      "4. MS DOS 2.0"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कई ऑपरेटिंग सिस्टम मल्टी टास्किंग (एकाधिक कार्य) करते हैं। निम्न में से कौन सा मल्टी टास्किंग ऑपरेटिंग सिस्टम (OS) नहीं है?",
+    "options": [
+      "1. Windows 10",
+      "2. Windows XP",
+      "3. Windows 7",
+      "4. MS DOS 2.0"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In Graphical User Interface ( GUI ) computer, the __________ is an image that represents an application, a capability, or some other concept or specific entity with meaning for the user.",
+    "options": [
+      "1. label",
+      "2. icon",
+      "3. graph",
+      "4. file"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ग्राफिकल यूजर इंटरफेस (GUI) कंप्यूटर में, __________ एक इमेज है जो एक एप्लिकेशन, एक क्षमता, या कुछ अन्य अवधारणा या विशिष्ट इकाई का प्रतिनिधित्व करती है जो उपयोगकर्ता के लिए मायने रखती है।",
+    "options": [
+      "1. लेबल",
+      "2. आइकन",
+      "3. ग्राफ",
+      "4. फाइल"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The ______ is the bar that runs across the bottom of the Windows screen in a computer system.",
+    "options": [
+      "1. Title bar",
+      "2. Taskbar",
+      "3. Toolbar",
+      "4. Menu bar"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ वह बार है जो कंप्यूटर सिस्टम मेंWindows स्क्रीन के नीचे चलता है।",
+    "options": [
+      "1. टाइटल बार",
+      "2. टास्कबार",
+      "3. टूलबार",
+      "4. मेनू बार"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A program which is input to the compiler is called a ______.",
+    "options": [
+      "1. Source program",
+      "2. Object code",
+      "3. Translator",
+      "4. Enabler"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एक प्रोग्राम जो कंपाइलर के लिए इनपुट होता है, उसे ______ कहा जाता है।",
+    "options": [
+      "1. सोर्सप्रोग्राम",
+      "2. ऑब्जे क्ट कोड",
+      "3. ट्रांसलेटर",
+      "4. इनेबलर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT an email program?",
+    "options": [
+      "1. Microsoft Outlook Express",
+      "2. Gmail",
+      "3. eBay",
+      "4. Thunderbird"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा एक ईमेल प्रोग्राम नहीं है?",
+    "options": [
+      "1. Microsoft Outlook Express",
+      "2. Gmail",
+      "3. eBay",
+      "4. Thunderbird"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In Google calendar, ______ key is used to view an event's details.",
+    "options": [
+      "1. N",
+      "2. S",
+      "3. T",
+      "4. E"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "गूगल कैलेंडर में इवेंट विवरण देखने के लिए ______ की का उपयोग किया जाता है।",
+    "options": [
+      "1. N",
+      "2. S",
+      "3. T",
+      "4. E"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which among the following is NOT a secondary storage device in a computer?",
+    "options": [
+      "1. RAM",
+      "2. Hard Disk",
+      "3. CD",
+      "4. DVD"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौनसा कंप्यूटर में सेकेंडरी स्टोरेज डिवाइस नहीं है?",
+    "options": [
+      "1. RAM",
+      "2. हार्ड डिस्क",
+      "3. CD",
+      "4. DVD"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS-Word tables, the AutoFit button is used to:",
+    "options": [
+      "1. format each columns width to be as bold as the size of the text",
+      "2. format each columns width to be only as wide as the text in the longest cell in the column",
+      "3. cut the text and paste in a new location",
+      "4. make large documents more readable"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Word टेबल में, AutoFit बटन का उपयोग निम्न के लिए किया जाता है:",
+    "options": [
+      "1. प्रत्येक कॉलम की चौड़ाई को टेक्स्ट के आकार जितना बोल्ड होने के लिए प्रारूपित करें",
+      "2. कॉलम में सबसे लंबे सेल में टेक्स्ट के रूप में केवल उतना ही चौड़ा होने के लिए प्रत्येक कॉलम की चौड़ाई को प्रारूपित करें",
+      "3. टेक्स्ट को कट करने और नए स्थान पर पेस्ट करने",
+      "4. बड़े डॉक्यूमेंट को और अधिक पठनीय बनाने"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "When we apply any change case to an alphanumeric term, which of the following options will be true in MS-Word?",
+    "options": [
+      "1. It converts only the letters in the alphanumeric.",
+      "2. It converts only the letters and deletes the numbers.",
+      "3. No action will be performed.",
+      "4. It always converts the text into small letters."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "जब हम अल्फ़ान्यूमेरिक शब्द में कोई परिवर्तन मामला लागू करते हैं, तो MS-Word में निम्नलिखित में से कौन सा विकल्प सही होगा?",
+    "options": [
+      "1. यह केवल अक्षरों को अल्फ़ान्यूमेरिक में परिवर्तित करता है।",
+      "2. यह केवल अक्षरों को परिवर्तित करता है और संख्याओं को हटा देता है।",
+      "3. कोई कार्रवाई नहीं की जाएगी।",
+      "4. यह हमेशा टेक्स्ट को छोटे अक्षरों में बदलता है।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS-Word, if you choose 'Mirror margins' from the standard margin styles, then the labels, Left and Right margins change to ______.",
+    "options": [
+      "1. Top and Bottom",
+      "2. Left and Right",
+      "3. Inside and Outside",
+      "4. Bottom and Top"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Word में, यदि आप मानक मार्जिन शैलियों से 'मिरर मार्जिन' चुनते हैं, तो लेबल, बाऍं और दाऍं  मार्जिन ______ में बदल जाते हैं।",
+    "options": [
+      "1. टॉप और बॉटम",
+      "2. लेफ्ट और राइट",
+      "3. इनसाइड और आउटसाइड",
+      "4. बॉटम और टॉप"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "If Deepika wants to hide the ruler, then she has to choose 'View' and select the _______ check box in MS-Word.",
+    "options": [
+      "1. Ruler",
+      "2. Grid lines",
+      "3. Message bar",
+      "4. Thumbnails"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "यदि दीपिका रूलर को छुपाना चाहती है, तो उसे 'व्यू' चुनना होगा और MS-Word में _______ चेक बॉक्स का चयन करना होगा।",
+    "options": [
+      "1. रूलर",
+      "2. ग्रिड लाइनें",
+      "3. संदेश बार",
+      "4. थंबनेल"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "From the following options, identify the special types of indentation in MS-Word. <br>a) First line<br>b) Hanging<br>c) Left indent<br>d) Right indent",
+    "options": [
+      "1. a, b",
+      "2. b, c",
+      "3. b, d",
+      "4. a, c"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित विकल्पों में से MS-Word में विशेष प्रकार के इंडेंटेशन की पहचान करें।<br>a) पहली लाइन<br>b) हैंगिंग<br>c) बायां इंडेंट<br>d) दायां इंडेंट",
+    "options": [
+      "1. a, b",
+      "2. b, c",
+      "3. b, d",
+      "4. a, c"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following option is invalid during document search in MS-Word?",
+    "options": [
+      "1. Match case",
+      "2. No formatting",
+      "3. Find whole words only",
+      "4. Sounds like"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में MS-Word में दस्तावेज़ खोज के दौरान कौन सा विकल्प अमान्य है?",
+    "options": [
+      "1. मैच केस",
+      "2. नो फोर्मेटिंग",
+      "3. फाइंड होल वर्ड्स ओनली",
+      "4. साउंड लाइक"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Following are the steps to turn off the Capitalize the first letter of sentences feature in MS-Word. Arrange the steps in the correct order. <br><br>a) Make sure the AutoCorrect tab is displayed.<br>b) Choose AutoCorrect Options from the Tools menu. Word displays the AutoCorrect dialog box. c) Click on OK.<br>d) Clear the Capitalize First Letter of Sentences check box.",
+    "options": [
+      "1. b, a, d, c",
+      "2. b, a, c, d",
+      "3. b, d, a, c",
+      "4. b, c, d, a"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Word में कैपिटलाइज द फर्स्ट लेटर ऑफ सेंटेंस फीचर को बंद करने के चरण निम्नलिखित हैं। चरणों को सही क्रम में व्यवस्थित करें।<br><br>a) सुनिश्चित करें कि ऑटोकरेक्ट टैब दिख रहा है।<br>b) टूल्स मेनू से ऑटोकरेक्ट विकल्प चुनें। Word ऑटोकरेक्ट डायलॉग बॉक्स प्रदर्शित करता है<br>c) OK पर क्लिक करें।<br>d) 'Capitalize First Letter of Sentences' चेक बॉक्स को क्लियर करें।",
+    "options": [
+      "1. b, a, d, c",
+      "2. b, a, c, d",
+      "3. b, d, a, c",
+      "4. b, c, d, a"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS-Word, ______ feature has to be selected under the Balloons command to show deletions as crossed out and comments inline.",
+    "options": [
+      "1. All Revisions Inline",
+      "2. Show All Revisions Inline",
+      "3. Show Revisions in balloons",
+      "4. Show only comments and formatting in balloons"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Word में, हटाए गए को क्रॉस आउट और टिप्पणियों को इनलाइन दिखाने के लिए बलून्स कमांड के तहत ______ सुविधा का चयन कीजिये।",
+    "options": [
+      "1. सभी रिवीज़न इनलाइन",
+      "2. सभी रिवीज़न इनलाइन दिखाएं",
+      "3. रिवीज़नों को बैलून्स में दिखाएं",
+      "4. बैलून्स में केवल कमेंट्स और फॉर्मेटिंग दिखाएं"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a character encoding standard?",
+    "options": [
+      "1. ASCII",
+      "2. ISO",
+      "3. HTM",
+      "4. XML"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा एक वर्ण एन्कोडिंग मानक है?",
+    "options": [
+      "1. ASCII",
+      "2. ISO",
+      "3. HTM",
+      "4. XML"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What happens to the screen when we open a header section in MS-Word?",
+    "options": [
+      "1. Document area appears shaded; header marker and dashed line show up.",
+      "2. Screen will remain unchanged.",
+      "3. Header area brightens up.",
+      "4. Footer section collapses"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "जब हम MS-Word में हेडर सेक्शन खोलते हैं तो स्क्रीन का क्या होता है?",
+    "options": [
+      "1. डॉक्यूमेंट एरिया धुंधला दिखाई देता है, हेडर मार्कर और डैश लाइन उभरकर दिखाई देती हैं।",
+      "2. स्क्रीन अपरिवर्तित रहेगी।",
+      "3. हेडर एरिया चमकदार हो जाता है।",
+      "4. फुटर सेक्शन गायब हो जाता है।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS-Word, to start from ready to use mail merge template that can be customised according to the needs, __________ radio button has to be enabled under the Select starting document step.",
+    "options": [
+      "1. Use the current document",
+      "2. Start from a template",
+      "3. Start from existing template",
+      "4. Start using current document"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Word में, रेडी टू यूज मेल मर्ज टेम्प्लेट से शुरू करने के लिए जिसे जरूरतों के अनुसार अनुकूलित किया जा सकता है, __________ रेडियो बटन को सेलेक्ट स्टार्टिंग डॉक्यूमेंट स्टेप के तहत सक्षम करना होगा।",
+    "options": [
+      "1. वर्तमान डॉक्यूमेंट का इस्तेमाल करें",
+      "2. किसी टेम्पलेट से शुरू करें",
+      "3. मौजूदा टेम्पलेट से शुरू करें",
+      "4. वर्तमान डॉक्यूमेंट के उपयोग से शुरू करें"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "WWW uses ______ protocol.",
+    "options": [
+      "1. FTP",
+      "2. HTTP",
+      "3. WBC",
+      "4. MTP"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "WWW ______ प्रोटोकॉल का उपयोग करता है।",
+    "options": [
+      "1. FTP",
+      "2. HTTP",
+      "3. WBC",
+      "4. MTP"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In _______, a user on the Web can contact another user who is logged in and continue with the conversation.",
+    "options": [
+      "1. hyper terminal services",
+      "2. net connect services",
+      "3. instant services",
+      "4. instant messaging"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "_______ में, वेब पर कोई उपयोगकर्ता लॉग इन करने वाले किसी अन्य उपयोगकर्ता से संपर्क कर सकता है और बातचीत जारी रख सकता है।",
+    "options": [
+      "1. हाइपर टर्मिनल सर्विस",
+      "2. नेट कनेक्ट सर्विस",
+      "3. इंस्टेंट सर्विस",
+      "4. इंस्टेंट मैसेजिंग"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is NOT the Section Break Option in MS-Word?",
+    "options": [
+      "1. Previous Page",
+      "2. Next Page",
+      "3. Odd Page",
+      "4. Even Page"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा MS-Word में सेक्शन ब्रेक विकल्प नहीं है?",
+    "options": [
+      "1. प्रीवियस पेज",
+      "2. नेक्स्ट पेज",
+      "3. ऑड पेज",
+      "4. इवन पेज"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS-Word, the page orientation will NOT affect font style, font colour, and ______.",
+    "options": [
+      "1. page spacing",
+      "2. height and width",
+      "3. font size",
+      "4. number of lines in a page"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Word में पेज ओरिएंटेशन फ़ॉन्ट के स्टाइल, फ़ॉन्ट के कलर और ______ को प्रभावित नहीं करेगा।",
+    "options": [
+      "1. पेज स्पेसिंग",
+      "2. ऊंचाई तथा चौड़ाई",
+      "3. फ़ॉन्ट के आकार",
+      "4. पेज में लाइनों की संख्या"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "How will you save the existing document file in another folder in MS-Word?",
+    "options": [
+      "1. File->Save",
+      "2. Ctrl + S ->Select Folder",
+      "3. File->Save As",
+      "4. Insert ->Save As"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "आप MS-Word में मौजूदा दस्तावेज़ फ़ाइल को दूसरे फ़ोल्डर में कैसे सहेजेंगे?",
+    "options": [
+      "1. File->Save",
+      "2. Ctrl + S ->Select Folder",
+      "3. File->Save As",
+      "4. Insert ->Save As"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following font effects places text below other characters on the same line in MS Word?",
+    "options": [
+      "1. Subscript",
+      "2. Strikethrough",
+      "3. Emboss",
+      "4. Superscript"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा फॉन्ट प्रभाव MS-Word में टेक्स्ट को अन्य वर्णों के नीचे एक ही पंक्ति में रखता है?",
+    "options": [
+      "1. सबस्क्रिप्‍ट",
+      "2. स्ट्राइकथ्रू",
+      "3. एमबॉस",
+      "4. सुपरस्क्रिप्‍ट"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS-Word, some dialog boxes have multiple tabs. You can switch between these tabs by pressing the ______ keys together.",
+    "options": [
+      "1. Ctrl + Z",
+      "2. Ctrl + Tab",
+      "3. Alt + Tab",
+      "4. Alt + N"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एमएस-वर्ड में, कुछ डायलॉग बॉक्स में कई टैब होते हैं। आप ______ कुंजियों को एक साथ दबाकर इन टैब के बीच स्विच कर सकते हैं।",
+    "options": [
+      "1. Ctrl + Z",
+      "2. Ctrl + Tab",
+      "3. Alt + Tab",
+      "4. Alt + N"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "While working with MS-Word, ______ option is not available in the file menu.",
+    "options": [
+      "1. Print",
+      "2. Header & Footer",
+      "3. Save As",
+      "4. Save"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Word के साथ कार्य करते समय, फाइल मेन्यू में ______ विकल्प उपलब्ध नहीं होता है।",
+    "options": [
+      "1. प्रिंट",
+      "2. हैडर और फुटर",
+      "3. सेव ऐज",
+      "4. सेव"
+    ],
+    "answer": 1
+  }
 ]
         
         };
