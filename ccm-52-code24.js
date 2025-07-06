@@ -22922,6 +22922,1048 @@
     ],
     "answer": 1
   }
+],
+   "13th May 2023 - Shift1": [
+  {
+    "q": "Which of the following computers are used by large institutions and government agencies such as banks, railways, etc. to handle a very large amount of data?",
+    "options": [
+      "1. Workstations",
+      "2. Mainframes",
+      "3. Microcomputers",
+      "4. Minicomputers"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन से कंप्यूटर का उपयोग बड़े संस्थानों और सरकारी एजेंसियों जैसे बैंक, रेलवे आदि द्वारा बहुत बड़ी मात्रा में डेटा को संभालने के लिए किया जाता है?",
+    "options": [
+      "1. वर्कस्टेशन",
+      "2. मेनफ्रेम",
+      "3. माइक्रोकंप्यूटर",
+      "4. मिनीकंप्यूटर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The default file extension of a MS-Excel workbook is:",
+    "options": [
+      "1. .xlr",
+      "2. .exe",
+      "3. .exl",
+      "4. .xlsx"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS Excel वर्कबुक का डिफ़ॉल्ट फाइल एक्सटेंशन क्‍या है?",
+    "options": [
+      "1. .xlr",
+      "2. .exe",
+      "3. .exl",
+      "4. .xlsx"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is an example of a non-impact printer?",
+    "options": [
+      "1. Chain printer",
+      "2. Band printer",
+      "3. Thermal printer",
+      "4. Drum printer"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्न में से कौन सा नॉन-इम्पैक्ट प्रिंटर का एक प्रकार है?",
+    "options": [
+      "1. चेन प्रिंटर",
+      "2. बैंड प्रिंटर",
+      "3. थर्मल प्रिंटर",
+      "4. ड्रम प्रिंटर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following mouse techniques is used to access the properties of an object?",
+    "options": [
+      "1. Dragging",
+      "2. Dropping",
+      "3. Right-clicking",
+      "4. Left-clicking"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "किसी ऑब्जेक्ट की प्रॉपर्टीज़ के एक्सेस के लिए निम्न में से किस माउस तकनीक का उपयोग किया जाता है?",
+    "options": [
+      "1. ड्रैगिंग",
+      "2. ड्रॉपिंग",
+      "3. राइट-क्लिकिंग",
+      "4. लेफ्ट -क्लिकिंग"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which directory contains the special device files in Linux?",
+    "options": [
+      "1. /usr",
+      "2. /dev",
+      "3. /tmp",
+      "4. /bin"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "लिनक्स (Linux) में कौन सी डायरेक्टरी में विशेष डिवाइस फाइलें होती हैं?",
+    "options": [
+      "1. /usr",
+      "2. /dev",
+      "3. /tmp",
+      "4. /bin"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is an example of application software?",
+    "options": [
+      "1. Tally",
+      "2. Dos",
+      "3. Windows",
+      "4. Linux"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा एप्लीकेशन सॉफ्टवेयर का एक उदाहरण है?",
+    "options": [
+      "1. Tally",
+      "2. Dos",
+      "3. Windows",
+      "4. Linux"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which function returns the factorial of a number in MS-Excel?",
+    "options": [
+      "1. FACTORIAL function",
+      "2. FACTO function",
+      "3. FACT function",
+      "4. FACTN function"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel में, कौन सा फंक्शन किसी संख्या का फैक्टो रीयल देता है?",
+    "options": [
+      "1. FACTORIAL फंक्शन",
+      "2. FACTO फंक्शन",
+      "3. FACT फंक्शन",
+      "4. FACTN फंक्शन"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following devices is the communication medium for the entire computer system and is placed in the system unit?",
+    "options": [
+      "1. Motherboard",
+      "2. RAM",
+      "3. ROM",
+      "4. Graphics card"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा डिवाइस पूरे कंप्यूटर सिस्टम के लिए संचार माध्यम है और सिस्टम यूनिट में रखा गया है?",
+    "options": [
+      "1. मदरबोर्ड",
+      "2. RAM",
+      "3. ROM",
+      "4. ग्राफिक्स कार्ड"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "With reference to biometrics, what is the proportion of genuine attempts that are falsely declared not to match a template of the same object?",
+    "options": [
+      "1. Fixed Match Rate (FMR)",
+      "2. False Non-Match Rate (FNMR)",
+      "3. Frequency Match Rate (FMR)",
+      "4. False Match Rate (FMR)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "बायोमेट्रिक्स के संदर्भ में, वास्तविक प्रयासों का अनुपात क्या है जो समान वस्तु के टेम्पलेट से मेल नहीं खाने के लिए गलत तरीके से घोषित किए जाते हैं?",
+    "options": [
+      "1. निश्चित मिलान दर (FMR)",
+      "2. ग़लत गैर-मिलान दर (FNMR)",
+      "3. आवृत्तिक मिलान दर (FMR)",
+      "4. ग़लत मिलान दर (FMR)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following statements with reference to RAM is FALSE?",
+    "options": [
+      "1. RAM is directly accessible by the CPU.",
+      "2. RAM is a part of a computer’s secondary memory.",
+      "3. RAM is used to store the data that is currently processed by the CPU.",
+      "4. RAM is volatile in nature."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "RAM के संदर्भ में निम्न में से कौन सा कथन ग़लत है?",
+    "options": [
+      "1. RAM, CPU द्वारा प्रत्यक्षतः एक्से सिबल है",
+      "2. RAM कंप्यूटर की सेकेंडरी मेमोरी का हिस्सा है।",
+      "3. RAM का उपयोग उस डेटा को स्टोर करने के लिए किया जाता है जो वर्तमान में CPU द्वारा प्रोसेस किया जाता है।",
+      "4. RAM एक अस्थायी मेमोरी है"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following statements with reference to a USB pen drive is FALSE?",
+    "options": [
+      "1. It is a portable storage space device which is capable of taking care of your storage requirements.",
+      "2. A pen drive can easily store up to 120 GB and even more.",
+      "3. It is used as a mobile storage device.",
+      "4. It is a volatile device."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "USB पेन ड्राइव के संदर्भ में निम्न में से कौन सा कथन ग़लत है?",
+    "options": [
+      "1. यह एक पोर्टेबल स्टोरेज स्पेस डिवाइस है जो आपकी स्टोरेज आवश्यकताओं की देखभाल करने में सक्षम है।",
+      "2. एक पेन ड्राइव में 120GB और इससे भी अधिक डेटा स्टोर किया जा सकता है।",
+      "3. इसका उपयोग मोबाइल स्टोरेज डिवाइस के रूप में किया जाता है।",
+      "4. यह एक अस्थायी स्टोरेज डिवाइस है।"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The card-to-reader communication is performed on the basis of which of the following standards?",
+    "options": [
+      "1. ISO 7800",
+      "2. ISO 7816",
+      "3. ISO 7006",
+      "4. ISO 786"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कार्ड-टू-रीडर कम्युनिकेशन निम्नलिखित में से किस मानक के आधार पर किया जाता है?",
+    "options": [
+      "1. ISO 7800",
+      "2. ISO 7816",
+      "3. ISO 7006",
+      "4. ISO 786"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The horizontal and vertical wires of passive graphics tablets operate as:",
+    "options": [
+      "1. transmitting and receiving coils",
+      "2. sensors",
+      "3. positive and negative connectors",
+      "4. analog to digital converters"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निष्क्रिय ग्राफ़िक्स टैबलेट्स के क्षैतिज और ऊर्ध्वाधर तार किस रूप में कार्य करते हैं?",
+    "options": [
+      "1. प्रसारक और प्राप्तकारी कुण्डली के रूप में",
+      "2. सेंसर के रूप में",
+      "3. धनात्मक और ऋणात्मक योजकों के रूप में",
+      "4. एनालॉग से डिजिटल परिवर्तकों के रूप में"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The 1’s complement of 1011 is ______.",
+    "options": [
+      "1. 0100",
+      "2. 0101",
+      "3. 0110",
+      "4. 2000"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "1011 के 1 का पूरक क्या होगा?",
+    "options": [
+      "1. 0100",
+      "2. 0101",
+      "3. 0110",
+      "4. 2000"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is secondary computer memory?",
+    "options": [
+      "1. RAM",
+      "2. Cache memory",
+      "3. Registers",
+      "4. Hard disk drive"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से कौन सी सेकेंडरी कंप्यूटर मेमोरी है?",
+    "options": [
+      "1. RAM",
+      "2. कैश मेमोरी",
+      "3. रजिस्टर",
+      "4. हार्ड डिस्क ड्राइव"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "______ contains information about the user or group and the associated permissions with reference to system security.",
+    "options": [
+      "1. Account lockout threshold",
+      "2. Access control entry",
+      "3. Reset account lockout",
+      "4. Account lockout duration"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ में सिस्टम सुरक्षा के संदर्भ में उपयोगकर्ता या समूह और संबद्ध अनुमतियों के बारे में जानकारी होती है।",
+    "options": [
+      "1. अकाउंट लॉकआउट थ्रेशोल्ड",
+      "2. एक्सेस कंट्रोल एंट्री",
+      "3. रीसेट अकाउंट लॉकआउट",
+      "4. अकाउंट लॉकआउट अवधि"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ has the knowledge of the file system in LINUX.",
+    "options": [
+      "1. BIOS",
+      "2. Kernel",
+      "3. POST",
+      "4. GRUB"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "LINUX में फ़ाइल सिस्टम की जानकारी ______ में होती है।",
+    "options": [
+      "1. BIOS",
+      "2. Kernel",
+      "3. POST",
+      "4. GRUB"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following key will enable you to print the current screen contents as an image?",
+    "options": [
+      "1. Pause Break",
+      "2. Print Screen",
+      "3. Sys Req",
+      "4. Page Up"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "यदि आप अपनी स्क्रीन के कंटेट को चित्र के रूप में प्रिंट करना चाहते हैं, तो किस बटन का उपयोग करेंगे?",
+    "options": [
+      "1. पॉज ब्रेक",
+      "2. प्रिंट स्क्रीन",
+      "3. सिंस रिक (Sys req)",
+      "4. पेज अप"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "To match the speed of the computer, the printer has a ______ to store data for a temporary purpose.",
+    "options": [
+      "1. specific register",
+      "2. buffer or spooler",
+      "3. specific program",
+      "4. specific device"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कंप्यूटर की गति से मेल खाने के लिए, प्रिंटर में अस्थायी उद्देश्य के लिए डेटा स्टोर करने के लिए ' ______' होता है।",
+    "options": [
+      "1. विशिष्ट रजिस्टर",
+      "2. बफर या स्पूलर",
+      "3. विशिष्ट प्रोग्राम",
+      "4. विशिष्ट डिवाइस"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is NOT a type of printer?",
+    "options": [
+      "1. Inkjet",
+      "2. Laser",
+      "3. Plotter",
+      "4. Scanner"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा प्रिंटर का एक प्रकार नहीं है?",
+    "options": [
+      "1. Inkjet",
+      "2. Laser",
+      "3. Plotter",
+      "4. Scanner"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A/An ______ sprays ink from an ink cartridge at very close range to the paper as it rolls by.",
+    "options": [
+      "1. laser printer",
+      "2. thermal printer",
+      "3. inkjet printer",
+      "4. dot-matrix printer"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "______ पेपर पर बहुत पास से इंक कार्ट्रिज से स्याही स्प्रे करता है क्योंकि इसमें पेपर रोल होता रहता है।",
+    "options": [
+      "1. लेज़र प्रिंटर",
+      "2. थर्मल प्रिंटर",
+      "3. इंकजेट प्रिंटर",
+      "4. डॉट मैट्रिक्स प्रिंटर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is a non-impact printer?",
+    "options": [
+      "1. Laser printer",
+      "2. Mechanical printer",
+      "3. Daisy wheel printer",
+      "4. Dot-matrix printer"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से कौन सा एक नान-इंपैक्ट प्रिंटर है?",
+    "options": [
+      "1. लेज़र प्रिंटर",
+      "2. मैकेनिकल प्रिंटर",
+      "3. डेज़ी व्हील प्रिंटर",
+      "4. डॉट मैट्रिक्स प्रिंटर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following function key is used along with windows key to open Microsoft Windows Help and support center?",
+    "options": [
+      "1. F1",
+      "2. F2",
+      "3. F3",
+      "4. F4"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "माइक्रोसॉफ्ट विंडोज हेल्प एंड सपोर्ट सेंटर खोलने के लिए विंडोज की के साथ निम्न में से कौन सी फंक्शन कुंजी का उपयोग किया जाता है?",
+    "options": [
+      "1. F1",
+      "2. F2",
+      "3. F3",
+      "4. F4"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT an input device?",
+    "options": [
+      "1. Keyboard",
+      "2. Mouse",
+      "3. Scanner",
+      "4. Printer"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा एक इनपुट डिवाइस नहीं है?",
+    "options": [
+      "1. कीबोर्ड",
+      "2. माउस",
+      "3. स्कैनर",
+      "4. प्रिंटर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following cables are necessary to start printing jobs?",
+    "options": [
+      "1. Power cable and internet cable",
+      "2. Power cable CAT6 cable",
+      "3. Power cable and USB cable",
+      "4. Power cable CAT5 cable"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "मुद्रण कार्य आरंभ करने के लिए कौन से केबल आवश्यक होते हैं?",
+    "options": [
+      "1. पॉवर केबल और इंटरनेट केबल",
+      "2. पॉवर केबल CAT6 केबल",
+      "3. पॉवर केबल और डेटा केबल",
+      "4. पॉवर केबल CAT5 केबल"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In the ______ algorithm, message is converted to message digest.",
+    "options": [
+      "1. secret key",
+      "2. public key",
+      "3. hash function",
+      "4. popular key"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "______ अल्गोरिदम में मैसेज को मैसेज डाइजेस्ट में बदला जाता है।",
+    "options": [
+      "1. सीक्रेट की",
+      "2. पब्लिक की",
+      "3. हैश फंक्शन",
+      "4. पॉपुलर की"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "If a hardware device has recently stopped working, what could be the cost effective solution of the problem?",
+    "options": [
+      "1. Uninstall device drivers",
+      "2. Remove that device and replace it by another one",
+      "3. Reinstall device drivers",
+      "4. Shut down the computer"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "यदि किसी हार्डवेयर डिवाइस ने हाल ही में काम करना बंद कर दिया है, तो समस्या का लागत प्रभावी समाधान क्या हो सकता है?",
+    "options": [
+      "1. डिवाइस ड्राइवर को अनइंस्टॉल करें",
+      "2. उस डिवाइस को निकालकर दूसरी डिवाइस इंस्टाल करें",
+      "3. डिवाइस ड्राइवरों को दोबारा इंस्टाल करें",
+      "4. कंप्यूटर बंद करें"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is NOT a Process Control system call of UNIX?",
+    "options": [
+      "1. fork()",
+      "2. exit()",
+      "3. map()",
+      "4. wait()"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्न में से कौन सा यूनिक्स (UNIX) का एक प्रोसेस कंट्रोल सिस्टम कॉल नहीं है?",
+    "options": [
+      "1. fork()",
+      "2. exit()",
+      "3. map( )",
+      "4. wait()"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Interruption in electronic devices occurs when there is _______ supply voltage or load current takes place.",
+    "options": [
+      "1. drop in",
+      "2. increase in",
+      "3. complete loss of",
+      "4. no effect on"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "इलेक्ट्रॉनिक उपकरणों मेंव्यवधान तब होता है जब _______ आपूर्ति वोल्टेज या लोड करंट होता है।",
+    "options": [
+      "1. ड्राप इन",
+      "2. इन्क्रीज़ इन",
+      "3. पूर्ण हानि",
+      "4. अप्रभावित"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Standard audio and photo compact disks are played using a _______ drive.",
+    "options": [
+      "1. USB",
+      "2. hard",
+      "3. pen",
+      "4. CD-ROM"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "स्टैंडर्ड ऑडियो और फोटो कॉम्पैक्ट डिस्क ______ ड्राइव का उपयोग करके चलाये जाते हैं।",
+    "options": [
+      "1. USB",
+      "2. हार्ड",
+      "3. पेन",
+      "4. CD-ROM"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following box in Google Drive is used to search for a particular file?",
+    "options": [
+      "1. List box",
+      "2. View box",
+      "3. Find box",
+      "4. Search box"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "गूगल ड्राइव में निम्नलिखित में से किस बॉक्स का उपयोग किसी विशेष फ़ाइल को खोजने के लिए किया जाता है?",
+    "options": [
+      "1. लिस्ट बॉक्स",
+      "2. व्यू बॉक्स",
+      "3. फाइंड बॉक्स",
+      "4. सर्च बॉक्स"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Internet Explorer is a(n):",
+    "options": [
+      "1. operating system",
+      "2. compiler",
+      "3. interpreter",
+      "4. browser"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "इंटरनेट एक्स प्लोरर निम्न में से किसके अंतर्गत आता है?",
+    "options": [
+      "1. ऑपरेटिंग सिस्टम",
+      "2. कंपाइलर",
+      "3. इंटरप्रेटर",
+      "4. ब्राउज़र"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The process of copying information to your computer from a specially configured FTP server is called ______.",
+    "options": [
+      "1. downloading",
+      "2. uploading",
+      "3. deleting",
+      "4. restoring"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "विशेष रूप से कॉन्फ़िगर किए गए किसी FTP सर्वर से आपके कंप्यूटर पर इनफार्मेशन को कॉपी करने की प्रक्रिया को __________ कहा जाता है।",
+    "options": [
+      "1. डाउनलोडिंग",
+      "2. अपलोडिंग",
+      "3. डिलीटिंग",
+      "4. रिस्टोरिंग"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following keyboard shortcuts is used to increase font size in MS-Word?",
+    "options": [
+      "1. Ctrl + [",
+      "2. Ctrl + ]",
+      "3. Ctrl + =",
+      "4. Ctrl + -"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Word में फॉन्ट के आकार को बढ़ाने के लिए निम्न में से किस की-बोर्ड शार्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Ctrl + [",
+      "2. Ctrl + ]",
+      "3. Ctrl + =",
+      "4. Ctrl + -"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is the file extension for an MS-Word document?",
+    "options": [
+      "1. .docx",
+      "2. .gif",
+      "3. .avi",
+      "4. .htm"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा MS-Word डॉक्यूमेंट के लिए एक फ़ाइल एक्सटेंशन है?",
+    "options": [
+      "1. .docx",
+      "2. .gif",
+      "3. .avi",
+      "4. .htm"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following keyboard shortcuts is used to go to the File tab in an MS-Word document?",
+    "options": [
+      "1. Alt + F",
+      "2. Alt + H",
+      "3. Alt + N",
+      "4. Alt + G"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Word डॉक्यूमेंट में फ़ाइल टैब पर जाने के लिए निम्न में से किस कीबोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Alt + F",
+      "2. Alt + H",
+      "3. Alt + N",
+      "4. Alt + G"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Raghu is working on an MS-Word document. Which of the following options should he turn off to ensure that every first letter is not capitalised in a sentence?",
+    "options": [
+      "1. Sentence case",
+      "2. Capitalize each sentence",
+      "3. Capitalize each word",
+      "4. Capitalize each word of sentence"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "रघु एक MS-Word डॉक्यूमेंट पर काम कर रहा है। यह सुनिश्चित करने के लिए कि प्रत्ये क वाक्य का पहला अक्षर बड़ा (कैपिटल) न हो, इसके लिए उसे किस विकल्प को बंद करना होगा?",
+    "options": [
+      "1. Sentence case",
+      "2. Capitalize each sentences",
+      "3. Capitalize each word",
+      "4. Capitalize each word of sentence"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "There are ______ statistics under the MS-Word 'Word Count' option within the Proofing group.",
+    "options": [
+      "1. five",
+      "2. seven",
+      "3. three",
+      "4. six"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Word के प्रूफिंग ग्रुप में वर्ड काउंट विकल्प के अंतर्गत आंकड़ों (statistics) की संख्या कितनी होती है?",
+    "options": [
+      "1. पांच",
+      "2. सात",
+      "3. तीन",
+      "4. छः"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In the context of MS-Word, identify the option that fills in the missing part of the given sequence to format line spacing.<br><br>Home -> ________ -> Line and Paragraph Spacing",
+    "options": [
+      "1. Paragraph",
+      "2. Margins",
+      "3. Lines",
+      "4. Sizes"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Word में, लाइन स्पेसिंग को फॉर्मेट करने का क्रम नीचे दिया गया है, इसमें रिक्त स्थान पर आने वाले उपयुक्त विकल्प का चयन कीजिए।<br><br>होम -> ________ -> लाइन और पैराग्राफ स्पेसिंग",
+    "options": [
+      "1. पैराग्राफ",
+      "2. मार्जिन",
+      "3. पंक्तियां",
+      "4. आकार"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following statements with reference to line and paragraph spacing in MS-Word is FALSE?",
+    "options": [
+      "1. You cannot control how much space is there before and after a paragraph.",
+      "2. You can use MS-Word's Set as Default feature to save all of the formatting.",
+      "3. Line spacing is the space between each line in a paragraph.",
+      "4. MS-Word allows you to customise line spacing."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Word में लाइन और पैराग्राफ स्पेसिंग के संदर्भ में निम्नलिखित में से कौन सा कथन ग़लत है?",
+    "options": [
+      "1. आप यह नियंत्रित नहीं कर सकते कि पैराग्राफ के पहले और बाद में कितनी जगह छूटी रहेगी।",
+      "2. सभी फ़ॉर्मेटिंग को सेव करने के लिए आप MS-Word के सेट एज़ डिफ़ॉल्ट फ़ीचर का उपयोग कर सकते हैं।",
+      "3. पैराग्राफ की प्रत्येक पंक्ति के बीच के अन्तराल को लाइन स्पेसिंग कहा जाता है।",
+      "4. MS-Word में आप लाइन स्पेसिंग कस्टमाइज़ कर सकते हैं।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In paragraph spacing, typically the extra spaces can be added between paragraphs, ______ or subheadings of an MS-Word document.",
+    "options": [
+      "1. headings",
+      "2. footers",
+      "3. words",
+      "4. letters"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Word में, डॉक्यूमेंट में पैराग्राफ स्पेसिंग के दौरान अतिरिक्त रिक्त स्थान सामान्यतः पैराग्राफ, ______, या उपशीर्षक के बीच जोड़ा जा सकता है।",
+    "options": [
+      "1. शीर्षक",
+      "2. फुटर",
+      "3. शब्दों",
+      "4. अक्षरों"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "There is/are ______ option(s) in the dropdown menu of balloons option in the Tracking group in MS Word?",
+    "options": [
+      "1. one",
+      "2. two",
+      "3. three",
+      "4. four"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Word में, ट्रैकिंग समूह में बैलून्स विकल्पों के ड्रॉप डाउन मेनू में कितने विकल्प होते हैं?",
+    "options": [
+      "1. एक",
+      "2. दो",
+      "3. तीन",
+      "4. चार"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The use of ICTs to modernise the state; the creation of data repositories for Management Information System (MIS) and computerisation of records (land, health, etc.) with reference to E Governance is termed as:",
+    "options": [
+      "1. e-Commerce",
+      "2. e-Services",
+      "3. e-Administration",
+      "4. e-Democracy"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "राज्य के आधुनिकीकरण के लिए ITC का उपयोग; प्रबंधन सूचना प्रणाली (MIS) के लिए डेटा रिपॉजिटरी का निर्माण और ई-गवर्नेंस के संदर्भमें अभिलेखों (भूमि, स्वास्थ्य, आदि) के कम्प्यूटरीकरण को क्या कहा जाता है?",
+    "options": [
+      "1. ई-कॉमर्स",
+      "2. ई-सेवाएं",
+      "3. ई-प्रशासन",
+      "4. ई-जनतंत्र"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following groups within the Layout tab in MS-Word contains the settings for the indentation option?",
+    "options": [
+      "1. Themes",
+      "2. Page Setup",
+      "3. Page Background",
+      "4. Paragraph"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Word के लेआउट टैब में निम्नलिखित में से किस समूह में इंडेंटेशन विकल्प के लिए सेटिंग्स मौजूद होती हैं?",
+    "options": [
+      "1. थीम्स",
+      "2. पेज सेटअप",
+      "3. पेज बैकग्राउंड",
+      "4. पैराग्राफ़"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Identify the correct face positioning in the feed dialogue box in mail merging of Envelopes in MS Word. <br>1-Face up, 2-Face down, 3-Face left, 4-Face right",
+    "options": [
+      "1. 1, 2, 3",
+      "2. 2, 3",
+      "3. 1, 2",
+      "4. 2, 4"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Word में, एन्व लप की मेल मर्जिंग (merging) के फ़ीड डायलाग बॉक्स में सही फेस स्थितियों की पहचान करें।<br> 1-फेस अप, 2-फेस डाउन, 3-फेस लेफ्ट , 4-फेस राइट",
+    "options": [
+      "1. 1,2,3",
+      "2. 2,3",
+      "3. 1,2",
+      "4. 2,4"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In MS-Word, to use the names and addresses from a file or database in the third step of mail merging a letter, the _____ radio button has to be enabled.",
+    "options": [
+      "1. Use an existing list",
+      "2. Select the Outlook contacts",
+      "3. Type a new list",
+      "4. Import the list"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Word में, मेल मर्जिंग (merging) के तीसरे चरण में फ़ाइल या डेटाबेस के नाम और एड्रेस का उपयोग करने के लिए किस रेडियो बटन का इनेबल होना आवश्यक है?",
+    "options": [
+      "1. मौजूदा सूची का उपयोग करें",
+      "2. आउटलुक संपर्कों को चुनें",
+      "3. एक नई सूची टाइप करें",
+      "4. सूची इम्पोर्ट करें"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS-Word, the keyboard shortcut 'Ctrl + B' is used to _______ a selected piece of text.",
+    "options": [
+      "1. italicise",
+      "2. underline",
+      "3. italicise and underline",
+      "4. make bold"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Word में 'ctrl + B' का उपयोग किसी चयनित टेक्स्ट को _______ करने के लिए होता है।",
+    "options": [
+      "1. इटैलिक",
+      "2. अंडरलाइन",
+      "3. इटैलिक एंड अंडरलाइन",
+      "4. बोल्ड"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following statements with reference to 'Save' and 'Save As' options in MS-Word is FALSE?",
+    "options": [
+      "1. The options are used to create a new file and/or preserve the original file.",
+      "2. Save' is used when you want to change the name, location and format of the document.",
+      "3. Save As' is used to apply changes to a new file.",
+      "4. With the help of 'Save As', a file can be saved with multiple names."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Word के सेव (save) और सेव एज़ (save as) विकल्पों के संदर्भ में निम्न में से कौन सा कथन ग़लत है?",
+    "options": [
+      "1. इन विकल्पों का उपयोग एक नई फ़ाइल क्रिएट और/या मूल फ़ाइल को सेव करने के लिए किया जाता है।",
+      "2. सेव का उपयोग डॉक्यूमेंट के नाम, स्थिति और फॉर्मेट को बदलने के लिए किया जाता है।",
+      "3. सेव एज़ का उपयोग नई फ़ाइल में बदलावों के लिए किया जाता है।",
+      "4. सेव एज़ विकल्प की सहायता से एक फ़ाइल को कई नामों से सेव किया जा सकता है।"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In MS-Word, you can move quickly to a location in an MS-Word document using the 'Go To' command. You can use the keyboard shortcut ______ to display the 'Go To' tab of the Find and Replace dialog box.",
+    "options": [
+      "1. Ctrl + G",
+      "2. Ctrl + T",
+      "3. Ctrl + O",
+      "4. Alt + G"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Word में, आप गो टू कमांड का उपयोग करके वर्ड डॉक्यूमेंट में किसी भी स्थान पर जल्दी से जा सकते हैं। फाइंड एंड रिप्लेस डायलॉग बॉक्स के गो टू टैब को प्रदर्शित करने के लिए आप ______ कीज को एक साथ दबा सकते हैं।",
+    "options": [
+      "1. Ctrl + G",
+      "2. Ctrl + T",
+      "3. Ctrl + O",
+      "4. Alt + G"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "To access any file or document using FTP, you need to log in on the ______ server.",
+    "options": [
+      "1. SMTP",
+      "2. FTP",
+      "3. TCP / IP",
+      "4. IMAP"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "FTP का उपयोग करके किसी फ़ाइल या डॉक्यूमेंट तक पहुंचने के लिए, आपको ______ सर्वर पर लॉग इन करना होगा।",
+    "options": [
+      "1. SMTP",
+      "2. FTP",
+      "3. TCP / IP",
+      "4. IMAP"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The use of a computer for the purpose of keeping account information and information about stocks, prices, items etc. falls into which of the following categories?",
+    "options": [
+      "1. Business applications",
+      "2. Educational applications",
+      "3. Entertainment applications",
+      "4. Network applications"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "अकाउंट की जानकारी और स्टॉक, मूल्यों , वस्तुओं आदि के बारे में जानकारी रखने के उद्देश्य से कंप्यूटर का उपयोग निम्नलिखित में से किस श्रेणी के अंतर्गत आता है?",
+    "options": [
+      "1. व्यावसायिक अनुप्रयोग",
+      "2. शैक्षणिक अनुप्रयोग",
+      "3. मनोरंजनीय अनुप्रयोग",
+      "4. ननेटवर्क अनुप्रयोग"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The .MOV file format represents the QuickTime ________ format, natively used in the QuickTime framework of Mac.",
+    "options": [
+      "1. audio",
+      "2. video",
+      "3. object",
+      "4. text"
+    ],
+    "answer": 1
+  },
+  {
+    "q": ".MOV फ़ाइल फॉर्मेट QuickTime ________ फॉर्मेट को दर्शाता है, जो मूल रूप से Mac के QuickTime फ्रेमवर्क में उपयोग किया जाता है।",
+    "options": [
+      "1. ऑडियो",
+      "2. वीडियो",
+      "3. ऑब्जेक्ट",
+      "4. टेक्स्ट"
+    ],
+    "answer": 1
+  }
 ]
         
         };
