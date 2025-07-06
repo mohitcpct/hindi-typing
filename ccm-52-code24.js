@@ -23965,7 +23965,7 @@
     "answer": 1
   }
 ],
-   "13th May 2023 - Shift1": [
+   "13th May 2023 - Shift2": [
   {
     "q": "Which of the following is NOT an example of an application software?",
     "options": [
