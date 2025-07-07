@@ -14590,6 +14590,1048 @@
     ],
     "answer": 0
   }
+],
+  "18th March 2023 - Shift2": [
+  {
+    "q": "In Microsoft Windows by default the task bar is located ______ of the desktop screen.",
+    "options": [
+      "1. on the start menu",
+      "2. at the bottom",
+      "3. on the Quick Launch toolbar",
+      "4. at the top"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "माइक्रोसॉफ्ट विंडोज में, डेस्कटॉप स्क्रीन पर टास्कबार डिफ़ॉल्ट रूप से कहाँ पर स्थित होता है?",
+    "options": [
+      "1. स्टार्ट मेनू पर",
+      "2. स्क्रीन के नीचे",
+      "3. क्विक लॉन्च टूलबार पर",
+      "4. स्क्रीन के ऊपर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Workbook is a collection of:",
+    "options": [
+      "1. page setup",
+      "2. buttons",
+      "3. diagrams",
+      "4. worksheets"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "वर्कबुक निम्‍न में से किसका संग्रह है?",
+    "options": [
+      "1. पेज सेटअप",
+      "2. बटनों",
+      "3. डायग्रामों",
+      "4. वर्कशीटों"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following utility allows you to arrange fragmented pieces of files in contiguous locations?",
+    "options": [
+      "1. POST",
+      "2. Driver",
+      "3. Defragment and Optimize Drives",
+      "4. RAID"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन सी यूटिलिटी आपको सन्निहित स्थानों में फाइलों के खंडित टुकड़ों को व्यवस्थित करने की अनुमति देती है?",
+    "options": [
+      "1. POST",
+      "2. ड्राइवर",
+      "3. डिफ्रैग्मेंट और ऑप्टिमाइज़ ड्राइव",
+      "4. RAID"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Ink-jet, laser and thermal are common types of ________.",
+    "options": [
+      "1. monitors",
+      "2. printers",
+      "3. mouse",
+      "4. keyboards"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "इंक-जेट, लेज़र और थर्मल ________ के सामान्य प्रकार हैं।",
+    "options": [
+      "1. मॉनिटर्स",
+      "2. प्रिंटर्स",
+      "3. माउस",
+      "4. कीबोर्ड"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The ______ provides the means to move the pointer on the screen and gives information to the computer by clicking its buttons.",
+    "options": [
+      "1. scanner",
+      "2. mouse",
+      "3. keyboard",
+      "4. program"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "__________ पॉइंटर को स्क्रीन पर इधर उधर जाने की सुविधा प्रदान करता है और इसके बटन क्लिक करने पर कंप्यूटर को इनफार्मेशन प्राप्त होती है।",
+    "options": [
+      "1. स्कैनर",
+      "2. माउस",
+      "3. कीबोर्ड",
+      "4. प्रोग्राम"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which program interprets commands given by the user in Linux?",
+    "options": [
+      "1. Kernel",
+      "2. Shell",
+      "3. Compiler",
+      "4. Loader"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्न में से कौन सा प्रोग्राम लिनक्स(Linux) में यूजर द्वारा दी गई कमांड्स को विवेचित करता है?",
+    "options": [
+      "1. कर्नेल",
+      "2. शेल",
+      "3. कम्पाइलर",
+      "4. लोडर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which MS-Excel function returns the minimum value in a field from a set of records that match criteria?",
+    "options": [
+      "1. MIND function",
+      "2. SELECTMIN function",
+      "3. DMIN function",
+      "4. SELECTDMIN function"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "मानदंड से मेल खाने वाले रिकॉर्ड के सेट से कौन सा MS-Excel फ़ंक्शन किसी फ़ील्ड में न्यूनतम मान देता है?",
+    "options": [
+      "1. MIND फंक्शन",
+      "2. SELECTMIN फंक्शन",
+      "3. DMIN फंक्शन",
+      "4. SELECTDMIN फंक्शन"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The ______ connects all system components and allows input and output devices to communicate with the system unit.",
+    "options": [
+      "1. monitor",
+      "2. motherboard",
+      "3. mouse",
+      "4. RAM"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "___________ कंप्यूटर सिस्टम के सभी घटकों को आपस में जोड़ता है और सभी इनपुट तथा आउटपुट डिवाइसों को सिस्टम यूनिट के साथ कम्यूनिकेट करने की अनुमति देता है।",
+    "options": [
+      "1. मॉनिटर",
+      "2. मदर बोर्ड",
+      "3. माउस",
+      "4. RAM"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The probability that the matcher module of a biometric sensor recognises an individual as a different enrolled subject is:",
+    "options": [
+      "1. fixed match rate (FMR)",
+      "2. false memorization rate (FMR)",
+      "3. frequency match rate (FMR)",
+      "4. false match rate (FMR)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "बायोमेट्रिक सेंसर के मिलान (मैचिंग) मॉड्यूल द्वारा किसी व्यक्ति को एक अलग नामांकित व्यक्ति के रूप में पहचानने की प्रायिकता क्या कहलाती है?",
+    "options": [
+      "1. निश्चित मिलान दर (FMR)",
+      "2. असत्य याद्दाश्त दर (FMR)",
+      "3. आवृत्ति मिलान दर (FMR)",
+      "4. असत्य मिलान दर (FMR)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is NOT an output device in a computer?",
+    "options": [
+      "1. Monitor",
+      "2. Track ball",
+      "3. Printer",
+      "4. Graphic plotter"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्न में से कौन सी कंप्यूटर की एक आउटपुट डिवाइस नहीं है?",
+    "options": [
+      "1. मॉनिटर",
+      "2. ट्रैक बॉल",
+      "3. प्रिंटर",
+      "4. ग्राफ़िक प्लॉटर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "USB pen drive is _______ memory.",
+    "options": [
+      "1. copy only",
+      "2. re-writable",
+      "3. read only",
+      "4. write only"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "USB पेन ड्राइव किस प्रकार की मेमोरी है?",
+    "options": [
+      "1. कॉपी ओनली",
+      "2. री-राइटेबल",
+      "3. रीड ओनली",
+      "4. राइट ओनली"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ card readers are used in physical security systems.",
+    "options": [
+      "1. Access",
+      "2. Confidentiality",
+      "3. Integrity",
+      "4. Virtual"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ कार्ड रीडर भौतिक सुरक्षा प्रणालियों में उपयोग किये जाते हैं।",
+    "options": [
+      "1. एक्सेस",
+      "2. गोपनीयता",
+      "3. अखंडता",
+      "4. आभासी"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "When you select text in MS-Word 2019, you can show or hide the handy ___________, which helps you work with fonts, alignment, text colour, indenting, and bullets.",
+    "options": [
+      "1. table",
+      "2. mini toolbar",
+      "3. new document",
+      "4. print preview"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Word 2019 में जब आप किसी टेक्स्ट का चयन करते हैं, तो आप उस छोटे _______ को छुपा या दिखा सकते हैं जिसमें फॉन्ट, अलाइनमेंट, टेक्स्ट कलर, इंडेंट्स और बुलेट्स जैसी उपयोगिताएं मौजूद होती हैं।",
+    "options": [
+      "1. टेबल",
+      "2. मिनी टूलबार",
+      "3. नया डॉक्यूमेंट",
+      "4. प्रिंट प्रीव्यू"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Decimal 12 is shown by ______ in the hexadecimal system.",
+    "options": [
+      "1. A",
+      "2. B",
+      "3. C",
+      "4. D"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "हेक्साडेसिमल पद्धति में डेसिमल 12 को ______ के द्वारा व्यक्त किया जाता है।",
+    "options": [
+      "1. A",
+      "2. B",
+      "3. C",
+      "4. D"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the full form of ENIAC, the first substantial computer machine?",
+    "options": [
+      "1. Electrical Numerical Integrator and Calculator",
+      "2. Electrical Natural Integrator and Computer",
+      "3. Electrical Numerical Iterator and Calculator",
+      "4. Electronic Numerical Integrator and Computer"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "ENIAC, जोकि पहली उन्नत कंप्यूटर मशीन थी, का पूर्णरूप क्या है?",
+    "options": [
+      "1. इलेक्ट्रिकल न्यूमेरिकल इंटीग्रेटर और कैलकुलेटर (Electrical Numerical Integrator and Calculator)",
+      "2. इलेक्ट्रिकल नैचुरल इंटीग्रेटर एंड कंप्यूटर (Electrical Natural Integrator and Computer)",
+      "3. इलेक्ट्रिकल न्यूमेरिकल इटेरेटर एंड कैलकुलेटर (Electrical Numerical Iterator and Calculator)",
+      "4. इलेक्ट्रोनिक न्यूमेरिकल इंटीग्रेटर एंड कंप्यूटर (Electronic Numerical Integrator and Computer)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In terms of computer security, ACE stands for:",
+    "options": [
+      "1. Access Control Entry",
+      "2. Access Computer Entry",
+      "3. Access Command Entry",
+      "4. Access Code Entry"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कंप्यूटर सुरक्षा के संदर्भ में ACE का पूर्ण रूप क्या है?",
+    "options": [
+      "1. एक्सेस कंट्रोल एंट्री (Access Control Entry)",
+      "2. एक्सेस कंप्यूटर एंट्री (Access Computer Entry)",
+      "3. एक्सेस कमांड एंट्री (Access Command Entry)",
+      "4. एक्सेस कोड एंट्री (Access Code Entry)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MBR, partition table info is stored in ______ bytes.",
+    "options": [
+      "1. 64",
+      "2. 47",
+      "3. 56",
+      "4. 68"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MBR में, विभाजन तालिका जानकारी ______ बाइट्स में स्टोर की जाती है।",
+    "options": [
+      "1. 64",
+      "2. 47",
+      "3. 56",
+      "4. 68"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT a computer port?",
+    "options": [
+      "1. USB",
+      "2. Printer or parallel",
+      "3. Backup",
+      "4. Ethernet or Network"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा एक कंप्यूटर पोर्ट नहीं है?",
+    "options": [
+      "1. USB",
+      "2. प्रिंटर या पैरेलल",
+      "3. बैकअप",
+      "4. ईथरनेट या नेटवर्क"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Since computers are faster than printers, how is communication (synchronisation) achieved?",
+    "options": [
+      "1. By enhancing printer port",
+      "2. By the use of printer buffer",
+      "3. By changing the printer manufacturing process",
+      "4. By buying a new printer"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "क्योंकि कंप्यूटर प्रिंटर से तेज़ होते हैं, फिर इनमें संचार (तुल्यकालन) कैसे प्राप्त किया जाता है?",
+    "options": [
+      "1. प्रिंटर पोर्ट को बढ़ाकर",
+      "2. प्रिंटर बफर का उपयोग करके",
+      "3. प्रिंटर विनिर्माण की प्रक्रिया में परिवर्तन करके",
+      "4. नया प्रिंटर खरीदकर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "How can printer drivers be updated?",
+    "options": [
+      "1. Only manually",
+      "2. Only automatically",
+      "3. Both manually and automatically",
+      "4. Cannot be updated"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "प्रिंटर ड्राइवर को कैसे अपडेट किया जा सकता है?",
+    "options": [
+      "1. केवल मैन्युअली",
+      "2. केवल स्वतः (automatically)",
+      "3. मैन्युअली और स्वतः (automatically) दोनों",
+      "4. इसे अपडेट नहीं किया जा सकता है"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A type of printer with a key striking an inked impression on paper for each printed character is known as:",
+    "options": [
+      "1. a non-impact printer",
+      "2. an impact printer",
+      "3. a page printer",
+      "4. a line printer"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "प्रिंटर का वह कौन सा प्रकार है जिसमें प्रत्येक अक्षर के मुद्रण के लिए एक स्याहीयुक्त छाप वाली कुंजी (की) पेपर पर टकराती है?",
+    "options": [
+      "1. नॉन-इम्पैक्ट प्रिंटर",
+      "2. इम्पैक्ट प्रिंटर",
+      "3. पेज प्रिंटर",
+      "4. लाइन प्रिंटर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Select the correct option with reference to impact printers.",
+    "options": [
+      "1. Noisy printers",
+      "2. High quality printers",
+      "3. Quiet printers",
+      "4. Slow printers"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "इंपैक्ट प्रिंटरों के संदर्भ में सही विकल्प का चयन करें।",
+    "options": [
+      "1. आवाज करने वाले प्रिंटर",
+      "2. उच्च गुणवत्ता वाले प्रिंटर",
+      "3. शांत प्रिंटर",
+      "4. धीमे प्रिंटर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "AIFF stands for:",
+    "options": [
+      "1. Audio Interchange File Format",
+      "2. Audio Information File Format",
+      "3. Audio Interchange Frame Format",
+      "4. Audio Information Frame Format"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "AIFF का पूर्णरूप क्या है?",
+    "options": [
+      "1. ऑडियो इंटरचेंज फाइल फॉर्मेट (Audio Interchange File Format)",
+      "2. ऑडियो इनफार्मेशन फाइल फॉर्मेट (Audio Information File Format)",
+      "3. ऑडियो इंटरचेंज फ्रेम फॉर्मेट (Audio Interchange Frame Format)",
+      "4. ऑडियो इनफार्मेशन फ्रेम फॉर्मेट (Audio Information Frame Format)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "JPEG technique centres around:",
+    "options": [
+      "1. DST (Direct Simple True)",
+      "2. DTT (Direct Token Transfer)",
+      "3. DCT (Direct Cosine Transform)",
+      "4. DMT (Direct Mined Transform)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "JPEG तकनीक किसपर केंद्रित होती है?",
+    "options": [
+      "1. DST (Direct Simple True)",
+      "2. DTT (Direct Token Transfer)",
+      "3. DCT (Direct Cosine Transform)",
+      "4. DMT (Direct Mined Transform)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "If you want to cancel a printing job:",
+    "options": [
+      "1. Go to My Computer -> Select your default printer -> View all active jobs -> Right click on the job to cancel -> Click yes when prompted",
+      "2. Go to Control Panel -> Select your default printer -> View all active jobs -> Right click on the job to cancel -> Click yes when prompted",
+      "3. Go to Notification area -> Click on printer icon -> Select your default printer -> View all active jobs -> Right click on the job to cancel -> Click yes when prompted",
+      "4. Go to C:\\Windows -> Select your default printer -> View all active jobs -> Right click on the job to cancel -> Click yes when prompted."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "किसी मुद्रण कार्य (जॉब) को रद्द करने की क्या प्रक्रिया है?",
+    "options": [
+      "1. my computer पर जाएं -> अपने डिफ़ॉल्ट प्रिंटर का चयन करें -> सभी सक्रिय कार्यों (एक्टिव जॉब) को देखें -> रद्द करने के लिए जॉब पर राइट क्लिक करें -> जब सूचित किया जाए तो yes पर क्लिक करें",
+      "2. control panel पर जाएं -> अपने डिफ़ॉल्ट प्रिंटर का चयन करें -> सभी सक्रिय कार्यों (एक्टिव जॉब) को देखें -> रद्द करने के लिए जॉब पर राइट क्लिक करें -> जब सूचित किया जाए तो yes पर क्लिक करें",
+      "3. नोटिफ़िकेशन एरिया पर जाएं -> प्रिंटर आइकन पर क्लिक करें -> अपने डिफ़ॉल्ट प्रिंटर का चयन करें -> सभी सक्रिय कार्यों (एक्टिव जॉब) को देखें -> रद्द करने के लिए जॉब पर राइट क्लिक करें -> जब सूचित किया जाए तो yes पर क्लिक करें",
+      "4. C:\\Windows पर जाएं -> अपने डिफ़ॉल्ट प्रिंटर का चयन करें -> सभी सक्रिय कार्यों (एक्टिव जॉब) को देखें -> रद्द करने के लिए जॉब पर राइट क्लिक करें -> जब सूचित किया जाए तो yes पर क्लिक करें"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is NOT a type of cryptographic algorithm?",
+    "options": [
+      "1. Secret key algorithm",
+      "2. Public key algorithm",
+      "3. Hash function",
+      "4. Popular key algorithm"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा क्रिप्टोग्राफिक एल्गोरिथम का एक प्रकार नहीं है?",
+    "options": [
+      "1. सीक्रेट की एल्गोरिथम",
+      "2. पब्लिक की एल्गोरिथम",
+      "3. हैश फंक्शन",
+      "4. पॉपुलर की एल्गोरिथम"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "If Ethernet works in Linux, but there is a problem while working with Windows. What do we generally need to do?",
+    "options": [
+      "1. Disable the local area connection from the Control Panel",
+      "2. Uninstall Ethernet drivers",
+      "3. Reinstall Ethernet drivers",
+      "4. Disable wireless network connection"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "यदि ईथरनेट लिनक्स में काम करता है, लेकिन विंडोज के साथ काम करते समय एक समस्या है। इस स्थिति में क्या किया जाना चाहिए?",
+    "options": [
+      "1. कंट्रोल पैनल से लोकल एरिया कनेक्शन को डिसेबल करें",
+      "2. ईथरनेट ड्राइवरों को अनइंस्टॉल करें",
+      "3. ईथरनेट ड्राइवरों को पुनः इनस्टॉल करें",
+      "4. वायरलेस नेटवर्क कनेक्शन को डिसेबल करें"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is NOT an information maintenance system call of Windows?",
+    "options": [
+      "1. Alarm()",
+      "2. GetCurrentProcessID()",
+      "3. SetTimer()",
+      "4. Sleep()"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से कौन सा Windows का एक इन्फॉर्मेशन मेंटीनेंस सिस्टम कॉल नहीं है?",
+    "options": [
+      "1. Alarm()",
+      "2. GetCurrentProcessID()",
+      "3. SetTimer()",
+      "4. Sleep()"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a common symptom of voltage fluctuation?",
+    "options": [
+      "1. Flickering of incandescent lamps",
+      "2. Turning on incandescent lamps",
+      "3. Turning off incandescent lamps",
+      "4. No effect on the working of incandescent lamps working"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा वोल्टेज के उतार चढ़ाव का एक सामान्य लक्षण है?",
+    "options": [
+      "1. प्रज्वलित लैंप की झिलमिलाहट",
+      "2. प्रज्वलित लैंप का जल जाना",
+      "3. प्रज्वलित लैंप का बुझ जाना",
+      "4. प्रज्वलित लैंप पर कोई प्रभाव नहीं"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "PS/2 port is _____ pin connector.",
+    "options": [
+      "1. 4",
+      "2. 5",
+      "3. 6",
+      "4. 7"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "PS/2 पोर्ट एक ______ पिन कनेक्टर है।",
+    "options": [
+      "1. 4",
+      "2. 5",
+      "3. 6",
+      "4. 7"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The ______ file format is a method of encoding pictures on a computer.",
+    "options": [
+      "1. html",
+      "2. jpeg",
+      "3. ftp",
+      "4. URL"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______फ़ाइल फॉर्मेट कंप्यूटर पर चित्रों को एन्कोड करने का एक तरीका है।",
+    "options": [
+      "1. html",
+      "2. jpeg",
+      "3. ftp",
+      "4. URL"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "All the files in google drive are displayed in:",
+    "options": [
+      "1. My Computer",
+      "2. My PC",
+      "3. My Drive",
+      "4. Local Drive"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "गूगल ड्राइव की सभी फाइलें _________ में दिखाई देती हैं।",
+    "options": [
+      "1. माई कंप्यूटर",
+      "2. माई पीसी",
+      "3. माई ड्राइव",
+      "4. लोकल ड्राइव"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following terms are NOT related to the internet?",
+    "options": [
+      "1. Browser",
+      "2. Search engine",
+      "3. URL",
+      "4. Indent ruler"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से कौन सा शब्द इंटरनेट से संबंधित नहीं है?",
+    "options": [
+      "1. ब्राउज़र",
+      "2. सर्च इंजन",
+      "3. URL",
+      "4. इंडेंट रूलर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Following are the options of the _______ command of MS-Word 2019.<br><br>Sentence case<br>lowercase<br>UPPERCASE<br>Capitalize Each Word<br>tOGGLE cASE",
+    "options": [
+      "1. Change Case",
+      "2. Grow Font",
+      "3. Shrink Font",
+      "4. Case Change"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "नीचे दिए गए विकल्प MS-Word 2019 की __________ कमांड में शामिल विकल्प हैं।<br><br>Sentence case<br>lowercase<br>UPPERCASE<br>Capitalize Each Word<br>tOGGLE cASE",
+    "options": [
+      "1. चेंज केस",
+      "2. ग्रो फ़ॉन्ट",
+      "3. श्रिंक फ़ॉन्ट",
+      "4. केसचेंज"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Alternate (Alt) key on a computer keyboard belongs to which of the following categories?",
+    "options": [
+      "1. Typing keys",
+      "2. Special purpose keys",
+      "3. Function keys",
+      "4. Control keys"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कंप्यूटर की आल्टरनेट (alt) की निम्न में से किस वर्ग से संबंधित की है?",
+    "options": [
+      "1. टाइपिंग की",
+      "2. स्पेशल पर्पज़ की",
+      "3. फंक्शन की",
+      "4. कंट्रोल की"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is the keyboard shortcut to select all content of a document in MS-Word?",
+    "options": [
+      "1. Ctrl+C",
+      "2. Alt+L",
+      "3. Ctrl+A",
+      "4. Alt+A"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Word में किसी डॉक्यूमेंट के संपूर्ण कंटेंट का चयन करने के लिए कीबोर्ड शॉर्टकट क्या है?",
+    "options": [
+      "1. Ctrl+C",
+      "2. Alt+L",
+      "3. Ctrl+A",
+      "4. Alt+A"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is NOT a valid paragraph alignment in MS-Word?",
+    "options": [
+      "1. Left",
+      "2. Top",
+      "3. Right",
+      "4. Justify"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा MS-Word में पैराग्राफ का मान्य संरेखण नहीं है?",
+    "options": [
+      "1. बायां",
+      "2. शीर्ष",
+      "3. दायां",
+      "4. जस्टिफाई"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following in Windows operating system is a special section task bar where we can add icons to quickly start programs?",
+    "options": [
+      "1. Task bar",
+      "2. Quick launch bar",
+      "3. Start menu",
+      "4. Notification area"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "विंडोज ऑपरेटिंग सिस्टम में निम्नलिखित में से कौन सा एक विशेष सेक्शन टास्क बार है जहां हम प्रोग्राम को जल्दी से शुरू करने के लिए आइकन जोड़ सकते हैं?",
+    "options": [
+      "1. टास्क बार",
+      "2. क्विक लॉन्च बार",
+      "3. स्टार्ट मेनू",
+      "4. नोटिफिकेशन एरिया"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Sham does NOT want to count the number of words in textboxes, footnotes and endnotes in the MS-Word document. Which of the following option should be unchecked?",
+    "options": [
+      "1. Include textboxes, footnotes and endnotes",
+      "2. Exclude textboxes, footnotes and endnotes",
+      "3. Enable textboxes, footnotes and endnotes",
+      "4. Disable textboxes, footnotes and endnotes"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "श्याम MS-Word डाक्यूमेंट के टेक्स्टबॉक्स, फुटनोट्स और एंडनोट्स में शब्दों की संख्या नहीं गिनना चाहता है, तो उसे निम्न विकल्पों में दिए गए किस चेकबॉक्स को अनचेक करना होगा?",
+    "options": [
+      "1. टेक्स्टबॉक्स, फुटनोट्स और एंडनोट्स को शामिल करें",
+      "2. टेक्स्टबॉक्स, फुटनोट्स और एंडनोट्स को छोड़ दें",
+      "3. टेक्स्टबॉक्स, फुटनोट्स और एंडनोट्स को इनेबल करें",
+      "4. टेक्स्टबॉक्स, फुटनोट्स और एंडनोट्स को डिसेबल करें"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Line spacing is the space between each ______ in a paragraph in an MS-Word document.",
+    "options": [
+      "1. line",
+      "2. word",
+      "3. sentence",
+      "4. letter"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS Word डॉक्यूमेंट में लाइन स्पेसिंग पैराग्राफ के प्रत्येक _______ के बीच दी जाती है।",
+    "options": [
+      "1. लाइन",
+      "2. शब्द",
+      "3. वाक्य",
+      "4. अक्षर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is not the Section Break Option?",
+    "options": [
+      "1. Next Page",
+      "2. Odd Page",
+      "3. Previous Page",
+      "4. Even Page"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा सेक्शन ब्रेक विकल्प नहीं है?",
+    "options": [
+      "1. नेक्स्ट पेज",
+      "2. ओड पेज",
+      "3. प्रीवियस पेज",
+      "4. इवन पेज"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following groups in MS-Word 2019 can be used to adjust Line Spacing?",
+    "options": [
+      "1. Paragraph",
+      "2. Font",
+      "3. Clipboard",
+      "4. Headings"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Word 2019 में निम्नलिखित में से किस ग्रुप का उपयोग लाइन स्पेसिंग को समायोजित करने के लिए किया जा सकता है?",
+    "options": [
+      "1. पैराग्राफ",
+      "2. फॉन्ट",
+      "3. क्लिपबोर्ड",
+      "4. हेडिंग्स"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following can be used to edit the content of a cell in an MS-Excel 2019 worksheet?",
+    "options": [
+      "1. Left click on the cell once",
+      "2. Double click on the cell",
+      "3. Right click on the cell",
+      "4. Select the cell and press ENTER key"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 वर्कशीट में सेल के कंटेंट को एडिट करने के लिए निम्नलिखित में से किसका उपयोग किया जा सकता है?",
+    "options": [
+      "1. सेल पर एकबार लेफ्ट क्लिक करके",
+      "2. सेल पर दो बार क्लिक करके",
+      "3. सेल पर राइट क्लिक करके",
+      "4. सेल को सेलेक्ट करके इंटर की दबाकर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following statements with reference to MS-Word is/are true? <br>(i) In MS-Word, a text cannot be both italicized and bold <br>(ii) In MS-Word, a text cannot have font-size less than 8",
+    "options": [
+      "1. (i) only",
+      "2. (ii) only",
+      "3. Both (i) and (ii)",
+      "4. Neither (i) nor (ii)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Word के संदर्भ में निम्नलिखित में से कौन सा/से कथन सत्य है/हैं? <br>(I) MS-Word में, टेक्स्ट इटैलिक और बोल्ड दोनों नहीं हो सकता है <br>(II) MS Word में, टेक्स्ट का फॉन्ट-साइज 8 से कम नहीं हो सकता है",
+    "options": [
+      "1. केवल (I)",
+      "2. केवल (II)",
+      "3. (I) और (II) दोनों",
+      "4. न तो (I) और न ही (II)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "How many different feed methods are available in the Printing Options tab of the Envelope Options window in the mail merge process of MS-Word 2019?",
+    "options": [
+      "1. 1",
+      "2. 2",
+      "3. 3",
+      "4. 4"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Word 2019 की मेल मर्ज प्रक्रिया में एन्वलप विकल्प विंडो के प्रिंटिंग विकल्प टैब में कितनी अलग-अलग फ़ीड विधियाँ उपलब्ध हैं?",
+    "options": [
+      "1. 1",
+      "2. 2",
+      "3. 3",
+      "4. 4"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In MS-Word 2016, the very first step in the process of mail merge is:",
+    "options": [
+      "1. Starting document",
+      "2. starting main document",
+      "3. Select document type",
+      "4. document type"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Word 2016 में, मेल मर्ज(merge) की प्रक्रिया में सबसे पहला चरण क्या होता है?",
+    "options": [
+      "1. डॉक्यूमेंट शुरू करना",
+      "2. मुख्य डॉक्यूमेंट शुरू करना",
+      "3. डॉक्यूमेंट के प्रकार का चयन करना",
+      "4. डॉक्यूमेंट का प्रकार"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In MS-Excel 2010, text in a column is generally aligned ________.",
+    "options": [
+      "1. Justified",
+      "2. Right",
+      "3. Center",
+      "4. Left"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS Excel 2010 में, कॉलम में टेक्स्ट सामान्यतः _______ ओर संरेखित होता है।",
+    "options": [
+      "1. जस्टीफ़ाइड",
+      "2. दाईं",
+      "3. केंद्र",
+      "4. बाईं"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "On Quick access toolbar of MS-Word, the Save icon looks like a/an:",
+    "options": [
+      "1. TV",
+      "2. LCD",
+      "3. Hard disk",
+      "4. Floppy disk"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "क्विक एक्‍सेस टूलबार पर, सेव आइकन निम्‍न में से किस तरह से दिखता है?",
+    "options": [
+      "1. TV",
+      "2. LCD",
+      "3. हार्ड डिस्क",
+      "4. फ्लॉपी डिस्क"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In Windows OS, for switching between two windows, press and hold ______ key and press ______ key to bring up the Taskbar Switcher Window.",
+    "options": [
+      "1. Home, Tab",
+      "2. Shift, Tab",
+      "3. Ctrl, Tab",
+      "4. Alt, Tab"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "विंडोज OS में, दो विंडो के बीच स्विच करने के लिए, ______ की दबाकर रखें और टास्कबार स्विचर विंडो लाने के लिए ______ की दबाएं।",
+    "options": [
+      "1. होम, टैब",
+      "2. शिफ्ट, टैब",
+      "3. कंट्रोल, टैब",
+      "4. आल्ट, टैब"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "An email can contain:",
+    "options": [
+      "1. text, files, but not images",
+      "2. text, images, but not files",
+      "3. text, files, as well as images",
+      "4. images, videos, but not zipped files"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "ई-मेल में क्या-क्या शामिल हो सकता है?",
+    "options": [
+      "1. टेक्स्ट और फाइलें लेकिन चित्र नहीं",
+      "2. टेक्स्ट और चित्र लेकिन फाइलें नहीं",
+      "3. टेक्स्ट और फाइलें तथा चित्र भी",
+      "4. चित्र और विडियो लेकिन जिप्ड फाइलें नहीं"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Receiving a file from the internet to our computer is called ______.",
+    "options": [
+      "1. uploading",
+      "2. downloading",
+      "3. saving",
+      "4. opening"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "इंटरनेट से हमारे कंप्यूटर में फाइल स्थानांतरित करने की प्रक्रिया ______ कहलाती है।",
+    "options": [
+      "1. अपलोडिंग",
+      "2. डाउनलोडिंग",
+      "3. सेविंग",
+      "4. ओपनिंग"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Multimedia means the use of more than one ______ in communication.",
+    "options": [
+      "1. video",
+      "2. media",
+      "3. file",
+      "4. image"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "मल्टीमीडिया से तात्पर्य, संचार में एक से अधिक ______ का उपयोग करना है।",
+    "options": [
+      "1. वीडियो",
+      "2. माध्यमों (मों मीडिया)",
+      "3. फ़ाइल",
+      "4. इमेज"
+    ],
+    "answer": 1
+  }
 ]
         
         };
