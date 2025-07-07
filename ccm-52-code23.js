@@ -15632,6 +15632,1048 @@
     ],
     "answer": 1
   }
+],
+  "19th March 2023 - Shift2": [
+  {
+    "q": "The utility used to increase the speed of programs on Windows OS is called:",
+    "options": [
+      "1. Disk Defragmenter",
+      "2. Disk Cleanup",
+      "3. Disk Formatter",
+      "4. Disk Analyser"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "विंडोज़ ओएस (windows OS) पर प्रोग्राम की गति को बढ़ाने के लिए उपयोग की जाने वाली यूटिलिटी को क्या कहा जाता है?",
+    "options": [
+      "1. डिस्क डिफ्रैगमेंटर",
+      "2. डिस्क क्लीनअप",
+      "3. डिस्क फॉर्मेटर",
+      "4. डिस्क एनालाइज़र"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Who among the following is famously known as creator of the programming language PHP?",
+    "options": [
+      "1. Dennis Ritchie",
+      "2. Bjarne Stroustrup",
+      "3. Guido van Rossum",
+      "4. Rasmus Lerdorf"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से किसे प्रोग्रामिंग भाषा PHP के निर्माता के रूप में जाना जाता है?",
+    "options": [
+      "1. डेनिस रिटची (Dennis Ritchie)",
+      "2. बजार्ने स्ट्रोस्ट्रुप (Bjarne Stroustrup)",
+      "3. गुइडो वैन रॉस्सुम (Guido van Rossum)",
+      "4. रसमस लेरडोर्फ (Rasmus Lerdorf)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which function returns the probability of a trial result using a binomial distribution in MS-Excel 2013?",
+    "options": [
+      "1. BINOM.DIST function",
+      "2. BINOM.DIST.RANGE function",
+      "3. PBINOM.DIST function",
+      "4. PBINOM.DIST.RANGE function"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS Excel 2013 में, कौन सा फंक्शन द्विपद वितरण (binomial distribution) का उपयोग करके एक परीक्षण के परिणाम की संभावना देता है?",
+    "options": [
+      "1. BINOM.DIST फंक्शन",
+      "2. BINOM.DIST.RANGE फंक्शन",
+      "3. PBINOM.DIST फंक्शन",
+      "4. PBINOM.DIST.RANGE फंक्शन"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is NOT a toggle key?",
+    "options": [
+      "1. Control",
+      "2. Scroll Lock",
+      "3. Num Lock",
+      "4. Caps Lock"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न की में से कौन सी एक टॉगल की नहीं है ?",
+    "options": [
+      "1. कंट्रोल",
+      "2. स्क्रॉल लॉक",
+      "3. नम लॉक",
+      "4. कैप्स लॉक"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The language that a computer can understand and execute is called:",
+    "options": [
+      "1. machine or binary language",
+      "2. application software",
+      "3. system program",
+      "4. high level language"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "वह भाषा जो कंप्यूटर समझ और निष्पादित कर सकता है, क्या कहलाती है?",
+    "options": [
+      "1. मशीन अथवा बाइनरी भाषा",
+      "2. एप्लीकेशन सॉफ्टवेयर",
+      "3. सिस्टम प्रोग्राम",
+      "4. उच्च स्तरीय भाषा"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The processor speed of third generation computers was measured in:",
+    "options": [
+      "1. millisecond",
+      "2. microsecond",
+      "3. nanosecond",
+      "4. picosecond"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "तीसरी पीढ़ी के कंप्यूटर प्रोसेसर की स्पीड किस में मापी जाती थी?",
+    "options": [
+      "1. मिलीसेकंड",
+      "2. माइक्रोसेकंड",
+      "3. नैनोसेकंड",
+      "4. पिकोसेकंड"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the use of the ‘who’ command in Unix?",
+    "options": [
+      "1. Lists the users currently logged in",
+      "2. Removes a directory",
+      "3. Displays a file",
+      "4. Displays one file page at a time"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "यूनिक्स (UNIX) में ‘who’ कमांड का क्या उपयोग है?",
+    "options": [
+      "1. वर्तमान में लॉग-इन उपयोगकर्ताओं की सूची बनाना",
+      "2. डायरेक्टरी हटाना",
+      "3. फाइल प्रदर्शित करना",
+      "4. एक समय में एक फाइल के पेज को प्रदर्शित करना"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following ROMs is a hard-wired device that contains a pre-programmed set of data or instructions?",
+    "options": [
+      "1. Masked ROM",
+      "2. PROM",
+      "3. EPROM",
+      "4. EEPROM"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से कौन से ROMs हार्ड-वायर्ड डिवाइस होते हैं जिसमें डेटा या निर्देशों का एक सेट पहले से प्रोग्राम किया गया होता है?",
+    "options": [
+      "1. मास्क्ड ROM",
+      "2. PROM",
+      "3. EPROM",
+      "4. EEPROM"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS-Word 2016, the last two options in the line and spacing paragraph drop down menu are _______ spacing options.",
+    "options": [
+      "1. predefined line",
+      "2. customised line",
+      "3. paragraph",
+      "4. column"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Word 2016 में, लाइन और स्पेसिंग पैराग्राफ ड्रॉप डाउन मेनू में अंतिम दो विकल्प _______ स्पेसिंग विकल्प हैं।",
+    "options": [
+      "1. पूर्वनिर्धारित रेखा (predefined line)",
+      "2. अनुकूलित लाइन (customised line)",
+      "3. अनुच्छेद (paragraph)",
+      "4. कॉलम (column)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Biometric devices provide the best mechanism for:",
+    "options": [
+      "1. access control",
+      "2. antivirus protection",
+      "3. data encryption",
+      "4. e-mail security"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "बायोमेट्रिक उपकरण ______ के लिए सर्वोत्तम तकनीक प्रदान करता है।",
+    "options": [
+      "1. एक्सेस कंट्रो ल",
+      "2. एंटीवायरस प्रोटेक्शन",
+      "3. डेटा एन्क्रिप्शन",
+      "4. ई-मेल सिक्योरिटी"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following expansion slots on the motherboard provides 64-bit high speed bus?",
+    "options": [
+      "1. ISA",
+      "2. PCI",
+      "3. PCI express 1.0",
+      "4. AGP"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "मदरबोर्ड पर मौजूद निम्न में से कौन सा एक्सपैंसन स्लॉट 64-बिट हाई स्पीड बस प्रदान करता है?",
+    "options": [
+      "1. ISA",
+      "2. PCI",
+      "3. PCI express 1.0",
+      "4. AGP"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is Binary equivalent of the given decimal number? <br>(23)₁₀",
+    "options": [
+      "1. 11110",
+      "2. 11011",
+      "3. 11101",
+      "4. 10111"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "दिए गए दशमलव संख्या के द्विआधारी समकक्ष क्या है? <br>(23)₁₀",
+    "options": [
+      "1. 11110",
+      "2. 11011",
+      "3. 11101",
+      "4. 10111"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is an input device that enables a user to hand-draw images, animations and graphics, with a special pen-like stylus, similar to the way a person draws images with a pencil and paper?",
+    "options": [
+      "1. Digitizer",
+      "2. Puck",
+      "3. Book-pad",
+      "4. Pantograph"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा एक ऐसा इनपुट उपकरण है जो किसी उपयोगकर्ता को एक विशेष पेन जैसी शलाका (स्टाइलस) के माध्यम से, हाथ से ठीक उसी प्रकार छवियाँ, एनिमेशन और ग्राफ़िक्स बनाने में सक्षम करता है, जिस प्रकार एक व्यक्ति काग़ज़ पर पेंसिल से छवियाँ बनाता है?",
+    "options": [
+      "1. डिजिटाइज़र",
+      "2. पक",
+      "3. बुक-पैड",
+      "4. पेंटोग्राफ़"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following numbers is/are composed of 0s and 1s only?",
+    "options": [
+      "1. Hexadecimal",
+      "2. Decimal",
+      "3. Binary",
+      "4. Both hexadecimal and decimal"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "इनमें से कौन सी संख्या/एं केवल 0 और 1 से बनी है/हैं?",
+    "options": [
+      "1. हेक्साडेसिमल",
+      "2. डेसिमल",
+      "3. बाइनरी",
+      "4. हेक्साडेसिमल और डेसिमल दोनों"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which multi-touch gesture is used on a touchscreen device to enlarge something on the screen?",
+    "options": [
+      "1. Pinch In",
+      "2. Two finger scroll",
+      "3. Clicking the enlarge button",
+      "4. Double flick"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "टच स्क्रीन डिवाइस पर किसी वस्तु को बड़ा करने के लिए इनमें से किस मल्टी-टच गेस्‍चर्स (multi-touch gestures) का उपयोग किया जाता है?",
+    "options": [
+      "1. पिंच इन",
+      "2. दो उंगलियों से स्क्रॉल",
+      "3. एन्लार्ज बटन पर क्लिक",
+      "4. डबल फ्लिक"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following topologies is used to connect all the computers in a network using a single cable?",
+    "options": [
+      "1. Bus",
+      "2. Star",
+      "3. Ring",
+      "4. Hybrid"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "केवल एक केबल का उपयोग कर सभी कंप्यूटरों को जोड़ने के लिए किस टोपोलॉजी का उपयोग किया जाता है?",
+    "options": [
+      "1. बस",
+      "2. स्टार",
+      "3. रिंग",
+      "4. हाइब्रिड"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is used to measure the output quality of a printer?",
+    "options": [
+      "1. Pixels per inch",
+      "2. Pixels per frame",
+      "3. Aspect ratio",
+      "4. Dot per inch"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "प्रिंटर की आउटपुट गुणवत्ता मापने के लिए निम्न में से किसका उपयोग किया जाता है?",
+    "options": [
+      "1. प्रति इंच पिक्सल",
+      "2. प्रति फ्रेम पिक्सल",
+      "3. आस्पेक्ट अनुपात",
+      "4. प्रति इंच डॉट"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is a page orientation in MS-Word?",
+    "options": [
+      "1. The page size",
+      "2. The direction in which a document is displayed",
+      "3. The page layout",
+      "4. The page finishing"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Word का पेज ओरिएंटेशन निम्न में से किसे कहा जाता है?",
+    "options": [
+      "1. पेज के आकार",
+      "2. पेज प्रदर्शित होने की दिशा",
+      "3. पेज लेआउट",
+      "4. पेज फिनिशिंग"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the full form of the file system NTFS?",
+    "options": [
+      "1. Network Technology File System",
+      "2. New Transitive File System",
+      "3. New Technology File System",
+      "4. Novel Technology File System"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "फ़ाइल सिस्टम के संदर्भ में NTFS का पूर्णरूप क्या है?",
+    "options": [
+      "1. नेटवर्क टेक्नोलॉजी फ़ाइल सिस्टम (Network Technology File System)",
+      "2. न्यू ट्रांजिटिव फ़ाइल सिस्टम (New Transitive File System)",
+      "3. न्यू टेक्नोलॉजी फ़ाइल सिस्टम (New Technology File System)",
+      "4. नवल टेक्नोलॉजी फ़ाइल सिस्टम (Novel Technology File System)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following steps must you take to cancel printing jobs in the Windows OS?",
+    "options": [
+      "1. Shut down your printer.",
+      "2. Disconnect your printer from the computer (unplug data cable).",
+      "3. In Active Printers dialog box, right-click on the print job and select the Cancel option.",
+      "4. Send the 'pause' command from your computer to the printer."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Windows OS में, प्रिंटिंग कार्य को रोकने के लिए आप निम्न में से क्या करेंगे?",
+    "options": [
+      "1. अपने प्रिंटर को शटडाउन करेंगे",
+      "2. अपने प्रिंटर को कंप्यूटर से डिस्कनेक्ट करेंगे (डेटा केबल अनप्लग करके)",
+      "3. एक्टिव प्रिंटर्स डायलॉग बॉक्स में, प्रिंट जॉब पर राइट क्लिक करेंगे और कैंसिल विकल्प का चयन करेंगे",
+      "4. अपने कंप्यूटर से प्रिंटर को 'पॉज' कमांड भेजेंगे"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "If your router is unable to send/discard datagram, then which of the following error messages is sent?",
+    "options": [
+      "1. Destination is unreachable",
+      "2. Destination is unverified",
+      "3. Destination is unavailable",
+      "4. Destination is out of coverage"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "यदि आपका राउटर डेटाग्राम भेजने में असमर्थ है या डेटाग्राम को डिसकार्ड कर देता है, तो निम्न में से कौन सा एरर मैसेज प्रदर्शित होता है?",
+    "options": [
+      "1. Destination is unreachable",
+      "2. Destination is unverified",
+      "3. Destination is unavailable",
+      "4. Destination is out of coverage"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "With reference to signal transmission, _____________ in amplifier basically implies the variation in the waveform received at the output with respect to the applied input.",
+    "options": [
+      "1. inefficiency",
+      "2. fault",
+      "3. distortion",
+      "4. damage"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "सिग्नल ट्रांसमिशन के संदर्भ में, एम्पलीफायर में ________ से तात्पर्य इनपुट के सापेक्ष में आउटपुट पर प्राप्त तरंगरूप में भिन्नता से है।",
+    "options": [
+      "1. अक्षमता",
+      "2. दोष",
+      "3. विरूपण",
+      "4. नुक़सान"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is the encoding of information in a carrier wave by changing the instantaneous frequency of the wave?",
+    "options": [
+      "1. Phase modulation",
+      "2. Amplitude modulation",
+      "3. Frequency modulation",
+      "4. Quadrature modulation"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "किसी तरंग की तात्क्षणिक आवृत्ति में परिवर्तन करके वाहक तरंग में सूचना का कूटलेखन (encoding) निम्नलिखित में से क्या कहलाता है?",
+    "options": [
+      "1. फेज मॉड्यूलेशन",
+      "2. आयाम मॉड्यूलेशन",
+      "3. आवृति मॉड्यूलेशन",
+      "4. क्षेत्रकलन मॉड्यूलेशन"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "With reference to file formats, what is the full form of EPS?",
+    "options": [
+      "1. Encapsulated PostScript file",
+      "2. Enhanced PostScript file",
+      "3. Enumerated PostScript file",
+      "4. Entitled PostScript file"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "फ़ाइल फॉर्मेट के संदर्भ में EPS का पूर्णरूप क्या है?",
+    "options": [
+      "1. Encapsulated PostScript file (इनकैप्सुलेटेड पोस्टस्क्रिप्ट फाइल)",
+      "2. Enhanced PostScript file (इनहैंस्ड पोस्टस्क्रिप्ट फाइल)",
+      "3. Enumerated PostScript file (इनुमेरेटेड पोस्टस्क्रिप्ट फाइल)",
+      "4. Entitled PostScript file (इंटाइटल्ड पोस्टस्क्रिप्ट फाइल)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In cryptographic algorithms, anyone intercepting the encrypted message will ____.",
+    "options": [
+      "1. see the actual data",
+      "2. see random data",
+      "3. see the plain text",
+      "4. see the decrypted text"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "क्रिप्टोग्राफिक एल्गोरिथम में एन्क्रिप्टेड मैसेज को जो भी अवरुद्ध करेगा वह ____ ।",
+    "options": [
+      "1. वास्तविक डेटा देखेगा",
+      "2. काल्पनिक डेटा देखेगा",
+      "3. प्लेन टेक्स्ट देखेगा",
+      "4. विकोडित टेक्स्ट देखेगा"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following does NOT belong to the Editing group within the Home tab in MS-Word 2019?",
+    "options": [
+      "1. Find",
+      "2. Paste",
+      "3. Replace",
+      "4. Select"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्न में से किसका संबंध MS-Word 2019 के होम टैब के एडिटिंग ग्रुप से नहीं है?",
+    "options": [
+      "1. फाइंड",
+      "2. पेस्ट",
+      "3. रीप्लेस",
+      "4. सेलेक्ट"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following has functionality specific to handling the demands of talking to and controlling peripheral devices in a computer system?",
+    "options": [
+      "1. Process scheduler",
+      "2. File system",
+      "3. Disk controller",
+      "4. I/O controller"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कंप्यूटर सिस्टम की वह कार्यात्मकता क्या कहलाती है जो विशेष रूप से पेरिफ़ेरल डिवाइसों से संवाद की मांगों को नियंत्रित करती है?",
+    "options": [
+      "1. प्रोसेस शेड्यूलर",
+      "2. फ़ाइल सिस्टम",
+      "3. डिस्क कंट्रोलर",
+      "4. I/O कंट्रो लर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following formats CANNOT be used as desktop background in Windows OS?",
+    "options": [
+      "1. jpg",
+      "2. png",
+      "3. docx",
+      "4. dib"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Windows OS की डेस्कटॉप पृष्ठभूमि के लिए निम्न में से किस फॉर्मेट का उपयोग नहीं किया जा सकता है?",
+    "options": [
+      "1. jpg",
+      "2. png",
+      "3. docx",
+      "4. dib"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "To which places on the screen can the task bar be repositioned in Windows 10?",
+    "options": [
+      "1. Bottom and left",
+      "2. Left, right and top",
+      "3. Left, right, top and bottom",
+      "4. Top and bottom"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Windows 10 में टास्क बार को स्क्रीन पर किन जगहों पर रीप्लेस किया जा सकता है?",
+    "options": [
+      "1. नीचे और बाएं",
+      "2. बाएं, दाएं, और ऊपर",
+      "3. बाएं, दाएं,ऊपर और नीचे",
+      "4. ऊपर और नीचे"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following refers to the execution of multiple jobs by a CPU simultaneously by switching between them?",
+    "options": [
+      "1. Interactivity",
+      "2. Spooling",
+      "3. Batch processing",
+      "4. Multitasking"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से क्या CPU द्वारा उनके बीच स्विच करके एक साथ कई कार्यों के निष्पादन को संदर्भित करता है?",
+    "options": [
+      "1. इंटरैक्टिविटी",
+      "2. स्पूलिंग",
+      "3. बैच प्रोसेसिंग",
+      "4. मल्टीटास्किंग"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A homepage is:",
+    "options": [
+      "1. where all internet data is stored.",
+      "2. a page which is always dynamic.",
+      "3. the first page of any website.",
+      "4. required to delete flies."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "होमपेज क्या है?",
+    "options": [
+      "1. जहाँ सभी प्रकार के इंटरनेट डेटा स्टोर किये जाते हैं।",
+      "2. एक ऐसा पेज जो हमेशा गतिशील रहता है।",
+      "3. किसी भी वेबसाइट का पहला पेज।",
+      "4. फाइलों को डिलीट करने के लिए इसकी आवश्यकता होती है।"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is an input device?",
+    "options": [
+      "1. Speaker",
+      "2. Monitor",
+      "3. Scanner",
+      "4. Printer"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन सी एक इनपुट डिवाइस है?",
+    "options": [
+      "1. स्पीकर",
+      "2. मॉनिटर",
+      "3. स्कैनर",
+      "4. प्रिंटर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "When you want to move or copy a text between two locations, ______ is used.",
+    "options": [
+      "1. Move To",
+      "2. Copy",
+      "3. Clipboard",
+      "4. Find and Replace"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "जब आप दो स्थानों के बीच टेक्स्ट को स्थानांतरित या कॉपी करना चाहते हैं, तो ______ का उपयोग किया जाता है।",
+    "options": [
+      "1. मूव टू",
+      "2. कॉपी",
+      "3. क्लिपबोर्ड",
+      "4. फाइंड एंड रिप्लेस"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "2 Peta Byte = ________",
+    "options": [
+      "1. 2048 TB",
+      "2. 2048 GB",
+      "3. 2048 MB",
+      "4. 2048 KB"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "2 पेटा बाइट = ______",
+    "options": [
+      "1. 2048 TB",
+      "2. 2048 GB",
+      "3. 2048 MB",
+      "4. 2048 KB"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT an internet term?",
+    "options": [
+      "1. Search engine",
+      "2. Browser",
+      "3. Hyperlink",
+      "4. SMPS"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा शब्द इंटरनेट से संबंधित नहीं है?",
+    "options": [
+      "1. सर्च इंजन",
+      "2. ब्राउज़र",
+      "3. हाइपरलिंक",
+      "4. SMPS"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "While working on a Microsoft Word document, to make sure that every first letter of a table cell will NOT be capitalised in a sentence, which of the following checkbox options has to be cleared?",
+    "options": [
+      "1. Correct TWo INitial CApitals",
+      "2. Capitalize first letter of sentences",
+      "3. Capitalize first letter of table cells",
+      "4. Capitalize names of days"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS Word डॉक्यूमेंट पर काम करते समय, यह सुनिश्चित करने के लिए कि टेबल सेल में वाक्य लिखने के दौरान प्रत्येक शब्द का पहला अक्षर बड़ा (capital) न रहे, इसके लिए निम्न में से किस चेकबॉक्स विकल्प को हटाना होगा?",
+    "options": [
+      "1. Correct TWo INitial CApitals",
+      "2. Capitalize first letter of sentences",
+      "3. Capitalize first letter of table cells",
+      "4. Capitalize names of days"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which margin style gives one inch empty space on the top and bottom, and 0.75 inch of empty space on the left and right sides, of a page in a Microsoft Word document?",
+    "options": [
+      "1. Normal",
+      "2. Moderate",
+      "3. Narrow",
+      "4. Mirrored"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "माइक्रोसॉफ्ट वर्ड डॉक्यूमेंट में कौन सा मार्जिन स्टाइल पेज पर उपर और नीचे एक इंच और किनारों पर 0.75 इंच रिक्त स्थान देता है?",
+    "options": [
+      "1. नार्मल",
+      "2. मॉडरेट",
+      "3. नैरो",
+      "4. मिररर्ड"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "To see the Rulers, choose ______ and select the Ruler check box.",
+    "options": [
+      "1. Layout",
+      "2. View",
+      "3. Design",
+      "4. Page Layout"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "रूलर को देखने के लिए, ______ को चुनें और रूलर चेक बॉक्स को चेक करें।",
+    "options": [
+      "1. लेआउट",
+      "2. व्‍यू",
+      "3. डिज़ाइन",
+      "4. पेज लेआउट"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "There is/ are ______ option(s) in the drop down menu of the Special option in Indentation control in the Paragraph tab.",
+    "options": [
+      "1. 1",
+      "2. 2",
+      "3. 3",
+      "4. 4"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "पैराग्राफ़ टैब में इंडेंटेशन कंट्रोल के विशेष विकल्प के ड्रॉप डाउन मेनू में ______ विकल्प मौजूद होते हैं।",
+    "options": [
+      "1. 1",
+      "2. 2",
+      "3. 3",
+      "4. 4"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "______ port transfers large amount of data at very fast speed.",
+    "options": [
+      "1. Firewire",
+      "2. Ethernet",
+      "3. PS/2",
+      "4. USB"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "________ पोर्ट बहुत तेज गति (स्पीड) से बड़ी मात्रा में डेटा स्थानांतरित करता है।",
+    "options": [
+      "1. फायरवायर",
+      "2. ईथरनेट",
+      "3. PS/2",
+      "4. USB"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In a Microsoft Word document, when you type three \"equal to\" signs, you get a ______.",
+    "options": [
+      "1. single line",
+      "2. bold single line",
+      "3. double line",
+      "4. heavy dotted line"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS Word डाक्यूमेंट में, जब आप तीन 'बराबर का चिन्ह' (=) टाइप करते हैं, तो ______ प्राप्त होता/होती है।",
+    "options": [
+      "1. एक रेखा",
+      "2. एक मोटी रेखा",
+      "3. दोहरी रेखा",
+      "4. मोटी बिंदु रेखा"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The ______ feature has to be marked with a check mark under Show Markup to display comments.",
+    "options": [
+      "1. Comments",
+      "2. Ink",
+      "3. Insertions and Deletions",
+      "4. Markup Area Highlight"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कमेंट्स को प्रदर्शित करने के लिए ______ फ़ीचर को मार्कअप के अंतर्गत चेक मार्क के साथ चिह्नित किया जाना चाहिए।",
+    "options": [
+      "1. कमेंट्स",
+      "2. इंक",
+      "3. इंसर्शन और डिलीशन",
+      "4. मार्कअप एरिया हाइलाइट"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a Unicode encoding system to represent characters?",
+    "options": [
+      "1. UTF-8",
+      "2. UTF-10",
+      "3. UTF-28",
+      "4. UTF-48"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "अक्षरों को व्यक्त करने के लिए यूनिकोड में निम्नलिखित में से किस एनकोडिंग सिस्टम का उपयोग किया जाता है?",
+    "options": [
+      "1. UTF-8",
+      "2. UTF-10",
+      "3. UTF-28",
+      "4. UTF-48"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which keyboard shortcut among the following is used for opening the shortcut menu for the active window?",
+    "options": [
+      "1. Alt + Enter",
+      "2. Alt + Left Arrow",
+      "3. Alt + Spacebar",
+      "4. Alt + Page Up"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "सक्रिय विंडो (Active window) के लिए शॉर्टकट मेनू खोलने के लिए निम्नलिखित में से कौन से कीबोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Alt + Enter",
+      "2. Alt + Left Arrow",
+      "3. Alt + Spacebar",
+      "4. Alt + Page Up"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The second step in the process of mail merge is ______.",
+    "options": [
+      "1. select the starting document",
+      "2. select recipients",
+      "3. select document type",
+      "4. create"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "मेल मर्ज (merge) की प्रक्रिया में दूसरा चरण कौन सा होता है?",
+    "options": [
+      "1. प्रारंभिक डॉक्यूमेंट का चयन करें",
+      "2. प्राप्तकर्ताओं का चयन करना",
+      "3. डॉक्यूमेंट के प्रकार का चयन",
+      "4. क्रिएट"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which option is displayed first in the bullet library of Microsoft Word 2016?",
+    "options": [
+      "1. None",
+      "2. Circle",
+      "3. Disc",
+      "4. Square"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "माइक्रोसॉफ्ट Word 2016 की बुलेट लाइब्रेरी में कौन सा विकल्प पहले प्रदर्शित किया जाता है?",
+    "options": [
+      "1. None",
+      "2. Circle",
+      "3. Disc",
+      "4. Square"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Who among the following is an inventor of the Computer Mouse?",
+    "options": [
+      "1. Stephen Covey",
+      "2. Paul Allen",
+      "3. Douglas Engelbart",
+      "4. E Sreedharan"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन कंप्यूटर माउस का आविष्कारक है?",
+    "options": [
+      "1. स्टीफन कोवे (Stephen Covey)",
+      "2. पॉल एलन (Paul Allen)",
+      "3. डॉग्लस एंगेलबार्ट (Douglas Engelbart)",
+      "4. ई श्रीधरन (E Sreedharan)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In the Open File dialogue box, which types of files are selected to open by default?",
+    "options": [
+      "1. All files",
+      "2. All picture files",
+      "3. All Microsoft Word documents",
+      "4. Only text documents"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "ओपन फाइल डायलॉग बॉक्स में, डिफ़ॉल्ट रूप से खोलने के लिए किस प्रकार की फाइल का चयन किया जाता है?",
+    "options": [
+      "1. सभी फाइलों",
+      "2. सभी पिक्चर फाइलों",
+      "3. सभी माइक्रोसॉफ्ट वर्ड डाक्यूमेंट्स",
+      "4. केवल टेक्स्ट डाक्यूमेंट्स"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Page orientation will affect only the ______.",
+    "options": [
+      "1. height and width of the page",
+      "2. font style",
+      "3. font size",
+      "4. font colour"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "पेज ओरिएंटेशन केवल ______ को प्रभावित करेगा।",
+    "options": [
+      "1. पेज की ऊंचाई और चौड़ाई",
+      "2. फ़ॉन्ट के स्टाइल",
+      "3. फ़ॉन्ट के आकार",
+      "4. फ़ॉन्ट के रंग"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "How will you convert a Word file into a Notepad file?",
+    "options": [
+      "1. Open Save dialogue box –> Save file with extension .doc",
+      "2. Open file in Notepad",
+      "3. Open Save As dialogue box –> Select File type as Plain Text –> Save file",
+      "4. Open Save As dialogue box –> Click on File type –> Click on Notepad"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "आप वर्ड फ़ाइल को नोटपैड फ़ाइल में कैसे परिवर्तित करेंगे?",
+    "options": [
+      "1. सेव डॉयलॉग बॉक्स खोलें –>फाइल को .doc एक्सटेंशन के साथ सेव करें",
+      "2. फाइल को नोटपैड में खोलें",
+      "3. सेव एज डॉयलॉग बॉक्स खोलें –> फ़ाइल का प्‍लेन टेक्स्ट के रूप में चयन करें –>फाइल को सेव करें",
+      "4. सेव एज डॉयलॉग बॉक्स खोलें –> फ़ाइल के प्रकार पर क्लिक करें –> नोट पैड पर क्लिक करें"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Super and Subscripts are part of:",
+    "options": [
+      "1. the Paragraph group",
+      "2. the Font group",
+      "3. the Styles group",
+      "4. the Clipboard"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "सुपर और सब स्क्रिप्ट किसके हिस्से हैं?",
+    "options": [
+      "1. पैराग्राफ ग्रुप",
+      "2. फ़ॉन्ट ग्रुप",
+      "3. स्टाइल ग्रुप",
+      "4. क्लिपबोर्ड"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "FTP is used for file ______.",
+    "options": [
+      "1. sharing",
+      "2. editing",
+      "3. creation",
+      "4. saving"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "फ़ाइल की ______ के लिए FTP का उपयोग किया जाता है।",
+    "options": [
+      "1. शेयरिंग",
+      "2. एडिटिंग",
+      "3. क्रिएशन",
+      "4. सेविंग"
+    ],
+    "answer": 0
+  }
 ]
         
         };
