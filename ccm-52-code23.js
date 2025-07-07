@@ -16674,6 +16674,1048 @@
     ],
     "answer": 0
   }
+],
+  "02nd March 2023 - Shift1": [
+  {
+    "q": "Which of the following is a small graphical representation of a program, feature or file?",
+    "options": [
+      "1. Desktop",
+      "2. Driver",
+      "3. Screensaver",
+      "4. Icon"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "किसी प्रोग्राम, फ़ीचर या फ़ाइल का एक छोटा चित्रात्मक निरूपण निम्न में से क्या कहलाता है?",
+    "options": [
+      "1. डेस्कटॉप",
+      "2. ड्राईवर",
+      "3. स्क्रीन सेवर",
+      "4. आइकॉन"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following statements with reference to virtual keyboard is true?",
+    "options": [
+      "1. A virtual keyboard is a software that is used to emulate a standard keyboard.",
+      "2. Virtual keyboards are featured only in desktop computers.",
+      "3. Gboard is a virtual keyboard developed by Microsoft.",
+      "4. Virtual keyboards do not include letters and punctuation symbols."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "आभासी की-बोर्ड के संदर्भ में निम्न में से कौन सा कथन सत्य है?",
+    "options": [
+      "1. आभासी की-बोर्ड एक सॉफ्टवेयर है जिसका उपयोग मानक कीबोर्ड की तरह ही किया जाता है।",
+      "2. आभासी की-बोर्ड केवल डेस्कटॉप कंप्यूटर में प्रदर्शित होते हैं।",
+      "3. Gboard माइक्रोसॉफ्ट द्वारा बनाया गया एक आभासी की-बोर्ड है",
+      "4. आभासी की-बोर्ड में अक्षर और विराम चिह्न नहीं होते हैं।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following functions returns the average of the absolute deviations of data points from their mean in MS-Excel?",
+    "options": [
+      "1. ABSDEV function",
+      "2. DEVABS function",
+      "3. AVEDEV function",
+      "4. ADEVS function"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS Excel में कौन सा फंक्शन उनके माध्य से डेटा बिंदुओं के पूर्ण विचलन का औसत देता है?",
+    "options": [
+      "1. ABSDEV फंक्शन",
+      "2. DEVABS फंक्शन",
+      "3. AVEDEV फंक्शन",
+      "4. ADEVS फंक्शन"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "If you are using a Linux Operating System, which of the following symbol represents the top-level directory in the operating system?",
+    "options": [
+      "1. ~",
+      "2. @",
+      "3. #",
+      "4. /"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "यदि आप लिनक्स ऑपरेटिंग सिस्टम का उपयोग कर रहे हैं, तो निम्नलिखित में से कौन सा प्रतीक (symbol) ऑपरेटिंग सिस्टम में शीर्ष-स्तरीय निर्देशिका का प्रतिनिधित्व करता है?",
+    "options": [
+      "1. ~",
+      "2. @",
+      "3. #",
+      "4. /"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "First generation computers are based on which of the following technologies?",
+    "options": [
+      "1. Transistor",
+      "2. Vacuum tube",
+      "3. Integrated circuit",
+      "4. Microprocessor"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "पहली पीढ़ी के कंप्यूटर निम्न में से किस तकनीक पर आधारित थे?",
+    "options": [
+      "1. ट्रांजिस्टर",
+      "2. वैक्‍यूम टयूब",
+      "3. इंटीग्रेटेड सर्किट",
+      "4. माइक्रोप्रोसेसर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a program used mainly for creating documents such as brochures, letters, learning activities, quizzes, tests and students’ homework assignments?",
+    "options": [
+      "1. Presentation",
+      "2. Word processor",
+      "3. Spreadsheet",
+      "4. Database"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा प्रोग्राम मुख्य रूप से ब्रोशर, पत्र, सीखने की गतिविधियों, यों प्रश्नोत्तरी, परीक्षण और छात्रों के होमवर्क असाइनमेंट जैसे डाक्यूमेंट्स बनाने के लिए उपयोग किया जाता है?",
+    "options": [
+      "1. प्रेजेंटेशन",
+      "2. वर्ड प्रोसेसर",
+      "3. स्प्रेडशीट",
+      "4. डेटाबेस"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following languages is understood and executed by a computer?",
+    "options": [
+      "1. Machine language",
+      "2. Middle-level language",
+      "3. High-level language",
+      "4. Assembly language"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से कौन सी भाषा कंप्यूटर द्वारा समझी और निष्पादित की जाती है?",
+    "options": [
+      "1. मशीनी भाषा",
+      "2. मध्यम-स्तरीय भाषा",
+      "3. उच्च स्तरीय भाषा",
+      "4. असेंबली भाषा"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ does NOT require ultraviolet light but higher voltage, which can be applied to each memory cell separately instead of whole circuit.",
+    "options": [
+      "1. Programmable Read Only Memory",
+      "2. Erasable Programmable Read Only Memory",
+      "3. Electrically Erasable Programmable Read Only Memory",
+      "4. Flash memory"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "______ को पराबैंगनी प्रकाश की आवश्यकता नहीं होती है लेकिन उच्च वोल्टेज चाहिए होता है और इसे पूरे सर्किट पर नहीं बल्कि प्रत्येक मेमोरी सेल में अलग से आरोपित किया जा सकता है।",
+    "options": [
+      "1. प्रोग्रामेबल रीड ओनली मेमोरी",
+      "2. इरेजेबल प्रोग्रामेबल रीड ओनली मेमोरी",
+      "3. विद्युत रूप से इरेज़ेबल प्रोग्रामेबल रीड ओनली मेमोरी",
+      "4. फ्लैश मेमोरी"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The last digit in a barcode is called a check digit. This digit helps the scanner know if the barcode:",
+    "options": [
+      "1. is secure or not",
+      "2. was scanned correctly or not",
+      "3. is confidential or not",
+      "4. was modified or not"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "बारकोड की अंतिम संख्या को चेक डिजिट कहा जाता है। यह डिजिट किस बात की जांच करती है?",
+    "options": [
+      "1. कि बारकोड सुरक्षित है या नहीं",
+      "2. कि बारकोड सही ढंग से स्कैन किया गया है या नहीं",
+      "3. कि बारकोड गोपनीय है या नहीं",
+      "4. कि बारकोड संशोधित हुआ है या नहीं"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Biometric spoofing is a method by which a counterfeit mould emulates _______ of an individual to confuse the biometric scanner.",
+    "options": [
+      "1. biometric attributes",
+      "2. an identity card",
+      "3. an Aadhaar card",
+      "4. a PAN card"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "बायोमेट्रिक स्पूफिंग एक ऐसी विधि है जिसके तहत किसी व्यक्ति के/की ______ का एक नकली ढांचा तैयार किया जाता है ताकि बायोमेट्रिक स्कैनर को भ्रमित किया जा सके।",
+    "options": [
+      "1. बायोमेट्रिक विशेषताओं",
+      "2. पहचान प्रमाणपत्र",
+      "3. आधार कार्ड",
+      "4. पैन कार्ड"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "(A/An) USB port is used to connect ______ like cameras and scanners to a computer.",
+    "options": [
+      "1. peripherals",
+      "2. system softwares",
+      "3. bottlenecks",
+      "4. application softwares"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "(A/An) USB पोर्ट का उपयोग _______ जैसे कैमरे और स्कैनर को कंप्यूटर से कनेक्ट करने के लिए किया जाता है",
+    "options": [
+      "1. बाह्य उपकरणों (peripherals) णों",
+      "2. सिस्टम सॉफ्टवेयर (system softwares)",
+      "3. बाधाओं (bottlenecks) ओं",
+      "4. अनुप्रयोग सॉफ्टवेयर (application softwares)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "When we plug in a flash drive, the computer recognises it as:",
+    "options": [
+      "1. a disk drive",
+      "2. primary memory",
+      "3. read only memory",
+      "4. cache memory"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "जब हम फ्लैश ड्राइव में प्लग करते हैं, तो कंप्यूटर ______ के रूप में इसकी पहचान करता है।",
+    "options": [
+      "1. डिस्क ड्राइव",
+      "2. प्राइमरी मेमोरी",
+      "3. रीड ओनली मेमोरी",
+      "4. कैश मेमोरी"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A graphic tablet is also known as:",
+    "options": [
+      "1. a drawing tablet",
+      "2. a puck",
+      "3. a book-pad",
+      "4. a pantograph"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "ग्राफ़िक टैबलेट किस अन्य नाम से भी जाना जाता है?",
+    "options": [
+      "1. ड्रॉइंग टैबलेट",
+      "2. पक",
+      "3. बुक-पैड",
+      "4. पेंटोग्राफ़"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Select the option that arranges the given byte units in ascending order of size.<br>Gigabyte, Megabyte, Petabyte and Terabyte",
+    "options": [
+      "1. Megabyte, Gigabyte, Terabyte, Petabyte",
+      "2. Gigabyte, Megabyte, Petabyte, Terabyte",
+      "3. Megabyte, Petabyte, Gigabyte, Terabyte",
+      "4. Gigabyte, Megabyte, Terabyte, Petabyte"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "उस विकल्प का चयन कीजिए जिसमें निम्न बाइट इकाइयों को आरोही क्रम में व्यवस्थित किया गया है।<br>गीगाबाइट, मेगाबाइट, पेटाबाइट, टेराबाइट",
+    "options": [
+      "1. मेगाबाइट, गीगाबाइट, टेराबाइट, पेटाबाइट",
+      "2. गीगाबाइट, मेगाबाइट, पेटाबाइट, टेराबाइट",
+      "3. मेगाबाइट, पेटाबाइट, गीगाबाइट, टेराबाइट",
+      "4. गीगाबाइट, मेगाबाइट, टेराबाइट, पेटाबाइट"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "With reference to I/O devices of a computer, select the ODD one out.",
+    "options": [
+      "1. Keyboard",
+      "2. Computer speakers",
+      "3. Mouse",
+      "4. Joystick"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कंप्यूटर की I/O डिवाइसों के संदर्भ में, असंगत विकल्प का चयन कीजिए।",
+    "options": [
+      "1. की-बोर्ड",
+      "2. कंप्यूटर स्पीकर",
+      "3. माउस",
+      "4. जॉयस्टिक"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ is a way of gaining access to a network by imitating a different IP address.",
+    "options": [
+      "1. Address spoofing",
+      "2. App spoofing",
+      "3. IP spoofing",
+      "4. Email spoofing"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "_________, भिन्न IP एड्रेस का अनुकरण (नक़ल) कर किसी नेटवर्क तक पहुँच (एक्सेस) पाने का एक तरीका है।",
+    "options": [
+      "1. एड्रेस स्पूफ़िंग",
+      "2. ऐप स्पूफ़िंग",
+      "3. IP स्पूफ़िंग",
+      "4. ईमेल स्पूफ़िंग"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which printer is considered to be the workhorse of the office because of its capability to quickly print a large number of documents?",
+    "options": [
+      "1. Inkjet printer",
+      "2. Laser printer",
+      "3. Dot matrix printer",
+      "4. Chain printer"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "बड़ी संख्या में दस्तावेज़ों (ज़ों डोक्युमेंट) को शीघ्रता से प्रिंट करने की क्षमता के कारण किस प्रिंटर को कार्यालय का वर्कहॉर्स माना जाता है?",
+    "options": [
+      "1. इंकजेट प्रिंटर",
+      "2. लेज़र प्रिंटर",
+      "3. डॉट मैट्रिक्स प्रिंटर",
+      "4. चैन प्रिंटर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A multi-function printer acts as:",
+    "options": [
+      "1. a printer, copier, scanner and fax machine",
+      "2. a printer only",
+      "3. a fax machine and a printer",
+      "4. a scanner and a printer"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "बहु-कार्य (मल्टीफंक्शन) प्रिंटर किसके रूप में कार्य करता है?",
+    "options": [
+      "1. प्रिंटर, कॉपियर, स्कैनर, फैक्स मशीन के रूप में",
+      "2. केवल प्रिंटर के रूप में",
+      "3. फैक्स मशीन और प्रिंटर के रूप में",
+      "4. स्कैनर और प्रिंटर के रूप में"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A simulated device whose user interface and API resemble that of a printer driver, but which is not connected to a physical computer printer is called:",
+    "options": [
+      "1. a visual display unit",
+      "2. a universal serial bus",
+      "3. a virtual printer",
+      "4. a printer driver"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एक सिम्युलेटेड डिवाइस जिसका यूजर इंटरफेस और API एक प्रिंटर ड्राइवर से मिलता जुलता है, लेकिन जो एक भौतिक कंप्यूटर प्रिंटर से जुड़ा नहीं है, वह क्या कहलाता है?",
+    "options": [
+      "1. विज्युअल डिस्प्ले यूनिट",
+      "2. यूनिवर्सल सीरियल बस",
+      "3. वर्चुअल प्रिंटर",
+      "4. प्रिंटर ड्राइवर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "All printers come with one or more:",
+    "options": [
+      "1. soft fonts",
+      "2. hard fonts",
+      "3. virtual fonts",
+      "4. resident fonts"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "सभी प्रिंटर एक या अधिक ______ के साथ आते हैं।",
+    "options": [
+      "1. सॉफ्ट फ़ॉन्ट्स",
+      "2. हार्ड फ़ॉन्ट्स",
+      "3. वर्चुअल फ़ॉन्ट्स",
+      "4. रेसीडेंट फ़ॉन्ट्स"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following refers to the transmission or passage of information or message from a sender through a selected channel to a receiver, overcoming barriers that affect its pace?",
+    "options": [
+      "1. Printing",
+      "2. Software",
+      "3. Communication",
+      "4. Modulation"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, एक प्रेषक से एक चयनित चैनल के माध्यम से एक रिसीवर तक इसकी गति को प्रभावित करने वाली बाधाओं पर काबू पाकर सूचना या संदेश के प्रसारण या पसार होने को संदर्भित करता है?",
+    "options": [
+      "1. प्रिंटिंग",
+      "2. सॉफ्टवेयर",
+      "3. संचार",
+      "4. मॉडुलन"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "With reference to digital audio and video, MPEG stands for:",
+    "options": [
+      "1. Multiple Picture Experts Group",
+      "2. Motion Picture Experts Group",
+      "3. Moving Picture Experts Group",
+      "4. Moving Photographs Experts Group"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "डिजिटल ऑडियो और वीडियो के संदर्भ में, MPEG का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Multiple Picture Experts Group (मल्टीप्ल पिक्चर एक्सपर्ट्स ग्रुप)",
+      "2. Motion Picture Experts Group (मोशन पिक्चर एक्सपर्ट्स ग्रुप)",
+      "3. Moving Picture Experts Group (मूविंग पिक्चर एक्सपर्ट्स ग्रुप)",
+      "4. Moving Photographs Experts Group (मूविंग फोटोग्राफ्स एक्सपर्ट्स ग्रुप)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In image compression systems, a quantizer refers to which of the following?",
+    "options": [
+      "1. It transforms the original input data into a form that is more amenable to compression.",
+      "2. The codeword length is fixed, irrespective of the probability of occurrence of quantized symbols.",
+      "3. It assigns a code word, a binary bit-stream, to each symbol at the output of the quantizer.",
+      "4. It generates a limited number of symbols that can be used in the representation of the transformed signal."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "इमेज कंप्रेशन सिस्टम में, क्वांटाईज़र (quantizer) निम्नलिखित में से किसे संदर्भित करता है?",
+    "options": [
+      "1. यह मूल इनपुट डेटा को एक ऐसे रूप में बदल देता है जो संपीड़न के लिए अधिक उत्तरदायी है।",
+      "2. मात्रात्मक प्रतीकों के होने की संभावना के बावजूद, कोडवर्ड की लंबाई निश्चित है।",
+      "3. यह क्वांटाईज़र (quantizer) के आउटपुट पर प्रत्येक प्रतीक को एक कोड शब्द, एक बाइनरी बिट-स्ट्रीम एसाइन करता है।",
+      "4. यह सीमित संख्या में प्रतीकों को उत्पन्न करता है जिनका उपयोग रूपांतरित संकेत के निरूपण में किया जा सकता है।"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In Windows, with reference to default printer settings, when printing multiple copies, which of the following tabs of printer properties enables you to set the order of pages and whether to staple the pages, staple position, etc.?",
+    "options": [
+      "1. Page Setup",
+      "2. Finishing",
+      "3. Page Source",
+      "4. Quality"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "विंडोज़ में, डिफ़ॉल्ट प्रिंटर सेटिंग्स के संदर्भ में, कई प्रतियों को प्रिंट करते समय, प्रिंटर प्रॉपर्टी का निम्न में से कौन-सा टैब आपको पृष्ठों का क्रम निर्धारित करने में तथा पृष्ठों को स्टेपल करना है की नहीं यह निर्धारण हेतु, स्टेपल स्थिति, आदि में सक्षम बनाता है?",
+    "options": [
+      "1. पेज सेटअप (Page setup)",
+      "2. फ़िनिशिंग (Finishing)",
+      "3. पेज सोर्स (Page source)",
+      "4. क्वालिटी (Quality)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "With reference to the internet, what does IP stand for?",
+    "options": [
+      "1. Internet Product",
+      "2. Internet Procedure",
+      "3. Internet Protocol",
+      "4. Internet Path"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "इंटरनेट के संदर्भ में, IP का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Internet Product (इंटरनेट प्रोडक्ट)",
+      "2. Internet Procedure (इंटरनेट प्रोसीज़र)",
+      "3. Internet Protocol (इंटरनेट प्रोटोकॉल)",
+      "4. Internet Path (इंटरनेट पाथ)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following acts as an intermediary between a client and a server and is often used to isolate either the clients or servers for security purposes?",
+    "options": [
+      "1. Switch",
+      "2. Router",
+      "3. Firewall",
+      "4. Proxy server"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, क्लाइंट और सर्वर के बीच मध्यस्थ के रूप में कार्य करता है और अक्सर सुरक्षा उद्देश्यों के लिए क्लाइंट या सर्वर को अलग करने के लिए उपयोग किया जाता है?",
+    "options": [
+      "1. स्विच",
+      "2. राउटर",
+      "3. फ़ायरवॉल",
+      "4. प्रॉक्सी सर्वर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is a computer that hosts a website on the Internet?",
+    "options": [
+      "1. Web Server",
+      "2. Web Page",
+      "3. Search Engine",
+      "4. Web browser"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा एक कंप्यूटर है जो इंटरनेट पर एक वेबसाइट को होस्ट करता है?",
+    "options": [
+      "1. वेब सर्वर",
+      "2. वेब पेज",
+      "3. सर्च इंजन",
+      "4. वेब ब्राउज़र"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In a FAT 32 file system you CANNOT create _______.",
+    "options": [
+      "1. a partition larger than 16 GB",
+      "2. a partition larger than 8 GB",
+      "3. a partition larger than 4 GB",
+      "4. a partition larger than 32 GB"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "FAT 32 फ़ाइल सिस्टम में आप क्या नहीं बना सकते हैं?",
+    "options": [
+      "1. 16 GB से बड़ा विभाजन (partition)",
+      "2. 8 GB से बड़ा विभाजन (partition)",
+      "3. 4 GB से बड़ा विभाजन (partition)",
+      "4. 32 GB से बड़ा विभाजन (partition)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Machine language is also known as _______.",
+    "options": [
+      "1. High level language",
+      "2. Low level language",
+      "3. Object oriented language",
+      "4. Assembly language"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "मशीनी भाषा को ________ के रूप में भी जाना जाता है।",
+    "options": [
+      "1. उच्च स्तरीय भाषा",
+      "2. निम्न स्तरीय भाषा",
+      "3. ऑब्जेक्ट ओरिएंटेड भाषा",
+      "4. एसेम्बली भाषा"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following guided data transmission media uses the concept of reflection of light through a core made up of glass or plastic?",
+    "options": [
+      "1. Shielded Twisted Pair Cable",
+      "2. Coaxial Cable",
+      "3. Optical Fibre Cable",
+      "4. Unshielded Twisted Pair Cable"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा गाइडेड डेटा ट्रांसमिशन माध्यम (मिडिया), कांच या प्लास्टिक से बने कोर के माध्यम से प्रकाश के परावर्तन के सिद्धांत का प्रयोग करता है?",
+    "options": [
+      "1. शिल्डेड ट्विस्टेड पेयर केबल",
+      "2. कोएक्सिअल केबल",
+      "3. ओप्टिकल फाइबर केबल",
+      "4. अनशिल्डेड ट्विस्टेड पेयर केबल"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "___________ is a text or an icon that you can click on to get to another website.",
+    "options": [
+      "1. A citation",
+      "2. A hyperlink",
+      "3. A reference",
+      "4. An alias"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "किसी वेब पेज में मौजूद वह शब्द अथवा आइकॉन जिसपर क्लिक करके किसी अन्य वेबसाइट पर जाया जा सकता है, क्या कहलाता है?",
+    "options": [
+      "1. साइटेशन",
+      "2. हाइपरलिंक",
+      "3. रेफरेंस",
+      "4. एलिअस"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "WWW stands for:",
+    "options": [
+      "1. World Work Web",
+      "2. Wide Work Web",
+      "3. Wide World Web",
+      "4. World Wide Web"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "WWW का पूर्णरूप क्या है?",
+    "options": [
+      "1. वर्ल्ड वर्क वेब (World Work Web)",
+      "2. वाइड वर्क वेब (Wide Work Web)",
+      "3. वाइड वर्ल्ड वेब (Wide World Web)",
+      "4. वर्ल्ड वाइड वेब (World Wide Web)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "______ view in Google Calendar Labs gives a view of the whole year at once.",
+    "options": [
+      "1. List",
+      "2. Year",
+      "3. Personal",
+      "4. Periodic"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "गूगल कैलैंडर लैब्स का ________ व्यू एक बार में पूरे वर्ष का अवलोकन प्रदान करता है।",
+    "options": [
+      "1. लिस्ट",
+      "2. ईयर",
+      "3. पर्सनल",
+      "4. पीरियोडिक"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "By using which of the following options within the Home tab of MS-Word 2019 can you change all selected text into capital letters?",
+    "options": [
+      "1. CAPITAL",
+      "2. UPPER",
+      "3. ALL CAPS",
+      "4. UPPERCASE"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Word 2019 के होम टैब में निम्नलिखित में मौजूद किस विकल्प का उपयोग करके आप चयनित टेक्स्ट के सभी अक्षरों को बड़े अक्षरों में बदल सकते हैं?",
+    "options": [
+      "1. CAPITAL",
+      "2. UPPER",
+      "3. ALL CAPS",
+      "4. UPPERCASE"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "While sending an email there is a feature called 'CC'. What is its full form?",
+    "options": [
+      "1. Carbon Copy",
+      "2. Carbon Core",
+      "3. Carbon Care",
+      "4. Core Copy"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "ई-मेल भेजने के दौरान हमें 'CC' नामक एक फ़ीचर दिखता है। इसका पूर्णरूप क्या है?",
+    "options": [
+      "1. कार्बन कॉपी (Carbon Copy)",
+      "2. कार्बन कोर (Carbon Core)",
+      "3. कार्बन केयर (Carbon Care)",
+      "4. कोर कॉपी (Core Copy)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Many email systems use ___________ protocol to send messages from one server to another server.",
+    "options": [
+      "1. SMTP",
+      "2. ICMP",
+      "3. HTTP",
+      "4. ARP"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कई ई-मेल सिस्टम एक सर्वर से दूसरे सर्वर पर संदेश भेजने के लिए ___________ प्रोटोकॉल का उपयोग करते हैं।",
+    "options": [
+      "1. SMTP",
+      "2. ICMP",
+      "3. HTTP",
+      "4. ARP"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In order to provide the correct preview of a document being printed, MS-Word needs to know some details about the paper you're using such as the page ______ and orientation.",
+    "options": [
+      "1. margin",
+      "2. colour",
+      "3. break",
+      "4. size"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "डॉक्यूमेंट का सही पूर्वावलोकन प्राप्त करने के लिए, MS-Word को आपके द्वारा इस्तेमाल किए जा रहे पेपर के बारे में कुछ विवरण जानने की आवश्यकता है, जैसे पेज का ______ और अभिविन्यास।",
+    "options": [
+      "1. मार्जिन",
+      "2. रंग",
+      "3. ब्रेक",
+      "4. आकार"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Select the option that arranges the given steps to create a first line indent in correct order.<br><br>a) at the beginning of the first line<br>b) place your cursor<br>c) press the tab key<br>d) of the paragraph and",
+    "options": [
+      "1. b, a, d, c",
+      "2. b, a, c, d",
+      "3. b, d, a, c",
+      "4. a, b, d, c"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "पहली लाइन को इंडेंट करने के चरण नीचे दिए गए हैं। उस विकल्प का चयन कीजिए जिसमें इन चरणों का सही अनुक्रम दिया गया है।<br><br> a) पैराग्राफ़ की<br>b) अपना कर्सर<br>c) और टैब की दबाएं<br>d) पहली लाइन के आरंभ में रखें",
+    "options": [
+      "1. b, a, d, c",
+      "2. b, a, c, d",
+      "3. b, d, a, c",
+      "4. a, b, d, c"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Select the option that arranges the given steps of a sequence to apply an indent in MS-Word 2016 in the correct order.<br><br>a) Click on the very bottom of the indent marker<br>b) Hold the rectangle<br>c) To change the left indent<br>d) Drag it to a new position",
+    "options": [
+      "1. c, a, b, d",
+      "2. b, a, d, c",
+      "3. b, a, c, d",
+      "4. b, d, a, c"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Word 2016 में इंडेंट को सही क्रम में लागू करने के लिए अनुक्रम के दिए गए चरणों को व्यवस्थित करने वाले विकल्प का चयन करें।<br><br>a) इंडेंट मार्कर के बिल्कुल तल पर क्लिक करें<br>b) आयत को होल्ड करें<br>c) लेफ्ट इंडेंट पर परिवर्तित करने के लिए<br>d) इसे एक नई स्थिति (पोज़ीशन) में ड्रेग करें",
+    "options": [
+      "1. c, a, b, d",
+      "2. b, a, d, c",
+      "3. b, a, c, d",
+      "4. b, d, a, c"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following features of MS-Excel is used to join the selected cells into one larger cell and centres the content in the new cell?",
+    "options": [
+      "1. Merge and Center",
+      "2. Wrap text",
+      "3. Conditional formatting",
+      "4. Format as table"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel का निम्नलिखित में से कौन सा फ़ीचर चयनित सेल को एक बड़े सेल में जोड़ने के लिए उपयोग किया जाता है और यह कंटेंट को एक नए सेल में केंद्रित करता है?",
+    "options": [
+      "1. मर्ज एंड सेंटर",
+      "2. रैप टेक्स्ट",
+      "3. कंडीशनल फॉर्मेटिंग",
+      "4. फॉर्मेट एज़ टेबल"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following commands enables you to make multiple changes in an MS-Word 2010 document at once?",
+    "options": [
+      "1. Drop cap",
+      "2. Find",
+      "3. Replace all",
+      "4. Copy"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Word 2010 डॉक्यूमेंट में एक ही बार में कई सारे बदलाव करने के लिए निम्नलिखित में से किस कमांड का उपयोग किया जा सकता है?",
+    "options": [
+      "1. ड्राप कैप",
+      "2. फाइंड",
+      "3. रिप्लेस ऑल",
+      "4. कॉपी"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following check box options is avaialble under the catagory 'When correcting spelling in MS Office programs',in proofing options of MS-Word 2016.",
+    "options": [
+      "1. Ignore words in UPPERCASE",
+      "2. Ignore words in lowercase",
+      "3. Ignore words in UPPERCASE and symbols",
+      "4. Ignore words in lowercase and symbols"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा चेक बॉक्स विकल्प MS-Word 2016 के प्रूफिंग विकल्पों में 'जब MS ऑफिस प्रोग्राम में वर्तनी सुधार करते हैं' श्रेणी के अंतर्गत उपलब्ध होता है?",
+    "options": [
+      "1. अपरकेस में शब्दों को अनदेखा करें",
+      "2. लोअरकेस में शब्दों को अनदेखा करें",
+      "3. अपरकेस में प्रतीकों और शब्दों को अनदेखा करें",
+      "4. लोअरकेस में प्रतीकों और शब्दों को अनदेखा करें"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Turning off _________ does NOT eliminate the tracked changes that are already present in your MS-Word 2019 document.",
+    "options": [
+      "1. Track changes",
+      "2. Balloons",
+      "3. Show markup",
+      "4. Reviewing pane"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_______ को बंद करने से आपके MS-Word 2019 डॉक्यूमेंट में ट्रैक किए गए बदलाव समाप्त नहीं होते हैं।",
+    "options": [
+      "1. ट्रैक चेंज",
+      "2. बैलून्स",
+      "3. शो मार्कअप",
+      "4. रिव्युविंग पैन"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is the most appropriate definition of 'a footer' in MS-Word 2019?",
+    "options": [
+      "1. It is a section of a document that appears in the top margin.",
+      "2. It is an option that is available in the Mailings tab.",
+      "3. It is a section of a document that appears in the bottom margin.",
+      "4. It is a section of a document that appears in the left margin."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन सी MS-Word 2019 के 'फुटर' की सबसे उपयुक्त परिभाषा है?",
+    "options": [
+      "1. यह डॉक्यूमेंट का एक भाग है ऊपरी मार्जिन में दिखाई देता है।",
+      "2. यह एक विकल्प है जो मेलिंग टैब में उपलब्ध है।",
+      "3. यह डॉक्यूमेंट का एक भाग है जो निचले मार्जिन में दिखाई देता है।",
+      "4. यह डॉक्यूमेंट का एक भाग है जो बाएं मार्जिन में दिखाई देता है।"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The electronic pages seen on the internet are known as____.",
+    "options": [
+      "1. web pages",
+      "2. printed pages",
+      "3. hard copies",
+      "4. colour pages"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "इंटरनेट पर दिखने वाले इलेक्ट्रॉनिक पेज क्या कहलाते हैं?",
+    "options": [
+      "1. वेबपेज",
+      "2. मुद्रित पेज",
+      "3. हार्ड कॉपी",
+      "4. रंगीन पेज"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "There is(are) _____ option(s) under 'Select Recipients', which is the third step of mail merging of letters in MS-Word 2016.",
+    "options": [
+      "1. one",
+      "2. two",
+      "3. three",
+      "4. four"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Word 2016 में, 'प्राप्तकर्ता चुनें', जो पत्रों की मेल मर्जिंग (merging) का तीसरा चरण है, एसके अंतर्गत विकल्प (विकल्पों) की संख्या कितनी होती है?",
+    "options": [
+      "1. एक",
+      "2. दो",
+      "3. तीन",
+      "4. चार"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following keyboard shortcuts is used to make text italic in MS-Word 2019?",
+    "options": [
+      "1. Ctrl + I",
+      "2. Ctrl + B",
+      "3. Ctrl + U",
+      "4. Ctrl + Z"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Word 2019 में टेक्स्ट को इटैलिक बनाने के लिए किस की-बोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Ctrl + I",
+      "2. Ctrl + B",
+      "3. Ctrl + U",
+      "4. Ctrl + Z"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following options of File Menu will you choose to close a file in MS-Word 2016?",
+    "options": [
+      "1. Quit",
+      "2. Close",
+      "3. Exit",
+      "4. Return"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS word 2016 में फाइल को बंद करने के लिए आप फ़ाइल मेनू से किस विकल्‍प को चुनेंगे?",
+    "options": [
+      "1. क्विट",
+      "2. क्लोज",
+      "3. एग्जिट",
+      "4. रिटर्न"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the decimal equivalent of (10)₁₆?",
+    "options": [
+      "1. 16",
+      "2. 2",
+      "3. 1",
+      "4. 160"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निंम्नलिखित में से (10)₁₆ का दशमलव समकक्ष क्या है?",
+    "options": [
+      "1. 16",
+      "2. 2",
+      "3. 1",
+      "4. 160"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is true with reference to Versioning of files?",
+    "options": [
+      "1. It refers to saving old copies of your files with new names.",
+      "2. When creating new versions of your files, new files can have the same name.",
+      "3. Versioning will not help in retrieving a specific version of older files.",
+      "4. It refers to saving new copies of your file."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "फ़ाइलों के वर्ज़न के संदर्भ में निम्न में से कौन सा विकल्प सही है?",
+    "options": [
+      "1. यह आपकी फ़ाइलों की पुरानी प्रतियों को नए नामों से सेव करने को संदर्भित करता है।",
+      "2. आपकी फ़ाइलों के नए संस्करण बनाते समय, नई फ़ाइलों का एक ही नाम हो सकता है।",
+      "3. वर्जनिंग पुरानी फाइलों के विशिष्ट संस्करण को पुनः प्राप्त करने में मदद नहीं करेगा।",
+      "4. यह आपकी फ़ाइल की नई प्रतियों को सेव करने को संदर्भित करता है।"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is the most common position of subscripted text?",
+    "options": [
+      "1. Slightly below the baseline",
+      "2. Above the mid line",
+      "3. Above the top line",
+      "4. Slightly above the baseline"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन सी सबस्क्रिप्टेड टेक्स्ट की सबसे सामान्य स्थिति है?",
+    "options": [
+      "1. आधार रेखा से थोड़ा सा नीचे",
+      "2. मध्य रेखा के ऊपर",
+      "3. शीर्ष रेखा के ऊपर",
+      "4. आधार रेखा से थोड़ा सा ऊपर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The ____________ is comprised of hyperlinks linking trillions of pages and files to one another.",
+    "options": [
+      "1. World Wide Web",
+      "2. Web Server",
+      "3. Internet",
+      "4. WAN"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "____________ में हाइपरलिंक्स होते हैं जो खरबों पेजों और फाइलों को एक दूसरे से जोड़ते हैं।",
+    "options": [
+      "1. वर्ल्ड वाइड वेब",
+      "2. वेब सर्वर",
+      "3. इंटरनेट",
+      "4. WAN"
+    ],
+    "answer": 0
+  }
 ]
         
         };
