@@ -15633,7 +15633,7 @@
     "answer": 1
   }
 ],
-  "19th March 2023 - Shift2": [
+  "19th March 2023 - Shift1": [
   {
     "q": "The utility used to increase the speed of programs on Windows OS is called:",
     "options": [
