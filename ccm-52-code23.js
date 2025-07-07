@@ -11464,6 +11464,1048 @@
     ],
     "answer": 1
   }
+],
+   "14th May 2023 - Shift1": [
+  {
+    "q": "In Windows, which of the following is a power-saving state?",
+    "options": [
+      "1. Log off",
+      "2. Sleep",
+      "3. Restart",
+      "4. Lock"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "विंडोज में, निम्नलिखित में से कौन-सी, पॉवर-बचत (power-saving) स्थिति है?",
+    "options": [
+      "1. लॉग ऑफ",
+      "2. स्लीप",
+      "3. रीस्टार्ट",
+      "4. लॉक"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In order to move from one worksheet to another in MS-Excel workbook, one should click:",
+    "options": [
+      "1. Active cell",
+      "2. Scroll bar",
+      "3. Sheet tab",
+      "4. Tab button"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel वर्कबुक में एक वर्कशीट से दूसरी वर्कशीट पर जाने के लिए, निम्‍न में से किसको क्लिक करना चाहिए?",
+    "options": [
+      "1. सक्रिय (Active) सेल",
+      "2. स्क्रॉल बार",
+      "3. शीट टैब",
+      "4. टैब बटन"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is a point-and-draw device?",
+    "options": [
+      "1. Mouse",
+      "2. Scanner",
+      "3. Printer",
+      "4. CD-ROM"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "इनमे से कौन-सा पॉइंट-एंड-ड्रॉ डिवाइस है?",
+    "options": [
+      "1. माउस",
+      "2. स्कैनर",
+      "3. प्रिंटर",
+      "4. CD-ROM"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In Linux, which files contains configuration files specific to the machine?",
+    "options": [
+      "1. /lib",
+      "2. /usr",
+      "3. /dev",
+      "4. /etc"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "लिनक्स (Linux) में, कौन-सी फाइल में मशीन के लिए विशिष्ट (निर्दिष्ट), कॉन्फिगरेशन फाइलें होती है?",
+    "options": [
+      "1. /lib",
+      "2. /usr",
+      "3. /dev",
+      "4. /etc"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is a system software?",
+    "options": [
+      "1. Linux",
+      "2. MS-Word",
+      "3. MS-Excel",
+      "4. Tally"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, एक सिस्टम सॉफ्टवेयर है?",
+    "options": [
+      "1. लिनक्स (Linux)",
+      "2. एमएस-वर्ड (MS-Word)",
+      "3. एमएस-एक्सेल (MS-Excel)",
+      "4. टैली (Tally)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A Daisy Wheel printer is a type of ______ printer.",
+    "options": [
+      "1. line",
+      "2. character",
+      "3. laser",
+      "4. inkjet"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "डेज़ी व्हील प्रिंटर, एक प्रकार का ______ प्रिंटर है।",
+    "options": [
+      "1. लाइन",
+      "2. कैरेक्टर",
+      "3. लेज़र",
+      "4. इंकजेट"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which function returns the harmonic mean in MS-Excel?",
+    "options": [
+      "1. HMEAN function",
+      "2. HRMEAN function",
+      "3. HARMEAN function",
+      "4. HRMMEAN function"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel में कौन-सा फंक्शन हार्मोनिक माध्य (harmonic mean) देता है?",
+    "options": [
+      "1. HMEAN फंक्शन",
+      "2. HRMEAN फंक्शन",
+      "3. HARMEAN फंक्शन",
+      "4. HRMMEAN फंक्शन"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following memories is a special high-speed memory that temporarily stores instructions and data the CPU is likely to use frequently?",
+    "options": [
+      "1. Hard disk",
+      "2. Flash chip",
+      "3. Cache",
+      "4. Compact disc"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सी मेमोरी एक विशेष हाई-स्पीड मेमोरी है जो अस्थायी रूप से निर्देशों (इंस्ट्रक्शंस) और डेटा को संग्रहीत करती है जिसे CPU अक्सर (बहुधा) उपयोग कर सकता है?",
+    "options": [
+      "1. हार्ड डिस्क",
+      "2. फ्लैश चिप",
+      "3. कैश",
+      "4. कॉम्पैक्ट डिस्क"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Select the most appropriate option to fill the blank space in the diagram.<br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWx2CQIyYHuOdrabrUa1dKJpMiB2Ytpz96WKw6k0CwVCKUz4ii9VBioeTzKc02AvIJhkGDwsTN8dzZr0jIrxBqBHDbCKBGsYcsekN2_R2DawMWHojpifSTTN553tXjpIlxVZGbbCAUjIUARJokfc8EcLtzfuL5WdhrwuJr44LGzm51H_LALi0q4vHjARtp/s320/025%20gh.jpg\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. ROM",
+      "2. Memory",
+      "3. CPU",
+      "4. Storage"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "आरेख में रिक्‍त स्‍थान को भरने के लिए सबसे उपयुक्‍त विकल्‍प का चयन करें।  <br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWx2CQIyYHuOdrabrUa1dKJpMiB2Ytpz96WKw6k0CwVCKUz4ii9VBioeTzKc02AvIJhkGDwsTN8dzZr0jIrxBqBHDbCKBGsYcsekN2_R2DawMWHojpifSTTN553tXjpIlxVZGbbCAUjIUARJokfc8EcLtzfuL5WdhrwuJr44LGzm51H_LALi0q4vHjARtp/s320/025%20gh.jpg\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. ROM",
+      "2. मेमोरी",
+      "3. CPU",
+      "4. स्टोरेज"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The area which holds a rotary tool that will cut the shapes, web material, sheets is known as ________.",
+    "options": [
+      "1. an arm",
+      "2. a gear",
+      "3. a station",
+      "4. a break"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "आकृतियां, वेब सामग्री, शीटों आदि को काटने वाली रोटरी डिवाइस को होल्ड करने वाला भाग इनमें से क्या कहलाता है?",
+    "options": [
+      "1. आर्म",
+      "2. गियर",
+      "3. स्टेशन",
+      "4. ब्रेक"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "One kilobyte is equal to how many bytes?",
+    "options": [
+      "1. 2²⁰",
+      "2. 2¹⁰",
+      "3. 2³⁰",
+      "4. 2⁴⁰"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक किलोबाइट कितने बाइट के बराबर होता है?",
+    "options": [
+      "1. 2²⁰",
+      "2. 2¹⁰",
+      "3. 2³⁰",
+      "4. 2⁴⁰"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The communication between a card and a card reader takes place through direct coupling. This leads to:",
+    "options": [
+      "1. portability",
+      "2. reliability",
+      "3. security",
+      "4. efficiency"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "डायरेक्ट कपलिंग का उपयोग करके कार्ड और कार्ड रीडर के बीच संचार किया जाता है। इससे क्या होता/होती है?",
+    "options": [
+      "1. सुवाह्यता (पोर्टेबिलिटी)",
+      "2. विश्वसनीयता (रिलाइबिलिटी)",
+      "3. सुरक्षा (सिक्योरिटी)",
+      "4. दक्षता (एफिशिएएंसी)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following computers is used for applications such as scientific simulations, graphics, fluid dynamic calculations, nuclear energy research, electronic design, and analysis of geological data?",
+    "options": [
+      "1. Mini Computer",
+      "2. Mainframe Computer",
+      "3. Micro Computer",
+      "4. Super Computer"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा कंप्यूटर, वैज्ञानिक सिम्युलेशन, ग्राफिक्स , तरल गतिकी गणना, परमाणु ऊर्जा अनुसंधान, इलेक्ट्रॉनिक डिज़ाइन और भूवैज्ञानिक डेटा के विश्लेषण जैसे अनुप्रयोगों के लिए उपयोग किया जाता है?",
+    "options": [
+      "1. मिनी कंप्यूटर",
+      "2. मेनफ़्रेम कंप्यूटर",
+      "3. माइक्रो कंप्यूटर",
+      "4. सुपर कंप्यूटर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "______ bits are used for error detection during data transmission or storage.",
+    "options": [
+      "1. Parity",
+      "2. Start",
+      "3. Stop",
+      "4. Negative"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "डेटा ट्रांसमिशन या स्टोरेज के दौरान त्रुटि का पता लगाने के लिए ________ बिट्स का उपयोग किया जाता है।",
+    "options": [
+      "1. पैरिटी",
+      "2. स्टार्ट",
+      "3. स्टॉप",
+      "4. नेगेटिव"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A CPU cycle time is __________.",
+    "options": [
+      "1. the time taken by the first bit to travel from sender to receiver end of the link",
+      "2. the time taken for a hard disk controller to locate a specific piece of stored data",
+      "3. the total amount of time it takes to respond to a request for service",
+      "4. the time required for the execution of one simple machine instruction"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "एक CPU चक्र समय होता है:",
+    "options": [
+      "1. प्रेषक से लिंक के रिसीवर छोर तक यात्रा करने के लिए पहली बिट द्वारा लिया गया समय",
+      "2. हार्ड डिस्क कंट्रोलर के लिए संग्रहीत डेटा के एक विशिष्ट भाग को लोकेट (locate) करने में लगने वाला समय",
+      "3. सेवा के अनुरोध का जवाब देने में लगने वाला कुल समय",
+      "4. एक साधारण मशीन निर्देश (इंस्ट्रक्शन) को निष्पादित करने के लिए आवश्यक समय"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In terms of computer security, ACL stands for:",
+    "options": [
+      "1. Access Computer List",
+      "2. Access Command List",
+      "3. Access Control List",
+      "4. Access Create List"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "कंप्यूटर सुरक्षा के संदर्भ में ACL का पूर्णरूप क्या है?",
+    "options": [
+      "1. Access Computer List (एक्सेस कंप्यूटर लिस्ट)",
+      "2. Access Command List (एक्सेस कमांड लिस्ट)",
+      "3. Access Control List (एक्सेस कंट्रोल लिस्ट)",
+      "4. Access Create List (एक्सेस क्रिएट लिस्ट)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following teams created the protocol that made it possible to connect content on the web using hyperlinks?",
+    "options": [
+      "1. CERN",
+      "2. WWW",
+      "3. ARPA",
+      "4. GOOGLE"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से किस टीम ने उस प्रोटोकॉल को निर्मित किया जिसने हाइपरलिंक का उपयोग करके वेब पर सामग्री कनेक्ट करना संभव बना दिया?",
+    "options": [
+      "1. CERN",
+      "2. WWW",
+      "3. ARPA",
+      "4. GOOGLE"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following printers is costly?",
+    "options": [
+      "1. Dot matrix printer",
+      "2. Inkjet printer",
+      "3. Character printer",
+      "4. Laser printer"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा प्रिंटर महंगा होता है?",
+    "options": [
+      "1. डॉट मैट्रिक्स प्रिंटर",
+      "2. इंकजेट प्रिंटर",
+      "3. कैरेक्टर प्रिंटर",
+      "4. लेज़र प्रिंटर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is the purpose of a printer buffer or spooler?",
+    "options": [
+      "1. It holds the memory location of the information to print.",
+      "2. It holds the address of the information to print.",
+      "3. It holds the information to print.",
+      "4. it holds the margin details of the content to print"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "प्रिंटर बफर या स्पूलर का काम क्या है?",
+    "options": [
+      "1. इसमें प्रिंट की जाने वाली इनफार्मेशन की मेमोरी लोकेशन होती है।",
+      "2. इसमें प्रिंट की जाने वाली इनफार्मेशन का एड्रेस होता है।",
+      "3. इसमें प्रिंट करने के लिए इनफार्मेशन होती है।",
+      "4. इसमें प्रिंट किये जाने वाले डाक्यूमेंट्स के मार्जिन संबंधी विवरण होता है।"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is NOT a printer?",
+    "options": [
+      "1. Inkjet printer",
+      "2. Laser printer",
+      "3. Dot matrix printer",
+      "4. Screen printer"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा प्रिंटर नहीं है?",
+    "options": [
+      "1. इंकजेट प्रिंटर",
+      "2. लेज़र प्रिंटर",
+      "3. डॉट मैट्रिक्स प्रिंटर",
+      "4. स्क्रीन प्रिंटर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The cold boot process is generally initiated by:",
+    "options": [
+      "1. pressing ALT + CTRL + DEL together",
+      "2. pressing ALT + CTRL + TAB together",
+      "3. turning on the PC",
+      "4. using the Start menu of Windows"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "कोल्ड बूट प्रक्रिया आमतौर पर _______ द्वारा शुरू की जाती है।",
+    "options": [
+      "1. ALT + CTRL + DEL को एक साथ दबाकर",
+      "2. ALT + CTRL + TAB बटन को एकसाथ दबाकर",
+      "3. पीसी को चालू करके",
+      "4. Windows केस्टार्ट मेनू का उपयोग करके"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which printer produces comparatively low quality images?",
+    "options": [
+      "1. Laser",
+      "2. Dot matrix",
+      "3. 3D",
+      "4. LED"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कौन सा प्रिंटर तुलनात्मक रूप से कम गुणवत्ता वाली इमेज बनाता है?",
+    "options": [
+      "1. लेज़र",
+      "2. डॉट मैट्रिक्स",
+      "3. 3D",
+      "4. LED"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is NOT a type of redundancy used in image compression?",
+    "options": [
+      "1. Psycho-visual redundancy",
+      "2. Inter-pixel redundancy",
+      "3. Programming redundancy",
+      "4. Coding redundancy"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्न में से कौन सा इमेज संपीडन में उपयोग की जाने वाली अतिरेकता (redundancy) का एक प्रकार नहीं है?",
+    "options": [
+      "1. साइको-विजुअल अतिरेकता",
+      "2. इंटर-पिक्सल अतिरेकता",
+      "3. प्रोग्रामिंग अतिरेकता",
+      "4. कोडिंग अतिरेकता"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "There is no compression with _____ files which allow images to have very high quality, but also very large file sizes.",
+    "options": [
+      "1. JPEG",
+      "2. BMP",
+      "3. GIF",
+      "4. PNG"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ऐसी ______ फाइलें जो बहुत उच्च क्‍वालिटी की और आकार में बहुत बड़ी होती हैं, उनका संपीडन (कम्प्रेसन) नहीं हो पाता है।",
+    "options": [
+      "1. JPEG",
+      "2. BMP",
+      "3. GIF",
+      "4. PNG"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following could be the problem if your printer is printing but there are no characters/contents seen on the page?",
+    "options": [
+      "1. You installed the wrong printer driver.",
+      "2. There might be no ink in the cartridge.",
+      "3. The cable is disconnected or broken.",
+      "4. The paper quality is bad."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "यदि आपका प्रिंटर मुद्रण तो कर रहा हो लेकिन पृष्ठ पर कोई अक्षर/कंटेंट दिखाई न दे, तो क्या समस्या हुई है?",
+    "options": [
+      "1. आपने गलत प्रिंटर ड्राइवर इंस्टाल किया है।",
+      "2. हो सकता है कार्ट्रिज में स्याही न हो।",
+      "3. केबल हट गया है या टूट गया है।",
+      "4. कागज़ की गुणवत्ता खराब है।"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In cryptographic algorithm, ______ does NOT have a key.",
+    "options": [
+      "1. secret key algorithm",
+      "2. public key algorithm",
+      "3. hash function",
+      "4. popular key algorithm"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "क्रिप्टोग्राफिक एल्गोरिदम के ______ में कोई की नहीं होती है।",
+    "options": [
+      "1. सीक्रेट की एल्गोरिदम",
+      "2. पब्लिक की एल्गोरिदम",
+      "3. हैश फंक्शन",
+      "4. पॉपुलर की एल्गोरिदम"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The display of a monitor is rotated. What could be the solution to fix the display?",
+    "options": [
+      "1. Press Ctrl + Alt + the appropriate arrow key",
+      "2. Press Shift + Alt + Up arrow key",
+      "3. Press Shift + Alt + the appropriate arrow key",
+      "4. Press Shift + Ctrl + Alt + the appropriate arrow key"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "मॉनिटर का डिस्प्ले घूम गया गया है। इस समस्या को ठीक करने के लिए क्या करना होगा?",
+    "options": [
+      "1. Ctrl + Alt + उपयुक्त एरो की दबाएं",
+      "2. Shift + Alt + up arrow की दबाएं",
+      "3. Shift + Alt + उपयुक्त एरो की दबाएं",
+      "4. Shift + Ctrl + Alt + उपयुक्त एरो की दबाएं"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT a communication system call of Windows?",
+    "options": [
+      "1. CreatePipe( )",
+      "2. CreateFileMapping( )",
+      "3. Pipe( )",
+      "4. MapViewOfFile( )"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्न में से कौन सा Windows का एक कम्युनिकेशन सिस्टम कॉल नहीं है?",
+    "options": [
+      "1. CreatePipe( )",
+      "2. CreateFileMapping( )",
+      "3. Pipe( )",
+      "4. MapViewOfFile( )"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the decimal equivalent of given Hexadecimal number (128)₁₆?",
+    "options": [
+      "1. 296",
+      "2. 80",
+      "3. 196",
+      "4. 800"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "दी गई हेक्साडेसिमल संख्या (128)₁₆ का दशमलव समतुल्य क्या है?",
+    "options": [
+      "1. 296",
+      "2. 80",
+      "3. 196",
+      "4. 800"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "PAN connects computers/devices within the range of an individual person.<br>In the context of computed networks, PAN stands for:",
+    "options": [
+      "1. Personal Area Network",
+      "2. Private Area Network",
+      "3. Public Area Network",
+      "4. Protected Area Network"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "PAN, व्यक्ति की सीमा के भीतर कंप्यूटर/उपकरणों को जोड़ता है।<br>कम्प्युटेड नेटवर्क के इस संदर्भ में, PAN का पूर्णरूप है:",
+    "options": [
+      "1. पर्सनल एरिया नेटवर्क (Personal Area Network )",
+      "2. प्राइवेट एरिया नेटवर्क (Private Area Network)",
+      "3. पब्लिक एरिया नेटवर्क (Public Area Network)",
+      "4. प्रोटेक्टेड एरिया नेटवर्क (Protected Area Network)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ is the abuse of electronic messaging systems (including most broadcast media, digital delivery systems) to send unsolicited bulk messages indiscriminately.",
+    "options": [
+      "1. Spam",
+      "2. Lurk",
+      "3. Flame",
+      "4. Spark"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_______, इलेक्ट्रॉनिक मैसेजिंग सिस्टम (अधिकांश प्रसारण मीडिया, डिजिटल डिलीवरी सिस्टम सहित) का दुरुपयोग है जिसमें अनचाहे थोक संदेशों को अंधाधुंध रूप से भेजा जाता है।",
+    "options": [
+      "1. स्पैम (Spam)",
+      "2. लर्क (Lurk)",
+      "3. फ्लेम (Flame)",
+      "4. स्पार्क (Spark)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ option in Google Bar shows all the apps that you can switch to using your Gmail account.",
+    "options": [
+      "1. Google Apps",
+      "2. Google System",
+      "3. Google Task",
+      "4. Google Title"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "गूगल बार में _______ विकल्प उन सभी ऐप्स को दिखाता है जिन्हें आप अपने Gmail अकाउंट का प्रयोग कर अदल-बदल (स्विच) कर सकते हैं।",
+    "options": [
+      "1. गूगल ऐप्स (Google Apps)",
+      "2. गूगल सिस्टम (Google System)",
+      "3. गूगल टास्क (Google Task)",
+      "4. गूगल टाइटल (Google Title)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Mosaic is:",
+    "options": [
+      "1. a web browser",
+      "2. a programming language",
+      "3. an accounting software",
+      "4. an ERP software"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "मोज़ेक (Mosaic) एक ______ है।",
+    "options": [
+      "1. वेब ब्राउज़र",
+      "2. प्रोग्रामिंग भाषा",
+      "3. लेखांकन सॉफ्टवेयर",
+      "4. ERP सॉफ्टवेयर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following about SRAM is true with reference to computer memory?",
+    "options": [
+      "1. SRAM is less expensive than DRAM.",
+      "2. SRAM is to be periodically refreshed.",
+      "3. SRAM retains data bits in its memory even when power is off.",
+      "4. SRAM is a random access memory."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कंप्यूटर मेमोरी के संदर्भ में, SRAM के बारे में निम्नलिखित में से कौन-सा सत्य है?",
+    "options": [
+      "1. SRAM, DRAM से कम महंगी है।",
+      "2. SRAM को समय-समय पर रिफ्रेश करना होता है।",
+      "3. बिजली बंद होने पर भी SRAM अपनी मेमोरी में डेटा बिट्स को बरकरार रखती है।",
+      "4. SRAM एक रैंडम एक्सेस मेमोरी है।"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "If there are ‘p’ number of capital letters and ‘q’ number of small letters, after applying the toggle case option of change case list there will be ______ number of capital letters and ______ number of small letters.",
+    "options": [
+      "1. p, p",
+      "2. q, q",
+      "3. p, q",
+      "4. q, p"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "यदि केपिटल अक्षरों की 'p' संख्या और छोटे अक्षरों की 'q' संख्या है, चेंज केस लिस्ट के टॉगल केस विकल्प को लागू करने के बाद, तो ______ केपिटल अक्षरों की संख्या और ______ छोटे अक्षरों की संख्या होगी।",
+    "options": [
+      "1. p, p",
+      "2. q, q",
+      "3. p, q",
+      "4. q, p"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "There are ______ section breaks in 'Breaks' option of Page Setup group of Layout tab in MS-Word?",
+    "options": [
+      "1. 2",
+      "2. 3",
+      "3. 4",
+      "4. 5"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Word में लेआउट टैब के पेज सेटअप ग्रुप के विकल्प 'ब्रेक्स (Breaks)' में ______ सेक्शन ब्रेक होते हैं?",
+    "options": [
+      "1. 2",
+      "2. 3",
+      "3. 4",
+      "4. 5"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following displays the address of the current active cell in an MS-Excel work sheet?",
+    "options": [
+      "1. Name box",
+      "2. Formula bar",
+      "3. Menu bar",
+      "4. Tool bar"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, MS-Excel वर्कशीट में वर्तमान सक्रिय सेल का पता (एड्रेस) प्रदर्शित करता है?",
+    "options": [
+      "1. नेम बोक्स",
+      "2. फॉर्मूला बार",
+      "3. मेनू बार",
+      "4. टूल बार"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Preventing unauthorised access to programs and data refers to which of the following Operating System’s function?",
+    "options": [
+      "1. Control over system performance",
+      "2. Device management",
+      "3. File management",
+      "4. Security"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "प्रोग्राम और डेटा तक अनधिकृत पहुंच (एक्सेस) को रोकना निम्नलिखित में से किस, ऑपरेटिंग सिस्टम के कार्य को संदर्भित करता है?",
+    "options": [
+      "1. सिस्टम प्रदर्शन पर नियंत्रण",
+      "2. डिवाइस मैनेजमेंट",
+      "3. फ़ाइल मैनेजमेंट",
+      "4. सिक्योरिटी"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In MS-Word, while working on a document, to make sure that every name of the day will NOT be capitalised in a sentence, then which of the checkbox options has to be unchecked?",
+    "options": [
+      "1. Correct two initial capitals",
+      "2. Capitalise first letter of sentences",
+      "3. Capitalise first letter of table cells",
+      "4. Capitalise names of days"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Word में, डोक्युमेंट पर काम करते समय, यह सुनिश्चित करने के लिए कि दिन के हर नाम को वाक्य में कैपिटलाइज़ नहीं किया जाएगा, तो किस चेकबॉक्स विकल्प को अनचेक करना होगा?",
+    "options": [
+      "1. Correct two initial capitals",
+      "2. Capitalise first letter of sentences",
+      "3. Capitalise first letter of table cells",
+      "4. Capitalise names of days"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The ______ option in the Proofing tab provides the option to count the number of paragraphs in a document in MS-Word.",
+    "options": [
+      "1. Count Paragraphs",
+      "2. Word Count",
+      "3. Paragraph Count",
+      "4. Page Count"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "अशुद्धि जांच (प्रूफिंग) टैब में _________विकल्प MS-Word में, डोक्युमेंट में पैराग्राफ की संख्या गिनने का विकल्प प्रदान करता है।",
+    "options": [
+      "1. काउंट पैराग्राफ्स (Count Paragraphs)",
+      "2. वर्ड काउंट (Word Count)",
+      "3. पैराग्राफ काउंट (Paragraph Count)",
+      "4. पेज काउंट (Page Count)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following with respect to Unix Operating System is FALSE?",
+    "options": [
+      "1. It is a stable Operating System.",
+      "2. It is a multi user Operating System.",
+      "3. It is a multi tasking Operating System.",
+      "4. It does not provide Graphical User Interface."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा यूनिक्स ऑपरेटिंग सिस्टम के संबंध में गलत (FALSE) है?",
+    "options": [
+      "1. यह एक स्थिर ऑपरेटिंग सिस्टम है।",
+      "2. यह एक मल्टी यूजर ऑपरेटिंग सिस्टम है।",
+      "3. यह एक मल्टी टास्किंग ऑपरेटिंग सिस्टम है।",
+      "4. यह ग्राफिकल यूजर इंटरफेस प्रदान नहीं करती है।"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following refers to the products that are designed to satisfy a particular need of a particular environment?",
+    "options": [
+      "1. Application software",
+      "2. Device drivers",
+      "3. Firmware",
+      "4. Operating system"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, उन उत्पादों को संदर्भित करता है जो किसी विशेष वातावरण की विशेष आवश्यकता को पूरा करने के लिए डिज़ाइन किए गए हैं?",
+    "options": [
+      "1. एप्लीकेशन सॉफ्टवेयर",
+      "2. डिवाइस ड्राइवर्स",
+      "3. फर्मवेयर",
+      "4. ऑपरेटिंग सिस्टम"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Show Markup' option is available in which of the following groups of Review tab in MS-Word?",
+    "options": [
+      "1. Speech",
+      "2. Proofing",
+      "3. Comments",
+      "4. Tracking"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "शो मार्कअप (Show Markup)' विकल्प , MS-Word में रिव्यु टैब के निम्न में से किस समूह में उपलब्ध है?",
+    "options": [
+      "1. स्पीच (Speech)",
+      "2. प्रूफिंग (Proofing)",
+      "3. कमैंट्स (Comments)",
+      "4. ट्रैकिंग (Tracking)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is the shortcut key to justify the text in an MS-Word document?",
+    "options": [
+      "1. Ctrl + R",
+      "2. Ctrl + J",
+      "3. Ctrl + T",
+      "4. Ctrl + L"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Word डोक्युमेंट में टेक्स्ट को जस्टिफाय करने के लिए निम्न में से कौन-सी शॉर्टकट कुंजी है?",
+    "options": [
+      "1. Ctrl + R",
+      "2. Ctrl + J",
+      "3. Ctrl + T",
+      "4. Ctrl + L"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Select the FALSE envelope size in the mail merge process from the given Envelope Options in MS Word.",
+    "options": [
+      "1. B4",
+      "2. B5",
+      "3. B6",
+      "4. B7"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Word में दिए गए एन्वेलप विकल्पों में से मेल मर्ज प्रक्रिया में गलत (FALSE) एन्वेलप साइज़ का चयन करें।",
+    "options": [
+      "1. B4",
+      "2. B5",
+      "3. B6",
+      "4. B7"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "There is/are ______ tab(s) in the Envelopes options dialogue box in mail merge.",
+    "options": [
+      "1. 1",
+      "2. 2",
+      "3. 3",
+      "4. 4"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "मेल मर्ज (mail merge) में एन्वे लप विकल्प डायलाग बॉक्स में टैब की संख्या कितनी होती है?",
+    "options": [
+      "1. 1",
+      "2. 2",
+      "3. 3",
+      "4. 4"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In MS-Word, to use other than existing names and addresses from a file or database or to create a new list the _______ radio button has to be enabled in the third step of mail merging the email messages.",
+    "options": [
+      "1. Use an existing list",
+      "2. Select from Outlook Contacts",
+      "3. Type a new list",
+      "4. Import the list"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Word में, फ़ाइल या डेटाबेस से मौजूदा नामों और पतों (एड्रेस) के अलावा अन्य का उपयोग करने के लिए या एक नई सूची बनाने के लिए, ईमेल संदेशों के मेल मर्जिंग (merging) के तीसरे चरण में किस रेडियो बटन का सक्षम (enabled) होना जरूरी है?",
+    "options": [
+      "1. मौजूदा सूची का उपयोग करें (Use an existing list)",
+      "2. Outlook संपर्क से चुनें (Select from Outlook Contacts)",
+      "3. एक नई सूची टाइप करें (Type a new list)",
+      "4. सूची इम्पोर्ट करें (Import the list)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following groups is NOT available in Insert tab of MS-Word?",
+    "options": [
+      "1. Pages",
+      "2. Tables",
+      "3. Illustrations",
+      "4. Paragraphs"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा समूह, MS-Word के इन्सर्ट टैब में उपलब्ध नहीं है?",
+    "options": [
+      "1. पेजिज़ (Pages)",
+      "2. टेबल्स (Tables)",
+      "3. इल्लु स्ट्रेशन्स (Illustrations)",
+      "4. पैराग्राफ्स (Paragraphs)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The Format Painter option in MS-PowerPoint is found in which of the following tabs?",
+    "options": [
+      "1. Design",
+      "2. View",
+      "3. Insert",
+      "4. Home"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-PowerPoint में फ़ॉर्मेट पेंटर विकल्प निम्न में से किस टैब में पाया जाता है?",
+    "options": [
+      "1. डिज़ाइन (Design)",
+      "2. व्यू (View)",
+      "3. इन्सर्ट (Insert)",
+      "4. होम (Home)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following system software programs is/are intended for diagnostic and maintenance tasks of the computer?",
+    "options": [
+      "1. Device drivers",
+      "2. Firmware",
+      "3. Utilities",
+      "4. Operating system"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा सिस्टम सॉफ्टवेयर प्रोग्राम, कंप्यूटर के डायग्नोस्टिक और रखरखाव कार्यों के लिए अभिप्रेत है?",
+    "options": [
+      "1. डिवाइस ड्राइवर्स",
+      "2. फर्मवेयर",
+      "3. यूटिलिटीज",
+      "4. ऑपरेटिंग सिस्टम"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The ______ is a toggle key that lets you switch the letters on your keyboard from lowercase to uppercase.",
+    "options": [
+      "1. Num Lock key",
+      "2. Tab key",
+      "3. Caps Lock key",
+      "4. Space bar key"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "______ एक टॉगल कुंजी है जो आपको अपने कीबोर्ड पर अक्षरों को लोअरकेस से अपरकेस में बदलने की सुविधा देती है।",
+    "options": [
+      "1. नम लॉक कुंजी",
+      "2. टैब कुंजी",
+      "3. कैप्स लॉक कुंजी",
+      "4. स्पेस बार कुंजी"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A video consists of a sequence of ______.",
+    "options": [
+      "1. layers",
+      "2. packets",
+      "3. frames",
+      "4. slots"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एक वीडियो, ______ के अनुक्रम (सिक्‍वेंस) से बना होता है।",
+    "options": [
+      "1. लेयर्स",
+      "2. पैकेट",
+      "3. फ्रेम",
+      "4. स्लॉट"
+    ],
+    "answer": 2
+  }
 ]
         
         };
