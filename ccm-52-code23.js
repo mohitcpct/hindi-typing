@@ -17716,7 +17716,1050 @@
     ],
     "answer": 0
   }
+],
+"02nd March 2023 - Shift2": [
+ {
+    "q": "Which of the following is NOT a unit of memory in a computer system?",
+    "options": [
+      "1. Gigabyte",
+      "2. Byte",
+      "3. Megabyte",
+      "4. Hertz"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से कौन-सी, कंप्यूटर सिस्टम में मेमोरी की इकाई नहीं है?",
+    "options": [
+      "1. गीगाबाइट",
+      "2. बाइट",
+      "3. मेगाबाइट",
+      "4. हर्ट्ज़"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "With reference to computers, PC stands for:",
+    "options": [
+      "1. Personal Comprehension",
+      "2. Personal Computing",
+      "3. Personal Computer",
+      "4. Personal Calculation"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "कंप्यूटर के संदर्भ में, पीसी (PC) का पूर्ण रूप क्या है?",
+    "options": [
+      "1. पर्सनल कोम्प्रेहेंसन",
+      "2. पर्सनल कोम्प्युटिंग",
+      "3. पर्सनल कंप्यूटर",
+      "4. पर्सनल केल्क्युलेशन"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "From which of the following directories does data from the system in Linux get automatically deleted after ten days?",
+    "options": [
+      "1. /dev",
+      "2. /tmp",
+      "3. /etc",
+      "4. /lib"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से किस डायरेक्टरी से लिनक्स (Linux) में सिस्टम से डेटा दस दिनों के बाद स्वचालित रूप से हटा दिया जाता है?",
+    "options": [
+      "1. /dev",
+      "2. /tmp",
+      "3. /etc",
+      "4. /lib"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "With reference to accessing data in database management systems (DBMS), ODBC stands for:",
+    "options": [
+      "1. Object Database Connectivity",
+      "2. Open Database Connectivity",
+      "3. Organized Database Connectivity",
+      "4. Offline Database Connection"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "डेटाबेस मैनेजमेंट सिस्टम (DBMS) में डेटा एक्सेस करने के संदर्भ में, ODBC का पूर्ण रूप क्या है?",
+    "options": [
+      "1. ऑब्जेक्ट डेटाबेस कनेक्टिविटी (Object Database Connectivity)",
+      "2. ओपन डेटाबेस कनेक्टिविटी (Open Database Connectivity)",
+      "3. ऑर्गनाइज्ड डेटाबेस कनेक्टिविटी (Organized Database Connectivity)",
+      "4. ऑफलाइन डेटाबेस कनेक्शन (Offline Database Connection)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which function returns the hyperbolic cosecant of an angle in MS-Excel 2019?",
+    "options": [
+      "1. HCOS function",
+      "2. COSINEH function",
+      "3. CSCH function",
+      "4. COSANG function"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel 2019 में, कौन-सा फंक्शन एक कोण का हाइपरबोलिक व्युत्क्रमज्या (cosecant) देता है?",
+    "options": [
+      "1. HCOS फंक्शन",
+      "2. COSINEH फंक्शन",
+      "3. CSCH फंक्शन",
+      "4. COSANG फंक्शन"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The tool used by a programmer to convert a source program into a machine language object module is:",
+    "options": [
+      "1. a compiler",
+      "2. a loader",
+      "3. a preprocessor",
+      "4. a linker"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "किसी प्रोग्रामर द्वारा किसी स्रोत प्रोग्राम को मशीन भाषा ऑब्जेक्ट मॉड्यूल में बदलने के लिए प्रयुक्त टूल क्या है?",
+    "options": [
+      "1. कम्पाइलर",
+      "2. लोडर",
+      "3. प्री-प्रोसेसर",
+      "4. लिंकर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "How many arrow keys are there on a general qwerty computer keyboard ?",
+    "options": [
+      "1. One",
+      "2. Two",
+      "3. Three",
+      "4. Four"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "एक सामान्य क्वार्टी (qwerty) कंप्यूटर कीबोर्ड में कितनी ऐरो कुंजियाँ होती हैं?",
+    "options": [
+      "1. एक",
+      "2. दो",
+      "3. तीन",
+      "4. चार"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is the capacity of a Blu-Ray Single Layer Recordable Disc (BD-RE SL) of storing HD footage?",
+    "options": [
+      "1. Up to 50 GB",
+      "2. Up to 100 GB",
+      "3. Up to 25 GB",
+      "4. Up to 150 GB"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "ब्लू-रे सिंगल लेयर रिकॉर्डेबल डिस्क (BD-RE SL) में HD फ़ुटेज स्टोर करने की क्षमता कितनी होती है?",
+    "options": [
+      "1. 50 GB तक",
+      "2. 100 GB तक",
+      "3. 25 GB तक",
+      "4. 150 GB तक"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A(An)______ is unidirectional. It emanates from the microprocessor and reaches the memory unit and input/output units.",
+    "options": [
+      "1. data bus",
+      "2. address bus",
+      "3. control bus",
+      "4. instruction block"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक ______ यूनिडायरेक्शनल है। यह माइक्रोप्रोसेसर से निकलता है और मेमोरी यूनिट और इनपुट / आउटपुट इकाइयों तक पहुंचता है।",
+    "options": [
+      "1. डेटा बस",
+      "2. एड्रेस बस",
+      "3. कंट्रोल बस",
+      "4. इंस्ट्रक्शन ब्लॉक"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which interrupt is the first choice of sound cards while looking for IRQ settings?",
+    "options": [
+      "1. IRQ 1",
+      "2. IRQ 3",
+      "3. IRQ 5",
+      "4. IRQ 7"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "IRQ सेटिंग्स चुनने के लिए, इनमें से कौन-सा इंट्रप्ट (interrupt), साउंड कार्ड में पहली पसंद है?",
+    "options": [
+      "1. IRQ 1",
+      "2. IRQ 3",
+      "3. IRQ 5",
+      "4. IRQ 7"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following service is NOT offered by Google?",
+    "options": [
+      "1. Keep",
+      "2. Blogger",
+      "3. Hangout",
+      "4. iCloud"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन सी सेवा Google द्वारा प्रदान नहीं की जाती है?",
+    "options": [
+      "1. कीप (Keep)",
+      "2. ब्लॉगर (Blogger)",
+      "3. हैंगआउट (Hangout)",
+      "4. आय क्लाउड (iCloud)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "As you draw on a tablet with a stylus, the software on the tablet _______ producing a drawing on the screen.",
+    "options": [
+      "1. swaps your movements",
+      "2. stores your movements",
+      "3. follows your movements",
+      "4. interchanges your movements"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "जब आप शलाका (स्टाइलस) द्वारा टैबलेट पर कोई चित्र बनाते हैं, तो टैबलेट का सॉफ़्टवेयर _______ दृश्य पटल (स्क्रीन) पर चित्र बनाता जाता है।",
+    "options": [
+      "1. आपकी मूवमेंट को स्वैप कर",
+      "2. आपकी मूवमेंट को संग्रहीत कर",
+      "3. आपकी मूवमेंट का अनुसरण कर",
+      "4. आपकी मूवमेंट का आदान-प्रदान कर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "______ is composed of two binary arithmetic operations: multiplication and subtraction.",
+    "options": [
+      "1. Binary subtraction",
+      "2. Binary addition",
+      "3. Binary multiplication",
+      "4. Binary division"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "______ में दो बाइनरी गणितीय क्रियाएं, गुणा और घटाना शामिल हैं।",
+    "options": [
+      "1. बाइनरी सबट्रेक्शन",
+      "2. बाइनरी एडिशन",
+      "3. बाइनरी मल्टीप्लिकेशन",
+      "4. बाइनरी डिविज़न"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A phase in the Voltage Regulator Module (VRM) of a graphics card is made up of:",
+    "options": [
+      "1. a logic device and a power device",
+      "2. a power device and a filtering device",
+      "3. a logic device and a filtering device",
+      "4. a power device and a display device"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ग्राफ़िक्स कार्ड के वोल्टेज रेगुलेटर मॉड्यूल (VRM) में एक फेज़ (phase) ________ का बना होता है।",
+    "options": [
+      "1. लॉजिक डिवाइस और पॉवर डिवाइस",
+      "2. पॉवर डिवाइस और फ़िल्टरिंग डिवाइस",
+      "3. लॉजिक डिवाइस और फ़िल्टरिंग डिवाइस",
+      "4. पॉवर डिवाइस और डिस्प्ले डिवाइस"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Random scan monitors are also referred to as:",
+    "options": [
+      "1. stroke writing displays",
+      "2. raster scan monitors",
+      "3. interlaced scanners",
+      "4. non-interlaced scanners"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "रैंडम स्कैन मॉनिटर्स को ______ के रूप में भी संदर्भित किया जाता है।",
+    "options": [
+      "1. स्ट्रोक राइटिंग डिस्प्ले",
+      "2. रास्टर स्कैन मॉनिटर",
+      "3. इंटरलेस्ड स्कैनर्स",
+      "4. नॉन-इंटरलेस्ड स्कैनर्स"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ is a security feature used with operating systems and services with a login, that locks any account that has failed a login attempt more than a set parameter.",
+    "options": [
+      "1. Account lockout",
+      "2. Reset account lockout",
+      "3. Antivirus",
+      "4. Changing password"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "________, एक लॉगिन के साथ, ऑपरेटिंग सिस्टम और सेवाओं के साथ उपयोग की जाने वाली एक सुरक्षा सुविधा है, जो ऐसे किसी भी खाते को लॉक कर देती है जो एक सेट पैरामीटर से अधिक लॉगिन प्रयास में विफल रहता है।",
+    "options": [
+      "1. अकाउंट लॉकआउट",
+      "2. रीसेट अकाउंट लॉकआउट",
+      "3. एंटीवायरस",
+      "4. पासवर्ड परिवर्तन (चेंजिंचें पासवर्ड)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "System time settings are maintained in ______ configuration.",
+    "options": [
+      "1. CMOS",
+      "2. BIOS",
+      "3. SMPS",
+      "4. POST"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "सिस्टम टाइम सेटिंग्स को ______ कॉन्फ़िगरेशन में बनाए रखा जाता है।",
+    "options": [
+      "1. CMOS",
+      "2. BIOS",
+      "3. SMPS",
+      "4. POST"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The default printing option (toolbar print button) will print ______ pages of a file automatically.",
+    "options": [
+      "1. the even number",
+      "2. the odd number",
+      "3. all",
+      "4. the current"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "डिफ़ॉल्ट प्रिंटिंग विकल्प (टूलबार प्रिंट बटन) स्वचालित रूप से फ़ाइल के _____ पृष्ठों को प्रिंट करेगा।",
+    "options": [
+      "1. सम संख्या वाले",
+      "2. विषम संख्या वाले",
+      "3. सभी",
+      "4. वर्तमान"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "To print documents, the printers use ink:",
+    "options": [
+      "1. cartridge",
+      "2. container",
+      "3. memory",
+      "4. spooler"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "डॉक्यूमेंट को प्रिंट करने के लिए, प्रिंटर इंक _____ का उपयोग करते हैं।",
+    "options": [
+      "1. कार्ट्रिज (Cartridge)",
+      "2. कंटेनर (Container)",
+      "3. मेमोरी (Memory)",
+      "4. स्पूलर (Spooler)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "To install a printer, a Windows user must go to:",
+    "options": [
+      "1. Control Panel",
+      "2. My Documents",
+      "3. My Device",
+      "4. My Network"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "किसी प्रिंटर को इनस्टॉल करने के लिए, एक विंडोज उपयोगकर्ता को कहां जाना चाहिए?",
+    "options": [
+      "1. कंट्रोल पैनल पर",
+      "2. माय डॉक्यूमेंट पर",
+      "3. माय डिवाइस पर",
+      "4. माय नेटवर्क पर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In general, the more expensive printers are used for:",
+    "options": [
+      "1. high resolution black and white printing",
+      "2. high resolution colour printing",
+      "3. low resolution black and white printing",
+      "4. low resolution colour printing"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "आम तौर पर, अधिक महंगे प्रिंटर का उपयोग ______के लिए किया जाता है।",
+    "options": [
+      "1. उच्च रेज़ोल्यूशन ब्लैक एंड व्हाइट प्रिंटिंग",
+      "2. उच्च रेज़ोल्यूशन कलर प्रिंटिंग",
+      "3. निम्न रेज़ोल्यूशन ब्लैक एंड व्हाइट प्रिंटिंग",
+      "4. निम्न रेज़ोल्यूशन कलर प्रिंटिंग"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "How does one prevent the drying up of the ink in an inkjet printer?",
+    "options": [
+      "1. Turn printer on when not in use.",
+      "2. Do not moisten cartridges.",
+      "3. Keep the cartridges in high or low temperatures.",
+      "4. Use the printer more often."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "इंकजेट प्रिंटर की स्याही को सूखने से कैसे बचाया जाता है?",
+    "options": [
+      "1. यदि प्रिंटर का प्रयोग न कर रहें हो तो उसे चालू (ऑन) करें।",
+      "2. कार्ट्रिजिस को नमी से बचाएं।",
+      "3. कार्ट्रिजिस को उच्च या निम्न तापमान पर रखें।",
+      "4. प्रिंटर का अधिक बार उपयोग करें।"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "With reference to digital images, which of the following is associated with the representation of information?",
+    "options": [
+      "1. Inter-pixel Spatial Redundancy",
+      "2. Inter-pixel Temporal Redundancy",
+      "3. Coding Redundancy",
+      "4. Psychovisual Redundancy"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "डिजिटल इमेज के संदर्भ में, निम्नलिखित में से कौन-सा, सूचना के निरूपण से जुड़ा है?",
+    "options": [
+      "1. इंटर-पिक्सेल स्पाशियल रिडंडेन्सी",
+      "2. इंटर-पिक्सेल टेम्पोरल रिडंडेन्सी",
+      "3. कोडिंग रिडंडेन्सी",
+      "4. साइकोविज़ुअल रिडंडेन्सी"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Name the sequence of elements of an image compression system.",
+    "options": [
+      "1. Transformer -> Quantizer -> Coder",
+      "2. Coder -> Quantizer -> Transformer",
+      "3. Coder -> Transformer -> Quantizer",
+      "4. Quantizer -> Transformer -> Coder"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "छवि संपीडन प्रणाली (image compression system) के तत्वों का क्रम दर्शाएं।",
+    "options": [
+      "1. ट्रांसफार्मर -> क्वांटिज़र -> कोडर",
+      "2. कोडर -> क्वांटिज़र -> ट्रांसफार्मर",
+      "3. कोडर -> ट्रांसफार्मर -> क्वांटिज़र",
+      "4. क्वांटिज़र -> ट्रांसफार्मर -> कोडर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following short cut keys is used to cut the data from a cell in MS-Excel 2019?",
+    "options": [
+      "1. Ctrl+C",
+      "2. Ctrl+V",
+      "3. Ctrl+X",
+      "4. Ctrl+Z"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel 2019 में सेल से डेटा को काटने (cut करने) के लिए निम्न में से किस शॉर्टकट कुंजी का उपयोग किया जाता है?",
+    "options": [
+      "1. Ctrl+C",
+      "2. Ctrl+V",
+      "3. Ctrl+X",
+      "4. Ctrl+Z"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "_____ cryptography algorithm uses a single key for encryption and decryption.",
+    "options": [
+      "1. Symmetric key",
+      "2. Asymmetric key",
+      "3. Shared",
+      "4. Universal"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_____ क्रिप्टोग्राफी एल्गोरिथम, एन्क्रिप्शन और डिक्रिप्शन के लिए एकल कुंजी का उपयोग करता है।",
+    "options": [
+      "1. सममित कुंजी",
+      "2. असममित कुंजी",
+      "3. सहभाजी",
+      "4. सार्वभौमिक"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Why software updates are provided by the manufacturers from time to time?",
+    "options": [
+      "1. For opening the bugs in the hardware",
+      "2. To increase the size of the software",
+      "3. To fix the bugs in the software",
+      "4. To increase the chances of attacks by the hackers"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निर्माताओं द्वारा समय-समय पर सॉफ्टवेयर अपडेट क्यों प्रदान किए जाते हैं?",
+    "options": [
+      "1. हार्डवेयर में बग को खोलने के लिए।",
+      "2. सॉफ्टवेयर के आकार को बढ़ाने के लिए।",
+      "3. सॉफ्टवेयर में बग को ठीक करने के लिए।",
+      "4. हैकर्स द्वारा हमलों की संभावनाओं को बढ़ाने के लिए।"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is NOT the file manipulation system call of UNIX?",
+    "options": [
+      "1. sleep( )",
+      "2. open( )",
+      "3. read( )",
+      "4. write( )"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से कौन-सी, यूनिक्स (UNIX) की फाइल मैनिपुलेशन सिस्टम कॉल नहीं है?",
+    "options": [
+      "1. sleep( )",
+      "2. open( )",
+      "3. read( )",
+      "4. write( )"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT a power problem?",
+    "options": [
+      "1. Surge",
+      "2. Blackout",
+      "3. Brownout",
+      "4. Application error"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "इनमें से कौन-सी, एक विद्युत समस्या (power problem) नहीं है?",
+    "options": [
+      "1. सर्ज",
+      "2. ब्लैकआउट",
+      "3. ब्राउनआउट",
+      "4. एप्लीकेशन त्रुटि (एरर)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which type of cable connector is used to connect the computer to the LAN?",
+    "options": [
+      "1. HDMI",
+      "2. IDE",
+      "3. VGA",
+      "4. RJ45"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कंप्यूटर को LAN से कनेक्ट करने के लिए किस प्रकार के केबल कनेक्टर का उपयोग किया जाता है?",
+    "options": [
+      "1. HDMI",
+      "2. IDE",
+      "3. VGA",
+      "4. RJ45"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In the context of the internet, what does the abbreviation 'WWW' stand for?",
+    "options": [
+      "1. World With Web",
+      "2. Wide Wide Web",
+      "3. World Width Web",
+      "4. World Wide Web"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "इंटरनेट के संदर्भ में 'WWW' संक्षिप्त नाम का पूर्ण रूप क्या है?",
+    "options": [
+      "1. वर्ल्ड विथ वेब (World With Web)",
+      "2. वाइड वाइड वेब (Wide Wide Web)",
+      "3. वर्ल्ड विड्थ वेब (World Width Web)",
+      "4. वर्ल्ड वाइड वेब (World Wide Web)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The Print Screen key on a computer keyboard belongs to which of the following category?",
+    "options": [
+      "1. Typing keys",
+      "2. Function keys",
+      "3. Control keys",
+      "4. Special purpose keys"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कंप्यूटर कीबोर्ड पर प्रिंट स्क्रीन कुंजी निम्नलिखित में से किस श्रेणी से संबंधित है?",
+    "options": [
+      "1. टाइपिंग कुंजियाँ",
+      "2. फ़ंक्शन कुंजियाँ",
+      "3. नियंत्रण कुंजियाँ",
+      "4. विशेष प्रयोजन कुंजियाँ"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "PayPal is an application for:",
+    "options": [
+      "1. spider detection",
+      "2. spam protection",
+      "3. online money transactions",
+      "4. online stock trading"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "पे'पल (PayPal), _______ एक एप्लिकेशन है।",
+    "options": [
+      "1. स्पाइडर का पता लगाने के लिए",
+      "2. स्पैम से सुरक्षा के लिए",
+      "3. ऑनलाइन पैसे के लेनदेन के लिए",
+      "4. ऑनलाइन स्टॉक ट्रेडिंग के लिए"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A computer monitor is an electronic output device that is also known as a ________.",
+    "options": [
+      "1. Video Display Terminal",
+      "2. Video Display Tab",
+      "3. Video Display Terminator",
+      "4. Video Display Tabular"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कंप्यूटर मॉनीटर एक इलेक्ट्रॉनिक आउटपुट डिवाइस है जिसे ________ के रूप में भी जाना जाता है।",
+    "options": [
+      "1. वीडियो डिस्प्ले टर्मिनल",
+      "2. वीडियो डिस्प्ले टैब",
+      "3. वीडियो डिस्प्ले टर्मिनेटर",
+      "4. वीडियो डिस्प्ले टेब्युलर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following type of computer monitor uses a beam of electrons to create an image on the screen?",
+    "options": [
+      "1. Cathode Ray Tube",
+      "2. Light Emitting Diode",
+      "3. Liquid Crystal Display",
+      "4. Gas Plasma Display"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से किस प्रकार का कंप्यूटर मॉनीटर, स्क्रीन पर एक इमेज बनाने के लिए इलेक्ट्रॉनों के बीम का उपयोग करता है?",
+    "options": [
+      "1. कैथोड रे ट्यूब",
+      "2. लाईट एमिटिंग डायोड",
+      "3. लिक्विड क्रिस्टल डिस्प्ले",
+      "4. गैस प्लाज्मा डिस्प्ले"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the full form of 'VPA' in the context of BHIM?",
+    "options": [
+      "1. Virtual Primary Address",
+      "2. Virtual Payment Address",
+      "3. Virtual Primary Account",
+      "4. Virtual Payment Account"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "भीम (BHIM) के संदर्भ में, 'VPA' का पूर्ण रूप क्या है?",
+    "options": [
+      "1. वर्चुअल प्राइमरी एड्रैस (Virtual Primary Address)",
+      "2. वर्चुअल पेमेंट एड्रैस (Virtual Payment Address)",
+      "3. वर्चुअल प्राइमरी अकाउंट (Virtual Primary Account)",
+      "4. वर्चुअल पेमेंट अकाउंट (Virtual Payment Account)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "__________is the act of placing/buying/selling orders for financial securities and/or currencies with the use of a brokerage's internet-based",
+    "options": [
+      "1. Online trading",
+      "2. Auction",
+      "3. Marketing",
+      "4. Production"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "__________, ब्रोकरेज के इंटरनेट-आधारित स्वामित्व वाले व्यापार प्लेटफ़ॉर्म का उपयोग कर वित्तीय प्रतिभूतियों तथा/या मुद्राओं के लिए रखने/खरीदने/ बेचने के ऑर्डर देने का कार्य है।",
+    "options": [
+      "1. ऑनलाइन व्यापार",
+      "2. नीलामी",
+      "3. विपणन",
+      "4. उत्पादन"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following change case option in MS-Word 2019 lets you capitalise first letter of a sentence and leave all other letters as lowercase?",
+    "options": [
+      "1. Sentence case",
+      "2. UPPERCASE",
+      "3. lowercase",
+      "4. Capitalize sentence"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Word 2019 में निम्नलिखित में से कौन-सा चेंज केस विकल्प आपको एक वाक्य के पहले अक्षर को बड़ा करने देता है और अन्य सभी अक्षरों को लोअरकेस के रूप में छोड़ देता है?",
+    "options": [
+      "1. सेंटेंस केस (Sentence case)",
+      "2. अप्पर केस (UPPERCASE)",
+      "3. लोअर केस (lowercase)",
+      "4. कैपिटलाइज़ सेंटेंस (Capitalize sentence)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_____ is the default value of the TOP margin in the mirrored margin setting in an MS-Word 2019 document.",
+    "options": [
+      "1. 1”",
+      "2. 1.25”",
+      "3. 2”",
+      "4. 0.75”"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_____, MS-Word 2019 डोक्युमेंट में मिरर्ड मार्जिन सेटिंग में शीर्ष मार्जिन का डिफ़ॉल्ट मान है।",
+    "options": [
+      "1. 1”",
+      "2. 1.25”",
+      "3. 2”",
+      "4. 0.75”"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following MS-Excel functions counts the number of cells that are not empty in a range?",
+    "options": [
+      "1. COUNT()",
+      "2. COUNTA()",
+      "3. COUNTIF()",
+      "4. COUNTBLANK()"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा MS-Excel फ़ंक्शन उन कक्षों (सेल्स) की संख्या की गणना करता है जो एक श्रेणी (रेंज) में खाली नहीं हैं?",
+    "options": [
+      "1. COUNT()",
+      "2. COUNTA()",
+      "3. COUNTIF()",
+      "4. COUNTBLANK()"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is NOT a search engine?",
+    "options": [
+      "1. www.google.com",
+      "2. www.msn.com",
+      "3. www.yahoo.com",
+      "4. www.bbgindia.com/"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से कौन-सा, एक सर्च इंजन नहीं है?",
+    "options": [
+      "1. www.google.com",
+      "2. www.msn.com",
+      "3. www.yahoo.com",
+      "4. www.bbgindia.com/"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What does the wildcard character '*' signify with reference to MS-DOS and the Windows command line?",
+    "options": [
+      "1. Occurrence of any single character in specified range",
+      "2. One or more occurrences of a character",
+      "3. Any single character",
+      "4. Any single character except the characters inside the brackets"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-DOS और Windows कमांड लाइन के संदर्भ में, वाइल्डकार्ड वर्ण '*' क्या दर्शाता है?",
+    "options": [
+      "1. निर्दिष्ट सीमा में किसी एक वर्ण का घटित होना",
+      "2. एक करैक्टर का एक या अधिक बार होना",
+      "3. कोई भी एक करैक्टर",
+      "4. ब्रैकेट्स के अंदर के करैक्टर को छोडकर कोई भी एक करैक्टर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Satheesh is working on an MS-Word document. When he types - -> and if AutoCorrect is turned on, it properly inserts the ______ symbol.",
+    "options": [
+      "1. copyright",
+      "2. trademark",
+      "3. arrow",
+      "4. smiley face"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "सतीश एक MS-Word डोक्युमेंट पर काम कर रहा है, जब उसने - -> टाइप किया और यदि ऑटोकरेक्ट ओन (on) है, तो यह ______ प्रतीक सही ढंग से प्रविष्ट करेगा।",
+    "options": [
+      "1. कॉपीराइट",
+      "2. ट्रेडमार्क",
+      "3. एरो (तीर)",
+      "4. स्माइली फेस (प्रसन्नचित्त चेहरा)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In MS-Word 2019, the keyboard shortcut ______ is used to run a spelling and grammar check.",
+    "options": [
+      "1. F1",
+      "2. F2",
+      "3. F7",
+      "4. F9"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Word 2019 में, स्पेलिंग और ग्रामर चेक को चलाने के लिए कीबोर्ड शॉर्टकट ______ का उपयोग किया जाता है।",
+    "options": [
+      "1. F1",
+      "2. F2",
+      "3. F7",
+      "4. F9"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In MS-Excel 2016, the symbol _____ is prefixed before a number to treat that number as text.",
+    "options": [
+      "1. apostrophe (')",
+      "2. comma (,)",
+      "3. double quotation (\")",
+      "4. tilde (~)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2016 में, किसी संख्या को टेक्स्ट के रूप में मानने के लिए प्रतीक _____ को उस संख्या से पहले लगाया जाता है।",
+    "options": [
+      "1. संबंध कारक चिह्न/एपोस्ट्रोफ (')",
+      "2. अल्पविराम (,)",
+      "3. दोहरा उद्धरण (\")",
+      "4. टिल्ड (~)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following keyboard shortcuts is used to increase the indent of a selected paragraph in MS-Word 2019?",
+    "options": [
+      "1. Ctrl + Shift + Alt + M",
+      "2. Ctrl + M",
+      "3. Ctrl + N",
+      "4. Alt + Ctrl + M"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Word 2019 में चयनित पैराग्राफ के इंडेंट को बढ़ाने के लिए निम्न में से किस कीबोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Ctrl + Shift + Alt + M",
+      "2. Ctrl + M",
+      "3. Ctrl + N",
+      "4. Alt + Ctrl + M"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The 'Header & Footer' option is available in which of the following tabs in MS-Word 2019?",
+    "options": [
+      "1. Home",
+      "2. Insert",
+      "3. Layout",
+      "4. Design"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "शीर्षलेख और पादलेख (Header & Footer)' विकल्प, MS-Word 2019 में निम्नलिखित में से किस टैब में उपलब्ध है?",
+    "options": [
+      "1. होम (Home)",
+      "2. इन्सर्ट (Insert)",
+      "3. लेआउट (Layout)",
+      "4. डिजाइन (Design)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In Ms-Word 2019, when we click on the given icon in the Envelopes and Labels dialog box, the_____dialog box will open. <br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkCOfu7jRjKkca58ppD_2WZWUIXV0vYP5AhbFBzI0tWlMeJtMfQhgnWWf1H-jUEAFRbCvoTbtibosnFfzTTxAYV-O5G1RCDPNUlzr8ScSlBBOhxLG_6i8dcLIKF9KwxB8HSmag7zOBKgn6VYXomSAtxg0QIirrpcM1WslnODVjOT3gGfRtt4Y4TpB9BGS7/s125/01%20bgb.jpg\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. Feed",
+      "2. Preview",
+      "3. Envelope options",
+      "4. Positioning"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Word 2019 में, जब हम एन्‍वेलोप्‍स और लेबल डायलाग बॉक्‍स में निम्‍न आईकन पर क्लिक करते हैं तो कौन-सा डायलाग बॉक्‍स खुल जाएगा ? <br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkCOfu7jRjKkca58ppD_2WZWUIXV0vYP5AhbFBzI0tWlMeJtMfQhgnWWf1H-jUEAFRbCvoTbtibosnFfzTTxAYV-O5G1RCDPNUlzr8ScSlBBOhxLG_6i8dcLIKF9KwxB8HSmag7zOBKgn6VYXomSAtxg0QIirrpcM1WslnODVjOT3gGfRtt4Y4TpB9BGS7/s125/01%20bgb.jpg\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. फीड (Feed)",
+      "2. प्रीव्यू (Preview)",
+      "3. लिफाफा विकल्प (Envelope options)",
+      "4. स्थिति (Positioning)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "_________ is the selling and buying of goods and services through the internet.",
+    "options": [
+      "1. E-commerce",
+      "2. Internet",
+      "3. Email",
+      "4. E-filing"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "इंटरनेट के माध्यम से सामान या सुविधाओं की ख़रीद-बिक्री को _________ कहते हैं।",
+    "options": [
+      "1. ई-कॉमर्स",
+      "2. इंटरनेट",
+      "3. ई-मेल",
+      "4. ई-फाइलिंग"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS-Word 2019, when we select a piece of text or a number and press (Ctrl + Shift + Plus sign) at the same time what will happen?",
+    "options": [
+      "1. The text or number will change to subscript.",
+      "2. The font will shrink in size.",
+      "3. The text or number will change to superscript.",
+      "4. The font will grow larger in size."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Word 2019 में, जब हम कोई टेक्स्ट या संख्या का चयन करते हैं और उसी समय (Ctrl + Shift + Plus साइन) कुंजियाँ दबाते हैं तो क्या होगा?",
+    "options": [
+      "1. टेक्स्ट या संख्या सबस्क्रिप्ट में बदल जाएगी।",
+      "2. फ़ॉन्ट आकार में छोटा हो जाएगा।",
+      "3. टेक्स्ट या संख्या सुपरस्क्रिप्ट में बदल जाएगी।",
+      "4. फ़ॉन्ट आकार में बड़ा हो जाएगा।"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following tab under the Table Tools provides various settings, including gridlines, properties, etc. for tables in MS-Word 2016?",
+    "options": [
+      "1. Design",
+      "2. Layout",
+      "3. View",
+      "4. Review"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा टैब टेबल टूल्स के तहत, MS-Word 2016 में टेबल के लिए ग्रिडलाइन्स, प्रॉपर्टीज आदि सहित विभिन्न सेटिंग्स प्रदान करता है?",
+    "options": [
+      "1. डिजाइन (Design)",
+      "2. लेआउट (Layout)",
+      "3. व्यू (View)",
+      "4. रिव्यू (Review)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is NOT a valid 'Document Views' option in MS-Word 2016?",
+    "options": [
+      "1. Draft",
+      "2. Read Mode",
+      "3. Write Mode",
+      "4. Web Layout"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, MS-Word 2016 में एक वैध 'Document Views' विकल्प नहीं है?",
+    "options": [
+      "1. ड्राफ्ट (Draft)",
+      "2. रीड मोड (Read Mode)",
+      "3. राईट मोड (Write Mode)",
+      "4. वेब लेआउट (Web Layout)"
+    ],
+    "answer": 2
+  }
 ]
+  
         
         };
     
