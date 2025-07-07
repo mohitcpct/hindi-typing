@@ -12506,6 +12506,1048 @@
     ],
     "answer": 2
   }
+],
+  "14th May 2023 - Shift2": [
+  {
+    "q": "A right click on the Windows desktop will ______.",
+    "options": [
+      "1. open the Display Properties dialog box",
+      "2. show a context-sensitive menu",
+      "3. open the Control Panel",
+      "4. minimise all open applications"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Windows डेस्कटॉप पर राइट क्लिक करने से क्या होता है?",
+    "options": [
+      "1. display properties डायलॉग बॉक्स खुल जाता है",
+      "2. context-sensitive मेनू दिखाता है",
+      "3. Control Panel खोलता है",
+      "4. सभी खुली हुई एप्लीकेशन को मिनीमाइज़ करता है"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A word processor is:",
+    "options": [
+      "1. a program that processes words, e.g. giving frequency of words, sorting of words, etc.",
+      "2. a program that provides the facility for creating, viewing, editing and manipulating text before printing",
+      "3. a CPU microcomputer",
+      "4. a program that gives the number of tokens in a text"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक वर्ड प्रोसेसर क्या है?",
+    "options": [
+      "1. एक प्रोग्राम जो शब्द को संसाधित करता है, जैसे कि शब्दों को आवृत्ति देना, शब्दों का क्रम, इत्यादि",
+      "2. एक प्रोग्राम जो प्रिंटिंग से पहले टेक्स्ट बनाने, टेक्स्ट को एडिट करने और टेक्स्ट से छेड़छाड़ करने की सुविधा प्रदान करता है",
+      "3. CPU माइक्रो कंप्यूटर",
+      "4. एक प्रोग्राम जो टेक्स्ट में टोकनों की संख्या बताता है"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which function returns a 'Bitwise And' of two numbers in MS-Excel?",
+    "options": [
+      "1. BAND function",
+      "2. BITAND function",
+      "3. BITWAND function",
+      "4. BITAND2 function"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS Excel में, कौन सा फंक्शन दो संख्याओं का 'Bitwise And' देता है?",
+    "options": [
+      "1. BAND फंक्शन",
+      "2. BITAND फंक्शन",
+      "3. BITWAND फंक्शन",
+      "4. BITAND2 फंक्शन"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is a compiler?",
+    "options": [
+      "1. A program that transforms human readable code written in high level language into a machine readable code.",
+      "2. A program that reads the source code of another computer program and executes that program.",
+      "3. A program that converts code written in assembly language into machine language.",
+      "4. A collection of programs."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कंपाइलर क्या है?",
+    "options": [
+      "1. एक प्रोग्राम जो उच्च स्तरीय भाषा में लिखे गए मानव पठनीय कोड को मशीन पठनीय कोड में बदल देता है।",
+      "2. यह एक कंप्यूटर प्रोग्राम है जो किसी अन्य कंप्यूटर प्रोग्राम के सोर्स कोड को रीड करता है और उस प्रोग्राम को निष्पादित करता है।",
+      "3. यह असेंबली भाषा में लिखित कोड को मशीन भाषा में परिवर्तित करता है।",
+      "4. यह प्रोग्रामों का एक संग्रह है।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "An example for an input device that transmits input to the computer with the help of radio frequency is ________.",
+    "options": [
+      "1. keyboard",
+      "2. wireless keyboard",
+      "3. Scanner",
+      "4. touch screen"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक इनपुट डिवाइस के लिए एक उदाहरण जो रेडियो फ्रीक्‍वेंसी की मदद से कंप्यूटर को इनपुट भेजता है, ________ है।",
+    "options": [
+      "1. कीबोर्ड",
+      "2. वायरलेस कीबोर्ड",
+      "3. स्कैनर",
+      "4. टच स्क्रीन"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Programs written in an assembly language are converted into machine language in a computer by a/an ______.",
+    "options": [
+      "1. assembler",
+      "2. compiler",
+      "3. interpreter",
+      "4. processor"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कंप्यूटर में असेंबली भाषा में लिखे गए प्रोग्राम को मशीन भाषा में किसके द्वारा परिवर्तित किया जाता है?",
+    "options": [
+      "1. असेम्‍बलर",
+      "2. कम्पाइलर",
+      "3. इंटरप्रेटर",
+      "4. प्रोसेसर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT a network device?",
+    "options": [
+      "1. Modem",
+      "2. Router",
+      "3. Hub",
+      "4. Stylus"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा एक नेटवर्क डिवाइस नहीं है?",
+    "options": [
+      "1. मॉडेम",
+      "2. राउटर",
+      "3. हब",
+      "4. स्टाइलस"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which shortcut key is used in MS Excel to open the “Find and Replace” Window”?",
+    "options": [
+      "1. Shift + F5",
+      "2. Ctrl + F5",
+      "3. F6",
+      "4. Ctrl + F7"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "\"फाइंड एंड रिप्लेस\" विंडो खोलने के लिए MS-Excel में किस शॉर्टकट कुंजी का उपयोग किया जाता है?",
+    "options": [
+      "1. Shift + F5",
+      "2. Ctrl + F5",
+      "3. F6",
+      "4. Ctrl + F7"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The barcode that has the ability to encode 50 characters in an extremely small size and that is popular in the healthcare and electronic components industry is:",
+    "options": [
+      "1. PDF417",
+      "2. MaxiCode",
+      "3. Data Matrix",
+      "4. Codabar"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "वह बारकोड जिसमें 50 वर्णों (कैरेक्टर्स) को एक बहुत छोटे आकार में एनकोड करने की क्षमता होती है और जो स्वास्थ्य सेवा और इलेक्ट्रॉनिक उपकरणों के क्षेत्र में काम में लिया जाता है, क्या कहलाता है?",
+    "options": [
+      "1. PDF417",
+      "2. मैक्सीकोड (MaxiCode)",
+      "3. डेटा मैट्रिक्स",
+      "4. कोडबार (Codabar)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Signature and keystroke of a user serve the purpose of:",
+    "options": [
+      "1. behavioural biometric features",
+      "2. physiological biometric features",
+      "3. psychometric features",
+      "4. visual features"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "किसी उपयोगकर्ता के हस्ताक्षर और की-स्ट्रोक किस उद्धेश्य की पूर्ति करते हैं?",
+    "options": [
+      "1. स्वभावजन्य (व्यवहारिक) बायोमेट्रिक फ़ीचर",
+      "2. शारीरिक (क्रियात्मक) बायोमेट्रिक फ़ीचर",
+      "3. साइकोमेट्रिक फ़ीचर",
+      "4. दृश्य फ़ीचर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A CMOS battery is generally a/an ______ cell battery.",
+    "options": [
+      "1. lithium",
+      "2. zinc-carbon",
+      "3. alkaline",
+      "4. copper"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एक CMOS बैटरी सामान्यतः एक ______सेल बैटरी होती है।",
+    "options": [
+      "1. लीथियम",
+      "2. जिंक-कार्बन",
+      "3. अल्का लाइन",
+      "4. कॉपर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is/are method(s) of protecting data on a USB flash drive?",
+    "options": [
+      "1. Use USB encryption software",
+      "2. Delete data after use",
+      "3. Do not keep a backup",
+      "4. Install anti-virus protection"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन सी USB फ़्लैश ड्राइव पर डेटा की सुरक्षा विधि है?",
+    "options": [
+      "1. USB एन्क्रिप्शन सॉफ़्टवेयर का उपयोग किया जा सकता है|",
+      "2. इस्तेमाल के बाद डाटा डिलीट करें|",
+      "3. बैकअप न रखें|",
+      "4. एंटी -वायरस सुरक्षा स्थापित करें|"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is an input device that enables a user to hand-draw images, animations and graphics, with a special pen-like stylus, similar to the way a person draws images with a pencil and paper?",
+    "options": [
+      "1. Book-pad",
+      "2. Puck",
+      "3. Digitizer",
+      "4. Pantograph"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा एक ऐसा इनपुट उपकरण है जो किसी उपयोगकर्ता को एक विशेष पेन जैसी शलाका (स्टाइलस) के माध्यम से, हाथ से ठीक उसी प्रकार चित्र, एनिमेशन और ग्राफ़िक्स बनाने में सक्षम करता है, जिस प्रकार एक व्यक्ति काग़ज़ पर पेंसिल से चित्र बनाता है?",
+    "options": [
+      "1. बुक-पैड",
+      "2. पक",
+      "3. डिजिटाइज़र",
+      "4. पेंटोग्राफ़"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "How many values can we represent with 8 bits?",
+    "options": [
+      "1. 64",
+      "2. 512",
+      "3. 32",
+      "4. 256"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "8 बिट्स में हम कितने मान प्रदर्शित कर सकते हैं?",
+    "options": [
+      "1. 64",
+      "2. 512",
+      "3. 32",
+      "4. 256"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A mouse, touch screen and trackball are all examples of ______ devices.",
+    "options": [
+      "1. scanning",
+      "2. voice input",
+      "3. pointing",
+      "4. output"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "माउस, टच-स्क्रीन और ट्रैकबॉल, ये सभी ______ डिवाइस के सभी उदाहरण हैं।",
+    "options": [
+      "1. स्कैनिंग",
+      "2. वॉयस इनपुट",
+      "3. पॉइंटिंग",
+      "4. आउटपुट"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following protocols used by WWW defines how messages are formatted and transmitted, and what actions web servers and browsers should take in response to various commands?",
+    "options": [
+      "1. FTP",
+      "2. SMTP",
+      "3. HTTP",
+      "4. UDP"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "WWW द्वारा उपयोग किया जाने वाला निम्नलिखित में से कौन-सा प्रोटोकॉल यह परिभाषित करता है कि संदेशों को कैसे प्रारूपित ( formatted) और प्रसारित किया जाता है, और विभिन्न आदेशों के जवाब में वेब सर्वर और ब्राउज़र को क्या क्रिया करनी चाहिए?",
+    "options": [
+      "1. FTP",
+      "2. SMTP",
+      "3. HTTP",
+      "4. UDP"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is FALSE with reference to primary storage device of a computer system?",
+    "options": [
+      "1. Smaller size",
+      "2. Temporary data retention",
+      "3. Internal location",
+      "4. External location"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कंप्यूटर सिस्टम के प्राइमरी स्टोरेज डिवाइस के संदर्भ में निम्नलिखित में से कौन-सा गलत (FALSE) है?",
+    "options": [
+      "1. छोटा आकार",
+      "2. अस्थायी डेटा प्रतिधारण",
+      "3. आंतरिक लोकेशन",
+      "4. बाहरी लोकेशन"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is an example of a biometric input device?",
+    "options": [
+      "1. Flatbed scanner",
+      "2. Sheetfed scanner",
+      "3. Handheld scanner",
+      "4. Face scanner"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, एक बायोमेट्रिक इनपुट डिवाइस का उदाहरण है?",
+    "options": [
+      "1. फ्लैटबेड स्कैनर",
+      "2. शीटफेड स्कैनर",
+      "3. हैंडहेल्ड स्कैनर",
+      "4. फेस स्कैनर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "When you enter text in a cell in Excel. It also appears in the ______ bar.",
+    "options": [
+      "1. Status",
+      "2. Row Heading",
+      "3. Formula",
+      "4. Name"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "जब आप Excel में किसी सेल में टेक्स्ट दर्ज करते हैं. तो यह ______ बार में भी दिखाई देता है।",
+    "options": [
+      "1. स्टेटस",
+      "2. रो हैडिंग",
+      "3. फॉर्मूला",
+      "4. नेम"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "An inkjet printer has a disadvantage with which of the following factors?",
+    "options": [
+      "1. Quality",
+      "2. Speed",
+      "3. Physical size",
+      "4. Start up time"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक इंकजेट प्रिंटर में निम्नलिखित में से किस कारक के साथ एक हानि होती है?",
+    "options": [
+      "1. गुणवत्ता (Quality)",
+      "2. चाल (Speed)",
+      "3. फिजिकल साइज",
+      "4. स्टार्ट अप समय"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a dedicated computer that supports a network printer?",
+    "options": [
+      "1. Print server",
+      "2. Dedicated server",
+      "3. Network printer",
+      "4. Network server"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, एक समर्पित कंप्यूटर (dedicated computer) है जो नेटवर्क प्रिंटर को सपोर्ट करता है?",
+    "options": [
+      "1. प्रिंट सर्वर",
+      "2. डेडिकेटेड (समर्पित) सर्वर",
+      "3. नेटवर्क प्रिंटर",
+      "4. नेटवर्क सर्वर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The broadcasting of radio and TV programmes through the internet refers to:",
+    "options": [
+      "1. interactive streaming",
+      "2. streaming live",
+      "3. streaming stored",
+      "4. interactive and streaming"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "इंटरनेट के माध्यम से रेडियो और टीवी कार्यक्रमों का प्रसारण किसे संदर्भित करता है?",
+    "options": [
+      "1. इंटरैक्टिव स्ट्रीमिंग",
+      "2. स्ट्रीमिंग लाइव",
+      "3. स्ट्रीमिंग स्टोर्ड",
+      "4. इंटरैक्टिव और स्ट्रीमिंग"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In MS-Excel, ______ of the worksheet appear vertically and are identified by letters at the top of the worksheet window.",
+    "options": [
+      "1. Cells",
+      "2. Columns",
+      "3. Rows",
+      "4. Headings"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel में, कार्यपत्रक (worksheet) का ______ लंबवत(vertical) दिखाई देता है और कार्यपत्रक (worksheet) विंडो के शीर्ष पर अक्षरों द्वारा पहचाना जाता है.",
+    "options": [
+      "1. सेल्स",
+      "2. कॉलम्स",
+      "3. रोस",
+      "4. हेडिंग्स"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a global network of billions of computers and other electronic devices?",
+    "options": [
+      "1. Gateway",
+      "2. Local Area Network",
+      "3. Bridge",
+      "4. Internet"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, असंख्य कंप्यूटरों और अन्य इलेक्ट्रॉनिक उपकरणों का एक वैश्विक नेटवर्क है?",
+    "options": [
+      "1. गेटवे",
+      "2. लोकल एरिया नेटवर्क",
+      "3. ब्रिज",
+      "4. इंटरनेट"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In general, the longer a key is, the ______ security it provides.",
+    "options": [
+      "1. better",
+      "2. least",
+      "3. lesser",
+      "4. limited"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "सामान्य तौर पर, एक की (key) जितनी लंबी होती है, उतनी ही ______ सुरक्षा प्रदान करती है।",
+    "options": [
+      "1. बेहतर",
+      "2. न्यूनतम",
+      "3. कम",
+      "4. सिमित"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the minimum requirement before you install a printer driver?",
+    "options": [
+      "1. Administrator login",
+      "2. Guest login",
+      "3. Student login",
+      "4. Network login"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "प्रिंटर ड्राइवर स्थापित करने से पहले न्यूनतम आवश्यकता क्या है?",
+    "options": [
+      "1. एडमिनिस्ट्रेटर लॉगिन",
+      "2. गेस्ट लॉगिन",
+      "3. स्टुडेंट लॉगिन",
+      "4. नेटवर्क लॉगिन"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "If you want to start your computer with most of the non-essential features disabled, which of the following options will you use?",
+    "options": [
+      "1. VGA mode",
+      "2. Normal",
+      "3. Safe mode",
+      "4. Network mode"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "यदि आप अपने कंप्यूटर को अधिकांश गैर-आवश्यक फीचर डिसेबल होने के साथ स्टार्ट करना चाहते हैं, तो आप निम्न में से किस विकल्प का उपयोग करेंगे?",
+    "options": [
+      "1. VGA मोड",
+      "2. सामान्य",
+      "3. सेफ़ मोड",
+      "4. नेटवर्क मोड"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following software is available to users with the source code? Users can freely distribute and modify this software and add additional features to the software.",
+    "options": [
+      "1. Open source",
+      "2. Shareware",
+      "3. Freeware",
+      "4. Closed source"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा सॉफ्टवेयर सोर्स कोड के साथ उपयोगकर्ताओं के लिए उपलब्ध है? उपयोगकर्ता इस सॉफ़्टवेयर को स्वतंत्र रूप से वितरित और मोडिफाय कर सकते हैं और सॉफ़्टवेयर में अतिरिक्त फीचर जोड़ सकते हैं।",
+    "options": [
+      "1. ओपन सोर्स",
+      "2. शेयरवेयर",
+      "3. फ्रीवेयर",
+      "4. क्लोज्ड सोर्स"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following devices is considered as both, input and output device?",
+    "options": [
+      "1. USB drive",
+      "2. Plotter",
+      "3. Keyboard",
+      "4. Printer"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से किस डिवाइस को इनपुट और आउटपुट डिवाइस दोनों के रूप में माना जाता है?",
+    "options": [
+      "1. USB ड्राइव",
+      "2. प्लोटर",
+      "3. कीबोर्ड",
+      "4. प्रिंटर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The minimum hard disk size recommended to install Windows 2000 is:",
+    "options": [
+      "1. 4 GB",
+      "2. 2 GB",
+      "3. 16 GB",
+      "4. 8 GB"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Windows 2000 को स्थापित करने के लिए अनुशंसित न्यूनतम हार्ड डिस्क साइज़ क्या है?",
+    "options": [
+      "1. 4 GB",
+      "2. 2 GB",
+      "3. 16 GB",
+      "4. 8 GB"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A website’s main page is called:",
+    "options": [
+      "1. the browser page",
+      "2. the search page",
+      "3. the home page",
+      "4. the finding page"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "वेबसाइट के मुख्यपृष्ठ को क्या कहा जाता है?",
+    "options": [
+      "1. ब्राउज़र पेज",
+      "2. सर्च पेज",
+      "3. होम पेज",
+      "4. फाइंडिंग पेज"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In Google calendar, the ______ is used to select the page size and page orientation.",
+    "options": [
+      "1. Calendar Print Preview",
+      "2. Page Preview",
+      "3. Orientation Preview",
+      "4. Size Preview"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "गूगल कैलेंडर में पेज साइज और पेज ओरिएंटेशन का चयन करने के लिए __________ का उपयोग किया जाता है।",
+    "options": [
+      "1. कैलेंडर प्रिंट प्रीव्यू",
+      "2. पेज प्रीव्यू",
+      "3. ओरिएंटेशन प्रीव्यू",
+      "4. साइज प्रीव्यू"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT a network switching technique?",
+    "options": [
+      "1. Circuit Switching",
+      "2. Packet Switching",
+      "3. Message Switching",
+      "4. Content Switching"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से कौन सी एक नेटवर्क स्विचिंग तकनीक नहीं है?",
+    "options": [
+      "1. सर्किट स्विचिंग",
+      "2. पैकेट स्विचिंग",
+      "3. मैसेज स्विचिंग",
+      "4. कंटेंट स्विचिंग"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In the Print dialog box, the Print to File creates:",
+    "options": [
+      "1. .txt file",
+      "2. .doc file",
+      "3. .dot file",
+      "4. .prn file"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "प्रिंट डायलॉग बॉक्स में, फाइल के लिए प्रिंट _______ का निर्माण करता है।",
+    "options": [
+      "1. .txt फाइल",
+      "2. .doc फाइल",
+      "3. .dot फाइल",
+      "4. .prn फाइल"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In which of the following ribbon tabs does the Spelling command appear?",
+    "options": [
+      "1. Review",
+      "2. View",
+      "3. Design",
+      "4. Insert"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "किस रिबन टैब में स्पेलिंग (Spelling) कमांड दिखाई देती है?",
+    "options": [
+      "1. रिव्यू",
+      "2. व्यू",
+      "3. डिज़ाइन",
+      "4. इन्सर्ट"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "If we press tab key to iterate through the table column for entering text, MS-Word capitalises ______ in each line by default.",
+    "options": [
+      "1. the first letter",
+      "2. the first word",
+      "3. the first letter in each word",
+      "4. all words"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "यदि हम टेक्स्ट की प्रविष्टि के लिए टेबल कॉलम के माध्यम से दोहराव के लिए टैब की दबाते हैं, तो MS Word डिफ़ॉल्ट रूप से प्रत्येक पंक्ति में ______ को कैपिटल कर देता है।",
+    "options": [
+      "1. पहला अक्षर",
+      "2. पहला शब्द",
+      "3. प्रत्येक शब्द के पहले अक्षर",
+      "4. सभी शब्दों"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Style guide of the Company, where Satheesh works, insists on one-and-a-half-inch margins for all press releases. Which type of margin should he select from the following options?",
+    "options": [
+      "1. Narrow",
+      "2. Normal",
+      "3. Custom Margin",
+      "4. Mirrored"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "सतीश जहां काम करता है, उस कंपनी का स्टाइल गाइड, सभी प्रेस विज्ञप्तियों में डेढ़ इंच का मार्जिन देने पर जोर देती है। इसके लिए उसे नीचे दिए गए विकल्पों में से किस प्रकार के मार्जिन को चुनना चाहिए?",
+    "options": [
+      "1. नैरो",
+      "2. नार्मल",
+      "3. कस्टम मार्जिन",
+      "4. मिररर्ड"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "There is/are ______ type(s) of indent(s).",
+    "options": [
+      "1. 1",
+      "2. 2",
+      "3. 3",
+      "4. 4"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "इंडेंट के ______ प्रकार होते हैं।",
+    "options": [
+      "1. 1",
+      "2. 2",
+      "3. 3",
+      "4. 4"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is a Unicode encoding system to represent characters?",
+    "options": [
+      "1. UTF-8",
+      "2. UTF-10",
+      "3. UTF-28",
+      "4. UTF-48"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "अक्षरों को व्यक्त करने के लिए निम्न में से कौन सा एक यूनिकोड इनकोडिंग सिस्टम है?",
+    "options": [
+      "1. UTF-8",
+      "2. UTF-10",
+      "3. UTF-28",
+      "4. UTF-48"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following domain names is used by network organisations?",
+    "options": [
+      "1. .net",
+      "2. .org",
+      "3. .com",
+      "4. .edu"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "नेटवर्क संगठनों द्वारा निम्न में से किस डोमेन नाम का उपयोग किया जाता है?",
+    "options": [
+      "1. .net",
+      "2. .org",
+      "3. .com",
+      "4. .edu"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is an input device?",
+    "options": [
+      "1. Speaker",
+      "2. Monitor",
+      "3. Light Pen",
+      "4. Printer"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन सी एक इनपुट डिवाइस है?",
+    "options": [
+      "1. स्पीकर",
+      "2. मॉनिटर",
+      "3. लाइट पेन",
+      "4. प्रिंटर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Following is the path to display a shaded background behind the area where tracked changes or comments appear in the right margin in MacOS 2011 version MS-Word.<br><br>Review tab -> ? -> Show Markup -> Markup Area Highlight.",
+    "options": [
+      "1. Proofing",
+      "2. Comments",
+      "3. Tracking",
+      "4. Changes"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MacOS 2011 वर्ज़न MS-Word में उस क्षेत्र के पीछे एक छायांकित (शेडेड) बेकग्राउंड प्रदर्शित करने का पथ निम्नलिखित है जहां ट्रैक किए गए परिवर्तन या टिप्पणियां राईट मार्जिन में दिखाई देती हैं।<br><br>Review tab -> ? -> Show Markup -> Markup Area Highlight.",
+    "options": [
+      "1. प्रूफिंग",
+      "2. कमेंट्स",
+      "3. ट्रैकिंग",
+      "4. चेंज"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is NOT a network topology type?",
+    "options": [
+      "1. Star",
+      "2. Mesh",
+      "3. Tree",
+      "4. Coin"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा नेटवर्क टोपोलॉजी का एक प्रकार नहीं है?",
+    "options": [
+      "1. स्टार",
+      "2. मेश",
+      "3. ट्री",
+      "4. कॉइन"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "How many steps are there in the process of mail merge?",
+    "options": [
+      "1. 5",
+      "2. 6",
+      "3. 7",
+      "4. 8"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "मेल मर्ज (merge) की प्रक्रिया में चरणों की संख्या कितनी होती है?",
+    "options": [
+      "1. 5",
+      "2. 6",
+      "3. 7",
+      "4. 8"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is the first network that came into existence in 1969?",
+    "options": [
+      "1. ARPANET",
+      "2. Internet",
+      "3. Internal network",
+      "4. Intercom network"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा पहला नेटवर्क 1969 में अस्तित्व में आया?",
+    "options": [
+      "1. ARPANET",
+      "2. इंटरनेट",
+      "3. आंतरिक नेटवर्क",
+      "4. इंटरकॉम नेटवर्क"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following mobile processors is developed by Apple Inc.?",
+    "options": [
+      "1. A14 Bionic",
+      "2. MediaTek650",
+      "3. SnapDragon 888",
+      "4. Exynox 2100"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा मोबाइल प्रोसेसर Apple Inc. द्वारा विकसित किया गया है?",
+    "options": [
+      "1. A14 बायोनिक (A14 Bionic)",
+      "2. मीडियाटेक650 (MediaTek650)",
+      "3. स्नैपड्रैगन 888 (SnapDragon 888)",
+      "4. एक्सी नॉक्स 2100 (Exynox 2100)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT a type of virus?",
+    "options": [
+      "1. File Infector",
+      "2. Boot Sector",
+      "3. Macro",
+      "4. bytecode"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से कौन सा वायरस का एक प्रकार नहीं है?",
+    "options": [
+      "1. फाइल इंफेक्टर",
+      "2. बूट सेक्टर",
+      "3. मैक्रो",
+      "4. बाईटकोड"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Ravi is working on a document. If he changes the page orientation, the cover pages in the Cover Page Gallery will ______ the orientation he has chosen.",
+    "options": [
+      "1. change to",
+      "2. be undisturbed by",
+      "3. change only selected pages as per",
+      "4. change only the first five pages as per"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "रवि एक डॉक्यूमेंट पर काम कर रहा है, और उसने पेज ओरिएंटेशन बदल दिया है, तो कवर पेज गैलरी में कवर पेज का ओरिएंटेशन ______ (हो) जाएगा।",
+    "options": [
+      "1. बदल",
+      "2. अपरिवर्तित रहेगा",
+      "3. सिर्फ चयनित पेज बदलेगा",
+      "4. सिर्फ पहले पांच पेज बदलेगा"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the Hexadecimal equivalent of Decimal number (219)₁₀?",
+    "options": [
+      "1. DB",
+      "2. BD",
+      "3. DC",
+      "4. CD"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "दशमलव संख्या (219)₁₀ के बराबर हेक्सा डेसिमल क्या है?",
+    "options": [
+      "1. DB",
+      "2. BD",
+      "3. DC",
+      "4. CD"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "How will you publish a Word file on a Browser?",
+    "options": [
+      "1. Open doc file in the browser.",
+      "2. Save the file with Type web page and then publish.",
+      "3. Upload the Word file on the internet.",
+      "4. Create the Word file in the browser."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "आप वर्ड फ़ाइल को ब्राउज़र पर कैसे पब्लिश (publish) करेंगे?",
+    "options": [
+      "1. ब्राउज़र में doc फ़ाइल खोलकर।",
+      "2. टाइप वेब पेज के साथ फ़ाइल को सेव करके फिर पब्लिश करके।",
+      "3. इंटरनेट पर वर्ड फ़ाइल अपलोड करके।",
+      "4. ब्राउज़र में वर्ड फ़ाइल क्रिएट करके।"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a useful point for subscript?",
+    "options": [
+      "1. It is used for standard abbreviations for trademarks and service marks.",
+      "2. It shares a baseline with numerator digits.",
+      "3. It is useful to write chemical formulae.",
+      "4. It is useful in copyright and registered trademark signs."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्न में से कौन सा सबस्क्रिप्ट के लिए उपयोगी बिंदु है?",
+    "options": [
+      "1. इसका उपयोग ट्रेडमार्क और सर्विस-मार्क के लिए मानक संक्षेपों के रूप में किया जाता है।",
+      "2. यह संख्यात्मक अंकों के साथ आधार रेखा साझा करता है।",
+      "3. यह रासायनिक सूत्रों को लिखने के दौरान उपयोगी सिद्ध होता है।",
+      "4. यह कॉपीराइट और पंजीकृत ट्रेडमार्क साइन में उपयोगी होता है।"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is a threat to data security?",
+    "options": [
+      "1. Phishing",
+      "2. Browser",
+      "3. Applet",
+      "4. Animation"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से कौन सा डेटा सुरक्षा से संबंधित एक खतरा है?",
+    "options": [
+      "1. फ़िशिंग",
+      "2. ब्राउज़र",
+      "3. एप्लेट",
+      "4. एनीमेशन"
+    ],
+    "answer": 0
+  }
 ]
         
         };
