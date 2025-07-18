@@ -1,4 +1,1047 @@
  const questionBank = {
+  "13th July 2025 - Shift1": [
+{
+    "q": "The main memory works in conjunction with which of the following?",
+    "options": [
+      "1. Special function cards",
+      "2. Printer",
+      "3. CPU",
+      "4. Motherboard"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "मुख्‍य मेमोरी निम्‍नलिखित में से किसके साथ संयोजन में काम करती है?",
+    "options": [
+      "1. स्पेशल फंक्‍शन कार्ड",
+      "2. प्रिंटर",
+      "3. CPU",
+      "4. मदर बोर्ड"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the key combination to justify selected text in an OpenOffice writer?",
+    "options": [
+      "1. Ctrl+E",
+      "2. Ctrl+J",
+      "3. Ctrl+C",
+      "4. Ctrl+K"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ओपन ऑफिस राइटर (OpenOffice writer) में चयनित टेक्‍स्‍ट को जस्टिफाई करने के लिए की-बोर्ड शॉर्टकट क्या है?",
+    "options": [
+      "1. Ctrl+E",
+      "2. Ctrl+J",
+      "3. Ctrl+C",
+      "4. Ctrl+K"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is an example of proprietary software?",
+    "options": [
+      "1. Linux",
+      "2. Apache",
+      "3. Mozilla Firefox",
+      "4. Adobe Photoshop"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन सा प्रोप्राइटरी सॉफ्टवेयर का उदाहरण है?",
+    "options": [
+      "1. लिनक्‍स (Linux)",
+      "2. अपाचे (Apache)",
+      "3. मोज़िला फ़ायरफ़ॉक्‍स (Mozilla Firefox)",
+      "4. एडोब फ़ोटोशॉप (Adobe Photoshop)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "With reference to computer I/O, GIGO stands for:",
+    "options": [
+      "1. Garbage In Garbage Out",
+      "2. Graphics Input Graphics Output",
+      "3. General Input General Output",
+      "4. General Input Garbage Out"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कंप्यूटर I/O के संदर्भ में GIGO का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Garbage In Garbage Out (गार्बेज इन गार्बेज आउट)",
+      "2. Graphics Input Graphics Output (ग्राफिक्‍स इनपुट ग्राफिक्‍स आउटपुट)",
+      "3. General Input General Output (जनरल इनपुट जनरल आउटपुट)",
+      "4. General Input Garbage Out (जनरल इनपुट गार्बेज आउट)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In the internet terminology, the acronym W3C is used to describe:",
+    "options": [
+      "1. World Wide Web Conference",
+      "2. World Wide Web Consortium",
+      "3. World Wide Web Communication",
+      "4. World Wide Web Coliseum"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "इंटरनेट की शब्दावली में, संक्षिप्‍त नाम W3C निम्‍न में से किसके वर्णन के लिए उपयोग किया जाता है?",
+    "options": [
+      "1. World Wide Web Conference (वर्ल्ड वाइड वेब कॉफ्रेंस)",
+      "2. World Wide Web Consortium (वर्ल्ड वाइड वेब कॉन्सोर्टियम)",
+      "3. World Wide Web Communication (वर्ल्ड वाइड वेब कम्युनिकेशन)",
+      "4. World Wide Web Coliseum (वर्ल्ड वाइड वेब कोलेज़ियम)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of following is NOT an input device?",
+    "options": [
+      "1. Keyboard",
+      "2. Monitor",
+      "3. Joystick",
+      "4. Microphone"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्‍न में से कौन सी एक इनपुट डिवाइस नहीं है?",
+    "options": [
+      "1. की-बोर्ड",
+      "2. मॉनिटर",
+      "3. जॉयस्टिक",
+      "4. माइक्रोफ़ोन"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Peripheral devices such as printers and monitors are considered to be:",
+    "options": [
+      "1. hardware",
+      "2. software",
+      "3. data",
+      "4. information"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "पेरिफेरल डिवाइसों जैसे कि प्रिंटर और मॉनिटर को निम्‍न में से क्‍या माना जाता है?",
+    "options": [
+      "1. हार्डवेयर",
+      "2. सॉफ्टवेयर",
+      "3. डेटा",
+      "4. सूचना"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is an example of procedural programming language?",
+    "options": [
+      "1. C",
+      "2. Datalog",
+      "3. Prolog",
+      "4. Bash"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन सी प्रक्रियात्‍मक प्रोग्रामिंग भाषा का उदाहरण है?",
+    "options": [
+      "1. C",
+      "2. डाटालॉग",
+      "3. प्रोलॉग",
+      "4. बैश"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The Barcode Scanner uses the ______ of the light reflected from a series of black and white stripes to tell a computer what code it is seeing.",
+    "options": [
+      "1. variance",
+      "2. intensity",
+      "3. standard deviation",
+      "4. energy"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कोड के विवरण को कंप्यूटर द्वारा समझे जाने के लिए बारकोड स्कैनर काली और सफेद धारियों की शृंखला से परावर्तित प्रकाश की/के _________ का उपयोग करता है।",
+    "options": [
+      "1. द्वैधता",
+      "2. तीव्रता",
+      "3. मानक विचलन",
+      "4. ऊर्जा"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "X, formerly Twitter, is also referred to as _________ Service.",
+    "options": [
+      "1. micro blogging",
+      "2. macro blogging",
+      "3. minor blogging",
+      "4. major blogging"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "X, जिसे पहले ट्विटर के नाम से जाना जाता था, को _________ सेवा के रूप में भी जाना जाता है।",
+    "options": [
+      "1. माइक्रो ब्लॉगिंग",
+      "2. मैक्रो ब्लॉगिंग",
+      "3. माइनर ब्लॉगिंग",
+      "4. मेजर ब्लॉगिंग"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Who is a blogger?",
+    "options": [
+      "1. The one who writes regularly for an online journal or website.",
+      "2. The process of creating, maintaining, writing or adding content to a blog.",
+      "3. The process of transferring file from internet to our computer.",
+      "4. The innovative way of organising one’s thoughts and articles."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "ब्लॉगर की परिभाषा क्या है?",
+    "options": [
+      "1. वह व्‍यक्ति जो ऑनलाइन पत्रिका या वेबसाइट पर नियमित रूप से लिखता है।",
+      "2. ब्लॉग पर कंटेंट के निर्माण, रखरखाव, लेखन अथवा एडिटिंग की प्रक्रिया।",
+      "3. इंटरनेट से हमारे कंप्यूटर में फ़ाइल को स्थानांतरित करने की प्रक्रिया।",
+      "4. किसी के विचारों और लेखों को व्‍यवस्थित करने का अभिनव तरीका।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ in pen plotters could be monochromic or multi coloured.",
+    "options": [
+      "1. Breadboards",
+      "2. Pens",
+      "3. Pencils",
+      "4. Rotating arms"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "पेन प्लॉटर्स का ______ एकरंगी अथवा बहुरंगी हो सकता है।",
+    "options": [
+      "1. ब्राडबोर्ड",
+      "2. पेन",
+      "3. पेंसिल",
+      "4. रोटेटिंग आर्म"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which type of network would you suggest for networking of a school building?",
+    "options": [
+      "1. WAN",
+      "2. LAN",
+      "3. MAN",
+      "4. PAN"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक विद्यालय की इमारत में नेटवर्किंग के लिए आप निम्‍न में से किस प्रकार के नेटवर्क के उपयोग का सुझाव देंगे?",
+    "options": [
+      "1. WAN",
+      "2. LAN",
+      "3. MAN",
+      "4. PAN"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The characteristic of computers that can perform tasks without manual intervention refers to which of the following?",
+    "options": [
+      "1. Deligence",
+      "2. Reliability",
+      "3. Versatality",
+      "4. Automation"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कंप्यूटर की वह विशेषता जो बिना किसी मानवीय हस्‍तक्षेप के कार्य कर सकती है, निम्‍न में से किससे संबंधित है?",
+    "options": [
+      "1. परिश्रम (Deligence)",
+      "2. विश्‍वसनीयता (Reliability)",
+      "3. बहुमुखी प्रतिभा (Versatality)",
+      "4. स्‍वचालन (Automation)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is an LCD Panel technology?",
+    "options": [
+      "1. CMOS",
+      "2. IPS",
+      "3. TTL",
+      "4. FET"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन सी एक LCD पैनल तकनीक है?",
+    "options": [
+      "1. CMOS",
+      "2. IPS",
+      "3. TTL",
+      "4. FET"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "With reference to flatbed scanner, a __________ comprising mirror, lens, filter and CCD (Charge coupled device) array is moved across with the help of a belt and a stepper motor to scan the document.",
+    "options": [
+      "1. cover sensor",
+      "2. scan head",
+      "3. print head",
+      "4. logic board"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "फ्लैटबेड स्कैनर के संदर्भ में, __________ में दर्पण, लेंस, फ़िल्‍टर और CCD (चार्ज-युग्मित डिवाइस) सरणी शामिल है जिसे दस्तावेज़ को स्कैन करने के लिए बेल्‍ट और स्टेपर मोटर की मदद से आगे बढ़ाया जाता है।",
+    "options": [
+      "1. कवर सेंसर",
+      "2. स्कैन हेड",
+      "3. प्रिंट हेड",
+      "4. लॉजिक बोर्ड"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is NOT a valid IP address type?",
+    "options": [
+      "1. Unfreezed",
+      "2. Public",
+      "3. Private",
+      "4. Dynamic"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन एक मान्‍य आईपी पता प्रकार नहीं है?",
+    "options": [
+      "1. अनफ़्रीज़ड",
+      "2. पब्लिक",
+      "3. प्राइवेट",
+      "4. डायनामिक"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following protocols is NOT related to the delivery of email on the internet?",
+    "options": [
+      "1. Post Office Protocol (POP)",
+      "2. Internet Message Access Protocol (IMAP)",
+      "3. Simple Mail Transfer Protocol (SMTP)",
+      "4. Simple Network Management Protocol (SNMP)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन सा प्रोटोकॉल इंटरनेट पर ई-मेल की डिलीवरी से संबंधित नहीं है?",
+    "options": [
+      "1. पोस्‍ट ऑफिस प्रोटोकॉल (POP)",
+      "2. इंटरनेट मैसेज एक्सेस प्रोटोकॉल (IMAP)",
+      "3. सिंपल मेल ट्रांसफर प्रोटोकॉल (SMTP)",
+      "4. सिंपल नेटवर्क मैनेजमेंट प्रोटोकॉल (SNMP)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "To change how your items appear in File Explorer, select _______ on the ribbon and choose between showing icons, lists, details and more in Windows 11 OS.",
+    "options": [
+      "1. View",
+      "2. List",
+      "3. Show",
+      "4. Display"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "फ़ाइल एप्लोरर में आपके आइटम कैसे दिखाई देते हैं, यह बदलने के लिए, रिबन पर _______ का चयन करें और विंडोज 11 ओएस में आइकन, सूचियों, विवरणों और अधिक दिखाने के बीच चुनें।",
+    "options": [
+      "1. व्यू (View)",
+      "2. लिस्‍ट (List)",
+      "3. शो (Show)",
+      "4. डिस्‍प्ले (Display)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which compression algorithm is used in the ZIP file format and in the GNU tool gzip?",
+    "options": [
+      "1. Lossless data compression algorithm",
+      "2. Transform coding",
+      "3. Lossy data compression algorithm",
+      "4. Predictive coding"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "ZIP फ़ाइल फॉर्मेट और GNU टूल gzip में निम्‍न में से किस संपीडन अल्गोरिदम का उपयोग किया जाता है?",
+    "options": [
+      "1. लॉसलेस डाटा कम्प्रेशन अल्गोरिथम",
+      "2. ट्रांसफॉर्म कोडिंग",
+      "3. लोस्सी डाटा कम्प्रेशन अल्गोरिथम",
+      "4. प्रेडिक्टिव कोडिंग"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT a broadband connection?",
+    "options": [
+      "1. Dail up",
+      "2. Digital subscriber line",
+      "3. Cable Modem",
+      "4. Wireless"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "इनमें से कौन ब्रॉडबैंड कनेक्‍शन नहीं है?",
+    "options": [
+      "1. डायल अप",
+      "2. डिजिटल सक्राइबर लाइन",
+      "3. केबल मॉडेम",
+      "4. वायरलेस"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In _____ cipher method, some sort of permutation is applied on plain text.",
+    "options": [
+      "1. circular",
+      "2. transposition",
+      "3. substitution",
+      "4. transposition and substitution both"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ सिफ़र विधि में, प्लेन टेक्‍स्‍ट पर कुछ प्रकार के परिवर्तन (permutation) लागू किए जाते हैं।",
+    "options": [
+      "1. सर्कुलर",
+      "2. ट्रांसपोजीशन",
+      "3. सब्स्टिट्यूशन",
+      "4. ट्रांसपोजीशन और सब्स्टिट्यूशन दोनों"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which printer produces a comparatively low-quality image?",
+    "options": [
+      "1. Laser",
+      "2. Dot matrix",
+      "3. 3D",
+      "4. LED"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्‍न में से कौन सा प्रिंटर तुलनात्‍मक रूप से निम्‍न गुणवत्ता के चित्र छापता है?",
+    "options": [
+      "1. लेज़र",
+      "2. डॉट मैट्रिक्‍स",
+      "3. 3D",
+      "4. LED"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is software that aids in gathering information about a person or organisation without their knowledge?",
+    "options": [
+      "1. Spyware",
+      "2. Flowware",
+      "3. Adware",
+      "4. Freeware"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन सा सॉफ्टवेयर किसी व्‍यक्ति या संगठन के बारे में उनकी जानकारी के बिना जानकारी एकत्र करने में सहायता करता है?",
+    "options": [
+      "1. स्पाइवेयर",
+      "2. फ्लोवेयर",
+      "3. एडवेयर",
+      "4. फ्रीवेयर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a process that manages how and where the data on a storage disk, typically a hard disk drive (HDD), is stored, accessed and managed?",
+    "options": [
+      "1. Input/Output System",
+      "2. File System",
+      "3. Process Management System",
+      "4. Disk Scheduling System"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्‍न में से कौन सी प्रक्रिया यह प्रबंधित करती है कि स्टोरेज डिस्‍क, आमतौर पर हार्ड डिस्‍क ड्राइव (HDD) पर डेटा कैसे और कहाँ संग्रहीत, एक्सेस और प्रबंधित किया जाता है?",
+    "options": [
+      "1. इनपुट/आउटपुट सिस्‍टम",
+      "2. फ़ाइल सिस्‍टम",
+      "3. प्रोसेस मैनेजमेंट सिस्‍टम",
+      "4. डिस्‍क शेड्यूलिंग सिस्‍टम"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following files has .8bi file extension?",
+    "options": [
+      "1. Adobe Photoshop Layer File",
+      "2. Adobe Photoshop Document",
+      "3. Adobe Photoshop Plug-in",
+      "4. Adobe Photoshop Edited Image"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्‍न में से किस फ़ाइल का एक्‍सटेंशन .8bi होता है?",
+    "options": [
+      "1. अडोबी फ़ोटोशॉप लेयर फाइल",
+      "2. अडोबी फ़ोटोशॉप डॉक्यूमेंट",
+      "3. अडोबी फ़ोटोशॉप प्‍लग-इन",
+      "4. अडोबी फोटोशॉप एडिटेड इमेज"
+    ],
+    "answer": 2
+  },
+  {
+    "q": ".xml is the extension of:",
+    "options": [
+      "1. Extensible Markup Language (XML) file",
+      "2. Extensible Mobile Language (XML) file",
+      "3. Example Markup Language (XML) file",
+      "4. Extensible Markup Learning (XML) file"
+    ],
+    "answer": 0
+  },
+  {
+    "q": ".xml निम्‍न में से किस फाइल का एक्‍सटेंशन है?",
+    "options": [
+      "1. एक्‍सटेंसिबल मार्कअप लैंग्वेज (XML) फ़ाइल",
+      "2. एक्‍सटेंसिबल मोबाइल लैंग्वेज (XML) फ़ाइल",
+      "3. एक्साम्‍पल मार्कअप लैंग्वेज (XML) फ़ाइल",
+      "4. एक्‍सटेंसिबल मार्कअप लर्निंग (XML) फ़ाइल"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following file extensions refers to a presentation software file?",
+    "options": [
+      "1. .pptx",
+      "2. .doc",
+      "3. .obj",
+      "4. .exe"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन सा फ़ाइल एक्‍सटेंशन एक प्रेजेंटेशन सॉफ्टवेयर फ़ाइल को संदर्भित करता है?",
+    "options": [
+      "1. .pptx",
+      "2. .doc",
+      "3. .obj",
+      "4. .exe"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "________ mode starts Windows in a basic state, using a limited set of files and drivers. Observing Windows in this mode enables you to narrow down the source of a problem and can help you troubleshoot problems on your device.",
+    "options": [
+      "1. Scan",
+      "2. Critical",
+      "3. Safe",
+      "4. Normal"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "________ मोड विंडोज को बेसिक अवस्था में शुरू करता है, जिसमें सीमित संख्या में फाइलें और ड्राइवर इस्तेमाल किए जाते हैं। इस मोड में विंडोज को देखने से आप समस्या के स्रोत को कम कर सकते हैं और अपने डिवाइस पर समस्याओं का निवारण करने में मदद कर सकते हैं।",
+    "options": [
+      "1. स्कैन",
+      "2. क्रिटिकल",
+      "3. सेफ",
+      "4. नॉर्मल"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The boundary value analysis belongs to:",
+    "options": [
+      "1. black box testing",
+      "2. white box testing",
+      "3. system testing",
+      "4. unit testing"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "सीमा मान विश्लेषण (boundary value analysis) किससे से संबंधित होता है?",
+    "options": [
+      "1. ब्लैक बॉक्‍स परीक्षण",
+      "2. व्हाइट बॉक्‍स परीक्षण",
+      "3. सिस्‍टम परीक्षण",
+      "4. यूनिट परीक्षण"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "You can remove your email address from spam subscription lists by ______________________.",
+    "options": [
+      "1. not buying anything online so that junk mail senders will not having anything to benefit by",
+      "2. sending them nasty replies when they send any mail",
+      "3. simply deleting the messages",
+      "4. clicking the unsubscribe link"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "आप ______________________ द्वारा स्पैम सदस्‍यता सूची से अपना ईमेल पता हटा सकते हैं।",
+    "options": [
+      "1. कुछ भी ऑनलाइन न ख़रीदें, जिससे जंक मेल प्रेषकों को इसका कोई लाभ नहीं मिलेगा",
+      "2. जब वे कोई मेल भेजें, तो उन्हें धमकी भरा जवाब भेजकर",
+      "3. मैसेज को डिलीट करके",
+      "4. अनसब्‍सक्राइब लिंक पर क्लिक करके"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "___________ refers to the act of sending unsolicited messages, often excessively, about a product or service by email, SMS or social media.",
+    "options": [
+      "1. Spamming",
+      "2. Snooping",
+      "3. Phishing",
+      "4. Jacking"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "___________ का तात्‍पर्य ईमेल, एसएमएस या सोशल मीडिया द्वारा किसी उत्पाद या सेवा के बारे में अक्‍सर अत्‍यधिक मात्रा में अनचाहे संदेश भेजने के कार्य से है।",
+    "options": [
+      "1. स्पैमिंग",
+      "2. स्नूपिंग",
+      "3. फिशिंग",
+      "4. जैकिंग"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "E-business stands for:",
+    "options": [
+      "1. Electronic Business",
+      "2. Electron Business",
+      "3. Electric Business",
+      "4. Economy Business"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "ई-बिजनेस का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Electronic Business (इलेक्ट्रॉनिक बिजनेस)",
+      "2. Electron Business (इलेक्ट्रॉन बिजनेस)",
+      "3. Electric Business (इलेक्ट्रिक बिजनेस)",
+      "4. Economy Business (इकॉनमी बिजनेस)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Alt+W is used for which of the following in MS-Word 2019?",
+    "options": [
+      "1. Go to View tab",
+      "2. Go to References tab",
+      "3. Go to Mailings tab",
+      "4. Go to Review tab"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Word 2019 में, Alt+W का उपयोग निम्‍न में से किसके लिए किया जाता है?",
+    "options": [
+      "1. व्यू टैब पर जाने के लिए",
+      "2. रेफरेंस टैब पर जाने के लिए",
+      "3. मेलिंग टैब पर जाने के लिए",
+      "4. रिव्यू टैब पर जाने के लिए"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following shortcut keys in MS-Word 2019 is used to go to References tab?",
+    "options": [
+      "1. Alt + S",
+      "2. Alt + M",
+      "3. Alt + R",
+      "4. Alt + W"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Word 2019 में, रेफेरेंस टैब पर जाने के लिए निम्‍न में से किस की-बोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Alt + S",
+      "2. Alt + M",
+      "3. Alt + R",
+      "4. Alt + W"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The groups shown in the image are part of ___________ tab in MS-Word 2019. <br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOKOoHJGAcPUqx_R7qAbUAQBeMMysVJgDCbuHJ0tw_7lyvAeHitVezmw7upqFE7-gBqx1CQmF3Ac2sy3DR7DB5vybmYqUDxh9ghtk0xqMYVGzicAtNzHnWAQTlDMBKmCYNqRoa8-v3rkvNYq0IWPgXItsBf3BqDSjD_7bncdDJAON-SYWvm3zrVpuaeF5a/s867/wr%2001.jpg\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. Home",
+      "2. Insert",
+      "3. Mailing",
+      "4. Reference"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "छवि में दिखाए गए समूह MS-Word 2019 में ___________ टैब का हिस्सा हैं। <br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOKOoHJGAcPUqx_R7qAbUAQBeMMysVJgDCbuHJ0tw_7lyvAeHitVezmw7upqFE7-gBqx1CQmF3Ac2sy3DR7DB5vybmYqUDxh9ghtk0xqMYVGzicAtNzHnWAQTlDMBKmCYNqRoa8-v3rkvNYq0IWPgXItsBf3BqDSjD_7bncdDJAON-SYWvm3zrVpuaeF5a/s867/wr%2001.jpg\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. होम",
+      "2. इंसर्ट",
+      "3. मेलिंग",
+      "4. रेफरेंस"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "An email address consists of which two parts?",
+    "options": [
+      "1. User name and domain name",
+      "2. User name and country name",
+      "3. Domain name and country name",
+      "4. Country name and Company name"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "ईमेल पते में कौन से दो भाग होते हैं?",
+    "options": [
+      "1. उपयोगकर्ता नाम और डोमेन नाम",
+      "2. उपयोगकर्ता नाम और देश का नाम",
+      "3. डोमेन नाम और देश का नाम",
+      "4. देश का नाम और कंपनी का नाम"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS-Excel 2019, Add Level, Delete Level, Copy Level etc., are the options under the ______ dialog Box in Sort & Filter Command Group under Data Tab.",
+    "options": [
+      "1. Filter",
+      "2. Sort",
+      "3. Alignment",
+      "4. Font"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 में, ऐड लेवल, डिलीट लेवल, कॉपी लेवल आदि, डेटा टैब के अंतर्गत सॉर्ट और फ़िल्‍टर कमांड ग्रुप में ______ डायलॉग बॉक्‍स के अंतर्गत विकल्‍प हैं।",
+    "options": [
+      "1. फ़िल्‍टर",
+      "2. सॉर्ट",
+      "3. अलाइनमेंट",
+      "4. फॉन्‍ट"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is NOT an internet search engine?",
+    "options": [
+      "1. Google",
+      "2. Web crawler",
+      "3. Excite",
+      "4. Baidu"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन सा एक इंटरनेट सर्च इंजन नहीं है?",
+    "options": [
+      "1. Google",
+      "2. Web crawler",
+      "3. Excite",
+      "4. Baidu"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The network layer deals with which of the following units?",
+    "options": [
+      "1. Bits",
+      "2. Bytes",
+      "3. Frames",
+      "4. Packets"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "नेटवर्क लेयर का संबंध निम्‍न में से किस इकाई से है?",
+    "options": [
+      "1. बिट",
+      "2. बाइट",
+      "3. फ्रेम",
+      "4. पैकेट"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In MS-Word 2019, how can you make standard document that can be used as a template?",
+    "options": [
+      "1. By saving the document in pdf format",
+      "2. By making a copy of the document",
+      "3. By saving on online drives",
+      "4. By saving the document as .dotx file"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Word 2019 में, आप एक ऐसा मानक डॉक्यूमेंट किस प्रकार बना सकते हैं, जिसे टेम्‍पलेट के रूप में उपयोग किया जा सकता है?",
+    "options": [
+      "1. डॉक्यूमेंट को pdf फॉर्मेट में सेव करके।",
+      "2. डॉक्यूमेंट की एक प्रति (कॉपी) बनाकर।",
+      "3. डॉक्यूमेंट को ऑनलाइन ड्राइव पर सेव करके।",
+      "4. डॉक्यूमेंट को .dotx फ़ाइल के रूप में सेव करके।"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The ________ at the beginning of the URL indicates the protocol that the browser must use to request the resource.",
+    "options": [
+      "1. domain name",
+      "2. port",
+      "3. scheme",
+      "4. path"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "URL की शुरूआत में ________ उस प्रोटोकॉल को इंगित करता है जिसे ब्राउज़र द्वारा रिसोर्स का अनुरोध करने के लिए उपयोग करना चाहिए।",
+    "options": [
+      "1. डोमेन नेम",
+      "2. पोर्ट",
+      "3. स्कीम",
+      "4. पाथ"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "________ is a network of interconnected servers that speeds up webpage loading for data-heavy applications.",
+    "options": [
+      "1. Virtual Private Network (VPN)",
+      "2. Content Delivery Network (CDN)",
+      "3. ISDN",
+      "4. Private Network"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "________ परस्‍पर जुड़े सर्वरों का एक नेटवर्क है जो डेटा-भारी अनुप्रयोगों के लिए वेबपेज लोडिंग को गति देता है।",
+    "options": [
+      "1. वर्चुअल प्राइवेट नेटवर्क (VPN)",
+      "2. कंटेंट डिलिवरी नेटवर्क (CDN)",
+      "3. ISDN",
+      "4. प्राइवेट नेटवर्क"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ feature of MS-Excel will help you to present the data in graphical form to make it easier to understand large quantities of data and the relationship between different series of data.",
+    "options": [
+      "1. Pivot Table",
+      "2. Chart",
+      "3. Wizard",
+      "4. Formula"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 का ______ फ़ीचर आपको डेटा को ग्राफिकल रूप में प्रस्तुत करने में सहायता करता है जिससे बड़ी मात्रा में डेटा और डेटा की विभिन्‍न शृंखलाओं के बीच संबंध को समझना आसान हो सके।",
+    "options": [
+      "1. पिवट टेबल",
+      "2. चार्ट्स",
+      "3. विज़ार्ड",
+      "4. फॉर्मूला"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In MS-Excel 2019, where a row and column meet is called a/an ______.",
+    "options": [
+      "1. column",
+      "2. value",
+      "3. address",
+      "4. cell"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel 2019 में, जहां एक रो और एक कॉलम मिलते हैं, उसे ______ कहा जाता है।",
+    "options": [
+      "1. कॉलम",
+      "2. वैल्यू",
+      "3. एड्रेस",
+      "4. सेल"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "How do we hide error values in a Pivot Table report in MS-Excel 2019?",
+    "options": [
+      "1. PivotTable Analyze tab ---> Pivot Table group ---> Layout & Format tab ---> check 'For error values show'",
+      "2. Data tab ---> Layout & Format ---> check 'For error values show'",
+      "3. Formulas tab ---> Layout & Format ---> check 'For error values show'",
+      "4. Insert tab ---> Layout & Format ---> check 'For error values show'"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "हम MS-Excel 2019 में पिवट टेबल रिपोर्ट में त्रुटि मान कैसे छिपाते हैं?",
+    "options": [
+      "1. पाइवोट टेबल एनालाइज टैब ---> पाइवोट टेबल ग्रुप ---> लेआउट & फॉर्मेट टैब ---> 'For error values show' को चेक करें",
+      "2. डाटा टैब ---> लेआउट & फॉर्मेट टैब ---> 'For error values show' को चेक करें",
+      "3. फ़ॉर्मूलास टैब ---> लेआउट & फॉर्मेट टैब ---> 'For error values show' को चेक करें",
+      "4. इन्‍सर्ट टैब ---> लेआउट & फॉर्मेट टैब ---> 'For error values show' को चेक करें"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A website that is used for selling products is called ____________.",
+    "options": [
+      "1. e-commerce website",
+      "2. search engine",
+      "3. web browser",
+      "4. e-governance website"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "वह वेबसाइट क्या कहलाती है जिसपर उत्पादों को बेचा जाता है?",
+    "options": [
+      "1. ई-कॉमर्स वेबसाइट",
+      "2. सर्च इंजन",
+      "3. वेब ब्राउज़र",
+      "4. ई-शासन वेबसाइट"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS-Excel 2019, macros are used for ______ over a group of tasks.",
+    "options": [
+      "1. deleting",
+      "2. repeating",
+      "3. selecting",
+      "4. searching"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 में, टास्‍क्‍स के समूह की __________ के लिए मैक्रोज़ का उपयोग किया जाता है।",
+    "options": [
+      "1. डिलीटिंग",
+      "2. रिपीटिंग",
+      "3. सेलेक्टिंग",
+      "4. सर्चिंग"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following functions is used to find the square root of 64 in MS-Excel 2019?",
+    "options": [
+      "1. =SquareRoot(64)",
+      "2. =SQRT(64)",
+      "3. =FunctionSQRT(64)",
+      "4. =Square(64)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 में 64 का वर्गमूल ज्ञात करने के लिए निम्‍नलिखित में से किस फ़ंक्‍शन का उपयोग किया जाता है?",
+    "options": [
+      "1. =SquareRoot(64)",
+      "2. =SQRT(64)",
+      "3. =FunctionSQRT(64)",
+      "4. =Square(64)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "___________ is used to calculate the arithmetic mean of values 28, 76, 90, 40 and 48 in MS-Excel 2019.",
+    "options": [
+      "1. =AVERAGE(28,76,90,40,48)",
+      "2. =AVG(28,76,90,40,48)",
+      "3. =MEAN(28,76,90,40,48)",
+      "4. =MEDIAN(28,76,90,40,48)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "___________ का उपयोग MS-Excel 2019 में 28,76,90,40 और 48 के अंकगणितीय माध्‍य की गणना करने के लिए किया जाता है।",
+    "options": [
+      "1. =AVERAGE(28,76,90,40,48)",
+      "2. =AVG(28,76,90,40,48)",
+      "3. =MEAN(28,76,90,40,48)",
+      "4. =MEDIAN(28,76,90,40,48)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is the full form of '.xlsm'?",
+    "options": [
+      "1. Excel Micro–Enabled Workbook",
+      "2. Excel Mean–Enabled Workbook",
+      "3. Excel Most–Enabled Workbook",
+      "4. Excel Macro–Enabled Workbook"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्‍नलिखित में से '.xlsm' का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Excel Micro–Enabled Workbook (एक्‍सल माइक्रो–एनेबल्‍ड वर्कबुक)",
+      "2. Excel Mean–Enabled Workbook (एक्‍सल मीन–एनेबल्‍ड वर्कबुक)",
+      "3. Excel Most–Enabled Workbook (एक्‍सल मोस्‍ट–एनेबल्‍ड वर्कबुक)",
+      "4. Excel Macro–Enabled Workbook (एक्‍सल मैक्रो–एनेबल्‍ड वर्कबुक)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "If the categories are typically organised along the vertical axis, and the values along the horizontal axis, then the graph is called a _________ in MS-Excel 2019.",
+    "options": [
+      "1. Bar chart",
+      "2. Column chart",
+      "3. Pie chart",
+      "4. Doughnut chart"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "यदि श्रेणियों को आमतौर पर ऊर्ध्वाधर अक्ष के साथ व्‍यवस्थित किया जाता है, और मान क्षैतिज अक्ष के साथ व्‍यवस्थित किए जाते हैं, तो ग्राफ को MS-Excel 2019 में _________ कहा जाता है।",
+    "options": [
+      "1. बार चार्ट",
+      "2. कॉलम चार्ट",
+      "3. पाई चार्ट",
+      "4. डोनट चार्ट"
+    ],
+    "answer": 0
+  }
+],
+
   "30th May 2025 - Shift1": [
  {
     "q": "Which of the following types of memories is closely related to the processor?",
