@@ -1,4 +1,1048 @@
  const questionBank = {
+ "12th July 2025 - Shift1": [
+  {
+    "q": "Cache and main memory will lose their contents when the power of a computer is off. This property is referred to as ______.",
+    "options": [
+      "1. dynamic",
+      "2. static",
+      "3. volatility",
+      "4. non-volatile"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "कैश और मुख्‍य मेमोरी अपनी सामग्री (कंटेन्‍ट) खो देंगे जब बिजली बंद हो जाएगी, इस गुण को ___________ के रूप में संदर्भित किया जाता हैं।",
+    "options": [
+      "1. डायनमिक",
+      "2. स्टैटिक",
+      "3. वोलैटिलिटी",
+      "4. नॉन-वोलेटाइल"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is a set of instructions embedded on a piece of hardware at the time of manufacturing and tells the device how to operate?",
+    "options": [
+      "1. Application Software",
+      "2. Utility Software",
+      "3. Firmware",
+      "4. Freeware"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन सा हार्डवेयर के निर्माण के समय उस पर सन्निहित निर्देशों का एक सेट है और डिवाइस को संचालित करने का तरीका बताता है?",
+    "options": [
+      "1. एप्लिकेशन सॉवेयर (Application Software)",
+      "2. यूटिलिटी सॉवेयर (Utility Software)",
+      "3. फर्मवेयर (Firmware)",
+      "4. फ्रीवेयर (Freeware)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "______________ is a programmable device that takes in input, performs some arithmetic and logical operations over it and produces the desired output.",
+    "options": [
+      "1. SMPS",
+      "2. UPS",
+      "3. Microprocessor",
+      "4. Bus"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "______________ एक प्रोग्राम करने योग्‍य डिवाइस है जो इनपुट लेता है, उस पर कुछ अंकगणितीय और तार्किक ऑपरेशन करता है और वांछित आउटपुट उत्‍पन्‍न करता है।",
+    "options": [
+      "1. एसएमपीएस (SMPS)",
+      "2. यूपीएस (UPS)",
+      "3. माइक्रोप्रोसेसर (Microprocessor)",
+      "4. बस (Bus)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "You CANNOT save an MS-Excel 2016 file in a/an _______ format.",
+    "options": [
+      "1. PDF",
+      "2. PSD",
+      "3. TXT",
+      "4. XML"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "आप MS-Excel 2016 फाइल को _____ फ़ॉर्मेट में सेव नहीं कर सकते।",
+    "options": [
+      "1. PDF",
+      "2. PSD",
+      "3. TXT",
+      "4. XML"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What does the term SCSI stand for?",
+    "options": [
+      "1. Small Computer Software Interface",
+      "2. Small Computer Storage Interface",
+      "3. Small Computer System Interface",
+      "4. Small Computer Standard Interface"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "SCSI का पूर्ण रूप __________ हैI",
+    "options": [
+      "1. Small Computer Software Interface (स्मॉल कंप्यूटर सॉफ्टवेयर इंटरफ़ेस)",
+      "2. Small Computer Storage Interface (स्मॉल कंप्यूटर स्टोरेज इंटरफ़ेस)",
+      "3. Small Computer System Interface (स्मॉल कंप्यूटर सिस्‍टम इंटरफ़ेस)",
+      "4. Small Computer Standard Interface (स्मॉल कंप्यूटर स्टैण्‍डर्ड इंटरफ़ेस)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The most common input devices are:",
+    "options": [
+      "1. microphone and printer",
+      "2. scanner and monitor",
+      "3. digital camera and speaker",
+      "4. keyboard and mouse"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "इनमे से सबसे आम इनपुट डिवाइस कौन-सी हैं?",
+    "options": [
+      "1. माइक्रोफोन और प्रिंटर",
+      "2. स्कैनर और मॉनीटर",
+      "3. डिजिटल कैमरा और स्पीकर",
+      "4. कीबोर्ड और माउस"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In a computer, which device is functionally opposite to a keyboard?",
+    "options": [
+      "1. Joystick",
+      "2. Track ball",
+      "3. Mouse",
+      "4. Printer"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "एक कंप्यूटर में, कौन-सा डिवाइस कार्यात्‍मक रूप से कीबोर्ड से विपरीत है?",
+    "options": [
+      "1. जॉयस्टिक",
+      "2. ट्रेक बॉल",
+      "3. माउस",
+      "4. प्रिंटर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is Python language editor?",
+    "options": [
+      "1. Tally",
+      "2. Coda",
+      "3. Jupyter",
+      "4. SnapTouch"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "इनमें से कौन पायथन भाषा संपादक है?",
+    "options": [
+      "1. टैली (Tally)",
+      "2. कोडा (Coda)",
+      "3. जुपिटर (Jupyter)",
+      "4. स्नैपटच (SnapTouch)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is utility software?",
+    "options": [
+      "1. Avast Antivirus",
+      "2. BIOS",
+      "3. Android",
+      "4. MS-Word"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍नलिखित में से कौनसा यूटिलिटी सॉफ्टवेयर है?",
+    "options": [
+      "1. एवास्‍ट एंटीवायरस (Avast Antivirus)",
+      "2. BIOS",
+      "3. एंड्रॉइड (Android)",
+      "4. MS-Word"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is true with reference to DVD?",
+    "options": [
+      "1. Full form of DVD is Digital Valid Disk.",
+      "2. DVDs are not portable.",
+      "3. DVD-R offers a write once approach.",
+      "4. DVD ROM is used for both reading and writing."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "DVD के संदर्भ में निम्‍नलिखित में से कौन सा सत्‍य है?",
+    "options": [
+      "1. DVD का पूर्ण रूप डिजिटल वैलिड डिस्‍क है",
+      "2. DVD पोर्टेबल नहीं हैं",
+      "3. DVD-R एक बार लिखने का तरीका प्रदान करता है",
+      "4. DVD ROM पढ़ने और लिखने दोनों के लिए उपयोग किया जाता है"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is an example of open source software?",
+    "options": [
+      "1. Netflix",
+      "2. MySQL",
+      "3. McAfee",
+      "4. Google Chrome"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन सा ओपन सोर्स सॉफ्टवेयर का एक उदाहरण है?",
+    "options": [
+      "1. नेटफ्लिक्‍स (Netflix)",
+      "2. MySQL",
+      "3. मैकएफी (McAfee)",
+      "4. गूगल क्रोम (Google Chrome)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following plotters draws exact vector graphics on paper or other media?",
+    "options": [
+      "1. Cutting Plotter",
+      "2. Pinch Roller",
+      "3. Cycle Plotter",
+      "4. Drum Plotter"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन सा प्लॉटर कागज़ या अन्‍य मीडिया पर सटीक वेक्‍टर ग्राफ़िक्‍स बनाता है?",
+    "options": [
+      "1. कटिंग प्लॉटर (Cutting Plotter)",
+      "2. पिंच रोलर (Pinch Roller)",
+      "3. साइकिल प्लॉटर (Cycle Plotter)",
+      "4. ड्रम प्लॉटर (Drum Plotter)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "___________ is an internet service consisting of thousands of newsgroups.",
+    "options": [
+      "1. USECASE",
+      "2. USENET",
+      "3. USESET",
+      "4. UCENET"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "___________ एक इंटरनेट सेवा है जिसमें हजारों समाचार समूह शामिल हैं।",
+    "options": [
+      "1. USECASE",
+      "2. USENET",
+      "3. USESET",
+      "4. UCENET"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following keyboard shortcut keys is used to rename a highlighted icon, file or folder in Windows 10?",
+    "options": [
+      "1. F3",
+      "2. F5",
+      "3. F2",
+      "4. F4"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Windows 10 में हाइलाइट किए गए आइकन, फाइल या फोल्‍डर का नाम बदलने के लिए निम्‍न में से किस कीबोर्ड शॉर्टकट कुंजी का उपयोग किया जाता है?",
+    "options": [
+      "1. F3",
+      "2. F5",
+      "3. F2",
+      "4. F4"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Cortana is an intelligent personal assistant developed by ____________.",
+    "options": [
+      "1. Microsoft",
+      "2. Apple",
+      "3. HP",
+      "4. Oracle"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कॉर्टाना (Cortana) ____________ द्वारा विकसित एक बुद्धिमान व्‍यक्तिगत सहायक है।",
+    "options": [
+      "1. माइक्रोसॉफ्ट (Microsoft)",
+      "2. एप्‍पल (Apple)",
+      "3. एचपी (HP)",
+      "4. ओरेकल (Oracle)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following devices is commonly used to protect an internal network from unwanted access?",
+    "options": [
+      "1. Firewall",
+      "2. Router",
+      "3. Switch",
+      "4. Hub"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "अवांछित पहुंच (एक्सेस) से आंतरिक नेटवर्क की सुरक्षा के लिए आमतौर पर कौन-सा डिवाइस उपयोग किया जाता है?",
+    "options": [
+      "1. फ़ायरवॉल",
+      "2. राउटर",
+      "3. स्विच",
+      "4. हब"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following statements is/are true?<br><br>(i) The actions in a GUI are usually performed through direct manipulation of graphical elements like buttons and icons. <br>(ii) A type of window that displays additional information and asks a user for input is called 'dialogue box'.",
+    "options": [
+      "1. Only (i)",
+      "2. Only (ii)",
+      "3. Both (i) and (ii)",
+      "4. Neither (i) nor (ii)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सा कथन सत्‍य है/हैं?<br><br>(i) GUI में क्रियाएं आमतौर पर बटन और आइकन जैसे ग्राफिकल तत्वों के सीधे हेरफेर (manipulation) के माध्‍यम से की जाती हैं। <br>(ii) एक प्रकार का विंडो जो अतिरिक्‍त जानकारी प्रदर्शित करता है और उपयोगकर्ता से इनपुट मांगता है उसे 'डायलॉग बॉक्‍स (dialogue box)' कहा जाता है।",
+    "options": [
+      "1. केवल (i)",
+      "2. केवल (ii)",
+      "3. (i) और (ii) दोनों",
+      "4. न तो (i) और न ही (ii)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A grey scale picture in JPEG is divided into blocks of ______ pixels.",
+    "options": [
+      "1. 6 × 6",
+      "2. 5 × 5",
+      "3. 7 × 7",
+      "4. 8 × 8"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "JPEG में एक ग्रे स्केल चित्र, _____ पिक्‍सल के ब्लॉक में विभाजित होती है।",
+    "options": [
+      "1. 6 × 6",
+      "2. 5 × 5",
+      "3. 7 × 7",
+      "4. 8 × 8"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following ranges across countries and continents?<br>(i) LAN (ii) MAN (iii) WAN",
+    "options": [
+      "1. Only (i)",
+      "2. Only (ii)",
+      "3. Only (iii)",
+      "4. Both (i) and (ii)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्‍नलिखित में से किसकी रेंज देश और महाद्वीपों तक होती है?<br>(i) LAN (ii) MAN (iii) WAN",
+    "options": [
+      "1. केवल (i)",
+      "2. केवल (ii)",
+      "3. केवल (iii)",
+      "4. (i) और (ii) दोनों"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The security property which defines the ability of a system to ensure that an asset is modified only by authorised parties is called __________.",
+    "options": [
+      "1. availability",
+      "2. confidentiality",
+      "3. integrity",
+      "4. cryptograph"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "सुरक्षा संपत्ति जो यह सुनिश्चित करने के लिए एक प्रणाली की क्षमता को परिभाषित करती है कि एक संपत्ति केवल अधिकृत पार्टियों द्वारा संशोधित की जाती है, उसे __________ कहा जाता है।",
+    "options": [
+      "1. उपलब्‍धता (availability)",
+      "2. गोपनीयता (confidentiality)",
+      "3. अखंडता (integrity)",
+      "4. क्रिप्टोग्राफ (cryptograph)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "How to view the MAC address associated with Windows 10 Ethernet device?",
+    "options": [
+      "1. Settings->Network and Internet->Status->View hardware and connection properties",
+      "2. Settings->Dial-up->Properties",
+      "3. Settings->VPN->Properties",
+      "4. Settings->Proxy->Properties"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Windows 10 ईथरनेट डिवाइस से जुड़े MAC पते को कैसे देखें?",
+    "options": [
+      "1. Settings->Network and Internet->Status->Properties",
+      "2. Settings->Dial-up->Properties",
+      "3. Settings->VPN->Properties",
+      "4. Settings->Proxy->Properties"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "AES symmetric encryption algorithm performs all its computations on ________ of data rather than in bits.",
+    "options": [
+      "1. bytes",
+      "2. numbers",
+      "3. cells",
+      "4. digits"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एईएस (AES) सममित एन्क्रिप्‍शन एल्गोरिथ्‍म बिट्स के बजाय डेटा के ________ पर अपनी सभी गणना करता है।",
+    "options": [
+      "1. बाइट्स",
+      "2. नंबर",
+      "3. सेल्‍स",
+      "4. डिजिट्स"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "When a router needs to send a packet to another computer/network, then it should know which of the following?",
+    "options": [
+      "1. Datagram",
+      "2. Path name",
+      "3. Transport medium",
+      "4. IP address"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "जब किसी राउटर को एक पैकेट को दूसरे कंप्यूटर/नेटवर्क में भेजने की आवश्‍यकता होती है, तो उसे निम्‍नलिखित में से क्या पता होना चाहिए?",
+    "options": [
+      "1. डेटाग्राम",
+      "2. पथ नाम (पाथ नेम)",
+      "3. परिवहन माध्‍यम",
+      "4. IP एड्रेस"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Sometimes after encountering certain problems with the computer monitor and reporting these problems to the technology coordinator, we need to tell him the size of the monitor. How is the monitor size measured?",
+    "options": [
+      "1. From left top to left bottom",
+      "2. From right top to right bottom",
+      "3. From corner to corner diagonally",
+      "4. From left top to right top"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "कभी-कभी मॉनिटर की समस्याओं का सामना करने के दौरान और इन समस्याओं को प्रौद्योगिकी समन्‍वयक को रिपोर्ट करते समय, हमे उन्हें मॉनीटर का आकार (माप) बताने की आवश्‍यकता होती है। मॉनिटर का आकार (माप) कैसे मापा जाता है?",
+    "options": [
+      "1. बाएं शीर्ष से बाएं तल तक",
+      "2. दायें शीर्ष से दायें तल तक",
+      "3. कोने से कोने तक (तिरछे रूप से)",
+      "4. बाएं शीर्ष से दाएं शीर्ष तक"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A/an ___________ is a weakness in an information system, system security procedures, internal controls or implementation that could be exploited or triggered by a threat source.",
+    "options": [
+      "1. threat",
+      "2. vulnerability",
+      "3. control",
+      "4. attack"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "____________ एक सूचना प्रणाली, सिस्‍टम सुरक्षा प्रक्रियाओं, आंतरिक नियंत्रण या कार्यान्‍वयन में एक कमजोरी है जिसका खतरा स्रोत द्वारा शोषण या ट्रिगर किया जा सकता है।",
+    "options": [
+      "1. थ्रेट (threat)",
+      "2. वल्‍नेरेबिलिटी (vulnerability)",
+      "3. कंट्रोल (control)",
+      "4. अटैक (attack)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following file formats is used for Java Server Page?",
+    "options": [
+      "1. .js",
+      "2. .java",
+      "3. .jsp",
+      "4. .jspl"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "जावा सर्वर पेज (Java Server Page) के लिए निम्‍नलिखित में से किस फाइल फॉर्मेट का उपयोग किया जाता है?",
+    "options": [
+      "1. .js",
+      "2. .java",
+      "3. .jsp",
+      "4. .jspl"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "File format WPD is used for which of the following files?",
+    "options": [
+      "1. Image File",
+      "2. Compressed Archive File",
+      "3. Winamp Playlist",
+      "4. WordPerfect Document File"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "फाइल फॉर्मेट WPD का उपयोग निम्‍नलिखित में से किस फाइल के लिए किया जाता है?",
+    "options": [
+      "1. इमेज फाइल",
+      "2. कम्प्रेस्‍ड आर्काइव फाइल",
+      "3. विनॅम्‍प प्लेलिस्‍ट",
+      "4. वर्डपर्फेक्‍ट डॉक्यूमेंट फाइल"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is the full form of UPS?",
+    "options": [
+      "1. Uninterruptible power supply",
+      "2. Unified power supply",
+      "3. Uninterruptible power sink",
+      "4. Universal power sink"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "यूपीएस (UPS) का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Uninterruptible power supply (अनइंटरप्टिबल पॉवर सप्लाई)",
+      "2. Unified power supply (यूनिफाइड पॉवर सप्लाई)",
+      "3. Uninterruptible power sink (अनइंटरप्टिबल पॉवर सिंक)",
+      "4. Universal power sink (यूनिवर्सल पॉवर सिंक)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is included along with genuine software, and may come from a malicious website or may have been added to the intentional functionality of genuine software?",
+    "options": [
+      "1. Spyware",
+      "2. VMware",
+      "3. Middleware",
+      "4. Adware"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "इनमें से किसे, सही (वास्‍तविक) सॉफ्टवेयर के साथ शामिल किया जाता है और यह किसी मैलिसियस वेबसाइट से आया हो सकता है या फिर इसे किसी वास्‍तविक सॉफ्टवेयर की इन्टेंशनल कार्यविधि के लिए जोड़ा जा सकता है?",
+    "options": [
+      "1. स्पाईवेयर",
+      "2. वीएमवेयर (VMware)",
+      "3. मिडलवेयर",
+      "4. एडवेयर (Adware)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT a benefit of Software Testing?",
+    "options": [
+      "1. Bug free application",
+      "2. Cost effective",
+      "3. Low failure",
+      "4. Gathering requirements"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सा, सॉफ्टवेयर परीक्षण का लाभ नहीं है?",
+    "options": [
+      "1. बग मुक्‍त एप्लीकेशन",
+      "2. लागत प्रभावी",
+      "3. कम विफलता",
+      "4. आवश्‍यकताओं को इकट्ठा करना"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is NOT a valid email prefix format?",
+    "options": [
+      "1. xyz-d@mail.com",
+      "2. xyz.mnp@mail.com",
+      "3. xyz-@mail.com",
+      "4. xyz@mail.com"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन सा वैध ईमेल उपसर्ग प्रारूप नहीं है?",
+    "options": [
+      "1. xyz-d@mail.com",
+      "2. xyz.mnp@mail.com",
+      "3. xyz-@mail.com",
+      "4. xyz@mail.com"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "With reference to computer networks, what is the full form of OSI?",
+    "options": [
+      "1. Open Systems Interconnection",
+      "2. Open Source Interconnection",
+      "3. Open Systems Internet",
+      "4. Open Static Interconnection"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कंप्यूटर नेटवर्क के संदर्भ में, OSI का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Open Systems Interconnection (ओपन सिस्‍टम्‍स इंटरकनेक्‍शन)",
+      "2. Open Source Interconnection (ओपन सोर्स इंटरकनेक्‍शन)",
+      "3. Open Systems Internet (ओपन सिस्‍टम्‍स इंटरनेट)",
+      "4. Open Static Interconnection (ओपन स्टैटिक इंटरकनेक्‍शन)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "________ is unsolicited internet content that is typically sent in bulk for advertising purposes from an unknown sender.",
+    "options": [
+      "1. Spam",
+      "2. Cookies",
+      "3. Firewall",
+      "4. Phishing"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "________ एसी अवांछित इंटरनेट सामग्री (कंटेन्‍ट) है जो आम तौर पर किसी अज्ञात प्रेषक से विज्ञापन उद्देश्यों के लिए थोक (बल्‍क) में भेजी जाती है।",
+    "options": [
+      "1. स्पैम",
+      "2. कुकीज़",
+      "3. फ़ायरवॉल",
+      "4. फ़िशिंग"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "When you are inserting a page number in the footer of an MS-Word 2019 document, the number 2 appears, however, you want the letter b to be shown. <br>How will you do that?",
+    "options": [
+      "1. From the Insert tab choose page number and specify necessary setting",
+      "2. Go to the Layout tab and click on the page number format tool and then page margin",
+      "3. From the Format menu choose bullets & numbering",
+      "4. Go to the Mailings tab and specify required setting"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "जब आप MS-Word 2019 डॉक्युमेंट के फुटर में कोई पेज नंबर इन्‍सर्ट करते हैं, तो नंबर 2 दिखाई देता है, लेकिन आप अक्षर b दिखाना चाहते हैं।<br>आप यह कैसे करेंगे?",
+    "options": [
+      "1. इन्‍सर्ट टैब से पेज नंबर चुनें और आवश्‍यक सेटिंग निर्दिष्‍ट करें",
+      "2. लेआउट टैब पर जाए और पेज नंबर फॉर्मेट टूल पर क्लिक करें और फिर पेज मार्जिन पर क्लिक करें",
+      "3. फॉर्मेट मेनू से बुलेट और नंबरिंग चुनें",
+      "4. मेलिंग टैब पर जाए और आवश्‍यक सेटिंग निर्दिष्‍ट करें"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS-Word 2019, the space between tabs can show dots, dashes etc. These are called _________.",
+    "options": [
+      "1. decimal characters",
+      "2. space characters",
+      "3. leader characters",
+      "4. extra characters"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Word 2019 में, टैब के बीच का स्थान डॉट्स, डैश आदि दिखा सकता है। इन्हें _________ कहा जाता है।",
+    "options": [
+      "1. डेसीमल कैरेक्‍टर्स",
+      "2. स्पेस कैरेक्‍टर्स",
+      "3. लीडर कैरेक्‍टर्स",
+      "4. एक्स्ट्रा कैरेक्‍टर्स"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In a network, __________ measures the time it takes for some data to get to its destination across the network. It is a measure of delay.",
+    "options": [
+      "1. network latency",
+      "2. bandwidth",
+      "3. frequency",
+      "4. wavelength"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "नेटवर्क में, __________ , कुछ डेटा को नेटवर्क से होकर अपने गंतव्‍य तक पहुंचने में लगने वाले समय को मापता है। यह विलंब का माप होता है।",
+    "options": [
+      "1. नेटवर्क लेटेंसी",
+      "2. बैंडविड्थ",
+      "3. फ्रिक्वेंसी",
+      "4. वेवलेन्‍थ"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT a valid option for setting up type of letters in the second step of the Mail Merge process in MS-Word 2019?",
+    "options": [
+      "1. Use the current document",
+      "2. Start from a template",
+      "3. Start from existing document",
+      "4. Start using current document"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Word 2019 में मेल मर्ज प्रक्रिया के दूसरे चरण में लेटर्स के प्रकार को सेट करने के लिए निम्‍न में से कौन-सा एक वैध विकल्‍प नहीं है?",
+    "options": [
+      "1. वर्तमान डॉक्यूमेंट का इस्तेमाल करें (Use the current document)",
+      "2. एक टेम्‍पलेट से शुरू करें (Start from a template)",
+      "3. मौजूदा डॉक्यूमेंट से शुरू करें (Start from existing document)",
+      "4. वर्तमान डॉक्यूमेंट का उपयोग करके शुरू करें (Start using current document)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "There is/are ______ radio button(s) under Select Starting Document for letters in the second step of the Mail Merge process in MS-Word 2019.",
+    "options": [
+      "1. one",
+      "2. two",
+      "3. three",
+      "4. four"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Word 2019 में मेल मर्ज प्रक्रिया के दूसरे चरण में पत्रों के लिए \"Select Starting Document\" के अंतर्गत ______ रेडियो बटन होता है/होते हैं।",
+    "options": [
+      "1. एक",
+      "2. दो",
+      "3. तीन",
+      "4. चार"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is NOT a search engine?",
+    "options": [
+      "1. Microsoft Bing",
+      "2. Google.com",
+      "3. Coursera",
+      "4. Yahoo.com"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "इनमें से कौन-सा, एक सर्च इंजन नहीं है?",
+    "options": [
+      "1. Microsoft Bing",
+      "2. Google.com",
+      "3. Coursera",
+      "4. Yahoo.com"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is an address that identifies a process on a host?",
+    "options": [
+      "1. IP address",
+      "2. Port number",
+      "3. Network address",
+      "4. MAC address"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सा, एक एड्रेस है जो किसी होस्‍ट पर एक प्रोसेस की पहचान करता है?",
+    "options": [
+      "1. IP एड्रेस",
+      "2. पोर्ट नंबर",
+      "3. नेटवर्क एड्रेस",
+      "4. मैक एड्रेस"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In MS-Word 2019, to save a document using the quick access toolbar if the Save button is NOT available in the quick access tool bar, which of the following must be done?",
+    "options": [
+      "1. Go to File -> Drag open option to quick access toolbar -> Save document",
+      "2. Double-click on quick access toolbar",
+      "3. Click down arrow on right side of quick access toolbar -> Click Save and the Save option is added to quick access toolbar",
+      "4. Go to File -> Save -> Go to quick access toolbar"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Word 2019 में, क्विक एक्सेस टूलबार का उपयोग करके किसी डॉक्युमेंट को सेव करने के लिए यदि क्विक एक्सेस टूल बार में सेव बटन उपलब्‍ध नहीं है, तो निम्‍न में से क्या किया जाना चाहिए?",
+    "options": [
+      "1. क्लिक करें File -> ओपन ऑपशन को ड्रेग करके क्विक एक्सेस टूल बार पर ले जाए -> डॉक्युमेंट सेव करें",
+      "2. क्विक एक्सेस टूल बार पर डबल क्लिक करें",
+      "3. क्विक एक्सेस टूल बार के दाईं ओर डाउन एरो पर क्लिक करें -> Save क्लिक करें -> डॉक्यूमेंट सेव करें",
+      "4. क्लिक करें File -> Save -> क्विक एक्सेस टूल बार पर जाए"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A _______ is a device that converts digital computer signals into an analog signal form that can travel over phone lines. It also re-converts the analog signals back into digital signals.",
+    "options": [
+      "1. router",
+      "2. hub",
+      "3. modem",
+      "4. codec"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "__________, एक उपकरण है जो डिजिटल कंप्यूटर सिग्नल को एक एनालॉग सिग्नल रूप में परिवर्तित करता है जो फोन लाइनों पर यात्रा कर सकता है। यह एनालॉग सिग्नलों को वापस डिजिटल सिग्नल में भी परिवर्तित करता है।",
+    "options": [
+      "1. राउटर",
+      "2. हब",
+      "3. मॉडेम",
+      "4. कोडेक"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which Ethernet Cable is made of glass cores surrounded by several layers of covering material generally made of PVC or Teflon?",
+    "options": [
+      "1. Twisted pair cable",
+      "2. Coaxial cable",
+      "3. Fibre optic cable",
+      "4. Unshielded twisted pair"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "कौन सी ईथरनेट केबल ग्लास कोर से बनी होती है जो आमतौर पर पीवीसी या टेफ्लॉन से बने आवरण सामग्री की कई परतों से घिरी होती है?",
+    "options": [
+      "1. ट्विस्टेड पेयर केबल",
+      "2. कोएक्सिअल केबल",
+      "3. फाइबर ऑप्टिस केबल",
+      "4. अनशील्डेड ट्विस्टेड पेअर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "To create a graph in MS-Excel 2019, which of the following steps must be taken?",
+    "options": [
+      "1. File tab -> Charts",
+      "2. Home tab -> Charts",
+      "3. Insert tab -> Recommended Charts",
+      "4. View tab -> Charts"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel 2019 में ग्राफ बनाने के लिए निम्‍नलिखित में से किन चरणों का उपयोग किया जाता है?",
+    "options": [
+      "1. फ़ाइल टैब -> चार्ट (File tab -> Charts)",
+      "2. होम टैब -> चार्ट (Home tab -> Charts)",
+      "3. इर्ट टैब -> रिकमेंडेड चार्ट (Insert tab -> Recommended Charts)",
+      "4. व्यू टैब -> चार्ट (View tab -> Charts)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A chart ________ is a brief, descriptive label that summarizes the main point or purpose of the graph.",
+    "options": [
+      "1. axes",
+      "2. title",
+      "3. source",
+      "4. legend"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "चार्ट ________ एक संक्षिप्‍त, वर्णनात्‍मक लेबल है जो ग्राफ के मुख्‍य बिंदु या उद्देश्‍य को सारांशित करता है।",
+    "options": [
+      "1. एक्सेस (Axes)",
+      "2. टाइटल (Title)",
+      "3. सोर्स (Source)",
+      "4. लीजेंड (Legend)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following keyboard shortcuts is used to make letters italic in MS-Excel 2019?",
+    "options": [
+      "1. Ctrl + I",
+      "2. Ctrl + B",
+      "3. Ctrl + U",
+      "4. Ctrl + V"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में अक्षरों को इटैलिक करने के लिए निम्‍नलिखित में से किस कीबोर्ड शॉर्टकट कुंजी का उपयोग किया जाता है?",
+    "options": [
+      "1. Ctrl + I",
+      "2. Ctrl + B",
+      "3. Ctrl + U",
+      "4. Ctrl + V"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following keyboard shortcuts is used to hide a row in MS-Excel 2019?",
+    "options": [
+      "1. Ctrl + 9",
+      "2. Ctrl + 0",
+      "3. Ctrl + 1",
+      "4. Ctrl + 2"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में एक पंक्ति को छिपाने के लिए निम्‍नलिखित में से किस कीबोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Ctrl + 9",
+      "2. Ctrl + 0",
+      "3. Ctrl + 1",
+      "4. Ctrl + 2"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A sports competition consisting of various sports was held for the students of a school. A sports teacher recorded the scores of all students in MS-Excel 2019. He now wants to find the total scores of the students across all sports. Which of the following functions should he use?",
+    "options": [
+      "1. COUNT",
+      "2. ADD",
+      "3. SUM",
+      "4. TOTAL"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एक स्कूल के छात्रों के लिए विभिन्‍न खेलों की एक खेल प्रतियोगिता आयोजित की गई। एक खेल शिक्षक ने MS-Excel 2019 में सभी छात्रों के अंक दर्ज किए। अब वह सभी खेलों में विद्यार्थियों के कुल अंक ज्ञात करना चाहता है। उसे निम्‍नलिखित में से किस फंक्‍शन का उपयोग करना चाहिए?",
+    "options": [
+      "1. COUNT",
+      "2. ADD",
+      "3. SUM",
+      "4. TOTAL"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A teacher has entered the marks of 30 students in her subject. Now, she wants to arrange them in ascending order. Which of the following options within the Data tab in MS-Excel 2019 should the teacher use?",
+    "options": [
+      "1. Sort",
+      "2. Format",
+      "3. Filter",
+      "4. Design"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एक शिक्षिका ने अपने विषय में 30 विद्यार्थियों के अंक दर्ज किए हैं। अब, वह इसे आरोही क्रम में व्‍यवस्थित करना चाहती है। शिक्षिका को MS-Excel 2019 में डेटा टैब के अंतर्गत निम्‍नलिखित में से किस विकल्‍प का उपयोग करना चाहिए?",
+    "options": [
+      "1. सॉर्ट (Sort)",
+      "2. फॉर्मेट (format)",
+      "3. फ़िल्‍टर (filter)",
+      "4. डिजाइन (design)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "After appearing for an exam, Sirish got his results for six different subjects. He wants to find his average. Which of the following functions of MS-Excel 2019 should he use?",
+    "options": [
+      "1. Avg",
+      "2. Average",
+      "3. Mean",
+      "4. Mode"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक परीक्षा में बैठने के बाद, सिरीश ने छह अलग-अलग विषयों के लिए अपना परिणाम प्राप्‍त किया। वह अपना औसत ज्ञात करना चाहता है। उसे MS-Excel 2019 के निम्‍नलिखित में से किस फ़ंक्‍शन का उपयोग करना चाहिए?.",
+    "options": [
+      "1. Avg",
+      "2. Average",
+      "3. Mean",
+      "4. Mode"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is included along with genuine software, and may come from a malicious website or may have been added to the intentional functionality of genuine software?",
+    "options": [
+      "1. Spyware",
+      "2. VMware",
+      "3. Middleware",
+      "4. Adware"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सा वास्‍तविक सॉफ्टवेयर के साथ शामिल हो सकता है, और किसी दुर्भावनापूर्ण वेबसाइट से आ सकता है या वास्‍तविक सॉफ्टवेयर की जानबूझकर की गई कार्यक्षमता में जोड़ा गया हो सकता है?",
+    "options": [
+      "1. स्पायवेयर",
+      "2. वीएमवेयर",
+      "3. मिडलवेयर",
+      "4. एडवेयर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following keyboard shortcuts is used to select an entire column in MS-Excel 2019?",
+    "options": [
+      "1. Ctrl + Spacebar",
+      "2. Alt + Spacebar",
+      "3. Shift + Spacebar",
+      "4. Spacebar"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में संपूर्ण कॉलम का चयन करने के लिए निम्‍नलिखित में से किस कीबोर्ड शॉर्टकट कुंजी का उपयोग किया जाता है?",
+    "options": [
+      "1. Ctrl + Spacebar",
+      "2. Alt + Spacebar",
+      "3. Shift + Spacebar",
+      "4. Spacebar"
+    ],
+    "answer": 0
+   }
+],
+
+  
   "13th July 2025 - Shift1": [
 {
     "q": "The main memory works in conjunction with which of the following?",
