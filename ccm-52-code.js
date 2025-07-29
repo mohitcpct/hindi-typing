@@ -1,4 +1,1047 @@
  const questionBank = {
+  "11th July 2025 - Shift1": [
+  {
+    "q": "CPU is an abbreviation for:",
+    "options": [
+      "1. Central Programming Unit",
+      "2. Central Processing Unit",
+      "3. Computer Processing Unit",
+      "4. Computer Protocol Unit"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "CPU का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Central Programming Unit (सेंट्रल प्रोग्रामिंग यूनिट)",
+      "2. Central Processing Unit (सेंट्रल प्रोसेसिंग यूनिट)",
+      "3. Computer Processing Unit (कंप्यूटर प्रोसेसिंग यूनिट)",
+      "4. Computer Protocol Unit (कंप्यूटर प्रोटोकॉल यूनिट)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is an example of freeware?",
+    "options": [
+      "1. Adobe PDF",
+      "2. Mozilla’s Firefox web browser",
+      "3. PHP",
+      "4. Perl"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍न में से कौन-सा फ्रीवेयर (freeware) का एक उदाहरण है?",
+    "options": [
+      "1. Adobe PDF",
+      "2. Mozilla’s Firefox web browser",
+      "3. PHP",
+      "4. Perl"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A ______ is a design tool that graphically shows the logic in a solution.",
+    "options": [
+      "1. flowchart",
+      "2. hierarchy chart",
+      "3. structure chart",
+      "4. context diagram"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_________ एक डिज़ाइन टूल है, जो एक सॉल्यूशन में लॉजिक को ग्राफिकल रूप में प्रदर्शित करता है।",
+    "options": [
+      "1. फ्लो चार्ट",
+      "2. हायरार्की चार्ट",
+      "3. स्ट्रक्‍चर चार्ट",
+      "4. कॉन्टेक्‍स्‍ट डायग्राम"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is an example of Proprietary Software?",
+    "options": [
+      "1. Libre Office",
+      "2. MacOS",
+      "3. Linux",
+      "4. PHP"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सा प्रोपराइटरी सॉफ्टवेयर का एक उदाहरण है?",
+    "options": [
+      "1. Libre Office",
+      "2. MacOS",
+      "3. Linux",
+      "4. PHP"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Abacus, Pascaline, Analytical Engine are examples of __________.",
+    "options": [
+      "1. Oldest computing devices",
+      "2. Search engines",
+      "3. Web browsers",
+      "4. Protocols"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "अबेकस, पास्‍कलाइन, एनालिटिकल इंजन ________ के उदाहरण है।",
+    "options": [
+      "1. सबसे पुराने कम्‍प्‍यूटिंग उपकरणो",
+      "2. सर्च इंजन",
+      "3. वेब ब्राउज़र",
+      "4. प्रोटोकोल"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following groups consists of only input devices?",
+    "options": [
+      "1. Mouse, Keyboard and Monitor",
+      "2. Mouse, Keyboard and Printer",
+      "3. Mouse, Keyboard and Plotter",
+      "4. Mouse, Keyboard and Scanner"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्‍न में से किस विकल्‍प-समूह में केवल इनपुट डिवाइस शामिल हैं?",
+    "options": [
+      "1. माउस, की-बोर्ड और मॉनिटर",
+      "2. माउस, की-बोर्ड और प्रिंटर",
+      "3. माउस, की-बोर्ड और प्लॉटर",
+      "4. माउस, की-बोर्ड और स्कैनर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Printed information is called ________, which exists physically and is a more permanent form of output than that presented on a display device.",
+    "options": [
+      "1. soft copy",
+      "2. blind copy",
+      "3. hard copy",
+      "4. desk copy"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "मुद्रित जानकारी _________ कहलाती है, जो भौतिक रूप से मौजूद होती है और डिस्‍पले डिवाइस पर प्रस्तुत करने की तुलना में आउटपुट का एक स्थायी रूप होता है।",
+    "options": [
+      "1. सॉफ्ट कॉपी",
+      "2. ब्लाइंड कॉपी",
+      "3. हार्ड कॉपी",
+      "4. डेस्‍ट कॉपी"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is not a feature of system software?",
+    "options": [
+      "1. It is written in a low-level language",
+      "2. It requires more storage space",
+      "3. It is complex to understand",
+      "4. It is present near hardware components"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सा सिस्‍टम सॉफ्टवेयर की विशेषता नहीं है?",
+    "options": [
+      "1. यह एक निम्‍न-स्‍तरीय भाषा में लिखा जाता है",
+      "2. इसके लिए अधिक भंडारण स्थान की आवश्‍यकता होती है",
+      "3. यह समझने के लिए जटिल होता है",
+      "4. यह हार्डवेयर घटकों के पास मौजूद होता है"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following barcode types can hold as much as 7,000 digits or 4,000 characters of text, and can be deployed in healthcare facilities to monitor medication?",
+    "options": [
+      "1. Bookland",
+      "2. Interleaved 2 of 5",
+      "3. CODE 128",
+      "4. QR Code"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-से बारकोड प्रकार टेक्‍स्‍ट के 7,000 अंकों या 4,000 कैरक्‍टर को होल्‍ड कर सकते हैं, और इसको अस्‍पतालों में दवाओं की निगरानी के लिए काम में लिया जाता है?",
+    "options": [
+      "1. Bookland",
+      "2. Interleaved 2 of 5",
+      "3. CODE 128",
+      "4. QR Code"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "______ is a media format design that supersedes the DVD format.",
+    "options": [
+      "1. Blu-Ray",
+      "2. CD",
+      "3. Floppy Disk",
+      "4. Hard Disk"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ एक मीडिया प्रारूप डिज़ाइन है जिसने DVD प्रारूप का स्थान लिया।",
+    "options": [
+      "1. ब्लू-रे",
+      "2. CD",
+      "3. फ्लॉपी डिस्‍क",
+      "4. हार्ड डिस्‍क"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is not an example of a web application?",
+    "options": [
+      "1. MS-Office",
+      "2. WhatsApp",
+      "3. GMail",
+      "4. Outlook"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सा वेब एप्लिकेशन का उदाहरण नहीं है?",
+    "options": [
+      "1. एमएस-ऑफिस",
+      "2. व्हाट्सएप",
+      "3. जीमेल",
+      "4. आउटलुक"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is FALSE with reference to flatbed plotters?",
+    "options": [
+      "1. Flatbed plotter uses a table-like surface to draw images.",
+      "2. It is used to draw images with almost unlimited length.",
+      "3. A mechanical arm is used to hold pens.",
+      "4. The movement of pens depends on the software instructions."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "फ्लैटबेड प्लॉटर के संबंध में निम्‍नलिखित में से कौन-सा कथन गलत है?",
+    "options": [
+      "1. फ्लैटबेड प्लॉटर में छवियों के मुद्रण के लिए मेज के समान तल का उपयोग किया जाता है",
+      "2. इसका उपयोग प्रायः असीमित लंबाई वाले चित्रों के मुद्रण के लिए होता है",
+      "3. इसमें पेनों को संभालने के लिए एक यांत्रिक भुजा का उपयोग किया जाता है",
+      "4. इसके पेनों की गति सॉफ्टवेयर द्वारा दिए जाने वाले निर्देश पर निर्भर करती है"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In which of the following plotters, the images are produced on paper by using raster graphics rather than vector graphics?",
+    "options": [
+      "1. Pen",
+      "2. Electrostatic",
+      "3. Inkjet",
+      "4. Cutting"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्‍नलिखित में से किस प्लॉटर में वेक्‍टर ग्राफिक्‍स के बजाय रैस्‍टर (Raster) ग्राफिक्‍स का उपयोग करके छवियों को कागज पर निर्मित किया जाता है?",
+    "options": [
+      "1. पेन",
+      "2. इलेक्ट्रोस्टेटिक",
+      "3. इंकजेट",
+      "4. कटिंग"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Identify whether the following statements are TRUE or FALSE. <br><br>i) C++ is partially object-oriented programming language <br>ii) Java language was developed by Microsoft",
+    "options": [
+      "1. i) TRUE ii) TRUE",
+      "2. i) TRUE ii) FALSE",
+      "3. i) FALSE ii) FALSE",
+      "4. i) FALSE ii) TRUE"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्‍नलिखित में से सही और गलत कथनों का निर्धारण कीजिए। <br><br>i) C++ आंशिक रूप से ऑब्जेक्‍ट ओरिएंटेड प्रोग्रामिंग लैंग्वेज है।<br>ii) जावा लैंग्वेज को माइक्रोसॉफ्ट द्वारा विकसित किया गया था।",
+    "options": [
+      "1. i) सही ii) सही",
+      "2. i) सही ii) गलत",
+      "3. i) गलत ii) गलत",
+      "4. i) गलत ii) सही"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is not a type of USB connector?",
+    "options": [
+      "1. USB Type-C",
+      "2. Mini-USB",
+      "3. Micro-USB",
+      "4. Broad USB"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सा एक प्रकार का USB कनेक्‍टर नहीं है?",
+    "options": [
+      "1. यूएसबी टाइप-C",
+      "2. मिनी-यूएसबी",
+      "3. माइक्रो-यूएसबी",
+      "4. ब्रॉड यूएसबी"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Identify the printing method that creates raised and coloured areas on paper and is often seen in wedding invitations, business cards and letterheads.",
+    "options": [
+      "1. Gravure",
+      "2. Letterpress",
+      "3. Thermography",
+      "4. Screen printing"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "प्रिंटिंग विधि, जो कागज पर उभरे हुए और रंगीन क्षेत्रों को बनाती है, जो अक्‍सर शादी के निमंत्रण पत्र, बिज़नस कार्ड और लेटरहेड में दिखाई देती है, कौन-सी है?",
+    "options": [
+      "1. ग्रेव्योर (Gravure)",
+      "2. लेटरप्रेस (Letterpress)",
+      "3. थर्मोग्राफी (Thermography)",
+      "4. स्क्रीन प्रिंटिंग (Screen printing)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What happens by double clicking the left mouse button on an icon in Microsoft Windows?",
+    "options": [
+      "1. Opens the program or file",
+      "2. Highlights or drags the program",
+      "3. Selects a paragraph of text",
+      "4. Brings up the right-click menu with additional options"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Microsoft Windows में एक आइकन पर बाएं माउस बटन पर डबल क्लिक करने से क्या होता है?",
+    "options": [
+      "1. यह प्रोग्राम या फ़ाइल को खोलता है",
+      "2. यह कार्यम को हाइलाइट या ड्रैग करता है",
+      "3. यह टेक्‍स्‍ट के एक पैराग्राफ का चयन करता है",
+      "4. यह अतिरिक्‍त विकल्पों के साथ राइट-क्लिक मेनू लाता है"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ of a grayscale image is the average intensity of all pixels in image.",
+    "options": [
+      "1. Size",
+      "2. Colour",
+      "3. Brightness",
+      "4. Feature"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एक ग्रेस्केल इमेज की/का ______, इमेज में सभी पिक्‍सल की औसत तीव्रता होती है।",
+    "options": [
+      "1. आकार",
+      "2. रंग",
+      "3. चमक",
+      "4. फीचर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following refers to a process that requests services on the network?",
+    "options": [
+      "1. Server",
+      "2. Client",
+      "3. Datagram",
+      "4. packet"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सा, एक प्रक्रिया को संदर्भित करता है जो नेटवर्क पर सेवाओं का अनुरोध करता है?",
+    "options": [
+      "1. सर्वर",
+      "2. क्लाईंट",
+      "3. डेटाग्राम",
+      "4. पैकेट"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ is the lossless compression algorithm for the simplest image data.",
+    "options": [
+      "1. Run length encoding",
+      "2. Kolakoski sequence",
+      "3. Look-and-say sequence",
+      "4. Golomb coding"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "________ सरलतम छवि डेटा (simplest image data) के लिए दोषरहित संपीड़न एल्गोरिथम है।",
+    "options": [
+      "1. रन लेंथ एन्कोडिंग (Run length encoding)",
+      "2. कोलाकोस्की सीक्वेंस (Kolakoski sequence)",
+      "3. लुक-एंड-से सीक्वेंस (Look-and-say sequence)",
+      "4. गोलोम्‍ब कोडिंग (Golomb coding)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following icons appear when you are not connected to Wi-Fi network in Windows 11?",
+    "options": [
+      "1. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJykFJAJ3A7fsKwXboMmCmmidIGCyK4x-T10OtgAmbRpkS6igJtjYHWEL_DQkzIRZK8iB-2bkro5ZKTBJb2vFyVbWw8fD1YEjoLmxsUt6ETVViQ4RDf8AP1jgpk8gWdThLuTLriCzLsRfIA7rd0lKRLURzkmiB4geyrawFCtKPVNNN6TN0nP1CDflRsjSQ/s66/01%20pn.png\" style=\"max-width:100%;height:auto;\">",
+      "2. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj14dAepuj_DYk7pu5tWbnDnWw-4dDwnFKMc-M75sImu0ZzeVihmNJgllOT2yRxagrr7B6r3AmbDGfKCIdgdOO_mgyJ44beNLSajxlCv07MskliNIOC8NpCuukVO9faUDOZ6exVPYekyAUHjonxgkdBzMGmBlrb023FmAY0sPp6Ic0rVk1QjkLdIiKkaPXw/s65/02%20pn.png\" style=\"max-width:100%;height:auto;\">",
+      "3. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVv_qButpMMW9LphBDnJguKzxEQVBF2BEssFWDB6TuYg4Av1ftjFyhZxzORe7zmHIMJovQj6Kto19YSm3oUsu_MrGukkNzUF81WwecbYs9g1CS9ITcpPWsKxR2UDfWC65kG5cQ0kifPUZV9WY0ZDb7_kb9J_dXkboQQecqrmBaG3adgPQE6EFL5AXYK5ab/s75/03%20pn.png\" style=\"max-width:100%;height:auto;\">",
+      "4. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvebLb8iZradpLuA9VfR1xzB7JEEAoZFiiexACU3Ch2fjpvOPqxTQpsKg4yiy2VJwX5EpkTazo4cP2L1Mf9DyH52Wh4-XTGZpo3YQBYCNtdXRjE7yOWF02HVloiUIQYHzbHp_8WJZqhMU0DtlP5b8eY92dj_RzbSz3WINmaj606MnMSvFHsPbbi_SEfTKB/s65/04%20pn.png\" style=\"max-width:100%;height:auto;\">"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "जब आप विंडोज 11 में वाई-फाई नेटवर्क से जुड़े नहीं होते हैं, तो नि में से कौन-सा आइकन दिखाई देता है?",
+    "options": [
+      "1. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJykFJAJ3A7fsKwXboMmCmmidIGCyK4x-T10OtgAmbRpkS6igJtjYHWEL_DQkzIRZK8iB-2bkro5ZKTBJb2vFyVbWw8fD1YEjoLmxsUt6ETVViQ4RDf8AP1jgpk8gWdThLuTLriCzLsRfIA7rd0lKRLURzkmiB4geyrawFCtKPVNNN6TN0nP1CDflRsjSQ/s66/01%20pn.png\" style=\"max-width:100%;height:auto;\">",
+      "2. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj14dAepuj_DYk7pu5tWbnDnWw-4dDwnFKMc-M75sImu0ZzeVihmNJgllOT2yRxagrr7B6r3AmbDGfKCIdgdOO_mgyJ44beNLSajxlCv07MskliNIOC8NpCuukVO9faUDOZ6exVPYekyAUHjonxgkdBzMGmBlrb023FmAY0sPp6Ic0rVk1QjkLdIiKkaPXw/s65/02%20pn.png\" style=\"max-width:100%;height:auto;\">",
+      "3. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVv_qButpMMW9LphBDnJguKzxEQVBF2BEssFWDB6TuYg4Av1ftjFyhZxzORe7zmHIMJovQj6Kto19YSm3oUsu_MrGukkNzUF81WwecbYs9g1CS9ITcpPWsKxR2UDfWC65kG5cQ0kifPUZV9WY0ZDb7_kb9J_dXkboQQecqrmBaG3adgPQE6EFL5AXYK5ab/s75/03%20pn.png\" style=\"max-width:100%;height:auto;\">",
+      "4. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvebLb8iZradpLuA9VfR1xzB7JEEAoZFiiexACU3Ch2fjpvOPqxTQpsKg4yiy2VJwX5EpkTazo4cP2L1Mf9DyH52Wh4-XTGZpo3YQBYCNtdXRjE7yOWF02HVloiUIQYHzbHp_8WJZqhMU0DtlP5b8eY92dj_RzbSz3WINmaj606MnMSvFHsPbbi_SEfTKB/s65/04%20pn.png\" style=\"max-width:100%;height:auto;\">"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a security method that translates data into a code or ciphertext?",
+    "options": [
+      "1. Data encryption",
+      "2. Data decryption",
+      "3. Data cloning",
+      "4. Data merging"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सी एक सुरक्षा विधि है जो डेटा को कोड या साएफरटेक्‍स्‍ट में अनुवादित करती है?",
+    "options": [
+      "1. डेटा एन्क्रिप्‍शन",
+      "2. डेटा डिक्रिप्‍शन",
+      "3. डेटा क्लोनिंग",
+      "4. डेटा मर्जिंग"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Computer hardware refers to ________.",
+    "options": [
+      "1. software parts that make your computer.",
+      "2. physical parts that make your computer.",
+      "3. algorithms that make your computer.",
+      "4. programs that make your computer."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कंप्यूटर हार्डवेयर ______________________ संदर्भित करता है जो आपके कंप्यूटर को बनाते हैं।",
+    "options": [
+      "1. सॉफ्टवेयर भागों को",
+      "2. भौतिक भागों को",
+      "3. एल्गोरिदम को",
+      "4. उन प्रोग्रामों को"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What may NOT cause problems in a hard disk?",
+    "options": [
+      "1. Viruses",
+      "2. Power surges",
+      "3. Heat",
+      "4. Regulated power supply"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्‍न में से कौन-सा, हार्ड डिस्‍क में समस्या का कारण नहीं हो सकता है?",
+    "options": [
+      "1. वायरस",
+      "2. पॉवर प्रोत्‍कर्ष",
+      "3. गर्मी",
+      "4. नियंत्रित शक्ति प्रदाय"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Cortana is an intelligent personal assistant included in which version of Windows?",
+    "options": [
+      "1. Windows NT",
+      "2. Windows XP",
+      "3. Windows ME",
+      "4. Windows 10"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Windows के किस संस्‍करण में एक इंटेलिजेंट पर्सनल असिस्टेन्‍ट, कॉर्टाना शामिल है?",
+    "options": [
+      "1. Windows NT",
+      "2. Windows XP",
+      "3. Windows ME",
+      "4. Windows 10"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is the full form of AIF?",
+    "options": [
+      "1. Audio Intra File Format",
+      "2. Audio Intra File Filter",
+      "3. Audio Interchange File Format",
+      "4. Audio Interchange Filter File"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "AIF का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Audio Intra File Format (ऑडियो इंट्रा फाइल फॉर्मेट)",
+      "2. Audio Intra File Filter (ऑडियो इंट्रा फाइल फिल्‍टर)",
+      "3. Audio Interchange File Format (ऑडियो इंटरचेंज फाइल फॉर्मेट)",
+      "4. Audio Interchange Filter File (ऑडियो इंटरचेंज फिल्‍टर फाइल)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following files has the extension TGA ?",
+    "options": [
+      "1. System file",
+      "2. Graphics File",
+      "3. Programming/Scripting related file",
+      "4. Hypertext Related File"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्‍नलिखित में से किस फाइल का एक्‍सटेंशन TGA होता है?",
+    "options": [
+      "1. सिस्‍टम फाइल",
+      "2. ग्राफिक्‍स फाइल",
+      "3. प्रोग्रामिंग/स्क्रिप्टिंग संबंधित फाइल",
+      "4. हाइपरटेक्‍स्‍ट संबंधित फाइल"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following statements is NOT true about UPS?",
+    "options": [
+      "1. It is used to protect the hardware.",
+      "2. It is used to provide emergency power.",
+      "3. It is used to protect from input power interruptions.",
+      "4. It cannot handle power surges."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "UPS के बारे में कौन-सा कथन सत्‍य नहीं है?",
+    "options": [
+      "1. इसका उपयोग हार्डवेयर की सुरक्षा के लिए किया जाता है।",
+      "2. इसका उपयोग आपातकालीन शक्ति (बिजली) प्रदान करने के लिए किया जाता है।",
+      "3. इसका उपयोग इनपुट पावर बाधाओं से बचाने के लिए किया जाता है।",
+      "4. यह विद्युत् प्रोत्‍कर्ष को संभाल नहीं सकता है।"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Spyware may try to deceive users by ______ itself with desirable software.",
+    "options": [
+      "1. replicating",
+      "2. bundling",
+      "3. reproducing",
+      "4. killing"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "स्पाइवेयर वांछनीय सॉफ्टवेयर के साथ स्‍वयं की ______ द्वारा उपयोगकर्ताओं को धोखा देने का प्रयास कर सकता है।",
+    "options": [
+      "1. रेप्लिकेटिंग (replicating)",
+      "2. बंडलिंग (bundling)",
+      "3. रिप्रोड्यूसिंग (reproducing)",
+      "4. किलिंग (killing)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a computer program written to enter your computer and damage or alter your files and data?",
+    "options": [
+      "1. Fix",
+      "2. Update",
+      "3. Virus",
+      "4. Patch"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सा कंप्यूटर प्रोग्राम आपके कंप्यूटर में प्रवेश करने तथा आपकी फ़ाइलों और डेटा को नुकसान पहुंचाने या बदलने के लिए लिखा गया है?",
+    "options": [
+      "1. फिक्‍स (Fix)",
+      "2. अपडेट (Update)",
+      "3. वायरस (Virus)",
+      "4. पैच (Patch)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "_______ is a real-time telephone call between people made over the internet using computers.",
+    "options": [
+      "1. A chat session",
+      "2. An E-mail",
+      "3. An instant message",
+      "4. Internet telephony"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कंप्यूटर का उपयोग करते हुए इंटरनेट पर लोगों के बीच होने वाली रियल-टाइम टेलीफ़ोन कॉल ____________ कहलाती है।",
+    "options": [
+      "1. चैट सेशन",
+      "2. ई-मेल",
+      "3. इंस्टेंट मैसेज",
+      "4. इंटरनेट टेलीफोनी"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following internet services is used to connect to a remote computer that is connected to the internet?",
+    "options": [
+      "1. VoIP",
+      "2. Telnet",
+      "3. Usenet",
+      "4. E-Commerce"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सी इंटरनेट सेवा का उपयोग एक दूरस्‍थ कंप्यूटर से कनेक्‍ट करने के लिए किया जाता है जो इंटरनेट से जुड़ा है?",
+    "options": [
+      "1. VoIP",
+      "2. टेलनेट",
+      "3. यूज़नेट",
+      "4. इ-कॉमर्स"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a software-based system or an application that runs on any connected device and stores your payment information and passwords of numerous payment methods and websites?",
+    "options": [
+      "1. Digital Wallet",
+      "2. Debit Card",
+      "3. Data Card",
+      "4. Offline Wallet"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन सा सॉफ्टवेयर-आधारित सिस्‍टम या एक एप्लिकेशन है जो किसी भी कनेक्टेड डिवाइस पर चलता है और आपकी भुगतान जानकारी और कई भुगतान विधियों और वेबसाइटों के पासवर्ड को संग्रहीत करता है?",
+    "options": [
+      "1. डिजिटल वॉलेट",
+      "2. डेबिट कार्ड",
+      "3. डेटा कार्ड",
+      "4. ऑफलाइन वॉलेट"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is not a valid example of an email address?",
+    "options": [
+      "1. abc.def@mail.com",
+      "2. abc_def@mail.com",
+      "3. abc@mail.com",
+      "4. 1@abc@mail.com"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन सा ईमेल पते (email address) का वैध उदाहरण नहीं है?",
+    "options": [
+      "1. abc.def@mail.com",
+      "2. abc_def@mail.com",
+      "3. abc@mail.com",
+      "4. 1@abc@mail.com"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In MS-Excel 2019, if the cursor is located at column E and row 15 of a worksheet, the address of the cell will be:",
+    "options": [
+      "1. 15E",
+      "2. E15",
+      "3. E:15",
+      "4. 15:E"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-EXCEL 2019 में, यदि कर्सर किसी वर्कशीट के कॉलम E और पंक्ति 15 पर स्थित है, तो सेल का एड्रेस क्या होगा?",
+    "options": [
+      "1. 15E",
+      "2. E15",
+      "3. E:15",
+      "4. 15:E"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following keyboard shortcuts in MS-Word 2019 is used to insert an endnote?",
+    "options": [
+      "1. Ctrl + Alt + D",
+      "2. Alt + Ctrl + F",
+      "3. Alt + Shift + X",
+      "4. Alt + Shift + F12"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Word 2019 में निम्‍नलिखित में से किस कीबोर्ड शॉर्टकट का उपयोग एंडनोट डालने के लिए किया जाता है?",
+    "options": [
+      "1. Ctrl + Alt + D",
+      "2. Alt + Ctrl + F",
+      "3. Alt + Shift + X",
+      "4. Alt + Shift + F12"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Alt+N short cut key in MS-Word 2019 is used to open __________.",
+    "options": [
+      "1. File tab",
+      "2. Home tab",
+      "3. Insert tab",
+      "4. Design tab"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Word 2019 में Alt+N शॉर्टकट कुंजी का उपयोग ________ को खोलने के लिए किया जाता है।",
+    "options": [
+      "1. फ़ाइल टैब",
+      "2. होम टैब",
+      "3. इंसर्ट टैब",
+      "4. डिज़ाइन टैब"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following options in the insert merge field dialogue box in the Mailings tab is used to see the list of fields that are in data source in MS-Word 2019?",
+    "options": [
+      "1. Address block",
+      "2. Data base fields",
+      "3. Item fields",
+      "4. Update fields"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एमएस-वर्ड 2019 में मेलिंग टैब में इन्‍सर्ट मर्ज फ़ील्‍ड डायलॉग बॉक्‍स में निम्‍नलिखित में से कौन-सा विकल्‍प डेटा स्रोत में मौजूद फ़ील्‍ड की सूची देखने के लिए उपयोग किया जाता है?",
+    "options": [
+      "1. एड्रेस ब्लॉक",
+      "2. डेटा बेस फ़ील्ड्स",
+      "3. आइटम फ़ील्ड्स",
+      "4. अपडेट फ़ील्ड्स"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which layer is responsible for the process-to-process delivery in the OSI reference model?",
+    "options": [
+      "1. Transport layer",
+      "2. Data link layer",
+      "3. Session layer",
+      "4. Network layer"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "OSI रेफेरेंस मॉडल में, प्रोसेस-टू-प्रोसेस डिलीवरी के लिए निम्‍न में से कौन-सी लेयर उत्‍तरदायी होती है?",
+    "options": [
+      "1. ट्रांसपोर्ट लेयर",
+      "2. डेटा लिंक लेयर",
+      "3. सेशन लेयर",
+      "4. नेटवर्क लेयर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following protocols is/are defined in application layer?",
+    "options": [
+      "1. UDP",
+      "2. TCP",
+      "3. FTP",
+      "4. Both UDP and TCP"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सा/से प्रोटोकॉल एप्लीकेशन लेयर में परिभाषित है/हैं?",
+    "options": [
+      "1. UDP",
+      "2. TCP",
+      "3. FTP",
+      "4. UDP और TCP दोनों"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is an example of an invalid version number?",
+    "options": [
+      "1. 5.3.0",
+      "2. 5.3.10",
+      "3. 5.3.40",
+      "4. 5_3_40"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्‍न में से कौन-सा अवैध संस्‍करण संख्या (invalid version number) का एक उदाहरण है?",
+    "options": [
+      "1. 5.3.0",
+      "2. 5.3.10",
+      "3. 5.3.40",
+      "4. 5_3_40"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following refers to public or private sharing of computer data or space in a network with various levels of access privileges?",
+    "options": [
+      "1. File sharing",
+      "2. Network sharing",
+      "3. Tool sharing",
+      "4. System sharing"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सा अभिगम विशेषाधिकारों (access privileges) के विभिन्‍न स्‍तरों वाले नेटवर्क में कंप्यूटर डेटा या स्पेस की सार्वजनिक या निजी शेयरिंग को संदर्भित करता है?",
+    "options": [
+      "1. फ़ाइल शेयरिंग",
+      "2. नेटवर्क शेयरिंग",
+      "3. टूल शेयरिंग",
+      "4. सिस्‍टम शेयरिंग"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In which of the following internet services do systems allow two or more people who are generally in different locations to connect live and visually?",
+    "options": [
+      "1. Video conferencing",
+      "2. Audio conferencing",
+      "3. Usenet",
+      "4. Telnet"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍नलिखित में से किस इंटरनेट सेवा में, सिस्‍टम दो या दो से अधिक लोगों को, जो आम तौर पर अलग-अलग स्थानों पर होते हैं, लाइव और विज़ुअल रूप से जुड़ने की सुविधा देता है?",
+    "options": [
+      "1. वीडियो कॉफ्रेंसिंग",
+      "2. ऑडियो कॉन्‍फ्रेंसिंग",
+      "3. यूज़नेट",
+      "4. टेलनेट"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A _______ graph/chart is best suited for trend-based visualisations of data over a period of time, especially when you have many data points in MS-Excel 2019.",
+    "options": [
+      "1. Bar",
+      "2. Pie",
+      "3. Line",
+      "4. Stock"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel 2019 में _________ ग्राफ/चार्ट किसी समय अवधि में डेटा के रूझान-आधारित विज़ुअलाइज़ेशन के लिए सबसे उपयुक्‍त होता है, खासकर तब, जब आपके पास कई डेटा बिंदु हों।",
+    "options": [
+      "1. बार",
+      "2. पाई",
+      "3. लाइन",
+      "4. स्टॉक"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In MS-Excel 2019, each slice in a pie chart represents a _______ of that slice.",
+    "options": [
+      "1. percentage",
+      "2. title",
+      "3. source",
+      "4. legend"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में, पाई चार्ट में प्रत्येक स्लाइस उस स्लाइस के _______ का निरूपण करता है।",
+    "options": [
+      "1. प्रतिशत",
+      "2. शीर्षक",
+      "3. स्रोत",
+      "4. आलेख"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following keyboard shortcut keys is used to make letters bold in MS-Excel 2019?",
+    "options": [
+      "1. Ctrl + I",
+      "2. Ctrl + B",
+      "3. Ctrl + U",
+      "4. Ctrl + V"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 में अक्षरों को बोल्‍ड करने के लिए निम्‍नलिखित में से किस की-बोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Ctrl + I",
+      "2. Ctrl + B",
+      "3. Ctrl + U",
+      "4. Ctrl + V"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The _______ function key is used to open the Help task pane in MS-Excel 2019.",
+    "options": [
+      "1. F1",
+      "2. F2",
+      "3. F4",
+      "4. F5"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS Excel 2019 में, हेल्‍प टास्‍क पैन खोलने के लिए निम्‍न में से किस फंक्‍शन कुंजी (key) का उपयोग किया जाता है?",
+    "options": [
+      "1. F1",
+      "2. F2",
+      "3. F4",
+      "4. F5"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following functions in MS-Excel 2019 returns a value you specify if a formula evaluates to an error; otherwise, it returns the result of the formula?",
+    "options": [
+      "1. ERROR",
+      "2. IFERROR",
+      "3. SUM",
+      "4. AVG"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 में, यदि कोई फॉर्मूला किसी त्रुटि का मूल्यांकन करता है, तो निम्‍न में से कौन-सा फ़ंक्‍शन आपके द्वारा निर्दिष्‍ट मान प्रदान करता है; अन्‍यथा, यह फॉर्मूला का परिणाम देता है?",
+    "options": [
+      "1. ERROR",
+      "2. IFERROR",
+      "3. SUM",
+      "4. AVG"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In MS-Excel 2019, the cell address that we use in the formula is known as the _______.",
+    "options": [
+      "1. cell reference",
+      "2. excel address",
+      "3. workbook address",
+      "4. sheet address"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में, फॉर्मूला में हम जिस सेल एड्रेस का उपयोग करते हैं, उसे _______ के रूप में जाना जाता है।",
+    "options": [
+      "1. सेल रेफरेंस",
+      "2. एक्सेल एड्रेस",
+      "3. वर्कबुक एड्रेस",
+      "4. शीट एड्रेस"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A __________ is used to plot the data in proportions in MS-Excel 2019.",
+    "options": [
+      "1. Bar chart",
+      "2. Line graph",
+      "3. Pie chart",
+      "4. Cone chart"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel 2019 में डेटा को अनुपात में दर्शाने के लिए _____ का उपयोग किया जाता है।",
+    "options": [
+      "1. बार चार्ट (bar chart)",
+      "2. लाइन ग्राफ (line graph)",
+      "3. पाई चार्ट (pie chart)",
+      "4. कोन चार्ट (cone chart)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Maya wants to find the highest value in a set of data. Which of the following functions should she use in MS-Excel 2019?",
+    "options": [
+      "1. MAX()",
+      "2. COUNT()",
+      "3. SUM()",
+      "4. AVG()"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "माया डेटा के एक सेट में उच्‍चतम मान ज्ञात करना चाहती है। उसे निम्‍नलिखित में से किस फंक्‍शन का उपयोग करना होगा?",
+    "options": [
+      "1. MAX()",
+      "2. COUNT()",
+      "3. SUM()",
+      "4. AVG()"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following steps is used to open a pie chart in MS-Excel 2019?",
+    "options": [
+      "1. Home->Charts->Pie chart symbol",
+      "2. Insert->Charts->Pie chart symbol",
+      "3. File->Charts->Pie chart symbol",
+      "4. Design->Charts->Pie chart symbol"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 में, पाई चार्ट खोलने के लिए निम्‍नलिखित में से किन चरणों का उपयोग किया जाता है?",
+    "options": [
+      "1. Home->Charts->Pie chart symbol",
+      "2. Insert->Charts->Pie chart symbol",
+      "3. File->Charts->Pie chart symbol",
+      "4. Design->Charts->Pie chart symbol"
+    ],
+    "answer": 1
+  }
+],
+  
  "12th July 2025 - Shift1": [
   {
     "q": "Cache and main memory will lose their contents when the power of a computer is off. This property is referred to as ______.",
