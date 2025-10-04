@@ -1,5 +1,1046 @@
  const questionBank = {
-
+ "26th September 2025 - Shift2": [
+  {
+    "q": "Minicomputers are often called ______ computers.",
+    "options": [
+      "1. higher version",
+      "2. transitional",
+      "3. midrange",
+      "4. middle"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "मिनी कंप्यूटरों को प्रायः ___________ कंप्यूटर कहा जाता है।",
+    "options": [
+      "1. हायर वर्ज़न (higher version)",
+      "2. ट्रांजीशनल (transitional)",
+      "3. मिडरेंज (midrange)",
+      "4. मिडिल (middle)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What will be the output for the function CONCATENATE(\"al\"; \"tog\"; \"ether\") in an open office Calc ?",
+    "options": [
+      "1. algether",
+      "2. together",
+      "3. altogether",
+      "4. gether"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "ओपन ऑफिस कैल्क (OpenOffice Calc) में, फंक्शन CONCATENATE(\"al\"; \"tog\"; \"ether\") का आउटपुट क्या होगा?",
+    "options": [
+      "1. algether",
+      "2. together",
+      "3. altogether",
+      "4. gether"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The ______ executes languages such as javascript, one line at a time.",
+    "options": [
+      "1. compiler",
+      "2. interpreter",
+      "3. assembler",
+      "4. loader"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "_____________, जावास्क्रिप्ट जैसी भाषाओं की एक लाइन को एक समय में निष्पादित करता है।",
+    "options": [
+      "1. कंपाइलर (compiler)",
+      "2. इंटरप्रेटर (interpreter)",
+      "3. असेंबलर (assembler)",
+      "4. लोडर (loader)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Anil received a DVD containing some official documents from his manager. He wants to create a copy of this DVD. Referring to the above requirement, identify the name of the peripheral which Anil will use?",
+    "options": [
+      "1. DVD-ROM",
+      "2. CD Drive",
+      "3. DVD Writer",
+      "4. Floppy Drive"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "अनिल ने अपने प्रबंधक से कुछ अधिकारिक दस्तावेज़ों वाली एक DVD प्राप्त की। वह इस DVD की कॉपी बनाना चाहता है। उपरोक्त आवश्यकता के संदर्भ में, अनिल द्वारा उपयोग किए जाने वाले पेरिफेरल के नाम की पहचान कीजिए।",
+    "options": [
+      "1. DVD-ROM",
+      "2. CD ड्राइव",
+      "3. DVD राइटर",
+      "4. फ्लॉपी डिस्क"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In many software applications, pressing the ________ key can cancel or abort the current operation or dialog box.",
+    "options": [
+      "1. Shift",
+      "2. Tab",
+      "3. F1",
+      "4. Esc"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कई सॉफ्टवेयर अनुप्रयोगों में, ________ कुंजी दबाने से वर्तमान ऑपरेशन या डायलॉग बॉक्स को रद्द या निरस्त किया जा सकता है।",
+    "options": [
+      "1. Shift",
+      "2. Tab",
+      "3. F1",
+      "4. Esc"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following commands is used to open System Information window (GUI tool) in Windows 11?",
+    "options": [
+      "1. sysinfo",
+      "2. systeminfo",
+      "3. msinfo32",
+      "4. systeminfo32"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "विंडोज 11 में सिस्टम इंफॉर्मेशन विंडो (GUI टूल) खोलने के लिए निम्नलिखित में से किस कमांड का उपयोग किया जाता है?",
+    "options": [
+      "1. Sysinfo",
+      "2. systeminfo",
+      "3. msinfo32",
+      "4. systeminfo32"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is a valid page orientation in MS-Word 2019? <br> (i) Landscape (ii) Portrait",
+    "options": [
+      "1. Only (i)",
+      "2. Only (ii)",
+      "3. Both (i) and (ii)",
+      "4. Neither (i) nor (ii)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Word 2019 का/के मान्य पेज ओरिएंटेशन निम्नलिखित में से कौन सा/से है/हैं? <br> (i) लैंडस्केप (ii) पोर्ट्रेट",
+    "options": [
+      "1. केवल (i)",
+      "2. केवल (ii)",
+      "3. (i) और (ii) दोनों",
+      "4. न तो (i) और न ही (ii)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which dialogue box is used to set up layout and print options of a page in MS-Word 365?",
+    "options": [
+      "1. Page align",
+      "2. Page border",
+      "3. Page setup",
+      "4. Page adjust"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Word 365 में किसी पृष्ठ का लेआउट और प्रिंट विकल्प सेट करने के लिए किस डायलॉग बॉक्स का उपयोग किया जाता है?",
+    "options": [
+      "1. पेज अलाइन (Page align)",
+      "2. पेज बॉर्डर (Page border)",
+      "3. पेज सेटअप (Page setup)",
+      "4. पेज एडजस्ट (Page adjust)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the default name of the first worksheet in an MS-Excel 365 workbook?",
+    "options": [
+      "1. Worksheet1",
+      "2. Spreadsheet1",
+      "3. Sheet1",
+      "4. WSheet1"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel 365 में, वर्कबुक की पहली वर्कशीट का डिफ़ाल्ट नाम क्या होता है?",
+    "options": [
+      "1. Worksheet1",
+      "2. Spreadsheet1",
+      "3. Sheet1",
+      "4. WSheet1"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the requirement for BD Live with reference to Blu ray players?",
+    "options": [
+      "1. CD player",
+      "2. Active internet connection",
+      "3. Television",
+      "4. DVD player"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ब्लू रे प्लेयर के संदर्भ में बीडी लाइव के लिए क्या आवश्यकता है?",
+    "options": [
+      "1. सीडी प्लेयर (CD player)",
+      "2. सक्रिय इंटरनेट कनेक्शन (Active internet connection)",
+      "3. टेलीविजन (Television)",
+      "4. डीवीडी प्लेयर (DVD player)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A ______ refers to the program that you use to design your blog.",
+    "options": [
+      "1. platform",
+      "2. station",
+      "3. board",
+      "4. stage"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ उस प्रोग्राम को संदर्भित करता है जिसका उपयोग करके आप अपने ब्लॉग को डिज़ाइन करते हैं।",
+    "options": [
+      "1. प्लेटफॉर्म (platform)",
+      "2. स्टेशन (station)",
+      "3. बोर्ड (board)",
+      "4. स्टेज (stage)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the result of the following MS-Excel formula? <br>=8/8^2*16",
+    "options": [
+      "2",
+      "16",
+      "0",
+      "32"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel के निम्न सूत्र का परिणाम क्या होगा?  <br>=8/8^2*16",
+    "options": [
+      "2",
+      "16",
+      "0",
+      "32"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "How many different characters can Extended ASCII provide?",
+    "options": [
+      "256 different characters",
+      "512 different characters",
+      "1024 different characters",
+      "128 different characters"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एक्सटेंडेड ASCII कितने विभिन्न वर्ण प्रदान कर सकता है?",
+    "options": [
+      "256 विभिन्न वर्ण",
+      "512 विभिन्न वर्ण",
+      "1024 विभिन्न वर्ण",
+      "128 विभिन्न वर्ण"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following statement with reference to Dotmatrix printer is true?",
+    "options": [
+      "1. No noise is generated during printing process.",
+      "2. Laser is used for printing process.",
+      "3. It is more expensive than laser printers.",
+      "4. It includes Serial Dot Matrix printers and Line Dot Matrix."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "डॉटमैट्रिक्स प्रिंटर के संदर्भ में निम्नलिखित में से कौन सा कथन सत्य है?",
+    "options": [
+      "1. प्रिंटिंग प्रक्रिया के दौरान कोई शोर उत्पन्न नहीं होता है।",
+      "2. प्रिंटिंग प्रक्रिया के लिए लेजर का उपयोग किया जाता है।",
+      "3. यह लेजर प्रिंटर से अधिक महंगा है।",
+      "4. इसमें सीरियल डॉट मैट्रिक्स प्रिंटर और लाइन डॉट मैट्रिक्स शामिल हैं।"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "To create a blank new document in Google Docs, which of the following icons is clicked?",
+    "options": [
+      "1. Google drive icon",
+      "2. Blue coloured file icon",
+      "3. Blue coloured pencil icon",
+      "4. Multi-coloured '+' icon"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Google Docs में एक नया खाली दस्तावेज़ बनाने के लिए निम्नलिखित में से किस आइकन पर क्लिक किया जाता है?",
+    "options": [
+      "1. Google ड्राइव आइकन",
+      "2. नीले रंग की फ़ाइल आइकन",
+      "3. नीले रंग की पेंसिल आइकन",
+      "4. बहुरंगी '+' आइकन"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following displays the name of the spreadsheet in MS-Excel 365?",
+    "options": [
+      "1. Ribbon",
+      "2. Title bar",
+      "3. Tool bar",
+      "4. Task bar"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन MS-Excel 365 में स्प्रेडशीट का नाम प्रदर्शित करता है?",
+    "options": [
+      "1. रिबन (Ribbon)",
+      "2. टाइटल बार (Title bar)",
+      "3. टूल बार (Tool bar)",
+      "4. टास्क बार (Task bar)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "IP address operates in which layer of the OSI model?",
+    "options": [
+      "1. Session",
+      "2. Network",
+      "3. Data link",
+      "4. Physical"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "IP एड्रेस OSI मॉडल की किस लेयर में संचालित होता है?",
+    "options": [
+      "1. सेशन (Session)",
+      "2. नेटवर्क (Network)",
+      "3. डेटा लिंक (Data link)",
+      "4. फिजिकल (Physical)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ is connection-oriented protocol.",
+    "options": [
+      "1. TCP",
+      "2. ICMP",
+      "3. UDP",
+      "4. IPX"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______________ कनेक्शन-ओरिएंडेट प्रोटोकॉल है।",
+    "options": [
+      "1. TCP",
+      "2. ICMP",
+      "3. UDP",
+      "4. IPX"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Statistical redundancy occurs because pixels within an image tend to have very _____ intensities compared to those of their neighborhood.",
+    "options": [
+      "1. poor",
+      "2. similar",
+      "3. different",
+      "4. orthogonal"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "सांख्यिकीय अतिरेकता (Statistical redundancy) इस तथ्य के कारण होती है कि किसी इमेज के अंदर पिक्सल की तीव्रता उसके आसपास के पिक्सल की तुलना में बहुत अधिक _____ होती है।",
+    "options": [
+      "1. ख़राब",
+      "2. समान",
+      "3. विभिन्न",
+      "4. लांबिक (Orthogonal)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following holds the data, instructions, and addresses needed by a program while it is being executed by the CPU?",
+    "options": [
+      "1. ROM",
+      "2. Registers",
+      "3. Hard disk",
+      "4. ALU"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, सीपीयू द्वारा निष्पादित किए जाने के दौरान प्रोग्राम द्वारा आवश्यक डेटा, निर्देश और पते (एड्रेस) रखता है?",
+    "options": [
+      "1. ROM",
+      "2. रजिस्टर",
+      "3. हार्ड डिस्क",
+      "4. ALU"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is a gateway in networking?",
+    "options": [
+      "1. It regenerates the signal over the same network before the signal becomes too weak.",
+      "2. It is used for interconnecting two LANs working on the same protocol.",
+      "3. It is a network adapter that is used to connect the computer to the network.",
+      "4. It is a hardware device or software solution that connects two discrete networks that use different transmission protocols."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "नेटवर्किंग में गेटवे क्या है?",
+    "options": [
+      "1. यह सिग्नल के बहुत कमजोर होने से पहले उसी नेटवर्क पर सिग्नल को पुन: उत्पन्न करता है।",
+      "2. इसका उपयोग एक ही प्रोटोकॉल पर काम करने वाले दो LAN को आपस में जोड़ने के लिए किया जाता है।",
+      "3. यह एक नेटवर्क एडेप्टर है जिसका उपयोग कंप्यूटर को नेटवर्क से जोड़ने के लिए किया जाता है।",
+      "4. यह एक हार्डवेयर डिवाइस या सॉफ़्टवेयर समाधान है जो दो अलग-अलग नेटवर्क को जोड़ता है जो अलग-अलग ट्रांसमिशन प्रोटोकॉल का उपयोग करते हैं।"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is the basic requirements of a hard disk for installing Windows 10 64 bit (clean install) on a PC?",
+    "options": [
+      "2GB",
+      "8GB",
+      "16GB",
+      "32 GB"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "पीसी (PC) पर विंडोज 10 64 बिट (क्लीन इंस्टॉल) स्थापित करने के लिए हार्ड डिस्क की बुनियादी आवश्यकताएं क्या हैं?",
+    "options": [
+      "2GB",
+      "8GB",
+      "16GB",
+      "32 GB"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which are the two main chipsets of the computer?",
+    "options": [
+      "1. NorthBridge, WestBridge",
+      "2. EastBridge, SouthBridge",
+      "3. NorthBridge, SouthBridge",
+      "4. EastBridge, WestBridge"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "कंप्यूटर के दो मुख्य चिपसेट निम्न में से कौन-से हैं?",
+    "options": [
+      "1. नॉर्थ ब्रिज, वेस्टब्रिज",
+      "2. ईस्टब्रिज, साउथब्रिज",
+      "3. नॉर्थब्रिज, साउथब्रिज",
+      "4. ईस्टब्रिज, वेस्टब्रिज"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "ScreenTips in Windows OS appears when you ______ the mouse pointer on/over an icon.",
+    "options": [
+      "1. left click",
+      "2. hover",
+      "3. right click",
+      "4. middle click"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Windows OS में स्क्रीन टिप्स तब दिखाई देती हैं जब आप माउस पॉइंटर को किसी आइकन पर ______ करते हैं।",
+    "options": [
+      "1. बायाँ क्लिक",
+      "2. हवर",
+      "3. दायाँ क्लिक",
+      "4. मध्य क्लिक"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "For the real time operating systems, what is the desired interrupt latency?",
+    "options": [
+      "1. No restriction",
+      "2. Maximal",
+      "3. Minimal",
+      "4. Zero"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "रीयल टाइम ऑपरेटिंग सिस्टम के लिए इन्टरप्ट लैटेन्सी ______ होनी चाहिए।",
+    "options": [
+      "1. प्रतिबंध विहीन",
+      "2. अधिकतम",
+      "3. अल्पतम",
+      "4. शून्य"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following file formats is used for a font file?",
+    "options": [
+      "1. .otf",
+      "2. .fnf",
+      "3. .fne",
+      "4. .fot"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "फॉन्ट फाइल के लिए निम्नलिखित में से किस फाइल फॉर्मेट का उपयोग किया जाता है?",
+    "options": [
+      "1. .otf",
+      "2. .fnf",
+      "3. .fne",
+      "4. .fot"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Compressed archive files have a ______ extension.",
+    "options": [
+      "1. GZ",
+      "2. ZG",
+      "3. CZ",
+      "4. CZF"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कम्प्रेस्ड आर्काइव फाइल में कौन-सा एक्सटेंशन होता है?",
+    "options": [
+      "1. GZ",
+      "2. ZG",
+      "3. CZ",
+      "4. CZF"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Power management technique is used by PC’s:",
+    "options": [
+      "1. to reduce energy consumption when they are not in active use",
+      "2. to reduce energy consumption when they are in active use",
+      "3. to increase energy consumption when they are not in active use",
+      "4. to increase energy consumption when they are in active use"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "पर्सनल कंप्यूटर में पावर प्रबंधन तकनीक का उपयोग किसलिए किया जाता है?",
+    "options": [
+      "1. सक्रिय उपयोग में न होने पर ऊर्जा खपत को कम करने के लिए",
+      "2. सक्रिय उपयोग में होने पर ऊर्जा खपत को कम करने के लिए",
+      "3. सक्रिय उपयोग में न होने पर ऊर्जा खपत को बढ़ाने के लिए",
+      "4. सक्रिय उपयोग में होने पर ऊर्जा खपत को बढ़ाने के लिए"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is a container that has a set of tests which helps testers in executing and reporting the test execution status?",
+    "options": [
+      "1. test suite",
+      "2. test log",
+      "3. test procedure",
+      "4. test data"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "वो कोनसा कंटेनर है जिसमें परीक्षणों का एक सेट होता है जो परीक्षण निष्पादन स्थिति को निष्पादित करने और रिपोर्ट करने में परीक्षकों की सहायता करता है?",
+    "options": [
+      "1. टेस्ट सूट",
+      "2. टेस्ट लॉग",
+      "3. टेस्ट प्रोसिज़र",
+      "4. टेस्ट डेटा"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The 'Open' state in the Defect Life Cycle during the software testing phase refers to which of the following?",
+    "options": [
+      "1. The developer starts analysing and works on the defect fix.",
+      "2. A new defect is logged and posted for the first time.",
+      "3. The developer makes a necessary code change and verifies the change.",
+      "4. The bug is assigned to the developer team."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "सॉफ्टवेयर टेस्टिंग फेज के दौरान डिफेक्ट लाइफ साइकल में, 'ओपन (Open)' स्थिति निम्नलिखित में से किसे संदर्भित करती है?",
+    "options": [
+      "1. डेवलपर विश्लेषण करना शुरू करता है और दोष ठीक करने पर काम करता है।",
+      "2. एक नया दोष लॉग किया गया है और पहली बार पोस्ट किया गया है।",
+      "3. डेवलपर एक आवश्यक कोड परिवर्तन करता है और परिवर्तन की पुष्टि करता है।",
+      "4. बग को डेवलपर टीम को सौंपा (एसाइन किया) गया है।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______________ involves using wireless handheld devices like cell phones and tablets to conduct commercial transactions online, including the purchase and sale of products, online banking, and paying bills.",
+    "options": [
+      "1. Mobile Commerce",
+      "2. Offline Business",
+      "3. Traditional Commerce",
+      "4. Brick-and-Mortar Commerce"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_____________ में उत्पादों की खरीद और बिक्री, ऑनलाइन बैंकिंग और बिलों का भुगतान सहित ऑनलाइन वाणिज्यिक लेनदेन करने के लिए सेल फोन और टैबलेट जैसे वायरलेस हैंडहेल्ड डिवाइस का उपयोग करना शामिल है।",
+    "options": [
+      "1. मोबाइल कॉमर्स (Mobile Commerce)",
+      "2. ऑफ़लाइन व्यापार (Offline Business)",
+      "3. पारंपरिक कॉमर्स (Traditional Commerce)",
+      "4. ईंट-और-मोर्टार कॉमर्स (Brick-and-Mortar Commerce)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT a web mail provider?",
+    "options": [
+      "1. Gmail",
+      "2. Outlook",
+      "3. Yahoo",
+      "4. Baidu"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से कौन सा एक वेब मेल प्रदाता नहीं है?",
+    "options": [
+      "1. Gmail",
+      "2. Outlook",
+      "3. Yahoo",
+      "4. Baidu"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following keyboard shortcuts in MS-Word 2019 is used to change the paragraph spacing to double line spacing?",
+    "options": [
+      "1. Ctrl + Q",
+      "2. Ctrl + 1",
+      "3. Ctrl + 2",
+      "4. Ctrl + 5"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Word 2019 में, पैराग्राफ स्पेसिंग को डबल लाइन स्पेसिंग में बदलने के लिए निम्नलिखित में से किस की-बोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Ctrl + Q",
+      "2. Ctrl + 1",
+      "3. Ctrl + 2",
+      "4. Ctrl + 5"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The keyboard shortcut 'Ctrl + Shift + <' in MS-Word 2019 is used to __________.",
+    "options": [
+      "1. make font size larger",
+      "2. decrease the font size",
+      "3. open the font dialog box",
+      "4. make text all caps"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Word 2019 में की-बोर्ड शॉर्टकट 'Ctrl + Shift + <' का उपयोग किसलिए किया जाता है?",
+    "options": [
+      "1. फॉन्ट के आकार को बड़ा करने के लिए",
+      "2. फॉन्ट के आकार को छोटा करने के लिए",
+      "3. फॉन्ट डायलॉग बॉक्स खोलने के लिए",
+      "4. संपूर्ण टेक्स्ट को कैपिटल करने के लिए"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the result of the MS-Excel formula '=256/4^2’ ?",
+    "options": [
+      "2",
+      "4",
+      "256",
+      "16"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel सूत्र '=256/4^2’ का परिणाम क्या होगा?",
+    "options": [
+      "2",
+      "4",
+      "256",
+      "16"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is the default alignment of text data that are entered into the cell of an MS-Excel 365 worksheet?",
+    "options": [
+      "1. Bottom Left",
+      "2. Bottom Right",
+      "3. Centre",
+      "4. Justify"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 365 वर्कशीट के सेल में एंटर किए गए टेक्स्ट डेटा का डिफ़ॉल्ट अलाइनमेंट क्या होता है?",
+    "options": [
+      "1. बॉटम लेफ्ट (Bottom left)",
+      "2. बॉटम राइट (Bottom right)",
+      "3. सेंटर (Centre)",
+      "4. जस्टिफ़ाई (Justify)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "An ad-hoc query in a database systems is a ______.",
+    "options": [
+      "1. pre-planned question",
+      "2. pre-scheduled question",
+      "3. spur-of-the-moment question",
+      "4. question that will not return any results"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "डेटाबेस सिस्टम में एक एड-हॉक क्वेरी एक ______ है।",
+    "options": [
+      "1. पूर्व नियोजित प्रश्न (pre-planned question)",
+      "2. पूर्व निर्धारित प्रश्न (pre-scheduled question)",
+      "3. तात्कालिक प्रश्न (spur-of-the-moment question)",
+      "4. ऐसे प्रश्न जिनके उत्तर नहीं मिलते हैं (question that will not return any results)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the default extension of the documents created using MS-PowerPoint 2007 and later versions?",
+    "options": [
+      "1. .pptx",
+      "2. .ppt",
+      "3. .ppx",
+      "4. .ppb"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-PowerPoint 2007 और बाद के संस्करणों का उपयोग करके बनाए गए डॉक्यूमेंट्स का डिफ़ॉल्ट एक्सटेंशन क्या होता है?",
+    "options": [
+      "1. .pptx",
+      "2. .ppt",
+      "3. .ppx",
+      "4. .ppb"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In computing, IT stands for:",
+    "options": [
+      "1. Integrated Technology",
+      "2. Interesting Technology",
+      "3. Information Technology",
+      "4. Intelligent Technology"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "कंप्यूटरों के संदर्भ में, IT का पूर्णरूप क्या है?",
+    "options": [
+      "1. Integrated Technology (इंटीग्रेटेड टेक्नोलॉजी)",
+      "2. Interesting Technology (इंटरेस्टिंग टेक्नोलॉजी)",
+      "3. Information Technology (इनफार्मेशन टेक्नोलॉजी)",
+      "4. Intelligent Technology (इंटेलीजेंट टेक्नोलॉजी)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Software such as Microsoft Edge and Firefox, are referred to as _______.",
+    "options": [
+      "1. system software",
+      "2. web browsers",
+      "3. antivirus",
+      "4. search engines"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "माइक्रोसॉफ्ट एज और फायरफॉक्स जैसे सॉफ्टवेयर को _______ कहा जाता है।",
+    "options": [
+      "1. सिस्टम सॉफ्टवेयर (system software)",
+      "2. वेब ब्राउज़र (web browser)",
+      "3. एंटीवायरस (antivirus)",
+      "4. सर्च इंजन (search engine)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The main protocol used by the internet is:",
+    "options": [
+      "1. IPX/SPX",
+      "2. X.23",
+      "3. Token Bus",
+      "4. TCP/IP"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "इंटरनेट में उपयोग किया जाने वाला मुख्य प्रोटोकॉल _____ है।",
+    "options": [
+      "1. IPX/SPX",
+      "2. X.23",
+      "3. टोकन बस",
+      "4. TCP/IP"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In the ISO/OSI reference model, how many layers are there?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "ISO/OSI रेफरेंस मॉडल में कितने लेयर होते हैं?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In MS-PowerPoint 2019, the keyboard shortcut 'Alt + N + X' is used to __________.",
+    "options": [
+      "1. insert an embedded document",
+      "2. insert a text box",
+      "3. insert WordArt",
+      "4. insert an embedded spreadsheet"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-PowerPoint 2019 में, की-बोर्ड शॉर्टकट 'Alt + N + X' का उपयोग किसलिए किया जाता है?",
+    "options": [
+      "1. एक एम्बेडेड डॉक्यूमेंट इन्सर्ट करने के लिए",
+      "2. एक टेक्स्ट बॉक्स इन्सर्ट करने के लिए",
+      "3. वर्ड आर्ट (WordArt) इन्सर्ट करने के लिए",
+      "4. एक एम्बेडेड स्प्रेडशीट इन्सर्ट करने के लिए"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The decimal equivalent of the binary number 1100 is:",
+    "options": [
+      "6",
+      "12",
+      "14",
+      "17"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "बाइनरी संख्या 1100 का दशमलव समतुल्य क्या होगा?",
+    "options": [
+      "6",
+      "12",
+      "14",
+      "17"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "________ is NOT a number of the octal number system.",
+    "options": [
+      "7",
+      "8",
+      "5",
+      "1"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "________, अष्टाधारी (ऑक्टल) संख्या पद्धति की संख्या नहीं है।",
+    "options": [
+      "7",
+      "8",
+      "5",
+      "1"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is not an element of the MS-Excel 2019 window?",
+    "options": [
+      "1. Formula Bar",
+      "2. Ribbon",
+      "3. Status Bar",
+      "4. Slide Sorter"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन MS-EXCEL 2019 विंडो का एक तत्व नहीं है?",
+    "options": [
+      "1. फार्मूला बार (Formula Bar)",
+      "2. रिबन (Ribbon)",
+      "3. स्टेटस बार (Status Bar)",
+      "4. स्लाइड सॉर्टर (Slide Sorter)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The ___________ function in MS-Excel allows you to quickly select all cells that meet certain criteria, such as cells containing formulas (numbers, text, logical, errors) and constants (numbers, text, logical, errors) and blank cells.",
+    "options": [
+      "1. SORT",
+      "2. Go To Special",
+      "3. Jump",
+      "4. Fill"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel में, _________ फ़ंक्शन आपको उन सभी सेलों को सेलेक्ट करने की अनुमति देता है जो फ़ॉर्मूला वाले सेल (संख्या, टेक्स्ट, लॉजिकल, त्रुटि) और स्थिरांक (संख्या, टेक्स्ट, लॉजिकल, त्रुटि) तथा रिक्त सेल जैसे कुछ मानदंडों को पूरा करते हैं।",
+    "options": [
+      "1. SORT (सॉर्ट)",
+      "2. Go To Special (गो टू स्पेशल)",
+      "3. Jump (जम्प)",
+      "4. Fill (फिल)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In an MS-Excel spreadsheet, using _________ cell reference, you can lock either the column of the cell or the row of the cell.",
+    "options": [
+      "1. only absolute",
+      "2. only relative",
+      "3. reflexive",
+      "4. mixed"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel स्प्रेडशीट में, _________ सेल रेफरेंस का उपयोग करके आप या तो सेल के कॉलम या तो सेल की पंक्ति को लॉक कर सकते हैं।",
+    "options": [
+      "1. ओनली एब्सोल्यूट (only absolute)",
+      "2. ओनली रिलेटिव (only relative)",
+      "3. रिफ्लेक्सिव (reflexive)",
+      "4. मिक्स्ड (mixed)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "#ERROR!",
+    "options": [
+      "1. absolute reference",
+      "2. relative reference",
+      "3. row locked mixed cell reference",
+      "4. column locked mixed cell reference"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel में, =A$1 ____________ का उदाहरण है।",
+    "options": [
+      "1. एब्सोल्यूट रेफरेन्स (absolute reference)",
+      "2. रिलेटिव रेफरेन्स (relative reference)",
+      "3. रो लॉक्ड मिक्स्ड सेल रेफरेन्स (row locked mixed cell reference)",
+      "4. कॉलम लॉक्ड मिक्स्ड सेल रेफरेन्स (column locked mixed cell reference)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "__________ is an example of a relative reference in MS-Excel.",
+    "options": [
+      "1. $D5",
+      "2. D$5",
+      "3. $D$5",
+      "4. D5"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "___________, MS-Excel में रिलेटिव रेफरेंस का एक उदाहरण है।",
+    "options": [
+      "1. $D5",
+      "2. D$5",
+      "3. $D$5",
+      "4. D5"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following groups allows you to change a field name in a Pivot Table in MS-Excel 365?",
+    "options": [
+      "1. Active field",
+      "2. Header row",
+      "3. Cell reference",
+      "4. Auto fill"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा समूह आपको MS-Excel 365 में पिवट टेबल में फ़ील्ड नाम बदलने की अनुमति देता है?",
+    "options": [
+      "1. एक्टिव फ़ील्ड (Active Field)",
+      "2. हेडर रो (Header row)",
+      "3. सेल रेफरेंस (Cell reference)",
+      "4. ऑटो फिल (Auto fill)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "If you need to sum a column or row of numbers, select a cell next to the numbers you want to sum, select ____________ on the Home tab, and then press Enter in MS Excel 2019.",
+    "options": [
+      "1. Average",
+      "2. Subtotal",
+      "3. AutoSum",
+      "4. Header row"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "यदि आपको संख्याओं के किसी कॉलम या पंक्ति का योग करना है, तो उन संख्याओं के बगल में एक सेल चुनें जिन्हें आप जोड़ना चाहते हैं, होम टैब में ____________ चुनें, MS-Excel 2019 में एंटर दबाएँ।",
+    "options": [
+      "1. औसत (Average)",
+      "2. पूर्ण योग (Subtotal)",
+      "3. ऑटोसम (AutoSum)",
+      "4. हेडर रो (Header row)"
+    ],
+    "answer": 2
+  }
+],
 
      "28th September 2025 - Shift1": [
   {
@@ -20860,5 +21901,6 @@
         };
     
     
+
 
 
