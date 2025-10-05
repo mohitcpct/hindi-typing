@@ -2085,6 +2085,1049 @@
   }
 ],
 
+  "28th September 2025 - Shift2": [
+  {
+    "q": "A permanent memory built into your computer is called:",
+    "options": [
+      "1. RAM",
+      "2. Floppy",
+      "3. CPU",
+      "4. ROM"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "आपके कंप्यूटर में स्थित स्थायी मेमोरी को _______कहा जाता है।",
+    "options": [
+      "1. RAM",
+      "2. Floppy",
+      "3. CPU",
+      "4. ROM"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is the key combination to add a line break without paragraph change in an OpenOffice writer?",
+    "options": [
+      "1. Ctrl+Enter",
+      "2. Shift+Enter",
+      "3. Alt+Enter",
+      "4. Ctrl+Shift+Enter"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ओपन ऑफिस राइटर (OpenOffice writer) में पैराग्राफ बदले बिना लाइन ब्रेक ऐड करने के लिए की-बोर्ड शॉर्टकट क्या है?",
+    "options": [
+      "1. Ctrl+Enter",
+      "2. Shift+Enter",
+      "3. Alt+Enter",
+      "4. Ctrl+Shift+Enter"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In MS-Excel 2016, both formulas and functions must be preceded by the ______ to understand them.",
+    "options": [
+      "1. hash sign",
+      "2. equal sign",
+      "3. percentage sign",
+      "4. asterisk sign"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2016 में, सूत्रों और फ़ंक्शन दोनों को समझने के लिए उनके पहले ______ लगाना आवश्यक है।",
+    "options": [
+      "1. हैश का चिह्न (#)",
+      "2. बराबर का चिह्न (=)",
+      "3. प्रतिशत का चिह्न (%)",
+      "4. तारांकन चिह्न (*)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following types of computer memories is used for storing programs and data that are currently being processed by the CPU?",
+    "options": [
+      "1. RAM",
+      "2. Mass memory",
+      "3. Flash memory",
+      "4. PROM"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से किस प्रकार की कंप्यूटर मेमोरी का उपयोग उन प्रोग्रामों और डेटा को संग्रहीत करने के लिए किया जाता है जिन्हें वर्तमान में सीपीयू (CPU) द्वारा संसाधित किया जा रहा है?",
+    "options": [
+      "1. RAM",
+      "2. मास मेमोरी",
+      "3. फ्लैश मेमोरी",
+      "4. PROM"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A procedural language is a:",
+    "options": [
+      "1. type of computer programming language that specifies a series of well-structured steps and procedures within its programming context to compose a program",
+      "2. function-driven language",
+      "3. language used to organise data into rows and columns",
+      "4. language to specify the organisation of printed text and graphics"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "प्रक्रियात्मक भाषा (प्रोसीज़रल लैंग्वेज़) क्या है?",
+    "options": [
+      "1. एक ऐसी भाषा जिसमें प्रोग्रामर को वांछित परिणाम प्राप्त करने के लिए प्रोसेसिंग की विधि को चरणों में विस्तृत रूप से स्पष्ट करने की आवश्यकता होती है।",
+      "2. फंक्‍शन-चालित भाषा।",
+      "3. एक ऐसी भाषा जो डेटा को पंक्तियों और स्‍तंभों में व्यवस्थित करने के लिए प्रयोग की जाती है।",
+      "4. ऐसी भाषाएं जो मुद्रित टेक्स्ट और ग्राफिक्स के संगठन को निर्दिष्ट करती हैं।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following groups has only input devices?",
+    "options": [
+      "1. Mouse, Keyboard, Headphones",
+      "2. Mouse, Keyboard, Printer",
+      "3. Mouse, Keyboard, Plotter",
+      "4. Mouse, Keyboard, Scanner"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से किस विकल्प समूह में केवल इनपुट डिवाइसें (input devices) हैं?",
+    "options": [
+      "1. माउस, की-बोर्ड, हेडफ़ोन",
+      "2. माउस, की-बोर्ड, प्रिंटर",
+      "3. माउस, की-बोर्ड, प्लॉटर",
+      "4. माउस, की-बोर्ड, स्कैनर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following operates directly on hardware devices of computer and provides a platform to run an application?",
+    "options": [
+      "1. Language processor",
+      "2. Special-purpose application software",
+      "3. System software",
+      "4. General-purpose application software"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से क्या सीधे कंप्यूटर के हार्डवेयर उपकरणों (hardware devices) पर कार्य करता है और एप्लिकेशन को रन करने के लिए एक प्लेटफॉर्म प्रदान करता है?",
+    "options": [
+      "1. लैंग्वेज़ प्रोसेसर",
+      "2. स्पेशल पर्पज़ एप्लिकेशन सॉफ्टवेयर",
+      "3. सिस्टम सॉफ्टवेयर",
+      "4. जनरल पर्पज़ एप्लिकेशन सॉफ्टवेयर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is an INVALID data source for Mail Merge process in MS-Word 2019?",
+    "options": [
+      "1. Access database",
+      "2. Excel Spreadsheet",
+      "3. Outlook contacts list",
+      "4. PowerPoint file"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Word 2019 में, निम्नलिखित में से कौन-सा, मेल मर्ज प्रक्रिया के लिए एक अवैध डेटा सोर्स है?",
+    "options": [
+      "1. एक्सेस डेटाबेस",
+      "2. एक्सल वर्कशीट",
+      "3. आउटलुक संपर्क सूची",
+      "4. पावर पॉइंट फ़ाइल"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following statements is/are true? <br>(i) Motherboard can be considered as both hardware and software. <br>(ii) Compiler and Interpreter are also known as language processor.",
+    "options": [
+      "1. Only (i)",
+      "2. Only (ii)",
+      "3. Both (i) and (ii)",
+      "4. Neither (i) nor (ii)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा/से कथन सही है/हैं? <br>(i) मदरबोर्ड को हार्डवेयर और सॉफ्टवेयर, दोनों माना जा सकता है।   <br>(ii) कंपाइलर और इंटरप्रेटर को लैंग्वेज़ प्रोसेसर के रूप में भी जाना जाता है।",
+    "options": [
+      "1. केवल (i)",
+      "2. केवल (ii)",
+      "3. (i) और (ii) दोनों",
+      "4. न तो (i) और न ही (ii)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is NOT an example of the operating system?",
+    "options": [
+      "1. Internet Explorer",
+      "2. Ubuntu",
+      "3. Windows Vista",
+      "4. iOS"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से कौन-सा ऑपरेटिंग सिस्टम का एक उदाहरण नहीं है?",
+    "options": [
+      "1. Internet Explorer",
+      "2. Ubuntu",
+      "3. Windows Vista",
+      "4. iOS"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "________ is an online journal or informational website displaying information in reverse chronological order.",
+    "options": [
+      "1. Facebook",
+      "2. Blog",
+      "3. Newsgroup",
+      "4. Chat room"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "________, एक ऑनलाइन जर्नल या सूचनात्मक वेबसाइट है जो सूचनाओं को व्युत्क्रमित कालानुक्रम में प्रदर्शित करती है।",
+    "options": [
+      "1. फेसबुक",
+      "2. ब्लॉग",
+      "3. न्यूज़ग्रुप",
+      "4. चैट रूम"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Plotters which use cutter replacing pens can be found in ______.",
+    "options": [
+      "1. xerox shops",
+      "2. garment and sign shops",
+      "3. fax office",
+      "4. text printing shops"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "प्लॉटर जो कटर के जगह पेन का उपयोग करते हैं ______ में पाए जा सकते हैं।",
+    "options": [
+      "1. ज़ेरॉक्स की दुकानों",
+      "2. परिधान और चिह्नों को छापने वाली दुकानों",
+      "3. फैक्स ऑफिस",
+      "4. टेक्स्ट प्रिंटिंग दुकानों"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is the convenient resting place for the most frequently used commands in MS-Word?",
+    "options": [
+      "1. Document area",
+      "2. Status bar",
+      "3. File tab",
+      "4. Quick access tool bar"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Word में सबसे अधिक बार उपयोग किए जाने वाले कमांड को निम्नलिखित में से कहां से आसानी से पाया जा सकता है?",
+    "options": [
+      "1. डॉक्यूमेंट एरिया",
+      "2. स्टेटस बार",
+      "3. फ़ाइल टैब",
+      "4. क्विक एक्सेस टूल बार"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "For which of the following primary purposes is MS-Word used?",
+    "options": [
+      "1. To design different documents such as resumes or invitation cards",
+      "2. For creating exciting slide show presentations",
+      "3. To perform basic and complex mathematical computations and functions",
+      "4. To manage, maintain and organise data"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से किस प्राथमिक उद्देश्य के लिए एमएस-वर्ड का उपयोग किया जाता है?",
+    "options": [
+      "1. रिज्यूमे या निमंत्रण कार्ड आदि जैसे विभिन्न डॉक्यूमेंट्स को डिजाइन करने के लिए",
+      "2. रोमांचक स्लाइड शो प्रस्तुतियां बनाने के लिए",
+      "3. बुनियादी और जटिल गणितीय संगणनाओं और कार्यों को करने के लिए",
+      "4. डेटा के प्रबंधन, रखरखाव और व्यवस्थापन के लिए"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the of following is a message board where people can hold a conversation by posting messages?",
+    "options": [
+      "1. Blog",
+      "2. E-Commerce website",
+      "3. Internet forum",
+      "4. Portfolio"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा वह संदेश बोर्ड है जहां लोग संदेश पोस्ट करके बातचीत कर सकते हैं?",
+    "options": [
+      "1. ब्लॉग",
+      "2. ई-कॉमर्स वेबसाइट",
+      "3. इंटरनेट फ़ोरम",
+      "4. पोर्टफ़ोलियो"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is an advantage of a multi-function printer?",
+    "options": [
+      "1. No cost",
+      "2. Always disconnected",
+      "3. Space saving",
+      "4. Not at all useful"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्न में से कौन-सा, मल्टीफंक्शन प्रिंटर का लाभ है?",
+    "options": [
+      "1. मुफ्त (No cost)",
+      "2. हमेशा डिस्कनेक्ट रहता है (Always disconnected)",
+      "3. स्‍पेस सेविंग (Space saving)",
+      "4. बिलकुल उपयोगी नहीं है (Not at all useful)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Pixels are:",
+    "options": [
+      "1. points on the end of PDA handheld devices",
+      "2. dots of ink from an inkjet printer",
+      "3. the smallest units of a digital image that can be displayed and represented on a digital display device",
+      "4. points of light used by a cordless, wireless, optical mouse"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "पिक्सेल (Pixels) क्या होते हैं?",
+    "options": [
+      "1. PDA हैंडहेल्ड उपकरणों के अंत में बिन्दु",
+      "2. एक इंकजेट प्रिंटर से स्याही के बिंदु",
+      "3. एक डिजिटल इमेज की सबसे छोटी इकाइयाँ जिन्हें डिजिटल डिस्प्ले डिवाइस पर प्रदर्शित तथा निरूपित किया जा सकता है",
+      "4. कॉर्डलेस, वायरलेस, ऑप्टिकल माउस द्वारा उपयोग किए जाने वाले प्रकाश के बिन्दु"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Adobe Premiere, Apple iMovie and Microsoft Windows Movie Maker 2 are examples of:",
+    "options": [
+      "1. video editing software",
+      "2. network software",
+      "3. word processing software",
+      "4. presentation software"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Adobe Premiere, Apple iMovie और Microsoft Windows Movie Maker 2 ______ के उदाहरण हैं।",
+    "options": [
+      "1. विडियो एडिटिंग सॉफ्टवेयर",
+      "2. नेटवर्क सॉफ्टवेयर",
+      "3. वर्ड प्रोसेसिंग सॉफ्टवेयर",
+      "4. प्रेजेंटेजेंटेशन सॉफ्टवेयर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ multimedia server supports both real time and non-real time clients.",
+    "options": [
+      "1. CineBox",
+      "2. CineTime",
+      "3. CineBlast",
+      "4. CineBlitz"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "_______ मल्टीमीडिया सर्वर, रियलटाइम और नॉन-रियल टाइम क्लाइंट, दोनों को सपोर्ट करता है।",
+    "options": [
+      "1. सिनेबॉक्स (CineBox)",
+      "2. सिनेटाइम (CineTime)",
+      "3. सिनेब्लास्ट (CineBlast)",
+      "4. सिनेब्लिट्ज (CineBlitz)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is NOT a block cipher?",
+    "options": [
+      "1. DES",
+      "2. AES",
+      "3. RC4",
+      "4. Triple DES"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, एक ब्लॉक साईफर (cipher) नहीं है?",
+    "options": [
+      "1. DES",
+      "2. AES",
+      "3. RC4",
+      "4. Triple DES"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "With reference to the Internet, what is the full form of IP?",
+    "options": [
+      "1. Image Processing",
+      "2. Image Protocol",
+      "3. Internet Protocol",
+      "4. Internet Path"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "इंटरनेट के संदर्भ में, IP का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Image processing (इमेज प्रोसेसिंग)",
+      "2. Image protocol (इमेज प्रोटोकॉल)",
+      "3. Internet protocol (इंटरनेट प्रोटोकॉल)",
+      "4. Internet path (इंटरनेट पाथ)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which type of printer technology works by projecting a focused light beam onto a photosensitive drum to form an electrostatic image that is later transferred to a paper?",
+    "options": [
+      "1. Laser",
+      "2. Inkjet",
+      "3. Dot matrix",
+      "4. Line"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "किस प्रकार की प्रिंटर तकनीक एक इलेक्ट्रो स्टैटिक छवि बनाने के लिए एक फोटोसेंसिसें टिव ड्रम पर एक केंद्रित लाइट बीम को पेश करके काम करती है जिसे बाद में कागज में स्थानांतरित किया जाता है?",
+    "options": [
+      "1. लेज़र",
+      "2. इंकजेट",
+      "3. डॉट मैट्रिक्स",
+      "4. लाइन"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Other than the CPU, which of the following components on the motherboard uses heat sink?",
+    "options": [
+      "1. North bridge",
+      "2. USB port",
+      "3. CPU bus",
+      "4. Hard disk"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "CPU के अतिरिक्त, मदरबोर्ड के निम्न घटकों में से कौन-सा, हीट सिंक का उपयोग करता है?",
+    "options": [
+      "1. नॉर्थ ब्रिज",
+      "2. USB पोर्ट",
+      "3. CPU बस",
+      "4. हार्ड डिस्क"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In Windows, Temp folder is used to:",
+    "options": [
+      "1. store temporary files",
+      "2. store important files",
+      "3. store images only",
+      "4. store text files only"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "विंडोज़ में, Temp फ़ोल्डर का उपयोग किस लिए किया जाता है?",
+    "options": [
+      "1. अस्थायी फाइलों को संग्रहित करने के लिए",
+      "2. महत्वपूर्ण फाइलों को संग्रहित करने के लिए",
+      "3. केवल इमेज को संग्रहित करने के लिए",
+      "4. केवल टेक्स्ट फाइलों को संग्रहित करने के लिए"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT a type of system call in an operating system?",
+    "options": [
+      "1. Process control",
+      "2. Device management",
+      "3. File management",
+      "4. Disc access"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, एक ऑपरेटिंग सिस्टम में सिस्टम कॉल का प्रकार नहीं है?",
+    "options": [
+      "1. प्रोसेस कन्ट्रोल",
+      "2. डिवाइस मैनेजमेंट",
+      "3. फाइल मैनेजमेंट",
+      "4. डिस्क एक्सेस"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "With reference to Unix systems, what is Uuencoded File format?",
+    "options": [
+      "1. .ee",
+      "2. .uu",
+      "3. .ue",
+      "4. .u"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "यूनिक्स (Unix) सिस्टम के संदर्भ में, Uuencoded फ़ाइल प्रारूप क्या है?",
+    "options": [
+      "1. .ee",
+      "2. .uu",
+      "3. .ue",
+      "4. .u"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following statements about Linux OS is/are FALSE? <br>(i) Linux supports multiple users and multiple processors.   <br>(ii) Linux is licensed under the GNU General Public License (GPL).  <br>(iii) Linux does not support GUI.",
+    "options": [
+      "1. (i) and (ii)",
+      "2. (ii) and (iii)",
+      "3. Only (iii)",
+      "4. Only (i)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "लिनक्स OS के बारे में निम्नलिखित में से कौन सा कथन गलत है? <br>(i) लिनक्स कई उपयोगकर्ताओं और कई प्रोसेसर का समर्थन करता है।   <br>(ii) लिनक्स को GNU जनरल पब्लिक लाइसेंस (GPL) के तहत लाइसेंस प्राप्त है।   <br>(iii) लिनक्स GUI को सपोर्ट नहीं करता है।",
+    "options": [
+      "1. (i) और (ii)",
+      "2. (ii) और (iii)",
+      "3. केवल (iii)",
+      "4. केवल (i)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is an application used to access and view websites?",
+    "options": [
+      "1. Web page",
+      "2. Web host",
+      "3. Email",
+      "4. Web browser"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सी एप्लिकेशन वेबसाइटों को एक्सेस करने और देखने के लिए उपयोग की जाती है?",
+    "options": [
+      "1. वेब पेज",
+      "2. वेब होस्ट",
+      "3. ईमेल",
+      "4. वेब ब्राउज़र"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "For accessing your router's configuration interface, modern routers provide which of the following that can be accessed through your web browser?",
+    "options": [
+      "1. Admin panel",
+      "2. Online user manual",
+      "3. Online help menu",
+      "4. Mail assistance"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "अपने राउटर के कॉन्फ़िगरेशन इंटरफ़ेस को एक्सेस करने के लिए, आधुनिक राउटर निम्नलिखित में से क्या उपलब्ध कराते हैं जिन्हें आप वेब ब्राउज़र के माध्यम से एक्सेस कर सकते है?",
+    "options": [
+      "1. एडमिन पैनल",
+      "2. ऑनलाइन यूज़र मैनुअल",
+      "3. ऑनलाइन हेल्प मेनू",
+      "4. मेल असिस्टेंस"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "State whether the following are true or false.  <br>(i) A web browser is a special kind of website that helps users find web pages from other websites.  <br> (ii) Bing is an example of a web browser.",
+    "options": [
+      "1. (i) True; (ii) True",
+      "2. (i) True; (ii) False",
+      "3. (i) False; (ii) False",
+      "4. (i) False; (ii) True"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "बताएँ कि निम्नलिखित सत्य हैं या असत्य। <br>(i) वेब ब्राउज़र एक विशेष प्रकार की वेबसाइट है जो उपयोगकर्ताओं को अन्य वेबसाइटों से वेब पेज खोजने में मदद करती है। <br> (ii) बिंग (Bing) एक वेब ब्राउज़र का उदाहरण है।",
+    "options": [
+      "1. (i) सत्य (TRUE); (ii) सत्य (TRUE)",
+      "2. (i) सत्य (TRUE); (ii) असत्य (FALSE)",
+      "3. (i) असत्य (FALSE); (ii) असत्य (FALSE)",
+      "4. (i) असत्य (FALSE); (ii) सत्य (TRUE)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Who among the given is famously known as developer of FTP (File Transfer Protocol)?",
+    "options": [
+      "1. Abhay Bhushan",
+      "2. Linus Torvald",
+      "3. Sundar Pichai",
+      "4. P C Mahalnobis"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से किसे FTP (फाइल ट्रां सफर प्रोटोकॉल) के विकासकर्ता के रूप में जाना जाता है?",
+    "options": [
+      "1. अभय भूषण (Abhay Bhushan)",
+      "2. लिनस तोर्वाल्ड (Linus Torvald)",
+      "3. सुन्दर पिचाई (Sundar Pichai)",
+      "4. पी सी महालनोबिस (P C Mahalnobis)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following memories work on the principle of the 'locality of reference'?",
+    "options": [
+      "1. ROM",
+      "2. Cache memory",
+      "3. Hard disk",
+      "4. RAM"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन सी मेमोरी ‘लोकलिटी ऑफ रेफरेंस (locality of reference)’ के सिद्धांत पर कार्य करती है?",
+    "options": [
+      "1. ROM",
+      "2. कैश मेमोरी",
+      "3. हार्ड डिस्क",
+      "4. RAM"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "With reference to E-Commerce, what are the two business models that currently exist?",
+    "options": [
+      "1. B2C and B2D",
+      "2. B2C and B2B",
+      "3. A2B and B2C",
+      "4. B2B and A2C"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ई-कॉमर्स के संदर्भ में वर्तमान में कौन से दो व्यावसायिक मॉडल मौजूद हैं?",
+    "options": [
+      "1. B2C और B2D",
+      "2. B2C और B2B",
+      "3. A2B और B2C",
+      "4. B2B और A2C"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the output of the following MS-Excel 365 formula? <br> =COLUMNS(A1:Z2)",
+    "options": [
+      "52",
+      "26",
+      "2",
+      "28"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित MS-Excel 365 सूत्र का आउटपुट क्या है?  <br> =COLUMNS(A1:Z2)",
+    "options": [
+      "52",
+      "26",
+      "2",
+      "28"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "You want to share your picnic photographs online with your friends. You can share these photographs by using _________.",
+    "options": [
+      "1. MS Word",
+      "2. McAfee",
+      "3. OpenOffice Writer",
+      "4. Google Photos"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "आप अपनी पिकनिक वाली तस्वीरों को अपने दोस्तों के साथ ऑनलाइन साझा करना चाहते हैं। आप_______ के उपयोग से इन तस्वीरों को साझा कर सकते हैं।",
+    "options": [
+      "1. MS Word (एमएस वर्ड)",
+      "2. McAfee (मैकेफी)",
+      "3. OpenOffice Writer (ओपनऑफिस राइटर)",
+      "4. Google Photos (गूगल फोटोज)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A web ______ consists of one or more web pages located on a web server.",
+    "options": [
+      "1. hub",
+      "2. site",
+      "3. story",
+      "4. template"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "किसी वेब _______ में वेब सर्वर पर स्थित एक या अधिक वेब पेज होते हैं।",
+    "options": [
+      "1. हब",
+      "2. साइट",
+      "3. स्टोरी",
+      "4. टेम्पलेट"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following shortcuts will you use to open a Margin dialogue box in MS-Word 2019?",
+    "options": [
+      "1. ALT + P + S",
+      "2. ALT + P + M",
+      "3. ALT + P + N",
+      "4. ALT + P"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Word 2019 में एक मार्जिन डायलॉग बॉक्स खोलने के लिए आप निम्नलिखित में से कौन-से शॉर्टकट का उपयोग करेंगे?",
+    "options": [
+      "1. ALT + P + S",
+      "2. ALT + P + M",
+      "3. ALT + P + N",
+      "4. ALT + P"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "There is(are) _______ option(s) under select recipients which is the third step of mail merging of email messages.",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "ई-मेल संदेशों की मेल मर्जिंग (mail merging) प्रक्रिया के तीसरे चरण, 'प्राप्तकर्ता चुनें', के अंतर्गत कितने विकल्प मौजूद होते हैं?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following mouse actions allows you to select and move an item from one location to another in MS-Word 2019?",
+    "options": [
+      "1. Left click",
+      "2. Double click",
+      "3. Right click",
+      "4. Drag and drop"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सी माउस क्रिया आपको MS-Word 2019 में एक आइटम को सेलेक्‍ट करने और एक स्थान से दूसरे स्थान पर स्थानांतरित करने की सुविधा देती है?",
+    "options": [
+      "1. लेफ्ट क्लिक",
+      "2. डबल क्लिक",
+      "3. राइट क्लिक",
+      "4. ड्रैग एंड ड्रॉप"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The type of internet service you choose will largely depend on which _______ serves your area, along with the types of services they offer.",
+    "options": [
+      "1. internet society",
+      "2. internet architecture board",
+      "3. internet service provider",
+      "4. internet group"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "आपके द्वारा चुनी गई इंटरनेट सेवा का प्रकार काफी हद तक इस बात पर निर्भर करेगा कि कौन सी/सा _______ आपके क्षेत्र में सेवा प्रदान करती/ करता है, और वे किस प्रकार की सेवाएं प्रदान करते हैं।",
+    "options": [
+      "1. इंटरनेट सोसायटी",
+      "2. इंटरनेट आर्कीटेक्चर बोर्ड",
+      "3. इंटरनेट सेवा प्रदाता",
+      "4. इंटरनेट समूह"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is the binary equivalent to decimal number 10?",
+    "options": [
+      "1011",
+      "1100",
+      "1001",
+      "1010"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "दशमलव संख्या 10 का बाइनरी समतुल्य निम्न में से क्या होगा?",
+    "options": [
+      "1011",
+      "1100",
+      "1001",
+      "1010"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following function keys of a PC keyboard is generally used for 'Help' in many applications in Windows OS?",
+    "options": [
+      "1. F1",
+      "2. F2",
+      "3. F4",
+      "4. F11"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "पीसी (PC) कीबोर्ड की निम्नलिखित फ़ंक्शन कुंजियों में से कौन-सी आमतौर पर Windows OS में कई अनुप्रयोगों में ‘सहायता’ के लिए उपयोग की जाती है?",
+    "options": [
+      "1. F1",
+      "2. F2",
+      "3. F4",
+      "4. F11"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT an example of the computer hardware?",
+    "options": [
+      "1. Hard disk drive",
+      "2. Sound card",
+      "3. RAM",
+      "4. Operating system"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से कौन सा कंप्यूटर हार्डवेयर का एक उदाहरण नहीं है?",
+    "options": [
+      "1. हार्ड डिस्क ड्राइव",
+      "2. साउंड कार्ड",
+      "3. RAM",
+      "4. ऑपरेटिंग सिस्टम"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following functions in MS-Excel 2019 can be used to calculate the number of days, months, or years between two dates?",
+    "options": [
+      "1. DATEDIF function",
+      "2. DATE function",
+      "3. AGE function",
+      "4. Date of Birth function"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में निम्नलिखित में से कौन सा फ़ंक्शन दो तिथियों के बीच दिनों, नों महीनों या वर्षों की संख्या की गणना करने के लिए उपयोग किया जा सकता है?",
+    "options": [
+      "1. DATEDIF फंक्शन",
+      "2. DATE फंक्शन",
+      "3. AGE फंक्शन",
+      "4. Date of Birth फंक्शन"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT an option of the File tab in MS-PowerPoint 2019?",
+    "options": [
+      "1. Open",
+      "2. Close",
+      "3. Save",
+      "4. Formulas"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा MS-PowerPoint 2019 की फ़ाइल टैब का एक विकल्प नहीं है?",
+    "options": [
+      "1. ओपेन (Open)",
+      "2. क्लोज़ (Close)",
+      "3. सेव (Save)",
+      "4. फॉर्मूला (Formulas)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is the default programming language that we can use for creating macros in MS-Excel?",
+    "options": [
+      "1. C++",
+      "2. Visual Basic for Applications",
+      "3. C",
+      "4. Java"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सी डिफ़ॉल्ट प्रोग्रामिंग भाषा है जिसका उपयोग हम MS-EXCEL में मैक्रो बनाने के लिए कर सकते हैं?",
+    "options": [
+      "1. C++",
+      "2. विसुअल बेसिक फॉर ऍप्लिकेशन्स (Visual Basic for Applications)",
+      "3. C",
+      "4. जावा (Java)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Data visualisation refers to ______.",
+    "options": [
+      "1. graphical and visual representation of information",
+      "2. numerical and analytical representation of information",
+      "3. logical thinking",
+      "4. data manipulation"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "डेटा विज़ुअलाइज़ेशन ______ को संदर्भित करता है।",
+    "options": [
+      "1. सूचना के ग्राफिकल और विज़ुअल रिप्रजेंटेजेंटेशन",
+      "2. सूचना के न्यूमेरिकल और एनालिटिकल रिप्रजेंटेजेंटेशन",
+      "3. लॉजिकल थिंकिंग",
+      "4. डेटा मैनीपुलेशन"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Bar Charts can be plotted ______ in MS-Excel 365.",
+    "options": [
+      "1. only vertically",
+      "2. only horizontally",
+      "3. vertically or horizontally",
+      "4. only diagonally"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "बार चार्ट को MS-EXCEL 365 में __________ रूप से प्लॉट किया जा सकता है।",
+    "options": [
+      "1. केवल ऊर्ध्वाधर",
+      "2. केवल क्षैतिज",
+      "3. ऊर्ध्वाधर या क्षैतिज",
+      "4. केवल विकर्णीय"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which command allows you to reverse an Undo command in MS-Office 2019?",
+    "options": [
+      "1. Undo",
+      "2. Redo",
+      "3. Repeat",
+      "4. Reverse"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कौन सी कमांड आपको MS-Office 2019 में Undo कमांड को रिवर्स करने की अनुमति देती है?",
+    "options": [
+      "1. अनडू (Undo)",
+      "2. रीडू (Redo)",
+      "3. रिपीट (Repeat)",
+      "4. रिवर्स (Reverse)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The address of the active cell is displayed in the ______ of the workbook in MS-Excel 2019.",
+    "options": [
+      "1. Ribbon",
+      "2. Name Box",
+      "3. Formula Bar",
+      "4. Layout"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 में, वर्कबुक की सक्रिय सेल का एड्रेस _________ में प्रदर्शित होता है।",
+    "options": [
+      "1. रिबन",
+      "2. नेम बॉक्स",
+      "3. फॉर्मूला बार",
+      "4. लेआउट"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What does the following formula in MS-Excel 365 do? <br> =IF(AND(A2>2, A2<50), \"The value is out of range\", A2)",
+    "options": [
+      "1. Displays the value of cell A2 if it is >=2 and <=50",
+      "2. Displays the value of cell A2 if it is <=2 and >=50",
+      "3. Displays the message 'The value is out range' if the value of cell A2 is <=2 and >=50",
+      "4. Displays error message"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 365 में निम्न सूत्र क्या करता है? <br> =IF(AND(A2>2, A2<50), \"The value is out of range\", A2)",
+    "options": [
+      "1. सेल A2 के मान को प्रदर्शित करता है यदि यह >=2 और <=50 है",
+      "2. सेल A2 के मान को प्रदर्शित करता है यदि यह <=2 और >=50 है",
+      "3. यदि A2 सेल का मान <=2 और >=50 है, तो \"The value is out range\" संदेश प्रदर्शित करता है",
+      "4. एक एरर संदेश प्रदर्शित करता है"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following decodes the program instruction?",
+    "options": [
+      "1. Registers",
+      "2. Control Unit",
+      "3. ALU",
+      "4. RAM"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "प्रोग्राम इंस्‍ट्रक्‍शन (program instruction) को डिकोड करने का काम निम्न में से किसके द्वारा किया जाता है?",
+    "options": [
+      "1. रजिस्टर (Registers)",
+      "2. कंट्रोल यूनिट (Control Unit)",
+      "3. ALU",
+      "4. RAM"
+    ],
+    "answer": 1
+  }
+],
+
    "27th September 2025 - Shift1": [
   {
     "q": "All of the logic and mathematical calculations done by the computer happen in/on the ______.",
@@ -21901,6 +22944,7 @@
         };
     
     
+
 
 
 
