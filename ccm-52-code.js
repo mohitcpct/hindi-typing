@@ -5215,6 +5215,1049 @@
     "answer": 1
   }
 ],
+
+   "11th July 2025 - Shift2": [
+  {
+    "q": "DMA stands for:",
+    "options": [
+      "1. Direct Memory Access",
+      "2. Direct Module Access",
+      "3. Distinct Memory Access",
+      "4. Distinct Memory Allocation"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "DMA का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Direct Memory Access (डायरेक्‍ट मेमोरी एक्सेस)",
+      "2. Direct Module Access (डायरेक्‍ट मोड्यूल एक्सेस)",
+      "3. Distinct Memory Access (डिस्टिंक्‍ट मेमोरी एक्सेस)",
+      "4. Distinct Memory Allocation (डिस्टिंक्‍ट मेमोरी एलोकेशन)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "1 gigabyte is equal to _________.",
+    "options": [
+      "1. 10³⁰ bytes",
+      "2. 2¹⁶ bytes",
+      "3. 8³⁰ bytes",
+      "4. 2³⁰ bytes"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "1 गीगाबाइट _________ के बराबर है।",
+    "options": [
+      "1. 10³⁰ बाइट्स",
+      "2. 2¹⁶ बाइट्स",
+      "3. 8³⁰ बाइट्स",
+      "4. 2³⁰ बाइट्स"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following statements with reference to a Solid State Drive are True/False? <br>(i) SSD is a non-volatile storage device.  <br>(ii) Solid State Drives (SSDs) use a combination of NAND flash memory technology and advanced controller algorithms.",
+    "options": [
+      "1. (i) True, (ii) False",
+      "2. (i) False, (ii) True",
+      "3. (i) False, (ii) False",
+      "4. (i) True, (ii) True"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "सॉलिड स्टेट ड्राइव (Solid State Drive) के संदर्भ में निम्‍नलिखित में से कौन सा कथन सही/गलत है? <br>(i) SSD एक नॉन-वोलटाइल स्‍टोरेज‍डिवाइस (non-volatile storage device) है। <br>(ii) सॉलिड स्टेट ड्राइव (SSD), NAND फ्लैश मेमोरी तकनीक और उन्‍नत नियंत्रक एल्गोरिदम के संयोजन का उपयोग करते हैं।",
+    "options": [
+      "1. (i) सही (ii) गलत",
+      "2. (i) गलत (ii) सही",
+      "3. (i) गलत (ii) गलत",
+      "4. (i) सही (ii) सही"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "YACC stands for:",
+    "options": [
+      "1. Yet Another Compiler Compiler",
+      "2. Yet Another Complete Compiler",
+      "3. Yet Another Compilation Co-processor",
+      "4. Yet Another Complete Co-processor"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "YACC का पूर्ण रूप क्या है?",
+    "options": [
+      "1. येट ऐनअदर कंपाइलर कंपाइलर (Yet Another Compiler Compiler)",
+      "2. येट ऐनअदर कम्‍पलीट कंपाइलर (Yet Another Complete Compiler)",
+      "3. येट ऐनअदर कंपाइलेशन को-प्रोसेसर(Yet Another Compilation Co-processor)",
+      "4. येट ऐनअदर कम्‍पलीट को-प्रोसेसर (Yet Another Complete Co-processor)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a data storage device that includes flash memory with an integrated USB interface?",
+    "options": [
+      "1. CD",
+      "2. Pen drive",
+      "3. Tape drive",
+      "4. SD card"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन सी वह डेटा स्टोरेज डिवाइस है जिसमें एक इंटीग्रेटेड USB इंटरफ़ेस के साथ फ्लैश मेमोरी शामिल है?",
+    "options": [
+      "1. CD",
+      "2. पेन ड्राइव",
+      "3. टेप ड्राइव",
+      "4. SD कार्ड"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Keys such as Ctrl, Alt, Windows logo and ESC, which are used alone or in combination with other keys to perform certain actions in Windows OS, belong to which of the following groups of keys?",
+    "options": [
+      "1. Control",
+      "2. Logic",
+      "3. Monitor",
+      "4. Navigation"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Ctrl, Alt, Windows logo और ESC जैसी कुंजियाँ Windows OS में कुछ कार्यों को करने के लिए अकेले या अन्‍य कुंजियों के साथ संयोजन में उपयोग की जाने वाली कुंजियाँ हैं, जो निम्‍न में से कुंजियों के किस समूह से संबंधित हैं?",
+    "options": [
+      "1. कंट्रोल (Control)",
+      "2. लॉजिक (Logic)",
+      "3. मॉनीटर (Monitor)",
+      "4. नेविगेशन (Navigation)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which dialog box in a Windows 10 laptop lets the user select different options like Color/Grayscale, Quality, Paper Source, Paper Size?",
+    "options": [
+      "1. Printing selection",
+      "2. Printing choices",
+      "3. Printing options",
+      "4. Printing preferences"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "विंडोज 10 लैपटॉप में कौन सा डायलाग बॉक्‍स उपयोगकर्ता को कलर/ग्रेस्केल, गुणवत्ता (Quality), कागज स्रोत (Paper Source), कागज आकार (Paper Size) जैसे विभिन्‍न विकल्पों का चयन करने की सुविधा देता है?",
+    "options": [
+      "1. प्रिंटिंग सिलेक्‍शन (Printing selection)",
+      "2. प्रिंटिंग च्‍वाइसेस (Printing choices)",
+      "3. प्रिंटिंग ऑप्‍शन्‍स (Printing options)",
+      "4. प्रिंटिंग प्रैफरेंसेज (Printing preferences)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Identify the ODD option with reference to components of a computer system.",
+    "options": [
+      "1. Arithmetic Logic Unit",
+      "2. Control Unit",
+      "3. Cache memory chip",
+      "4. Compiler"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कंप्यूटर सिस्‍टम के घटकों के संदर्भ में ODD विकल्‍प की पहचान करें।",
+    "options": [
+      "1. अंकगणितीय तर्क इकाई (Arithmetic Logic Unit)",
+      "2. नियंत्रण इकाई (Control Unit)",
+      "3. कैशे मेमोरी चिप (Cache memory chip)",
+      "4. कम्पाइलर (Compiler)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which bar codes are compact, high-density codes used in logistics and transportation industries for ordering and distribution?",
+    "options": [
+      "1. EAN code",
+      "2. UPC code",
+      "3. Code 39",
+      "4. Code 128"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कौन से बार कोड कॉम्पैक्‍ट, उच्‍च घनत्‍व वाले कोड हैं जिनका उपयोग ऑर्डर और वितरण के लिए लॉजिस्टिक्‍स और परिवहन उद्योगों में किया जाता है?",
+    "options": [
+      "1. EAN कोड",
+      "2. UPC कोड",
+      "3. कोड 39",
+      "4. कोड 128"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following statements about Blu-ray discs is FALSE?",
+    "options": [
+      "1. Blu-ray Discs store data using a blue-violet laser",
+      "2. You need a Blu-ray player to play Blu-ray Discs",
+      "3. Blu-ray disc is a high-capacity optical disc",
+      "4. Blu-ray Disc does not support large volumes of data"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "ब्लू-रे डिस्‍क के बारे में निम्‍नलिखित में से कौन सा कथन गलत है?",
+    "options": [
+      "1. ब्लू-रे डिस्‍क नीले-बैंगनी लेजर का उपयोग करके डेटा संग्रहीत करती है",
+      "2. ब्लू-रे डिस्‍क चलाने के लिए आपको ब्लू-रे प्लेयर (Blu-ray player) की आवश्‍यकता होती है",
+      "3. ब्लू-रे डिस्‍क एक उच्‍च क्षमता वाली ऑप्टिकल डिस्‍क है",
+      "4. ब्लू-रे डिस्‍क बड़ी मात्रा में डेटा को सपोर्ट नहीं करती है"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Blu-ray disc media have _________ codes written in letters to indicate a particular zone where you can play the discs.",
+    "options": [
+      "1. region",
+      "2. local",
+      "3. display",
+      "4. block"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "ब्लू-रे डिस्‍क मीडिया में एक विशेष क्षेत्र को इंगित करने के लिए अक्षरों में _________ कोड लिखे होते हैं जहां आप डिस्‍क चला सकते हैं।",
+    "options": [
+      "1. क्षेत्र (region)",
+      "2. स्थानीय (local)",
+      "3. डिस्‍प्‍ले (display)",
+      "4. ब्लॉक (block)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A ______ blog is a commentary or online diary written by one person.",
+    "options": [
+      "1. personal",
+      "2. niche",
+      "3. corporate",
+      "4. public"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ ब्लॉग किसी व्‍यक्ति द्वारा लिखी गई कमेंट्री या ऑनलाइन डायरी होती है।",
+    "options": [
+      "1. निजी (personal)",
+      "2. निकेत (niche)",
+      "3. कॉर्पोरेट (corporate)",
+      "4. सार्वजनिक (public)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following statements with reference to a plotter is FALSE?",
+    "options": [
+      "1. Plotter is a type of printer technology.",
+      "2. Plotter is a computer output device.",
+      "3. Pen plotter is a large-scale cutting machine that uses knives/blades.",
+      "4. Plotter uses multicolored automatic pens to create lines on paper."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "प्लॉटर के संदर्भ में निम्‍नलिखित में से कौन सा कथन गलत है?",
+    "options": [
+      "1. प्लॉटर एक कार की प्रिंटर तकनीक है।",
+      "2. प्लॉटर एक कंप्यूटर आउटपुट डिवाइस है।",
+      "3. पेन प्लॉटर एक बड़े पैमाने पर काटने वाली मशीन है जो चाकू/ब्लेड का उपयोग करती है।",
+      "4. प्लॉटर कागज पर लाइनें बनाने के लिए बहुरंगी स्‍वचालित पेनों (pens) का उपयोग करता है।"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A backplane in a computer or electronic system refers to _____________________.",
+    "options": [
+      "1. a crucial piece of hardware that connects various modules and components together.",
+      "2. the AC voltage applied between a segment and a common element",
+      "3. the amount of power consumed",
+      "4. the amount of cost consumed"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कंप्यूटर या इलेक्ट्रॉनिक सिस्‍टम में एक बैकप्लेन (backplane) ________ को संदर्भित करता है।",
+    "options": [
+      "1. विभिन्‍न मॉड्यूल और घटकों को एक साथ जोड़ने वाले हार्डवेयर के एक महत्‍वपूर्ण पीस",
+      "2. सेगमेंट और सामान्‍य एलिमेंट के बीच प्रयुक्‍त ए.सी. वोल्टेज",
+      "3. खपत की गई बिजली (पॉवर) की मात्रा",
+      "4. खर्च की गई धनराशि"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following software is installed without the knowledge or consent of the user and can monitor online activities and collect personal information while surfing Web?",
+    "options": [
+      "1. Adware",
+      "2. Ransomware",
+      "3. Bots",
+      "4. Spyware"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन सा सॉफ्टवेयर उपयोगकर्ता के ज्ञान या सहमति के बिना स्थापित किया जाता है और यह ऑनलाइन गतिविधियों की निगरानी कर सकता है और वेब सर्फिंग करते समय व्‍यक्तिगत जानकारी एकत्र कर सकता है?",
+    "options": [
+      "1. एडवेयर (Adware)",
+      "2. रैंसमवेर (Ransomware)",
+      "3. बॉट्स (Bots)",
+      "4. स्पाइवेर (Spyware)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is NOT a part of a printer?",
+    "options": [
+      "1. Connector",
+      "2. Sheet feeder",
+      "3. Output tray",
+      "4. Camera"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सा प्रिंटर का एक भाग नहीं है?",
+    "options": [
+      "1. कनेक्‍टर (Connector)",
+      "2. शीट फीडर (Sheet feeder)",
+      "3. आउटपुट ट्रे (Output tray)",
+      "4. कैमरा (Camera)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following factors does NOT affect print speed?",
+    "options": [
+      "1. Printer Type",
+      "2. Print Quality Settings",
+      "3. Document Complexity",
+      "4. Computer monitor quality"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन सा कारक प्रिंट स्‍पीड (print speed) को प्रभावित नहीं करता है?",
+    "options": [
+      "1. प्रिंटर टाइप (Printer Type)",
+      "2. प्रिंट क्वालिटी सेटिंग्‍स (Print Quality Settings)",
+      "3. डॉक्‍यूमेंट कॉम्‍प्‍लेक्सिटी ( Document Complexity)",
+      "4. कंप्यूटर मॉनिटर क्वालिटी (Computer monitor quality)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A Bluetooth connection between our cell phone and car's audio system is considered as a ________________.",
+    "options": [
+      "1. LAN",
+      "2. MAN",
+      "3. PAN",
+      "4. WAN"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "हमारे सेल फोन और कार ऑडियो सिस्‍टम के बीच एक ब्लूटूथ कनेक्‍शन _____________ के रूप में माना जाता है।",
+    "options": [
+      "1. LAN",
+      "2. MAN",
+      "3. PAN",
+      "4. WAN"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following operating systems was introduced by Microsoft in 1981?",
+    "options": [
+      "1. Unix",
+      "2. Linux",
+      "3. MS-DOS",
+      "4. Windows"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन सा ऑपरेटिंग सिस्‍टम माइक्रोसॉफ्ट (Microsoft) द्वारा 1981 में पेश किया गया था?",
+    "options": [
+      "1. Unix",
+      "2. Linux",
+      "3. DOS",
+      "4. Windows"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is NOT a component of a fibre optic cable?",
+    "options": [
+      "1. Core",
+      "2. Cladding",
+      "3. Jacket",
+      "4. Connector"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सा, फाइबर ऑप्टिक केबल का एक घटक नहीं है?",
+    "options": [
+      "1. कोर (Core)",
+      "2. क्लेडिंग (Cladding)",
+      "3. जैकेट (Jacket)",
+      "4. कनेक्‍टर (Connector)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following viruses is used to change the program's footprint to avoid detection?",
+    "options": [
+      "1. Boot Sector",
+      "2. Web Scripting",
+      "3. Polymorphic",
+      "4. Browser Hijacker"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्‍नलिखित में से किस वायरस का उपयोग, संसूचन (detection) से बचने के लिए प्रोग्राम के फूटप्रिंट को बदलने के लिए किया जाता है?",
+    "options": [
+      "1. बूट सेक्‍टर (Boot Sector)",
+      "2. वेब-स्क्रिप्टिंग (Web Scripting)",
+      "3. पॉलीमार्फिक (Polymorphic)",
+      "4. ब्राउज़र हाइजैकर (Browser Hijacker)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Identify the sequence of steps that must be taken to configure static IP setting of Windows 10.",
+    "options": [
+      "1. Click Start Menu > Control Panel > Network and Sharing Center or Network and Internet >Network and Sharing Center. Click Change adapter settings. <br>Right-click on Wi-Fi or Local Area Connection. <br>Click Properties. <br>Select Internet Protocol Version 4 (TCP/IPv4). <br>Click Properties. <br>Select Use the following IP address. <br>Enter the IP address, Subnet mask, Default gateway, and DNS server. <br>Click OK.",
+      "2. Select network interface <br>Click update driver  <br>Select IP address <br>Enter details (like IPv4 address, subnet mask, gateway field, DNS field)  <br>Click OK",
+      "3. Select network interface <br>Click edit <br>Select UDP address <br>Enter details (like IPv4 address, subnet mask, gateway field, DNS field) <br>Click OK",
+      "4. Select network interface <br>Click edit <br>Select firewall and enter details (like IPv4 address, subnet mask, gateway field, DNS field) <br>Click OK"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Windows 10 की स्टैटिक IP सेटिंग (static IP setting) को कॉन्फ़िगर (configure) करने के लिए अनुसरित किए जाने वाले चरणों के अनुक्रम की पहचान करें।",
+    "options": [
+      "1. Start Menu > Control Panel > Network और Sharing Center या Network और Internet > Network और Sharing Center पर क्लिक करें। <br> Change adapter settings पर क्लिक करें।  <br>Wi-Fi या Local Area Connection पर राइट क्लिक करें। <br>Properties पर क्लिक करें। <br> Internet Protocol Version 4 (TCP/IPv4) सलेक्‍ट करें। <br>Properties पर क्लिक करें। <br>Use the following IP address सलेक्‍ट करें। <br>IP address, Subnet mask, Default gateway, और DNS server को इंटर करें। <br>OK पर क्लिक करें।",
+      "2. Network interface को सलेक्‍ट करें <br>update driver पर क्लिक करें  <br>IP एड्रेस को सलेक्‍ट करें  <br>  <br> विवरणों (जैसे कि IPv4 address, subnet mask, gateway field, DNS field) को इंटर करें <br>OK पर क्लिक करें।",
+      "3. Network interface को सलेक्‍ट करें <br>edit पर क्लिक करें <br>UDP address को सलेक्‍ट करें <br>विवरणों (जैसे कि IPv4 address, subnet mask, gateway field, DNS field) को इंटर करें <br>OK पर क्लिक करें।",
+      "4. Network interface को सलेक्‍ट करें <br>edit पर क्लिक करें <br>firewall को सलेक्‍ट करें और विवरणों ( जैसे कि IPv4 address, subnet mask, gateway field, DNS field) को इंटर करें <br>OK पर क्लिक करें।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The ___________ address is the physical address assigned to the NIC (Network Interface Card) by the manufacturer.",
+    "options": [
+      "1. network",
+      "2. IP",
+      "3. MAK",
+      "4. MAC"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "___________ एड्रेस निर्माता द्वारा NIC (नेटवर्क इंटरफेस कार्ड- Network Interface Card) को निर्दिष्‍ट किया गया भौतिक एड्रेस (physical address) होता है।",
+    "options": [
+      "1. नेटवर्क",
+      "2. IP",
+      "3. MAK",
+      "4. MAC"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "_______ is an electronic device controlled by a motor that moves the hard drive head arm.",
+    "options": [
+      "1. Spindle",
+      "2. Platter",
+      "3. Actuator",
+      "4. Head"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "_____, एक मोटर द्वारा नियंत्रित इलेक्ट्रॉनिक डिवाइस है जो हार्ड ड्राइव हेड आर्म (hard drive head arm) को संचलित करता है।",
+    "options": [
+      "1. धुरी (Spindle)",
+      "2. प्लेटर (Platter)",
+      "3. एक्चुएटर (Actuator)",
+      "4. हेड (Head)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following refers to a web address which uniquely identifies a document over the internet?",
+    "options": [
+      "1. Uniform Resource Locator",
+      "2. IP address",
+      "3. MAC address",
+      "4. Domain Name System"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सा एक वेब एड्रेस (web address) को संदर्भित करता है जो विशिष्‍ट रूप से इंटरनेट पर एक डॉक्यूमेंट की पहचान करता है?",
+    "options": [
+      "1. यूनिफ़ॉर्म रिसोर्स लोकेटर (Uniform Resource Locator)",
+      "2. आईपी एड्रेस (IP address)",
+      "3. मैक एड्रेस (MAC address)",
+      "4. डोमेन नेम सिस्‍टम (Domain Name System)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_________ are special functions or programs using which application programs or system utilities accesses Kernel's features.",
+    "options": [
+      "1. System utilities",
+      "2. System libraries",
+      "3. Utility programs",
+      "4. User commands"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "_________ विशेष फ़ंक्‍शन या प्रोग्राम हैं जिनका उपयोग करके एप्लिकेशन प्रोग्राम या सिम यूटिलिटीज कर्नेल की सुविधाओं (Kernel's ओं features) का ऐक्‍सेस करते हैं।",
+    "options": [
+      "1. सिम यूटिलिटीज (System Utilities)",
+      "2. सिम लाइब्रेरीज़ (System libraries)",
+      "3. यूटिलिटी प्रोग्राम्‍स (Utility programs)",
+      "4. यूज़र कमान्ड्स (User commands)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A BitTorrent file has a ______ file extension.",
+    "options": [
+      "1. .torrent",
+      "2. .bitorrent",
+      "3. .bittorent",
+      "4. .bit"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "बिट टोरेंट फाइल (Bit Torrent File) का ______ फाइल एक्‍सटेंशन (file extension) होता है।",
+    "options": [
+      "1. .torrent",
+      "2. .bitorrent",
+      "3. .bittorent",
+      "4. .bit"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following could be one of the reasons for which laser printer is kept in Stand By mode?",
+    "options": [
+      "1. To keep the fuser warm",
+      "2. For increasing the printing delay",
+      "3. For cooling the toner",
+      "4. For rotating the drum"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सा, लेज़र प्रिंटर को स्टैंड बाय मोड (Stand By mode) में रखने का एक कारण हो सकता है?",
+    "options": [
+      "1. फ्यूसर (fuser) को गर्म बनाए रखने के लिए",
+      "2. प्रिंटिंग विलंब बढ़ाने के लिए",
+      "3. टोनर (toner) को ठंडा करने के लिए",
+      "4. ड्रम (drum) के घूर्णन के लिए"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A virus that can access computer memory and sit dormant until a payload is delivered is considered as a _________.",
+    "options": [
+      "1. Direct Action Virus",
+      "2. File Infector Virus",
+      "3. Browser Hijacker",
+      "4. Resident virus"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "एक वायरस जो कंप्यूटर मेमोरी तक ऐक्‍सेस कर सकता है और एक पेलोड (payload) वितरित होने तक निष्क्रिय रह सकता है, उसे _________ माना जाता है।",
+    "options": [
+      "1. डायरेक्‍ट एक्‍शन वायरस (Direct Action Virus)",
+      "2. फ़ाइल इन्‍फेक्‍टर वायरस (File Infector Virus)",
+      "3. ब्राउज़र हाइजैकर (Browser Hijacker)",
+      "4. रेजीडेंट वायरस (Resident Virus)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "_________ is a global system of interconnected computer networks that use the standard Internet protocol suite (TCP/IP).",
+    "options": [
+      "1. Intranet",
+      "2. Extranet",
+      "3. Topology",
+      "4. Internet"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "_________ आपस मे जुड़े (इंटरकनेक्टेड) कंप्यूटर नेटवर्क की एक वैश्विक प्रणाली है जो स्‍टैंडर्ड इंटरनेट प्रोटोकॉल सुइट (TCP/IP) का उपयोग करती है।",
+    "options": [
+      "1. इंट्रानेट (Intranet)",
+      "2. एक्स्ट्रानेट (Extranet)",
+      "3. टोपोलॉजी (Topology)",
+      "4. इंटरनेट (Internet)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following refers to a virtual world created by links between computers, Internet-enabled devices, servers, routers, and other components of the Internet's infrastructure?",
+    "options": [
+      "1. Cyberspace",
+      "2. Information space",
+      "3. Virtual space",
+      "4. Data space"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सा, कंप्यूटर, इंटरनेट-सम उपकरण, सर्वर, राउटर और इंटरनेट की आधारिक संरचना के अन्‍य घटकों के बीच लिंक द्वारा निर्मित आभासी दुनिया (virtual world) को संदर्भित करता है?",
+    "options": [
+      "1. साइबरस्पेस (Cyberspace)",
+      "2. इन्फोर्मेशन स्पेस (Information space)",
+      "3. वर्चुअल स्पेस (Virtual space)",
+      "4. डेटा स्पेस (Data space)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the full form of IRC with reference to real-time online conversations ?",
+    "options": [
+      "1. Internet Relay Chat",
+      "2. Information Related Charts",
+      "3. Instant Relay Chat",
+      "4. Information Relay Chat"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "वास्‍तविक समय ऑनलाइन वार्तालापों के संदर्भ में IRC का पूर्णरूप क्या है?",
+    "options": [
+      "1. Internet Relay Chat (इंटरनेट रिले चैट)",
+      "2. Information Related Charts (इनफॉर्मेशन रिलेटेड चार्ट्स)",
+      "3. Instant Relay Chat (इंस्टेंट रिले चैट)",
+      "4. Information Relay Chat (इनफॉर्मेशन रिले चैट)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following options is NOT available in the Images group of the Insert tab in MS-PowerPoint 2019?",
+    "options": [
+      "1. Shapes",
+      "2. Screenshot",
+      "3. Photo Album",
+      "4. Pictures"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-PowerPoint 2019 में इन्‍सर्ट टैब (Insert tab) के इमेजेज ग्रुप (Images group) में निम्‍न में से कौन-सा विकल्‍प उपलब्‍ध नहीं है?",
+    "options": [
+      "1. शेप्‍स (Shapes)",
+      "2. स्क्रीनशॉट (Screenshot)",
+      "3. फोटो एल्‍बम (Photo Album)",
+      "4. पिक्‍चर्स (Pictures)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following keyboard shortcuts in MS-Excel 2019 is used to open the Spelling dialog box to check spelling in the active worksheet or selected range?",
+    "options": [
+      "1. F1",
+      "2. F7",
+      "3. F3",
+      "4. F2"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 में निम्‍नलिखित कीबोर्ड शॉर्टकट में से किसका उपयोग, सक्रिय वर्कशीट या चयनित रेंज (selected range) में वर्तनी (spelling) की जांच करने के लिए स्‍पेलिंग डायलॉग बॉक्‍स (spelling dialog box) खोलने के लिए किया जाता है?",
+    "options": [
+      "1. F1",
+      "2. F7",
+      "3. F3",
+      "4. F2"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the full form of NSDL?",
+    "options": [
+      "1. National Securities Depository Limited",
+      "2. National Securities Depository Liability",
+      "3. Nation Social Depository Liability",
+      "4. New Securities Depository Limited"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "NSDL का पूर्ण रूप क्या है?",
+    "options": [
+      "1. National Securities Depository Limited (नेशनल सिक्युरिटीज़ डिपॉजिटरी लिमिटेड)",
+      "2. National Securities Depository Liability (नेशनल सिक्युरिटीज़ डिपॉजिटरी लाइबिलिटी)",
+      "3. Nation Social Depository Liability (नेशन सोशल डिपॉजिटरी लाइबिलिटी)",
+      "4. New Securities Depository Limited (न्यू सिक्युरिटीज़ डिपॉजिटरी लिमिटेड)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "OLTP stands for:",
+    "options": [
+      "1. Online Transaction Processing",
+      "2. Online Transfer Processing",
+      "3. Online Temple Processing",
+      "4. Online Template Processing"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "OLTP का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Online Transaction Processing (ऑनलाइन ट्रांजेक्‍शन प्रोसेसिंग)",
+      "2. Online Transfer Processing (ऑनलाइन ट्रांसफर प्रोसेसिंग)",
+      "3. Online Temple Processing (ऑनलाइन टेंपल प्रोसेसिंग)",
+      "4. Online Template Processing (ऑनलाइन टेंपलेट प्रोसेसिंग)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ is a class of software programs capable of supporting transaction-oriented applications on the internet.",
+    "options": [
+      "1. OLTP",
+      "2. OLTB",
+      "3. OLTC",
+      "4. OLTA"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "___________, इंटरनेट पर कार्य-संपादन उन्मुख अनुयोगों (transaction-oriented applications) को सपोर्ट करने में सक्षम सॉफ्टवेयर प्रोग्रामों का एक वर्ग है।",
+    "options": [
+      "1. OLTP",
+      "2. OLTB",
+      "3. OLTC",
+      "4. OLTA"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Yahoo!, Google and Bing are _______.",
+    "options": [
+      "1. search engines",
+      "2. computer brands",
+      "3. browsers",
+      "4. internet service providers"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "याहू! (Yahoo!), गूगल (Google) और बिंग (Bing) _______ हैं।",
+    "options": [
+      "1. खोज इंजन (search engines)",
+      "2. कंप्यूटर ब्रान्‍ड (computer brands)",
+      "3. ब्राउज़र (browsers)",
+      "4. इंटरनेट सेवा दाता (internet service providers)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The first part of the IP address of any host refers to the __________.",
+    "options": [
+      "1. Network address",
+      "2. Host ID",
+      "3. Home address",
+      "4. ISP address"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "किसी भी होस्‍ट (host) के IP एड्रेस का पहला भाग _________ को संदर्भित करता है।",
+    "options": [
+      "1. नेटवर्क एड्रेस",
+      "2. होस्‍ट ID",
+      "3. होम एड्रेस",
+      "4. ISP एड्रेस"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is the first page that the user sees when the website is opened?",
+    "options": [
+      "1. Master page",
+      "2. Home page",
+      "3. Index page",
+      "4. Title page"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सा वह पहला पृष्‍ठ है जिसे उपयोगकर्ता वेबसाइट खोलते ही देखता है?",
+    "options": [
+      "1. मास्‍टर पेज (Master page)",
+      "2. होम पेज (Home page)",
+      "3. इंडेक्‍स पेज (Index page)",
+      "4. टाइटल पेज (Title page)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ is one of the first VoIP call signalling and control protocols that found widespread implementation. Its deployments are increasingly limited to carrying existing long-haul network traffic.",
+    "options": [
+      "1. Inter-Asterisk eXchange (IAX)",
+      "2. H.323",
+      "3. Extensible Messaging and Presence Protocol (XMPP)",
+      "4. TCP/IP (Transmission Control Protocol/Internet Protocol)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______, थम VoIP कॉल सिग्नलिंग (signalling) और कंट्रोल प्रोटोकॉल में से एक है जिसे व्यापक रूप से लागू किया गया है। इसका परिनियोजन (deployments) मौजूदा लॉन्‍ग-हॉल नेटवर्क ट्रैफिक (long-haul network traffic) के परिवहन तक सीमित होता जा रहा है।",
+    "options": [
+      "1. इंटर-एस्टेरिस्‍क एक्‍सचेंज (Inter-Asterisk eXchange -IAX)",
+      "2. H.323",
+      "3. एक्‍सटेंसिबल मैसेजिंग एंड प्रेजेंस प्रोटोकॉल (Extensible Messaging and Presence Protocol -XMPP)",
+      "4. TCP/IP (ट्रांसमिशन कंट्रोल प्रोटोकॉल / इंटरनेट प्रोटोकॉल)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "With reference to VoIP, which control protocol is used for media gateways across a converged internetwork consisting of the traditional public switched telephone network (PSTN) and modern packet networks?",
+    "options": [
+      "1. Skype",
+      "2. Inter-Asterisk eXchange (IAX)",
+      "3. H.248",
+      "4. Jingle"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "VoIP के संदर्भ में, निम्‍नलिखित में से किस कंट्रोल प्रोटोकॉल का उपयोग मीडिया गेटवेज (gateways) के लिए एक अभिसरित इंटरनेटवर्क (converged internetwork) में किया जाता है जिसमें परंपरागत पब्लिक स्विड टेलीफोन नेटवर्क (public switched telephone network-PSTN) और आधुनिक पैकेट नेटवर्क शामिल हैं?",
+    "options": [
+      "1. स्काइप (Skype)",
+      "2. इंटर-एस्टेरिस्‍क एक्‍सचेंज (Inter-Asterisk eXchange -IAX)",
+      "3. H.248",
+      "4. जिंगल (Jingle)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "With reference to VoIP, which transport protocol is used for real-time audio and video data?",
+    "options": [
+      "1. SDP",
+      "2. IAX",
+      "3. XMPP",
+      "4. RTP"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "VoIP के संदर्भ में, निम्‍न में से किस ट्रांसपोर्ट प्रोटोकॉल (transport protocol) का प्रयोग रियल-टाइम ऑडियो और वीडियो डेटा के लिए किया जाता है?",
+    "options": [
+      "1. SDP",
+      "2. IAX",
+      "3. XMPP",
+      "4. RTP"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Charts or graphs in MS-Excel are used for:",
+    "options": [
+      "1. making information funny",
+      "2. making information difficult to understand",
+      "3. making information clearer and easier to understand",
+      "4. making information complex"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel में चार्ट या ग्राफ का उपयोग _______ के लिए किया जाता है।",
+    "options": [
+      "1. जानकारी को मज़ेदार बनाने",
+      "2. सूचना को समझने में कठिन बनाने",
+      "3. सूचना को समझने के लिए स्‍पष्‍ट और आसान बनाने",
+      "4. सूचना को जटिल बनाने"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The currently selected cell in MS-Excel is also called the ______.",
+    "options": [
+      "1. active cell",
+      "2. rounded cell",
+      "3. main cell",
+      "4. formula cell"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel में वर्तमान में चयनित सेल को ______ भी कहा जाता है।",
+    "options": [
+      "1. सक्रिय सेल (active cell)",
+      "2. राउंडेड सेल (rounded cell)",
+      "3. मुख्‍य सेल (main cell)",
+      "4. फॉर्मूला सेल (formula cell)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which type of the blog focuses on a specific topic that appeals to a particular audience, making it one of the most effective types of blogs for targeted traffic?",
+    "options": [
+      "1. Personal",
+      "2. Niche",
+      "3. News",
+      "4. Review"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "किस प्रकार का ब्लॉग एक विशिष्‍ट विषय पर केंद्रित होता है जो एक विशेष दर्शक वर्ग को आकर्षित करता है, जो इसे लक्षित ट्रैफ़िक के लिए सबसे प्रभावी प्रकार के ब्लॉगों में से एक बनाता है?",
+    "options": [
+      "1. पर्सनल (Personal)",
+      "2. नीचे (Niche)",
+      "3. न्यूज़ (News)",
+      "4. रिव्यु (Review)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "‘=SUM(A1:A3)’ means ______ in MS-Excel.",
+    "options": [
+      "1. function sums all the values from A1 to A2",
+      "2. function sums all the values from A1 to A3",
+      "3. function sums all the values from A1 to A4",
+      "4. function sums all the values from A0 to A2"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel में '=SUM(A1:A3)' का अर्थ है कि ______।",
+    "options": [
+      "1. फ़ंक्‍शन A1 से A2 तक के सभी मानों का योग करता है",
+      "2. फ़ंक्‍शन A1 से A3 तक सभी मानों का योग करता है",
+      "3. फ़ंक्‍शन A1 से A4 तक के सभी मानों का योग करता है",
+      "4. फ़ंक्‍शन A0 से A2 तक के सभी मानों का योग करता है"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ consists of many tabs such as File, Home, View, Insert, etc. in MS-Office.",
+    "options": [
+      "1. Status bar",
+      "2. Ribbon",
+      "3. Paragraph",
+      "4. Clipboard"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Office में, ______ में फाइल (File), होम (Home), व्यू (View), इन्‍सर्ट (Insert) इत्यादि जैसे कई टैब होते हैं।",
+    "options": [
+      "1. स्टेटस बार (Status bar)",
+      "2. रिबन (Ribbon)",
+      "3. पैराग्राफ (Paragraph)",
+      "4. क्लिपबोर्ड (Clipboard)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which keyboard shortcut is used to move to the previous cell in a worksheet or the previous option in a dialog in MS-Excel 2019?",
+    "options": [
+      "1. Shift + Alt",
+      "2. Shift + Tab",
+      "3. Alt + Shift",
+      "4. Ctrl + Tab"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 में, वर्कशीट में पिछले सेल पर जाने के लिए या डायलॉग में पिछले विकल्‍प पर जाने के लिए किस कीबोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Shift + Alt",
+      "2. Shift + Tab",
+      "3. Alt + Shift",
+      "4. Ctrl + Tab"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A cell in MS-Excel is identified by a _____________.",
+    "options": [
+      "1. cell reference",
+      "2. formula",
+      "3. cell size",
+      "4. label"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel में एक सेल (cell) की पहचान ______ द्वारा की जाती है।",
+    "options": [
+      "1. सेल रिफरेन्‍स (cell reference)",
+      "2. फॉर्मूला (formula)",
+      "3. सेल साइज (cell size)",
+      "4. लेबल (label)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following offers a way to access documents spread over the several servers over the internet?",
+    "options": [
+      "1. Video Conferencing",
+      "2. World Wide Web",
+      "3. Electronic Mail",
+      "4. Internet Telephony"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन, इंटरनेट पर कई सर्वरों पर फैले दस्तावेज़ों (documents) को एक्सैस करने का एक तरीका प्रदान करता है?",
+    "options": [
+      "1. विडियो कॉफ्रेंसिंग (Video Conferencing)",
+      "2. वर्ल्ड वाइड वेब (World Wide Web)",
+      "3. इलेक्ट्रॉनिक मेल (Electronic Mail)",
+      "4. इंटरनेट टेलीफोनी (Internet Telephony)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following symbols can be used to enter a number as text in MS-Excel 2019?",
+    "options": [
+      "1.       '",
+      "2.       \"",
+      "3.       =",
+      "4.       +"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में, किसी संख्या को टेक्‍स्‍ट के रूप में दर्ज करने के लिए निम्‍नलिखित में से किस प्रतीक का उपयोग किया जा सकता है?",
+    "options": [
+      "1.       '",
+      "2.       \"",
+      "3.       =",
+      "4.       +"
+    ],
+    "answer": 0
+  }
+],
   
  "12th July 2025 - Shift1": [
   {
@@ -22946,6 +23989,7 @@
         };
     
     
+
 
 
 
