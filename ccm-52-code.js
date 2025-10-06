@@ -7302,6 +7302,1048 @@
    }
 ],
 
+ "12th July 2025 - Shift2": [
+  {
+    "q": "The ______ performs mathematical calculations for the CPU.",
+    "options": [
+      "1. ALU",
+      "2. DIMM",
+      "3. bus",
+      "4. register"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍न में से क्या CPU के लिए गणितीय गणनाएं करने का काम करता है?",
+    "options": [
+      "1. ALU",
+      "2. DIMM",
+      "3. बस",
+      "4. रजिस्‍टर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ is an interpreted, object-oriented, high-level programming language.",
+    "options": [
+      "1. Python",
+      "2. C",
+      "3. Cobol",
+      "4. FORTRAN"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_________ एक इंटरप्रेटेड,ऑब्जेक्‍ट ओरिएंटेड, हाई लेवल प्रोग्रामिंग लैंग्वेज़ है।",
+    "options": [
+      "1. पायथन",
+      "2. C",
+      "3. कोबोल",
+      "4. फोरट्रान"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In OpenOffice Calc, which function returns the nth largest value in a list of numbers?",
+    "options": [
+      "1. LARGEST",
+      "2. LARGE",
+      "3. L VALUE",
+      "4. V LARGEST"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ओपन ऑफिस कैल्‍क ( OpenOffice Calc) का कौन सा फ़ंक्‍शन संखाओं की सूची में से n-th सबसे बड़ा मान देता है?",
+    "options": [
+      "1. LARGEST",
+      "2. LARGE",
+      "3. L VALUE",
+      "4. V LARGEST"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ allows all read and write operations to be performed by a laser beam.",
+    "options": [
+      "1. Optical storage devices",
+      "2. Magnetic storage devices",
+      "3. USB devices",
+      "4. Flash memory"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "________लेज़र बीम द्वारा की जाने वाली सभी रीड और राइट गतिविधियों को करने की अनुमति देती है।",
+    "options": [
+      "1. ऑप्टिकल स्टोरेज डिवाइस",
+      "2. मैग्नेटिक स्टोरेज डिवाइस",
+      "3. USB डिवाइस",
+      "4. फ्लैश मेमोरी"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "For a printer, the higher the Dots Per Inch (DPI) the ________ the image.",
+    "options": [
+      "1. Sharper",
+      "2. Smaller",
+      "3. Larger",
+      "4. Longer"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एक प्रिंटर के लिए, डॉट्स प्रति इंच (DPI) जितना अधिक होगा, इमेज उतनी _________ होगी।",
+    "options": [
+      "1. शार्पर",
+      "2. छोटी",
+      "3. बड़ी",
+      "4. लंबी"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following commands is used to open Disk Cleanup in the Windows 8 operating system?",
+    "options": [
+      "1. cleanmgr.exe",
+      "2. clean.mgr",
+      "3. clean_mgr",
+      "4. cleanmgr.cpl"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Windows 8 ऑपरेटिंग सिस्‍टम में डिस्‍क क्लीनअप खोलने के लिए किस कमांड का उपयोग किया जाता है?",
+    "options": [
+      "1. cleanmgr.exe",
+      "2. clean.mgr",
+      "3. clean_mgr",
+      "4. cleanmgr.cpl"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a type of software used to manage the printing process in computers?",
+    "options": [
+      "1. Print spooler",
+      "2. Job queue",
+      "3. Task queue",
+      "4. Job spooler"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन सा सॉफ्टवेयर कंप्यूटर पर मुद्रण प्रक्रिया को प्रबंधित करने के लिए उपयोग किया जाने वाला एक प्रकार का सॉफ्टवेयर है?",
+    "options": [
+      "1. प्रिंट स्पूलर",
+      "2. जॉब क्यू",
+      "3. टास्‍क क्यू",
+      "4. जॉब स्पूलर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "State whether the following statements are True or False? <br>I) PPI stands for Pixels Per Inch of a digital image. <br>II) DPI is generally used to measure the resolution of printed document.",
+    "options": [
+      "1. I-False, II-False",
+      "2. I-True, II-True",
+      "3. I-True, II-False",
+      "4. I-False, II-True"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "बताएँ कि निम्‍नलिखित कथन सत्‍य हैं या असत्‍य? <br>I) PPI का अर्थ है डिजिटल इमेज का पिक्सेल प्रति इंच। <br>II) DPI का उपयोग आम तौर पर मुद्रित दस्तावेज़ के रिज़ॉल्यूशन को मापने के लिए किया जाता है।",
+    "options": [
+      "1. I-असत्‍य , II-असत्‍य",
+      "2. I-सत्‍य, II-सत्‍य",
+      "3. I-सत्‍य , II-असत्‍य",
+      "4. I-असत्‍य , II-सत्‍य"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The technology established for processing cheques in banks is:",
+    "options": [
+      "1. MICR",
+      "2. Data Matrix",
+      "3. Codabar",
+      "4. PDF417"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "चेक (cheque) प्रोसेसिंग के लिए बैंकों द्वारा किस तकनीक का उपयोग किया जाता है?",
+    "options": [
+      "1. MICR",
+      "2. डेटा मैट्रिक्‍स",
+      "3. कोडबार",
+      "4. PDF417"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Using 8-bit address lines, up to _________ memory locations can be addressed in a computer system.",
+    "options": [
+      "8",
+      "32",
+      "128",
+      "256"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "8-बिट एड्रेस लाइनों का उपयोग करके, कंप्यूटर सिस्‍टम में _________ मेमोरी स्थानों तक को एड्रेस किया जा सकता है।",
+    "options": [
+      "8",
+      "32",
+      "128",
+      "256"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In a Blu-ray disc, Long Distance Code which is used to protect user data of Error Correction Block has _________ code words.",
+    "options": [
+      "330",
+      "320",
+      "216",
+      "304"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "ब्लू-रे डिस्‍क में, लॉन्‍ग डिस्टेंस कोड जिसका उपयोग त्रुटि सुधार ब्लॉक के उपयोगकर्ता डेटा की सुरक्षा के लिए किया जाता है, में _________ कोड शब्‍द होते हैं।",
+    "options": [
+      "330",
+      "320",
+      "216",
+      "304"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Identify whether the given statements related to the characteristics of a computer are true or false. <br>a) Power of memory: A computer can remember data for us. <br>b) No Intelligence Quotient (IQ): A computer does not work without instruction.",
+    "options": [
+      "1. a)True, b)True",
+      "2. a)True, b)False",
+      "3. a)False, b)False",
+      "4. a) False, b)True"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निर्धारित कीजिए कि कंप्यूटर की विशेषताओं से संबंधित दिए गए कथन सही हैं या गलत। <br>a) मेमोरी की शक्ति: कंप्यूटर हमारे लिए डेटा याद रख सकता है। <br>b) बुद्धि लब्धि रहित (IQ): कंप्यूटर बिना निर्देश के काम नहीं करता है।",
+    "options": [
+      "1. a)सही, b)सही",
+      "2. a)सही, b)गलत",
+      "3. a)गलत, b)गलत",
+      "4. a) गलत, b)सही"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following characteristics of a computer is described in the given statement? <br> 'A computer is capable of performing different kinds of works with same accuracy and efficiency.'",
+    "options": [
+      "1. Reliability",
+      "2. Versatility",
+      "3. Perfectness",
+      "4. Correctness"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "दिए गए कथन में कंप्यूटर की निम्‍नलिखित में से कौन सी विशेषता का वर्णन किया गया है? <br> कंप्यूटर विभिन्‍न प्रकार के कार्यों को समान सटीकता और दक्षता के साथ करने में सक्षम है।'",
+    "options": [
+      "1. विश्‍वसनीयता (Reliability)",
+      "2. वैविध्‍यपूर्णता (Versatility)",
+      "3. पूर्णता (Perfectness)",
+      "4. सटीकता (Correctness)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Identify whether the given statements are true or false with reference to computer memory. <br>a) RAM is a non-volatile memory having a limited storage capacity. <br>b) Secondary memory is storage other than the RAM and ROM. <br>c) The performance of cache memory is superior to that of main memory. <br>   d) DDR3 is static RAM.",
+    "options": [
+      "1. a) False, b) True, c) True, d) False",
+      "2. a) True, b) True, c) True, d) False",
+      "3. a) False, b) True, c) True, d) True",
+      "4. a) False, b) False, c) False, d) True"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "पहचानें कि दिए गए कथन कंप्यूटर मेमोरी के संदर्भ में सत्‍य हैं या असत्‍य। <br>a) RAM एक नॉन-वॉलेटाइल मेमोरी है जिसकी भंडारण मता सीमित होती है। <br>b) सेकेंडरी मेमोरी, RAM और ROM के अतिरिक्‍त एक अन्‍य स्टोरेज है। <br>c) कैश मेमोरी का प्रदर्शन मुख्‍य मेमोरी से बेहतर होता है। <br>d) DDR3 एक स्टैटिक रैम है।",
+    "options": [
+      "1. a) गलत b) सही c) सही d) गलत",
+      "2. a) सही b) सही c) सही d) गलत",
+      "3. a) गलत b) सही c) सही d) सही",
+      "4. a) गलत b) गलत c) गलत d) सही"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which generation of computers used vacuum tubes?",
+    "options": [
+      "1. Fourth",
+      "2. Second",
+      "3. Third",
+      "4. First"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "किस पीढ़ी के कंप्यूटरों में वैक्यूम ट्यूब का उपयोग किया गया?",
+    "options": [
+      "1. चौथी",
+      "2. दूसरी",
+      "3. तीसरी",
+      "4. पहली"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is NOT a valid academic search engine?",
+    "options": [
+      "1. Google Scholar",
+      "2. BASE",
+      "3. CORE",
+      "4. Science.in"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन सा वैध शैक्षणिक खोज इंजन नहीं है?",
+    "options": [
+      "1. Google Scholar",
+      "2. BASE",
+      "3. CORE",
+      "4. Science.in"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is a command to print a directory listing using the dir command in MS-DOS?",
+    "options": [
+      "1. DIR >LPT1",
+      "2. DIR<= LPT1",
+      "3. DIR= LPT1",
+      "4. DIR=> LPT1"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-DOS में dir कमांड का उपयोग करके डायरेक्‍टरी लिस्टिंग को प्रिंट करने के लिए निम्‍न में से किस कमांड का उपयोग किया जाता है?",
+    "options": [
+      "1. DIR >LPT1",
+      "2. DIR<= LPT1",
+      "3. DIR= LPT1",
+      "4. DIR=> LPT1"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which type of topology has independent connection to a central hub?",
+    "options": [
+      "1. Bus",
+      "2. Ring",
+      "3. Mesh",
+      "4. Star"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्‍न में से किस प्रकार की टोपोलॉजी का केंद्रीय हब से स्‍वतंत्र कनेक्‍शन होता है?",
+    "options": [
+      "1. बस",
+      "2. रिंग",
+      "3. मेश",
+      "4. स्टार"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is the unit of pitch with reference to frequency of sound?",
+    "options": [
+      "1. Sone",
+      "2. Phon",
+      "3. Decibel",
+      "4. Hertz"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "ध्‍वनि की आवृत्ति के संदर्भ में पिच की इकाई क्या है?",
+    "options": [
+      "1. सोन (Sone)",
+      "2. फोन (Phon)",
+      "3. डेसीबल (Decibel)",
+      "4. हर्ट्ज़ (Hertz)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In communications network, a ________ is an unguided media.",
+    "options": [
+      "1. twisted pair",
+      "2. terrestrial microwave",
+      "3. fibre optic",
+      "4. copper wire"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "संचार नेटवर्क में, निम्‍न में से कौन सा एक अनिर्देशित माध्‍यम (unguided media) है?",
+    "options": [
+      "1. ट्विस्टेड पेयर केबल",
+      "2. टेरेस्ट्रियल माइक्रोवेव",
+      "3. फ़ाइबर ऑप्टिक केबल",
+      "4. तांबे का तार"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a technique used to stream media from a web server to a client (downloading the entire file before playback) such as a video player on a laptop or mobile phone?",
+    "options": [
+      "1. Virtual time streaming",
+      "2. Progressive download",
+      "3. Regular download",
+      "4. Real time streaming"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन सी तकनीक वेब सर्वर से क्लाइंट तक मीडिया स्ट्रीम करने के लिए उपयोग की जाती है (प्लेबैक से पहले पूरी फ़ाइल डाउनलोड करना) जैसे लैपटॉप या मोबाइल फोन पर वीडियो प्लेयर?",
+    "options": [
+      "1. वर्चुअल टाइम स्ट्रीमिंग",
+      "2. प्रोग्रेसिव डाउनलोड",
+      "3. रेगुलर डाउनलोड",
+      "4. रियल टाइम स्ट्रीमिंग"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is a subnet mask?",
+    "options": [
+      "1. It translates human readable domain names to machine readable IP addresses.",
+      "2. It dinstiguishes between a network address and host address in IP address.",
+      "3. It is part of the addressing information used to identify the senders and receivers of messages.",
+      "4. It distinguishes the IP address into host address and MAC address."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "सबनेट मास्‍क क्या है?",
+    "options": [
+      "1. यह मानव द्वारा पढ़े जा सकने वाले डोमेन नामों को मशीन द्वारा पढ़े जा सकने वाले IP पतों में बदल देता है।",
+      "2. यह IP एड्रेस में नेटवर्क एड्रेस और होस्‍ट एड्रेस के बीच विभाजन करता है।",
+      "3. यह संदेश भेजने वाले और प्राप्‍त करने वालों की पहचान करने के लिए उपयोग की जाने वाली एड्रेसिंग इन्फॉर्मेशन का एक भाग है।",
+      "4. यह IP एड्रेस को, होस्‍ट एड्रेस और MAC एड्रेस में विभाजित करता है।"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the basic requirement of RAM for installing 64 bit Windows 10 Operating System?",
+    "options": [
+      "16 GB",
+      "32 GB",
+      "1 GB",
+      "2 GB"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "64 बिट Windows 10 ऑपरेटिंग सिस्‍टम को इंस्टॉल करने के लिए कम से कम कितने स्टोरेज वाले RAM की आवश्‍यकता होती है?",
+    "options": [
+      "16 GB",
+      "32 GB",
+      "1 GB",
+      "2 GB"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "_____ is an integrated circuit responsible for communications between the CPU interface, AGP and the memory.",
+    "options": [
+      "1. Westbridge",
+      "2. Eastbridge",
+      "3. Northbridge",
+      "4. Southbridge"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "___________ एक एकीकृत परिपथ है, जो CPU इंटरफेस, AGP और मेमोरी के बीच कम्युनिकेशन के लिए उत्‍तरदायी होता है।",
+    "options": [
+      "1. वेस्‍टब्रिज",
+      "2. ईस्‍टब्रिज",
+      "3. नार्थब्रिज",
+      "4. साउथब्रिज"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In MS-Office, ScreenTips help users:",
+    "options": [
+      "1. to display descriptive text when you rest the pointer on a command or control.",
+      "2. to provide information about how to organise the item on the screen",
+      "3. to provide information about the screen (size, colour, etc.)",
+      "4. to provide information about how to save your files and folders"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Office का स्क्रीनटिप्‍स (ScreenTips) फ़ीचर उपयोगकर्ताओं की सहायता कैसे करता है?",
+    "options": [
+      "1. जब आप पॉइंटर को किसी कमांड या नियंत्रण पर रखते हैं तो वर्णनात्‍मक पाठ प्रदर्शित करके।",
+      "2. स्क्रीन पर आइटम को व्‍यवस्थित करने के बारे में जानकारी प्रदान करके।",
+      "3. स्क्रीन (आकार, रंग, आदि) के बारे में जानकारी प्रदान करके।",
+      "4. अपनी फ़ाइलों और फ़ोल्‍डरों को सेव करने से संबंधित जानकारी प्रदान करके।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is FALSE with reference to the Linux operating system?",
+    "options": [
+      "1. It has its own software repository from where users can download and install many applications.",
+      "2. It provides a hierarchical file system in which files and directories are arranged.",
+      "3. Its code is not freely available.",
+      "4. It supports different language keyboards."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "लिनक्‍स ऑपरेटिंग सिस्‍टम के संदर्भ में निम्‍नलिखित में से कौन सा कथन गलत है?",
+    "options": [
+      "1. इसका अपना सॉफ्टवेयर रिपॉजिटरी होता है जहां से यूज़र कई एप्लिकेशन डाउनलोड और इंस्टॉल कर सकते हैं।",
+      "2. यह एक पदानुक्रमित फाइल सिस्‍टम प्रदान करता है जिसमें फाइलों और निर्देशिकाओं (directories) को व्‍यवस्थित किया जाता है।",
+      "3. इसका कोड स्‍वतंत्र रूप से उपलब्‍ध नहीं है।",
+      "4. यह विभिन्‍न भाषाओं के की-बोर्ड का समर्थन करता है।"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A TOAST file is a CD or DVD disc image. A popular disc authoring program for Mac OS X, it is similar to a standard ____________ disc image.",
+    "options": [
+      "1. .iso",
+      "2. .img",
+      "3. .tso",
+      "4. .tiso"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "TOAST फ़ाइल एक CD या DVD डिस्‍क इमेज होती है। यह Mac OS X के लिए एक लोकप्रिय डिस्‍क ऑथरिंग प्रोग्राम द्वारा बनाई जाती है और एक मानक ____________ डिस्‍क इमेज के समान होती है।",
+    "options": [
+      "1. .iso",
+      "2. .img",
+      "3. .tso",
+      "4. .tiso"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following computer modes does NOT save power?",
+    "options": [
+      "1. Hibernate",
+      "2. Stand by",
+      "3. Screen saver",
+      "4. Sleep"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "कंप्यूटर का निम्‍न में से कौन सा मोड बिजली की बचत नहीं करता है?",
+    "options": [
+      "1. हाइबरनेट",
+      "2. स्टैंडबाई",
+      "3. स्क्रीन सेवर",
+      "4. स्लीप"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is Microsoft Access database file in Windows 10 OS?",
+    "options": [
+      "1. doc",
+      "2. accdx",
+      "3. accdb",
+      "4. aspx"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्‍न में से कौन सी विंडोज 10 ओएस में माइक्रोसॉफ्ट एक्सेस डेटाबेस फ़ाइल है?",
+    "options": [
+      "1. doc",
+      "2. accdx",
+      "3. accdb",
+      "4. aspx"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which web browser is developed by Microsoft Corporation?",
+    "options": [
+      "1. Chrome",
+      "2. Edge",
+      "3. Opera",
+      "4. Safari"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्‍न में से किस वेब ब्राउज़र को माइक्रोसॉफ्ट कॉर्पोरेशन द्वारा विकसित किया गया है?",
+    "options": [
+      "1. क्रोम (Chrome)",
+      "2. एज (Edge)",
+      "3. ओपेरा (Opera)",
+      "4. सफारी (Safari)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following types of internet connection makes use of radio waves frequency band?",
+    "options": [
+      "1. Dail-up",
+      "2. Cable",
+      "3. ISDN",
+      "4. Wireless"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्‍नलिखित में से किस प्रकार का इंटरनेट कनेक्‍शन रेडियो तरंगों की आवृत्ति बैंड का उपयोग करता है?",
+    "options": [
+      "1. डायल-अप",
+      "2. केबल",
+      "3. ISDN",
+      "4. वायरलेस"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following operating systems is a GUI-based desktop operating system?",
+    "options": [
+      "1. Android",
+      "2. Windows XP",
+      "3. DOS",
+      "4. iOS"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन सा ऑपरेटिंग सिस्‍टम GUI आधारित डेस्‍कटॉप ऑपरेटिंग सिस्‍टम है?",
+    "options": [
+      "1. एंड्रॉयड",
+      "2. विंडोज़ XP",
+      "3. DOS",
+      "4. iOS"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In Windows, whenever an application window is opened, an icon representing the underlying application program appears on:",
+    "options": [
+      "1. Ruler Bar",
+      "2. Taskbar",
+      "3. Menu Bar",
+      "4. Title Bar"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "विंडोज़ में, जब भी कोई एप्लिकेशन विंडो खोली जाती है, तो अंतर्निहित एप्लिकेशन प्रोग्राम को निरूपित करने वाला एक आइकन _______ पर दिखाई देता है।",
+    "options": [
+      "1. रूलर बार",
+      "2. टास्‍कबार",
+      "3. मेनू बार",
+      "4. टाइटल बार"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following options is used to refer to the range of cells in column A and rows 10 through 20 in a worksheet of MS-Excel 2019?",
+    "options": [
+      "1. 10A:20A",
+      "2. A10",
+      "3. A20",
+      "4. A10:A20"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel 2019 की वर्कशीट में कॉलम A और पंक्तियों 10 से 20 में सेल्‍स की श्रेणी को संदर्भित करने के लिए निम्‍नलिखित में से किस विकल्‍प का उपयोग किया जाता है?",
+    "options": [
+      "1. 10A:20A",
+      "2. A10",
+      "3. A20",
+      "4. A10:A20"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following keyboard shortcuts in MS-Word 2019 is used to move the focus to commands on the ribbon?",
+    "options": [
+      "1. shift",
+      "2. Alt",
+      "3. Tab",
+      "4. Ctrl+"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Word 2019 में निम्‍नलिखित में से कौन सा कीबोर्ड शॉर्टकट रिबन पर कमांड पर फोकस ले जाने के लिए उपयोग किया जाता है?",
+    "options": [
+      "1. Shift",
+      "2. Alt",
+      "3. Tab",
+      "4. Ctrl+"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following keyboard shortcuts in MS-Word 2019 is used to open the Design tab to use themes, colours and effects, such as page borders?",
+    "options": [
+      "1. Alt+F",
+      "2. Alt+G",
+      "3. Alt+H",
+      "4. Alt+N"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Word 2019 में निम्‍न में से कौन सा कीबोर्ड शॉर्टकट थीम, रंग और भाव, जैसे पेज बॉर्डर का उपयोग करने के लिए डिज़ाइन टैब खोलने के लिए उपयोग किया जाता है?",
+    "options": [
+      "1. Alt+F",
+      "2. Alt+G",
+      "3. Alt+H",
+      "4. Alt+N"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In Word processors, a special text box with or without a small tail which points to different particular locations on a document is called ___________.",
+    "options": [
+      "1. Format Painter",
+      "2. Footnote",
+      "3. Endnote",
+      "4. Callout"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "वर्ड प्रोसेसर में, एक छोटी टेल (tail) के साथ या उसके बिना एक विशेष टेक्‍स्‍ट बॉक्‍स जो किसी डोक्युमेंट पर अलग-अलग विशेष स्थान (लोकेशन) की ओर इंगित करता है, ________ कहलाता है।",
+    "options": [
+      "1. फॉर्मेट पेंटर",
+      "2. फुटनोट",
+      "3. एंडनोट",
+      "4. कॉलआउट"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In MS-Word 2019, which of the following displays the print preview area on the Print tab in the Backstage view?",
+    "options": [
+      "1. Ctrl + F1",
+      "2. Ctrl + F2",
+      "3. Ctrl + F3",
+      "4. Ctrl + F4"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Word 2019 में, बैकस्टेज व्यू में प्रिंट टैब पर नि में से कौन-सा, प्रिंट पूर्वावलोकन (प्रिव्यु) क्षेत्र प्रदर्शित करता है?",
+    "options": [
+      "1. Ctrl + F1",
+      "2. Ctrl + F2",
+      "3. Ctrl + F3",
+      "4. Ctrl + F4"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "You can also search for exact words or phrases to narrow down your results even more by placing _________ around the desired search terms",
+    "options": [
+      "1. Paranthesis (())",
+      "2. curly barckets ({})",
+      "3. hyphen (- -)",
+      "4. quotation marks (\" \")"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "आप वांछित खोज शब्दों के चारों ओर _________ रखकर अपने परिणामों को और भी अधिक संकीर्ण करने के लिए सटीक शब्दों या वाक्यांशों की खोज भी कर सकते हैं",
+    "options": [
+      "1. पैरेन्थेसिस (())",
+      "2. घुंघराले कोष्‍ठक ({})",
+      "3. हाइफ़न (- -)",
+      "4. उद्धरण चिह्न (\" \")"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The server on the Internet is also known as:",
+    "options": [
+      "1. hub",
+      "2. gateway",
+      "3. host",
+      "4. repeater"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "इंटरनेट के सर्वर को_______ के रूप में भी जाना जाता है।",
+    "options": [
+      "1. हब",
+      "2. गेटवे",
+      "3. होस्‍ट",
+      "4. रिपीटर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "If you want to exclude a word from a search, you can type a/an _______ at the beginning of the word while using Google search engine.",
+    "options": [
+      "1. plus (+)",
+      "2. hyphen (-)",
+      "3. asterisk (*)",
+      "4. equal (=)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "यदि आप किसी शब्‍द को खोज से बाहर करना चाहते हैं, तो आप Google खोज इंजन का उपयोग करते समय किसी शब्‍द की शुरूआत में _______ टाइप कर सकते हैं।",
+    "options": [
+      "1. प्‍लस (+)",
+      "2. हाइफ़न (-)",
+      "3. एस्‍टरिस्‍क (*)",
+      "4. इक्वल (=)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "With reference to VoIP, ______ is an encrypted version of RTP.",
+    "options": [
+      "1. Session Description Protocol (SDP)",
+      "2. Secure Real-time Transport Protocol (SRTP)",
+      "3. Inter-Asterisk eXchange (IAX)",
+      "4. Simple Mail Transfer Protocol (SMTP)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "वीओआईपी के संदर्भ में, ______ आरटीपी का एन्क्रिप्टेड संस्‍करण है।",
+    "options": [
+      "1. सेशन डिस्क्रिप्‍शन प्रोटोकॉल (SDP)",
+      "2. सिक्योर रीयल-टाइम ट्रांसपोर्ट प्रोटोकॉल (SRTP)",
+      "3. इंटर-एस्टेरिक ई-एक्‍सचेंज (IAX)",
+      "4. सिम्‍पल मेल ट्रांसफर प्रोटोकॉल (SMTP)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following errors occurs when MS-Excel 2019 DOES NOT recognise text in a formula?",
+    "options": [
+      "1. #N/A",
+      "2. #VALUE!",
+      "3. #NAME?",
+      "4. #NULL!"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्‍नलिखित में से कौन-सी त्रुटि तब होती है जब MS-Excel 2019 किसी सूत्र में टेक्‍स्‍ट को नहीं पहचानता है?",
+    "options": [
+      "1. #N/A",
+      "2. #VALUE!",
+      "3. #NAME?",
+      "4. #NULL!"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The value of the MS-Excel 2019 formula - <br> =COLUMNS(C5:F6 is:",
+    "options": [
+      "6",
+      "5",
+      "4",
+      "2"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "नीचे दिए गए MS-Excel 2019 के सूत्र का मान क्या होगा? <br> =COLUMNS(C5:F6)",
+    "options": [
+      "6",
+      "5",
+      "4",
+      "2"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is communication service over internet?",
+    "options": [
+      "1. Internet Telephony (VoIP)",
+      "2. File Transfer Protocol (FTP)",
+      "3. World Wide Web (WWW)",
+      "4. Gopher"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "इनमें से कौन सी इंटरनेट पर संचार सेवा है?",
+    "options": [
+      "1. इंटरनेट टेलीफोनी (VoIP)",
+      "2. फाइल ट्रांसफर प्रोटोकॉल (FTP)",
+      "3. वर्ल्ड वाइड वेब (WWW)",
+      "4. गोफर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS-Excel 2019, a line graph is a type of chart that can display information as a series of data points called ______.",
+    "options": [
+      "1. charts",
+      "2. labels",
+      "3. markers",
+      "4. axes"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel 2019 में, एक लाइन ग्राफ एक प्रकार का चार्ट है जो ______ नामक डेटा बिंदुओं की एक श्रृंखला के रूप में जानकारी प्रदर्शित कर सकता है।",
+    "options": [
+      "1. चार्ट",
+      "2. लेबल",
+      "3. मार्कर",
+      "4. अक्ष"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is Web browsing application?",
+    "options": [
+      "1. Opera",
+      "2. LinkedIn",
+      "3. goibibo.com",
+      "4. makemytrip.com"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "इनमें से कौन सा वेब ब्राउज़िंग एप्लीकेशन है?",
+    "options": [
+      "1. ओपेरा",
+      "2. लिंक्‍डइन",
+      "3. goibibo.com",
+      "4. makemytrip.com"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS-Excel, ______ are codes that automate repetitive tasks.",
+    "options": [
+      "1. layouts",
+      "2. macros",
+      "3. formulas",
+      "4. charts"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel में, ______ ऐसे कोड होते हैं जो दोहराए जाने वाले कार्यों को स्‍वचालित करते हैं।",
+    "options": [
+      "1. लेआउट्स",
+      "2. मैक्रोज़",
+      "3. फ़ॉर्मूलास",
+      "4. चार्ट्स"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following charts in MS-Excel 2019 is used to compare values and show categories across geographical regions?",
+    "options": [
+      "1. Line",
+      "2. Pie",
+      "3. Bubble",
+      "4. Map"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel 2019 में निम्‍नलिखित में से कौन सा चार्ट भौगोलिक क्षेत्रों में मूल्यों की तुलना करने और श्रेणियों को दिखाने के लिए उपयोग किया जाता है?",
+    "options": [
+      "1. लाइन",
+      "2. पाई",
+      "3. बबल",
+      "4. मैप"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel 2019 allows users to use the ______ feature to find any specific data.",
+    "options": [
+      "1. Search",
+      "2. Find and Replace",
+      "3. Copy",
+      "4. Delete"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS Excel 2019 उपयोगकर्ताओं को किसी विशिष्‍ट डेटा को खोजने के लिए ______ सुविधा का उपयोग करने की अनुमति देता है।",
+    "options": [
+      "1. सर्च",
+      "2. फाइंड एंड रिप्लेस",
+      "3. कॉपी",
+      "4. डिलीट"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In MS-Excel 365, if there is a red triangle at the top-right corner of a cell, then it indicates that ______.",
+    "options": [
+      "1. there is an error in the cell",
+      "2. there is a note in the cell",
+      "3. the font colour of the text in the cell is red",
+      "4. the cell cannot accept formulas"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 365 में यदि किसी सेल के ऊपरी दाएं कोने में लाल रंग के त्रिभुज जैसी आकृति दिखाई देती है, तो यह इंगित करता है कि ______।",
+    "options": [
+      "1. सेल में त्रुटि (एरर) है",
+      "2. सेल में एक नोट है",
+      "3. सेल में टेक्‍स्‍ट का फ़ॉन्‍ट कलर लाल है",
+      "4. सेल फ़ॉर्मूलास को स्वीकार नहीं कर सकता है"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which keyboard shortcut in MS-Excel 2019 is used to start a new line in the same cell?",
+    "options": [
+      "1. Ctrl + Enter",
+      "2. Alt + Enter",
+      "3. Alt + Shift",
+      "4. Alt + Spacebar"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 में, उसी सेल में नई लाइन शुरू करने के लिए किस की-बोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Ctrl + Enter",
+      "2. Alt + Enter",
+      "3. Alt + Shift",
+      "4. Alt + Spacebar"
+    ],
+    "answer": 1
+  }
+],  
   
   "13th July 2025 - Shift1": [
 {
@@ -23989,6 +25031,7 @@
         };
     
     
+
 
 
 
