@@ -1,4 +1,1048 @@
  const questionBank = {
+"21th November 2025 - Shift2": [
+  {
+    "q": "A thread in an OS is a/an ______.",
+    "options": [
+      "1. heavy weight process",
+      "2. multi-process",
+      "3. inter thread process",
+      "4. light weight process"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "OS में, थ्रेड एक ______ होती है।",
+    "options": [
+      "1. भारी प्रक्रिया (Heavy weight process)",
+      "2. बहु-प्रक्रिया (Multi-process)",
+      "3. इंटर-थ्रेड प्रक्रिया (Inter thread process)",
+      "4. हल्की प्रक्रिया (Light weight process)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following computers is the fastest of all?",
+    "options": [
+      "1. Analog",
+      "2. Mini Computer",
+      "3. Micro Computer",
+      "4. Super Computer"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से कौन-सा कंप्यूटर सबसे तेज़ है?",
+    "options": [
+      "1. एनालॉग (Analog)",
+      "2. मिनी कंप्यूटर (Mini Computer)",
+      "3. माइक्रो कंप्यूटर (Micro Computer)",
+      "4. सुपर कंप्यूटर (Super Computer)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In MS-Excel 2019, the expression \"=A1 < = B1\" written in a cell A2 will return:",
+    "options": [
+      "1. TRUE if the value in cell A1 is less than the value in cell B1, and FALSE if the value in cell A1 is greater than the value in cell B1",
+      "2. TRUE if the value in cell A1 is equal to or greater than the value in cell B1, and FALSE if the value in cell A1 is less than the value in cell B1",
+      "3. TRUE if the value in cell A1 is equal to or less than the value in cell B1, and FALSE if the value in cell A1 is greater than the value in cell B1",
+      "4. TRUE if the value in cell A1 is not equal to the value in cell B1, and FALSE if the value in cell A1 is equal to the value in cell B1"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS EXCEL 2019 में, सेल A2 में लिखे गए व्यंजक “=A1 < = B1” का क्या परिणाम होगा?",
+    "options": [
+      "1. सेल A1 में मान सेल B1 के मान से कम होने पर TRUE और सेल A1 में मान सेल B1 के मान से अधिक होने पर FALSE होगा।",
+      "2. सेल A1 में मान सेल B1 में मान के बराबर या उससे अधिक होने पर TRUE और सेल A1 में मान सेल B1 के मान से कम होने पर FALSE होगा।",
+      "3. सेल A1 में मान सेल B1 के मान के बराबर या उससे कम होने पर TRUE और सेल A1 में मान सेल B1 के मान से अधिक होने पर FALSE होगा।",
+      "4. सेल A1 में मान सेल B1 के मान के बराबर न होने पर TRUE और सेल A1 में मान सेल B1 के मान के बराबर होने पर FALSE होगा।"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which function key is used to open Data Source view in an OpenOffice Writer?",
+    "options": [
+      "1. F7",
+      "2. F4",
+      "3. F5",
+      "4. F8"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ओपनऑफिस राइटर (OpenOffice Writer) में डेटा सोर्स व्‍यू खोलने के लिए किस फ़ंक्शन कुंजी का उपयोग किया जाता है?",
+    "options": [
+      "1. F7",
+      "2. F4",
+      "3. F5",
+      "4. F8"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following programs provides a convenient environment for program development and execution?",
+    "options": [
+      "1. System program",
+      "2. File management",
+      "3. Utility program",
+      "4. Network management"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से कौन-सा प्रोग्राम, प्रोग्राम के डेवलपमेंट और एक्‍सेक्‍यूशन (execution) के लिए एक सुविधाजनक वातावरण प्रदान करता है?",
+    "options": [
+      "1. सिस्टम प्रोग्राम (System program)",
+      "2. फाइल मैनेजमैंट (File management)",
+      "3. यूटिलिटी प्रोग्राम (Utility program)",
+      "4. नेटवर्क मैनेजमैंट (Network management)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "CD-ROM stands for:",
+    "options": [
+      "1. Central Disc Read Only Memory",
+      "2. Compact Disc Read Only Memory",
+      "3. Compact Disc Run Only Memory",
+      "4. Compact Disc Read Once Memory"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "CD-ROM का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Central Disc Read Only Memory (सेंट्रल डिस्क रीड ओनली मेमोरी)",
+      "2. Compact Disc Read Only Memory (कॉम्पैक्ट डिस्क रीड ओनली मेमोरी)",
+      "3. Compact Disc Run Only Memory (कॉम्पैक्ट डिस्क रन ओनली मेमोरी)",
+      "4. Compact Disc Read Once Memory (कॉम्पैक्ट डिस्क रीड वन्स मेमोरी)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The device that enters information and lets you communicate with the computer is called a/an _________.",
+    "options": [
+      "1. software",
+      "2. output device",
+      "3. middleware",
+      "4. input device"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "डिवाइस, जो जानकारी एंटर (प्रविष्ट) करता है और आपको कंप्यूटर के साथ संवाद (संचार) करने की सुविधा प्रदान करता है, _______ कहलाता है।",
+    "options": [
+      "1. सॉफ्टवेयर (software)",
+      "2. आउटपुट डिवाइस (output device)",
+      "3. मिडलवेयर (middleware)",
+      "4. इनपुट डिवाइस (input device)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A circuit board through which all components of a computer communicate, is called:",
+    "options": [
+      "1. Central Processing Unit",
+      "2. motherboard",
+      "3. Graphics Processing Unit",
+      "4. Random Access Memory"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक सर्किट बोर्ड जिसके माध्यम से कंप्यूटर के सभी घटक संचार करते है, उसे क्या कहते है?",
+    "options": [
+      "1. सेंट्रल प्रोसेसिंग यूनिट (Central Processing Unit)",
+      "2. मदर बोर्ड (Motherboard)",
+      "3. ग्राफिक प्रोसेसिंग यूनिट (Graphic Processing Unit)",
+      "4. रैंडम एक्सेस मेमोरी (Random Access Memory)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a modern GUI based Operating System for mobiles?",
+    "options": [
+      "1. macOS",
+      "2. Ubuntu Unity",
+      "3. Microsoft Windows",
+      "4. Android"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, मोबाइल के लिए आधुनिक GUI आधारित ऑपरेटिंग सिस्टम है?",
+    "options": [
+      "1. मैकओएस (macOS)",
+      "2. उबंटू यूनिटी (Ubuntu Unity)",
+      "3. माइक्रोसॉफ़्ट विंडोज़ (Microsoft Windows)",
+      "4. एंड्रॉइड (Android)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is NOT a correct biometric sensor category?",
+    "options": [
+      "1. Behavioral",
+      "2. Morphological",
+      "3. Mechatronical",
+      "4. Biological"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सी सही बायोमेट्रिक सेंसर श्रेणी नहीं है?",
+    "options": [
+      "1. व्यवहारिक (Behavioral)",
+      "2. रूपात्मक (Morphological)",
+      "3. मेकाट्रॉनिकल (Mechatronical)",
+      "4. जैविक (Biological)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is NOT a web browser?",
+    "options": [
+      "1. Baidu Search",
+      "2. Google Chrome",
+      "3. Mozilla Firefox",
+      "4. Safari"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, एक वेब ब्राउज़र नहीं है?",
+    "options": [
+      "1. बाईदु सर्च (Baidu Search)",
+      "2. गूगल क्रोम (Google Chrome)",
+      "3. मोज़िला फ़ायरफ़ॉक्स (Mozilla Firefox)",
+      "4. सफारी (Safari)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following are used to identify a user who returns to a website?",
+    "options": [
+      "1. Cookies",
+      "2. Plug-ins",
+      "3. Scripts",
+      "4. ASPs"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से किसका उपयोग वेबसाइट पर वापस लौटने वाले उपयोगकर्ता की पहचान करने हेतु होता है?",
+    "options": [
+      "1. कुकीज़ (Cookies)",
+      "2. प्लग-इन (Plug-ins)",
+      "3. स्क्रिप्ट (Scripts)",
+      "4. ASPs"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a sequence of responses to an initial message posting with reference to USENET newsgroups?",
+    "options": [
+      "1. Thread",
+      "2. Comment",
+      "3. Post",
+      "4. List"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से कौन-सा, यूज़नेट (USENET) न्यूज़ग्रुप के संदर्भ में प्रारंभिक संदेश पोस्टिंग के लिए अनुक्रियाओं का अनुक्रम है?",
+    "options": [
+      "1. थ्रेड (Thread)",
+      "2. कमेंट (Comment)",
+      "3. पोस्ट (Post)",
+      "4. लिस्ट (List)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Print speed of a laser printer refers to the _______________.",
+    "options": [
+      "1. number of pages printed by the printer per minute",
+      "2. number of words printed by the printer per minute",
+      "3. number of sentences printed by the printer per minute",
+      "4. number of paragraphs printed by the printer per minute"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "लेज़र प्रिंटर की प्रिंट स्पीड का अर्थ होता है, _______________।",
+    "options": [
+      "1. प्रिंटर द्वारा प्रति मिनट प्रिंट किए गए पृष्ठों की संख्या",
+      "2. प्रिंटर द्वारा प्रति मिनट प्रिंट किए गए शब्दों की संख्या",
+      "3. प्रिंटर द्वारा प्रति मिनट प्रिंट किए गए वाक्यों की संख्या",
+      "4. प्रिंटर द्वारा प्रति मिनट प्रिंट किए गए पैराग्राफों की संख्या"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following microphones is called a velocity microphone?",
+    "options": [
+      "1. Moving coil",
+      "2. Ribbon",
+      "3. Capacitor",
+      "4. Crystal"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से किस माइक्रोफोन को वेलॉसिटी माइक्रोफोन के नाम से जाना जाता है?",
+    "options": [
+      "1. मूविंग कॉइल (Moving coil)",
+      "2. रिबन (Ribbon)",
+      "3. कैपेसिटर (Capacitor)",
+      "4. क्रिस्टल (Crystal)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In printing, which of the following is the standard measure of printed image quality?",
+    "options": [
+      "1. DPI",
+      "2. DIP",
+      "3. DPQ",
+      "4. DQP"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "प्रिंटिंग में, प्रिंटेड इमेज क्‍वालिटी की मानक माप निम्नलिखित में से कौन-सी है?",
+    "options": [
+      "1. DPI",
+      "2. DIP",
+      "3. DPQ",
+      "4. DQP"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A device that converts sound energy into electrical energy is called:",
+    "options": [
+      "1. microphone",
+      "2. headphone",
+      "3. headset",
+      "4. speaker"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "ध्वनि ऊर्जा को विद्युत उर्जा में परिवर्तित करने वाला उपकरण निम्न में से कौन सा है?",
+    "options": [
+      "1. माइक्रोफोन (microphone)",
+      "2. हेडफ़ोन (headphone)",
+      "3. हेडसेट (headset)",
+      "4. स्पीकर (speaker)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "To get audio or video into a computer, we must ______ it.",
+    "options": [
+      "1. maximise",
+      "2. digitise",
+      "3. shorten",
+      "4. highlight"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कंप्यूटर में ऑडियो या वीडियो प्राप्त करने के लिए, हमें इसे _____ करना होगा।",
+    "options": [
+      "1. मैक्सिमाइज़ (maximise)",
+      "2. डिजिटाइज़ (digitise)",
+      "3. शॉर्टेन (shorten)",
+      "4. हाईलाइट (highlight)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The hexadecimal representation of the decimal number 24 is ______.",
+    "options": [
+      "30",
+      "18",
+      "11000",
+      "47"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "दशमलव संख्या 24 का हेक्साडेसिमल निरूपण _______ है।",
+    "options": [
+      "30",
+      "18",
+      "11000",
+      "47"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Lempel-Ziv-Welch (LZW) is a:",
+    "options": [
+      "1. lossless data compression algorithm",
+      "2. lossy data compression algorithm",
+      "3. lossless data extraction algorithm",
+      "4. lossy data extraction algorithm"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Lempel-Ziv-Welch (LZW) क्या है?",
+    "options": [
+      "1. लॉसलेस डेटा कंप्रेशन एल्गोरिथ्‍म (lossless data compression algorithm)",
+      "2. लॉसी डेटा कंप्रेशन एल्गोरिथ्‍म (lossy data compression algorithm)",
+      "3. लॉसलेस डेटा एक्‍सट्रैक्‍शन एल्गोरिथ्‍म (lossless data extraction algorithm)",
+      "4. लॉसी डेटा एक्‍सट्रैक्‍शन एल्गोरिथ्‍म (lossy data extraction algorithm)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "C language supports different types of operators, which can be used with variables and constants to form expressions. Which of the following operators have right to left associativity?",
+    "options": [
+      "1.    &&",
+      "2.     ?:",
+      "3.     ||",
+      "4.     ^"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "C लैंग्वेज़ विभिन्न प्रकार के ऑपरेटरों को सपोर्ट करती है, जिनका उपयोग चर और अचर मानों वाले व्यंजक बनाने के लिए किया जा सकता है। निम्नलिखित में से किस ऑपरेटर की साहचर्यता दाएं से बाएं होती है?",
+    "options": [
+      "1.    &&",
+      "2.     ?:",
+      "3.     ||",
+      "4.     ^"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ algorithm is a symmetric key cryptographic technique to provide message authentication.",
+    "options": [
+      "1. TAC",
+      "2. PAC",
+      "3. MAC",
+      "4. SAC"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "______एल्गोरिथ्‍म, संदेश प्रमाणीकरण प्रदान करने के लिए सममित कुंजी (key) वाली एक क्रिप्टोग्राफिक तकनीक है।",
+    "options": [
+      "1. TAC",
+      "2. PAC",
+      "3. MAC",
+      "4. SAC"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The OSI model consists of ____ layers.",
+    "options": [
+      "1. seven",
+      "2. five",
+      "3. eight",
+      "4. nine"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "OSI मॉडल में कितनी लेयर होती हैं?",
+    "options": [
+      "1. सात",
+      "2. पांच",
+      "3. आठ",
+      "4. नौ"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Match the columns <br> <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvVFew7ccKLiDUh2VsX6S7jZvmHAnjYbzIiSK7KvScuMeLDlobn9ItM5hd6p8WYA_QhQ9xyorMok4wymGUryApDu0pP85N5Luw3gGCTmYZEkfe75to_Fdm_EG8F0-1_vP_43B7r3jQmiTcwO4qvYDpcugILG46yiV7WlU_RDEPRPqNtU-4mG44Ajov38RV/s1061/01%20ff.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. (a) - ii, (b) - iii, (c) - iv, (d) - i",
+      "2. (a) - iii, (b) - ii, (c) - iv, (d) - i",
+      "3. (a) - ii, (b) - iii, (c) - i, (d) - iv",
+      "4. (a) - i, (b) - iii, (c) - iv, (d) - ii"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "स्‍तंभो का मिलान करें <br> <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZxlCOxzK9xVMJrCySNjQ9ivBv8fOIP6Nb39hpqIeKOYKv__QX57Zke9UHYkXqFyglpqEITADVYUZXkmtF2_tzNyhHDx48USiB4MrhVuT5umwGxMvE3GXA-Np7RQWMTgiOwQxB8_zKyB2dhhYH97ri0CRC3Iui1yVetPUGw2DDd755GosRGi91JIbKyimA/s1046/02%20hh.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. (a) - ii, (b) - iii, (c) - iv, (d) - i",
+      "2. (a) - iii, (b) - ii, (c) - iv, (d) - i",
+      "3. (a) - ii, (b) - iii, (c) - i, (d) - iv",
+      "4. (a) - i, (b) - iii, (c) - iv, (d) - ii"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following refers to the length of the longest of all shortest paths between any two nodes in a computer network?",
+    "options": [
+      "1. Network radius",
+      "2. Network diameter",
+      "3. Network range",
+      "4. Network area"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन एक कंप्यूटर नेटवर्क में किन्हीं दो नोड्स के बीच सभी सबसे छोटे पथों की लंबाई को संदर्भित करता है?",
+    "options": [
+      "1. नेटवर्क त्रिज्या (Network radius)",
+      "2. नेटवर्क व्यास (Network diameter)",
+      "3. नेटवर्क रेंज (Network range)",
+      "4. नेटवर्क क्षेत्र (Network area)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following extensions is used for a zipped file?",
+    "options": [
+      "1. .jip",
+      "2. .zip",
+      "3. .zig",
+      "4. .zippo"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "जिप की गई (Zipped) फाइल के लिए निम्नलिखित में से किस एक्सटेंशन का उपयोग किया जाता है?",
+    "options": [
+      "1. .jip",
+      "2. .zip",
+      "3. .zig",
+      "4. .zippo"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is a JBF file?",
+    "options": [
+      "1. System File",
+      "2. Compressed Archive File",
+      "3. Paint Shop Pro Browser Cache Format File",
+      "4. MS fast find file"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "JBF फ़ाइल क्या होती है?",
+    "options": [
+      "1. सिस्टम फ़ाइल (System File)",
+      "2. कम्प्रेस्ड आर्काइव फ़ाइल (Compressed Archive File)",
+      "3. पेंट शॉप प्रो ब्राउजर कैश फॉर्मेट फ़ाइल (Paint Shop Pro Browser Cache Format File)",
+      "4. MS फास्ट फाइंड फ़ाइल (MS fast find file)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "_____________ is essentially a back-up battery for your computer system in the event of a power failure or other electrical problems.",
+    "options": [
+      "1. Uninterruptible power supply",
+      "2. Unified power supply",
+      "3. Uninterruptible power sink",
+      "4. Universal power sink"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "विद्युत् विफलता या अन्य विद्युत् समस्याओं की स्थिति में, ______ आपके कंप्यूटर सिस्टम के लिए एक आवश्‍यक बैक-अप बैटरी है।",
+    "options": [
+      "1. अनइंटरप्टिबल पॉवर सप्लाई (Uninterruptible power supply)",
+      "2. यूनिफ़ाइड पॉवर सप्लाई (Unified power supply)",
+      "3. अनइंटरप्टिबल पॉवर सिंक (Uninterruptible power sink)",
+      "4. यूनिवर्सल पॉवर सिंक (Universal power sink)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "When the user navigates to a webpage controlled by the spyware author, the page contains:",
+    "options": [
+      "1. adware to attract users",
+      "2. key loggers",
+      "3. security holes to grab information",
+      "4. code that attacks the browser and forces the download and installation of spyware"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "जब यूज़र स्पाइवेयर ऑथर द्वारा नियंत्रित वेब पेज पर जाता है, तो उस पेज में ______ ।",
+    "options": [
+      "1. यूज़र को लुभाने के लिए ऐडवेयर होता है",
+      "2. की लॉगर्स होते हैं",
+      "3. सूचना प्राप्त करने के लिए सिक्‍योरिटी होल्‍स होते हैं",
+      "4. ब्राउज़र पर अटैक करने वाला कोड होता है जो स्पाइवेयर को डाउनलोड और इन्स्टॉल करने का दबाव बनाता है"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Software quality is measured by:",
+    "options": [
+      "1. functional and non-functional attributes",
+      "2. hacking",
+      "3. cracking",
+      "4. phishing"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "सॉफ्टवेयर की गुणवत्ता किसके द्वारा मापी जाती है?",
+    "options": [
+      "1. फंक्‍शनल और गैर-फंक्‍शनल विशेषताओं (functional and non-functional attributes) ओं के द्वारा",
+      "2. हैकिंग (hacking) के द्वारा",
+      "3. क्रैकिंग (cracking) के द्वारा",
+      "4. फिशिंग (phishing) के द्वारा"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following input devices captures images from the source which are then converted into a digital form that can be stored on the disk?",
+    "options": [
+      "1. Mouse",
+      "2. Joystick",
+      "3. Light pen",
+      "4. Scanner"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सी इनपुट डिवाइस स्रोत से इमेज को कैप्चर करती है जिसे बाद में एक डिजिटल रूप में परिवर्तित किया जाता है जिसको डिस्क में संग्रहीत किया जा सकता है?",
+    "options": [
+      "1. माऊस (Mouse)",
+      "2. जॉय स्टिक (Joystick)",
+      "3. लाइट पेन (Light pen)",
+      "4. स्कैनर (Scanner)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is FALSE with reference to computer software?",
+    "options": [
+      "1. It is a collection of programs to bring computer hardware system into operation.",
+      "2. It consists of electronic components like ICs, diodes, registers, crystals, boards, insulators, etc.",
+      "3. It will vary as per the computer and its built-in functions and programming languages.",
+      "4. It is designed and developed by experienced programmers in high-level languages."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कंप्यूटर सॉफ्टवेयर के संदर्भ में निम्नलिखित में से कौन-सा असत्य है?",
+    "options": [
+      "1. यह कंप्यूटर हार्डवेयर सिस्टम को ऑपरेशन में लाने के लिए प्रोग्रामो का एक संग्रह है।",
+      "2. इसमें आईसी, डायोड, रजिस्टर, क्रिस्टल, बोर्ड, इंसुलेटर आदि जैसे इलेक्ट्रॉ निक कंपोनेंट्स होते है।",
+      "3. यह कंप्यूटर और इसके अंतर्निहित फंक्‍शन्स और प्रोग्रामिंग भाषा के अनुसार अलग-अलग होता है।",
+      "4. इसे उच्च स्तरीय भाषा में अनुभवी प्रोग्रामरो द्वारा डिजाइन और विकसित किया जाता है।"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following statements is NOT correct for a digital signature?",
+    "options": [
+      "1. It is a mechanism for authentication.",
+      "2. It is the scanned image of one’s signature.",
+      "3. It is created by encrypting information.",
+      "4. It cannot be duplicated."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "डिजिटल हस्ताक्षर के लिए निम्नलिखित में से कौन-सा कथन सही नहीं है?",
+    "options": [
+      "1. यह प्रमाणीकरण की एक प्रक्रिया है।",
+      "2. यह किसी के हस्ताक्षर की स्कैन की हुई इमेज होती है।",
+      "3. इसे जानकारी एन्क्रिप्ट करके बनाया जाता है।",
+      "4. इसकी प्रतिलिपि नहीं बनाई जा सकती है।"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Absolute URL uses ____________.",
+    "options": [
+      "1. complete internet address",
+      "2. partial internet address",
+      "3. first half of the internet address",
+      "4. relative internet address"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एब्‍सोल्‍यूट यूआरएल (URL) किसका उपयोग करता है?",
+    "options": [
+      "1. पूर्ण इंटरनेट एड्रेस",
+      "2. आंशिक इंटरनेट एड्रेस",
+      "3. इंटरनेट एड्रेस के प्रथम अर्ध अंश",
+      "4. संबंधित इंटरनेट एड्रेस"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a web browser?",
+    "options": [
+      "1. Google",
+      "2. Microsoft Edge",
+      "3. Yahoo",
+      "4. Bing"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन एक वेब ब्राउज़र है?",
+    "options": [
+      "1. गूगल (Google)",
+      "2. माइक्रोसॉफ्ट एज (Microsoft Edge)",
+      "3. याहू (Yahoo)",
+      "4. बिंग (Bing)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "________ is simply the use of electronic means to transfer funds directly from one account to another, rather than by cheque or cash.",
+    "options": [
+      "1. E-care",
+      "2. E-banking",
+      "3. E-blog",
+      "4. Traditional banking"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "________, चेक या नकदी के बजाय सीधे एक खाते से दूसरे खाते में धनराशि स्थानांतरित करने के लिए, इलेक्ट्रॉ निक माध्यमों का उपयोग करना है।",
+    "options": [
+      "1. ई-केयर (E-care)",
+      "2. ई-बैंकिंग (E-banking)",
+      "3. ई-ब्लॉग (E-blog)",
+      "4. पारंपरिक-बैंकिंग (Traditional banking)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The vision of _______ is 'Transforming e-Governance for Transforming Governance'.",
+    "options": [
+      "1. e-Kranti",
+      "2. e-care",
+      "3. e-payment",
+      "4. e-blog"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_______ का उद्देश्य “गवर्नेंस को बदलने के लिए ई-गवर्नेंस को बदलना (Transforming e-Governance for Transforming Governance)” है।",
+    "options": [
+      "1. ई-क्रांति (e-Kranti)",
+      "2. ई-केयर (e-care)",
+      "3. ई-पेमेंट (e-payment)",
+      "4. ई-ब्लॉग (e-blog)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The speed at which the CPU can carry out instructions is called _________.",
+    "options": [
+      "1. clock speed",
+      "2. latency",
+      "3. throughput",
+      "4. instruction speed"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "सीपीयू (CPU) जिस गति (स्पीड) से अनुदेशों को निष्पादित कर सकता है उसे _________ कहा जाता है।",
+    "options": [
+      "1. क्लॉक स्पीड (clock speed)",
+      "2. लैटेंसी (latency)",
+      "3. थ्रूपुट (throughput)",
+      "4. इंस्ट्रक्शन स्पीड (instruction speed)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the term used when the government employs technology to deal with citizens, businesses and other government agencies?",
+    "options": [
+      "1. B2G",
+      "2. Web",
+      "3. C2E",
+      "4. E-Governance"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "जब सरकार नागरिकों, कों व्यवसायों और अन्य सरकारी एजेंसियों से डील (deal) करने के लिए प्रौद्योगिकी का उपयोग करती है, तो उसके लिए किस पद का उपयोग किया जाता है?",
+    "options": [
+      "1. B2G",
+      "2. वेब",
+      "3. C2E",
+      "4. ई-गवर्नेंस (E-Governance)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Ruby on Rails, also known as Rails, is a server-side web application development framework that is written in the Ruby programming language, and is developed by ______.",
+    "options": [
+      "1. Dennis Ritchie",
+      "2. Steve Jobs",
+      "3. Steve Woz",
+      "4. David Heinemeier Hansson"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "रूबी ऑन रेल्स (Ruby on Rails) जो कि रेल्स के रूप में भी जाना जाता है, एक सर्वर-साइड वेब एप्लिकेशन डेवलपमेंट फ्रेमवर्क है जो रूबी प्रोग्रामिंग भाषा में लिखा जाता है, और इसे ________ द्वारा विकसित किया गया है।",
+    "options": [
+      "1. डेनिस रिची (Dennis Ritchie)",
+      "2. स्टीव जॉब्स (Steve Jobs)",
+      "3. स्टीव वोज़ (Steve Woz)",
+      "4. डेविड हेनेमियर हैन्सन (David Heinemeier Hansson)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following layers is termed as an end-to-end layer as it provides a point-to-point connection between the source and destination to deliver the data reliably?",
+    "options": [
+      "1. Transport layer",
+      "2. Data link layer",
+      "3. Session layer",
+      "4. Network layer"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सी लेयर को एंड-टू-एंड लेयर कहा जाता है क्योंकि यह डेटा को विश्वसनीय रूप से वितरित करने के लिए स्रोत और गंतव्य के बीच एक पॉइंट-टू-पॉइंट कनेक्शन प्रदान करती है?",
+    "options": [
+      "1. ट्रांसपोर्ट लेयर (Transport layer)",
+      "2. डेटा लिंक लेयर (Data link layer)",
+      "3. सेशन लेयर (Session layer)",
+      "4. नेटवर्क लेयर (Network layer)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is an Internet?",
+    "options": [
+      "1. A local or restricted communications network",
+      "2. A single network",
+      "3. A vast collection of different networks",
+      "4. An interconnection of routers"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "इंटरनेट क्या है?",
+    "options": [
+      "1. एक स्थानीय या प्रतिबंधित संचार नेटवर्क",
+      "2. एकल नेटवर्क",
+      "3. विभिन्न नेटवर्कों का एक विशाल संग्रह",
+      "4. राउटर का इंटरकनेक्शन"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is a pointing input device of a computer system?",
+    "options": [
+      "1. Microphone",
+      "2. Digitizer",
+      "3. Scanner",
+      "4. Light pen"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, कंप्यूटर सिस्टम का पॉइंटिंग इनपुट डिवाइस होता है?",
+    "options": [
+      "1. माइक्रोफोन (Microphone)",
+      "2. डिजिटाईज़र (Digitizer)",
+      "3. स्कैनर (Scanner)",
+      "4. लाइट पेन (Light pen)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is the default name of a newly created document in Google Docs?",
+    "options": [
+      "1. Document",
+      "2. New document",
+      "3. Document 1",
+      "4. Untitled document"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Google Docs में नए बनाए गए डॉक्यूमेंट का डिफ़ॉल्ट नाम क्या होता है?",
+    "options": [
+      "1. डॉक्यूमेंट (Document)",
+      "2. न्यू डॉक्यूमेंट (New document)",
+      "3. डॉक्यूमेंट 1 (Document 1)",
+      "4. अनटाइटल्ड डॉक्यूमेंट (Untitled document)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is the range of numbers used to represent the decimal number system?",
+    "options": [
+      "1. 0 to 7",
+      "2. 0 to 8",
+      "3. 0 to 9",
+      "4. 0 and 1"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्न में से संख्‍याओं की किस रेंज का उपयोग दशमलव संख्या पद्धति को निरुपित करने के लिए होता है?",
+    "options": [
+      "1. 0 से 7",
+      "2. 0 से 8",
+      "3. 0 से 9",
+      "4. 0 और 1"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "\"Which of the following is the formula to get the sum of sales where the food items end with 'es'?",
+    "options": [
+      "",
+      "=SUM(B2:B7,\"*es\",C2:C7)",
+      "=SUMIF(B2:B7,\"*es\",C2:C7)",
+      "=SUMIF(A2:A7,\"Vegetables\",C2:C7)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Question Number : 46 Question Id : 25498943122",
+    "options": [
+      "निम्नलिखित में से कौन-सा फॉर्मूला उन बिक्री का योग प्राप्त करने के लिए है जहाँ खाद्य वस्तुओं के नाम 'es' पर समाप्त होते हैं? <br> <br> <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_k4dYgy6o3eGj5Fv-f9qbBAu25Vmfk21EXoSToKsET_qu712HBrAP6EdGfbHgWXeo9IQm3s1fsbuQYg1QBqZlFwdgNME3F5z6R6LB1kY99CDkCwowf1zYueX_6DUWDBApvtLKKeAQF-CC_WPcA3hm-vP0znZ5qgD0vBQGGupIpZJhLmA1Oy0zYkRfHLtN/s409/03%20df.png\" style=\"max-width:100%;height:auto;\">",
+      "=SUM(B2:B7,\"*es\",C2:C7)",
+      "=SUMIF(B2:B7,\"*es\",C2:C7)",
+      "=SUMIF(A2:A7,\"Vegetables\",C2:C7)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Question Number : 47 Question Id : 25498943139",
+    "options": [
+      "In MS-Excel 2019, the ________ function key pulls up the Go To dialog box.",
+      "1. F1",
+      "2. F2",
+      "3. F3"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Question Number : 47 Question Id : 25498943139",
+    "options": [
+      "MS-Excel 2019 में, __________ फ़ंक्शन की (कुंजी), Go To (गो टू) डायलॉग बॉक्स पर ले जाती है।",
+      "1. F1",
+      "2. F2",
+      "3. F3"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Question Number : 48 Question Id : 25498943164",
+    "options": [
+      "What is the output of the following Excel command? <br> <br> =CEILING(39,23)",
+      "46",
+      "1",
+      "7"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Question Number : 48 Question Id : 25498943164",
+    "options": [
+      "निम्नलिखित एक्सेल कमांड का आउटपुट क्या है? <br> <br> =CEILING(39,23)",
+      "46",
+      "1",
+      "7"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Question Number : 49 Question Id : 25498943167",
+    "options": [
+      "The ___________ feature of MS-Excel allows to record and repeat a set of commands or tasks performed by a user with a single click .",
+      "1. Macro",
+      "2. Micro",
+      "3. Text wrap"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Question Number : 49 Question Id : 25498943167",
+    "options": [
+      "MS-Excel की ___________ फीचर, सिंगल क्लिक के साथ उपयोगकर्ता द्वारा निष्पादित कमांड या कार्यों के सेट को रिकॉर्ड करने और दोहराने की सुविधा देती है।",
+      "1. मैक्रो (Macro)",
+      "2. माइक्रो (Micro)",
+      "3. टेक्स्ट रैप (Text wrap)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Question Number : 50 Question Id : 25498943171",
+    "options": [
+      "The ______ function works on returning the remainder when a particular number is divided by a divisor in MS-Excel 2019.",
+      "1. SUM()",
+      "2. PRODUCT()",
+      "3. IDEA()"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Question Number : 50 Question Id : 25498943171 Question Type : MCQ Option Shuffling : Yes Display Question Number : Yes",
+    "options": [
+      "MS-Excel 2019 में ______ फ़ंक्शन किसी विशेष संख्या को भाजक द्वारा विभाजित करने पर शेषफल लौटाने का कार्य करता है।",
+      "1. SUM()",
+      "2. PRODUCT()",
+      "3. IDEA()"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Question Number : 51 Question Id : 25498943184 Question Type : MCQ Option Shuffling : Yes Display Question Number : Yes",
+    "options": [
+      "_________ in the lower-right corner of a table allows you to drag the table to the size that you want in MS-Excel 2019.",
+      "1. Header row",
+      "2. Column row",
+      "3. Sizing handle"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Question Number : 51 Question Id : 25498943184 Question Type : MCQ Option Shuffling : Yes Display Question Number : Yes",
+    "options": [
+      "MS-Excel 2019 में टेबल के निचले-दाएं कोने में __________ से आप टेबल को उस आकार तक ड्रैग कर सकते हैं जितना आप चाहते हैं।",
+      "1. हेडर रो (Header row)",
+      "2. कॉलम रो (Column row)",
+      "3. साइजिंग हैंडल (sizing handle)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Question Number : 52 Question Id : 25498943187 Question Type : MCQ Option Shuffling : Yes Display Question Number : Yes",
+    "options": [
+      "___________ is a function that makes MS-Excel 2019 search for a certain value in a column (the so-called 'table array'), in order to return a value from a different column in the same row.",
+      "1. Macro",
+      "2. VLOOKUP",
+      "3. References"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Question Number : 52 Question Id : 25498943187 Question Type : MCQ Option Shuffling : Yes Display Question Number : Yes",
+    "options": [
+      "___________ एक फ़ंक्शन है, जो MS-Excel 2019 में एक कॉलम (तथाकथित 'टेबल एरे (table array)') में एक निश्चित मान के लिए खोज करता है, ताकि उसी पंक्ति में भिन्न कॉलम से एक मान प्राप्त किया जा सके।",
+      "1. मैक्रो (Macro)",
+      "2. वीलुकअप (VLOOKUP)",
+      "3. रेफरेन्सेस (References)"
+    ],
+    "answer": 2
+  }
+],
+
+  
  "26th September 2025 - Shift2": [
   {
     "q": "Minicomputers are often called ______ computers.",
@@ -25031,6 +26075,7 @@
         };
     
     
+
 
 
 
