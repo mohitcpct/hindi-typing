@@ -1,4 +1,5 @@
  const questionBank = {
+
 "21th November 2025 - Shift2": [
   {
     "q": "A thread in an OS is a/an ______.",
@@ -901,147 +902,146 @@
     "answer": 2
   },
   {
-    "q": "\"Which of the following is the formula to get the sum of sales where the food items end with 'es'?",
+    "q": "Which of the following is the formula to get the sum of sales where the food items end with 'es'? <br><br> <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_k4dYgy6o3eGj5Fv-f9qbBAu25Vmfk21EXoSToKsET_qu712HBrAP6EdGfbHgWXeo9IQm3s1fsbuQYg1QBqZlFwdgNME3F5z6R6LB1kY99CDkCwowf1zYueX_6DUWDBApvtLKKeAQF-CC_WPcA3hm-vP0znZ5qgD0vBQGGupIpZJhLmA1Oy0zYkRfHLtN/s409/03%20df.png\" style=\"max-width:100%;height:auto;\">",
     "options": [
-      "",
       "=SUM(B2:B7,\"*es\",C2:C7)",
       "=SUMIF(B2:B7,\"*es\",C2:C7)",
-      "=SUMIF(A2:A7,\"Vegetables\",C2:C7)"
-    ],
-    "answer": 2
-  },
-  {
-    "q": "Question Number : 46 Question Id : 25498943122",
-    "options": [
-      "निम्नलिखित में से कौन-सा फॉर्मूला उन बिक्री का योग प्राप्त करने के लिए है जहाँ खाद्य वस्तुओं के नाम 'es' पर समाप्त होते हैं? <br> <br> <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_k4dYgy6o3eGj5Fv-f9qbBAu25Vmfk21EXoSToKsET_qu712HBrAP6EdGfbHgWXeo9IQm3s1fsbuQYg1QBqZlFwdgNME3F5z6R6LB1kY99CDkCwowf1zYueX_6DUWDBApvtLKKeAQF-CC_WPcA3hm-vP0znZ5qgD0vBQGGupIpZJhLmA1Oy0zYkRfHLtN/s409/03%20df.png\" style=\"max-width:100%;height:auto;\">",
-      "=SUM(B2:B7,\"*es\",C2:C7)",
-      "=SUMIF(B2:B7,\"*es\",C2:C7)",
-      "=SUMIF(A2:A7,\"Vegetables\",C2:C7)"
-    ],
-    "answer": 2
-  },
-  {
-    "q": "Question Number : 47 Question Id : 25498943139",
-    "options": [
-      "In MS-Excel 2019, the ________ function key pulls up the Go To dialog box.",
-      "1. F1",
-      "2. F2",
-      "3. F3"
-    ],
-    "answer": 0
-  },
-  {
-    "q": "Question Number : 47 Question Id : 25498943139",
-    "options": [
-      "MS-Excel 2019 में, __________ फ़ंक्शन की (कुंजी), Go To (गो टू) डायलॉग बॉक्स पर ले जाती है।",
-      "1. F1",
-      "2. F2",
-      "3. F3"
-    ],
-    "answer": 0
-  },
-  {
-    "q": "Question Number : 48 Question Id : 25498943164",
-    "options": [
-      "What is the output of the following Excel command? <br> <br> =CEILING(39,23)",
-      "46",
-      "1",
-      "7"
+      "=SUMIF(A2:A7,\"Vegetables\",C2:C7)",
+      "=SUMIF(A2:A7,\"\",C2:C7)"
     ],
     "answer": 1
   },
   {
-    "q": "Question Number : 48 Question Id : 25498943164",
+    "q": "निम्नलिखित में से कौन-सा फॉर्मूला उन बिक्री का योग प्राप्त करने के लिए है जहाँ खाद्य वस्तुओं के नाम 'es' पर समाप्त होते हैं? <br> <br> <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_k4dYgy6o3eGj5Fv-f9qbBAu25Vmfk21EXoSToKsET_qu712HBrAP6EdGfbHgWXeo9IQm3s1fsbuQYg1QBqZlFwdgNME3F5z6R6LB1kY99CDkCwowf1zYueX_6DUWDBApvtLKKeAQF-CC_WPcA3hm-vP0znZ5qgD0vBQGGupIpZJhLmA1Oy0zYkRfHLtN/s409/03%20df.png\" style=\"max-width:100%;height:auto;\">",
     "options": [
-      "निम्नलिखित एक्सेल कमांड का आउटपुट क्या है? <br> <br> =CEILING(39,23)",
-      "46",
-      "1",
-      "7"
+      "=SUM(B2:B7,\"*es\",C2:C7)",
+      "=SUMIF(B2:B7,\"*es\",C2:C7)",
+      "=SUMIF(A2:A7,\"Vegetables\",C2:C7)",
+      "=SUMIF(A2:A7,\"\",C2:C7)"
     ],
     "answer": 1
   },
   {
-    "q": "Question Number : 49 Question Id : 25498943167",
+    "q": "In MS-Excel 2019, the ________ function key pulls up the Go To dialog box.",
     "options": [
-      "The ___________ feature of MS-Excel allows to record and repeat a set of commands or tasks performed by a user with a single click .",
+      "1. F1",
+      "2. F2",
+      "3. F3",
+      "4. F5"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel 2019 में, __________ फ़ंक्शन की (कुंजी), Go To (गो टू) डायलॉग बॉक्स पर ले जाती है।",
+    "options": [
+      "1. F1",
+      "2. F2",
+      "3. F3",
+      "4. F5"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is the output of the following Excel command? <br> <br> =CEILING(39,23)",
+    "options": [
+      "46",
+      "1",
+      "7",
+      "-7"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित एक्सेल कमांड का आउटपुट क्या है? <br> <br> =CEILING(39,23)",
+    "options": [
+      "46",
+      "1",
+      "7",
+      "-7"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The ___________ feature of MS-Excel allows to record and repeat a set of commands or tasks performed by a user with a single click .",
+    "options": [
       "1. Macro",
       "2. Micro",
-      "3. Text wrap"
+      "3. Text wrap",
+      "4. Custom list"
     ],
-    "answer": 1
+    "answer": 0
   },
   {
-    "q": "Question Number : 49 Question Id : 25498943167",
+    "q": "MS-Excel की ___________ फीचर, सिंगल क्लिक के साथ उपयोगकर्ता द्वारा निष्पादित कमांड या कार्यों के सेट को रिकॉर्ड करने और दोहराने की सुविधा देती है।",
     "options": [
-      "MS-Excel की ___________ फीचर, सिंगल क्लिक के साथ उपयोगकर्ता द्वारा निष्पादित कमांड या कार्यों के सेट को रिकॉर्ड करने और दोहराने की सुविधा देती है।",
       "1. मैक्रो (Macro)",
       "2. माइक्रो (Micro)",
-      "3. टेक्स्ट रैप (Text wrap)"
+      "3. टेक्स्ट रैप (Text wrap)",
+      "4. कस्टम लिस्ट (Custom list)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The ______ function works on returning the remainder when a particular number is divided by a divisor in MS-Excel 2019.",
+    "options": [
+      "1. SUM()",
+      "2. PRODUCT()",
+      "3. IDEA()",
+      "4. MOD()"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel 2019 में ______ फ़ंक्शन किसी विशेष संख्या को भाजक द्वारा विभाजित करने पर शेषफल लौटाने का कार्य करता है।",
+    "options": [
+      "1. SUM()",
+      "2. PRODUCT()",
+      "3. IDEA()",
+      "4. MOD()"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "_________ in the lower-right corner of a table allows you to drag the table to the size that you want in MS-Excel 2019.",
+    "options": [
+      "1. Header row",
+      "2. Column row",
+      "3. Sizing handle",
+      "4. Total row"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel 2019 में टेबल के निचले-दाएं कोने में __________ से आप टेबल को उस आकार तक ड्रैग कर सकते हैं जितना आप चाहते हैं।",
+    "options": [
+      "1. हेडर रो (Header row)",
+      "2. कॉलम रो (Column row)",
+      "3. साइजिंग हैंडल (sizing handle)",
+      "4. टोटल रो (Total row)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "___________ is a function that makes MS-Excel 2019 search for a certain value in a column (the so-called 'table array'), in order to return a value from a different column in the same row.",
+    "options": [
+      "1. Macro",
+      "2. VLOOKUP",
+      "3. References",
+      "4. Micro"
     ],
     "answer": 1
   },
   {
-    "q": "Question Number : 50 Question Id : 25498943171",
+    "q": "___________ एक फ़ंक्शन है, जो MS-Excel 2019 में एक कॉलम (तथाकथित 'टेबल एरे (table array)') में एक निश्चित मान के लिए खोज करता है, ताकि उसी पंक्ति में भिन्न कॉलम से एक मान प्राप्त किया जा सके।",
     "options": [
-      "The ______ function works on returning the remainder when a particular number is divided by a divisor in MS-Excel 2019.",
-      "1. SUM()",
-      "2. PRODUCT()",
-      "3. IDEA()"
-    ],
-    "answer": 0
-  },
-  {
-    "q": "Question Number : 50 Question Id : 25498943171 Question Type : MCQ Option Shuffling : Yes Display Question Number : Yes",
-    "options": [
-      "MS-Excel 2019 में ______ फ़ंक्शन किसी विशेष संख्या को भाजक द्वारा विभाजित करने पर शेषफल लौटाने का कार्य करता है।",
-      "1. SUM()",
-      "2. PRODUCT()",
-      "3. IDEA()"
-    ],
-    "answer": 0
-  },
-  {
-    "q": "Question Number : 51 Question Id : 25498943184 Question Type : MCQ Option Shuffling : Yes Display Question Number : Yes",
-    "options": [
-      "_________ in the lower-right corner of a table allows you to drag the table to the size that you want in MS-Excel 2019.",
-      "1. Header row",
-      "2. Column row",
-      "3. Sizing handle"
-    ],
-    "answer": 3
-  },
-  {
-    "q": "Question Number : 51 Question Id : 25498943184 Question Type : MCQ Option Shuffling : Yes Display Question Number : Yes",
-    "options": [
-      "MS-Excel 2019 में टेबल के निचले-दाएं कोने में __________ से आप टेबल को उस आकार तक ड्रैग कर सकते हैं जितना आप चाहते हैं।",
-      "1. हेडर रो (Header row)",
-      "2. कॉलम रो (Column row)",
-      "3. साइजिंग हैंडल (sizing handle)"
-    ],
-    "answer": 3
-  },
-  {
-    "q": "Question Number : 52 Question Id : 25498943187 Question Type : MCQ Option Shuffling : Yes Display Question Number : Yes",
-    "options": [
-      "___________ is a function that makes MS-Excel 2019 search for a certain value in a column (the so-called 'table array'), in order to return a value from a different column in the same row.",
-      "1. Macro",
-      "2. VLOOKUP",
-      "3. References"
-    ],
-    "answer": 2
-  },
-  {
-    "q": "Question Number : 52 Question Id : 25498943187 Question Type : MCQ Option Shuffling : Yes Display Question Number : Yes",
-    "options": [
-      "___________ एक फ़ंक्शन है, जो MS-Excel 2019 में एक कॉलम (तथाकथित 'टेबल एरे (table array)') में एक निश्चित मान के लिए खोज करता है, ताकि उसी पंक्ति में भिन्न कॉलम से एक मान प्राप्त किया जा सके।",
       "1. मैक्रो (Macro)",
       "2. वीलुकअप (VLOOKUP)",
-      "3. रेफरेन्सेस (References)"
+      "3. रेफरेन्सेस (References)",
+      "4. माइक्रो (Micro)"
     ],
-    "answer": 2
+    "answer": 1
   }
 ],
-
   
  "26th September 2025 - Shift2": [
   {
@@ -26075,6 +26075,7 @@
         };
     
     
+
 
 
 
