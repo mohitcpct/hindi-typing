@@ -1,5 +1,1048 @@
  const questionBank = {
+"22nd November 2025 - Shift1": [
+  {
+    "q": "Control Unit is a part of:",
+    "options": [
+      "1. CPU",
+      "2. RAM",
+      "3. ROM",
+      "4. ALU"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "नियंत्रण इकाई किसका भाग है?",
+    "options": [
+      "1. CPU का",
+      "2. RAM का",
+      "3. ROM का",
+      "4. ALU का"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT an arithmetic operator in MS-Excel 2019?",
+    "options": [
+      "+ (Plus)",
+      "* (Asterisk)",
+      "% (Percent)",
+      "= (Equals)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा MS-Excel 2019 में अंकगणितीय ऑपरेटर नहीं है?",
+    "options": [
+      "+ (Plus)",
+      "* (Asterisk)",
+      "% (Percent)",
+      "= (Equals)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In OpenOffice Calc, which function rounds a number up, away from zero, to a certain precision?",
+    "options": [
+      "1. ROUNDS",
+      "2. ROUNDUP",
+      "3. ROUNDS NUM",
+      "4. ROUNDUP NUM"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ओपन ऑफिस कैल्क (OpenOffice Calc) का कौन-सा फ़ंक्शन शून्य से दूर, एक निश्चित परिशुद्धता तक किसी संख्या का पूर्णांकन करता है?",
+    "options": [
+      "1. ROUNDS",
+      "2. ROUNDUP",
+      "3. ROUNDS NUM",
+      "4. ROUNDUP NUM"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The two main types of flash SSDs are ______ and NOR flash.",
+    "options": [
+      "1. NAND",
+      "2. AND",
+      "3. OR",
+      "4. XOR"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "फ्लैश SSDs के दो मुख्य प्रकार: ______ और NOR फ्लैश हैं।",
+    "options": [
+      "1. NAND",
+      "2. AND",
+      "3. OR",
+      "4. XOR"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is not a type of input device?",
+    "options": [
+      "1. Mouse",
+      "2. Scanner",
+      "3. Printer",
+      "4. Keyboard"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्न में से कौन-सा, इनपुट डिवाइस का एक प्रकार नहीं है?",
+    "options": [
+      "1. माउस (Mouse)",
+      "2. स्‍कैनर (Scanner)",
+      "3. प्रिंटर (Printer)",
+      "4. की-बोर्ड (Keyboard)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following commands is used to open Task Manager in Windows 11 using the Run command?",
+    "options": [
+      "1. taskmgr",
+      "2. taskschd.msc",
+      "3. taskmgr.msc",
+      "4. taskschd"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Windows 11 में, रन (Run) कमांड का उपयोग करके टास्क मैनेजर खोलने के लिए निम्न में से कौन-सी कमांड का उपयोग किया जाता है?",
+    "options": [
+      "1. taskmgr",
+      "2. taskschd.msc",
+      "3. taskmgr.msc",
+      "4. taskschd"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following printers is the fastest?",
+    "options": [
+      "1. Dot-matrix printer",
+      "2. Laser printer",
+      "3. Inkjet printer",
+      "4. Daisy-wheel printer"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्न में से कौन-सा प्रिंटर सबसे तेज है?",
+    "options": [
+      "1. डॉट-मैट्रिक्स प्रिंटर (Dot-matrix printer)",
+      "2. लेज़र प्रिंटर (Laser printer)",
+      "3. इंकजेट प्रिंटर (Inkjet printer)",
+      "4. डेज़ी-व्हील प्रिंटर (Daisy-wheel printer)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In a flowchart, which of the following symbols is used to show input or output?",
+    "options": [
+      "1. rectangle",
+      "2. parallelogram",
+      "3. circle",
+      "4. diamond"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "फ्लो-चार्ट में, इनपुट या आउटपुट प्रदर्शित करने के लिए निम्न में से किस प्रतीक (symbol) का उपयोग किया जाता है?",
+    "options": [
+      "1. आयत (rectangle)",
+      "2. समान्तर चतुर्भुज (parallelogram)",
+      "3. वृत्त (circle)",
+      "4. विषमकोण (diamond)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Webpages use a language called XML. XML stands for ________.",
+    "options": [
+      "1. Extended Transfer Machine Language",
+      "2. Extensible Machine Language",
+      "3. Explorer Text Markup Language",
+      "4. Extensible Markup Language"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "वेबपेजों के लिए XML नामक लैंग्वेज़ का उपयोग किया जाता है। XML का पूर्णरूप क्या है?",
+    "options": [
+      "1. Extended Transfer Machine Language (एक्स्टेंडेड ट्रां सफर मशीन लैंग्वेज़)",
+      "2. Extensible Machine Language (एक्स्टेंसिक्स्टें बल मशीन लैंग्वेज़)",
+      "3. Explorer Text Markup Language (एक्सप्लोरर टेक्स्ट मार्क-अप लैंग्वेज़)",
+      "4. Extensible Markup Language (एक्सटेंसिटें बल मार्क-अप लैंग्वेज़)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is the aspect ratio of an SD video?",
+    "options": [
+      "4:3",
+      "7:3",
+      "6:3",
+      "5:3"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "SD वीडियो का अभिमुखता अनुपात (aspect ratio) कितना होता है?",
+    "options": [
+      "4:3",
+      "7:3",
+      "6:3",
+      "5:3"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "jQuery is a _______.",
+    "options": [
+      "1. JavaScript method",
+      "2. Java method",
+      "3. PHP method",
+      "4. JavaScript library"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "jQuery एक ______________ है।",
+    "options": [
+      "1. जावास्क्रिप्ट विधि",
+      "2. जावा विधि",
+      "3. PHP विधि",
+      "4. जावास्क्रिप्ट लाइब्रेरी"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following symbols exists in an email address?",
+    "options": [
+      "$",
+      "&",
+      "#",
+      "@"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "किसी ई-मेल एड्रेस में निम्नलिखित में से कौन-सा प्रतीक मौजूद होता है?",
+    "options": [
+      "$",
+      "&",
+      "#",
+      "@"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is a valid name of a variable in C programming language?",
+    "options": [
+      "1. for",
+      "2. return",
+      "3. default",
+      "4. rollno"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा C प्रोग्रामिंग लैंग्वेज़ के वेरिएबल का एक वैध नाम है?",
+    "options": [
+      "1. for",
+      "2. return",
+      "3. default",
+      "4. rollno"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Match the columns with respective description with reference to Programming language C? <br> <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC_tXiDUfks9iuiz1zlkqLKrlH0dp1L5PHnWueytZOxLpCzFat1acwD00vQRxHuoXrw66lwb4NkYWx5xw63fpA5MRbdnW9EVwW1Zv6ZMgW0d6J_QSNEolhC8kVUSX0mdiCiQKat8P1wYp8pifnmThpwr0jTiDw_SEsA8lcsduohf68BTDsUdQ33IcrdgQL/s601/01%20df.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. (a)-ii, (b)-(iii), (c)-iv, (d)-i",
+      "2. (a)-i, (b)-iii, (c)-iv, (d)-ii",
+      "3. (a)-ii, (b)-iii, (c)-i, (d)-iv",
+      "4. (a)-iii, (b)-i, (c)-iv, (d)-ii"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "प्रोग्रामिंग भाषा C के संदर्भ में संबंधित विवरण के साथ कॉलम का मिलान करें? <br> <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHLqL5C1oJNldPBTo1xbVUSRth38ABSTCgPPTt_tPbXQuzk8SNMtUw39CYV3Wtxc9xW2z-l126CtFGbV-isRdQ3H_xmK28zqLrrOmMleb9Yfm0gxsSCPMBOkDqPNFkmdyaAT7vG9eiRFT9y921-1smURNsHVcSU7zdrPbNnk7Oe6MiQ0L7_JbGfVbpa-Uh/s802/02%20df.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. (a)-ii, (b)-(iii), (c)-iv, (d)-i",
+      "2. (a)-i, (b)-iii, (c)-iv, (d)-ii",
+      "3. (a)-ii, (b)-iii, (c)-i, (d)-iv",
+      "4. (a)-iii, (b)-i, (c)-iv, (d)-ii"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The first generation of computers only relied on:",
+    "options": [
+      "1. Assembly Language",
+      "2. Fortran",
+      "3. C Language",
+      "4. Machine Language"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "पहली पीढ़ी के कंप्यूटर केवल _________ पर निर्भर थे।",
+    "options": [
+      "1. असेंबली लैंग्वेज (Assembly Language)",
+      "2. फोरट्रा न (Fortran)",
+      "3. C लैंग्वेज (C Language)",
+      "4. मशीन लैंग्वेज (Machine Language)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which type of device is a scanner?",
+    "options": [
+      "1. Input device",
+      "2. Output device",
+      "3. Both input and output device",
+      "4. Memory device"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "स्कैनर किस प्रकार का डिवाइस है?",
+    "options": [
+      "1. इनपुट डिवाइस",
+      "2. आउटपुट डिवाइस",
+      "3. इनपुट और आउटपुट डिवाइस, दोनों",
+      "4. मेमोरी डिवाइस"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following keyboard shortcuts is used to insert a footnote in MS-Word 2019?",
+    "options": [
+      "1. Alt + Ctrl + D",
+      "2. Ctrl + Alt + F",
+      "3. Alt + Shift + F",
+      "4. Alt + Shift + F12"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Word 2019 में फुटनोट प्रविष्ट करने के लिए निम्नलिखित में से किस कीबोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Alt + Ctrl + D",
+      "2. Ctrl + Alt + F",
+      "3. Alt + Shift + F",
+      "4. Alt + Shift + F12"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In video compression process, ______ is an independent frame, which does NOT have relation with any other frame.",
+    "options": [
+      "1. B-Frame",
+      "2. P-Frame",
+      "3. I-Frame",
+      "4. C-Frame"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "वीडियो संपीड़न प्रक्रिया में, _______ एक स्वतंत्र फ्रेम है, जो किसी भी अन्य फ्रेम के साथ संबंध नहीं रखती है।",
+    "options": [
+      "1. B-फ्रेम",
+      "2. P-फ्रेम",
+      "3. I-फ्रेम",
+      "4. C-फ्रेम"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The 'Screenshot' option is available in the ___________ tab of MS-Word 2019.",
+    "options": [
+      "1. Draw",
+      "2. Design",
+      "3. Insert",
+      "4. Review"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "स्क्रीनशॉट (Screenshot)' विकल्प MS-Word 2019 के ___________ टैब में उपलब्ध है।",
+    "options": [
+      "1. ड्रॉ (Draw)",
+      "2. डिज़ाइन (Design)",
+      "3. इन्सर्ट (Insert)",
+      "4. रीव्यू (Review)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is a class of data compression algorithms that allows the original data to be perfectly reconstructed from the compressed data?",
+    "options": [
+      "1. Variable length compression",
+      "2. Lossy compression",
+      "3. Lossless compression",
+      "4. Variable width compression"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा डेटा संपीड़न एल्गोरिदम का वर्ग है जो मूल डेटा को संपीडित डेटा से पूरी तरह से पुन:र्निर्मित करने की सुविधा देता है?",
+    "options": [
+      "1. वेरिएबल लेंथ कंप्रेशन (Variable length compression)",
+      "2. लॉसी कंप्रेशन (Lossy compression)",
+      "3. लॉसलेस कंप्रेशन (Lossless compression)",
+      "4. वेरिएबल विड्थ कंप्रेशन (Variable width compression)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "An MS-Excel file can be called a _________.",
+    "options": [
+      "1. gridsheet",
+      "2. cellbook",
+      "3. workbook",
+      "4. worksheet"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एक MS-Excel फ़ाइल को _________ कहा जा सकता है।",
+    "options": [
+      "1. ग्रिडशीट (gridsheet)",
+      "2. सेलबुक (cellbook)",
+      "3. वर्कबुक (workbook)",
+      "4. वर्कशीट (worksheet)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "DES takes 64-bit plain text and produces ______-bit cipher text.",
+    "options": [
+      "56",
+      "64",
+      "48",
+      "54"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "DES, 64 बिट वाले प्लेन टेक्स्ट को लेता है और ______ बिट वाली साईफर (cipher) टेक्स्ट बनता है।",
+    "options": [
+      "56",
+      "64",
+      "48",
+      "54"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following printers sprays streams of quick-drying ink for printing?",
+    "options": [
+      "1. Laser printer",
+      "2. Inkjet printer",
+      "3. Dot Matrix printer",
+      "4. LED printer"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा प्रिंटर मुद्रण के लिए शीघ्र सूखने वाली स्याही की धाराएं छिड़कता है?",
+    "options": [
+      "1. लेज़र प्रिंटर",
+      "2. इंकजेट प्रिंटर",
+      "3. Dot Matrix प्रिंटर",
+      "4. LED प्रिंटर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is NOT a type of computer mouse?",
+    "options": [
+      "1. Trackball mouse",
+      "2. Wireless mouse",
+      "3. Optical mouse",
+      "4. Football mouse"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "इनमें से कौन-सा, कंप्यूटर माउस का प्रकार नहीं है?",
+    "options": [
+      "1. ट्रैकबॉल माउस (Trackball mouse)",
+      "2. वायरलेस माउस (Wireless mouse)",
+      "3. ऑप्टिकल माउस (Optical mouse)",
+      "4. फुटबॉल माउस (Football mouse)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In which language are native libraries layer that consists of libraries of the Android operating system, written?",
+    "options": [
+      "1. C/ C++",
+      "2. Java",
+      "3. LISP",
+      "4. C#"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एंड्रॉ इड ऑपरेटिंग सिस्टम की लाइब्रेरीज़ से युक्त नेटिव लाइब्रेरीज़ परत किस भाषा में लिखी जाती है?",
+    "options": [
+      "1. C/ C++",
+      "2. Java",
+      "3. LISP",
+      "4. C#"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "PNG is the abbreviation for ______.",
+    "options": [
+      "1. Portable Natural Graphics",
+      "2. Portable Network Graphics",
+      "3. Printable Network Graphics",
+      "4. Pointable Network Graphics"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "PNG का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Portable Natural Graphic (पोर्टेबल नेचुरल ग्राफ़िक्स)",
+      "2. Portable Network Graphic (पोर्टेबल नेटवर्क ग्राफ़िक्स)",
+      "3. Printable Network Graphic (प्रिंटेबल नेटवर्क ग्राफ़िक्स)",
+      "4. Pointable Network Graphic (पॉइंटेबल नेटवर्क ग्राफ़िक्स)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is the standard file format language for a webpage?",
+    "options": [
+      "1. HTML",
+      "2. XML",
+      "3. XSD",
+      "4. XSL"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "वेब पेज के लिए निम्नलिखित में से कौन-सी, मानक फाइल फॉर्मेट लैंग्वेज है?",
+    "options": [
+      "1. HTML",
+      "2. XML",
+      "3. XSD",
+      "4. XSL"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What will be the value of the following MS-Excel 2019 function? <br> =AVERAGE(2, 4, 5, -1, 0)",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित MS-Excel 2019 फ़ंक्शन का मान क्या होगा? <br> =AVERAGE(2, 4, 5, -1, 0)",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Booting the infected computer to have better chance of removing persistent spyware is done by:",
+    "options": [
+      "1. scan mode",
+      "2. keylog mode",
+      "3. tracing mode",
+      "4. safe mode"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "स्पाइवेयर को स्थायी तौर पर हटाने का बेहतर तरीका है कि, _______ करके संक्रमित कंप्यूटर को बूट किया जाए।",
+    "options": [
+      "1. स्कैन मोड (scan mode)",
+      "2. कीलॉग मोड (keylog mode)",
+      "3. ट्रैसिंग मोड (tracing mode)",
+      "4. सेफ मोड (safe mode)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is NOT a type of software testing?",
+    "options": [
+      "1. Unit testing",
+      "2. Stress testing",
+      "3. Integration testing",
+      "4. Degradation testing"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा सॉफ्टवेयर परीक्षण का प्रकार नहीं है?",
+    "options": [
+      "1. यूनिट परीक्षण (Unit testing)",
+      "2. तनाव परीक्षण (Stress testing)",
+      "3. एकीकरण परीक्षण (Integration testing)",
+      "4. अवक्रमण परीक्षण (Degradation testing)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following belongs to unguided transmission media?",
+    "options": [
+      "1. Twisted pair",
+      "2. Co-axial cable",
+      "3. Fibre optics",
+      "4. Radio waves"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से किसका संबंध अनिर्देशित संचरण माध्यमों से है?",
+    "options": [
+      "1. ट्विस्टेड पेयर (Twisted pair)",
+      "2. को-एक्सियल केबल (Co-axial cable)",
+      "3. फ़ाइबर ऑप्टिक्स (Fibre optics)",
+      "4. रेडियो तरंगों (Radio waves) गों"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The binary equivalent of decimal 23 is ______.",
+    "options": [
+      "10111",
+      "10110",
+      "17",
+      "11111"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "दशमलव 23 का बाइनरी समतुल्य ________ है।",
+    "options": [
+      "10111",
+      "10110",
+      "17",
+      "11111"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT a property of an algorithm?",
+    "options": [
+      "1. Finiteness",
+      "2. Effectiveness",
+      "3. Definiteness",
+      "4. Solidness"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा एल्गोरिदम का गुण नहीं है?",
+    "options": [
+      "1. परिमितता (Finiteness)",
+      "2. प्रभावशीलता (Effectiveness)",
+      "3. निश्चितता (Definiteness)",
+      "4. ठोसता (Solidness)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What does the word 'email' stands for?",
+    "options": [
+      "1. Entry mailing",
+      "2. Electronic mail",
+      "3. Extended mail",
+      "4. Engineering mailing"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "'e-mail' का पूर्णरूप क्या है?",
+    "options": [
+      "1. Entry mailing (इंट्री मेलिंग)",
+      "2. Electronic mail (इलेक्ट्रॉनिक मेल)",
+      "3. Extended mail (एक्सटेंडेड मेल)",
+      "4. Engineering mailing (इंजीनियरिंग मेलिंग)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ is the most widely used web protocol.",
+    "options": [
+      "1. HTML",
+      "2. SMPS",
+      "3. HTTP",
+      "4. Java"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "_______ सार्वाधिक उपयोग किया जाने वाला वेब प्रोटोकॉल है।",
+    "options": [
+      "1. HTML",
+      "2. SMPS",
+      "3. HTTP",
+      "4. Java"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The _______________ is the standard protocol used by mail servers for sending emails.",
+    "options": [
+      "1. HTTP",
+      "2. SMTP",
+      "3. POP3",
+      "4. UDP"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "_______________ ईमेल भेजने के लिए मेल सर्वर द्वारा उपयोग किया जाने वाला मानक प्रोटोकॉल है।",
+    "options": [
+      "1. HTTP",
+      "2. SMTP",
+      "3. POP3",
+      "4. UDP"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The 'home page' of a website is its ________.",
+    "options": [
+      "1. largest page",
+      "2. last page",
+      "3. first page",
+      "4. most colourful page"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "किसी वेबसाइट का ‘होम पेज’ उसका _______ होता है।",
+    "options": [
+      "1. सबसे बड़ा पेज",
+      "2. आख़िरी पेज",
+      "3. पहला पेज",
+      "4. सबसे रंगीन पेज"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "HTML ____________ are used to divide your browser window into multiple sections where each section can load a separate HTML document independently.",
+    "options": [
+      "1. patterns",
+      "2. themes",
+      "3. frames",
+      "4. boxes"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "HTML ____________ का उपयोग, ब्राउज़र विंडो को कई वर्गों में विभाजित करने के लिए किया जाता है, जहां प्रत्येक सेक्शन स्वतंत्र रूप से एक अलग HTML डॉक्यूमेंट लोड कर सकता है।",
+    "options": [
+      "1. पैटर्न्स (patterns)",
+      "2. थीम्स (themes)",
+      "3. फ्रेम्स (frames)",
+      "4. बॉक्सेस (boxes)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following protocols is used to get files from another computer over the internet?",
+    "options": [
+      "1. UTP",
+      "2. FTP",
+      "3. HTTP",
+      "4. TELNET"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "इंटरनेट के माध्यम से किसी अन्य कंप्यूटर से फ़ाइलों को प्राप्त करने के लिए निम्न में से किस प्रोटोकॉल का उपयोग किया जाता है?",
+    "options": [
+      "1. UTP",
+      "2. FTP",
+      "3. HTTP",
+      "4. TELNET"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following in MS-Word 2019 contains multiple tabs and can be found near the top of the Word window?",
+    "options": [
+      "1. Ribbon",
+      "2. Title bar",
+      "3. Status bar",
+      "4. Task bar"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Word 2019 में, निम्नलिखित में से किसमें कई टैब होते हैं और उन्हें वर्ड विंडो के शीर्ष के पास पाया जा सकता है?",
+    "options": [
+      "1. रिबन (Ribbon)",
+      "2. टाइटल बार (Title bar)",
+      "3. स्टेटस बार (Status bar)",
+      "4. टास्क बार (Task bar)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The processing of detecting and removing errors in computer programming is called _______.",
+    "options": [
+      "1. Compiling",
+      "2. Debugging",
+      "3. Editing",
+      "4. Verification"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कंप्यूटर प्रोग्रामिंग में एरर का पता लगाने और उन्हें हटाने की प्रक्रिया को _______ कहा जाता है।",
+    "options": [
+      "1. संकलन (Compiling)",
+      "2. डिबगिंग (Debugging)",
+      "3. संपादन (Editing)",
+      "4. सत्यापन (Verification)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following types of files can be used for composing letters, flyers, essays and other text-based files in Google Drive?",
+    "options": [
+      "1. Spreadsheets",
+      "2. Documents",
+      "3. Presentations",
+      "4. Forms"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Google Drive में पत्र, फ़्लायर्स, निबंध और अन्य टेक्स्ट-आधारित फ़ाइलों की रचना के लिए निम्न में से किस प्रकार की फ़ाइलों का उपयोग किया जा सकता है?",
+    "options": [
+      "1. स्प्रेडशीट्स (Spreadsheets)",
+      "2. डॉक्यूमेंट्स (Documents)",
+      "3. प्रेजेंटेजेंटेशंस (Presentations)",
+      "4. फॉर्म्स (Forms)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "With reference to VoIP, ______ protocol adds peer-to-peer session control to XMPP.",
+    "options": [
+      "1. Skype",
+      "2. Inter-Asterisk eXchange (IAX)",
+      "3. H.248",
+      "4. Jingle"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "VoIP के संदर्भ में, निम्न में से कौन-सा प्रोटोकॉल पीयर-टू-पीयर सेशन कंट्रो ल को XMPP से जोड़ता है?",
+    "options": [
+      "1. Skype",
+      "2. Inter-Asterisk eXchange (IAX)",
+      "3. H.248",
+      "4. Jingle"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel is NOT used for ______.",
+    "options": [
+      "1. data entry",
+      "2. visualization and graphs",
+      "3. accounting",
+      "4. presenting slides"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel का उपयोग ______ के लिए नहीं किया जाता है।",
+    "options": [
+      "1. डेटा एंट्री",
+      "2. विज़ुअलाइज़ेशन और ग्राफ़",
+      "3. अकाउंटिंग",
+      "4. स्लाइड प्रस्तुत करने"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following options is to be selected for creating a new document in Google Drive?",
+    "options": [
+      "1. Google Slides",
+      "2. Google Sheets",
+      "3. Google Docs",
+      "4. Google Forms"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Google Drive में एक नया डॉक्यूमेंट बनाने के लिए निम्न में से किस विकल्प का चयन करना होता है?",
+    "options": [
+      "1. Google Slides",
+      "2. Google Sheets",
+      "3. Google Docs",
+      "4. Google Forms"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In MS-Excel, a bar graph is a chart or a graph that presents categorical data with ______ with length proportional to the values that they represent.",
+    "options": [
+      "1. rectangular bars",
+      "2. star bars",
+      "3. round bars",
+      "4. circle bars"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel का बार ग्राफ एक ऐसा चार्ट या ग्राफ होता है जो ______ के रूप में श्रेणीबद्ध डेटा प्रस्तुत करता है, जिसकी ऊंचाई या लंबाई उनके द्वारा दर्शाए जाने वाले मानों के समानुपाती होती है।",
+    "options": [
+      "1. आयताकार बार",
+      "2. स्टार बार",
+      "3. गोलाकार बार",
+      "4. वृत्ताकार बार"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "By default, when you type '=13.99+17.99' in cell B5 and press Enter, MS Excel calculates the result and displays ______.",
+    "options": [
+      "30",
+      "31",
+      "31.98",
+      "32"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "डिफ़ॉल्ट रूप से, जब आप सेल B5 में '=13.99+17.99' टाइप करते हैं और Enter दबाते हैं, तो MS Excel परिणाम की गणना करता है और ______ प्रदर्शित करता है।",
+    "options": [
+      "30",
+      "31",
+      "31.98",
+      "32"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In MS-Excel, ___________ are best for real-time calculations and simple operations, while ____________ excel at automating repetitive tasks and complex workflows.",
+    "options": [
+      "1. formulas; macros",
+      "2. macros; formulas",
+      "3. rows; macros",
+      "4. formulas; columns"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-EXCEL में, ___________ वास्तविक-समय की गणना और सरल ऑपरेशन के लिए सबसे अच्छे हैं, जबकि _________ दोहराए जाने वाले कार्यों और जटिल वर्कफ़्लो को स्वचालित करने में उत्कृष्टता प्राप्त करते हैं।",
+    "options": [
+      "1. फ़ॉर्मूलास; माक्रोस (formulas; macros)",
+      "2. माक्रोस; फ़ॉर्मूलास (macros; formulas)",
+      "3. रोज़; माक्रोस (rows; macros)",
+      "4. फ़ॉर्मूलास; कॉलम्स (formulas; columns)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following extensions is used to include macros in an MS-Excel 2019 spreadsheet?",
+    "options": [
+      "1. .xlsx",
+      "2. .xlsm",
+      "3. .docx",
+      "4. .pptx"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 स्प्रेडशीट में मैक्रोज़ को शामिल करने के लिए निम्नलिखित में से किस एक्सटेंशन का उपयोग किया जाता है?",
+    "options": [
+      "1. .xlsx",
+      "2. .xlsm",
+      "3. .docx",
+      "4. .pptx"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In MS-Excel 2019, a whole row can be hidden by which key combination?",
+    "options": [
+      "1. Ctrl + H",
+      "2. Ctrl + R",
+      "3. Ctrl + 9",
+      "4. Ctrl + 0"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel 2019 में, किस कुंजी (key) संयोजन द्वारा एक पूरी पंक्ति को छुपाया जा सकता है?",
+    "options": [
+      "1. Ctrl + H",
+      "2. Ctrl + R",
+      "3. Ctrl + 9",
+      "4. Ctrl + 0"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In a histogram, the ______ of a bar shows the number of times that the values occurred within the interval in MS-Excel 2019.",
+    "options": [
+      "1. height",
+      "2. width",
+      "3. Y-axis",
+      "4. X-axis"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "हिस्टोग्राम में, बार का/की ______, MS-Excel 2019 में अंतराल के भीतर मानों की संख्या को दर्शाती/ दर्शाता है।",
+    "options": [
+      "1. ऊंचाई",
+      "2. चौड़ाई",
+      "3. Y-अक्ष",
+      "4. X-अक्ष"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS-Excel 2019, the _________ function returns the remainder from division.",
+    "options": [
+      "1. MOD",
+      "2. MODE",
+      "3. MMULT",
+      "4. MIRR"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में, __________ फ़ंक्शन, भाग करके शेषफल प्रदान करता है।",
+    "options": [
+      "1. MOD",
+      "2. MODE",
+      "3. MMULT",
+      "4. MIRR"
+    ],
+    "answer": 0
+  }
+],
 
+  
 "23rd November 2025 - Shift1": [
   {
     "q": "______ generation computers used electronic components like vacuum tubes.",
@@ -27119,6 +28162,7 @@
         };
     
     
+
 
 
 
