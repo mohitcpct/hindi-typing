@@ -1,4 +1,1048 @@
  const questionBank26 = {
+"17th January 2026 - Shift1": [
+  {
+    "q": "Which of the following is a network layer protocols of the OSI model?",
+    "options": [
+      "1. IP",
+      "2. UDP",
+      "3. PPP",
+      "4. TCP"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से कौन-सा, OSI मॉडल का नेटवर्क लेयर प्रोटोकॉल है?",
+    "options": [
+      "1. IP",
+      "2. UDP",
+      "3. PPP",
+      "4. TCP"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Who is credited with designing and partially developing the Analytical Engine?",
+    "options": [
+      "1. Stephen Roberts",
+      "2. Charles Babbage",
+      "3. Peter Norton",
+      "4. George Boole"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एनालिटिकल इंजन को डिजाइन करने और आंशिक रूप से विकसित करने का श्रेय किसे दिया जाता है?",
+    "options": [
+      "1. स्टीफन रॉबर्ट्स (Stephen Roberts)",
+      "2. चार्ल्स बैबेज (Charles Babbage)",
+      "3. पीटर नॉर्टन (Peter Norton)",
+      "4. जॉर्ज बूल (George Boole)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ is a tool for making group surveys and quiz games online.",
+    "options": [
+      "1. Class flow",
+      "2. Recap",
+      "3. Triventy",
+      "4. Plickers"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "_________, ऑनलाइन समूह सर्वेक्षण और प्रश्नोत्तरी खेल (quiz games) बनाने का एक उपकरण है।",
+    "options": [
+      "1. Class flow",
+      "2. Recap",
+      "3. Triventy",
+      "4. Plickers"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "______ is great online quiz-making application.",
+    "options": [
+      "1. Gametop",
+      "2. Pad let",
+      "3. Recap",
+      "4. Quizizz"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "__________ एक बहुत महत्‍वपूर्ण ऑनलाइन प्रश्नोत्तरी खेल (quiz) बनाने वाली एप्लिकेशन है।",
+    "options": [
+      "1. Gametop",
+      "2. Pad let",
+      "3. Recap",
+      "4. Quizizz"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which type of memory permanently stores the BIOS/firmware that contains the programming instructions needed to start a PC during boot-up?",
+    "options": [
+      "1. RAM",
+      "2. ROM",
+      "3. Hard disk",
+      "4. Floppy disk"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "किस प्रकार की मेमोरी BIOS/फर्मवेयर को स्थायी रूप से संग्रहीत करती है जिसमें बूट-अप के दौरान पीसी (PC) को चालू करने के लिए आवश्यक प्रोग्रामिंग निर्देश होते हैं?",
+    "options": [
+      "1. RAM",
+      "2. ROM",
+      "3. हार्ड डिस्क",
+      "4. फ्लॉपी डिस्क"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which function multiplies its arguments in MS-Excel 2019?",
+    "options": [
+      "1. MULTIPLY function",
+      "2. MUL function",
+      "3. PRODUCT function",
+      "4. MULARG function"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel 2019 में कौन-सा फंक्शन अपने आर्गुमेंट्स (arguments) का संवर्धन करता है?",
+    "options": [
+      "1. MULTIPLY फंक्शन",
+      "2. MUL फंक्शन",
+      "3. PRODUCT फंक्शन",
+      "4. MULARG फंक्शन"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "______ is known as a combination of the column letter and the row number in an OpenOffice Calc.",
+    "options": [
+      "1. Workbook",
+      "2. Worksheet",
+      "3. Spreadsheet",
+      "4. Cell reference"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "ओपन ऑफिस कैल्क (open office Calc) में ________ को कॉलम अक्षर और रो (row) संख्या के संयोजन के रूप में जाना जाता है।",
+    "options": [
+      "1. वर्कबुक (Workbook)",
+      "2. वर्कशीट (Worksheet)",
+      "3. स्प्रेडशीट (Spreadsheet)",
+      "4. सेल रेफरेन्स (Cell reference)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is the primary function of a web browser?",
+    "options": [
+      "1. Interpret HTML Code",
+      "2. Compile HTML Code",
+      "3. Pre compile HTML Code",
+      "4. De-compile HTML Code"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, ब्राउज़र का कार्य है?",
+    "options": [
+      "1. HTML कोड को इन्टरप्रेट करना",
+      "2. HTML कोड को कंपाइल करना",
+      "3. HTML कोड को प्री कंपाइल करना",
+      "4. HTML कोड को डी-कंपाइल करना"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "On a web page, if your pointer suddenly changes to a hand, what have you found?",
+    "options": [
+      "1. An error",
+      "2. Help facility",
+      "3. A hyperlink",
+      "4. A picture"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एक वेब पेज पर, यदि आपका पॉइंटर अचानक एक हाथ (hand) में बदलता है, तो आपको क्या मिला है?",
+    "options": [
+      "1. एक त्रुटि (An error)",
+      "2. हेल्प सुविधा (Help facility)",
+      "3. एक हाइपरलिंक (A hyperlink)",
+      "4. एक चित्र (A picture)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A hard disk is divided into tracks, which are further subdivided into ______.",
+    "options": [
+      "1. heads",
+      "2. clusters",
+      "3. vectors",
+      "4. sectors"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "एक हार्ड डिस्क, ट्रैक्स (tracks) में विभाजित होती है जो आगे ___________ में उपविभाजित होती है।",
+    "options": [
+      "1. हेड्स (heads)",
+      "2. क्लस्टर्स (clusters)",
+      "3. वेक्टर्स (vectors)",
+      "4. सेक्टर्स (sectors)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A computer device that detects each spot of image on a paper is called a:",
+    "options": [
+      "1. scanner",
+      "2. mouse",
+      "3. joystick",
+      "4. monitor"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ वह कंप्यूटर डिवाइस है जो पेपर पर इमेज के प्रत्येक स्थान का पता लगाता है।",
+    "options": [
+      "1. स्कैनर (scanner)",
+      "2. माउस (mouse)",
+      "3. जॉयस्टिक (joystick)",
+      "4. मॉनिटर (monitor)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In the Windows 11 Operating System, downward-pointing black arrow in the device manager indicates that:",
+    "options": [
+      "1. the windows link file is missing.",
+      "2. the device is disabled.",
+      "3. there is a possible resource conflict.",
+      "4. the software is not installed properly."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "विंडोज 11 ऑपरेटिंग सिस्टम में, डिवाइस मैनेजर में नीचे की ओर इशारा करने वाला काला तीर क्‍या दर्शाता है?",
+    "options": [
+      "1. विंडोज लिंक फ़ाइल अनुपलब्ध है।",
+      "2. डिवाइस डिसेबल है।",
+      "3. संभवत: संसाधन संघर्ष (resource conflict) हुआ है।",
+      "4. सॉफ्टवेयर ठीक से इंस्टॉल नहीं हुआ है।"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A microphone is a device that transforms:",
+    "options": [
+      "1. the light signal into sound signal",
+      "2. the electrical signal into sound signal",
+      "3. the sound wave into light signal",
+      "4. the sound wave into electrical signal"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "माइक्रोफ़ोन एक ऐसा डिवाइस है जो _______________ रूपांतरित करता है।",
+    "options": [
+      "1. लाइट सिग्‍नल को ध्वनि संकेत में",
+      "2. विद्यु त सिग्‍नल को ध्वनि सिग्‍नल में",
+      "3. ध्वनि तरंग को लाइट सिग्‍नल में",
+      "4. ध्वनि तरंग को विद्युत सिग्‍नल में"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "If you wanted to create a broadcast that could be downloaded from the internet, what would you create?",
+    "options": [
+      "1. Podcast",
+      "2. IBroadcast",
+      "3. Eshow",
+      "4. Icast"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "यदि आप एक ब्रॉडकास्ट बनाना चाहते हैं जिसे इंटरनेट से डाउनलोड किया जा सकता है, तो आप क्या बनाएंगे?",
+    "options": [
+      "1. पॉडकास्‍ट (Podcast)",
+      "2. आईब्रॉडकास्ट (IBroadcast)",
+      "3. ईशो (Eshow)",
+      "4. आईकास्‍ट (Icast)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following tabs in MS-PowerPoint 2019 has the ‘New Slide’ button?",
+    "options": [
+      "1. Developer",
+      "2. Home",
+      "3. Record",
+      "4. Animation"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-PowerPoint 2019 में निम्नलिखित में से किस टैब में 'न्यु स्लाइड (New Slide)' बटन है?",
+    "options": [
+      "1. डेवलपर (Developer)",
+      "2. होम (Home)",
+      "3. रिकॉर्ड (Record)",
+      "4. एनीमेशन (Animation)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following techniques is used to deliver multimedia files that are stored on a remote server across the network to a client?",
+    "options": [
+      "1. Uploading",
+      "2. Leaking",
+      "3. Streaming",
+      "4. Flowing"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से किस तकनीक का उपयोग नेटवर्क पर दूरस्थ सर्वर पर संग्रहीत मल्टीमीडिया फ़ाइलों को क्लाइंट तक पहुँचाने के लिए किया जाता है?",
+    "options": [
+      "1. अपलोडिंग (Uploading)",
+      "2. लीकिंग (Leaking)",
+      "3. स्ट्री मिंग (Streaming)",
+      "4. फ्लोइंग (Flowing)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following compression algorithms permits reconstruction only of an approximation of the original data?",
+    "options": [
+      "1. Lossy data compression algorithm",
+      "2. Lossless data compression algorithm",
+      "3. Variable length encoding",
+      "4. Run length encoding"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा कंप्रेशन एल्गोरिदम केवल मूल डेटा के लगभग सही अनुमान के पुनर्निर्माण की अनुमति देता है?",
+    "options": [
+      "1. लॉसी डेटा कंप्रेशन एल्गोरिदम (Lossy data compression algorithm)",
+      "2. लॉसलेस डेटा कंप्रेशन एल्गोरिदम (Lossless data compression algorithm)",
+      "3. वेरिएबल लेंथ एन्कोडिंग (Variable length encoding)",
+      "4. रन लेंथ एन्कोडिंग (Run length encoding)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ are devices that have a ball on top of the unit with reference to computer system.",
+    "options": [
+      "1. Rack balls",
+      "2. Track balls",
+      "3. Track rollers",
+      "4. Rack rollers"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ ऐसे डिवाइस हैं जिनमें कंप्यूटर सिस्टम के संदर्भ में यूनिट के शीर्ष पर एक गेंद (ball) होती है।",
+    "options": [
+      "1. रैक बॉल्स (Rack balls)",
+      "2. ट्रैक बॉल्स (Track balls)",
+      "3. ट्रैक रोलर्स (Track rollers)",
+      "4. रैक रोलर्स (Rack rollers)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In MS-PowerPoint 2019, you can set up how your slides change from one to the next using the _________ tab.",
+    "options": [
+      "1. Record",
+      "2. Animations",
+      "3. Transitions",
+      "4. Design"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-PowerPoint 2019 में, आप _________ टैब का उपयोग करके यह सेट कर सकते हैं कि आपकी स्लाइड एक से दूसरी में कैसे बदलें।",
+    "options": [
+      "1. रिकॉर्ड (Record)",
+      "2. एनिमेशन्स (Animations)",
+      "3. ट्रांजिशन्स (Transitions)",
+      "4. डिज़ाइन (Design)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is generated in a Cyclic Redundancy Check (CRC) to detect errors in data transmission or storage?",
+    "options": [
+      "1. Length",
+      "2. Parity",
+      "3. Redundancy",
+      "4. Checksum"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "डेटा ट्रां समिशन या स्टोरेज में त्रुटियों का पता लगाने के लिए साइक्लिक रिडन्‍डेंसी चेक (CRC) में निम्नलिखित में से क्या उत्पन्न किया जाता है?",
+    "options": [
+      "1. लंबाई (Length)",
+      "2. समता (Parity)",
+      "3. अतिरेकता (Redundancy)",
+      "4. चेकसम (Checksum)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In MS-Word 2019, the main document in the Mail Merge contains the text that ___________.",
+    "options": [
+      "1. is automatically generated only by the database",
+      "2. is the same for each version of the merged document",
+      "3. can only include numeric fields, not text",
+      "4. is different for each version of the merged document"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Word 2019 में, मेल मर्ज (Mail Merge) का मुख्य दस्तावेज़ उस पाठ को सम्मिलित करता है जो ______________________।",
+    "options": [
+      "1. केवल डेटाबेस द्वारा स्वचालित रूप से उत्पन्न किया जाता है",
+      "2. प्रत्येक मर्ज किए गए दस्तावेज़ के लिए समान होता है",
+      "3. केवल संख्यात्मक फ़ील्ड शामिल कर सकता है, पाठ (टेक्स्ट) नहीं",
+      "4. प्रत्येक मर्ज किए गए दस्तावेज़ के लिए अलग-अलग होता है"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following options is correct in terms of impact printers?",
+    "options": [
+      "1. Quiet printer",
+      "2. High quality printer",
+      "3. Noisy printer",
+      "4. Fastest printer"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "इंपैक्ट प्रिंटरों के संदर्भ में सही विकल्प का चयन करें।",
+    "options": [
+      "1. शांत प्रिंटर",
+      "2. उच्च गुणवत्ता वाले प्रिंटर",
+      "3. आवाज करने वाले प्रिंटर",
+      "4. तीव्रतम प्रिंटर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is NOT a functionality of BIOS?",
+    "options": [
+      "1. Initiates the bootstrap sequence",
+      "2. CMOS Setup",
+      "3. Performs the power-on self-test (POST)",
+      "4. Switches ON UPS supply"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से कौन-सा, BIOS का कार्य नहीं है?",
+    "options": [
+      "1. बूटस्ट्रैप अनुक्रम को आरंभ करना",
+      "2. CMOS सेटअप",
+      "3. पावर-ऑन सेल्फ-टेस्ट (POST) करना",
+      "4. UPS आपूर्ति को चालू करना"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The installation file is saved to your computer in _____________ format.",
+    "options": [
+      "1. .exe",
+      "2. .bin",
+      "3. .com",
+      "4. .ps"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "इंस्टॉलेशन फ़ाइल आपके कंप्यूटर पर ____ फॉर्मेट में सेव होती है।",
+    "options": [
+      "1. .exe",
+      "2. .bin",
+      "3. .com",
+      "4. .ps"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which database is used by the Android operating system for storage of data?",
+    "options": [
+      "1. Oracle",
+      "2. SQL server",
+      "3. SQLite",
+      "4. DB2"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "डेटा भण्डारण के लिए किस डेटाबेस को एंड्रॉ इड ऑपरेटिंग सिस्टम के द्वारा उपयोग किया जाता है?",
+    "options": [
+      "1. ओरेकल (Oracle)",
+      "2. SQL सर्वर",
+      "3. SQLite",
+      "4. DB2"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the extension of a C language file?",
+    "options": [
+      "1. .cp",
+      "2. .see",
+      "3. .cpp",
+      "4. .c"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "C भाषा फाइल का एक्सटेंशन क्या है?",
+    "options": [
+      "1. .cp",
+      "2. .see",
+      "3. .cpp",
+      "4. .c"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In MS-PowerPoint 2019, which tab lets you add comments, run spell-check and compare one presentation with another (such as an earlier version)?",
+    "options": [
+      "1. Review",
+      "2. File",
+      "3. View",
+      "4. Tools"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-PowerPoint 2019 में, कौन-सा टैब आपको टिप्पणियां (कमेंट) जोड़ने, वर्तनी-जांच (स्पेल-चेक) चलाने और एक प्रेजेंटेजेंटेशन को दूसरे के साथ तुलना करने की सुविधा देता है (जैसे कि पहले वाला संस्करण)?",
+    "options": [
+      "1. रीव्यू (Review)",
+      "2. फाइल (File)",
+      "3. व्यू (View)",
+      "4. टूल्स (Tools)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The physical or logical arrangement of network is:",
+    "options": [
+      "1. routing",
+      "2. network topology",
+      "3. networking",
+      "4. switching"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "नेटवर्क की भौतिक या तार्किक व्यवस्था _______ कहलाती है।",
+    "options": [
+      "1. राऊटिंग (routing)",
+      "2. नेटवर्क टोपोलॉजी (network topology)",
+      "3. नेटवर्किंग (networking)",
+      "4. स्विचिंग (switching)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ used to supply power to devices for a fixed amount of time without stopping even when there are is no incoming power supply.",
+    "options": [
+      "1. Pulse Width Modulation",
+      "2. Universal Asynchronous Receiver/Transmitter",
+      "3. Switched Mode Power Supply",
+      "4. Uninterruptible Power Supply"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "______ का उपयोग उपकरणों (devices) णों को एक निश्चित समय तक बिना रुके बिजली की आपूर्ति करने के लिए किया जाता है, भले ही कोई इनकमिंग पावर सप्लाई न हो।",
+    "options": [
+      "1. पल्स विड्थ मॉडुलेशन (Pulse Width Modulation)",
+      "2. यूनिवर्सल एसिंक्रोनस रिसीवर/ट्रांसमीटर (Universal Asynchronous Receiver/Transmitter)",
+      "3. स्विच्ड मोड पावर सप्लाई (Switched Mode Power Supply)",
+      "4. अनइंटरप्टेबल पावर सप्लाई (Uninterruptible Power Supply)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following refers to the issue of improving the reliability of identifying a region of interest when the user presents his or her biometric characteristics to the system such as locating the face(s) in an image or separating speech signal from ambient noise?",
+    "options": [
+      "1. Segmentation",
+      "2. Indexing",
+      "3. Thresholding",
+      "4. Cropping"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "जब उपयोगकर्ता अपनी बायोमेट्रिक विशेषताओं को प्रणाली के सामने रखता है, तो निर्धारित क्षेत्र की पहचान करने की विश्वसनीयता में सुधार करने संबंधी मुद्दा - उदाहरण के लिए, छवि (इमेज) में चेहरों की संख्या का पता लगाना या परिवेशी रव से वाच्य संकेत को अलग करना इत्यादि, किस परिघटना की ओर संकेत करते हैं?",
+    "options": [
+      "1. सेगमेंटेमेंटेशन (Segmentation)",
+      "2. इंडेक्सिंग (Indexing)",
+      "3. थ्रेशोल्डिंग (Thresholding)",
+      "4. क्रॉपिंग (Cropping)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The Format Painter option in MS-PowerPoint 2019 is found in which of the following tabs?",
+    "options": [
+      "1. Insert",
+      "2. Home",
+      "3. View",
+      "4. Design"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-PowerPoint 2019 में फ़ॉर्मेट पेंटर विकल्प निम्न में से किस टैब में पाया जाता है?",
+    "options": [
+      "1. इन्सर्ट (Insert)",
+      "2. होम (Home)",
+      "3. व्यू (View)",
+      "4. डिज़ाइन (Design)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "With reference to connecting devices, HDMI stands for:",
+    "options": [
+      "1. High Definition Multiple Interface",
+      "2. High Design Multiple Interface",
+      "3. High Definition Multimedia Interface",
+      "4. High Definition Multiple Interchange"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "उपकरणों को जोड़ने के संदर्भ में, HDMI का पूर्ण रूप क्या है?",
+    "options": [
+      "1. हाई डेफ़िनिशन मल्टीपल इंटरफ़ेस (High Definition Multiple Interface)",
+      "2. हाई डिज़ाइन मल्टीपल इंटरफ़ेस (High Design Multiple Interface)",
+      "3. हाई डेफ़िनिशन मल्टीमीडिया इंटरफ़ेस (High Definition Multimedia Interface)",
+      "4. हाई डेफ़िनिशन मल्टीपल इंटरचेंज (High Definition Multiple Interchange)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Match the type of computer with its description: <br> <table style=\"width:100%;\"><tr><td style=\"width:40%;vertical-align:top;\">(i) Personal Computer<br>(ii) Mini Computer<br>(iii) Super Computer</td><td style=\"width:60%;vertical-align:top;\">(a) It is a multi-user computer system, capable of supporting hundreds of users.<br>(b) It is a single user computer system having moderately powerful microprocessor.<br>(c) It is an extremely fast computer, which can execute hundreds of millions of instruction.</td></tr></table>",
+    "options": [
+      "1. (i) - (b), (ii) - (a), (iii) - (c)",
+      "2. (i) - (c), (ii) - (a), (iii) - (b)",
+      "3. (i) - (b), (ii) - (c), (iii) - (a)",
+      "4. (i) - (c), (ii) - (b), (iii) - (a)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कंप्यूटर के प्रकार को उसके विवरण से सुमेलित कीजिए: <br> <table style=\"width:100%;\"><tr><td style=\"width:40%;vertical-align:top;\">(i) पर्सनल कंप्यूटर<br>(ii) मिनी कंप्यूटर<br>(iii) सुपर कंप्यूटर</td><td style=\"width:60%;vertical-align:top;\">(a) यह एक बहु-उपयोगकर्ता कंप्यूटर प्रणाली है, जो एक साथ सैकड़ों उपयोगकर्ताओं को सपोर्ट करने में <br>(b)यह मध्यम शक्तिशाली माइक्रोप्रोसेसर वाला एकल उपयोगकर्ता कंप्यूटर सिस्टम है।<br>(c) यह एक अत्यंत तेज़ कंप्यूटर है, जो प्रति सेकंड करोड़ों निर्देशों को निष्पादित कर सकता है।</td></tr></table>",
+    "options": [
+      "1. (i) - (b), (ii) - (a), (iii) - (c)",
+      "2. (i) - (c), (ii) - (a), (iii) - (b)",
+      "3. (i) - (b), (ii) - (c), (iii) - (a)",
+      "4. (i) - (c), (ii) - (b), (iii) - (a)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The 34-pin IDE cable is used to connect the ______ and the 40-pin IDE cable is used to connect the ______ to the motherboard.",
+    "options": [
+      "1. hard disk drive; floppy disk drive",
+      "2. floppy disk drive; hard disk drive",
+      "3. optical drive; hard disk drive",
+      "4. hard disk drive; optical drive"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "34-पिन आईडीई केबल का उपयोग ______ को मदरबोर्ड से कनेक्ट करने के लिए और 40-पिन आईडीई केबल का उपयोग ______ को मदरबोर्ड से कनेक्ट करने के लिए किया जाता है।",
+    "options": [
+      "1. हार्ड डिस्क ड्राइव (hard disk drive); फ्लॉपी डिस्क ड्राइव (floppy disk drive)",
+      "2. फ्लॉपी डिस्क ड्राइव (floppy disk drive); हार्ड डिस्क ड्राइव (hard disk drive)",
+      "3. ऑप्टिकल ड्राइव (optical drive); हार्ड डिस्क ड्राइव (hard disk drive)",
+      "4. हार्ड डिस्क ड्राइव (hard disk drive); ऑप्टिकल ड्राइव (optical drive)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Drum printers and Chain printers are classified as:",
+    "options": [
+      "1. ink-jet printers",
+      "2. optical printers",
+      "3. impact printers",
+      "4. laser printers"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "ड्रम प्रिंटर और चेन प्रिंटर को निम्न में से किसके अंतर्गत वर्गीकृत किया गया है?",
+    "options": [
+      "1. इंक-जेट प्रिंटर (ink-jet printers)",
+      "2. ऑप्टिकल प्रिंटर (optical printers)",
+      "3. इम्पैक्ट प्रिंटर (impact printers)",
+      "4. लेजर प्रिंटर (laser printers)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is equivalent to 124 nibbles?",
+    "options": [
+      "1. 124 bytes",
+      "2. 62 bits",
+      "3. 124 bits",
+      "4. 62 bytes"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, 124 निबल्स के बराबर है?",
+    "options": [
+      "1. 124 बाइट्स",
+      "2. 62 बिट्स",
+      "3. 124 बिट्स",
+      "4. 62 बाइट्स"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following system software programs are intended for diagnostic and maintenance tasks for the computer?",
+    "options": [
+      "1. Device Drivers",
+      "2. Utilities",
+      "3. Firmware",
+      "4. Operating System"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा सिस्टम सॉफ्टवेयर प्रोग्राम, कंप्यूटर के लिए नैदानिक और अनुरक्षण कार्यों के लिए अभिप्रेत है?",
+    "options": [
+      "1. डिवाइस ड्राइवर्स (Device Drivers)",
+      "2. यूटिलिटीज़ (Utilities)",
+      "3. फर्मवेयर (Firmware)",
+      "4. ऑपरेटिंग सिस्टम (Operating System)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In which of the following E-Governance interactions is Information and Communications Technology used to reorganise governmental processes and enhance the flow of information and services within and between government entities?",
+    "options": [
+      "1. G2B",
+      "2. G2C",
+      "3. G2G",
+      "4. G2E"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से किस ई-गवर्नेंस इंटरैक्शन में सरकारी प्रक्रियाओं को पुनर्गठित करने और सरकारी संस्थाओं के भीतर और उनके बीच सूचना और सेवाओं के प्रवाह को बढ़ाने के लिए सूचना और संचार प्रौद्योगिकी का उपयोग किया जाता है?",
+    "options": [
+      "1. G2B",
+      "2. G2C",
+      "3. G2G",
+      "4. G2E"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is NOT a broadband internet connection?",
+    "options": [
+      "1. DSL",
+      "2. Cable modem",
+      "3. Satellite",
+      "4. Dial-up"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, ब्रॉडबैंड इंटरनेट कनेक्शन नहीं है?",
+    "options": [
+      "1. DSL",
+      "2. केबल मॉडेम (Cable modem)",
+      "3. सैटेलाइट (Satellite)",
+      "4. डायल-अप (Dial-up)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following shortcut keys is used to enter a new line in the same cell in an MS-Excel worksheet?",
+    "options": [
+      "1. Alt + Enter",
+      "2. Tab + Enter",
+      "3. Shift + Enter",
+      "4. Ctrl + Enter"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel वर्कशीट में उसी सेल में एक नई लाइन दर्ज करने के लिए निम्न में से किस शॉर्टकट कुंजी (key) का उपयोग किया जाता है?",
+    "options": [
+      "1. Alt + Enter",
+      "2. Tab + Enter",
+      "3. Shift + Enter",
+      "4. Ctrl + Enter"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following views in MS-PowerPoint 2019 is used to change the design and layout of a master slide?",
+    "options": [
+      "1. Notes Master",
+      "2. Handout Master",
+      "3. Slide Master",
+      "4. Slide Sorter"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-PowerPoint 2019 में निम्नलिखित में से किस व्यू (दृश्य) का उपयोग मास्टर स्लाइड के डिज़ाइन और लेआउट को बदलने के लिए किया जाता है?",
+    "options": [
+      "1. नोट्स मास्टर (Notes Master)",
+      "2. हैंडआउट मास्टर (Handout Master)",
+      "3. स्लाइड मास्टर (Slide Master)",
+      "4. स्लाइड सॉर्टर (Slide Sorter)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the given functions tests if a cell is BLANK in MS-Excel 2019?",
+    "options": [
+      "1. ISABLANK()",
+      "2. INFO()",
+      "3. ISERR()",
+      "4. ISBLANK()"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "दिए गए फ़ंक्शन में से कौन सा यह परीक्षण करता है कि MS-Excel 2019 में कोई सेल BLANK है या नहीं?हीं",
+    "options": [
+      "1. ISABLANK()",
+      "2. INFO()",
+      "3. ISERR()",
+      "4. ISBLANK()"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is NOT an objective of software testing?",
+    "options": [
+      "1. Fixing defects",
+      "2. Preventing defects",
+      "3. Finding defects",
+      "4. Gaining confidence in and providing information about the level of quality"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, सॉफ्टवेयर परीक्षण का एक उद्देश्य नहीं है?",
+    "options": [
+      "1. दोषों को ठीक करना",
+      "2. दोषों को रोकना",
+      "3. दोष ढूँढना",
+      "4. गुणवत्ता के स्तर के बारे में जानकारी प्रदान करना और उस पर विश्वास प्राप्त करना"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS-Excel 2019 chart, the ________ displays the plotted data series with a predefined symbol and the name of the series in charts and depicts the colours, patterns, or symbols assigned to the data series. It helps to differentiate the data.",
+    "options": [
+      "1. gridline",
+      "2. legend",
+      "3. row",
+      "4. axis"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 चार्ट में, ________, चार्ट में पूर्वनिर्धारित प्रतीक और श्रृंखला के नाम के साथ आलेखित की गई डेटा श्रृंखला को प्रदर्शित करता है और डेटा श्रृंखला को दिए गए रंगों, गों पैटर्न या प्रतीकों को दर्शाता है। यह डेटा को विभेदित करने में मदद करता है।",
+    "options": [
+      "1. ग्रिडलाइन (gridline)",
+      "2. लीजेंड (legend)",
+      "3. पंक्ति (row)",
+      "4. अक्ष (axis)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "When you insert a chart in MS-Excel 2019, which of the following appears in the selected worksheet with the source data by default?",
+    "options": [
+      "1. References",
+      "2. Table",
+      "3. Macro",
+      "4. Embedded chart"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "जब आप MS-Excel 2019 में एक चार्ट इन्‍सर्ट करते हैं, तो निम्नलिखित में से कौन-सा, डिफ़ॉल्ट रूप से सोर्स डेटा के साथ सेलेक्‍ट की गई चयनित वर्कशीट में दिखाई देता है?",
+    "options": [
+      "1. रेफरेन्सेस (References)",
+      "2. टेबल (Table)",
+      "3. मैक्रो (Macro)",
+      "4. एंबेडेड चार्ट (Embedded chart)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The ________ shortcut key(s) is/are used in MS-Excel 2019 to move one cell down in a worksheet.",
+    "options": [
+      "1. Down arrow key",
+      "2. Alt + Down arrow key",
+      "3. Ctrl + Down arrow key",
+      "4. Shift + Down arrow key"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में वर्कशीट में एक सेल नीचे जाने के लिए ___________ शॉर्टकट कुंजी/कुंजियाँ प्रयोग की जाती हैं।",
+    "options": [
+      "1. डाउन एरो कुंजी",
+      "2. Alt + डाउन एरो कुंजी",
+      "3. Ctrl + डाउन एरो कुंजी",
+      "4. Shift + डाउन एरो कुंजी"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "________ is used in MS-Excel 2019 to check spellings in the active worksheet or selected range.",
+    "options": [
+      "1. F2",
+      "2. F7",
+      "3. F9",
+      "4. F6"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 में, सक्रिय वर्कशीट या सेलेक्‍ट की गई रेंज में वर्तनी की जांच करने के लिए ________ का उपयोग किया जाता है।",
+    "options": [
+      "1. F2",
+      "2. F7",
+      "3. F9",
+      "4. F6"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following statements about keyboard shortcuts in MS-Excel is INCORRECT?",
+    "options": [
+      "1. Ctrl + F9 minimises a workbook window to an icon.",
+      "2. Ctrl + O is used to open a workbook.",
+      "3. F2 is used in MS-Excel to check spellings in the active worksheet or selected range.",
+      "4. Alt + A is used in MS-Excel to move to Data tab."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel में कीबोर्ड शॉर्टकट के बारे में निम्नलिखित में से कौन-सा कथन गलत है?",
+    "options": [
+      "1. Ctrl + F9 का उपयोग वर्कबुक विंडो को आइकन में मिनीमाइज करने के लिए किया जाता है।",
+      "2. Ctrl + O का उपयोग वर्कबुक खोलने के लिए किया जाता है।",
+      "3. MS-Excel में सक्रिय वर्कशीट या सेलेक्‍ट की गई रेंज में वर्तनी की जांच करने के लिए F2 का उपयोग किया जाता है।",
+      "4. MS-Excel में Alt + A का उपयोग डेटा टैब में जाने के लिए किया जाता है।"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The ________ shortcut key is used in MS-Excel 2019 to open the Go To dialog box.",
+    "options": [
+      "1. F5",
+      "2. F7",
+      "3. F2",
+      "4. F6"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में गो टु (Go To) डायलॉग बॉक्स को खोलने के लिए ________ शॉर्टकट कुंजी का उपयोग किया जाता है।",
+    "options": [
+      "1. F5",
+      "2. F7",
+      "3. F2",
+      "4. F6"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "We can change the chart type of an existing chart by following which steps in MS-Excel 365?",
+    "options": [
+      "1. Insert → Change chart type",
+      "2. Chart Design → Change chart type",
+      "3. Data → Change chart type",
+      "4. Page Layout → Change chart type"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 365 में किन चरणों का पालन करके हम मौजूदा चार्ट के प्रकार को बदल सकते हैं?",
+    "options": [
+      "1. Insert (इन्सर्ट) → Change chart type (चेंज चार्ट टाइप)",
+      "2. Chart Design (चार्ट डिज़ाइन) → Change chart type (चेंज चार्ट टाइप)",
+      "3. Data (डेटा) → Change chart type (चेंज चार्ट टाइप)",
+      "4. Page Layout (पेज लेआउट) → Change chart type (चेंज चार्ट टाइप)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In MS Excel 2021, what does the formula =SEQUENCE(4) return?",
+    "options": [
+      "1. An error because column value is missing",
+      "2. Numbers 1 to 4 arranged in a single row",
+      "3. Numbers 1 to 4 arranged in a single column",
+      "4. Only the number 4"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS Excel 2021 में, सूत्र =SEQUENCE(4) क्या देता है?",
+    "options": [
+      "1. स्तंभ मान अनुपलब्ध होने के कारण त्रुटि",
+      "2. एक ही पंक्ति में व्यवस्थित 1 से 4 तक संख्याएँ",
+      "3. एक ही कॉलम में व्यवस्थित 1 से 4 तक संख्याएँ",
+      "4. केवल संख्या 4"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following MS-Excel 2019 functions returns a value or the reference to a value from within a table or range?",
+    "options": [
+      "1. SORT",
+      "2. MATCH",
+      "3. SEQUENCE",
+      "4. INDEX"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा MS-Excel 2019 फ़ंक्शन, किसी टेबल या रेंज के भीतर से मान या मान का संदर्भ देता है?",
+    "options": [
+      "1. SORT (सॉर्ट)",
+      "2. MATCH (मैच)",
+      "3. SEQUENCE (सीक्वेंस)",
+      "4. INDEX (इंडेक्स)"
+    ],
+    "answer": 3
+  }
+],
+
+  
 "16th January 2026 - Shift1": [
   {
     "q": "Which feature of Windows 11 allows the desktop backgrounds to change automatically after some specified time interval?",
@@ -1050,6 +2094,7 @@
   
         
     
+
 
 
 
