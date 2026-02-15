@@ -5212,6 +5212,1049 @@
     ],
     "answer": 3
   }
+],
+
+  "27th January 2026 - Shift2": [
+  {
+    "q": "What will be the result if tOGGLE cASE is applied to the word ‘Examination’ in MS-Word 2019?",
+    "options": [
+      "1. eXAMINATION",
+      "2. examination",
+      "3. Examination",
+      "4. EXAMINATION"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "यदि एमएस वर्ड (MS-Word) 2019 में, ‘Examination’ शब्द पर tOGGLE cASE अप्लाई किया जाता है, तो क्या परिणाम होगा ?",
+    "options": [
+      "1. eXAMINATION",
+      "2. examination",
+      "3. Examination",
+      "4. EXAMINATION"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following keyboard short cut in MS-Excel 2019 is used to open the Formulas tab and insert, trace, and customize functions and calculations?",
+    "options": [
+      "1. Alt + H",
+      "2. Alt + M",
+      "3. Alt + P",
+      "4. Alt + N"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एमएस-एक्सेल 2019 में निम्नलिखित में से किस कीबोर्ड शॉर्टकट का उपयोग फॉर्मूला टैब खोलने तथा फ़ंक्शन और गणनाओं को इंसर्ट करने, ट्रेस करने और कस्टमाइज करने के लिए किया जाता है?",
+    "options": [
+      "1. Alt + H",
+      "2. Alt + M",
+      "3. Alt + P",
+      "4. Alt + N"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following services of the Internet is responsible for mappings of computer hostnames to IP addresses?",
+    "options": [
+      "1. Time services",
+      "2. VoIP",
+      "3. Domain Name System",
+      "4. Gopher"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "इंटरनेट की निम्नलिखित में से कौन-सी सर्विस कंप्यूटर होस्टनामों (Host names) मों को आईपी पते (IP Address) पर मैप करने के लिए उत्तरदायी है?",
+    "options": [
+      "1. टाइम सर्विसेज (Time services)",
+      "2. वॉइप (VoIP)",
+      "3. डोमेन नेम सिस्टम (Domain Name System)",
+      "4. गोफर (Gopher)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In order to publish a file in Google Docs, the ________option is used.",
+    "options": [
+      "1. paste to web",
+      "2. publish to website",
+      "3. publish on net",
+      "4. publish to web"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Google Docs में किसी फाइल को पब्लिश करने के लिए _______ विकल्प का उपयोग किया जाता है।",
+    "options": [
+      "1. पेस्ट टू वेब",
+      "2. पब्लिश टू वेबसाइट",
+      "3. पब्लिश ऑन नेट",
+      "4. पब्लिश टू वेब"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A ______ is a set of instructions that makes the computer perform a task.",
+    "options": [
+      "1. hardware",
+      "2. program",
+      "3. monitor",
+      "4. system"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ , इंस्ट्रक्शन का एक सेट है जो कंप्यूटर को कोई टास्क करने के लिए प्रेरित करता है।",
+    "options": [
+      "1. हार्डवेयर",
+      "2. प्रोग्राम",
+      "3. मॉनीटर",
+      "4. सिस्टम"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "FAT stands for ______ Allocation Table.",
+    "options": [
+      "1. Field",
+      "2. Frame",
+      "3. File",
+      "4. Folder"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "FAT का अर्थ ______ एलोकेशन टेबल है।",
+    "options": [
+      "1. Field (फ़ी ल्ड)",
+      "2. Frame (फ़्रेम)",
+      "3. File (फ़ा इल)",
+      "4. Folder (फ़ो ल्डर)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "USSD in the context of BHIM (Bharat Interface for Money) stands for ______.",
+    "options": [
+      "1. Used Supplementary Service Data",
+      "2. Unreliable Supplementary Service Data",
+      "3. User Supplementary Service Data",
+      "4. Unstructured Supplementary Service Data"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "BHIM (भारत इंटरफ़ेस फ़ॉर मनी) के संदर्भ में, USSD का पूर्णरूप क्या है?",
+    "options": [
+      "1. Used Supplementary Service Data (यूज़्ड सप्लिमेंट्री सर्विस डेटा)",
+      "2. Unreliable Supplementary Service Data (अनरिलाएबल सप्लिमेंट्री सर्विस डेटा)",
+      "3. User Supplementary Service Data (यूजर सप्लिमेंट्री सर्विस डेटा)",
+      "4. Unstructured Supplementary Service Data (अनस्ट्रक्चर्ड सप्लिमेंट्री सर्विस डेटा)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The '______' World Wide Character Standard uses up to 4 bytes (32 bits) to represent each letter, number or symbol.",
+    "options": [
+      "1. Unicode",
+      "2. EBCDIC (Extended Binary Coded Decimal Interchange code)",
+      "3. ASCII (American Standard Code for Information Interchange)",
+      "4. Extended ASCII"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "__________' वर्ल्ड वाइड कैरेक्टर स्टैंडर्ड (World Wide Character Standard) प्रत्येक अक्षर, संख्या या प्रतीक को दर्शाने के लिए 4 बाइट्स (32 बिट्स) तक का उपयोग करता है।",
+    "options": [
+      "1. यूनिकोड (Unicode)",
+      "2. EBCDIC (एक्स्टेंडेड बाइनरी कोडेड डेसीमल इंटरचेंज कोड)",
+      "3. ASCII (अमेरिकन स्टैंडर्ड कोड फॉर इन्फॉर्मेशन इंटरचेंज)",
+      "4. एक्स्टेंडेड ASCII (Extended ASCII)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What type of device is a scanner?",
+    "options": [
+      "1. Processor",
+      "2. Storage",
+      "3. Input",
+      "4. Output"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "स्कैनर किस प्रकार का उपकरण है?",
+    "options": [
+      "1. प्रोसेसर",
+      "2. स्टोरेज",
+      "3. इनपुट",
+      "4. आउटपुट"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What will be the output of following formula in MS-Excel 2019? <br> =AND(XOR(0,1),1)",
+    "options": [
+      "1. #ERROR",
+      "2. FALSE",
+      "3. 2",
+      "4. TRUE"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel 2019 में निम्नलिखित फॉर्मूले का आउटपुट क्या होगा? <br> =AND(XOR(0,1),1)",
+    "options": [
+      "1. #ERROR",
+      "2. FALSE",
+      "3. 2",
+      "4. TRUE"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following wildcard characters can be used in formulas in MS-Excel 2019 while searching for sequence of characters?",
+    "options": [
+      "1. *",
+      "2. #",
+      "3. ?",
+      "4. !"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एमएस-एक्सेल 2019 में वर्णों के अनुक्रम की खोज करते समय सूत्रों में निम्नलिखित में से किस वाइल्डकार्ड वर्ण का उपयोग किया जा सकता है?",
+    "options": [
+      "1. *",
+      "2. #",
+      "3. ?",
+      "4. !"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In printing, which of the following is the standard measure of printed image quality?",
+    "options": [
+      "1. DIP",
+      "2. DPI",
+      "3. DPQ",
+      "4. DQP"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "प्रिंटिंग में, प्रिंटेड इमेज क्‍वालिटी की मानक माप निम्नलिखित में से कौन-सी है?",
+    "options": [
+      "1. DIP",
+      "2. DPI",
+      "3. DPQ",
+      "4. DQP"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A device that converts sound energy into electrical energy is called:",
+    "options": [
+      "1. speaker",
+      "2. headphone",
+      "3. headset",
+      "4. microphone"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "ध्वनि ऊर्जा को विद्युत उर्जा में परिवर्तित करने वाला उपकरण निम्न में से कौन सा है?",
+    "options": [
+      "1. स्पीकर (speaker)",
+      "2. हेडफ़ोन (headphone)",
+      "3. हेडसेट (headset)",
+      "4. माइक्रोफोन (microphone)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Output devices make it possible to ______.",
+    "options": [
+      "1. view and print data",
+      "2. scan data",
+      "3. input data",
+      "4. send data"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "आउटपुट डिवाइस ______ संभव बनाते हैं।",
+    "options": [
+      "1. डेटा व्यू करना और प्रिंट करना",
+      "2. डेटा स्कैन करना",
+      "3. डेटा इनपुट करना",
+      "4. डेटा सेंड करना"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "To get audio or video into a computer, we must ______ it.",
+    "options": [
+      "1. maximise",
+      "2. digitise",
+      "3. shorten",
+      "4. highlight"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कंप्यूटर में ऑडियो या वीडियो प्राप्त करने के लिए, हमें इसे _____ करना होगा।",
+    "options": [
+      "1. मैक्सिमाइज़ (maximise)",
+      "2. डिजिटाइज़ (digitise)",
+      "3. शॉर्टेन (shorten)",
+      "4. हाईलाइट (highlight)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The hexadecimal representation of the decimal number 24 is ______.",
+    "options": [
+      "1. 11000",
+      "2. 30",
+      "3. 18",
+      "4. 47"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "दशमलव संख्या 24 का हेक्साडेसिमल निरूपण _______ है।",
+    "options": [
+      "1. 11000",
+      "2. 30",
+      "3. 18",
+      "4. 47"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Lempel-Ziv-Welch (LZW) is a:",
+    "options": [
+      "1. lossless data compression algorithm",
+      "2. lossy data compression algorithm",
+      "3. lossless data extraction algorithm",
+      "4. lossy data extraction algorithm"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Lempel-Ziv-Welch (LZW) क्या है?",
+    "options": [
+      "1. लॉसलेस डेटा कंप्रेशन एल्गोरिथ्‍म (lossless data compression algorithm)",
+      "2. लॉसी डेटा कंप्रेशन एल्गोरिथ्‍म (lossy data compression algorithm)",
+      "3. लॉसलेस डेटा एक्‍सट्रैक्‍शन एल्गोरिथ्‍म (lossless data extraction algorithm)",
+      "4. लॉसी डेटा एक्‍सट्रैक्‍शन एल्गोरिथ्‍म (lossy data extraction algorithm)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which file of software packages is/are responsible for dictating how the software behaves under different circumstances?",
+    "options": [
+      "1. Libraries",
+      "2. Configuration files",
+      "3. Executable programs",
+      "4. Documentation Files"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "सॉफ़्टवेयर पैकेज की कौन-सी फ़ाइल/फ़ाइलें यह निर्धारित करने के लिए ज़िम्मेदार होती है/हैं कि सॉफ़्टवेयर विभिन्न परिस्थितियों में किस तरह आचरण करता है?",
+    "options": [
+      "1. लाइब्रेरीज़ (Libraries)",
+      "2. कॉन्फ़िगरेशन फ़ाइलें (Configuration files)",
+      "3. एक्जिक्युटेबल प्रोग्राम (Executable programs)",
+      "4. डॉक्‍युमेंटेमेंटेशन फ़ाइलें (Documentation files)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following sequences is used to remove header in MS-Word 2019 document?",
+    "options": [
+      "1. Select Home > Header > Remove Header",
+      "2. Select Insert > Header > Delete Header",
+      "3. Select Insert > Header > Remove Header",
+      "4. Select Home > Header > Delete Header"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एमएस-वर्ड 2019 डॉक्यूमेंट में हेडर को हटाने के लिए निम्नलिखित में से किस अनुक्रम का उपयोग किया जाता है?",
+    "options": [
+      "1. होम चुनें > हेडर > रिमूव हैडर चुनें",
+      "2. इन्सर्ट चुनें > हेडर > डिलीट हेडर चुनें",
+      "3. इन्सर्ट चुनें > हेडर > रिमूव हैडर चुनें",
+      "4. होम चुनें > हेडर > डिलीट हेडर चुनें"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following keyboard shortcuts in MS-Word 2019 is used to decrease the font size by 1 point?",
+    "options": [
+      "1. Shift + Left bracket ([)",
+      "2. Ctrl + Right bracket (])",
+      "3. Shift + Right bracket (])",
+      "4. Ctrl + Left bracket ([)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "एमएस-वर्ड 2019 में निम्नलिखित में से किस कीबोर्ड शॉर्टकट का उपयोग फ़ॉन्ट आकार को 1 अंक कम करने के लिए किया जाता है?",
+    "options": [
+      "1. Shift + Left bracket ([)",
+      "2. Ctrl + Right bracket (])",
+      "3. Shift + Right bracket (])",
+      "4. Ctrl + Left bracket ([)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "C language supports different types of operators, which can be used with variables and constants to form expressions. Which of the following operators have right to left associativity?",
+    "options": [
+      "1. &&",
+      "2. ?:",
+      "3. ||",
+      "4. ^"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "C लैंग्वेज़ विभिन्न प्रकार के ऑपरेटरों को सपोर्ट करती है, जिनका उपयोग चर और अचर मानों वाले व्यंजक बनाने के लिए किया जा सकता है। निम्नलिखित में से किस ऑपरेटर की साहचर्यता दाएं से बाएं होती है?",
+    "options": [
+      "1. &&",
+      "2. ?:",
+      "3. ||",
+      "4. ^"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ algorithm is a symmetric key cryptographic technique to provide message authentication.",
+    "options": [
+      "1. PAC",
+      "2. TAC",
+      "3. MAC",
+      "4. SAC"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "______एल्गोरिथ्‍म, संदेश प्रमाणीकरण प्रदान करने के लिए सममित कुंजी (key) वाली एक क्रिप्टोग्राफिक तकनीक है।",
+    "options": [
+      "1. PAC",
+      "2. TAC",
+      "3. MAC",
+      "4. SAC"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "During the Mail Merge process, which of the following documents in MS-Word 2019 contains the basic text that is the same in all of the output documents?",
+    "options": [
+      "1. Data Source",
+      "2. Recipient list",
+      "3. Labels",
+      "4. Main document"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "मेल मर्ज (Mail Merge) प्रोसैस के दौरान, एमएस वर्ड (MS-Word) 2019 में, निम्न में से किस डॉक्यूमेंट में बेसिक टेक्स्ट होता है जो सभी आउटपुट डॉक्यूमेंट में समान होता है?",
+    "options": [
+      "1. डेटा सोर्स (Data Source)",
+      "2. रेसिपिएंट लिस्ट (Recipient list)",
+      "3. लेबल (Labels)",
+      "4. मेन डॉक्यूमेंट (Main document)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The OSI model consists of ____ layers.",
+    "options": [
+      "1. seven",
+      "2. five",
+      "3. eight",
+      "4. nine"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "OSI मॉडल में कितनी लेयर होती हैं?",
+    "options": [
+      "1. सात",
+      "2. पांच",
+      "3. आठ",
+      "4. नौ"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Match the columns: <br> <table style=\"width:100%;border-collapse:collapse;font-family:Arial;\"><tr><th style=\"border:1px solid #000;text-align:center;\">Topology</th><th style=\"border:1px solid #000;text-align:center;\">Description</th></tr><tr><td style=\"border:1px solid #000;\">a) Bus topology</td><td style=\"border:1px solid #000;\">i) Each device has a dedicated point-to-point link only to a central controller, usually called a</td></tr><tr><td style=\"border:1px solid #000;\">b) Ring topology</td><td style=\"border:1px solid #000;\">ii) Only long cable acts as a backbone to link all the devices in a network.</td></tr><tr><td style=\"border:1px solid #000;\">c) Hybrid topology</td><td style=\"border:1px solid #000;\">iii) Each device is linked to only its immediate neighbours (either physically or logically).</td></tr><tr><td style=\"border:1px solid #000;\">d) Star topology</td><td style=\"border:1px solid #000;\">iv) You can have a main star topology with each branch connecting several stations in a bus topology</td></tr></table>",
+    "options": [
+      "1. (a) - ii, (b) - iii, (c) - i, (d) - iv",
+      "2. (a) - iii, (b) - ii, (c) - iv, (d) - i",
+      "3. (a) - ii, (b) - iii, (c) - iv, (d) - i",
+      "4. (a) - i, (b) - iii, (c) - iv, (d) - ii"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "स्तंभों का मिलान करें: <br> <table style=\"width:100%;border-collapse:collapse;font-family:Arial;\"><tr><th style=\"border:1px solid #000;text-align:center;\">टोपोलॉजी</th><th style=\"border:1px solid #000;text-align:center;\">विवरण</th></tr><tr><td style=\"border:1px solid #000;\">a) बस टोपोलॉजी</td><td style=\"border:1px solid #000;\">i) प्रत्‍येक डिवाइस का एक समर्पित पॉइंट-टू-पॉइंट लिंक केवल एक केन्‍द्रीय नियंत्रक से होता है, जिसे आमतौर पर </td></tr><tr><td style=\"border:1px solid #000;\">b) रिंग टोपोलॉजी</td><td style=\"border:1px solid #000;\">ii) केवल एक लंबी केबल बैकबोन के रूप में कार्य करती है जो नेटवर्क में सभी डिवाइसों को जोड़ती है</td></tr><tr><td style=\"border:1px solid #000;\">c) हाइब्रिड टोपोलॉजी</td><td style=\"border:1px solid #000;\">iii) प्रत्‍येक डिवाइस केवल अपने निकटतम पड़ोसियों से जुड़ा होता है (भौतिक या तार्किक रूप से)</td></tr><tr><td style=\"border:1px solid #000;\">d) स्‍टार टोपोलॉजी</td><td style=\"border:1px solid #000;\">iv) आप एक मुख्‍य स्‍टार टोपोलॉजी रख सकते हैं जिसमें प्रत्‍येक शाखा कई स्‍टेशनों को बस टोपोलॉजी में जोड़ती</td></tr></table>",
+    "options": [
+      "1. (a) - ii, (b) - iii, (c) - i, (d) - iv",
+      "2. (a) - iii, (b) - ii, (c) - iv, (d) - i",
+      "3. (a) - ii, (b) - iii, (c) - iv, (d) - i",
+      "4. (a) - i, (b) - iii, (c) - iv, (d) - ii"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following refers to the length of the longest of all shortest paths between any two nodes in a computer network?",
+    "options": [
+      "1. Network area",
+      "2. Network radius",
+      "3. Network range",
+      "4. Network diameter"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन एक कंप्यूटर नेटवर्क में किन्हीं दो नोड्स के बीच सभी सबसे छोटे पथों की लंबाई को संदर्भित करता है?",
+    "options": [
+      "1. नेटवर्क क्षेत्र (Network area)",
+      "2. नेटवर्क त्रिज्या (Network radius)",
+      "3. नेटवर्क रेंज (Network range)",
+      "4. नेटवर्क व्यास (Network diameter)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following extensions is used for a zipped file?",
+    "options": [
+      "1. .zip",
+      "2. .jip",
+      "3. .zig",
+      "4. .zippo"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "जिप की गई (Zipped) फाइल के लिए निम्नलिखित में से किस एक्सटेंशन का उपयोग किया जाता है?",
+    "options": [
+      "1. .zip",
+      "2. .jip",
+      "3. .zig",
+      "4. .zippo"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is a JBF file?",
+    "options": [
+      "1. System File",
+      "2. Paint Shop Pro Browser Cache Format File",
+      "3. Compressed Archive File",
+      "4. MS fast find file"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "JBF फ़ाइल क्या होती है?",
+    "options": [
+      "1. सिस्टम फ़ाइल (System File)",
+      "2. पेंट शॉप प्रो ब्राउजर कैश फॉर्मेट फ़ाइल (Paint Shop Pro Browser Cache Format File)",
+      "3. कम्प्रेस्ड आर्काइव फ़ाइल (Compressed Archive File)",
+      "4. MS फास्ट फाइंड फ़ाइल (MS fast find file)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following protocols describes how to make and receive phone calls over the internet?",
+    "options": [
+      "1. Telnet",
+      "2. IRC",
+      "3. List Server",
+      "4. VoIP"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा प्रोटोकॉल बताता है कि इंटरनेट पर फ़ोन कॉल कैसे करें और प्राप्त करें?",
+    "options": [
+      "1. टेलनेट (Telnet)",
+      "2. IRC",
+      "3. लिस्ट सर्वर (List Server)",
+      "4. VoIP"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is not an essential component for connecting to the Internet?",
+    "options": [
+      "1. Printer",
+      "2. ISP",
+      "3. Modem",
+      "4. Router"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा इंटरनेट से जुड़ने के लिए एक आवश्यक घटक नहीं है?",
+    "options": [
+      "1. प्रिंटर (Printer)",
+      "2. आईएसपी (ISP)",
+      "3. मॉडेम (Modem)",
+      "4. राऊटर (Router)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which group of Home tab has the option to change the alignment of text in MS-Word 2019 document?",
+    "options": [
+      "1. View",
+      "2. Paragraph",
+      "3. Tools",
+      "4. Edit"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "होम टैब के किस समूह में MS-Word 2019 दस्तावेज़ में टेक्स्ट के संरेखण (Alignment) को बदलने का विकल्प है?",
+    "options": [
+      "1. व्‍यू",
+      "2. पैराग्राफ",
+      "3. टूल्स",
+      "4. एडिट"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "_____________ is essentially a back-up battery for your computer system in the event of a power failure or other electrical problems.",
+    "options": [
+      "1. Uninterruptible power sink",
+      "2. Unified power supply",
+      "3. Uninterruptible power supply",
+      "4. Universal power sink"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "विद्यु त् विफलता या अन्य विद्युत् समस्याओं की स्थिति में, ______ आपके कंप्यूटर सिस्टम के लिए एक आवश्‍यक बैक-अप बैटरी है।",
+    "options": [
+      "1. अनइंटरप्टिबल पॉवर सिंक (Uninterruptible power sink)",
+      "2. यूनिफ़ाइड पॉवर सप्लाई (Unified power supply)",
+      "3. अनइंटरप्टिबल पॉवर सप्लाई (Uninterruptible power supply)",
+      "4. यूनिवर्सल पॉवर सिंक (Universal power sink)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is NOT a way to insert a formula in MS-Excel 2019 worksheet?",
+    "options": [
+      "1. Inserting a function from the Home tab",
+      "2. Typing a formula inside the cell.",
+      "3. Using the Insert Function option from the Formulas tab.",
+      "4. Selecting a formula from one of the groups in the Formula tab."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से कौन-सा, एमएस एक्सेल (MS-Excel) 2019 वर्कशीट में फ़ॉर्मूला इन्सर्ट करने का तरीका नहीं है?",
+    "options": [
+      "1. होम टैब से फ़ंक्शन इन्सर्ट करना",
+      "2. सेल के अंदर फ़ॉर्मूला टाइप करना",
+      "3. फ़ॉर्मूला टैब से इन्सर्ट फ़ंक्शन विकल्प का उपयोग करना",
+      "4. फ़ॉर्मूला टैब में किसी एक ग्रुप से फ़ॉर्मूला सेलेक्‍ट करना"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT a valid MS-Excel 2019 function?",
+    "options": [
+      "1. SUM",
+      "2. SUMADD",
+      "3. SUMIF",
+      "4. SUMPRODUCT"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा एमएस एक्सेल (MS-Excel) 2019 फ़ंक्शन मान्य नहीं है?",
+    "options": [
+      "1. SUM",
+      "2. SUMADD",
+      "3. SUMIF",
+      "4. SUMPRODUCT"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What will be the output of the MS-Excel 2019 short date formula '=DATE(2020,8,31)'?",
+    "options": [
+      "1. 08-31-2020",
+      "2. 08/31/2020",
+      "3. 8/31/2020",
+      "4. 31.08.2020"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एमएस एक्सेल (MS-Excel) 2019 में, शॉर्ट डेट फ़ॉर्मूला '=DATE(2020,8,31)' का आउटपुट क्या हो गा ?",
+    "options": [
+      "1. 08-31-2020",
+      "2. 08/31/2020",
+      "3. 8/31/2020",
+      "4. 31.08.2020"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is the keyboard shortcut for the ‘Save As’ option in MS-Word 2019?",
+    "options": [
+      "1. F8",
+      "2. F10",
+      "3. F9",
+      "4. F12"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "एमएस वर्ड (MS-Word) 2019 में, ‘Save As’ के विकल्प के लिए निम्न में से कौन-सा की बोर्ड शॉर्टकट है?",
+    "options": [
+      "1. F8",
+      "2. F10",
+      "3. F9",
+      "4. F12"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What are the minimum and maximum zoom levels in a zoom slider of an MS-Word 2019 document?",
+    "options": [
+      "1. 1% and 500%",
+      "2. 10% and 500%",
+      "3. 10% and 600%",
+      "4. 100% to 1000%"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एमएस वर्ड (MS-Word) 2019 में, डॉक्युमेंट के ज़ूम स्लाइडर में मिनिमम और मैक्सिमम ज़ूम लेवेल कितना होता है?",
+    "options": [
+      "1. 1% और 500%",
+      "2. 10% और 500%",
+      "3. 10% और 600%",
+      "4. 100% से 1000%"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following keyboard shortcuts is used to move the active cell to the first column on the current row in MS-Excel 2019?",
+    "options": [
+      "1. Page up",
+      "2. Ctrl + Home",
+      "3. Home",
+      "4. Page down"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एमएस एक्सेल (MS-Excel) 2019 में, एक्टिव सेल को करंट रो (row) के पहले कॉलम (column) में ले जाने के लिए निम्न में से किस की बोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Page up",
+      "2. Ctrl + Home",
+      "3. Home",
+      "4. Page down"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which printer is very commonly used for desktop publishing?",
+    "options": [
+      "1. Dot matrix printer",
+      "2. Line printer",
+      "3. Daisy wheel printer",
+      "4. Laser printer"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "डेस्कटॉप पब्लिशिंग (desktop publishing) के लिए किस प्रिंटर का सबसे अधिक उपयोग किया जाता है?",
+    "options": [
+      "1. डॉट मैट्रिक्स प्रिंटर (Dot matrix printer)",
+      "2. लाइन प्रिंटर (Line printer)",
+      "3. डेज़ी व्हील प्रिंटर (Daisy wheel printer)",
+      "4. लेजर प्रिंटर (Laser Printer)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "To delete text to the left of the insertion point, press the _________ key in MS-Word document.",
+    "options": [
+      "1. Backspace",
+      "2. Space",
+      "3. Ctrl + X",
+      "4. Escape Key"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एमएस-वर्ड डॉक्यूमेंट में, इंसर्शन पॉइंट के बाईं ओर टेक्स्ट को डिलीट करने के लिए, _________ कुंजी दबाएं।",
+    "options": [
+      "1. Backspace",
+      "2. Space",
+      "3. Ctrl + X",
+      "4. Escape कुंजी"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS-Excel 2019, a part of pie chart is known as a _________.",
+    "options": [
+      "1. part",
+      "2. pie",
+      "3. slice",
+      "4. circle"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel 2019 में, पाई चार्ट के एक भाग को _________ के रूप में जाना जाता है।",
+    "options": [
+      "1. पार्ट (part)",
+      "2. पाई (pie)",
+      "3. स्लाइस (slice)",
+      "4. सर्कल (circle)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "When the user navigates to a webpage controlled by the spyware author, the page contains:",
+    "options": [
+      "1. security holes to grab information",
+      "2. adware to attract users",
+      "3. key loggers",
+      "4. code that attacks the browser and forces the download and installation of spyware"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "जब यूज़र स्पाइवेयर ऑथर द्वारा नियंत्रित वेब पेज पर जाता है, तो उस पेज में ______ ।",
+    "options": [
+      "1. सूचना प्राप्त करने के लिए सिक्‍योरिटी होल्‍स होते हैं",
+      "2. यूज़र को लुभाने के लिए ऐडवेयर होता है",
+      "3. की लॉगर्स होते हैं",
+      "4. ब्राउज़र पर अटैक करने वाला कोड होता है जो स्पाइवेयर को डाउनलोड और इन्स्टॉल करने का दबाव बनाता है"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Software quality is measured by:",
+    "options": [
+      "1. functional and non-functional attributes",
+      "2. hacking",
+      "3. cracking",
+      "4. phishing"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "सॉफ्टवेयर की गुणवत्ता किसके द्वारा मापी जाती है?",
+    "options": [
+      "1. फंक्‍शनल और गैर-फंक्‍शनल विशेषताओं (functional and non-functional attributes) ओं के द्वारा",
+      "2. हैकिंग (hacking) के द्वारा",
+      "3. क्रैकिंग (cracking) के द्वारा",
+      "4. फिशिंग (phishing) के द्वारा"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A __________ is a grid of rows and columns in Microsoft Excel.",
+    "options": [
+      "1. page",
+      "2. spreadsheet",
+      "3. document",
+      "4. slide"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "__________ Microsoft Excel में पंक्तियों और स्तंभों का एक ग्रिड है।",
+    "options": [
+      "1. पेज",
+      "2. स्प्रेडशीट",
+      "3. डॉक्यूमेंट",
+      "4. स्लाइड"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Microsoft Excel 2019 labels columns in a spreadsheet as _______.",
+    "options": [
+      "1. 1A, 2B, 3C",
+      "2. 1, 2, 3",
+      "3. A1, B1, C1",
+      "4. A, B, C"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Microsoft Excel 2019 में, स्प्रेडशीट के कॉलम _________ के रूप में अंकित होते हैं।",
+    "options": [
+      "1. 1A, 2B, 3C",
+      "2. 1, 2, 3",
+      "3. A1, B1, C1",
+      "4. A, B, C"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "To move one cell up in an Microsoft Excel spreadsheet, which of the following keys is used?",
+    "options": [
+      "1. Up arrow key",
+      "2. Down arrow key",
+      "3. Left arrow key",
+      "4. Right arrow key or Tab key"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "माइक्रोसॉफ्ट एक्सेल स्प्रेडशीट में एक सेल ऊपर जाने के लिए निम्नलिखित में से किस कुंजी का उपयोग किया जाता है?",
+    "options": [
+      "1. अप एरो की",
+      "2. डाउन एरो की",
+      "3. लेफ्ट एरो की",
+      "4. राइट एरो की या टैब की"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Data is organised in a spreadsheet in the form of __________ in MS-Excel worksheet.",
+    "options": [
+      "1. length and breadth",
+      "2. rows and columns",
+      "3. graph only",
+      "4. chart only"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel वर्कशीट में डेटा को __________ के रूप में एक स्प्रेडशीट में व्यवस्थित किया जाता है।",
+    "options": [
+      "1. लेंथ और ब्रेथ",
+      "2. रो और कॉलम",
+      "3. केवल ग्राफ",
+      "4. केवल चार्ट"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In MS-Excel 2019, ________ is an example of relative reference.",
+    "options": [
+      "1. B$1",
+      "2. $B",
+      "3. B1",
+      "4. $B$1"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel 2019 में, ________ सापेक्ष संदर्भ (Relative Reference) का एक उदाहरण है।",
+    "options": [
+      "1. B$1",
+      "2. $B",
+      "3. B1",
+      "4. $B$1"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following keyboard shortcuts is used to go to the Insert tab in Microsoft Word 2019?",
+    "options": [
+      "1. Alt + N",
+      "2. Alt + H",
+      "3. Alt + F",
+      "4. Alt + M"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Microsoft Word 2019 में, इन्सर्ट टैब पर जाने के लिए निम्नलिखित में से किस की-बोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Alt + N",
+      "2. Alt + H",
+      "3. Alt + F",
+      "4. Alt + M"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following keyboard shortcuts is used to close the Microsoft Excel?",
+    "options": [
+      "1. Alt + F1",
+      "2. Alt + F4",
+      "3. Alt + F3",
+      "4. Alt + F5"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Microsoft Excel को बंद करने के लिए निम्नलिखित में से किस की-बोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Alt + F1",
+      "2. Alt + F4",
+      "3. Alt + F3",
+      "4. Alt + F5"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following keyboard shortcuts is used to get the sum of the values of adjacent cells in Microsoft Excel 2019?",
+    "options": [
+      "1. Ctrl + =",
+      "2. Shift + =",
+      "3. Alt + =",
+      "4. Alt + −"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Microsoft Excel 2019 में, निकटस्थ सेल के मानों का योग ज्ञात करने के लिए निम्नलिखित में से किस की-बोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Ctrl + =",
+      "2. Shift + =",
+      "3. Alt + =",
+      "4. Alt + −"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the decimal equivalent of the binary number 110110?",
+    "options": [
+      "1. 51",
+      "2. 53",
+      "3. 64",
+      "4. 54"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "बाइनरी संख्या 110110 का दशमलव समतुल्यांक निम्न में से क्या होगा?",
+    "options": [
+      "1. 51",
+      "2. 53",
+      "3. 64",
+      "4. 54"
+    ],
+    "answer": 3
+  }
 ]
 
   
@@ -5224,6 +6267,7 @@
   
         
     
+
 
 
 
