@@ -3127,7 +3127,1050 @@
     ],
     "answer": 3
   }
-]  
+],
+
+  "20th January 2026 - Shift1": [
+  {
+    "q": "Which of the following converts user actions or physical movements into signals that the computer can understand and process?",
+    "options": [
+      "1. Output unit",
+      "2. Input unit",
+      "3. Storage unit",
+      "4. Motherboard"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन उपयोगकर्ता की क्रियाओं या शारीरिक गतिविधियों को ऐसे संकेतों में परिवर्तित करता है जिसे कंप्यूटर समझ और संसाधित कर सकता है?",
+    "options": [
+      "1. आउटपुट यूनिट (Output unit)",
+      "2. इनपुट यूनिट (Input unit)",
+      "3. स्टोरेज यूनिट (Storage unit)",
+      "4. मदरबोर्ड (Motherboard)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Select the hexadecimal equivalent of the decimal number 32.",
+    "options": [
+      "1. 22",
+      "2. 20",
+      "3. 18",
+      "4. 21"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "दशमलव संख्या 32 का हेक्साडेसीमल समतुल्य निम्न में से क्या होगा?",
+    "options": [
+      "1. 22",
+      "2. 20",
+      "3. 18",
+      "4. 21"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Select the binary equivalent of the hexadecimal number BC.",
+    "options": [
+      "1. 10101010",
+      "2. 11101111",
+      "3. 10111100",
+      "4. 10110000"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "हेक्साडेसीमल संख्या BC का बाइनरी समतुल्य निम्न में से क्या होगा?",
+    "options": [
+      "1. 10101010",
+      "2. 11101111",
+      "3. 10111100",
+      "4. 10110000"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Select the octal equivalent of the decimal number 32.",
+    "options": [
+      "1. 41",
+      "2. 42",
+      "3. 38",
+      "4. 40"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "दशमलव संख्या 32 का ऑक्टल समतुल्य निम्न में से क्या होगा?",
+    "options": [
+      "1. 41",
+      "2. 42",
+      "3. 38",
+      "4. 40"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following functions returns a random number between 0 and 1 in MS-Excel?",
+    "options": [
+      "1. NRAND function",
+      "2. RAND function",
+      "3. RANDN function",
+      "4. RANDNUM function"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel में निम्न में से कौन सा फंक्शन 0 और 1 के बीच की कोई भी यादृच्छिक (random) संख्या देता है?",
+    "options": [
+      "1. NRAND फंक्शन",
+      "2. RAND फंक्शन",
+      "3. RANDN फंक्शन",
+      "4. RANDNUM फंक्शन"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Input line is related to which of the following toolbars in OpenOffice?",
+    "options": [
+      "1. Function toolbar",
+      "2. Main menu toolbar",
+      "3. Formula toolbar",
+      "4. File toolbar"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "ओपन ऑफिस (OpenOffice) में इनपुट लाइन निम्न में से किस टूलबार से संबंधित है?",
+    "options": [
+      "1. फंक्शन टूलबार (Function toolbar)",
+      "2. मेन मेनू टूलबार (main menu toolbar)",
+      "3. फ़ॉर्मूला टूलबार (Formula toolbar)",
+      "4. फ़ाइल टूलबार (File toolbar)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following software is used to display web pages?",
+    "options": [
+      "1. Windows",
+      "2. Linux",
+      "3. Pages",
+      "4. Web browser"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "वेब पेजों को डिस्प्ले करने के लिए निम्न में से किस सॉफ्टवेयर का उपयोग किया जाता है?",
+    "options": [
+      "1. विंडोज़ (Windows)",
+      "2. लिनक्स (Linux)",
+      "3. पेजेज़ (Pages)",
+      "4. वेब ब्राउज़र (Web browser)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following websites can be used to search for a job on the internet?",
+    "options": [
+      "1. Monster.com",
+      "2. Bharat Matrimony.com",
+      "3. Indian Railways.com",
+      "4. Yatra.com"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "इंटरनेट पर नौकरी खोजने के लिए आप निम्न में से किस वेबसाइट का उपयोग करेंगे?",
+    "options": [
+      "1. Monster.com",
+      "2. Bharat matrimony.com",
+      "3. Indian Railways.com",
+      "4. Yatra.com"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a communication system used to transfer files and exchange messages?",
+    "options": [
+      "1. Firewall",
+      "2. UPS",
+      "3. Email",
+      "4. www"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन सी संचार प्रणाली फ़ाइलों को स्थानांतरित करने और संदेशों का आदान-प्रदान करने के लिए उपयोग की जाती है?",
+    "options": [
+      "1. Firewall",
+      "2. UPS",
+      "3. E-mail",
+      "4. www"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Media, capacity, storage devices and access speed are some important characteristics of a ______.",
+    "options": [
+      "1. mouse",
+      "2. keyboard",
+      "3. monitor",
+      "4. a secondary storage"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "मीडिया, कैपेसिटी, स्टोरेज़ डिवाइस और एक्सेस स्पीड ___________ की कुछ महत्वपूर्ण विशेषताएं हैं।",
+    "options": [
+      "1. माउस (mouse)",
+      "2. की-बोर्ड (keyboard)",
+      "3. मॉनिटर (monitor)",
+      "4. सेकेंडरी स्टोरेज (secondary storage)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Who among the following is the inventor and founder of WWW?",
+    "options": [
+      "1. Tim Berners-Lee",
+      "2. Bill Gates",
+      "3. Timothy Bill",
+      "4. N Russell"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से कौन WWW के अविष्‍कारकर्ता और संस्थापक हैं?",
+    "options": [
+      "1. टिम बर्नर्स–ली",
+      "2. बिल गेट्स",
+      "3. टिमोथी बिल",
+      "4. एन रसेल"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is an example of lossless data compression?",
+    "options": [
+      "1. JPEG",
+      "2. PNG",
+      "3. MP3",
+      "4. MPEG"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा क्षयरहित डेटा संपीडन का उदाहरण है?",
+    "options": [
+      "1. JPEG",
+      "2. PNG",
+      "3. MP3",
+      "4. MPEG"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is the process of encoding, restructuring or otherwise modifying data in order to reduce its size?",
+    "options": [
+      "1. Data hiding",
+      "2. Data encryption",
+      "3. Data decryption",
+      "4. Data compression"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "डेटा के आकार में कमी करने के लिए एन्कोडिंग, पुनर्गठन अथवा संशोधन की प्रक्रिया निम्नलिखित में से क्या कहलाती है?",
+    "options": [
+      "1. डेटा हाइडिंग (Data hiding)",
+      "2. डेटा एंक्रिप्शन (Dara encryption)",
+      "3. डेटा डिक्रिप्शन (Data decryption)",
+      "4. डेटा कम्प्रेशन (Data compression)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "GIF images use which of the following compression techniques?",
+    "options": [
+      "1. Lempel–Ziv–Welch (LZW) compression",
+      "2. Lossy compression",
+      "3. Run-Length Encoding",
+      "4. Transform coding"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "GIF छवियाँ निम्नलिखित में से किस संपीडन तकनीक का उपयोग करती हैं?",
+    "options": [
+      "1. लेम्पेल-ज़िव-वेल्च संपीडन (Lempel-Ziv-Welch compression)",
+      "2. क्षयी संपीडन (Lossy compression)",
+      "3. रन-लेंथ एन्कोडिंग (Run-Length Encoding)",
+      "4. ट्रां सफ़ॉर्म कोडिंग (Transform coding)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "3DES uses ______ secret key(s) for encrypting the plain text.",
+    "options": [
+      "1. one",
+      "2. three",
+      "3. two",
+      "4. four"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "3DES, प्लेन टेक्स्ट को एनक्रिप्ट करने के लिए ___________ सीक्रेट कीज़ (secret keys) का उपयोग करता है।",
+    "options": [
+      "1. एक",
+      "2. तीन",
+      "3. दो",
+      "4. चार"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "How many IP address classes are available with IPV4?",
+    "options": [
+      "1. Three",
+      "2. Two",
+      "3. Five",
+      "4. Four"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "IPV4 के साथ कितनी IP एड्रेस श्रेणियां उपलब्ध होती हैं?",
+    "options": [
+      "1. तीन",
+      "2. दो",
+      "3. पांच",
+      "4. चार"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A printer test page allows you to identify:",
+    "options": [
+      "1. print quality",
+      "2. quality of the paper",
+      "3. quality of the power supply",
+      "4. cost of the printer"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "प्रिंटर टेस्ट पेज आपको __________ सुनिश्चित करने की सुविधा देता है।",
+    "options": [
+      "1. प्रिंट की गुणवत्ता",
+      "2. पेपर की गुणवत्ता",
+      "3. बिजली आपूर्ति की गुणवत्ता",
+      "4. प्रिंटर का मूल्य"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is an input device?",
+    "options": [
+      "1. Printer",
+      "2. Joystick",
+      "3. Speaker",
+      "4. Screen"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्न में से कौन-सी एक इनपुट डिवाइस है?",
+    "options": [
+      "1. प्रिंटर (Printer)",
+      "2. जॉयस्टिक (Joystick)",
+      "3. स्पीकर (Speaker)",
+      "4. स्क्रीन (Screen)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The watt-hour unit of energy is equal to ________ watt(s) of output for an hour.",
+    "options": [
+      "1. three",
+      "2. two",
+      "3. one",
+      "4. ten"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "उर्जा की वाट-घंटा इकाई, एक घंटे में _________वाट (watt) आउटपुट को व्यक्त करती है।",
+    "options": [
+      "1. तीन",
+      "2. दो",
+      "3. एक",
+      "4. दस"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is the extension of a file that is needed to initiate installation of software on a computer?",
+    "options": [
+      "1. .rtf",
+      "2. .odt",
+      "3. .pdf",
+      "4. .exe"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कंप्यूटर में सॉफ्टवेयर का इंस्टॉलेशन आरंभ करने के लिए आवश्यक फ़ाइल का एक्सटेंशन निम्न में से क्या होता है?",
+    "options": [
+      "1. .rtf",
+      "2. .odt",
+      "3. .pdf",
+      "4. .exe"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "___________ are devices that have a ball on top of the unit.",
+    "options": [
+      "1. Rack balls",
+      "2. Trackballs",
+      "3. Track rollers",
+      "4. Rack rollers"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "___________ वे डिवाइस हैं जिनके यूनिट के शीर्ष पर बॉल होती है।",
+    "options": [
+      "1. रैक बॉल (Rack balls)",
+      "2. ट्रैक बॉल (Trackball)",
+      "3. ट्रैक रोलर (Track roller)",
+      "4. रैक रोलर (Rack roller)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following options is INVALID with reference to navigation between folders in File Explorer of Windows 10?",
+    "options": [
+      "1. Forward",
+      "2. Up",
+      "3. Down",
+      "4. Backward"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Windows 10 के फाइल एक्सप्लोरर में फोल्डरों के बीच नेविगेशन के संदर्भ में निम्नलिखित में से कौन सा विकल्प अमान्‍य है?",
+    "options": [
+      "1. फॉरवर्ड (Forward)",
+      "2. अप (Up)",
+      "3. डाउन (Down)",
+      "4. बैकवर्ड (Backward)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "With reference to operating systems, what does PCB stand for?",
+    "options": [
+      "1. Process Control Buffer",
+      "2. Process Communication Block",
+      "3. Process Channel Block",
+      "4. Process Control Block"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "ऑपरेटिंग सिस्टम के संदर्भ में, PCB का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Process Control Buffer (प्रोसेस कंट्रो ल बफ़र)",
+      "2. Process Communication Block (प्रोसेस कम्युनिकेशन ब्लॉक)",
+      "3. Process Channel Block (प्रोसेस चैनल ब्लॉक)",
+      "4. Process Control Block (प्रोसेस कंट्रो ल ब्लॉक)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following files has .sea file format?",
+    "options": [
+      "1. Self-Extracting Archive",
+      "2. Self Extracting Automotive File",
+      "3. Solo Extracting Archive",
+      "4. Self Executable Archive"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से किस फ़ाइल का फ़ाइल फॉर्मेट .sea होता है?",
+    "options": [
+      "1. सेल्फ-एक्स्ट्रेक्टिंग आर्काइव (Self-Extracting Archive)",
+      "2. सेल्फ-एक्स्ट्रेक्टिंग ऑटोमोटिव फाइल (Self Extracting Automotive File)",
+      "3. सोलो एक्स्ट्रेक्टिंग आर्काइव (Solo Extracting Archive)",
+      "4. सेल्फ-एक्जीक्यूटिव आर्काइव (Self Executable Archive)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "HTML stands for:",
+    "options": [
+      "1. Hyperlink Text Markup Language",
+      "2. High Text Mail List",
+      "3. HyperText Markup Language",
+      "4. Hyperlink Transfer Markup Language"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "HTML का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Hyperlink Markup Language (हाइपरलिंक मार्क-अप लैंग्वेज)",
+      "2. High Text Mail List (हाई टेक्स्ट मेल लिस्ट)",
+      "3. HyperText Markup Language (हाइपरटेक्स्ट मार्क-अप लैंग्वेज)",
+      "4. Hyperlink Transfer Markup Language (हाइपरलिंक ट्रां सफर मार्क-अप लैंग्वेज)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A ______ is a data communication network that connects computers and devices only within a limited area such as a single building or a campus.",
+    "options": [
+      "1. PAN",
+      "2. WAN",
+      "3. MAN",
+      "4. LAN"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "______ एक डेटा संचार नेटवर्क है जो कंप्यूटर और उपकरणों को केवल एक सीमित क्षेत्र जैसे कि एक इमारत या परिसर में जोड़ता है।",
+    "options": [
+      "1. PAN",
+      "2. WAN",
+      "3. MAN",
+      "4. LAN"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following key combinations deletes the word immediately to the right of the insertion point in MS-Word 2019?",
+    "options": [
+      "1. Ctrl + Delete",
+      "2. Alt + D",
+      "3. Ctrl + D",
+      "4. Alt + Delete"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा कुंजी संयोजन MS-Word 2019 में इन्‍सर्शन पॉइंट के दाईं ओर के शब्द को तुरंत डिलीट कर देता है?",
+    "options": [
+      "1. Ctrl + Delete",
+      "2. Alt + D",
+      "3. Ctrl + D",
+      "4. Alt + Delete"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What does UPS stand for?",
+    "options": [
+      "1. Underground Power Supply",
+      "2. Uninterruptible Power Supply",
+      "3. Universal Power Supply",
+      "4. Usual Power Supply"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "UPS का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Underground power supply (अंडरग्राउंड पॉवर सप्लाई)",
+      "2. Uninterruptible power supply (अनइंटरप्टिबल पॉवर सप्लाई)",
+      "3. Universal power supply (यूनिवर्सल पॉवर सप्लाई)",
+      "4. Usual power supply (यूज़ुअल पॉवर सप्लाई)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Select the binary equivalent of the decimal number 12.",
+    "options": [
+      "1. 1000",
+      "2. 1010",
+      "3. 1011",
+      "4. 1100"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "दशमलव संख्या 12 का बाइनरी समतुल्य क्या होगा?",
+    "options": [
+      "1. 1000",
+      "2. 1010",
+      "3. 1011",
+      "4. 1100"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which part of the computer connects all components together and allows communication between them?",
+    "options": [
+      "1. Motherboard",
+      "2. Power Cable",
+      "3. USB Port",
+      "4. Graphics Card"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कंप्यूटर का कौन सा भाग सभी घटकों को एक साथ जोड़ता है और उनके बीच संचार की सुविधा देता है?",
+    "options": [
+      "1. मदरबोर्ड (Motherboard)",
+      "2. पॉवर केबल (Power Cable)",
+      "3. यूएसबी पोर्ट (USB Port)",
+      "4. ग्राफिक्स कार्ड (Graphics Card)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following codes are used for error correction in compact disks, Blu-ray disks?",
+    "options": [
+      "1. Parity",
+      "2. Reed Solomon",
+      "3. Beed-Solomon",
+      "4. Redundant"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कॉम्पैक्ट डिस्क, ब्लू-रे डिस्क में त्रुटि सुधार के लिए निम्नलिखित में से कौन सा कोड उपयोग किया जाता है?",
+    "options": [
+      "1. पेरिटी (Parity)",
+      "2. रीड-सोलोमन (Reed Solomon)",
+      "3. बीड-सोलोमन (Beed-Solomon)",
+      "4. रिडंडैंट (Redundant)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "One terabyte (TB) can also be written as:",
+    "options": [
+      "1. 1024 KB",
+      "2. 1024 MB",
+      "3. 1024 GB",
+      "4. 2024 GB"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एक टेराबाइट (TB) निम्न में से किसके बराबर होता है?",
+    "options": [
+      "1. 1024 KB",
+      "2. 1024 MB",
+      "3. 1024 GB",
+      "4. 2024 GB"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is NOT an impact printer?",
+    "options": [
+      "1. Ink-jet printer",
+      "2. Dot-matrix printer",
+      "3. Daisy-wheel printer",
+      "4. Line printer"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से कौन सा एक इम्पैक्ट प्रिंटर नहीं है?",
+    "options": [
+      "1. इंकजेट प्रिंटर (Ink-jet printer)",
+      "2. डॉट-मैट्रिक्स प्रिंटर (Dot-matrix printer)",
+      "3. डेज़ी-व्हील प्रिंटर (Daisy-wheel printer)",
+      "4. लाइन प्रिंटर (Line printer)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which output device draws graphics using a pen?",
+    "options": [
+      "1. Stylus",
+      "2. Plotter",
+      "3. Light pen",
+      "4. Laser printer"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन सी आउटपुट डिवाइस पेन का उपयोग करके ग्राफिक्स बनाती है?",
+    "options": [
+      "1. स्टाइलस (Stylus)",
+      "2. प्लॉटर (Plotter)",
+      "3. लाइट पेन (Light pen)",
+      "4. लेज़र प्रिंटर (Laser printer)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In computer hardware, what does 'ISA' stand for in expansion slots?",
+    "options": [
+      "1. Internet Standard Architecture",
+      "2. International Standard Architecture",
+      "3. Industry Standard Architecture",
+      "4. Internal Slot Architecture"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "कंप्यूटर हार्डवेयर में, एक्‍सपेंशन स्लॉट में 'ISA' का क्या अर्थ है?",
+    "options": [
+      "1. Internet Standard Architecture (इंटरनेट स्टैंडर्ड आर्किटेक्चर)",
+      "2. International Standard Architecture (इंटरनेशनल स्टैंडर्ड आर्किटेक्चर)",
+      "3. Industry Standard Architecture (इंडस्ट्री स्टैंडर्ड आर्किटेक्चर)",
+      "4. Internal Slot Architecture (इंटरनल स्लॉट आर्किटेक्चर)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What do you call it when you take a print from a printer while it is NOT connected to the computer?",
+    "options": [
+      "1. On-line printing",
+      "2. Line check",
+      "3. Cable check",
+      "4. Printer Self-Test"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "जब प्रिंटर कंप्यूटर से नहीं जुड़ा होता है, उस समय प्रिंटर से प्रिंट प्रति निकालने की प्रक्रिया को किस नाम से जाना जाता है?",
+    "options": [
+      "1. ऑन-लाइन प्रिंटिंग (On-line printing)",
+      "2. लाइन चेक (Line check)",
+      "3. केबल चेक (Cable check)",
+      "4. प्रिंटर सेल्फ-टेस्ट (Printer Self-Test)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "______ is a Windows-only VoIP service on the desktop that uses the Jingle protocol.",
+    "options": [
+      "1. Google Chat",
+      "2. Google Talk",
+      "3. Google Docs",
+      "4. Google Sheets"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "________ डेस्कटॉप पर विंडोज़ ओनली VoIP सेवा है जो जिंगल प्रोटोकॉल का उपयोग करती है।",
+    "options": [
+      "1. Google Chat",
+      "2. Google Talk",
+      "3. Google Docs",
+      "4. Google Sheets"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Select the binary equivalent of the decimal number 14.",
+    "options": [
+      "1. 1011",
+      "2. 1111",
+      "3. 1",
+      "4. 1010"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "दशमलव संख्या 14 का बाइनरी समतुल्य क्या होगा?",
+    "options": [
+      "1. 1011",
+      "2. 1111",
+      "3. 1110",
+      "4. 1010"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which internet service operates without the need for physical cables or phone lines, meaning you are always connected via wireless signals?",
+    "options": [
+      "1. cable broadband",
+      "2. ADSL",
+      "3. fibre optic",
+      "4. satellite"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कौन सी इंटरनेट सेवा भौतिक केबल या फोन लाइन की आवश्यकता के बिना संचालित होती है, अर्थात आप हमेशा वायरलेस सिग्नल के माध्यम से जुड़े रहते हैं?",
+    "options": [
+      "1. केबल ब्रॉडबैंड",
+      "2. ADSL",
+      "3. फाइबर ऑप्टिक",
+      "4. सैटेलाइट"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is the full form of WAN?",
+    "options": [
+      "1. Wide Area Network",
+      "2. Well Allotted Network",
+      "3. Wide Area Node",
+      "4. Wide Air Network"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "WAN का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Wide Area Network (वाइड एरिया नेटवर्क)",
+      "2. Well Allotted Network (वेल अलॉटेड नेटवर्क)",
+      "3. Wide Area Node (वाइड एरिया नोड)",
+      "4. Wide Air Network (वाइड एयर नेटवर्क)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the full form of TCP?",
+    "options": [
+      "1. Time Control Protocol",
+      "2. Transfer Control Protocol",
+      "3. Transmission Control Protocol",
+      "4. Transmission Centric Protocol"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "TCP का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Time Control Protocol (टाइम कंट्रो ल प्रोटोकॉल)",
+      "2. Transfer Control Protocol (ट्रां सफर कंट्रो ल प्रोटोकॉल)",
+      "3. Transmission Control Protocol (ट्रां समिशन कंट्रो ल प्रोटोकॉल)",
+      "4. Transmission Centric Protocol (ट्रां समिशन सेंट्रिसें ट्रिक प्रोटोकॉल)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following command displays network configurations?",
+    "options": [
+      "1. routerip",
+      "2. ip",
+      "3. config",
+      "4. ipconfig"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से कौन-सी कमांड नेटवर्क कॉन्फिगरेशन को डिस्‍प्‍ले करती है?",
+    "options": [
+      "1. routerip",
+      "2. ip",
+      "3. config",
+      "4. ipconfig"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "When should regression testing be performed? <br> <br>a. Every week <br>b. After the software has changed <br>c. As often as possible <br>d. When the project manager says so",
+    "options": [
+      "1. Only b",
+      "2. Only a and b",
+      "3. Only b, c and d",
+      "4. Only b and d"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "समाश्रयण परीक्षण (regression testing) कब किया जाना चाहिए? <br> <br>a.प्रति सप्ताह <br>b.सॉफ़्टवेयर बदलने के बाद <br>c. जितनी भी बार संभव हो <br> d. जब प्रोजेक्ट मैनेजर ऐसा करने को कहे",
+    "options": [
+      "1. केवल b सही है",
+      "2. a और b सही हैं",
+      "3. केवल b, c और d सही हैं",
+      "4. केवल b और d सही हैं"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "<img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4SGw_e_Lc0_jQ_nlrjwAarrKcUtm_lLyB1x8m2OU7pTJBeQAqxZ-fF6BtIVaGAMvhpw_gxEO1YEhmk8oxMhPWXhqeI1HmDvFSaMoD0QLdLQNnrpMHVWAiUQ7xrrWCY4lTR8EwpPjKR3CWTK13HKK5mHT4ASPigyfwqYe8QcP6EvPwiGXSMwdahmJez9eF/s616/35%20fd.png\" style=\"max-width:100%;height:auto;\">  <br> In MS-Excel, the above picture is an example of:",
+    "options": [
+      "1. a pie chart",
+      "2. a line chart",
+      "3. a column chart",
+      "4. a bar chart"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "<img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4SGw_e_Lc0_jQ_nlrjwAarrKcUtm_lLyB1x8m2OU7pTJBeQAqxZ-fF6BtIVaGAMvhpw_gxEO1YEhmk8oxMhPWXhqeI1HmDvFSaMoD0QLdLQNnrpMHVWAiUQ7xrrWCY4lTR8EwpPjKR3CWTK13HKK5mHT4ASPigyfwqYe8QcP6EvPwiGXSMwdahmJez9eF/s616/35%20fd.png\" style=\"max-width:100%;height:auto;\">  <br> MS-Excel में, ऊपर दिखाया गया चित्र किस प्रकार के चार्ट का उदाहरण है?",
+    "options": [
+      "1. पाई चार्ट",
+      "2. लाइन चार्ट",
+      "3. कॉलम चार्ट",
+      "4. बार चार्ट"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A pie chart is a circle that is divided into ________ which represents a proportion of the whole.",
+    "options": [
+      "1. bars",
+      "2. axes",
+      "3. dimensions",
+      "4. slices"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "पाई चार्ट ________ में एक वृत्त विभाजित होता है, जो पूर्ण के भागों को निरूपित करते हैं।",
+    "options": [
+      "1. दंडों (bars)",
+      "2. अक्षों (axes)",
+      "3. दिशाओं (dimensions)",
+      "4. खंडों (slices)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The keyboard shortcut ________ minimises a workbook window to an icon in MS-Excel 2019.",
+    "options": [
+      "1. Ctrl + F9",
+      "2. Alt + F9",
+      "3. Shift + F9",
+      "4. F9"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कीबोर्ड शॉर्टकट ________ MS-Excel 2019 में वर्कबुक विंडो को एक आइकन में छोटा कर देता है।",
+    "options": [
+      "1. Ctrl + F9",
+      "2. Alt + F9",
+      "3. Shift + F9",
+      "4. F9"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The keyboard shortcut ________ is used in MS-Excel 2019 to make text bold or to remove bold formatting.",
+    "options": [
+      "1. Ctrl + I",
+      "2. Ctrl + 2",
+      "3. Ctrl + 3",
+      "4. Ctrl + U"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कीबोर्ड शॉर्टकट ________ का उपयोग MS-Excel 2019 में टेक्स्ट को बोल्ड करने या बोल्ड फॉर्मेटिंग को हटाने के लिए किया जाता है।",
+    "options": [
+      "1. Ctrl + I",
+      "2. Ctrl + 2",
+      "3. Ctrl + 3",
+      "4. Ctrl + U"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following statements about charts in MS-Excel 2019 is INCORRECT?",
+    "options": [
+      "1. We use pie charts to compare the percentages of a whole.",
+      "2. The main difference between bar charts and column charts is that the bars are horizontal instead of vertical.",
+      "3. A line chart uses slices for showing trends over time, rather than static data points.",
+      "4. Traditionally we use a stock chart to display the high, low, and closing price of a stock and the stock chart is used in the financial analysis by investors."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel 2019 में चार्ट के बारे में निम्नलिखित में से कौन सा कथन गलत है?",
+    "options": [
+      "1. हम संपूर्ण के प्रतिशत की तुलना करने के लिए पाई चार्ट का उपयोग करते हैं।",
+      "2. बार चार्ट और कॉलम चार्ट के बीच मुख्य अंतर यह है कि बार चार्ट लंबवत के बजाए क्षैतिज होते हैं।",
+      "3. लाइन चार्ट समय के साथ रुझान दिखाने के लिए खंडों का उपयोग करता है, न कि स्टैटिक डेटा प्वाइंट्स का।",
+      "4. परंपरागत रूप से हम स्टॉक के उच्च, निम्न और समापन मूल्य को प्रदर्शित करने के लिए स्टॉक चार्ट का उपयोग करते हैं और स्टॉक चार्ट का उपयोग निवेशकों द्वारा वित्तीय विश्लेषण में भी किया जाता है।"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Select the binary number from the following examples.",
+    "options": [
+      "1. 10111",
+      "2. 2B",
+      "3. 123",
+      "4. 12"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित उदाहरणों में से बाइनरी संख्या का चयन कीजिए।",
+    "options": [
+      "1. 10111",
+      "2. 2B",
+      "3. 123",
+      "4. 12"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "________ bits in a binary number are grouped together to get an octal number.",
+    "options": [
+      "1. 2",
+      "2. 3",
+      "3. 4",
+      "4. 5"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "बाइनरी संख्या में ________ बिट्स को ऑक्टल संख्या प्राप्त करने के लिए एक साथ समूहीकृत किया जाता है।",
+    "options": [
+      "1. 2",
+      "2. 3",
+      "3. 4",
+      "4. 5"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The syntax of the filter function in MS-Excel 2019 is:",
+    "options": [
+      "1. =FILTER(include, [if_empty])",
+      "2. =FILTER(array, [if_empty])",
+      "3. =FILTER(array, include, [if_empty])",
+      "4. =FILTER(array, include, rows, [if_empty])"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel 2019 में फ़िल्टर फ़ंक्शन (filter function) का सिंटैक्स क्‍या है?",
+    "options": [
+      "1. =FILTER(include, [if_empty])",
+      "2. =FILTER(array, [if_empty])",
+      "3. =FILTER(array, include, [if_empty])",
+      "4. =FILTER(array, include, rows, [if_empty])"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In MS-Excel 2019, which function is used to return a value or the reference to a value from within a table or range?",
+    "options": [
+      "1. COPY",
+      "2. INSERT",
+      "3. SORT",
+      "4. INDEX"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel 2019 में, किसी टैबल या रेंज के भीतर से मान या मान का संदर्भ रिटर्न करने के लिए किस फ़ंक्शन का उपयोग किया जाता है।",
+    "options": [
+                 "1. कॉपी (COPY)",
+      "2. इन्‍सर्ट (INSERT)",
+                 "3. सॉर्ट (SORT)",
+      "4. इंडेक्‍स (INDEX)"
+    ],
+    "answer": 3
+  }
+]
 
   
   
@@ -3139,6 +4182,7 @@
   
         
     
+
 
 
 
