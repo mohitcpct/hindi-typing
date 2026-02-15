@@ -4170,6 +4170,1048 @@
     ],
     "answer": 3
   }
+],
+  "25th January 2026 - Shift1": [
+   {
+    "q": "The background screen and main area of Windows where you can open and manage files and programs is known as:",
+    "options": [
+      "1. Background",
+      "2. Wallpaper",
+      "3. Desktop",
+      "4. Taskbar"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "बैकग्राउंड स्क्रीन और विंडोज़ का वह मुख्य क्षेत्र जहाँ आप फ़ाइलों और प्रोग्रामों को खोल और प्रबंधित कर सकते हैं, क्या कहलाता है?",
+    "options": [
+      "1. बैकग्राउंड (Background)",
+      "2. वॉलपेपर (Wallpaper)",
+      "3. डेस्कटॉप (Desktop)",
+      "4. टास्कबार (Taskbar)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is a powerful type of personal computer favoured by professionals such as engineers?",
+    "options": [
+      "1. Super computer",
+      "2. Workstation",
+      "3. Mainframe",
+      "4. Smartphone"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्न में से कौन सा वह शक्तिशाली कंप्यूटर है जिसका उपयोग इंजीनियर जैसे पेशेवरों द्वारा किया जाता है?",
+    "options": [
+      "1. सुपर कंप्यूटर (Super computer)",
+      "2. वर्कस्टेशन (Workstation)",
+      "3. मेनफ्रेम (Mainframe)",
+      "4. स्मार्टफोन (Smartphone)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In the Backstage view of an application, which command is used to access the program’s specific settings and customization features?",
+    "options": [
+      "1. Recent",
+      "2. Info",
+      "3. Options",
+      "4. Help"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "किसी एप्लिकेशन के बैकस्टेज दृश्य में, प्रोग्राम की विशिष्ट सेटिंग्स और अनुकूलन सुविधाओं तक पहुंचने के लिए किस कमांड का उपयोग किया जाता है?",
+    "options": [
+      "1. रिसेंट (Recent)",
+      "2. इन्फ़ो (Info)",
+      "3. ऑप्शंस (Options)",
+      "4. हेल्प (Help)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following toolbars is available at the top of all Calc screens in an OpenOffice?",
+    "options": [
+      "1. Windows Toolbar",
+      "2. Tools Toolbar",
+      "3. Table Toolbar",
+      "4. Formula Toolbar"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "ओपन ऑफिस (OpenOffice) में सभी कैल्क (Calc) स्क्रीनों के शीर्ष पर निम्न में से कौन सा टूलबार मौजूद होता है?",
+    "options": [
+      "1. विंडोज़ टूलबार (Windows Toolbar)",
+      "2. टूल्स टूलबार (Tools Toolbar)",
+      "3. टेबल टूलबार (Table Toolbar)",
+      "4. फ़ॉर्मूला टूलबार (Formula Toolbar)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is/are true with reference to types of operating systems? <br> <br>(i) Multithreading is an extension of multitasking. <br>(ii) In Multitasking, tasks share a common resource.",
+    "options": [
+      "1. Only (i)",
+      "2. Both (i) and (ii)",
+      "3. Only (ii)",
+      "4. Neither (i) nor (ii)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ऑपरेटिंग सिस्टम के प्रकारों के संदर्भ में निम्नलिखित में से क्या सही है? <br> <br>(i) मल्टीथ्रेडिंग, मल्टीटास्किंग का एक एक्स्टेंशन है। <br> (ii) मल्टीटास्किंग में टास्क, कॉमन रिसोर्स साझा करते हैं।",
+    "options": [
+      "1. केवल (i)",
+      "2. (i) और (ii) दोनों",
+      "3. केवल (ii)",
+      "4. न तो (i) और न ही (ii)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the World Wide Web?",
+    "options": [
+      "1. A software program",
+      "2. A computer game",
+      "3. It is a system of interconnected public webpages accessible through the Internet",
+      "4. Another name for the intranet"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "वर्ल्ड वाइड वेब (world wide web) क्या है?",
+    "options": [
+      "1. एक सॉफ्टवेयर प्रोग्राम",
+      "2. एक कंप्यूटर गेम",
+      "3. यह इंटरनेट के माध्यम से सुलभ परस्पर जुड़े सार्वजनिक वेबपृष्ठों की एक प्रणाली है",
+      "4. इंट्रा नेट का एक अन्य नाम"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A ______ is a concentric ring in a hard disk.",
+    "options": [
+      "1. round",
+      "2. sector",
+      "3. port",
+      "4. track"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "____________ हार्ड डिस्क का एक संकेंद्रिक रिंग होता है।",
+    "options": [
+      "1. राउंड (round)",
+      "2. सेक्टर (sector)",
+      "3. पोर्ट (port)",
+      "4. ट्रैक (track)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "R is a programming language and software environment for ______ analysis, graphics representation and reporting.",
+    "options": [
+      "1. statistical",
+      "2. dance",
+      "3. input",
+      "4. CPU"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "R एक प्रोग्रामिंग भाषा और सॉफ़्टवेयर वातावरण है ______ विश्लेषण, ग्राफ़िक्स प्रतिनिधित्व और रिपोर्टिंग के लिए।",
+    "options": [
+      "1. सांख्यिकीय (statistical)",
+      "2. नृत्य (dance)",
+      "3. इनपुट (input)",
+      "4. सीपीयू (CPU)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Ubuntu Software Center showcases all the software available for the Ubuntu system. You can either search for an application by its name or just browse through various categories of software. Ubuntu Software Center is similar to:",
+    "options": [
+      "1. Ubuntu desktop",
+      "2. Ubuntu applications",
+      "3. Google’s Play Store or Apple’s App Store",
+      "4. Ubuntu guide"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Ubuntu सॉफ्टवेयर सेंटर, Ubuntu सिस्टम के लिए उपलब्ध समस्‍त सॉफ्टवेयर दर्शाता है। आप या तो उसके नाम से किसी एप्लिकेशन की खोज कर सकते हैं या केवल सॉफ्टवेयर की विभिन्न श्रेणियों के माध्यम से ब्राउज़ कर सकते हैं। Ubuntu सॉफ्टवेयर सेंटर निम्नलिखित में से किसके समान होता है?",
+    "options": [
+      "1. Ubuntu डेस्कटॉप",
+      "2. Ubuntu एप्लिकेशन",
+      "3. गूगल प्ले स्टोर या एपल ऐप स्टोर",
+      "4. Ubuntu गाइड"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is NOT a valid category of computer networks?",
+    "options": [
+      "1. Classification by Network Architecture",
+      "2. Classification By Geographical Spread",
+      "3. Classification by Network Topologies",
+      "4. Classification by Network router"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन सी कंप्यूटर नेटवर्क की मान्य श्रेणी (category) नहीं है?",
+    "options": [
+      "1. नेटवर्क आर्किटेक्चर द्वारा वर्गीकरण (Classification by Network Architecture)",
+      "2. भौगोलिक प्रसार द्वारा वर्गीकरण (Classification By Geographical Spread)",
+      "3. नेटवर्क टोपोलॉजी द्वारा वर्गीकरण (Classification by Network Topologies)",
+      "4. नेटवर्क राउटर द्वारा वर्गीकरण (Classification by Network router)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In data encryption, the unreadable form of data is called:",
+    "options": [
+      "1. Ciphertext",
+      "2. Plaintext",
+      "3. Encoded text",
+      "4. Binary text"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "डेटा एन्क्रिप्शन में, डेटा के अपठनीय रूप को ___________ कहा जाता है।",
+    "options": [
+      "1. सिफर टेक्स्ट (Ciphertext)",
+      "2. प्लेन टेक्स्ट (Plaintext)",
+      "3. एन्‍कोडेड टेक्स्ट (Encoded text)",
+      "4. बाइनरी टेक्स्ट (Binary text)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A webcam is a(n):",
+    "options": [
+      "1. analog video device",
+      "2. digital video device",
+      "3. analog audio device",
+      "4. digital audio device"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "वेबकैम एक __________ है।",
+    "options": [
+      "1. एनालॉग वीडियो डिवाइस (analog video device)",
+      "2. डिजिटल वीडियो डिवाइस (digital video device)",
+      "3. एनालॉग ऑडियो डिवाइस (analog audio device)",
+      "4. डिजिटल ऑडियो डिवाइस (digital audio device)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Select the correct statement regarding a quad-core processor.",
+    "options": [
+      "1. There are eight separate processors functioning in the same package",
+      "2. There are two separate processors functioning in the same package",
+      "3. There are three separate processors functioning in the same package",
+      "4. There are four separate processors functioning in the same package"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "क्वाड-कोर प्रोसेसर से संबंधित सही कथन का चयन कीजिए।",
+    "options": [
+      "1. इसमें एक ही पैकेज में आठ भिन्न-भिन्न प्रोसेसर काम करते हैं",
+      "2. इसमें एक ही पैकेज में दो भिन्न-भिन्न प्रोसेसर काम करते हैं",
+      "3. इसमें एक ही पैकेज में तीन भिन्न-भिन्न प्रोसेसर काम करते हैं",
+      "4. इसमें एक ही पैकेज में चार भिन्न-भिन्न प्रोसेसर काम करते हैं"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "______ is a software library or framework, designed by the Google team to implement machine learning and deep learning concepts in the easiest manner.",
+    "options": [
+      "1. TensorFlow",
+      "2. Android",
+      "3. PySift",
+      "4. PyTorch"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "________ एक सॉफ्टवेयर लाइब्रेरी या फ्रेमवर्क है, जिसे Google टीम द्वारा मशीन लर्निंग और डीप लर्निंग कॉन्सेप्ट को सबसे आसान तरीके से लागू करने के लिए डिज़ाइन किया गया है।",
+    "options": [
+      "1. TensorFlow",
+      "2. Android",
+      "3. PySift",
+      "4. PyTorch"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ is one of the alternatives to MS-Excel.",
+    "options": [
+      "1. LibreOffice Writer",
+      "2. Google Sheets",
+      "3. Google Keep",
+      "4. Mi Notes"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel के विकल्पों में से एक______ है।",
+    "options": [
+      "1. लिब्रे ऑफिस राइटर (LibreOffice Writer)",
+      "2. गूगल शीट्स (Google Sheets)",
+      "3. गूगल कीप (Google Keep)",
+      "4. Mi नोट्स (Mi Notes)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "An MS-Excel file CANNOT be directly exported as ________.",
+    "options": [
+      "1. CSV",
+      "2. PDF",
+      "3. PPT",
+      "4. TXT"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel फ़ाइल को सीधे ________ के रूप में निर्यात नहीं किया जा सकता है।",
+    "options": [
+      "1. CSV",
+      "2. PDF",
+      "3. PPT",
+      "4. TXT"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "C-DAC, Centre for Development of Advanced Computing, India is famous for developing a Super Computer named:",
+    "options": [
+      "1. PARAM",
+      "2. Fugaku",
+      "3. Selene",
+      "4. Tianhe-2A"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "C-DAC, सेंटर फॉर डेवलपमेंट ऑफ एडवांस्ड कंप्यूटिंग, भारत एक सुपरकंप्यूटर विकसित करने के लिए प्रसिद्ध है जिसका नाम ________ है।",
+    "options": [
+      "1. PARAM",
+      "2. Fugaku",
+      "3. Selene",
+      "4. Tianhe-2A"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "An example of e-commerce Internet application is:",
+    "options": [
+      "1. Gmail",
+      "2. Amazon",
+      "3. Wikipedia",
+      "4. Zoom"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ई-कॉमर्स इंटरनेट एप्लिकेशन का एक उदाहरण ______________ है।",
+    "options": [
+      "1. Gmail (जीमेल)",
+      "2. Amazon (अमेज़न)",
+      "3. Wikipedia (विकिपीडिया)",
+      "4. Zoom (ज़ूम)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Raspberry Pi can be used in Internet applications mainly under the domain of:",
+    "options": [
+      "1. Offline desktop publishing",
+      "2. Video games",
+      "3. Internet of Things (IoT)",
+      "4. Graphic designing"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "रास्पबेरी पाई (Raspberry Pi) का उपयोग मुख्यतः ______________ डोमेन में इंटरनेट अनुप्रयोगों में किया जा सकता है।",
+    "options": [
+      "1. ऑफलाइन डेस्कटॉप पब्लिशिंग [Offline desktop publishing]",
+      "2. वीडियो गेम्स [Video games]",
+      "3. इंटरनेट ऑफ थिंग्स (IoT) [Internet of Things (IoT)]",
+      "4. ग्राफिक डिज़ाइनिंग [Graphic designing]"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In E-governance, E stands for:",
+    "options": [
+      "1. Excellent",
+      "2. Enhanced",
+      "3. Extensible",
+      "4. Electronic"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "ई-गवर्नेंस (E-governance) में 'E' का क्या अर्थ है?",
+    "options": [
+      "1. एक्सीलेंट (Excellent)",
+      "2. एन्हांस्ड (Enhanced)",
+      "3. एक्सटेंसिटें बल (Extensible)",
+      "4. इलेक्ट्रॉ निक (Electronic)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Select the binary equivalent of decimal 19.",
+    "options": [
+      "1. 11000",
+      "2. 10011",
+      "3. 10101",
+      "4. 11001"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "दशमलव संख्या 19 का बाइनरी समतुल्य क्या होगा?",
+    "options": [
+      "1. 11000",
+      "2. 10011",
+      "3. 10101",
+      "4. 11001"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a native Linux file system?",
+    "options": [
+      "1. FAT",
+      "2. NFS",
+      "3. Ext 2 & Ext3",
+      "4. FAT32"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्न में से कौन सा एक नेटिव लिनक्स फ़ाइल सिस्टम है?",
+    "options": [
+      "1. FAT",
+      "2. NFS",
+      "3. Ext 2 & Ext3",
+      "4. FAT32"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is a cabinet file that stores compressed files in a file library in Windows 11 OS?",
+    "options": [
+      "1. .cabinet",
+      "2. .cat",
+      "3. .cabi",
+      "4. .cab"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन सी कैबिनेट फ़ाइल है जो Windows 11 OS में फ़ाइल लाइब्रेरी में संपीड़ित फ़ाइलों को संग्रहीत करती है?",
+    "options": [
+      "1. .cabinet",
+      "2. .cat",
+      "3. .cabi",
+      "4. .cab"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A file with the ____________file extension is a Chromium extension used to extend the functionality of a compatible browser, like Google Chrome or Microsoft Edge, through programs that add additional features to the default browsing experience.",
+    "options": [
+      "1. .crx",
+      "2. .cr",
+      "3. .crome",
+      "4. .cx"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "____________फ़ाइल एक्सटेंशन वाली फ़ाइल एक क्रोमियम एक्सटेंशन है जिसका उपयोग Google Chrome या Microsoft Edge जैसे संगत ब्राउज़र की कार्यक्षमता को बढ़ाने के लिए किया जाता है, उन प्रोग्रामों के माध्यम से जो डिफ़ॉल्ट ब्राउज़िंग अनुभव में अतिरिक्त सुविधाएँ जोड़ते हैं।",
+    "options": [
+      "1. .crx",
+      "2. .cr",
+      "3. .crome",
+      "4. .cx"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Quantisation makes a signal truly ______.",
+    "options": [
+      "1. DC",
+      "2. AC",
+      "3. digital",
+      "4. analog"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "परिमाणीकरण (Quantisation) किसी सिग्नल को पूर्णतः ________ सिग्नल में परिवर्तित कर देता है।",
+    "options": [
+      "1. DC",
+      "2. AC",
+      "3. डिजिटल",
+      "4. एनालॉग"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Select the binary equivalent of the hexadecimal number 3D.",
+    "options": [
+      "1. 100001",
+      "2. 101010",
+      "3. 110010",
+      "4. 00111101"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "हेक्साडेसीमल संख्या 3D का बाइनरी समतुल्य क्या होगा?",
+    "options": [
+      "1. 100001",
+      "2. 101010",
+      "3. 110010",
+      "4. 00111101"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What must be done to use a compressed file again in Windows 11?",
+    "options": [
+      "1. Extract it",
+      "2. Rename it",
+      "3. Delete it",
+      "4. Copy it"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "विंडोज 11 में कंप्रेस्ड फ़ाइल को दोबारा इस्तेमाल करने के लिए क्या करना होगा?",
+    "options": [
+      "1. उसे एक्सट्रैक्ट करें",
+      "2. उसका नाम बदलें",
+      "3. उसे डिलीट करें",
+      "4. उसे कॉपी करें"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Internet access by transmitting digital data over the wires of a local telephone network is provided by:",
+    "options": [
+      "1. digital signal line",
+      "2. digital subscriber line",
+      "3. satellite Internet",
+      "4. operator line"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "स्थानीय टेलीफोन नेटवर्क के तारों से डिजिटल डेटा संचारित करके इंटरनेट का एक्सेस निम्न में से किसके द्वारा प्रदान किया जाता है?",
+    "options": [
+      "1. डिजिटल सिग्नल लाइन (digital signal line)",
+      "2. डिजिटल सब्स्क्राइबर लाइन (digital subscriber line)",
+      "3. सैटेलाइट इंटरनेट (satellite Internet)",
+      "4. ऑपरेटर लाइन (operator line)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "With reference to networks, VPN stands for:",
+    "options": [
+      "1. Value Public Network",
+      "2. Value Private Network",
+      "3. Virtual Public Network",
+      "4. Virtual Private Network"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "नेटवर्क के संदर्भ में, VPN का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Value Public Network (वैल्यू पब्लिक नेटवर्क)",
+      "2. Value Private Network (वैल्यू प्राइवेट नेटवर्क)",
+      "3. Virtual Public Network (वर्चुअल पब्लिक नेटवर्क)",
+      "4. Virtual Private Network (वर्चुअल प्राइवेट नेटवर्क)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Select the function in MS-Excel 2019 that returns the average (arithmetic mean) of all the cells in a range that meet a given criteria.",
+    "options": [
+      "1. AVERAGEIF function",
+      "2. AVERAGEIFD function",
+      "3. AVERAGEA function",
+      "4. AVERAGE function"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में वह फ़ंक्शन चुनें जो किसी रेंज में सभी सेल्‍स (cells) का औसत (समांतर माध्य) देता है जो दिए गए मानदंडों को पूरा करते हैं।",
+    "options": [
+      "1. AVERAGEIF फंक्शन",
+      "2. AVERAGEIFS फंक्शन",
+      "3. AVERAGEA फंक्शन",
+      "4. AVERAGE फंक्शन"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "While setting up a computer, the speakers or headphone should be connected to which colour port?",
+    "options": [
+      "1. Pink",
+      "2. Green",
+      "3. Purple",
+      "4. Blue"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कंप्यूटर की सेटिंग के दौरान स्पीकर या हेडफोन को निम्न में से किस रंग के पोर्ट से जोड़ना चाहिए?",
+    "options": [
+      "1. गुलाबी",
+      "2. हरा",
+      "3. बैंगनी",
+      "4. नीला"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a function of an operating system that monitors overall system health to help improve performance?",
+    "options": [
+      "1. File management",
+      "2. Memory management",
+      "3. Control over system performance",
+      "4. Device management"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "ऑपरेटिंग सिस्टम का वह कार्य निम्नलिखित में से कौन सा है जो संपूर्ण सिस्टम की सेहत की निगरानी करता है और इसके प्रदर्शन को बेहतर बनाने में सहायक होता है?",
+    "options": [
+      "1. फ़ाइल प्रबंधन (File management)",
+      "2. मेमोरी प्रबंधन (Memory management)",
+      "3. सिस्टम के प्रदर्शन पर नियंत्रण (Control over system performance)",
+      "4. डिवाइस प्रबंधन (Device management)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is a BD-R disc used for?",
+    "options": [
+      "1. Writing once",
+      "2. Writing multiple times only",
+      "3. Erasing multiple times only",
+      "4. Writing and erasing multiple times"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "BD-R डिस्क का उपयोग किस लिए किया जाता है?",
+    "options": [
+      "1. केवल एक बार लिखने के लिए",
+      "2. केवल अनेक बार लिखने के लिए",
+      "3. केवल अनेक बार मिटाने के लिए",
+      "4. अनेक बार लिखने और अनेक बार मिटाने के लिए"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What are the shortcut keys in MS-Word 2019 to activate/deactivate the Show/Hide (¶) option?",
+    "options": [
+      "1. Ctrl + Shift + &",
+      "2. Ctrl + Shift + 8",
+      "3. Alt + *",
+      "4. Alt + Ctrl + &"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Word 2019 में, शो/हाइड (¶) के विकल्प को सक्रिय/निष्क्रिय करने के लिए की-बोर्ड शॉर्टकट क्या है?",
+    "options": [
+      "1. Ctrl + Shift + &",
+      "2. Ctrl + Shift + 8",
+      "3. Alt + *",
+      "4. Alt + Ctrl + &"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In a drum plotter, the size of a graph is limited by the ______ and can be of any length.",
+    "options": [
+      "1. bandwidth of the drum",
+      "2. height of the drum",
+      "3. width of the drum",
+      "4. weight of the drum"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "ड्रम प्लॉटर में, ग्राफ के आकार को ______ द्वारा सीमित किया जा सकता है, लेकिन इसकी लंबाई कितनी भी हो सकती है।",
+    "options": [
+      "1. ड्रम की बैंडविड्थ",
+      "2. ड्रम की ऊंचाई",
+      "3. ड्रम की चौड़ाई",
+      "4. ड्रम के भार"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A series of instructions that tells a computer what to do and how to do is called a:",
+    "options": [
+      "1. processor",
+      "2. Control Unit",
+      "3. user response",
+      "4. program"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निर्देशों की एक शृंखला, जो कंप्यूटर को बताती है कि उसे क्या करना है और कैसे करना है, ____________ कहलाती है।",
+    "options": [
+      "1. प्रोसेसर (processor)",
+      "2. कंट्रो ल यूनिट (Control Unit)",
+      "3. यूजर रेस्पॉन्स (user response)",
+      "4. प्रोग्राम (program)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Chain printer is a type of:",
+    "options": [
+      "1. laser printer",
+      "2. impact printer",
+      "3. inkjet printer",
+      "4. non-impact printer"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "चेन प्रिंटर, __________ का एक प्रकार है।",
+    "options": [
+      "1. लेज़र प्रिंटर (laser printer)",
+      "2. इम्पैक्ट प्रिंटर (impact printer)",
+      "3. इंकजेट प्रिंटर (inkjet printer)",
+      "4. नॉन-इम्पैक्ट प्रिंटर (non-impact printer)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following groups is found in the Insert tab of MS-Excel 2019?",
+    "options": [
+      "1. Font",
+      "2. Clipboard",
+      "3. Comments",
+      "4. Alignment"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा समूह MS-Excel 2019 के Insert टैब में पाया जाता है?",
+    "options": [
+      "1. फॉन्ट (Font)",
+      "2. क्लिपबोर्ड (Clipboard)",
+      "3. कमेंट्स (Comments)",
+      "4. अलाइनमेंट (Alignment)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is a Text function in MS-Excel 2019?",
+    "options": [
+      "1. NOW",
+      "2. AND",
+      "3. FALSE",
+      "4. CHAR"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा MS-Excel 2019 का एक टेक्स्ट फंक्शन है?",
+    "options": [
+      "1. NOW",
+      "2. AND",
+      "3. FALSE",
+      "4. CHAR"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following components is NOT necessary for a video conference call?",
+    "options": [
+      "1. Telephone",
+      "2. Microphone",
+      "3. Webcam",
+      "4. Speaker"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "वीडियो कॉन्फ्रेन्स कॉल के लिए निम्नलिखित में से कौन सा घटक होना आवश्यक नहीं है?",
+    "options": [
+      "1. टेलीफोन (Telephone)",
+      "2. माइक्रोफ़ोन (Microphone)",
+      "3. वेबकैम (Webcam)",
+      "4. स्पीकर (Speaker)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a two-way communication technology?",
+    "options": [
+      "1. Radio",
+      "2. Encyclopaedia",
+      "3. Video conferencing",
+      "4. Television"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्न में से कौन सा एक द्वि-मार्गी (two-way) संचार तकनीक है?",
+    "options": [
+      "1. रेडियो (Radio)",
+      "2. विश्वकोश (Encyclopaedia)",
+      "3. वीडियो कॉन्फ्रेन्सिंग (Video conferencing)",
+      "4. टेलीविज़न (Television)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "_______ is the command that must be entered by a user to change a router from User mode to Privileged mode.",
+    "options": [
+      "1. Disable",
+      "2. Disable user",
+      "3. Enable priv",
+      "4. enable"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "राउटर को यूजर मोड से प्रिविलेज्ड मोड में बदलने के लिए यूज़र द्वारा निम्न में से किस कमांड को एंटर किया जाना चाहिए?",
+    "options": [
+      "1. Disable (डिसेबल)",
+      "2. Disable user (डिसेबल यूजर)",
+      "3. Enable priv (इनेबल प्रिव)",
+      "4. enable (इनेबल)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which function in MS-Excel 2019 returns the number of columns in a reference?",
+    "options": [
+      "1. COLUMNS function",
+      "2. COLUMN function",
+      "3. COL function",
+      "4. COMBIN function"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में कौन सा फंक्शन किसी रेफरेंस में कॉलम की संख्या देता है?",
+    "options": [
+      "1. COLUMNS फंक्शन",
+      "2. COLUMN फंक्शन",
+      "3. COL फंक्शन",
+      "4. COMBIN फंक्शन"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The keyboard shortcut ‘Ctrl + Space bar’ is used in MS-Excel 2019 to select an entire:",
+    "options": [
+      "1. row",
+      "2. column",
+      "3. worksheet",
+      "4. cell"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 में, की-बोर्ड शॉर्टकट 'Ctrl + Space bar' का उपयोग संपूर्ण ___________ को सेलेक्‍ट करने के लिए किया जाता है।",
+    "options": [
+      "1. रो (row)",
+      "2. कॉलम (column)",
+      "3. वर्कशीट (worksheet)",
+      "4. सेल (cell)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following steps must be taken to set a Custom Cell border in MS-Excel 2019?",
+    "options": [
+      "1. Format Cells → Cell",
+      "2. Format Cells → Cell Styles",
+      "3. Format Cells → Font",
+      "4. Format Cells → Border"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel 2019 में, कस्टम सेल (Custom Cell) बॉर्डर सेट करने के लिए निम्न में से किन चरणों का उपयोग किया जाना चाहिए?",
+    "options": [
+      "1. फॉर्मेट सेल्स → सेल (Format Cells → Cell)",
+      "2. फॉर्मेट सेल्स → सेल स्टाइल्स (Format Cells → Cell Styles)",
+      "3. फॉर्मेट सेल्स → फॉन्ट (Format Cells → Font)",
+      "4. फॉर्मेट सेल्स → बॉर्डर (Format Cells → Border)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In MS-Excel 2019, the function =TODAY()+5 gives which of the following outputs?",
+    "options": [
+      "1. Current date + 5 days",
+      "2. Current date",
+      "3. Current date + 5 months",
+      "4. Current date + 5 years"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 का फंक्शन =TODAY()+5, निम्न में से कौन सा आउटपुट प्रदान करता है?",
+    "options": [
+      "1. वर्तमान तिथि+5 दिन (Current date+5 days)",
+      "2. वर्तमान तिथि (Current date)",
+      "3. वर्तमान तिथि+5 महीने (Current date+5 months)",
+      "4. वर्तमान तिथि+5 वर्ष (Current date+5 years)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is an example of a relative reference in MS-Excel?",
+    "options": [
+      "1. 5",
+      "2. B5",
+      "3. B",
+      "4. $B$5"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्न में से कौन सा MS-Excel के रिलेटिव रेफरेंस (relative reference) का एक उदाहरण है?",
+    "options": [
+      "1. 5",
+      "2. B5",
+      "3. B",
+      "4. $B$5"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following statements related to macros in MS-Excel 2019 is INCORRECT?",
+    "options": [
+      "1. The Macro feature of MS-Excel allows to repeat the set of commands or tasks performed by a user with a single click.",
+      "2. The Record Macro option changes to Stop Recording when you start the recording.",
+      "3. The Developer tab is available in the ribbon menu by default.",
+      "4. You can stop the macro recording from the status bar."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel 2019 में, मैक्रोज़ (macros) के संबंध में निम्नलिखित में से कौन सा कथन गलत है?",
+    "options": [
+      "1. MS-Excel का Macro फीचर एक क्लिक के द्वारा उपयोगकर्ता द्वारा निष्पादित कमांड या कार्यों के सेट को दोहराने की सुविधा देता है।",
+      "2. जब आप रिकॉर्डिंग शुरू करते हैं तो Record Macro विकल्प, Stop Recording में बदल जाता है।",
+      "3. रिबन मेनू में Developer टैब डिफ़ॉल्ट रूप से उपलब्ध होता है।",
+      "4. आप मैक्रो रिकॉर्डिंग को स्टेटस बार से रोक सकते हैं।"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following tabs in MS-Excel 2019 helps to add commands or a new tab in the ribbon menu?",
+    "options": [
+      "1. File",
+      "2. Design",
+      "3. View",
+      "4. Data"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 का निम्न में से कौन सा टैब, रिबन मेनू में कमांड या नया टैब जोड़ने में सहायता करता है?",
+    "options": [
+      "1. फ़ाइल (File)",
+      "2. डिज़ाइन (Design)",
+      "3. व्यू (View)",
+      "4. डेटा (Data)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_________ will freeze the top row that is visible and any others above it in an MS-Excel 2019 worksheet.",
+    "options": [
+      "1. Freeze First Column",
+      "2. Freeze Top Row",
+      "3. Unfreeze",
+      "4. Freeze"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "_________ MS-Excel 2019 वर्कशीट में दृश्यमान शीर्ष पंक्ति और उसके ऊपर की अन्य पंक्तियों को फ्रीज कर देगा।",
+    "options": [
+      "1. फ्रीज फर्स्ट कॉलम (Freeze first column)",
+      "2. फ्रीज टॉप रो (Freeze Top row)",
+      "3. अनफ्रीज (Unfreeze)",
+      "4. फ्रीज (Freeze)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The ______, also known as ROS, is a set of software libraries and tools that help you build robot applications.",
+    "options": [
+      "1. Robot Operation System",
+      "2. Real Operating System",
+      "3. Robot Operating System",
+      "4. Real Operation System"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "________, जिसे ROS के नाम से भी जाना जाता है, सॉफ्टवेयर लाइब्रेरी और टूल्स का एक सेट है जो आपको रोबोट एप्लिकेशन बनाने में मदद करता है।",
+    "options": [
+      "1. रोबोट ऑपरेशन सिस्टम (Robot Operation System)",
+      "2. रियल ऑपरेटिंग सिस्टम (Real Operating System)",
+      "3. रोबोट ऑपरेटिंग सिस्टम (Robot Operating System)",
+      "4. रियल ऑपरेशन सिस्टम (Real Operation System)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In MS-Excel 2019, to adjust column width automatically, _____________ is used.",
+    "options": [
+      "1. Autofill Window",
+      "2. Autosum Window",
+      "3. AutoFit Window",
+      "4. AutoFit Column Width"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel 2019 में, कॉलम की चौड़ाई को स्वचालित रूप से समायोजित करने के लिए, _________ का उपयोग किया जाता है।",
+    "options": [
+      "1. ऑटो फिल विंडो (Auto fill window)",
+      "2. ऑटोसम विंडो (Autosum window)",
+      "3. ऑटोफिट विंडो (AutoFit window)",
+      "4. ऑटोफिट कॉलम विड्थ (AutoFit Column Width)"
+    ],
+    "answer": 3
+  }
 ]
 
   
@@ -4182,6 +5224,7 @@
   
         
     
+
 
 
 
