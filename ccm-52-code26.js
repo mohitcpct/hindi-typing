@@ -6255,6 +6255,1049 @@
     ],
     "answer": 3
   }
+],
+
+  "29th January 2026 - Shift2": [
+  {
+    "q": "The ______ performs mathematical calculations for the CPU.",
+    "options": [
+      "1. ALU",
+      "2. DIMM",
+      "3. bus",
+      "4. register"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से क्या CPU के लिए गणितीय गणनाएं करने का काम करता है?",
+    "options": [
+      "1. ALU",
+      "2. DIMM",
+      "3. बस",
+      "4. रजिस्टर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ is an interpreted, object-oriented, high-level programming language.",
+    "options": [
+      "1. C",
+      "2. Python",
+      "3. Cobol",
+      "4. FORTRAN"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "_________ एक इंटरप्रेटेड,ऑब्जेक्ट ओरिएंटेड, हाई लेवल प्रोग्रामिंग लैंग्वेज़ है।",
+    "options": [
+      "1. C",
+      "2. पायथन",
+      "3. कोबोल",
+      "4. फोरट्रान"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In OpenOffice Calc, which function returns the nth largest value in a list of numbers?",
+    "options": [
+      "1. L VALUE",
+      "2. LARGEST",
+      "3. LARGE",
+      "4. V LARGEST"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "ओपन ऑफिस कैल्क ( OpenOffice Calc) का कौन सा फ़ंक्शन संखाओं की सूची में से n-th सबसे बड़ा मान देता है?",
+    "options": [
+      "1. L VALUE",
+      "2. LARGEST",
+      "3. LARGE",
+      "4. V LARGEST"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "______ allows all read and write operations to be performed by a laser beam.",
+    "options": [
+      "1. Flash memory",
+      "2. Magnetic storage devices",
+      "3. USB devices",
+      "4. Optical storage devices"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "________लेज़र बीम द्वारा की जाने वाली सभी रीड और राइट गतिविधियों को करने की अनुमति देती है।",
+    "options": [
+      "1. फ्लैश मेमोरी",
+      "2. मैग्नेटिक स्टोरेज डिवाइस",
+      "3. USB डिवाइस",
+      "4. ऑप्टिकल स्टोरेज डिवाइस"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following equipment is installed in a computer and allows the computer to connect to a network?",
+    "options": [
+      "1. Printer",
+      "2. Network Interface Card",
+      "3. Motherboard",
+      "4. Video card"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा उपकरण कंप्यूटर में इनस्टॉल किया जाता है और कंप्यूटर को किसी नेटवर्क से कनेक्‍ट होने में सक्षम बनाता है?",
+    "options": [
+      "1. प्रिंटर",
+      "2. नेटवर्क इंटरफेस कार्ड",
+      "3. मदरबोर्ड",
+      "4. वीडियो कार्ड"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following commands is used to go to the Design tab in MS Word 2019?",
+    "options": [
+      "1. Alt + H",
+      "2. Alt + F",
+      "3. Alt + G",
+      "4. Alt + N"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS Word 2019 में Design tab पर जाने के लिए निम्न में से कौन-सी कमांड का उपयोग किया जाता है?",
+    "options": [
+      "1. Alt + H",
+      "2. Alt + F",
+      "3. Alt + G",
+      "4. Alt + N"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following options in MS Word 2019 is used to change the structure and layout of pages in a document?",
+    "options": [
+      "1. Arrange",
+      "2. Styles",
+      "3. Editor",
+      "4. Page Setup"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Word 2019 में निम्नलिखित में से कौन-सा विकल्प किसी डॉक्यूमेंट में पृष्ठों की संरचना और लेआउट को बदलने के लिए उपयोग किया जाता है?",
+    "options": [
+      "1. अरेंज (Arrange)",
+      "2. स्टाइल्स (Styles)",
+      "3. एडिटर (Editor)",
+      "4. पेज सेटअप (Page Setup)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "State whether the following statements are true or false: <br> <br>I) Mail Merge is an appealing feature of MS PowerPoint. <br>II) The 'Justify' alignment distributes text evenly between the left and right margins in an MS Word document.",
+    "options": [
+      "1. I – False, II – True",
+      "2. I – True, II – True",
+      "3. I – True, II – False",
+      "4. I – False, II – False"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित कथनों के संबंध में बताइए कि वे सत्य हैं या असत्य: <br> <br> I) मेल मर्ज MS PowerPoint की एक आकर्षक विशेषता है। <br>II) 'जस्टिफाई' एलाइनमेंट MS Word दस्तावेज़ में टेक्स्ट को बाएँ और दाएँ मार्जिन के बीच समान रूप से वितरित करता है।",
+    "options": [
+      "1. I – असत्य, II – सत्य",
+      "2. I – सत्य, II – सत्य",
+      "3. I – सत्य, II – असत्य",
+      "4. I – असत्य, II – असत्य"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Identify the correct statement from the given options.",
+    "options": [
+      "1. MS Word does not support the mail-merge feature.",
+      "2. MS Word was developed by IBM.",
+      "3. MS Word is also called as 'word processor'.",
+      "4. MS Word was developed mainly for accounting purposes."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "दिए गए विकल्पों में से सही कथन को पहचानिए।",
+    "options": [
+      "1. MS Word मेल-मर्ज सुविधा का समर्थन नहीं करता है।",
+      "2. MS Word को IBM द्वारा विकसित किया गया था।",
+      "3. MS Word को वर्ड प्रोसेसर भी कहा जाता है।",
+      "4. MS Word को मुख्य रूप से लेखांकन (accounting) उद्देश्य के लिए विकसित किया गया था।"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following buttons is clicked to answer an email message?",
+    "options": [
+      "1. Answer button",
+      "2. Delete button",
+      "3. Forward button",
+      "4. Reply button"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "आप जब इंटरनेट पर प्राप्त ई-मेल संदेश का जवाब देना चाहते हैं, तो आप निम्न में से किस बटन पर क्लिक करते हैं?",
+    "options": [
+      "1. आन्सर बटन",
+      "2. डिलीट बटन",
+      "3. फॉरवर्ड बटन",
+      "4. रिप्लाई बटन"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "SCSI is an interface for disk drives, and it stands for:",
+    "options": [
+      "1. Small Computer System Interface",
+      "2. Small Computer System Integration",
+      "3. Simple Computer System Interface",
+      "4. Small Computer Socket Interface"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "SCSI डिस्क ड्रा इव के लिए एक इंटरफ़ेस है, और इसका पूर्ण रूप ___________________ होता है।",
+    "options": [
+      "1. Small Computer System Interface (स्मॉल कंप्यूटर सिस्टम इंटरफ़ेस)",
+      "2. Small Computer System Integration (स्मॉल कंप्यूटर सिस्टम इंटीग्रेशन)",
+      "3. Simple Computer System Interface (सिंपल कंप्यूटर सिस्टम इंटरफ़ेस)",
+      "4. Small Computer Socket Interface (स्मॉल कंप्यूटर सॉकेट इंटरफ़ेस)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_____________ is an electronic power supply that uses a switching regulator to convert electrical power efficiently in a computer.",
+    "options": [
+      "1. SCSI",
+      "2. SMPS",
+      "3. GPS",
+      "4. NIC"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "_____________ एक इलेक्ट्रॉ निक पावर सप्‍लाई (electronic power supply) है जो कंप्यूटर में विद्युत शक्ति (electrical power) को कुशलतापूर्वक परिवर्तित करने के लिए एक स्विचिंग रेगुलेटर का उपयोग करती है।",
+    "options": [
+      "1. SCSI",
+      "2. SMPS",
+      "3. GPS",
+      "4. NIC"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "After switching on, the process to bring the operating system from Hard Disk to memory is called:",
+    "options": [
+      "1. Executing",
+      "2. Searching",
+      "3. Browsing",
+      "4. Booting"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "स्विच ऑन करने के बाद ऑपरेटिंग सिस्टम को हार्ड डिस्क से मेमोरी में लाने की प्रक्रिया ___________ कहलाती है।",
+    "options": [
+      "1. एक्सीक्यूटिंग (Executing)",
+      "2. सर्चिंग (Searching)",
+      "3. ब्राउज़िंग (Browsing)",
+      "4. बूटिंग (Booting)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "For a printer, the higher the Dots Per Inch (DPI) the ________ the image.",
+    "options": [
+      "1. Sharper",
+      "2. Smaller",
+      "3. Larger",
+      "4. Longer"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एक प्रिंटर के लिए, डॉट्स प्रति इंच (DPI) जितना अधिक होगा, इमेज उतनी _________ होगी।",
+    "options": [
+      "1. शार्पर",
+      "2. छोटी",
+      "3. बड़ी",
+      "4. लंबी"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following commands is used to open Disk Cleanup in the Windows 8 operating system?",
+    "options": [
+      "1. clean.mgr",
+      "2. cleanmgr.exe",
+      "3. clean_mgr",
+      "4. cleanmgr.cpl"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Windows 8 ऑपरेटिंग सिस्टम में डिस्क क्लीनअप खोलने के लिए किस कमांड का उपयोग किया जाता है?",
+    "options": [
+      "1. clean.mgr",
+      "2. cleanmgr.exe",
+      "3. clean_mgr",
+      "4. cleanmgr.cpl"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ is a lower-resolution form of video encoding.",
+    "options": [
+      "1. BMP",
+      "2. GIF",
+      "3. CIF",
+      "4. WAV"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "______, वीडियो एन्कोडिंग का लोअर-रिज़ॉल्यूशन फॉर्म (lower-resolution form) है।",
+    "options": [
+      "1. BMP",
+      "2. GIF",
+      "3. CIF",
+      "4. WAV"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is the most common image file types?",
+    "options": [
+      "1. Jpeg",
+      "2. doc",
+      "3. Pdf",
+      "4. Txt"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा सबसे सामान्य छवि (image) फ़ाइल प्रकार है?",
+    "options": [
+      "1. Jpeg",
+      "2. doc",
+      "3. Pdf",
+      "4. Txt"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a type of software used to manage the printing process in computers?",
+    "options": [
+      "1. Job queue",
+      "2. Print spooler",
+      "3. Task queue",
+      "4. Job spooler"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा सॉफ्टवेयर कंप्यूटर पर मुद्रण प्रक्रिया को प्रबंधित करने के लिए उपयोग किया जाने वाला एक प्रकार का सॉफ्टवेयर है?",
+    "options": [
+      "1. जॉब क्यू",
+      "2. प्रिंट स्पूलर",
+      "3. टास्क क्यू",
+      "4. जॉब स्पूलर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following antivirus is a powerful tool that finds and removes malware from your PC in Windows 11?",
+    "options": [
+      "1. Diskcleanup",
+      "2. Microsoft scanner",
+      "3. Microsoft Defender",
+      "4. Disk fragmentor"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा एंटीवायरस एक शक्तिशाली उपकरण है जो विंडोज 11 में आपके पीसी (PC) से मैलवेयर ढूंढता है और हटाता है?",
+    "options": [
+      "1. डिस्कक्लीनअप (Diskcleanup)",
+      "2. माइक्रोसॉफ्ट स्कैनर (Microsoft scanner)",
+      "3. माइक्रोसॉफ्ट डिफेंडर (Microsoft Defender)",
+      "4. डिस्क फ्रॅग्मेंटर (Disk fragmentor)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is malicious software that enters a user’s computer, gathers data from the device and user, and sends it to third parties without their consent?",
+    "options": [
+      "1. Gateway",
+      "2. Firewall",
+      "3. Adware",
+      "4. Spyware"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा मेलिसियस (malicious) सॉफ़्टवेयर है जो उपयोगकर्ता के कंप्यूटर में प्रवेश करता है, डिवाइस और उपयोगकर्ता से डेटा एकत्र करता है, और उनकी सहमति के बिना इसे तीसरे पक्ष (third parties) को भेजता है?",
+    "options": [
+      "1. गेटवे (Gateway)",
+      "2. फ़ायरवॉल (Firewall)",
+      "3. एडवेयर (Adware)",
+      "4. स्पाइवेयर (Spyware)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The vast network of computers that connects millions of people all over the world is called the _________.",
+    "options": [
+      "1. LAN",
+      "2. Internet",
+      "3. Web",
+      "4. Hypertext"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कंप्यूटरों का विस्तृत नेटवर्क, जिसके अंतर्गत दुनियाभर के लाखों लोग जुड़े होते हैं, उसे_________ कहा जाता हैं।",
+    "options": [
+      "1. LAN",
+      "2. इंटरनेट",
+      "3. वेब",
+      "4. हाइपरटेक्स्ट"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The internet is a system of _________.",
+    "options": [
+      "1. webpages",
+      "2. software",
+      "3. interconnected networks",
+      "4. websites"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "इंटरनेट _______ की एक प्रणाली है।",
+    "options": [
+      "1. वेब पेज",
+      "2. सॉफ़्टवेयर",
+      "3. इंटरकनेक्टेड नेटवर्क्स",
+      "4. वेबसाइट"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The value of the MS Excel 2019 expression '=AVERAGE(SUM(1,2), SUM(2,3))' is:",
+    "options": [
+      "1. Error",
+      "2. 0",
+      "3. 8",
+      "4. 4"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel 2019 व्यंजक '=AVERAGE(SUM(1,2), SUM(2,3))' का मान क्‍या है?",
+    "options": [
+      "1. Error",
+      "2. 0",
+      "3. 8",
+      "4. 4"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "State whether the following statements are True or False? <br> <br> I) PPI stands for Pixels Per Inch of a digital image. <br>II) DPI is generally used to measure the resolution of printed document.",
+    "options": [
+      "1. I-True, II-True",
+      "2. I-False, II-False",
+      "3. I-True, II-False",
+      "4. I-False, II-True"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "बताएँ कि निम्नलिखित कथन सत्य हैं या असत्य? <br> <br>I) PPI का अर्थ है डिजिटल इमेज का पिक्सेल प्रति इंच। <br> II) DPI का उपयोग आम तौर पर मुद्रित दस्तावेज़ के रिज़ॉल्यूशन को मापने के लिए किया जाता है।",
+    "options": [
+      "1. I-सत्य, II-सत्य",
+      "2. I-असत्य , II-असत्य",
+      "3. I-सत्य , II-असत्य",
+      "4. I-असत्य , II-सत्य"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_________ helps to eliminate software conflicts that occur when you install a program or update or when you run a program in Windows.",
+    "options": [
+      "1. Shut down",
+      "2. A reboot",
+      "3. A clean boot",
+      "4. The task manager"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "जब आप कोई प्रोग्राम इनस्टॉल करते हैं या अपग्रेड करते हैं या जब आप विन्डोज़ में कोई प्रोग्राम चलाते हैं तो _________, सॉफ़्टवेयर कॉन्फ्लिक्ट्स को दूर करने में सहायता करता है।",
+    "options": [
+      "1. शट डाउन",
+      "2. रिबूट",
+      "3. क्लीन बूट",
+      "4. टास्क मेनेजर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following key along with combination of other keys can be used in Windows 11 to resize and arrange windows on computer?",
+    "options": [
+      "1. Tab",
+      "2. Enter",
+      "3. Shift",
+      "4. Windows key"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सी कुंजी (key) अन्य कुंजियों के संयोजन के साथ विंडोज 11 में कंप्यूटर पर विंडोज़ का आकार बदलने और व्यवस्थित करने के लिए उपयोग की जा सकती है?",
+    "options": [
+      "1. टॅब (Tab)",
+      "2. एंटर (Enter)",
+      "3. शिफ्ट (Shift)",
+      "4. विंडोज की (Windows key)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following keyboard shortcuts is used to add a bookmark of the page currently opened in Chrome browser?",
+    "options": [
+      "1. Ctrl + D",
+      "2. Ctrl + B",
+      "3. Alt + B",
+      "4. Ctrl + M"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा कीबोर्ड शॉर्टकट क्रोम ब्राउज़र में वर्तमान खुले हुए पेज को बुकमार्क में जोड़ने के लिए उपयोग किया जाता है?",
+    "options": [
+      "1. Ctrl + D",
+      "2. Ctrl + B",
+      "3. Alt + B",
+      "4. Ctrl + M"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the full form of PDF?",
+    "options": [
+      "1. Portable Data Format",
+      "2. Portable Document Format",
+      "3. Partial Data File",
+      "4. Portable Document File"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "PDF का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Portable Data Format (पोर्टेबल डेटा फॉर्मेट)",
+      "2. Portable Document Format (पोर्टेबल डॉक्यूमेंट फॉर्मेट)",
+      "3. Partial Data File (पार्शियल डेटा फाइल)",
+      "4. Portable Document File (पोर्टेबल डॉक्यूमेंट फाइल)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "________ introduced the concept of 'stored program computer'.",
+    "options": [
+      "1. Bill Gates",
+      "2. Charles Babbage",
+      "3. Alan Turing",
+      "4. John Von Neumann"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "________ ने \"स्टोर्ड प्रोग्राम कंप्यूटर\" की संकल्पना शुरू की।",
+    "options": [
+      "1. बिल गेट्स",
+      "2. चार्ल्स बैबेज",
+      "3. एलन ट्यूरिंग",
+      "4. जॉन वॉन न्यूमैन"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following protocols is the foundation for WWW?",
+    "options": [
+      "1. HTTP",
+      "2. W3",
+      "3. FTP",
+      "4. Telnet"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा प्रोटोकॉल WWW का आधार है?",
+    "options": [
+      "1. HTTP",
+      "2. W3",
+      "3. FTP",
+      "4. Telnet"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following statements is/are FALSE? <br> <br>(i) HTTPS is the secured version of HTTP. <br> (ii) HTTPS protocol uses Transport Layer Security (TLS).",
+    "options": [
+      "1. Only (i)",
+      "2. Neither (i) nor (ii)",
+      "3. Only (ii)",
+      "4. Both (i) and (ii)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा/से कथन असत्य है/हैं? <br> <br> (i) HTTPS, HTTP का सुरक्षित संस्करण है। <br>(ii) HTTPS प्रोटोकॉल ट्रां सपोर्ट लेयर सिक्योरिटी (TLS) का उपयोग करता है।",
+    "options": [
+      "1. केवल (i)",
+      "2. न तो (i) और न ही (ii)",
+      "3. केवल (ii)",
+      "4. (i) और (ii) दोनों"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The technology established for processing cheques in banks is:",
+    "options": [
+      "1. Codabar",
+      "2. Data Matrix",
+      "3. MICR",
+      "4. PDF417"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "चेक (cheque) प्रोसेसिंग के लिए बैंकों द्वारा किस तकनीक का उपयोग किया जाता है?",
+    "options": [
+      "1. कोडबार",
+      "2. डेटा मैट्रिक्स",
+      "3. MICR",
+      "4. PDF417"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Using 8-bit address lines, up to _________ memory locations can be addressed in a computer system.",
+    "options": [
+      "1. 256",
+      "2. 8",
+      "3. 32",
+      "4. 128"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "8-बिट एड्रेस लाइनों का उपयोग करके, कंप्यूटर सिस्टम में _________ मेमोरी स्थानों तक को एड्रेस किया जा सकता है।",
+    "options": [
+      "1. 256",
+      "2. 8",
+      "3. 32",
+      "4. 128"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In a Blu-ray disc, Long Distance Code which is used to protect user data of Error Correction Block has _________ code words.",
+    "options": [
+      "1. 330",
+      "2. 304",
+      "3. 320",
+      "4. 216"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ब्लू-रे डिस्क में, लॉन्ग डिस्टेंस कोड जिसका उपयोग त्रुटि सुधार ब्लॉक के उपयोगकर्ता डेटा की सुरक्षा के लिए किया जाता है, में _________ कोड शब्द होते हैं।",
+    "options": [
+      "1. 330",
+      "2. 304",
+      "3. 320",
+      "4. 216"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Identify whether the given statements related to the characteristics of a computer are true or false. <br> <br>a) Power of memory: A computer can remember data for us. <br>b) No Intelligence Quotient (IQ): A computer does not work without instruction.",
+    "options": [
+      "1. a)False, b)False",
+      "2. a)True, b)False",
+      "3. a)True, b)True",
+      "4. a) False, b)True"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निर्धारित कीजिए कि कंप्यूटर की विशेषताओं से संबंधित दिए गए कथन सही हैं या गलत। <br> <br>a) मेमोरी की शक्ति: कंप्यूटर हमारे लिए डेटा याद रख सकता है। <br> b) बुद्धि लब्धि रहित (IQ): कंप्यूटर बिना निर्देश के काम नहीं करता है।",
+    "options": [
+      "1. a)गलत, b)गलत",
+      "2. a)सही, b)गलत",
+      "3. a)सही, b)सही",
+      "4. a) गलत, b)सही"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following characteristics of a computer is described in the given statement?<br><br> 'A computer is capable of performing different kinds of works with same accuracy and efficiency.'",
+    "options": [
+      "1. Correctness",
+      "2. Reliability",
+      "3. Perfectness",
+      "4. Versatility"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "दिए गए कथन में कंप्यूटर की निम्नलिखित में से कौन सी विशेषता का वर्णन किया गया है? <br><br>'कंप्यूटर विभिन्न प्रकार के कार्यों को समान सटीकता और दक्षता के साथ करने में सक्षम है।'",
+    "options": [
+      "1. सटीकता (Correctness)",
+      "2. विश्वसनीयता (Reliability)",
+      "3. पूर्णता (Perfectness)",
+      "4. वैविध्यपूर्णता (Versatility)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Identify whether the given statements are true or false with reference to computer memory. <br><br>a) RAM is a non-volatile memory having a limited storage capacity. <br><br>b) Secondary memory is storage other than the RAM and ROM. <br><br>c) The performance of cache memory is superior to that of main memory. <br><br>d) DDR3 is static RAM.",
+    "options": [
+      "1. a) True, b) True, c) True, d) False",
+      "2. a) False, b) True, c) True, d) False",
+      "3. a) False, b) True, c) True, d) True",
+      "4. a) False, b) False, c) False, d) True"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "पहचानें कि दिए गए कथन कंप्यूटर मेमोरी के संदर्भ में सत्य हैं या असत्य।<br><br>a) RAM एक नॉन-वॉलेटाइल मेमोरी है जिसकी भंडारण क्षमता सीमित होती है। <br><br>b) सेकेंडरी मेमोरी, RAM और ROM के अतिरिक्त एक अन्य स्टोरेज है। <br><br>c) कैश मेमोरी का प्रदर्शन मुख्य मेमोरी से बेहतर होता है। <br><br>d) DDR3 एक स्टैटिक रैम है।",
+    "options": [
+      "1. a) सही b) सही c) सही d) गलत",
+      "2. a) गलत b) सही c) सही d) गलत",
+      "3. a) गलत b) सही c) सही d) सही",
+      "4. a) गलत b) गलत c) गलत d) सही"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which generation of computers used vacuum tubes?",
+    "options": [
+      "1. Second",
+      "2. Fourth",
+      "3. First",
+      "4. Third"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "किस पीढ़ी के कंप्यूटरों में वैक्यूम ट्यूब का उपयोग किया गया?",
+    "options": [
+      "1. दूसरी",
+      "2. चौथी",
+      "3. पहली",
+      "4. तीसरी"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following was the online chat system created by Doug Brown and David R Woolley in 1973 on the PLATO System at the University of Illinois?",
+    "options": [
+      "1. Speakmate",
+      "2. Talktonik",
+      "3. Speaktalk",
+      "4. Talkomatic"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा ऑनलाइन चैट सिस्टम डौग ब्राउन (Doug Brown) और डेविड आर वूली (David R Woolley) द्वारा 1973 में इलिनोइस विश्वविद्यालय में प्लेटो (PLATO) सिस्टम पर बनाया गया था?",
+    "options": [
+      "1. स्पीकमेट (Speakmate)",
+      "2. टॉकटोनिक (Talktonik)",
+      "3. स्पीकटॉक (Speaktalk)",
+      "4. टॉकोमैटिक (Talkomatic)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A method to transfer mail from one server to another is implemented by:",
+    "options": [
+      "1. SMTP ( Simple Mail Transfer Protocol)",
+      "2. HTTP (Hypertext Transfer Protocol)",
+      "3. DHCP (Dynamic Host Configuration Protocol)",
+      "4. TCP/IP (Transmission Control Protocol/Internet Protocol)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एक सर्वर से दूसरे सर्वर पर मेल स्थानांतरित करने की विधि निम्नलिखित में से किसके द्वारा कार्यान्वित की जाती है?",
+    "options": [
+      "1. SMTP (सिंपल मेल ट्रान्सफर प्रोटोकॉल)",
+      "2. HTTP (हाइपरटेक्स्ट ट्रान्सफर प्रोटोकॉल)",
+      "3. DHCP (डायनामिक होस्ट कॉन्फ़िगरेशन प्रोटोकॉल)",
+      "4. TCP/IP (ट्रांसमिशन कंट्रोल प्रोटोकॉल / इंटरनेट प्रोटोकॉल)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is used to display a group of related commands within the tabs of MS PowerPoint 2019?",
+    "options": [
+      "1. Collapse",
+      "2. Work Area",
+      "3. Ribbon",
+      "4. View Options"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS PowerPoint 2019 के टैब में संबंधित कमांड के समूह को प्रदर्शित करने के लिए निम्न में से किसका उपयोग किया जाता है?",
+    "options": [
+      "1. कोलैप्स (Collapse)",
+      "2. वर्क एरिया (Work Area)",
+      "3. रिबन (Ribbon)",
+      "4. व्यू ऑप्शन्स (View Options)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Any entity that has digitally signed some information cannot, at a later time, deny having signed it. This property is known as:",
+    "options": [
+      "1. Validity",
+      "2. Authenticity",
+      "3. Integrity",
+      "4. Non-repudiation"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कोई भी संस्था (entity) जिसने कुछ सूचनाओं पर डिजिटल रूप से हस्ताक्षर किए हैं, बाद में उस पर हस्ताक्षर करने से इनकार नहीं कर सकती। इस गुण (property) को ________ के रूप में जाना जाता है।",
+    "options": [
+      "1. वैधता (Validity)",
+      "2. सत्यता (Authenticity)",
+      "3. अखंडता (Integrity)",
+      "4. गैर-अस्वीकृति (Non-repudiation)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following statements is FALSE?",
+    "options": [
+      "1. Both internet and intranet are the same concepts.",
+      "2. Internet is an example of WAN.",
+      "3. A WAN consists of many LANs.",
+      "4. The coverage area of MAN is larger than the LAN."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न कथनों में से कौन-सा असत्‍य है?",
+    "options": [
+      "1. इंटरनेट और इंट्रानेट दोनों एक ही अवधारणाएं (concepts) हैं।",
+      "2. इंटरनेट WAN का एक उदाहरण है।",
+      "3. एक WAN में कई LANs होते हैं।",
+      "4. MAN का कवरेज क्षेत्र LAN से बड़ा होता है।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In an MS Excel 2019 spreadsheet, which of the following is the formula that equates to 6 is ______.",
+    "options": [
+      "1. =9-2*3+4/2",
+      "2. =8-2*3+8/2",
+      "3. =1+2*3-8/2",
+      "4. =2*3-4/2"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS Excel 2019 स्प्रेडशीट में, निम्नलिखित में से कौन सा सूत्र 6 के बराबर है ______।",
+    "options": [
+      "1. =9-2*3+4/2",
+      "2. =8-2*3+8/2",
+      "3. =1+2*3-8/2",
+      "4. =2*3-4/2"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In MS Excel 2019, when you plot the data on a 2-D type of graph, the known value goes on ______.",
+    "options": [
+      "1. the Y-axis",
+      "2. the X-axis (dependent variable) and derived (independent variable) value on the Y-axis",
+      "3. the X-axis",
+      "4. the X-axis (independent) and derived (dependent variable) value on the Y-axis"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS Excel 2019 में, जब आप डेटा को 2-डी प्रकार के ग्राफ पर प्लॉट करते हैं, तो ज्ञात मान ______ चला जाता है।",
+    "options": [
+      "1. Y-अक्ष पर",
+      "2. X-अक्ष (आश्रित चर) पर और व्युत्पन्न (स्वतंत्र चर) मान Y-अक्ष पर",
+      "3. X-अक्ष पर",
+      "4. X-अक्ष (स्वतंत्र) पर और व्युत्पन्न (आश्रित चर) मान Y-अक्ष पर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The IF function in MS Excel is often used when you want to sort your data according to a given ______.",
+    "options": [
+      "1. logic",
+      "2. cell",
+      "3. value",
+      "4. paragraph"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS Excel में IF फ़ंक्शन का उपयोग अक्सर तब किया जाता है जब आप अपने डेटा को किसी दिए गए ______ के अनुसार सॉर्ट करना चाहते हैं।",
+    "options": [
+      "1. लॉज़िक",
+      "2. सेल",
+      "3. वैल्यू",
+      "4. पैराग्राफ"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In default settings, what is the result of the MS Excel 2019 function =SUM(13.3, 5, -3.5, 8, -4.2) in a spreadsheet?",
+    "options": [
+      "1. Error",
+      "2. 18.6",
+      "3. 18",
+      "4. 19"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "डिफ़ॉल्ट सेटिंग्स में, MS Excel 2019 में फ़ंक्शन =SUM(13.3, 5, -3.5, 8, -4.2) का परिणाम स्प्रेडशीट में क्या होगा?",
+    "options": [
+      "1. त्रुटि (Error)",
+      "2. 18.6",
+      "3. 18",
+      "4. 19"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "By default, an MS Excel 2019 spreadsheet file has the extension ______.",
+    "options": [
+      "1. .dll",
+      "2. .xlcx",
+      "3. .xlsx",
+      "4. .docx"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "डिफ़ॉल्ट रूप से, एक MS Excel 2019 स्प्रेडशीट फ़ाइल का एक्सटेंशन ______ होता है।",
+    "options": [
+      "1. .dll",
+      "2. .xlcx",
+      "3. .xlsx",
+      "4. .docx"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the output of the following MS Excel 2019 formula? <br><br> =SUBSTITUTE(\"AMPLE\",\"A\",\"SA\")",
+    "options": [
+      "1. SAMPLE",
+      "2. AMPLE",
+      "3. SMPLE",
+      "4. ASAMPLE"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित MS-Excel 2019 सूत्र का आउटपुट क्या है? <br><br> =SUBSTITUTE(\"AMPLE\",\"A\",\"SA\")",
+    "options": [
+      "1. SAMPLE",
+      "2. AMPLE",
+      "3. SMPLE",
+      "4. ASAMPLE"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "All of the following are the advantages of a pie chart, EXCEPT:",
+    "options": [
+      "1. the picture is simple and easy-to-understand",
+      "2. it becomes less effective if there are too many pieces of data to use",
+      "3. the data can be represented visually as a fractional part of a whole",
+      "4. it helps in providing an effective communication tool for even the uninformed audience"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से किस को छोड़ कर सभी एक पाई चार्ट के लाभ हैं?",
+    "options": [
+      "1. चित्र सरल और समझने में आसान होते हैं।",
+      "2. यदि उपयोग करने के लिए डेटा के बहुत अधिक भाग हैं तो यह कम प्रभावी हो जाता है।",
+      "3. डेटा को विज़ुअल रूप से पूरे डेटा के अलग-अलग भागों के रूप में दर्शाया जा सकता है।",
+      "4. यह असूचित ऑडियंस के लिए भी एक प्रभावी संचार साधन प्रदान करने में सहायता करता है।"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A ______ provides a visual interpretation of numerical data by showing the number of data points that fall within a specified range of values called bins.",
+    "options": [
+      "1. line chart",
+      "2. pie chart",
+      "3. histogram",
+      "4. scatter chart"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एक ________ संख्यात्मक डेटा की एक दृश्य व्याख्या प्रदान करता है, जो 'बिन्स' नामक निर्दिष्ट मानों की श्रेणी के भीतर आने वाले डेटा बिंदुओं की संख्या को दर्शाता है।",
+    "options": [
+      "1. लाइन चार्ट",
+      "2. पाई चार्ट",
+      "3. हिस्टोग्राम",
+      "4. स्कैटर चार्ट"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In a histogram graph, ______ shows the number of times that the values occurred, within the interval shown on the X-axis.",
+    "options": [
+      "1. background",
+      "2. the X-axis",
+      "3. legend",
+      "4. the Y-axis"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "हिस्टोग्राम ग्राफ में ______, X-अक्ष द्वारा निर्धारित अंतराल के भीतर मानों के होने की संख्या को दर्शाता है।",
+    "options": [
+      "1. बैकग्राउंड",
+      "2. X-अक्ष",
+      "3. लीजेंड",
+      "4. Y-अक्ष"
+    ],
+    "answer": 3
+  }
 ]
 
   
@@ -6267,6 +7310,7 @@
   
         
     
+
 
 
 
