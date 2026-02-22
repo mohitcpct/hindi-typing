@@ -7298,6 +7298,1049 @@
     ],
     "answer": 3
   }
+],
+
+  "30th January 2026 - Shift1": [
+  {
+    "q": "Which of the following types of memories is closely related to the processor?",
+    "options": [
+      "1. Main Memory",
+      "2. Secondary Memory",
+      "3. Disk Memory",
+      "4. Tape Memory"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "किस प्रकार की मेमोरी प्रोसेसर से निकटता से संबंधित होती है ?",
+    "options": [
+      "1. मुख्य (मेन) मेमोरी",
+      "2. सेकेंडरी मेमोरी",
+      "3. डिस्क मेमोरी",
+      "4. टेप मेमोरी"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT an open source software?",
+    "options": [
+      "1. LibreOffice",
+      "2. Windows",
+      "3. VLC media player",
+      "4. Linux"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा ओपन सोर्स सॉफ्टवेयर नहीं है?",
+    "options": [
+      "1. लिब्रे ऑफिस (LibreOffice)",
+      "2. विंडोज",
+      "3. VLC मीडिया प्लेयर",
+      "4. लिनक्स"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Ethernet refers to which of the following technologies?",
+    "options": [
+      "1. PAN",
+      "2. WAN",
+      "3. LAN",
+      "4. MAN"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "ईथरनेट, निम्नलिखित में से किस तकनीक से संबंधित है?",
+    "options": [
+      "1. PAN",
+      "2. WAN",
+      "3. LAN",
+      "4. MAN"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In MS-Word 2016, you can select the _____ format to save a document, so that someone using an earlier version of Word can open it.",
+    "options": [
+      "1. Open Document (*.odt)",
+      "2. Word Template (*.dotx)",
+      "3. XPS Document (*.xps)",
+      "4. Word 97-2003 Document (*.doc)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Word 2016 में, आप किसी दस्तावेज़ को सहेजने के लिए _____ प्रारूप (format) का चयन कर सकते हैं, ताकि Word के पुराने संस्करण (version) का उपयोग करने वाला कोई व्यक्ति इसे खोल सके।",
+    "options": [
+      "1. ओपन डॉक्यूमेंट (*.odt)",
+      "2. Word टेम्पलेट (*.dotx)",
+      "3. XPS डॉक्यूमेंट (*.xps)",
+      "4. Word 97-2003 डॉक्यूमेंट (*.doc)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is a type of network wherein any one computer can act as either a client or a server at any instance?",
+    "options": [
+      "1. Client",
+      "2. Peer-to-peer network",
+      "3. WAN",
+      "4. Server"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से किस प्रकार के नेटवर्क में, कोई कंप्यूटर किसी समय क्लाइंट या सर्वर के रूप में कार्य कर सकता है?",
+    "options": [
+      "1. क्‍लाइंट (Client)",
+      "2. पीयर-टू-पीयर नेटवर्क (Peer-to-peer network)",
+      "3. WAN",
+      "4. सर्वर (Server)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following storage devices is also called a USB drive since it has flash memory and a built-in USB interface?",
+    "options": [
+      "1. SD card",
+      "2. SSD",
+      "3. Pen drive",
+      "4. CD"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से किस स्टोरेज डिवाइस को USB ड्राइव भी कहा जाता है क्योंकि इसमें फ्लैश मेमोरी और एक अंतर्निहित USB इंटरफ़ेस होता है?",
+    "options": [
+      "1. एसडी (SD) कार्ड",
+      "2. एसएसडी (SSD)",
+      "3. पेन ड्राइव",
+      "4. सीडी (CD)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is a mobile operating system?",
+    "options": [
+      "1. CentOS",
+      "2. macOS",
+      "3. MS-Windows",
+      "4. iOS"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सी एक मोबाइल ऑपरेटिंग सिस्टम है?",
+    "options": [
+      "1. CentOS",
+      "2. macOS",
+      "3. MS-Windows",
+      "4. iOS"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following internet Service describes how to make and receive phone calls over the internet?",
+    "options": [
+      "1. VoIP",
+      "2. E-mail",
+      "3. Telnet",
+      "4. Directory Services"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सी इंटरनेट सेवा इंटरनेट पर फ़ोन कॉल करने और प्राप्त करने का तरीका बताती है?",
+    "options": [
+      "1. वीओआईपी (VoIP)",
+      "2. इ-मेल (E-mail)",
+      "3. टेलनेट (Telnet)",
+      "4. डायरेक्टरी सर्विसेज (Directory Services)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ is an example of an auction site.",
+    "options": [
+      "1. Facebook",
+      "2. Go ibibo",
+      "3. E-Bay",
+      "4. Linkedin"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "_____________ नीलामी साइट का एक उदाहरण है।",
+    "options": [
+      "1. फेसबुक (Facebook)",
+      "2. गो आईबीबो (Go Ibibo)",
+      "3. ई-बे (E-Bay)",
+      "4. लिंक्डइन (Linkedin)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is a software-based system that securely stores users' payment information and passwords for numerous payment methods and websites?",
+    "options": [
+      "1. Digital purse",
+      "2. Pop up",
+      "3. Shopping cart",
+      "4. Digital wallet"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सी एक सॉफ्टवेयर-आधारित प्रणाली है जिसमें उपयोगकर्ताओं द्वारा विभिन्न भुगतान विधियों और वेबसाइटों के माध्यम से भुगतान के लिए, भुगतान संबंधी जानकारियां और पासवर्ड सुरक्षित रूप से संग्रहीत रहते हैं?",
+    "options": [
+      "1. डिजिटल पर्स",
+      "2. पॉप अप",
+      "3. शॉपिंग कार्ट",
+      "4. डिजिटल वॉलेट"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Identify whether the given statements related to MS-Word 2019 are true or false.<br> <br>(i) A drop cap is a small capital letter used as a decorative element at the beginning of a paragraph or a section and its size is usually two or more lines. <br>(ii) The Spelling and Grammar feature identifies apparent misspellings and grammatical errors by referring to an incorporated dictionary and a list of rules for proper usage.",
+    "options": [
+      "1. (i) False (ii) True",
+      "2. (i) True (ii) True",
+      "3. (i) True (ii) False",
+      "4. (i) False (ii) False"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एमएस-वर्ड 2019 (MS-Word 2019) से संबंधित दिए गए कथनों के सही या गलत होने की पहचान कीजिए। <br><br>(i) Drop cap एक छोटा कैपिटल अक्षर होता है जिसका उपयोग पैराग्राफ या सेक्शन की शुरुआत में सजावटी ऐलिमेन्‍ट के रूप में किया जाता है और इसका आकार प्राय: दो या अधिक पंक्तियों का होता है। <br>(ii) Spelling and Grammar फीचर एक समावेशित शब्दकोश, और उचित उपयोग के लिए नियमों की सूची का संदर्भ देकर, स्पष्ट गलत वर्तनी और व्याकरणीय त्रुटियों की पहचान करता है।",
+    "options": [
+      "1. (i) गलत (ii) सही",
+      "2. (i) सही (ii) सही",
+      "3. (i) सही (ii) गलत",
+      "4. (i) गलत (ii) गलत"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the standard measure of print resolution?",
+    "options": [
+      "1. SPI(Strokes Per Inch)",
+      "2. DPI (Dots Per Inch)",
+      "3. LPI(Letters Per Inch)",
+      "4. WPI(Words Per Inch)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "प्रिंट रिज़ोल्यूशन की मानक माप क्या है?",
+    "options": [
+      "1. SPI (स्ट्रोक पर इंच)",
+      "2. DPI (डॉट्स पर इंच)",
+      "3. LPI (लैटर्स पर इंच)",
+      "4. WPI (वर्ड्स पर इंच)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In which of the following tabs of MS-Word 2019 is the 'Themes' option available?",
+    "options": [
+      "1. Insert",
+      "2. Home",
+      "3. Data",
+      "4. Design"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "एमएस-वर्ड 2019 (MS-Word 2019) में निम्नलिखित में से किस टैब में 'Themes' विकल्प उपलब्ध होता है?",
+    "options": [
+      "1. Insert",
+      "2. Home",
+      "3. Data",
+      "4. Design"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The first part of a URL address is the:",
+    "options": [
+      "1. scheme (protocol identifier)",
+      "2. sub domain",
+      "3. second level domain",
+      "4. top level domain"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "URL एड्रेस का पहला भाग __________ होता है।",
+    "options": [
+      "1. स्कीम (प्रोटोकॉल आइडेंटिफ़ायर)",
+      "2. सब डोमेन",
+      "3. सेकंड लेवल डोमेन",
+      "4. टॉप लेवल डोमेन"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following has a pre-created table saved into one of the building block galleries to give easy access to many of the most commonly used table layouts in MS-Word 2019?",
+    "options": [
+      "1. Draw Table",
+      "2. Quick Tables",
+      "3. Insert Table",
+      "4. Table"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से किसमें, एमएस-वर्ड 2019 (MS-Word 2019) में सर्वाधिक उपयोग किए जाने वाले कई टेबल लेआउट तक आसान पहुंच प्रदान करने के लिए एक बिल्डिंग ब्लॉक गैलरी में एक पूर्व-निर्मित तालिका सहेजी गई होती है?",
+    "options": [
+      "1. Draw Table",
+      "2. Quick Tables",
+      "3. Insert Table",
+      "4. Table"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The pattern of printed lines on most products are called ______.",
+    "options": [
+      "1. OCR code",
+      "2. ZIP code",
+      "3. Bar code",
+      "4. MICR code"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "अधिकांश उत्पादों पर मुद्रित लाइनों के पैटर्न को ______ कहा जाता है।",
+    "options": [
+      "1. OCR कोड",
+      "2. ZIP कोड",
+      "3. बार कोड",
+      "4. MICR कोड"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following can be used in MS-Excel 2019 to colour the background of cells to make them stand out?",
+    "options": [
+      "1. Fill colour",
+      "2. Font colour",
+      "3. Border",
+      "4. Wrap text"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में सेल को अलग से प्रदर्शित करने के लिए उनके बैकग्राउंड को कलर करने हेतु निम्नलिखित में से किस विकल्प का उपयोग किया जा सकता है?",
+    "options": [
+      "1. Fill colour (फ़िल कलर)",
+      "2. Font colour (फॉन्ट कलर)",
+      "3. Border (बॉर्डर)",
+      "4. Wrap text (रैप टेक्स्ट)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "GIF image files are commonly used on the web to display ______.",
+    "options": [
+      "1. archival copies",
+      "2. graphics and logos",
+      "3. vector artwork",
+      "4. video recordings"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "GIF इमेज फ़ाइलों का उपयोग आमतौर पर वेब पर ______ प्रदर्शित करने के लिए किया जाता है।",
+    "options": [
+      "1. आर्काइवल कॉपी",
+      "2. ग्राफिक्स और लोगो",
+      "3. वेक्टर आर्टवर्क",
+      "4. वीडियो रिकॉर्डिंग"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "_____ file format is a replacement of GIF file format.",
+    "options": [
+      "1. SWF",
+      "2. BMP",
+      "3. PNG",
+      "4. JPEG"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "_____ फ़ाइल प्रारूप, GIF फ़ाइल प्रारूप का प्रतिस्थापन है।",
+    "options": [
+      "1. SWF",
+      "2. BMP",
+      "3. PNG",
+      "4. JPEG"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is a type of output device that is used to produce high-quality graphics, drawings, or large-format images?",
+    "options": [
+      "1. Projector",
+      "2. Scanner",
+      "3. GPS",
+      "4. Plotter"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा एक प्रकार का आउटपुट डिवाइस है जिसका उपयोग उच्च गुणवत्ता (high quality) वाले ग्राफिक्स, चित्र या बड़े प्रारूप वाली छवियां (large format images) बनाने के लिए किया जाता है?",
+    "options": [
+      "1. प्रोजेक्टर",
+      "2. स्कैनर",
+      "3. GPS",
+      "4. प्लॉटर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In public-key cryptography, the recipient's public and private keys are ______.",
+    "options": [
+      "1. similar",
+      "2. different",
+      "3. sometimes similar",
+      "4. always similar"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "सार्वजनिक-कुंजी क्रिप्टोग्राफी में, प्राप्तकर्ता की सार्वजनिक और निजी कुंजियाँ ______ होती हैं।",
+    "options": [
+      "1. समान",
+      "2. भिन्न",
+      "3. कभी -कभी समान",
+      "4. सदैव समान"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In which option of settings in Windows 11 is the choice to select a specific printer as default printer available?",
+    "options": [
+      "1. Personalisation",
+      "2. Network & Internet",
+      "3. Bluetooth & devices",
+      "4. System"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Windows 11 में सेटिंग्स के किस विकल्प में किसी विशिष्ट प्रिंटर को डिफ़ॉल्ट प्रिंटर के रूप में चुनने का विकल्प उपलब्ध होता है?",
+    "options": [
+      "1. Personalisation",
+      "2. Network & internet",
+      "3. Bluetooth & devices",
+      "4. System"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In Mailings Tab of MS-Word 2019, which of the following command belongs to the Write & insert Fields Group?",
+    "options": [
+      "1. Edit Recipient List",
+      "2. Envelopes",
+      "3. Finish",
+      "4. Highlight Merge Fields"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "एमएस-वर्ड 2019 के मेलिंग टैब में, निम्नलिखित में से कौन सा कमांड राइट एंड इंसर्ट (Write & Insert) फील्ड्स ग्रुप से संबंधित है?",
+    "options": [
+      "1. एडिट रेसिपिएंट लिस्ट (Edit Recipient List)",
+      "2. एन्वेलप (Envelopes)",
+      "3. फिनिश (Finish)",
+      "4. हाइलाइट मर्ज फील्ड्स (Highlight Merge Fields)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following system software enable(s) communication between the hardware and OS?",
+    "options": [
+      "1. Device drivers",
+      "2. Boot loaders",
+      "3. Firmware",
+      "4. Utility software"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा सिस्टम सॉफ़्टवेयर हार्डवेयर और OS के बीच संचार को सक्षम बनाता है?",
+    "options": [
+      "1. डिवाइस ड्राइवर",
+      "2. बूट लोडर",
+      "3. फर्मवेयर",
+      "4. यूटिलिटी सॉफ्टवेयर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which basic steps of troubleshooting will you follow if a wireless mouse is not working?",
+    "options": [
+      "1. Making sure the mouse is receiving power. Replacing the RAM if the mouse does not appear to be ON.",
+      "2. Making sure the mouse is receiving power; or else, replacing the LAN card.",
+      "3. Making sure the mouse is receiving power. Replacing the batteries if the mouse does not appear to be ON. Making sure the wireless receiver is within the range of the mouse.",
+      "4. Making sure the wireless receiver is within the range of the mouse. Replacing the hard disk of the computer."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "यदि वायरलेस माउस काम नहीं कर रहा है तो आप समस्या निवारण के कौन से मूल चरण अपनाएंगे?",
+    "options": [
+      "1. सुनिश्चित करना कि माउस को बिजली मिल रही है। यदि माउस ON नहीं दिखता है तो RAM को बदलना ।",
+      "2. यह सुनिश्चित करना कि माउस को बिजली मिल रही है; अन्यथा , LAN कार्ड को बदलना ।",
+      "3. सुनिश्चित करना कि माउस को बिजली मिल रही है। यदि माउस ON नहीं दिखता है तो बैटरी बदलना । सुनिश्चित करना कि वायरलेस रिसीवर, माउस की रेंज में है।",
+      "4. यह सुनिश्चित करना कि वायरलेस रिसीवर माउस की रेंज में है। कंप्यूटर की हार्ड डिस्क को बदलना ।"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In Windows file system, the path of a folder is a drive character followed by a list of folders. The folders are separated by a _________ character.",
+    "options": [
+      "1. -",
+      "2. ;",
+      "3. /",
+      "4. \\"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Windows फ़ाइल सिस्टम में, फ़ोल्डर का पथ एक ड्राइव कैरेक्टर होता है जिसके बाद फ़ोल्डर्स की एक सूची होती है। फ़ोल्डर्स को _________ कैरेक्टर द्वारा पृथक किया जाता है।",
+    "options": [
+      "1. -",
+      "2. ;",
+      "3. /",
+      "4. \\"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following operating systems comes with built-in support for client-server networking?",
+    "options": [
+      "1. Windows 2000",
+      "2. Windows 98",
+      "3. Windows 3.1",
+      "4. MS-DOS"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा ऑपरेटिंग सिस्टम, क्लाइंट-सर्वर नेटवर्किंग के लिए बिल्‍ट-इन सपोर्ट के साथ आता है?",
+    "options": [
+      "1. Windows 2000",
+      "2. Windows 98",
+      "3. Windows 3.1",
+      "4. MS-DOS"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Windows 10 was initially offered free of cost for the first year to users of:",
+    "options": [
+      "1. Windows 7 and Windows Vista",
+      "2. Windows 7 and Windows 8",
+      "3. Windows 7 and Windows 2000",
+      "4. Windows 7 and Windows XP"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "किन उपयोगकर्ताओं के लिए विंडोज़ 10 (Windows 10) को प्रथम वर्ष के लिए निःशुल्क उपलब्ध कराया गया था ?",
+    "options": [
+      "1. Windows 7 और Windows Vista",
+      "2. Windows 7 और Windows 8",
+      "3. Windows 7 और Windows 2000",
+      "4. Windows 7 और Windows XP"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following file types can be opened by using the .pix file extension?",
+    "options": [
+      "1. Document",
+      "2. Audio",
+      "3. Video",
+      "4. Image"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से किस प्रकार की फ़ाइल, .pix फ़ाइल एक्सटेंशन का उपयोग करके खोली जा सकती है?",
+    "options": [
+      "1. डॉक्‍युमेंट",
+      "2. ऑडियो",
+      "3. वीडियो",
+      "4. इमेज"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the below options describe the correct set of parameters present in the change case options in MS-Word 2019?",
+    "options": [
+      "1. Sentence case, lowercase, UPPERCASE, Capitalize Each word, tOGGLE cASE",
+      "2. UPPERCASE, lowercase, Capitalise each word",
+      "3. UPPERCASE, tOGGLE cASE, lowercase",
+      "4. UPPERCASE, Capitalize Each word, tOGGLE cASE"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एमएस-वर्ड 2019 में चेंज केस विकल्पों में मौजूद निम्नलिखित में से कौन-सा विकल्प पैरामीटर के सही सेट का वर्णन करता है?",
+    "options": [
+      "1. Sentence case, lowercase, UPPERCASE, Capitalise Each word, tOGGLE cASE",
+      "2. UPPERCASE, lowercase, Capitalise each word",
+      "3. UPPERCASE, tOGGLE cASE, lowercase",
+      "4. UPPERCASE, Capitalise Each word, tOGGLE cASE"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "With reference to types of networks, MAN stands for:",
+    "options": [
+      "1. Mega Area Network",
+      "2. Metropolitan Area Network",
+      "3. My Area Network",
+      "4. My Assign Network"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "नेटवर्क के प्रकारों के संदर्भ में, MAN का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Mega Area Network (मेगा एरिया नेटवर्क)",
+      "2. Metropolitan Area Network (मेट्रोपॉलिटन एरिया नेटवर्क)",
+      "3. My Area Network (माय एरिया नेटवर्क)",
+      "4. My Assign Network (माय असाइन नेटवर्क)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which protocol assigns an IP address to the client connected to the internet?",
+    "options": [
+      "1. RPPC",
+      "2. IP",
+      "3. DHCP",
+      "4. RPC"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्न में से कौन-सा प्रोटोकॉल इंटरनेट से जुड़े क्लाइंट को IP एड्रेस असाइन करता है?",
+    "options": [
+      "1. RPPC",
+      "2. IP",
+      "3. DHCP",
+      "4. RPC"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "C and C++ are programming languages, which were utilised in which generation of computers?",
+    "options": [
+      "1. 4th Generation",
+      "2. 1st Generation",
+      "3. 2nd Generation",
+      "4. 3rd Generation"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "C और C++ वे प्रोग्रामिंग भाषाएं हैं जो कंप्यूटर की ____________ में उपयोग की जाती थीं।",
+    "options": [
+      "1. चौथी पीढ़ी",
+      "2. पहली पीढ़ी",
+      "3. दूसरी पीढ़ी",
+      "4. तीसरी पीढ़ी"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Information kiosks and bank ATMs are common examples that use a/an_______.",
+    "options": [
+      "1. joystick",
+      "2. touch screen",
+      "3. OCR",
+      "4. MICR"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "सूचना कियोस्क और बैंक एटीएम (ATMs) सामान्य उदाहरण हैं जो ____________ उपयोग करते हैं।",
+    "options": [
+      "1. जॉयस्टिक",
+      "2. टच स्क्रीन",
+      "3. OCR",
+      "4. MICR"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is the output devices that help us listen to the audio coming out of a computer?",
+    "options": [
+      "1. Printer",
+      "2. Projector",
+      "3. Headphones",
+      "4. Monitor"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा आउटपुट डिवाइस है जो हमें कंप्यूटर से निकलने वाले ऑडियो को सुनने में सहायता करता है?",
+    "options": [
+      "1. प्रिंटर",
+      "2. प्रोजेक्टर",
+      "3. हेडफोन",
+      "4. मॉनिटर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is not an example of impact printer?",
+    "options": [
+      "1. Line",
+      "2. Dot matrix",
+      "3. Daisy wheel",
+      "4. Inkjet"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा इम्पैक्ट प्रिंटर का उदाहरण नहीं है?",
+    "options": [
+      "1. लाइन",
+      "2. डॉट मैट्रिक्स",
+      "3. डेज़ी व्हील",
+      "4. इंकजेट"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following plotters (New versions) include the scan conversion capability?",
+    "options": [
+      "1. Flat",
+      "2. Electrostatic",
+      "3. Drum",
+      "4. Raster"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से किस प्लॉटर (नए संस्करण) में स्कैन रूपांतरण (Conversion) क्षमता शामिल है?",
+    "options": [
+      "1. फ्लैट (Flat)",
+      "2. इलेक्ट्रोस्टैटिक (Electrostatic)",
+      "3. ड्रम (Drum)",
+      "4. रैस्टर (Raster)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is often referred to as the brain or engine of a computer where most of the processing and operations take place?",
+    "options": [
+      "1. Magnetic drum",
+      "2. Magnetic core",
+      "3. CPU",
+      "4. Memory"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से किसे प्राय: कंप्यूटर का मस्तिष्क या इंजन कहा जाता है जिसमें अधिकांश प्रोसेसिंग और ऑपरेशंस (processing and operations) होते हैं?",
+    "options": [
+      "1. मैग्‍नेटिक ड्रम (Magnetic drum)",
+      "2. मैग्‍नेटिक कोर (Magnetic core)",
+      "3. CPU",
+      "4. मेमोरी (Memory)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is equivalent to 2 KB?",
+    "options": [
+      "1. 1024 bytes",
+      "2. 2048 bits",
+      "3. 1024 bits",
+      "4. 2048 bytes"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, 2 KB के बराबर है?",
+    "options": [
+      "1. 1024 बाइट्स",
+      "2. 2048 बिट्स",
+      "3. 1024 बिट्स",
+      "4. 2048 बाइट्स"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is the hardware computing device where the operating system, application programs and data in current use by processor are kept so they can be quickly reached by the device's processor?",
+    "options": [
+      "1. RAM",
+      "2. CD-ROM",
+      "3. Flash Drive",
+      "4. Hard disk"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा हार्डवेयर कंप्यूटिंग डिवाइस है जहां ऑपरेटिंग सिस्टम, एप्लिकेशन प्रोग्राम और प्रोसेसर द्वारा वर्तमान में उपयोग किए जाने वाले डेटा को रखा जाता है ताकि उन तक डिवाइस के प्रोसेसर द्वारा जल्दी से पहुंचा जा सके?",
+    "options": [
+      "1. RAM",
+      "2. CD-ROM",
+      "3. फ़्लैश ड्राइव",
+      "4. हार्ड डिस्क"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The purpose of _____________ is to ensure the protection, integrity, and privacy of the data exchanged between a server and a client (usually a browser).",
+    "options": [
+      "1. FTP",
+      "2. ARP",
+      "3. HTTPS",
+      "4. TCP"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "_________ का उद्देश्य सर्वर और क्लाइंट (सामान्यतः एक ब्राउज़र) के बीच आदान-प्रदान किए गए डेटा की सुरक्षा, इंटीग्रिटी और गोपनीयता सुनिश्चित करना होता है।",
+    "options": [
+      "1. FTP",
+      "2. ARP",
+      "3. HTTPS",
+      "4. TCP"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In which of the following sector Information kiosks are utilized to advertise currently trending products to draw more attention towards said product?",
+    "options": [
+      "1. Education",
+      "2. Government",
+      "3. Health",
+      "4. Retail"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से किस क्षेत्र में सूचना कियोस्क का उपयोग उक्त उत्पाद की ओर अधिक ध्यानआकर्षित करने के लिए वर्तमान में ट्रेंडिंग उत्पादों का विज्ञापन करने के लिए किया जाता है?",
+    "options": [
+      "1. शिक्षा",
+      "2. सरकारी",
+      "3. स्वास्थ्य",
+      "4. खुदरा"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following options aptly describes testing?",
+    "options": [
+      "1. Evaluating the deliverable to find errors",
+      "2. Debugging the code",
+      "3. Finding the broken code",
+      "4. Stage of all the projects"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा विकल्प परीक्षण (testing) का सटीक वर्णन करता है?",
+    "options": [
+      "1. त्रुटियाँ खोजने के लिए डिलीवरेबल (deliverable) का मूल्यांकन करना",
+      "2. कोड डीबग करना",
+      "3. टूटे कोड को ढूँढना",
+      "4. सभी परियोजनाओं के चरण"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Press Ctrl and = keys together in MS-Word 2019 to create:",
+    "options": [
+      "1. Drop Cap",
+      "2. Subscript",
+      "3. Superscript",
+      "4. Strikethrough"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Word 2019 में ____________ क्रिएट करने के लिए Ctrl और = कुंजियों को एकसाथ दबाना होता है।",
+    "options": [
+      "1. Drop Cap (ड्रॉप कैप)",
+      "2. Subscript (सब्स्क्रिप्ट)",
+      "3. Superscript (सुपरस्क्रिप्ट)",
+      "4. Strikethrough (स्ट्राइकथ्रो)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following represents the absolute address of the cell at the intersection of the fourth row and the ninth column in Microsoft Excel?",
+    "options": [
+      "1. #I#5",
+      "2. I4",
+      "3. 4$I$",
+      "4. $I$4"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Microsoft Excel में, चौथी रौ और नौवें कॉलम के इंटरसेक्शन पर स्थित सेल का एब्सोल्यूट एड्रेस निम्न में से क्या होगा?",
+    "options": [
+      "1. #I#5",
+      "2. I4",
+      "3. 4$I$",
+      "4. $I$4"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The ______ function substitutes new text for old text in a text string in MS-Excel 2019.",
+    "options": [
+      "1. SUBSTITUTE",
+      "2. COUNT",
+      "3. REPLACE",
+      "4. FIND"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 की टेक्स्ट स्ट्रिंग में पुराने टेक्स्ट को नये टेक्स्ट से बदलने के लिए निम्न में से किस फंक्शन का उपयोग किया जाता है?",
+    "options": [
+      "1. SUBSTITUTE",
+      "2. COUNT",
+      "3. REPLACE",
+      "4. FIND"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS-Excel 2019, A Histogram has two axis, the x axis and the y axis. The x axis contains event whose frequency you have to count. The y axis contains frequency. <br><br>The different heights of bar shows different ______ of occurrence of data.",
+    "options": [
+      "1. Correlation",
+      "2. frequency",
+      "3. classes of data",
+      "4. Mean"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 में, एक हिस्टोग्राम में x अक्ष और y अक्ष, दो अक्ष होते हैं। x अक्ष में वे घटनाएं होती हैं जिसकी बारम्बारता आपको गिननी है। y अक्ष में बारम्बारता होती है। <br><br> बार की अलग-अलग ऊंचाई, डेटा की घटना की/के अलग-अलग ______ को दर्शाती है।",
+    "options": [
+      "1. सहसंबंध",
+      "2. बारम्बारता",
+      "3. डेटा के वर्गो",
+      "4. माध्य"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "You use ______ in a spreadsheet MS-Excel 2019 to prevent unwanted changes to the structure of the workbook, such as moving, deleting, or adding sheets.",
+    "options": [
+      "1. Share Sheet",
+      "2. Protect Sheet",
+      "3. Protect Workbook",
+      "4. Share Workbook"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एमएस-एक्सेल 2019 की स्प्रेडशीट में ____________ का उपयोग वर्कबुक की संरचना में शीट को मूव करने, डिलीट करने या एड करने जैसे अवांछित परिवर्तनों को रोकने के लिए किया जाता है।",
+    "options": [
+      "1. Share Sheet (शेयर शीट)",
+      "2. Protect Sheet (प्रोटेक्ट शीट)",
+      "3. Protect Workbook (प्रोटेक्ट वर्कबुक)",
+      "4. शेयर वर्कबुक Share Workbook (शेयर वर्कबुक)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is the correct formula to calculate the weighted average score in cell C7 as shown? <br> <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoAupNcwhHh_Mh2r3mvbDepLThDJ_ikSU6ArFgz0x8j25ZXawgjYnFg-_jNiK6AD6rKgmyf5D58WQbfS9DZp-jJza3nDxAZR0pG-Z9x8inB8lpMmpt79HmuWqebMhY7w7nRWDRV4PwtFlWURIH5WtuUgI1fgDaj8YILYb2enJ5D1ENtaU5pYarbYcEyL46/s379/dkj%2056.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. =SUMPRODUCT(B2:B4,C2:C4)/SUM(B2:B4)",
+      "2. =SUMPRODUCT(C2:C5,B2:B5)",
+      "3. =AVERAGE(B2:B4)",
+      "4. =SUMPRODUCT(C2:C4,B2:B4)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "जैसा कि दिखाया गया है, सेल C7 में भारित औसत स्कोर (Weighted Average Score) की गणना करने के लिए निम्नलिखित में से कौन-सा सही फॉर्मूला है? <br> <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoAupNcwhHh_Mh2r3mvbDepLThDJ_ikSU6ArFgz0x8j25ZXawgjYnFg-_jNiK6AD6rKgmyf5D58WQbfS9DZp-jJza3nDxAZR0pG-Z9x8inB8lpMmpt79HmuWqebMhY7w7nRWDRV4PwtFlWURIH5WtuUgI1fgDaj8YILYb2enJ5D1ENtaU5pYarbYcEyL46/s379/dkj%2056.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. =SUMPRODUCT(B2:B4,C2:C4)/SUM(B2:B4)",
+      "2. =SUMPRODUCT(C2:C5,B2:B5)",
+      "3. =AVERAGE(B2:B4)",
+      "4. =SUMPRODUCT(C2:C4,B2:B4)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following Groups CANNOT be found in a data tab of MS-Excel 2019?",
+    "options": [
+      "1. Data tools",
+      "2. Function Library",
+      "3. Forecast",
+      "4. Data Types"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 के डेटा टैब में निम्नलिखित में से कौन-सा ग्रुप नहीं पाया जा सकता है?",
+    "options": [
+      "1. Data tools (डेटा टूल)",
+      "2. Function Library (फंक्शन लाइब्रेरी)",
+      "3. Forecast (फोरकास्ट)",
+      "4. Data Types (डेटा टाइप)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Features like spelling, Notes, Protect Sheet, etc. are available in which tab of MS-Excel 2019?",
+    "options": [
+      "1. Formulas",
+      "2. Page Layout",
+      "3. Review",
+      "4. Help"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel 2019 के किस टैब में स्पेलिंग, नोट्स, प्रोटेक्ट शीट आदि जैसे फिचर उपलब्ध हैं?",
+    "options": [
+      "1. Formulas (फ़ॉर्मूला)",
+      "2. Page Layout (पेज लेआउट)",
+      "3. Review (रिव्यु)",
+      "4. Help (हेल्प)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In MS-Excel 2019, which of the following is NOT a valid chart option?",
+    "options": [
+      "1. Pie chart",
+      "2. Area chart",
+      "3. Line chart",
+      "4. QP chart"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel 2019 में, निम्नलिखित में से कौन-सा एक वैध चार्ट विकल्प नहीं है?",
+    "options": [
+      "1. पाई चार्ट",
+      "2. एरिया चार्ट",
+      "3. लाइन चार्ट",
+      "4. QP चार्ट"
+    ],
+    "answer": 3
+  }
 ]
 
   
@@ -7310,6 +8353,7 @@
   
         
     
+
 
 
 
