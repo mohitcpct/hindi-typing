@@ -8341,7 +8341,1051 @@
     ],
     "answer": 3
   }
+],
+
+  "31th January 2026 - Shift2": [
+  {
+    "q": "A permanent memory built into your computer is called:",
+    "options": [
+      "1. ROM",
+      "2. RAM",
+      "3. Floppy",
+      "4. CPU"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "आपके कंप्यूटर में स्थित स्थायी मेमोरी को _______कहा जाता है।",
+    "options": [
+      "1. ROM",
+      "2. RAM",
+      "3. Floppy",
+      "4. CPU"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the key combination to add a line break without paragraph change in an OpenOffice writer?",
+    "options": [
+      "1. Ctrl+Enter",
+      "2. Shift+Enter",
+      "3. Alt+Enter",
+      "4. Ctrl+Shift+Enter"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ओपन ऑफिस राइटर (OpenOffice writer) में पैराग्राफ बदले बिना लाइन ब्रेक ऐड करने के लिए की-बोर्ड शॉर्टकट क्या है?",
+    "options": [
+      "1. Ctrl+Enter",
+      "2. Shift+Enter",
+      "3. Alt+Enter",
+      "4. Ctrl+Shift+Enter"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following refers to a virtual world created by links between computers, Internet-enabled devices, servers, routers, and other components of the Internet's infrastructure?",
+    "options": [
+      "1. Virtual space",
+      "2. Information space",
+      "3. Cyberspace",
+      "4. Data space"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, कंप्यूटर, इंटरनेट-सक्षम उपकरण, सर्वर, राउटर और इंटरनेट की आधारिक संरचना के अन्य घटकों के बीच लिंक द्वारा निर्मित आभासी दुनिया (virtual world) को संदर्भित करता है?",
+    "options": [
+      "1. वर्चुअल स्पेस (Virtual space)",
+      "2. इन्फोर्मेशन स्पेस (Information space)",
+      "3. साइबरस्पेस (Cyberspace)",
+      "4. डेटा स्पेस (Data space)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In MS-Excel 2016, both formulas and functions must be preceded by the ______ to understand them.",
+    "options": [
+      "1. asterisk sign",
+      "2. hash sign",
+      "3. percentage sign",
+      "4. equal sign"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel 2016 में, सूत्रों और फ़ंक्शन दोनों को समझने के लिए उनके पहले ______ लगाना आवश्यक है।",
+    "options": [
+      "1. तारांकन चिह्न (*)",
+      "2. हैश का चिह्न (#)",
+      "3. प्रतिशत का चिह्न (%)",
+      "4. बराबर का चिह्न (=)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is the full form of IRC with reference to real-time online conversations ?",
+    "options": [
+      "1. Information Related Charts",
+      "2. Internet Relay Chat",
+      "3. Instant Relay Chat",
+      "4. Information Relay Chat"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "वास्तविक समय ऑनलाइन वार्तालापों के संदर्भ में IRC का पूर्णरूप क्या है?",
+    "options": [
+      "1. Information Related Charts (इनफॉर्मेशन रिलेटेड चार्ट्स)",
+      "2. Internet Relay Chat (इंटरनेट रिले चैट)",
+      "3. Instant Relay Chat (इंस्टेंट रिले चैट)",
+      "4. Information Relay Chat (इनफॉर्मेशन रिले चैट)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following types of computer memories is used for storing programs and data that are currently being processed by the CPU?",
+    "options": [
+      "1. Flash memory",
+      "2. Mass memory",
+      "3. RAM",
+      "4. PROM"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से किस प्रकार की कंप्यूटर मेमोरी का उपयोग उन प्रोग्रामों और डेटा को संग्रहीत करने के लिए किया जाता है जिन्हें वर्तमान में सीपीयू (CPU) द्वारा संसाधित किया जा रहा है?",
+    "options": [
+      "1. फ्लैश मेमोरी",
+      "2. मास मेमोरी",
+      "3. RAM",
+      "4. PROM"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A ______ is a network security device that monitors incoming and outgoing network traffic and permits or blocks data packets based on a set of security rules.",
+    "options": [
+      "1. Router",
+      "2. Gateway",
+      "3. Bridge",
+      "4. Firewall"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "_______ एक नेटवर्क सुरक्षा उपकरण है जो आने वाले और बाहर जाने वाले नेटवर्क ट्रैफ़िक की निगरानी करता है और सुरक्षा नियमों के एक सेट के आधार पर डेटा पैकेट को अनुमति देता है या ब्लॉक करता है।",
+    "options": [
+      "1. राउटर",
+      "2. गेटवे",
+      "3. ब्रिज",
+      "4. फ़ायरवॉल"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A procedural language is a:",
+    "options": [
+      "1. type of computer programming language that specifies a series of well-structured steps and procedures within its programming context to compose a program",
+      "2. function-driven language",
+      "3. language used to organise data into rows and columns",
+      "4. language to specify the organisation of printed text and graphics"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "प्रक्रियात्मक भाषा (प्रोसीज़रल लैंग्वेज़) क्या है?",
+    "options": [
+      "1. एक ऐसी भाषा जिसमें प्रोग्रामर को वांछित परिणाम प्राप्त करने के लिए प्रोसेसिंग की विधि को चरणों में विस्तृत रूप से स्पष्ट करने की आवश्यकता होती है।",
+      "2. फंक्‍शन-चालित भाषा।",
+      "3. एक ऐसी भाषा जो डेटा को पंक्तियों और स्‍तंभों में व्यवस्थित करने के लिए प्रयोग की जाती है।",
+      "4. ऐसी भाषाएं जो मुद्रित टेक्स्ट और ग्राफिक्स के संगठन को निर्दिष्ट करती हैं।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following options is NOT available in the Images group of the Insert tab in MS-PowerPoint 2019?",
+    "options": [
+      "1. Photo Album",
+      "2. Screenshot",
+      "3. Shapes",
+      "4. Pictures"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-PowerPoint 2019 में इन्सर्ट टैब (Insert tab) के इमेजेज ग्रुप (Images group) में निम्न में से कौन-सा विकल्प उपलब्ध नहीं है?",
+    "options": [
+      "1. फोटो एल्बम (Photo Album)",
+      "2. स्क्रीनशॉट (Screenshot)",
+      "3. शेप्स (Shapes)",
+      "4. पिक्चर्स (Pictures)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following keyboard shortcuts in MS-Excel 2019 is used to open the Spelling dialog box to check spelling in the active worksheet or selected range?",
+    "options": [
+      "1. F2",
+      "2. F1",
+      "3. F3",
+      "4. F7"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel 2019 में निम्नलिखित कीबोर्ड शॉर्टकट में से किसका उपयोग, सक्रिय वर्कशीट या चयनित रेंज (selected range) में वर्तनी (spelling) की जांच करने के लिए स्‍पेलिंग डायलॉग बॉक्स (spelling dialog box) खोलने के लिए किया जाता है?",
+    "options": [
+      "1. F2",
+      "2. F1",
+      "3. F3",
+      "4. F7"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is the full form of NSDL?",
+    "options": [
+      "1. National Securities Depository Limited",
+      "2. National Securities Depository Liability",
+      "3. Nation Social Depository Liability",
+      "4. New Securities Depository Limited"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "NSDL का पूर्ण रूप क्या है?",
+    "options": [
+      "1. National Securities Depository Limited (नेशनल सिक्युरिटीज़ डिपॉजिटरी लिमिटेड)",
+      "2. National Securities Depository Liability (नेशनल सिक्युरिटीज़ डिपॉजिटरी लाइबिलिटी)",
+      "3. Nation Social Depository Liability (नेशन सोशल डिपॉजिटरी लाइबिलिटी)",
+      "4. New Securities Depository Limited (न्यू सिक्युरिटीज़ डिपॉजिटरी लिमिटेड)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "OLTP stands for:",
+    "options": [
+      "1. Online Transfer Processing",
+      "2. Online Transaction Processing",
+      "3. Online Temple Processing",
+      "4. Online Template Processing"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "OLTP का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Online Transfer Processing (ऑनलाइन ट्रांसफर प्रोसेसिंग)",
+      "2. Online Transaction Processing (ऑनलाइन ट्रांजेक्शन प्रोसेसिंग)",
+      "3. Online Temple Processing (ऑनलाइन टेंपल प्रोसेसिंग)",
+      "4. Online Template Processing (ऑनलाइन टेंपलेट प्रोसेसिंग)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ is a class of software programs capable of supporting transaction-oriented applications on the internet.",
+    "options": [
+      "1. OLTA",
+      "2. OLTB",
+      "3. OLTC",
+      "4. OLTP"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "___________, इंटरनेट पर कार्य-संपादन उन्मुख अनुप्रयोगों (transaction-oriented applications) को सपोर्ट करने में सक्षम सॉफ्टवेयर प्रोग्रामों का एक वर्ग है।",
+    "options": [
+      "1. OLTA",
+      "2. OLTB",
+      "3. OLTC",
+      "4. OLTP"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Recent Windows operating systems automatically detect the printer when it is connected through the USB interface. This feature is called _______.",
+    "options": [
+      "1. Plug and Play",
+      "2. Plug and Uninstall",
+      "3. Plug and Install",
+      "4. Install and Play"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "हाल ही के विंडोज़ ऑपरेटिंग सिस्टम, USB इंटरफ़ेस के माध्यम से कनेक्ट होने पर प्रिंटर का स्वचालित रूप से पता लगाते हैं। इस फीचर को _______ कहा जाता है।",
+    "options": [
+      "1. प्लग एंड प्ले (Plug and Play)",
+      "2. प्लग एंड अनइंस्टाल (Plug and Uninstall)",
+      "3. प्लग एंड इनस्टॉल (Plug and Install)",
+      "4. इनस्टॉल एंड प्ले (Install and Play)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A laser printer is an output device which uses ______ digital printing process to produce high quality of graphics and texts.",
+    "options": [
+      "1. mechanical",
+      "2. electrostatic",
+      "3. mathematical",
+      "4. robotic"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "लेजर प्रिंटर एक आउटपुट डिवाइस है जो उच्च गुणवत्ता वाले ग्राफिक्स और टेक्स्ट को प्रोड्यूस करने के लिए ______ डिजिटल प्रिंटिंग प्रक्रिया का उपयोग करता है।",
+    "options": [
+      "1. मैकेनिकल (mechanical)",
+      "2. इलेक्ट्रो स्टैटिक (electrostatic)",
+      "3. मैथमेटिकल (mathematical)",
+      "4. रोबोटिक (robotic)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "LED printers are quite similar to laser printers, but they use _______ instead of laser to create pictures/images.",
+    "options": [
+      "1. Print heads",
+      "2. Transducer",
+      "3. Light-emitting diode array",
+      "4. Lines"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "LED प्रिंटर काफी हद तक लेजर प्रिंटर के समान होते हैं, लेकिन वे चित्र/छवियां बनाने के लिए लेजर के बजाय _______ का उपयोग करते हैं।",
+    "options": [
+      "1. प्रिंट हेड",
+      "2. ट्रांसड्यूसर",
+      "3. लाइट-एमिटिंग डायोड ऐरे",
+      "4. लाइन्स"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following option of Control Panel in Windows OS is used for changing system sounds?",
+    "options": [
+      "1. Hardware and Sound",
+      "2. Programs",
+      "3. Appearance and Personalization",
+      "4. Network and Internet"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Windows OS में कंट्रोल पैनल का निम्नलिखित में से कौन सा विकल्प सिस्टम ध्वनि बदलने के लिए उपयोग किया जाता है?",
+    "options": [
+      "1. हार्डवेयर एंड साउंड",
+      "2. प्रोग्रॅम्स",
+      "3. अपीयरेंस एंड पेर्सनलिज़शन",
+      "4. नेटवर्क एंड इंटरनेट"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following groups has only input devices?",
+    "options": [
+      "1. Mouse, Keyboard, Headphones",
+      "2. Mouse, Keyboard, Scanner",
+      "3. Mouse, Keyboard, Printer",
+      "4. Mouse, Keyboard, Plotter"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्न में से किस विकल्प समूह में केवल इनपुट डिवाइसें (input devices) हैं?",
+    "options": [
+      "1. माउस, की-बोर्ड, हेडफ़ोन",
+      "2. माउस, की-बोर्ड, स्कैनर",
+      "3. माउस, की-बोर्ड, प्रिंटर",
+      "4. माउस, की-बोर्ड, प्लॉटर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Raw file format contains data from the ______.",
+    "options": [
+      "1. printer",
+      "2. analog camera",
+      "3. digital camera",
+      "4. microphone"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "__________ का डेटा रॉ फाइल फॉर्मेट (Raw file format) में होता है।",
+    "options": [
+      "1. प्रिंटर",
+      "2. एनालॉग कैमरा",
+      "3. डिजिटल कैमरा",
+      "4. माइक्रोफ़ोन"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is compressed file format in a Windows 10 OS?",
+    "options": [
+      "1. rtc",
+      "2. doc",
+      "3. bat",
+      "4. rar"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, विंडोज 10 ओएस (Windows 10 OS) में कंप्रेस्ड फाइल फॉर्मेट (compressed file format) है?",
+    "options": [
+      "1. rtc",
+      "2. doc",
+      "3. bat",
+      "4. rar"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following operates directly on hardware devices of computer and provides a platform to run an application?",
+    "options": [
+      "1. Language processor",
+      "2. System software",
+      "3. Special-purpose application software",
+      "4. General-purpose application software"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से क्या सीधे कंप्यूटर के हार्डवेयर उपकरणों (hardware devices) पर कार्य करता है और एप्लिकेशन को रन करने के लिए एक प्लेटफॉर्म प्रदान करता है?",
+    "options": [
+      "1. लैंग्वेज़ प्रोसेसर",
+      "2. सिस्टम सॉफ्टवेयर",
+      "3. स्पेशल पर्पज़ एप्लिकेशन सॉफ्टवेयर",
+      "4. जनरल पर्पज़ एप्लिकेशन सॉफ्टवेयर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In a _________ attack, the attacker tries to determine the key by attempting all possible keys.",
+    "options": [
+      "1. Birthday",
+      "2. Dictionary",
+      "3. Brute Force",
+      "4. DOS"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "_________ हमले में, हमलावर सभी संभावित कुंजियों का प्रयास करके कुंजी निर्धारित करने का प्रयास करता है।",
+    "options": [
+      "1. बर्थडे (Birthday)",
+      "2. डिक्शनरी (Dictionary)",
+      "3. ब्रूट फ़ोर्स (Brute Force)",
+      "4. डॉस (DOS)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following files take up less storage space and can be transferred to other computers more quickly than uncompressed files in Windows 10 OS?",
+    "options": [
+      "1. Engraved",
+      "2. Unzipped",
+      "3. Enlarged",
+      "4. Zipped"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन सी फ़ाइलें कम संग्रहण स्थान लेती हैं और Windows 10 OS में असम्पीडित (Uncompressed) फ़ाइलों की तुलना में अन्य कंप्यूटरों में अधिक तेज़ी से स्थानांतरित की जा सकती हैं?",
+    "options": [
+      "1. एंग्रेवड (Engraved)",
+      "2. अनज़िप्पड़ (Unzipped)",
+      "3. एंलार्जेड़ (Enlarged)",
+      "4. ज़िप्पड़ (Zipped)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Yahoo!, Google and Bing are _______.",
+    "options": [
+      "1. search engines",
+      "2. computer brands",
+      "3. browsers",
+      "4. internet service providers"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "याहू! (Yahoo!), गूगल (Google) और बिंग (Bing) _______ हैं।",
+    "options": [
+      "1. खोज इंजन (search engines)",
+      "2. कंप्यूटर ब्रान्‍ड (computer brands)",
+      "3. ब्राउज़र (browsers)",
+      "4. इंटरनेट सेवा प्रदाता (internet service providers)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is an INVALID data source for Mail Merge process in MS-Word 2019?",
+    "options": [
+      "1. Excel Spreadsheet",
+      "2. Access database",
+      "3. PowerPoint file",
+      "4. Outlook contacts list"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Word 2019 में, निम्नलिखित में से कौन-सा, मेल मर्ज प्रक्रिया के लिए एक अवैध डेटा सोर्स है?",
+    "options": [
+      "1. एक्सल वर्कशीट",
+      "2. एक्सेस डेटाबेस",
+      "3. पावर पॉइंट फ़ाइल",
+      "4. आउटलुक संपर्क सूची"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the full form of CMOS?",
+    "options": [
+      "1. Conditional Metal Oxide Semiconductor",
+      "2. Continues Metal Oxide Semiconductor",
+      "3. Carbon Metal Oxide Semiconductor",
+      "4. Complementary Metal Oxide Semiconductor"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "CMOS का पूर्णरूप क्या है?",
+    "options": [
+      "1. Conditional Metal Oxide Semiconductor (कंडीशनल मेटल ऑक्साइड सेमीकंडक्टर)",
+      "2. Continues Metal Oxide Semiconductor (कंटिन्यू मेटल ऑक्साइड सेमीकंडक्टर)",
+      "3. Carbon metal oxide semiconductor (कार्बन मेटल-ऑक्साइड-सेमीकंडक्टर",
+      "4. Complementary Metal Oxide Semiconductor (कॉम्प्लिमेंटरी मेटल ऑक्साइड सेमीकंडक्टर)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is the keyboard shortcut to switch between windows in the same order as they have been opened in Windows OS?",
+    "options": [
+      "1. Alt + Esc",
+      "2. Alt + End",
+      "3. Alt + Ctrl",
+      "4. Alt + Spacebar"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "विंडोज ओएस (Windows OS) को जिस क्रम में खोला गया है, उसी क्रम में विंडोज के बीच स्विच करने के लिए की-बोर्ड शॉर्टकट क्या है?",
+    "options": [
+      "1. Alt+Esc",
+      "2. Alt+End",
+      "3. Alt+Ctrl",
+      "4. Alt+Spacebar"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the minimum RAM required to install the Windows 10 - 64 bit operating system?",
+    "options": [
+      "1. 512 MB",
+      "2. 2 GB",
+      "3. 256 MB",
+      "4. 6 GB"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Windows 10 - 64 बिट ऑपरेटिंग सिस्टम को इंस्टॉल करने के लिए न्यूनतम कितनी मेमोरी (RAM) की आवश्यकता होती है?",
+    "options": [
+      "1. 512 MB",
+      "2. 2 GB",
+      "3. 256 MB",
+      "4. 6 GB"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following options is used to uninstall software from the Control Panel in Windows 11 OS?",
+    "options": [
+      "1. Bluetooth & devices",
+      "2. Personalization",
+      "3. Accessibility",
+      "4. Programs and Features"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Windows 11 OS में, कंट्रोल पैनल से सॉफ्टवेयर को अनइंस्टॉल करने के लिए निम्नलिखित में से किस विकल्प का उपयोग किया जाता है?",
+    "options": [
+      "1. ब्लूटूथ एंड डिवाइसेस",
+      "2. पर्सनलाएज़ेशन",
+      "3. एक्सेसिबिलिटी",
+      "4. प्रोग्राम्स एंड फीचर्स"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "An LZH file is an archive compressed using ______ compression algorithm.",
+    "options": [
+      "1. Lempel-Ziv and Haruyasu (LZH)",
+      "2. Lempel-Zen and Haruyasu (LZH)",
+      "3. Light-Ziv and Haruyasu (LZH)",
+      "4. Lempel-Ziv and Height (LZH)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एक LZH फ़ाइल ______ संपीड़न एल्गोरिथ्म का उपयोग करके संपीड़ित एक संग्रह है।",
+    "options": [
+      "1. लेम्पेल-ज़िव और हारुयासु (LZH)",
+      "2. लेम्पेल-ज़ेन और हारुयासु (LZH)",
+      "3. लाइट-ज़िव और हारुयासु (LZH)",
+      "4. लेम्पेल-ज़िव और ऊँचाई (LZH)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The first part of the IP address of any host refers to the __________.",
+    "options": [
+      "1. Host ID",
+      "2. Network address",
+      "3. Home address",
+      "4. ISP address"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "किसी भी होस्ट (host) के IP एड्रेस का पहला भाग _________ को संदर्भित करता है।",
+    "options": [
+      "1. होस्ट ID",
+      "2. नेटवर्क एड्रेस",
+      "3. होम एड्रेस",
+      "4. ISP एड्रेस"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is the first page that the user sees when the website is opened?",
+    "options": [
+      "1. Index page",
+      "2. Master page",
+      "3. Home page",
+      "4. Title page"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा वह पहला पृष्ठ है जिसे उपयोगकर्ता वेबसाइट खोलते ही देखता है?",
+    "options": [
+      "1. इंडेक्स पेज (Index page)",
+      "2. मास्टर पेज (Master page)",
+      "3. होम पेज (Home page)",
+      "4. टाइटल पेज (Title page)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following statements is/are true?<br><br>(i) Motherboard can be considered as both hardware and software. <br>(ii) Compiler and Interpreter are also known as language processor.",
+    "options": [
+      "1. Only (ii)",
+      "2. Only (i)",
+      "3. Both (i) and (ii)",
+      "4. Neither (i) nor (ii)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा/से कथन सही है/हैं? <br><br>(i) मदरबोर्ड को हार्डवेयर और सॉफ्टवेयर, दोनों माना जा सकता है। <br>(ii) कंपाइलर और इंटरप्रेटर को लैंग्वेज़ प्रोसेसर के रूप में भी जाना जाता है।",
+    "options": [
+      "1. केवल (ii)",
+      "2. केवल (i)",
+      "3. (i) और (ii) दोनों",
+      "4. न तो (i) और न ही (ii)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT an example of the operating system?",
+    "options": [
+      "1. Ubuntu",
+      "2. Internet Explorer",
+      "3. Windows Vista",
+      "4. iOS"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्न में से कौन-सा ऑपरेटिंग सिस्टम का एक उदाहरण नहीं है?",
+    "options": [
+      "1. Ubuntu",
+      "2. Internet Explorer",
+      "3. Windows Vista",
+      "4. iOS"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "________ is an online journal or informational website displaying information in reverse chronological order.",
+    "options": [
+      "1. Newsgroup",
+      "2. Facebook",
+      "3. Blog",
+      "4. Chat room"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "________, एक ऑनलाइन जर्नल या सूचनात्मक वेबसाइट है जो सूचनाओं को व्युत्क्रमित कालानुक्रम में प्रदर्शित करती है।",
+    "options": [
+      "1. न्यूज़ग्रुप",
+      "2. फेसबुक",
+      "3. ब्लॉग",
+      "4. चैट रूम"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Plotters which use cutter replacing pens can be found in ______.",
+    "options": [
+      "1. text printing shops",
+      "2. xerox shops",
+      "3. fax office",
+      "4. garment and sign shops"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "प्लॉटर जो कटर के जगह पेन का उपयोग करते हैं ______ में पाए जा सकते हैं।",
+    "options": [
+      "1. टेक्स्ट प्रिंटिंग दुकानों",
+      "2. ज़ेरॉक्स की दुकानों",
+      "3. फैक्स ऑफिस",
+      "4. परिधान और चिह्नों को छापने वाली दुकानों"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is the convenient resting place for the most frequently used commands in MS-Word?",
+    "options": [
+      "1. Document area",
+      "2. Quick access tool bar",
+      "3. Status bar",
+      "4. File tab"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Word में सबसे अधिक बार उपयोग किए जाने वाले कमांड को निम्नलिखित में से कहां से आसानी से पाया जा सकता है?",
+    "options": [
+      "1. डॉक्यूमेंट एरिया",
+      "2. क्विक एक्सेस टूल बार",
+      "3. स्टेटस बार",
+      "4. फ़ाइल टैब"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "For which of the following primary purposes is MS-Word used?",
+    "options": [
+      "1. To perform basic and complex mathematical computations and functions",
+      "2. For creating exciting slide show presentations",
+      "3. To design different documents such as resumes or invitation cards",
+      "4. To manage, maintain and organise data"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से किस प्राथमिक उद्देश्य के लिए एमएस-वर्ड का उपयोग किया जाता है?",
+    "options": [
+      "1. बुनियादी और जटिल गणितीय संगणनाओं और कार्यों को करने के लिए",
+      "2. रोमांचक स्लाइड शो प्रस्तुतियां बनाने के लिए",
+      "3. रिज्यूमे या निमंत्रण कार्ड आदि जैसे विभिन्न डॉक्यूमेंट्स को डिजाइन करने के लिए",
+      "4. डेटा के प्रबंधन, रखरखाव और व्यवस्थापन के लिए"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the of following is a message board where people can hold a conversation by posting messages?",
+    "options": [
+      "1. Portfolio",
+      "2. Blog",
+      "3. E-Commerce website",
+      "4. Internet forum"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा वह संदेश बोर्ड है जहां लोग संदेश पोस्ट करके बातचीत कर सकते हैं?",
+    "options": [
+      "1. पोर्टफ़ोलियो",
+      "2. ब्लॉग",
+      "3. ई-कॉमर्स वेबसाइट",
+      "4. इंटरनेट फ़ोरम"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "______ is one of the first VoIP call signalling and control protocols that found widespread implementation. Its deployments are increasingly limited to carrying existing long-haul network traffic.",
+    "options": [
+      "1. H.323",
+      "2. Inter-Asterisk eXchange (IAX)",
+      "3. Extensible Messaging and Presence Protocol (XMPP)",
+      "4. TCP/IP (Transmission Control Protocol/Internet Protocol)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______, प्रथम VoIP कॉल सिग्नलिंग (signalling) और कंट्रोल प्रोटोकॉल में से एक है जिसे व्यापक रूप से लागू किया गया है। इसका परिनियोजन (deployments) मौजूदा लॉन्ग-हॉल नेटवर्क ट्रैफिक (long-haul network traffic) के परिवहन तक सीमित होता जा रहा है।",
+    "options": [
+      "1. H.323",
+      "2. इंटर-एस्टेरिस्क एक्सचेंज (Inter-Asterisk eXchange -IAX)",
+      "3. एक्सटेंसिबल मैसेजिंग एंड प्रेजेंस प्रोटोकॉल (Extensible Messaging and Presence Protocol -XMPP)",
+      "4. TCP/IP (ट्रांसमिशन कंट्रोल प्रोटोकॉल / इंटरनेट प्रोटोकॉल)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "With reference to VoIP, which control protocol is used for media gateways across a converged internetwork consisting of the traditional public switched telephone network (PSTN) and modern packet networks?",
+    "options": [
+      "1. Inter-Asterisk eXchange (IAX)",
+      "2. Skype",
+      "3. H.248",
+      "4. Jingle"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "VoIP के संदर्भ में, निम्नलिखित में से किस कंट्रोल प्रोटोकॉल का उपयोग मीडिया गेटवेज (gateways) के लिए एक अभिसरित इंटरनेटवर्क (converged internetwork) में किया जाता है जिसमें परंपरागत पब्लिक स्विच्ड टेलीफोन नेटवर्क (public switched telephone network-PSTN) और आधुनिक पैकेट नेटवर्क शामिल हैं?",
+    "options": [
+      "1. इंटर-एस्टेरिस्क एक्सचेंज (Inter-Asterisk eXchange -IAX)",
+      "2. स्काइप (Skype)",
+      "3. H.248",
+      "4. जिंगल (Jingle)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "With reference to VoIP, which transport protocol is used for real-time audio and video data?",
+    "options": [
+      "1. XMPP",
+      "2. SDP",
+      "3. IAX",
+      "4. RTP"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "VoIP के संदर्भ में, निम्न में से किस ट्रांसपोर्ट प्रोटोकॉल (transport protocol) का प्रयोग रियल-टाइम ऑडियो और वीडियो डेटा के लिए किया जाता है?",
+    "options": [
+      "1. XMPP",
+      "2. SDP",
+      "3. IAX",
+      "4. RTP"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is the very first screen/component that you will see once the Windows operating system has loaded?",
+    "options": [
+      "1. Desktop",
+      "2. Control Panel",
+      "3. Calendar",
+      "4. Calculator"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "विंडोज ऑपरेटिंग सिस्टम (Windows operating system) के लोड होने के बाद सबसे पहले कौन-सी स्क्रीन/कॉम्पोनेन्ट दिखाई देगी?",
+    "options": [
+      "1. डेस्कटॉप",
+      "2. कंट्रोल पैनल",
+      "3. कैलेंडर",
+      "4. कैलकुलेटर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Charts or graphs in MS-Excel are used for:",
+    "options": [
+      "1. making information funny",
+      "2. making information clearer and easier to understand",
+      "3. making information difficult to understand",
+      "4. making information complex"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel में चार्ट या ग्राफ का उपयोग _______ के लिए किया जाता है।",
+    "options": [
+      "1. जानकारी को मज़ेदार बनाने",
+      "2. सूचना को समझने के लिए स्पष्ट और आसान बनाने",
+      "3. सूचना को समझने में कठिन बनाने",
+      "4. सूचना को जटिल बनाने"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The currently selected cell in MS-Excel is also called the ______.",
+    "options": [
+      "1. formula cell",
+      "2. rounded cell",
+      "3. main cell",
+      "4. active cell"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel में वर्तमान में चयनित सेल को ______ भी कहा जाता है।",
+    "options": [
+      "1. फॉर्मूला सेल (formula cell)",
+      "2. राउंडेड सेल (rounded cell)",
+      "3. मुख्य सेल (main cell)",
+      "4. सक्रिय सेल (active cell)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which type of the blog focuses on a specific topic that appeals to a particular audience, making it one of the most effective types of blogs for targeted traffic?",
+    "options": [
+      "1. Niche",
+      "2. Personal",
+      "3. News",
+      "4. Review"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "किस प्रकार का ब्लॉग एक विशिष्ट विषय पर केंद्रित होता है जो एक विशेष दर्शक वर्ग को आकर्षित करता है, जो इसे लक्षित ट्रैफ़िक के लिए सबसे प्रभावी प्रकार के ब्लॉगों में से एक बनाता है?",
+    "options": [
+      "1. नीचे (Niche)",
+      "2. पर्सनल (Personal)",
+      "3. न्यूज़ (News)",
+      "4. रिव्यु (Review)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "‘=SUM(A1:A3)’ means ______ in MS-Excel.",
+    "options": [
+      "1. function sums all the values from A1 to A2",
+      "2. function sums all the values from A1 to A3",
+      "3. function sums all the values from A1 to A4",
+      "4. function sums all the values from A0 to A2"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel में '=SUM(A1:A3)' का अर्थ है कि ______।",
+    "options": [
+      "1. फ़ंक्शन A1 से A2 तक के सभी मानों का योग करता है",
+      "2. फ़ंक्शन A1 से A3 तक सभी मानों का योग करता है",
+      "3. फ़ंक्शन A1 से A4 तक के सभी मानों का योग करता है",
+      "4. फ़ंक्शन A0 से A2 तक के सभी मानों का योग करता है"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ consists of many tabs such as File, Home, View, Insert, etc. in MS-Office.",
+    "options": [
+      "1. Paragraph",
+      "2. Status bar",
+      "3. Ribbon",
+      "4. Clipboard"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Office में, ______ में फाइल (File), होम (Home), व्यू (View), इन्‍सर्ट (Insert) इत्यादि जैसे कई टैब होते हैं।",
+    "options": [
+      "1. पैराग्राफ (Paragraph)",
+      "2. स्टेटस बार (Status bar)",
+      "3. रिबन (Ribbon)",
+      "4. क्लिपबोर्ड (Clipboard)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which keyboard shortcut is used to move to the previous cell in a worksheet or the previous option in a dialog in MS-Excel 2019?",
+    "options": [
+      "1. Shift + Tab",
+      "2. Shift + Alt",
+      "3. Alt + Shift",
+      "4. Ctrl + Tab"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में, वर्कशीट में पिछले सेल पर जाने के लिए या डायलॉग में पिछले विकल्प पर जाने के लिए किस कीबोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Shift + Tab",
+      "2. Shift + Alt",
+      "3. Alt + Shift",
+      "4. Ctrl + Tab"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A cell in MS-Excel is identified by a _____________.",
+    "options": [
+      "1. formula",
+      "2. cell reference",
+      "3. cell size",
+      "4. label"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel में एक सेल (cell) की पहचान ______ द्वारा की जाती है।",
+    "options": [
+      "1. फॉर्मूला (formula)",
+      "2. सेल रिफरेन्स (cell reference)",
+      "3. सेल साइज (cell size)",
+      "4. लेबल (label)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following offers a way to access documents spread over the several servers over the internet?",
+    "options": [
+      "1. Electronic Mail",
+      "2. Video Conferencing",
+      "3. World Wide Web",
+      "4. Internet Telephony"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन, इंटरनेट पर कई सर्वरों पर फैले दस्तावेज़ों (documents) ज़ों को एक्सैस करने का एक तरीका प्रदान करता है?",
+    "options": [
+      "1. इलेक्ट्रॉनिक मेल (Electronic Mail)",
+      "2. विडियो कॉन्फ्रेंसिंग (Video Conferencing)",
+      "3. वर्ल्ड वाइड वेब (World Wide Web)",
+      "4. इंटरनेट टेलीफोनी (Internet Telephony)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following symbols can be used to enter a number as text in MS-Excel 2019?",
+    "options": [
+      "1. +",
+      "2. \"",
+      "3. =",
+      "4. '"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel 2019 में, किसी संख्या को टेक्स्ट के रूप में दर्ज करने के लिए निम्नलिखित में से किस प्रतीक का उपयोग किया जा सकता है?",
+    "options": [
+      "1. +",
+      "2. \"",
+      "3. =",
+      "4. '"
+    ],
+    "answer": 3
+  }
 ]
+  
 
   
   
@@ -8353,6 +9397,7 @@
   
         
     
+
 
 
 
