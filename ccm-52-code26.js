@@ -4174,6 +4174,1050 @@
   }
 ],
 
+"18th January 2026 - Shift2": [
+ {
+    "q": "A popular type of handheld computer is called a ___________.",
+    "options": [
+      "1. PDA",
+      "2. Super computer",
+      "3. 3D Printers",
+      "4. Desktop Computer"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______________, हैंडहेल्ड कंप्यूटरों का एक लोकप्रिय प्रकार है।",
+    "options": [
+      "1. PDA",
+      "2. सुपर कंप्यूटर",
+      "3. 3D प्रिंटर्",
+      "4. डेस्कटॉप कंप्यूटर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What will be the output for the function EXACT(\"red car\"; \"red car\") in an Open Office Calc?",
+    "options": [
+      "1. RED",
+      "2. TRUE",
+      "3. red car",
+      "4. FALSE"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ओपन ऑफिस कैल्क (Open Office Calc) में फंक्शन EXACT(\"red car\"; \"red car\") का आउटपुट क्या होगा?",
+    "options": [
+      "1. RED",
+      "2. TRUE",
+      "3. red car",
+      "4. FALSE"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following languages has the concept of inheritance?",
+    "options": [
+      "1. C",
+      "2. BASIC",
+      "3. COBOL",
+      "4. C++"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "इनहेरिटेंस की अवधारणा (concept of inheritance) निम्नलिखित में से किस लैंग्वेज में है?",
+    "options": [
+      "1. C",
+      "2. BASIC",
+      "3. COBOL",
+      "4. C++"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "On a hard disk, a ______ runs through each track of a stack of platters.",
+    "options": [
+      "1. cylinder",
+      "2. sector",
+      "3. track",
+      "4. magnetic charge"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "हार्ड डिस्क पर, ______, प्लेटर्स के स्टैक के प्रत्येक ट्रैक के माध्यम से रन करता है।",
+    "options": [
+      "1. सिलेंडर (cylinder)",
+      "2. सेक्टर (sector)",
+      "3. ट्रैक (track)",
+      "4. मैग्नेटिक चार्ज (magnetic charge)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The mouse ______ usually appears in the shape of an arrow.",
+    "options": [
+      "1. indicator",
+      "2. marker",
+      "3. meter",
+      "4. pointer"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "माउस __________ समान्यतः तीर के आकार के रूप में प्रदर्शित होता है।",
+    "options": [
+      "1. इंडीकेटर (indicator)",
+      "2. मार्कर (marker)",
+      "3. मीटर (meter)",
+      "4. पॉइंटर (pointer)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following commands is used to open System Properties (Hardware Tab) in Windows 10?",
+    "options": [
+      "1. SystemPropertiesHardware",
+      "2. SysPropHardware",
+      "3. SPropHardware",
+      "4. SPropertyHardware"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Windows 10 में, सिस्टम प्रॉपर्टीज (हार्डवेयर टैब) खोलने के लिए निम्न में से किस कमांड का उपयोग किया जाता है?",
+    "options": [
+      "1. SystemPropertiesHardware",
+      "2. SysPropHardware",
+      "3. SPropHardware",
+      "4. SPropertyHardware"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "To copy formatting from one cell to another in MS-Excel 2019, which of the following commands is used?",
+    "options": [
+      "1. Format Painter",
+      "2. Alignment",
+      "3. Merge & Center",
+      "4. Wrap text"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में, फॉर्मेटिंग को एक सेल से दूसरे सेल में कॉपी करने के लिए निम्न में से किस कमांड का उपयोग किया जाता है?",
+    "options": [
+      "1. Format Painter (फॉर्मेट पेंटर)",
+      "2. Alignment (अलाइनमेंट)",
+      "3. Merge & Center (मर्ज & सेंटर)",
+      "4. Wrap text (व्रैप टेक्स्ट)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT a valid layout in MS-PowerPoint 2019?",
+    "options": [
+      "1. Title Slide",
+      "2. Title and Content",
+      "3. Section Header",
+      "4. Paragraph Header"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा MS-PowerPoint 2019 का एक वैध ले-आउट नहीं है?",
+    "options": [
+      "1. टाइटल स्लाइड (Title Slide)",
+      "2. टाइटल एंड कंटेंट (Title and Content)",
+      "3. सेक्शन हेडर (Section Header)",
+      "4. पैराग्राफ़ हेडर (Paragraph Header)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In a barcode, data is represented by varying the ______ and ______ between bars.",
+    "options": [
+      "1. height, width",
+      "2. height, space",
+      "3. width, space",
+      "4. space, lines"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "बारकोड में, डेटा को बार्स की ______ और ______ के परिवर्तनों के आधार पर निरुपित किया जाता है।",
+    "options": [
+      "1. ऊंचाई, चौड़ाई",
+      "2. उंचाई, अंतराल",
+      "3. चौड़ाई, अंतराल",
+      "4. अंतराल, रेखाओं"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following Blu-rays is used for online interactivity?",
+    "options": [
+      "1. BD-R",
+      "2. BD+P7",
+      "3. BD-Live",
+      "4. BD-I"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा ब्लू-रे, ऑनलाइन अन्तरक्रियाशीलता के लिए उपयोग किया जाता है?",
+    "options": [
+      "1. BD-R",
+      "2. BD+P7",
+      "3. BD-Live",
+      "4. BD-I"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "______ the fraudulent practice of sending emails purporting to be from reputable companies in order to induce individuals to reveal personal information, such as passwords and credit card numbers.",
+    "options": [
+      "1. Phishing",
+      "2. Spoofing",
+      "3. Intruder",
+      "4. Virus"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______, प्रतिष्ठित कंपनियों से होने का दावा करते हुए ईमेल भेजने का धोखाधड़ीपूर्ण कार्य है, जिसका उद्देश्य व्यक्तियों को पासवर्ड और क्रेडिट कार्ड नंबर जैसी व्यक्तिगत जानकारी प्रकट करने के लिए प्रेरित करना है।",
+    "options": [
+      "1. फ़िशिंग (Phishing)",
+      "2. स्पूफिंग (Spoofing)",
+      "3. इंट्रूडर ( Intruder)",
+      "4. वायरस (Virus)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is Unique identifier that is contained by all the resources available on the internet?",
+    "options": [
+      "1. URL",
+      "2. HTTP",
+      "3. SMTP",
+      "4. WWW"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा एक यूनिक आइडेंटिफ़ायर है जो इंटरनेट पर उपलब्ध सभी संसाधनों में समाविष्ट है?",
+    "options": [
+      "1. URL",
+      "2. HTTP",
+      "3. SMTP",
+      "4. WWW"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In a drum plotter, the graph plotting software controls the movement of the ______.",
+    "options": [
+      "1. pen only",
+      "2. pen and paper",
+      "3. pen and drum",
+      "4. paper and drum"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "ड्रम प्लॉटर में, ग्राफ प्लॉटिंग सॉफ्टवेयर ________ के संचलन को नियंत्रित करता है।",
+    "options": [
+      "1. केवल पेन",
+      "2. पेन और पेपर",
+      "3. पेन और ड्रम",
+      "4. पेपर और ड्रम"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is a First-generation computer?",
+    "options": [
+      "1. IBM 650",
+      "2. PARAM 10000",
+      "3. PARAM Anant",
+      "4. PARAM 8000"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा पहली पीढ़ी का एक कंप्यूटर है?",
+    "options": [
+      "1. IBM 650",
+      "2. PARAM 10000",
+      "3. PARAM Anant",
+      "4. PARAM 8000"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The 'dot matrix' and 'solid font' printers are examples of __________ printers.",
+    "options": [
+      "1. laser",
+      "2. line",
+      "3. off-band",
+      "4. character"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "‘डॉट मैट्रिक्स‘ और ‘सॉलिड फॉन्ट’ प्रिंटर, _________ प्रिंटरों के उदाहरण हैं।",
+    "options": [
+      "1. लेज़र (laser)",
+      "2. लाइन (line)",
+      "3. ऑफ-बैंड (off-band)",
+      "4. करैक्टर (character)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following things are sufficient to connect to internet for web access?",
+    "options": [
+      "1. A computer only",
+      "2. A computer, modem and ISP only",
+      "3. A computer, modem, ISP and Internet browser",
+      "4. A computer and modem only"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "वेब एक्सेस के लिए इंटरनेट से जुड़ने के लिए निम्नलिखित में से कौन सी चीजें पर्याप्त हैं?",
+    "options": [
+      "1. केवल कंप्यूटर",
+      "2. केवल कंप्यूटर, मोडेम और ISP",
+      "3. कंप्यूटर, मोडेम, ISP और इंटरनेट ब्राउज़र",
+      "4. केवल कंप्यूटर और मोडेम"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "With reference to cryptography, hash collision means:",
+    "options": [
+      "1. same hash value for similar pieces of data",
+      "2. different hash value for two distinct pieces of data",
+      "3. same hash value for two distinct pieces of data",
+      "4. different hash value for the same pieces of data"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "क्रिप्टोग्राफी के संदर्भ में, हैश कोलाईजन (hash collision) का अर्थ क्या है?",
+    "options": [
+      "1. डेटा के समान खंडों के लिए समान हैश मान",
+      "2. डेटा के दो अलग-अलग खंडों के लिए अलग हैश मान",
+      "3. डेटा के दो अलग-अलग खंडों के लिए समान हैश मान",
+      "4. डेटा के समान खंडों के लिए अलग हैश मान"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is a disadvantage of a laser printer?",
+    "options": [
+      "1. High colour cartridge cost",
+      "2. Large physical size",
+      "3. Noisy",
+      "4. Suitable for mass printing"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से क्या, लेज़र प्रिंटर की एक हानि है?",
+    "options": [
+      "1. कलर कार्टरिज़ की अधिक कीमत",
+      "2. बड़ा भौतिक आकार",
+      "3. आवाज करने वाला",
+      "4. बड़े पैमाने पर प्रिंटिंग के लिए उपयुक्त"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Graphics designer uses ______ for faster graphics processing and better image quality.",
+    "options": [
+      "1. integration card",
+      "2. graphics card",
+      "3. sound card",
+      "4. geometric card"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ग्राफिक्स डिजाइनर तीव्र ग्राफिक्स प्रोसेसिंग और बेहतर छवि (इमेज) गुणवत्ता के लिए __________ का उपयोग करते हैं।",
+    "options": [
+      "1. इंटीग्रेशन कार्ड (integration card)",
+      "2. ग्राफ़िक्स कार्ड (graphics card)",
+      "3. साउंड कार्ड (sound card)",
+      "4. जियोमेट्रिक कार्ड (geometric card)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is a Pixel?",
+    "options": [
+      "1. It is an image or picture represented digitally.",
+      "2. It is an image in which the only colours are shades of grey.",
+      "3. It is the smallest unit of a digital image on display device.",
+      "4. The surface of a block of type that makes the impression."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "पिक्सेल क्या है?",
+    "options": [
+      "1. यह एक इमेज या चित्र है जिसे डिजिटल रूप से दर्शाया जाता है।",
+      "2. यह एक ऐसी इमेज है जिसमें रंग केवल धूसर रंग के शेड्स होते हैं।",
+      "3. यह डिस्प्ले डिवाइस पर डिजिटल इमेज की सबसे छोटी इकाई है।",
+      "4. एक प्रकार के ब्लॉक की सतह जो छाप बनाती है।"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which key combination is commonly used to refresh the contents of a window or webpage?",
+    "options": [
+      "1. Ctrl + R",
+      "2. Ctrl + S",
+      "3. Alt + F4",
+      "4. Ctrl + C"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा कुंजी संयोजन आमतौर पर विंडो या वेबपेज की सामग्री को ताज़ा (Refresh) करने के लिए उपयोग किया जाता है?",
+    "options": [
+      "1. Ctrl + R",
+      "2. Ctrl + S",
+      "3. Alt + F4",
+      "4. Ctrl + C"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following file formats is used for platform-independent document sharing?",
+    "options": [
+      "1. .docx",
+      "2. .pdf",
+      "3. .xls",
+      "4. .txt"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा फ़ाइल फ़ॉर्मेट प्लेटफ़ॉर्म-स्वतंत्र दस्तावेज़ साझा करने के लिए उपयोग किया जाता है?",
+    "options": [
+      "1. .docx",
+      "2. .pdf",
+      "3. .xls",
+      "4. .txt"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The .fla extension is used for which type of file?",
+    "options": [
+      "1. Adobe Flash Animation",
+      "2. Adobe Acrobat",
+      "3. Adobe Reader",
+      "4. Movie file"
+    ],
+    "answer": 0
+  },
+  {
+    "q": ".fla एक्सटेंशन का उपयोग किस प्रकार की फ़ाइल के लिए किया जाता है?",
+    "options": [
+      "1. एडोब फ्लैश एनिमेशन (Adobe Flash Animation)",
+      "2. एडोब एक्रोबैट (Adobe Acrobat)",
+      "3. एडोब रीडर (Adobe Reader)",
+      "4. मूवी फाइल (Movie file)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which extension is used for a Wave Audio?",
+    "options": [
+      "1. .wae",
+      "2. .wa",
+      "3. .wav",
+      "4. .audio"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Wave Audio के लिए किस एक्सटेंशन का उपयोग किया जाता है?",
+    "options": [
+      "1. .wae",
+      "2. .wa",
+      "3. .wav",
+      "4. .audio"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "When data is processed, organised, structured or presented in a given context so as to make it useful, it is called ______.",
+    "options": [
+      "1. unstructured data",
+      "2. information",
+      "3. raw data",
+      "4. superior data"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "जब डेटा को संसाधित, संगठित, संरचित या किसी दिए गए संदर्भ में प्रस्तुत किया जाता है ताकि इसे उपयोगी बनाया जा सके, तब इसे ______ कहा जाता है।",
+    "options": [
+      "1. असंगठित डेटा (unstructured data)",
+      "2. सूचना (information)",
+      "3. अनिर्मित डेटा (raw data)",
+      "4. सुपीरियर डेटा (superior data)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following characteristics of a computer refers to the action of performing millions of tasks or calculations with the same consistency and accuracy?",
+    "options": [
+      "1. Accuracy",
+      "2. Versatility",
+      "3. Diligence",
+      "4. Reliability"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "कंप्यूटर की निम्नलिखित में से कौन-सी विशेषता लाखों कार्यों या गणनाओं को समान संगतता और सटीकता के साथ करने की क्रिया को संदर्भित करती है?",
+    "options": [
+      "1. यथार्थता (Accuracy)",
+      "2. बहुआयामिता (Versatility)",
+      "3. अध्यवसाय (Diligence)",
+      "4. विश्वसनीयता (Reliability)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following refers to the internal memory component of a computer used to store data and programs?",
+    "options": [
+      "1. USB",
+      "2. Primary memory",
+      "3. Bus",
+      "4. Printer"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्न में से क्या, डेटा और प्रोग्राम को स्टोर करने के लिए उपयोग किए जाने वाले कंप्यूटर के आंतरिक मेमोरी घटक को संदर्भित करता है?",
+    "options": [
+      "1. USB",
+      "2. प्राथमिक मेमोरी",
+      "3. बस (Bus)",
+      "4. प्रिंटर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following keys is used to move the cursor to the beginning of a line in most text editors?",
+    "options": [
+      "1. End",
+      "2. Home",
+      "3. Ctrl",
+      "4. Shift"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन सी कुंजी अधिकांश टेक्स्ट एडिटर्स में कर्सर को पंक्ति की शुरुआत में ले जाने के लिए उपयोग की जाती है?",
+    "options": [
+      "1. एंड (End)",
+      "2. होम (Home)",
+      "3. कंट्रोल (Ctrl)",
+      "4. शिफ्ट (Shift)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following can be used to measure the speed of a computer system?",
+    "options": [
+      "1. MFLOPs",
+      "2. Access time",
+      "3. Latency",
+      "4. Turnaround time"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कंप्यूटर सिस्टम की गति को मापने के लिए निम्न में से किसका उपयोग किया जा सकता है?",
+    "options": [
+      "1. MFLOPs",
+      "2. अभिगम समय (Access time)",
+      "3. प्रसुप्तता (Latency)",
+      "4. प्रतिर्वतन काल (Turnaround time)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which testing methods are used by end users who actually test software before they use it?",
+    "options": [
+      "1. Stress testing",
+      "2. White box testing",
+      "3. Beta testing",
+      "4. Documentation testing"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एंड यूज़र द्वारा कौन-सी परीक्षण विधि का उपयोग किया जाता है, जो वास्तव में सॉफ़्टवेयर का उपयोग करने से पहले उसका परीक्षण करती है?",
+    "options": [
+      "1. बलाघात परीक्षण (Stress testing)",
+      "2. व्हाइट बॉक्स परीक्षण (White box testing)",
+      "3. बीटा परीक्षण (Beta testing)",
+      "4. प्रलेखन परीक्षण (Documentation testing)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the default font style in an MS-Word 2019 document?",
+    "options": [
+      "1. Calibri",
+      "2. Bold",
+      "3. Italic",
+      "4. Times New Roman"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Word 2019 डॉक्युमेंट का डिफ़ॉल्ट फ़ॉन्ट स्टाइल क्या है?",
+    "options": [
+      "1. कैलीबरी (Calibri)",
+      "2. बोल्ड (Bold)",
+      "3. इटैलिक (Italic)",
+      "4. टाइम्स न्यू रोमन (Times New Roman)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS Word 2019, which keyboard shortcut is used to split the document window so you can view two parts of the same document at once?",
+    "options": [
+      "1. Alt + Ctrl + F",
+      "2. Alt + Ctrl + S",
+      "3. Alt + Ctrl + D",
+      "4. Alt + Shift + D"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Word 2019 में, किस की-बोर्ड शॉर्टकट का उपयोग डॉक्युमेंट विंडो को विभाजित करने के लिए किया जाता है ताकि आप एक ही डॉक्युमेंट के दो भागों को एक बार में ही देख सकें?",
+    "options": [
+      "1. Alt + Ctrl + F",
+      "2. Alt + Ctrl + S",
+      "3. Alt + Ctrl + D",
+      "4. Alt + Shift + D"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is NOT an output device of a Computer?",
+    "options": [
+      "1. Keyboard",
+      "2. Plotter",
+      "3. Monitor",
+      "4. Printer"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से कौन-सा कंप्यूटर का आउटपुट डिवाइस नहीं है?",
+    "options": [
+      "1. कीबोर्ड",
+      "2. प्लॉटर",
+      "3. मॉनिटर",
+      "4. प्रिंटर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_______ is the abuse of electronic messaging systems (including most broadcast media, digital delivery systems) to send unsolicited bulk messages indiscriminately.",
+    "options": [
+      "1. Spam",
+      "2. Lurk",
+      "3. Flame",
+      "4. Spark"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_______ इलेक्ट्रॉ निक संदेश प्रणालियों (यों अधिकांशतः प्रसारण मीडिया, डिजिटल वितरण प्रणालियों सहित) का दुरुपयोग है, जिससे अवांछित बल्क संदेश अंधाधुंध तरीके से भेजे जाते हैं।",
+    "options": [
+      "1. स्पैम (Spam)",
+      "2. लर्क (Lurk)",
+      "3. फ्लेम (Flame)",
+      "4. स्पार्क (Spark)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In cybersecurity, ______ is when someone or something pretends to be something else in an attempt to gain our confidence, get access to our systems, steal data, steal money, or spread malware.",
+    "options": [
+      "1. Blocking",
+      "2. Phishing",
+      "3. Reading",
+      "4. Spoofing"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "साइबर सुरक्षा में, ______ तब होती है जब कोई वस्तु या कोई व्यक्ति हमारा विश्वास हासिल करने, हमारे सिस्टम तक पहुंच प्राप्त करने, डेटा चोरी करने, पैसे चुराने या मैलवेयर फैलाने के प्रयास में कुछ और होने का दिखावा करता है।",
+    "options": [
+      "1. ब्लॉकिंग (blocking)",
+      "2. फिशिंग (phishing)",
+      "3. रीडिंग (reading)",
+      "4. स्पूफ़िंग (spoofing)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which device is commonly used to connect multiple computers within a Local Area Network (LAN)?",
+    "options": [
+      "1. Printer",
+      "2. Switch",
+      "3. Projector",
+      "4. Scanner"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "किस डिवाइस का उपयोग आमतौर पर एक लोकल एरिया नेटवर्क (LAN) के भीतर कई कंप्यूटरों को कनेक्ट करने के लिए किया जाता है?",
+    "options": [
+      "1. प्रिंटर",
+      "2. स्विच",
+      "3. प्रोजेक्टर",
+      "4. स्कैनर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A _____ is a computer attached to the internet that runs a special web server software and can send webpages out to other computers over the internet.",
+    "options": [
+      "1. web client",
+      "2. web system",
+      "3. webpage",
+      "4. web server"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "इंटरनेट से जुड़ा वह कंप्यूटर है जिसपर विशेष वेब सर्वर सॉफ़्टवेयर रन होते हैं और वह इंटरनेट से जुड़े अन्य कंप्यूटरों पर वेब पेज भेज सकता है, ______________ कहलाता है।",
+    "options": [
+      "1. वेब क्लाइंट",
+      "2. वेब सिस्टम",
+      "3. वेब पेज",
+      "4. वेब सर्वर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "If you are using BHIM Application, then what does VPA stand for?",
+    "options": [
+      "1. Virtual Partial Address",
+      "2. Virtual Payment Address",
+      "3. Visual Payment Address",
+      "4. Virtual Payment Advance"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "यदि आप भीम एप्लिकेशन (BHIM Application) का उपयोग कर रहे हैं, तो वहां VPA का पूर्ण रूप क्या होगा?",
+    "options": [
+      "1. Virtual Partial Address (वर्चुअल पार्शियल एड्रेस)",
+      "2. Virtual Payment Address (वर्चुअल पेमेंट एड्रेस)",
+      "3. Visual Payment Address (विज़ुअल पेमेंट एड्रेस)",
+      "4. Virtual Payment Advance (वर्चुअल पेमेंट एडवांस)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the main function of a web browser?",
+    "options": [
+      "1. To write computer programs",
+      "2. To translate code into machine language",
+      "3. To access, retrieve, and display information from the World Wide Web",
+      "4. To provide internet connection"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "वेब ब्राउज़र का मुख्य कार्य क्या है?",
+    "options": [
+      "1. कंप्यूटर प्रोग्राम राइट करना",
+      "2. कोड का अनुवाद मशीनी भाषा में करना",
+      "3. वर्ल्ड वाइड वेब से सूचना तक पहुंचना, उसे पुनः प्राप्त करना और प्रदर्शित करना",
+      "4. इंटरनेट कनेक्शन प्रदान करना"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A host on the internet finds another host by its:",
+    "options": [
+      "1. Electronic address",
+      "2. Postal address",
+      "3. Zip address",
+      "4. IP address"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "इंटरनेट पर एक होस्ट इसके_______ द्वारा एक और होस्ट प्राप्त करता है।",
+    "options": [
+      "1. इलेक्ट्रॉ निक एड्रेस",
+      "2. पोस्टल एड्रेस",
+      "3. ज़िप एड्रेस",
+      "4. IP एड्रेस"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following extends a private network across public networks?",
+    "options": [
+      "1. Storage area network",
+      "2. Local area network",
+      "3. Virtual private network",
+      "4. Enterprise private network"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से क्या, सार्वजनिक नेटवर्क पर एक निजी नेटवर्क को विस्तारित (extend) करता है?",
+    "options": [
+      "1. स्टोरेज एरिया नेटवर्क",
+      "2. लोकल एरिया नेटवर्क",
+      "3. वर्चुअल प्राइवेट नेटवर्क",
+      "4. इंटरप्राइज़ प्राइवेट नेटवर्क"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A web service is typically registered and can be located through a:",
+    "options": [
+      "1. web service account",
+      "2. web service login",
+      "3. web service gateway",
+      "4. web service registry"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "वेब सर्विस सामान्यतः __________ के माध्यम से पंजीकृत और स्थापित की जा सकती है।",
+    "options": [
+      "1. वेब सर्विस अकाउंट",
+      "2. वेब सर्विस लॉगिन",
+      "3. वेब सर्विस गेटवे",
+      "4. वेब सर्विस रजिस्ट्री"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A ______ communicates by passing XML messages to each other via a web API, which adds a layer of abstraction to the environment that makes the connections flexible and adaptable.",
+    "options": [
+      "1. web server",
+      "2. web service",
+      "3. web API",
+      "4. web GUI"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "________, वेब API के माध्यम से एक-दूसरे को XML संदेश भेजकर संचार करता/करती है, जिससे वातावरण में एक काल्पनिक परत का निर्माण होता है, जो कनेक्शन को लचीला और अनुकूल बनाती है।",
+    "options": [
+      "1. वेब सर्वर",
+      "2. वेब सर्विस",
+      "3. वेब API",
+      "4. वेब GUI"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "1 terabyte = ?",
+    "options": [
+      "1. 1024 megabytes",
+      "2. 1024 gigabytes",
+      "3. 1024 bytes",
+      "4. 1024 metabytes"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "1 टेराबाइट, ________ के बराबर होता है।",
+    "options": [
+      "1. 1024 मेगाबाइट",
+      "2. 1024 गीगाबाइट",
+      "3. 1024 बाइट",
+      "4. 1024 मेटाबाइट"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following digits cannot be used in the octal (base-8) number system?",
+    "options": [
+      "1.   8",
+      "2.   7",
+      "3.   6",
+      "4.    2"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा अंक, ऑक्टल (आधार-8) नंबर सिस्टम में उपयोग नहीं किया जा सकता है?",
+    "options": [
+      "1.   8",
+      "2.   7",
+      "3.   6",
+      "4.   2"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS Excel 2019, which command/keyboard action removes only the contents of selected cells while keeping the formatting and comments intact?",
+    "options": [
+      "1. Save",
+      "2. Delete",
+      "3. Clear formats",
+      "4. Clear comments"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS Excel 2019 में, कौन-सा कमांड/कीबोर्ड एक्शन फ़ॉर्मेटिंग और टिप्पणियों को बरकरार रखते हुए केवल चयनित सेलों के कंटेन्ट को हटा देता है?",
+    "options": [
+      "1. सेव (Save)",
+      "2. डिलीट (Delete)",
+      "3. क्लियर फॉर्मेट्स (Clear Formats)",
+      "4. क्लियर कमेंट्स (Clear Comments)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following options is available in the Paste Special dialog box in MS-Excel 2019?",
+    "options": [
+      "1. Divide",
+      "2. Average",
+      "3. Sqrt",
+      "4. Percentage"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-EXCEL 2019 में, ‘पेस्ट स्पेशल डायलॉग बॉक्स’ में निम्न में से कौन-सा विकल्प उपलब्ध होता है?",
+    "options": [
+      "1. Divide",
+      "2. Average",
+      "3. Sqrt",
+      "4. Percentage"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT a function in MS-Excel 2019?",
+    "options": [
+      "1. AVERAGE",
+      "2. SUBTRACT",
+      "3. VLOOKUP",
+      "4. SUM"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 में निम्नलिखित में से कौन सा फ़ंक्शन नहीं है?",
+    "options": [
+      "1. AVERAGE",
+      "2. SUBTRACT",
+      "3. VLOOKUP",
+      "4. SUM"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "$Z1 is an example of a/an ______ in MS-Excel.",
+    "options": [
+      "1. absolute reference",
+      "2. relative reference",
+      "3. relative column and absolute row reference",
+      "4. absolute column and relative row reference"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel में, $Z1 ______ का एक उदाहरण है।",
+    "options": [
+      "1. ऑब्सोल्यूट रेफरेंस",
+      "2. रिलेटिव रेफरेंस",
+      "3. रिलेटिव कॉलम और अब्सोल्युट रो रेफरेंस",
+      "4. अब्सोल्युट कॉलम और रिलेटिव रो रेफरेंस"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "X4 is an example of a/an _________ in MS-Excel.",
+    "options": [
+      "1. absolute reference",
+      "2. relative reference",
+      "3. mixed reference",
+      "4. diagnol reference"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel में, X4 _________ का एक उदाहरण है।",
+    "options": [
+      "1. ऑब्सोल्यूट रेफरेंस (absolute reference)",
+      "2. रिलेटिव रेफरेंस (relative reference)",
+      "3. मिक्स्ड रेफरेंस (mixed reference)",
+      "4. डायगॉनल रेफरेंस (diagnol reference)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Shilpa is a class teacher of Class 10. She is working in MS-Excel and is preparing a worksheet to insert marks for five subjects. She is confused about how to generate the sample copy of the worksheet in one click. Which of the following options can she use to repeat and record the set of commands with a single click?",
+    "options": [
+      "1. Macro",
+      "2. Micro",
+      "3. Text wrap",
+      "4. Custom list"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "शिल्पा 10वीं कक्षा की शिक्षिका है। वह MS-Excel में कार्य कर रही है और पांच विषयों के अंक प्रविष्ट करने के लिए वर्कशीट तैयार कर रही है। वह इस उलझन में है कि एक क्लिक में वर्कशीट की सैंपल कॉपी कैसे तैयार की जाए। वह निम्न में से किस विकल्प का उपयोग, एक क्लिक से कमांड के सेट्स को रिपीट करने और रिकॉर्ड करने के लिए कर सकती है?",
+    "options": [
+      "1. मैक्रो (Macro)",
+      "2. माइक्रो (Micro)",
+      "3. टेक्स्ट रैप (Text wrap)",
+      "4. कस्टम लिस्ट (Custom list)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "You want to create a table in MS-Excel 2019. Which of the following steps will enable you to activate the command to do this?",
+    "options": [
+      "1. Home → Options",
+      "2. Insert → Table",
+      "3. Design → Table",
+      "4. File → Options"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "आप MS-Excel 2019 में एक टेबल बनाना चाहते हैं। ऐसा करने के लिए, कमांड को सक्रिय करने हेतु आप निम्न में से किन चरणों का उपयोग कर सकते हैं?",
+    "options": [
+      "1. होम → ऑप्शंस (Home → Options)",
+      "2. इन्सर्ट → टेबल (Insert → Table)",
+      "3. डिज़ाइन → टेबल (Design → Table)",
+      "4. फाइल → ऑप्शंस (File → Options)"
+    ],
+    "answer": 1
+  }
+],
+  
+
   "20th January 2026 - Shift1": [
   {
     "q": "Which of the following converts user actions or physical movements into signals that the computer can understand and process?",
@@ -10442,6 +11486,7 @@
   
         
     
+
 
 
 
