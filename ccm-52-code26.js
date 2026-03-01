@@ -1043,6 +1043,1051 @@
    }
 ],
 
+  "16th January 2026 - Shift2": [
+  {
+    "q": "Notebook computers fall into the category of devices called ________ computers.",
+    "options": [
+      "1. mobile",
+      "2. mainframe",
+      "3. super",
+      "4. workstation"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "नोटबुक कंप्यूटर, _________ कंप्यूटर श्रेणी के अंतर्गत आने वाले उपकरण हैं।",
+    "options": [
+      "1. मोबाइल (mobile)",
+      "2. मेनफ्रेम (mainframe)",
+      "3. सुपर (super)",
+      "4. वर्कस्टेशन (workstation)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In OpenOffice Calc, which function returns TRUE if value refers to text and FALSE otherwise?",
+    "options": [
+      "1. TEXT",
+      "2. ISTEXT",
+      "3. TRUE",
+      "4. VALUE"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ओपन ऑफिस कैल्क (OpenOffice Calc) में, यदि मान टेक्स्ट को संदर्भित करता है, तो इसका कौन-सा फ़ंक्शन TRUE रिटर्न देता है अन्यथा यह FALSE रिटर्न देता है?",
+    "options": [
+      "1. TEXT",
+      "2. ISTEXT",
+      "3. TRUE",
+      "4. VALUE"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following programming languages is NOT classified under high-level languages?",
+    "options": [
+      "1. Java",
+      "2. Fortran",
+      "3. Machine language",
+      "4. C++"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सी प्रोग्रामिंग भाषा उच्च स्तरीय भाषाओं के अंतर्गत वर्गीकृत नहीं है?",
+    "options": [
+      "1. जावा (Java)",
+      "2. फोरट्रान (Fortran)",
+      "3. मशीन भाषा (Machine language)",
+      "4. C++"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Disk ______ means preparing a disk for use by setting up the file system.",
+    "options": [
+      "1. partitioning",
+      "2. fragmenting",
+      "3. scanning",
+      "4. formatting"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "डिस्क _________ का अर्थ फ़ाइल सिस्टम को सेट-अप करके उपयोग के लिए एक डिस्क तैयार करना है।",
+    "options": [
+      "1. पार्टीशनिंग (partitioning)",
+      "2. फ्रैग्मेंटिंग (fragmenting)",
+      "3. स्कैनिंग (scanning)",
+      "4. फॉर्मेटिंग (formatting)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The keyboard shortcut 'Alt + P' in MS-Word 2019 is used to go to which of the following tabs?",
+    "options": [
+      "1. File",
+      "2. Layout",
+      "3. Insert",
+      "4. Design"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Word 2019 में, की-बोर्ड शॉर्टकट 'Alt + P' का उपयोग किस टैब पर जाने के लिए किया जाता है?",
+    "options": [
+      "1. File (फाइल)",
+      "2. Layout (लेआउट)",
+      "3. Insert (इन्सर्ट)",
+      "4. Design (डिज़ाइन)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In MS-Word 2019, what is it called when we create a large capital letter at the beginning of a paragraph?",
+    "options": [
+      "1. Smart Art",
+      "2. Header",
+      "3. Drop cap",
+      "4. Add-in"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Word 2019 में, जब हम एक पैराग्राफ की शुरुआत में एक बड़ा कैपिटल लेटर बनाते हैं, तो उसे क्या कहते हैं?",
+    "options": [
+      "1. स्मार्ट आर्ट (Smart Art)",
+      "2. हेडर (Header)",
+      "3. ड्रॉप कैप (Drop cap)",
+      "4. ऐड-इन (Add-in)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The primary function of the ______ program is to start the computer software operating when power is turned on.",
+    "options": [
+      "1. MS-Word",
+      "2. primary",
+      "3. secondary",
+      "4. bootstrap loader"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "______ प्रोग्राम का प्राथमिक कार्य बिजली चालू होने पर कंप्यूटर सॉफ़्टवेयर को चालू करना है।",
+    "options": [
+      "1. MS-Word",
+      "2. प्राथमिक",
+      "3. माध्यमिक",
+      "4. बूटस्ट्रैप लोडर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is a valid web address?",
+    "options": [
+      "1. www.bbc.co.uk",
+      "2. www@bbc@news",
+      "3. wwwbbccouk",
+      "4. www@bbc.co.uk"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से कौन-सा एक वैध वेब एड्रेस है?",
+    "options": [
+      "1. www.bbc.co.uk",
+      "2. www@bbc@news",
+      "3. wwwbbccouk",
+      "4. www@bbc.co.uk"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a valid email address?",
+    "options": [
+      "1. @freemail.com",
+      "2. Joe.bloggs@www@freemail.com",
+      "3. Joe.bloggs@freemail.com",
+      "4. Joe.bloggs.freemail.com"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्न में से कौन-सा एक वैध ई-मेल एड्रेस है?",
+    "options": [
+      "1. @freemail.com",
+      "2. Joe.bloggs@www@freemail.com",
+      "3. Joe.bloggs@freemail.com",
+      "4. Joe.bloggs.freemail.com"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is CMYK with reference to graphics printing?",
+    "options": [
+      "1. Cyan, Magical Yellow and Key",
+      "2. Chain Multipurpose Yellow and Kinetic",
+      "3. Color Mode Yellow and Key",
+      "4. Cyan, Magenta, Yellow and Key (Black)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "ग्राफिक्स प्रिंटिंग के संदर्भ में, CMYK का पूर्णरूप क्या है?",
+    "options": [
+      "1. Cyan Magical Yellow and Key [ स्यान मैजिकल यलो एंड की ]",
+      "2. Chain Multipurpose Yellow and Kinetic [ चेन मल्टीपर्पज़ यलो एंड काइनेटिक ]",
+      "3. Color Mode Yellow and Key [ कलर मोड यलो एंड की ]",
+      "4. Cyan, Magenta, Yellow and Key (Black) [ स्यान, मैजंटा, यलो एंड की (ब्लैक) ]"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "You use a(n) ______ device, such as a keyboard or mouse to send data or commands to the computer, allowing it to process information and perform tasks.",
+    "options": [
+      "1. input",
+      "2. storage",
+      "3. processing",
+      "4. output"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "आप कंप्यूटर को डेटा या कमांड भेजने के लिए ______ डिवाइस, जैसे कीबोर्ड या माउस का उपयोग करते हैं, जिससे यह जानकारी को संसाधित करने और कार्य करने में सक्षम होता है।",
+    "options": [
+      "1. इनपुट (input)",
+      "2. स्टोरेज (storage)",
+      "3. प्रोसेसिंग (processing)",
+      "4. आउटपुट (output)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following in MS-Excel 2019 allows you to illustrate workbook data graphically, which makes it easy to visualise comparisons and trends?",
+    "options": [
+      "1. Pivot table",
+      "2. Charts",
+      "3. AutoFill",
+      "4. AutoSum"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 में, निम्नलिखित में से क्या आपको वर्कबुक डेटा को ग्राफिक रूप से चित्रित करने की सुविधा देता है, जिससे तुलनाओं और रुझानों (comparisons and नों trends) को दर्शाना आसान हो जाता है?",
+    "options": [
+      "1. पिवट टेबल (Pivot table)",
+      "2. चार्ट्स (Charts)",
+      "3. ऑटोफिल (AutoFill)",
+      "4. ऑटोसम (AutoSum)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is NOT a video compression technique?",
+    "options": [
+      "1. H.264/AVC",
+      "2. MPEG-4",
+      "3. H.265",
+      "4. ADPCM"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से कौन सी एक वीडियो संपीडन तकनीक नहीं है?",
+    "options": [
+      "1. H.264/AVC",
+      "2. MPEG-4",
+      "3. H.265",
+      "4. ADPCM"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Consider the size of a memory as 20 MB. What does the unit ‘MB’ mean with reference to data volume?",
+    "options": [
+      "1. Megabytes",
+      "2. Megabits",
+      "3. Memory bytes",
+      "4. Memory bits"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "मेमोरी के साइज को 20 MB मानें। डेटा वॉल्यूम के संदर्भ में 'MB' यूनिट का क्या अर्थ है?",
+    "options": [
+      "1. मेगाबाइट्स",
+      "2. मेगाबिट्स",
+      "3. मेमोरी बाइट्स",
+      "4. मेमोरी बिट्स"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a time delay in the sending of data packets over network connection often caused by network congestion, and sometimes route changes?",
+    "options": [
+      "1. Only an error",
+      "2. Only a jitter",
+      "3. Either an error or a jitter",
+      "4. Both an error and a jitter"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्न में से कौन-सा नेटवर्क कनेक्शन पर डेटा पैकेट भेजने में समय की देरी है जो अक्सर नेटवर्क कंजेशन और कभी-कभी रूट परिवर्तन के कारण होता है?",
+    "options": [
+      "1. केवल एरर",
+      "2. केवल जिटर",
+      "3. या तो एरर अथवा जिटर",
+      "4. एरर और जिटर दोनों"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In DoS attack, the targeted computer becomes ______.",
+    "options": [
+      "1. extra alert",
+      "2. responsive",
+      "3. unresponsive",
+      "4. very fast"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "DoS अटैक में, लक्षित कंप्यूटर _____________ हो जाता है।",
+    "options": [
+      "1. अतिरिक्त संवेदनशील",
+      "2. प्रतिक्रियात्मक",
+      "3. अप्रतिक्रियात्मक",
+      "4. बहुत तेज"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "IP address is __________________ .",
+    "options": [
+      "1. a unique identifier for devices connected to a network",
+      "2. a unique identifier that is shaped on the computer hardware to connect the system to other systems of the network address",
+      "3. a set of rules and procedures that govern how data is transmitted and received between devices",
+      "4. a logical address that enables communication between different applications on a network or within a device"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "IP एड्रेस __________।",
+    "options": [
+      "1. नेटवर्क से जुड़े डिवाइसों के लिए एक अद्वितीय पहचानकर्ता है",
+      "2. एक अद्वितीय पहचानकर्ता जो नेटवर्क एड्रेस के अन्य सिस्टम्स को सिस्टम से कनेक्ट करने के लिए कंप्यूटर हार्डवेयर पर आकार लेता है",
+      "3. नियमों और प्रक्रियाओं का एक सेट जो नियंत्रित करता है कि डेटा डिवाइसों के बीच कैसे प्रसारित और प्राप्त किया जाता है",
+      "4. एक तार्किक पता जो नेटवर्क पर या एक डिवाइस के भीतर विभिन्न अनुप्रयोगों के बीच संचार को सक्षम बनाता है"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS-PowerPoint 2019, which tab lets you add comments, run spell-check or compare one presentation with another (such as an earlier version)?",
+    "options": [
+      "1. File",
+      "2. Review",
+      "3. View",
+      "4. Tools"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-PowerPoint 2019 में, निम्न में से कौन-सा टैब आपको कमेंट जोड़ने, स्पेल चेक रन करने या एक प्रेजेंटेजेंटेशन की तुलना दूसरे या उसके पहले संस्करण से करने की सुविधा देता है?",
+    "options": [
+      "1. फाइल (File)",
+      "2. रिव्यू (Review)",
+      "3. व्यू (View)",
+      "4. टूल्स (Tools)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Solid state drive (SSD) belongs to which of the following categories?",
+    "options": [
+      "1. Laser-based Drives",
+      "2. Magnetic Spinning Drives",
+      "3. Flash-based Drives",
+      "4. Optical Storage Drives"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "सॉलिड स्टेट ड्राइव (SSD) निम्नलिखित में से किस श्रेणी से संबंधित है?",
+    "options": [
+      "1. लेज़र-बेस्ड ड्राइव्स (Laser-based Drives)",
+      "2. मैग्नेटिक स्पिन्निंग ड्राइव्स (Magnetic Spinning Drives)",
+      "3. फ़्लैश-बेस्ड ड्राइव्स (Flash-based Drives)",
+      "4. ऑप्टिकल स्टोरेज ड्राइव्स (Optical Storage Drives)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A _________ consists of one or more web pages located on a web server.",
+    "options": [
+      "1. template",
+      "2. hub",
+      "3. story",
+      "4. website"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "______ में एक या एक से अधिक वेब पेज होते हैं, जो वेब सर्वर पर मौजूद होते हैं।",
+    "options": [
+      "1. टेम्पलेट (template)",
+      "2. हब (hub)",
+      "3. स्टोरी (story)",
+      "4. वेबसाइट (website)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A plotter is:",
+    "options": [
+      "1. an input device to produce good quality graphics",
+      "2. an output device to produce designs and graphics",
+      "3. a fast output device using camera lenses",
+      "4. an output device that displays data from a computer onto a screen interface"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "प्लॉटर क्या है?",
+    "options": [
+      "1. अच्छी गुणवत्ता वाले ग्राफ़िक्स उत्पन्न करने वाला एक इनपुट डिवाइस",
+      "2. डिज़ाइन और ग्राफ़िक्स उत्पन्न करने वाला एक आउटपुट डिवाइस",
+      "3. कैमरा लेंस का उपयोग करने वाला एक फास्ट आउटपुट डिवाइस",
+      "4. एक आउटपुट डिवाइस जो कंप्यूटर से डेटा को स्क्रीन इंटरफेस पर प्रदर्शित करता है।"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The value of the MS-Excel 2019 expression '=FLOOR(11.6, 3)' is:",
+    "options": [
+      "1. 11",
+      "2. 10",
+      "3. 9",
+      "4. 12"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel 2019 में, व्यंजक '=FLOOR(11.6, 3)' का मान क्या होगा?",
+    "options": [
+      "1. 11",
+      "2. 10",
+      "3. 9",
+      "4. 12"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which types of batteries are NOT used in laptops?",
+    "options": [
+      "1. Lithium-ion (Li-ion) battery",
+      "2. Nickel–cadmium (NiCad) battery",
+      "3. Nickel metal hydride (NiMH) battery",
+      "4. Sulphur neon hydride (S-NionH) battery"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "लैपटॉप में निम्न में से किस प्रकार की बैटरी का उपयोग नहीं किया जाता है?",
+    "options": [
+      "1. लिथियम आयन (Li-ion) बैटरी",
+      "2. निकल कैडमियम (NiCad) बैटरी",
+      "3. निकल मेटल हाइड्रा इड (NiMH) बैटरी",
+      "4. सल्फर नियॉन हाइड्रा इड (S-NionH) बैटरी"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is true with reference to types of computers? <br><br>(i) All modern computers like laptops and desktops that we use at home or office are digital computers. <br>(ii) Digital computers cannot process discrete values such as speed, temperature, pressure and current directly.",
+    "options": [
+      "1. Only (i)",
+      "2. Only (ii)",
+      "3. Both (i) and (ii)",
+      "4. Neither (i) nor (ii)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कंप्यूटर के प्रकारों के संदर्भ में निम्नलिखित में से कौन-सा सत्य है? <br><br>(i) लैपटॉप और डेस्कटॉप जैसे सभी आधुनिक कंप्यूटर जिनका हम घर या कार्यालय में उपयोग करते हैं, डिजिटल कंप्यूटर हैं। <br>(ii) डिजिटल कंप्यूटर स्पीड, तापमान, दाब और विद्यु त प्रवाह जैसे असतत मानों को सीधे संसाधित नहीं कर सकते।",
+    "options": [
+      "1. केवल (i)",
+      "2. केवल (ii)",
+      "3. (i) और (ii) दोनों",
+      "4. न तो (i) और न ही (ii)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A file ____________ is a code appearing at the end of a filename that indicates the type of file.",
+    "options": [
+      "1. name",
+      "2. icon",
+      "3. extension",
+      "4. content"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एक फ़ाइल ___________________ वह कोड होता है जो फ़ाइल नाम के अंत में आता है और फ़ाइल के प्रकार को दर्शाता है।",
+    "options": [
+      "1. नेम (name)",
+      "2. आइकन (icon)",
+      "3. एक्सटेंशन (extension)",
+      "4. कंटेंट (content)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A small piece of code which locates the Kernel, loads into main memory and starts the execution is called:",
+    "options": [
+      "1. linker",
+      "2. dispatcher",
+      "3. assembler",
+      "4. bootstrap loader"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कोड का वह छोटा हिस्सा जो कर्नेल (Kernel) को लोकेट करता और मुख्य मेमोरी में लोड होकर कार्यान्वयन शुरू करता है, ______ कहलाता है।",
+    "options": [
+      "1. लिंकर (linker)",
+      "2. डिस्पैचर (dispatcher)",
+      "3. असेम्बलर (assembler)",
+      "4. बूटस्ट्रैप लोडर (bootstrap loader)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following extensions does a Structured Query Language Data File have?",
+    "options": [
+      "1. .sql",
+      "2. .dbs",
+      "3. .sq",
+      "4. .db"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "स्ट्रक्चर्ड क्वेरी लैंग्वेज डेटा फ़ाइल (Structured Query Language Data File) का फ़ाइल एक्सटेंशन निम्नलिखित में से क्या है?",
+    "options": [
+      "1. .sql",
+      "2. .dbs",
+      "3. .sq",
+      "4. .db"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the given options best describes the truthfulness of the following statements? <br><br>(i) Hardware provides instructions for Software. <br>(ii) A computer without software would be useless.",
+    "options": [
+      "1. (i) - True, (ii) - True",
+      "2. (i) - False, (ii) - True",
+      "3. (i) - True, (ii) - False",
+      "4. (i) - False, (ii) - False"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "दिए गए कथनों की सत्यता का सबसे अच्छा वर्णन करने वाला विकल्प कौन-सा है? <br><br>(i) हार्डवेयर सॉफ्टवेयर के लिए निर्देश प्रदान करता है। <br>(ii) सॉफ्टवेयर के बिना एक कंप्यूटर उपयोगी नहीं होगा।",
+    "options": [
+      "1. I-सत्य, II-सत्य",
+      "2. I-असत्य, II-सत्य",
+      "3. I-सत्य, II-असत्य",
+      "4. I-असत्य, II-असत्य"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following software is designed to run a computer's hardware and provides a platform for applications to run on top of?",
+    "options": [
+      "1. Application Software",
+      "2. Database Software",
+      "3. Middleware",
+      "4. System Software"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा सॉफ़्टवेयर कंप्यूटर के हार्डवेयर को रन करने के लिए डिज़ाइन किया गया है और एप्लिकेशन को चलाने के लिए एक प्लेटफ़ॉर्म प्रदान करता है?",
+    "options": [
+      "1. एप्लिकेशन सॉफ़्टवेयर (Application Software)",
+      "2. डेटाबेस सॉफ़्टवेयर (Database Software)",
+      "3. मिडलवेयर (Middleware)",
+      "4. सिस्टम सॉफ़्टवेयर (System Software)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following will NOT minimise the energy usage in computer rooms?",
+    "options": [
+      "1. Using screen savers for computers when not in use.",
+      "2. Shutting down computers when not in use.",
+      "3. Adjusting configuration settings like brightness.",
+      "4. Controlling the overheating environment."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से क्या कंप्यूटर रूम में बिजली के उपयोग को कम नहीं करेगा?",
+    "options": [
+      "1. उपयोग में नहीं होने पर कंप्यूटर के लिए स्क्रीन सेवर का उपयोग करना।",
+      "2. उपयोग में न होने पर कंप्यूटरों को बंद करना।",
+      "3. कॉन्फ़िगरेशन सेटिंग्स जैसे ब्राइटनेस को एडजस्ट करना।",
+      "4. अधिक गर्म वातावरण को नियंत्रित करना।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A keyboard connector can be of ______ type.",
+    "options": [
+      "1. only USB",
+      "2. either USB or PS2",
+      "3. only PS2",
+      "4. VGA"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "की-बोर्ड कनेक्टर ______ प्रकार का हो सकता है।",
+    "options": [
+      "1. केवल USB",
+      "2. या तो USB अथवा PS2",
+      "3. केवल PS2",
+      "4. VGA"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A barcode reader consists of ______, ______ and ______ used to connect the reader with a computer.",
+    "options": [
+      "1. scanner; encoder; camera",
+      "2. scanner; encoder; cable",
+      "3. scanner; decoder; cable",
+      "4. scanner; decoder; camera"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एक बारकोड रीडर में ______, ______ और ______ होते हैं जिनका उपयोग रीडर को कंप्यूटर से कनेक्ट करने के लिए किया जाता है।",
+    "options": [
+      "1. स्कैनर; एनकोडर; कैमरा",
+      "2. स्कैनर; एनकोडर; केबल",
+      "3. स्कैनर; डिकोडर; केबल",
+      "4. स्कैनर; डिकोडर; कैमरा"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is also referred to as public-key encryption?",
+    "options": [
+      "1. Asymmetric encryption",
+      "2. Symmetric encryption",
+      "3. Single-key encryption",
+      "4. Secret-key encryption"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से किसे पब्लिक-की एन्क्रिप्शन के रूप में भी जाना जाता है?",
+    "options": [
+      "1. एसिमेट्रिक एन्क्रिप्शन (Asymmetric encryption)",
+      "2. सिमेट्रिक एन्क्रिप्शन (Symmetric encryption)",
+      "3. सिंगल-की एन्क्रिप्शन (Single-key encryption)",
+      "4. सीक्रेट-की एन्क्रिप्शन (Secret-key encryption)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A/An ______ is a signal from a device attached to a computer or from a program within the computer that requires the operating system to stop and figure out what to do next.",
+    "options": [
+      "1. Hardware",
+      "2. Interrupt",
+      "3. Software",
+      "4. Interrupt Handler"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक ______ कंप्यूटर से जुड़े डिवाइस से या कंप्यूटर के भीतर एक प्रोग्राम से आने वाला एक सिग्नल है जिसके लिए ऑपरेटिंग सिस्टम को रुकने और यह पता लगाने की आवश्यकता होती है कि आगे क्या करना है।",
+    "options": [
+      "1. हार्डवेयर (Hardware)",
+      "2. इंटरप्ट (Interrupt)",
+      "3. सॉफ्टवेयर (Software)",
+      "4. इंटरप्ट हैंडलर (Interrupt Handler)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a small electronic circuit printed on a chip usually made of silicon that contains many circuit elements such as diodes, resistors, etc.?",
+    "options": [
+      "1. Transistor",
+      "2. Vacuum tube",
+      "3. Integrated circuit",
+      "4. Magnetic drum"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन एक छोटी इलेक्ट्रॉ निक सर्किट है जो एक चिप पर प्रिंट होती है, और आमतौर पर सिलिकॉन से बनी होती है जिसमें डायोड, रेसिस्टर जैसे कई सर्किट अवयव होते हैं?",
+    "options": [
+      "1. ट्रांजिस्टर (Transistor)",
+      "2. वैक्यूम ट्यूब (Vacuum tube)",
+      "3. इंटीग्रेटेड सर्किट (Integrated circuit)",
+      "4. मैग्नेटिक ड्रम (Magnetic drum)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "8 bytes is equal to how many bits?",
+    "options": [
+      "1. 8",
+      "2. 32",
+      "3. 16",
+      "4. 64"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "8 बाइट कितने बिट के बराबर होता है?",
+    "options": [
+      "1. 8",
+      "2. 32",
+      "3. 16",
+      "4. 64"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In MS PowerPoint 2019, which of the following ways is INCORRECT for creating a new presentation?",
+    "options": [
+      "1. Only Template on Microsoft.com",
+      "2. Format",
+      "3. Template on Microsoft.com and Blank Presentation",
+      "4. Only Blank Presentation"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS PowerPoint 2019 में, एक नया प्रेजेंटेजेंटेशन बनाने के लिए निम्न में से कौन सा तरीका गलत है?",
+    "options": [
+      "1. Microsoft.com पर केवल Template",
+      "2. Format",
+      "3. Microsoft.com पर Template और Blank Presentation",
+      "4. केवल Blank Presentation"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "State whether the following statements are true or false. <br><br>I. Cache is a fast memory that is placed between CPU and main memory. <br>II.The smaller capacity of the cache reduces the time required to locate data.",
+    "options": [
+      "1. I-False, II-True",
+      "2. I-True, II-False",
+      "3. I-True, II-True",
+      "4. I-False, II-False"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "बताइए कि निम्नलिखित कथन सत्य हैं या असत्य हैं। <br><br>I. कैश एक फास्ट मेमोरी है जो CPU और मुख्य मेमोरी के बीच स्थित होती है। <br>II. कैश की छोटी क्षमता, डेटा का पता लगाने में लगने वाले समय को कम करती है।",
+    "options": [
+      "1. I-असत्य, II-सत्य",
+      "2. I-सत्य, II-असत्य",
+      "3. I-सत्य, II-सत्य",
+      "4. I-असत्य, II-असत्य"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "_________ is an application interface that lets the applications communicate using XML and the web.",
+    "options": [
+      "1. Web portal",
+      "2. Web GUI",
+      "3. System GUI",
+      "4. Web API"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "_________ एक ऐसा एप्लीकेशन इंटरफ़ेस है जो एप्लीकेशंस को XML और वेब का उपयोग कर कम्युनिकेट करने की सुविधा देता है।",
+    "options": [
+      "1. वेब पोर्टल",
+      "2. वेब GUI",
+      "3. सिस्टम GUI",
+      "4. वेब API"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following charts in MS-Excel 2019 is useful when you want to display values at multiple stages in a process?",
+    "options": [
+      "1. Funnel chart",
+      "2. Map chart",
+      "3. Pie chart",
+      "4. Stock chart"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में, जब आप किसी प्रक्रिया के मानों को विभिन्न चरणों में व्यक्त करना चाहते हैं, तो कौन सा चार्ट उपयुक्त होगा?",
+    "options": [
+      "1. फनेल चार्ट (Funnel chart)",
+      "2. मैप चार्ट (Map chart)",
+      "3. पाई चार्ट (Pie chart)",
+      "4. स्टॉक चार्ट (Stock chart)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following functions checks whether one or more conditions are met, and returns a value that corresponds to the first TRUE condition in MS Excel 2019?",
+    "options": [
+      "1. COUNTIF",
+      "2. COUNT",
+      "3. IFS",
+      "4. COUNTIFS"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा फ़ंक्शन यह जांचता है कि क्या एक या अधिक शर्तें पूरी हुई हैं, और MS-Excel 2019 में पहली TRUE शर्त के अनुरूप मान रिटर्न करता है?",
+    "options": [
+      "1. COUNTIF",
+      "2. COUNT",
+      "3. IFS",
+      "4. COUNTIFS"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Router's configuration interface page is served to your browser directly from your:",
+    "options": [
+      "1. mail assistance",
+      "2. mobile",
+      "3. online help menu",
+      "4. router"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "राउटर का कॉन्फ़िगरेशन इंटरफ़ेस पेज आपके ब्राउज़र पर सीधे आपके ____________ से दिया जाता है।",
+    "options": [
+      "1. मेल असिस्टेंस (mail assistance)",
+      "2. मोबाइल (mobile)",
+      "3. ऑनलाइन हेल्प मेनू (online help menu)",
+      "4. राउटर (router)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In an MS-Word 2019 document, e-mail address text string is automatically shown as a hyperlink. Which of the following options should be selected to remove this link?",
+    "options": [
+      "1. Remove Hyperlink",
+      "2. Edit Hyperlink",
+      "3. Convert to Regular Text",
+      "4. Remove Underline"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "यदि आप एक MS-Word 2019 डॉक्यूमेंट में, ई-मेल पते के टेक्स्ट स्ट्रिंग से हाइपरलिंक हटाना चाहते हैं, तो आपको निम्नलिखित में से कौन सा विकल्प चुनना चाहिए?",
+    "options": [
+      "1. रिमूव हाइपरलिंक (Remove Hyperlink)",
+      "2. एडिट हाइपरलिंक (Edit Hyperlink)",
+      "3. कन्वर्ट टु रेगुलर टेक्स्ट (Convert to Regular Text)",
+      "4. रिमूव अंडरलाइन (Remove Underline)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the definition of a nibble?",
+    "options": [
+      "1. It is 1 bit.",
+      "2. It is a group of 4 bits.",
+      "3. It is a group of 4 bytes.",
+      "4. It is a group of 4 words."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निबल की परिभाषा क्या है?",
+    "options": [
+      "1. यह 1 बिट है।",
+      "2. यह 4 बिट का समूह (ग्रुप) है।",
+      "3. यह 4 बाइट का समूह (ग्रुप) है।",
+      "4. यह 4 शब्दों का समूह (ग्रुप) है।"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following bits are used to represent the hexadecimal number system?",
+    "options": [
+      "1. 0 to 8",
+      "2. 0 and 1",
+      "3. 0 to 6",
+      "4. 0 to 9 and A to F"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "हेक्साडेसीमल संख्या पद्धति को निरुपित करने के लिए निम्न में से किन बिट्स का उपयोग किया जाता है?",
+    "options": [
+      "1. 0 से 8",
+      "2. 0 और 1",
+      "3. 0 से 6",
+      "4. 0 से 9 और A से F"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following steps must be taken to change text direction in a cell in MS-Excel 2019?",
+    "options": [
+      "1. Format cells → Alignment",
+      "2. Format cells → Border",
+      "3. Format cells → Font",
+      "4. Format cells → Cell"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में, किसी सेल के टेक्स्ट की दिशा बदलने के लिए निम्न में से किन चरणों का उपयोग किया जाना चाहिए?",
+    "options": [
+      "1. फॉर्मेट सेल्स → अलाइनमेंट (Format cells → Alignment)",
+      "2. फॉर्मेट सेल्स → बॉर्डर (Format cells → Border)",
+      "3. फॉर्मेट सेल्स → फॉन्ट (Format cells → Font)",
+      "4. फॉर्मेट सेल्स → सेल (Format cells → Cell)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS-Excel 2019, when you type Amavasya and drag the fill handle, you want Excel to produce Padyami, Vidiya…, (day’s names in Telegu) and so on. Which of the following will you set to effect that?",
+    "options": [
+      "1. Sort",
+      "2. Custom list",
+      "3. Filter",
+      "4. Conditional formatting"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 में, जब आप अमावस्या (Amavasya) लिखकर फिल हैंडल को ड्रैग करते हैं और आप चाहते हैं कि Excel पद्यमी (Padyami), विद्या (Vidiya)…, (तेलगु में दिनों के नाम) आदि का उत्पादन करे। इसे प्रभावी करने के लिए आप निम्न में से किस इफ़ेक्ट (effect) का चयन करेंगे?",
+    "options": [
+      "1. सॉर्ट (Sort)",
+      "2. कस्टम लिस्ट (Custom list)",
+      "3. फ़िल्टर (Filter)",
+      "4. कंडीशनल फॉर्मेटिंग (Conditional formatting)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A Computer language translator is an example of which of the following categories?",
+    "options": [
+      "1. Security Software",
+      "2. Application Software",
+      "3. System Software",
+      "4. Driver Software"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "कंप्यूटर भाषा रूपांतरक निम्नलिखित में से किस श्रेणी का उदाहरण है?",
+    "options": [
+      "1. सिक्योरिटी सॉफ्टवेयर (Security Software)",
+      "2. एप्लीकेशन सॉफ्टवेयर (Application Software)",
+      "3. सिस्टम सॉफ्टवेयर (System Software)",
+      "4. ड्राइवर सॉफ्टवेयर (Driver Software)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In an MS-Excel spreadsheet, a cell with a/an ___________ DOES NOT change even if copied elsewhere.",
+    "options": [
+      "1. absolute reference",
+      "2. relative reference",
+      "3. reflexive reference",
+      "4. mixed cell reference"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel स्प्रेडशीट में, ___________ वाला सेल कहीं पर कॉपी किए जाने पर भी बदलता नहीं है।",
+    "options": [
+      "1. आब्सोल्यूट रेफरेंस (absolute reference)",
+      "2. रिलेटिव रेफरेंस (relative reference)",
+      "3. रिफ्लेक्सिव रेफरेंस (Reflexive reference)",
+      "4. मिक्स्ड सेल रेफरेंस (Mixed cell reference)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "__________ is the default cell reference in MS-Excel.",
+    "options": [
+      "1. Absolute reference",
+      "2. Relative reference",
+      "3. Reflexive reference",
+      "4. Mixed cell reference"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "________, MS-Excel का डिफ़ॉल्ट सेल रेफरेंस है।",
+    "options": [
+      "1. आब्सोल्यूट रेफरेंस (absolute reference)",
+      "2. रिलेटिव रेफरेंस (relative reference)",
+      "3. रिफ्लेक्सिव रेफरेंस (Reflexive reference)",
+      "4. मिक्स्ड सेल रेफरेंस (Mixed cell reference)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "__________ is NOT a valid macro name in MS-Excel 2019.",
+    "options": [
+      "1. Fact",
+      "2. Fact1",
+      "3. 1fact",
+      "4. Fact_1"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel 2019 में __________ एक वैध मैक्रो नाम नहीं है।",
+    "options": [
+      "1. Fact",
+      "2. Fact1",
+      "3. 1fact",
+      "4. Fact_1"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What do the given steps do in MS-Excel 2019? <br><br>1. Click the Developer tab -> Select the Macros option from the code group. A macro dialog box will appear. 2. Select the macro name to edit or change the keyboard shortcut or description. <br>3. Click on the Options button. The Macro Options dialog box will appear. <br>4. Do the desired changes. <br>5. Click on the OK button. <br>6. Close the Macro dialog box.",
+    "options": [
+      "1. Creates a dialog box in MS-Excel",
+      "2. Records a macro",
+      "3. Activates a tab in the ribbon menu",
+      "4. Changes the keyboard shortcut and/or description of the recorded macro"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel 2019 में दिए गए चरण क्या करते हैं? <br><br>1. Developer टैब पर क्लिक करें। -> कोड ग्रुप से Macros विकल्प का चयन करें। एक मैक्रो डायलॉग बॉक्स प्रदर्शित होगा। <br>2. की-बोर्ड शॉर्टकट या विवरण को एडिट करने या बदलने के लिए मैक्रो नाम का चयन करें। <br>3. Options बटन पर क्लिक करें। Macro Options डायलॉग बॉक्स प्रदर्शित होगा। <br>4. वांछित परिवर्तन करें। <br>5. OK बटन पर क्लिक करें। <br>6. Macro डायलॉग बॉक्स बंद करें।",
+    "options": [
+      "1. MS-Excel में एक डायलॉग बॉक्स क्रिएट हो जाएगा",
+      "2. मैक्रो रिकॉर्ड हो जाएगा",
+      "3. रिबन मेनू में एक टैब सक्रिय हो जाएगा",
+      "4. रिकॉर्ड किए गए मैक्रो का की-बोर्ड शॉर्टकट और/या विवरण बदल जाएगा"
+    ],
+    "answer": 3
+  }
+],
+
+  
+
   "17th January 2026 - Shift1": [
   {
     "q": "Which of the following is a network layer protocols of the OSI model?",
@@ -9397,6 +10442,7 @@
   
         
     
+
 
 
 
