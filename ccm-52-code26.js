@@ -3131,6 +3131,1051 @@
   }
 ],
 
+  "17th January 2026 - Shift2": [
+  {
+    "q": "Which of the following terminals don't have any processing, memory, or storage capabilities?",
+    "options": [
+      "1. Dumb",
+      "2. Intelligent",
+      "3. Input/output",
+      "4. Processor"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से किस टर्मिनल में कोई प्रोसेसिंग, मेमोरी या स्टोरेज क्षमता नहीं होती है?",
+    "options": [
+      "1. डंब (Dumb)",
+      "2. इन्टेलिजेन्ट (Intelligent)",
+      "3. इनपुट/आउटपुट (Input/output)",
+      "4. प्रोसेसर (Processor)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What will be the output for the function MID(\"output\"; 3; 2) in OpenOffice Calc?",
+    "options": [
+      "1. t",
+      "2. tp",
+      "3. p",
+      "4. u"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ओपन ऑफिस कैल्क (open office Calc) में फंक्शन MID(\"output\"; 3; 2) का क्या आउटपुट होगा?",
+    "options": [
+      "1. t",
+      "2. tp",
+      "3. p",
+      "4. u"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following languages is considered to have set up the base for COBOL?",
+    "options": [
+      "1. ShortCode",
+      "2. LongCode",
+      "3. Flow-Matic",
+      "4. SpeedCode"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से किस भाषा को COBOL का आधार माना जाता है?",
+    "options": [
+      "1. ShortCode",
+      "2. LongCode",
+      "3. Flow-Matic",
+      "4. SpeedCode"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is the correct representation of Decimal 157 into Octal number system?",
+    "options": [
+      "1. 325",
+      "2. 253",
+      "3. 352",
+      "4. 235"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा दशमलव 157 का ऑक्टल संख्या प्रणाली में सही निरूपण है?",
+    "options": [
+      "1. 325",
+      "2. 253",
+      "3. 352",
+      "4. 235"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "_______ is any process that a business organisation conducts over a computer-mediated network.",
+    "options": [
+      "1. Trading",
+      "2. E-business",
+      "3. Exchanging",
+      "4. Business"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "_________ एक प्रक्रिया है जिसे व्यापार संगठन कंप्यूटर की मध्यस्थता वाले नेटवर्क पर आयोजित करते हैं।",
+    "options": [
+      "1. ट्रेडिंग (Trading)",
+      "2. ई-बिजनेस (E-business)",
+      "3. एक्सचेंजिंग (Exchanging)",
+      "4. बिजनेस (Business)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ Topology is very reliable - if one node or cable fails then all the others will still work as long as the central hub is operational.",
+    "options": [
+      "1. Ring",
+      "2. Tree",
+      "3. Star",
+      "4. Bus"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "______, टोपोलॉजी बहुत विश्वसनीय है - यदि एक नोड या केबल विफल हो जाता है तो अन्य सभी तब तक काम करेंगे जब तक कि केंद्रीय हब चालू है।",
+    "options": [
+      "1. रिंग (Ring)",
+      "2. ट्री (Tree)",
+      "3. स्टार (Star)",
+      "4. बस (Bus)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is spam with reference to email?",
+    "options": [
+      "1. Mails sent by friends",
+      "2. Important messages",
+      "3. Drafts",
+      "4. Unwanted messages"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "ईमेल के संदर्भ में स्पैम क्या है?",
+    "options": [
+      "1. मित्रों के द्वारा भेजे गए संदेश (Mails sent by friends)",
+      "2. महत्त्वपूर्ण संदेश (Important messages)",
+      "3. ड्राफ्ट्स (Drafts)",
+      "4. अवांछित संदेश (Unwanted messages)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following does NOT require the Internet?",
+    "options": [
+      "1. Creating a folder on the desktop",
+      "2. Downloading songs from a website",
+      "3. Streaming TV series",
+      "4. Purchasing mobile phone from a website"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से किसे इंटरनेट की आवश्यकता नहीं है?",
+    "options": [
+      "1. डेस्कटॉप पर फोल्डर बनाने के लिए",
+      "2. वेबसाइट से गीतों को डाउनलोड करने के लिए",
+      "3. TV सिरीज़ की स्ट्रीमिंग के लिए",
+      "4. वेबसाइट से मोबाइल फोन खरीदने के लिए"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ is a measure of the quantity of information bits that can be stored on a given length of track,area of surface, or in a given volume of a computer storage medium.",
+    "options": [
+      "1. Capacity",
+      "2. Media",
+      "3. Density",
+      "4. Access time"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "______, सूचना बिट्स की मात्रा का एक माप है जिसे ट्रैक की दी गई लंबाई, सतह के क्षेत्र या कंप्यूटर भंडारण माध्यम की दी गई मात्रा में संग्रहीत किया जा सकता है।",
+    "options": [
+      "1. कैपेसिटी (Capacity)",
+      "2. मीडिया (Media)",
+      "3. डेन्सिटी (Density)",
+      "4. एक्सेस टाइम (Access time)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In MS Word 2019, the arrow keys can be used to ______.",
+    "options": [
+      "1. move the cursor while deleting text",
+      "2. delete text",
+      "3. save the document",
+      "4. move the cursor within the text that has already been entered"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS Word 2019 में, ऐरो कुंजियों (arrow keys) का उपयोग ______ के लिए किया जा सकता है।",
+    "options": [
+      "1. टेक्स्ट डिलीट करने के दौरान कर्सर को स्थानांतरित करने",
+      "2. टेक्स्ट डिलीट करने",
+      "3. डॉक्युमेंट सेव करने",
+      "4. पहले से दर्ज किए गए टेक्स्ट के भीतर कर्सर को स्थानांतरित करने"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following commands is used to open System Properties (Advanced Tab) in Windows 11?",
+    "options": [
+      "1. SystemPropertiesAdvanced",
+      "2. SysPropAdvanced",
+      "3. SPropAdvanced",
+      "4. SPropertyAdvanced"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Windows 11 में सिस्टम प्रॉपर्टीज (एडवांस टैब) खोलने के लिए किस कमांड का उपयोग किया जाता है?",
+    "options": [
+      "1. SystemPropertiesAdvanced",
+      "2. SysPropAdvanced",
+      "3. SPropAdvanced",
+      "4. SPropertyAdvanced"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is an advantage of subnetting in computer networks?",
+    "options": [
+      "1. It helps reduce the cost of a network.",
+      "2. It provides security and increases the performance of a network.",
+      "3. It reduces the number of systems/computers on a network.",
+      "4. It allows virus-free communication."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, कंप्यूटर नेटवर्क में सबनेटिंग का एक लाभ है?",
+    "options": [
+      "1. यह नेटवर्क की लागत को कम करता है।",
+      "2. यह सुरक्षा प्रदान करता है और नेटवर्क के प्रदर्शन में वृद्धि करता है।",
+      "3. यह नेटवर्क में सिस्टम/कंप्यूटर की संख्या कम कर देता है।",
+      "4. यह वायरस मुक्त संचार की सुविधा देता है।"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "_____ makes it possible for shoppers to make purchases using their computers over the internet.",
+    "options": [
+      "1. E-Business",
+      "2. E-World",
+      "3. E-Spend",
+      "4. E-Commerce"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "_____ खरीदारों के लिए इंटरनेट पर अपने कंप्यूटर का उपयोग करके खरीदारी करना संभव बनाता है।",
+    "options": [
+      "1. ई-बिज़नेस (E-Business)",
+      "2. ई-वर्ल्ड (E-World)",
+      "3. ई-स्पेंड (E-Spend)",
+      "4. ई-कॉमर्स (E-Commerce)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "______ is the act of copying or downloading a program from a network and making multiple copies of it without ownership or legal rights.",
+    "options": [
+      "1. Software piracy",
+      "2. Network piracy",
+      "3. Plagiarism",
+      "4. Site-license piracy"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "________ एक नेटवर्क से किसी प्रोग्राम को कॉपी या डाउनलोड करने और उसकी कई कॉपी बनाने की क्रिया है।",
+    "options": [
+      "1. सॉफ़्टवेयर पायरेसी (Software piracy)",
+      "2. नेटवर्क पायरेसी (Network piracy)",
+      "3. प्लेगियरिज़म (Plagiarism)",
+      "4. साइट-लाइसेंस पायरेसी (Site-license piracy)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "If you visit a website you often use, instead of having to type in the address every time you visit it, you should ______.",
+    "options": [
+      "1. make a copy of it",
+      "2. bookmark it",
+      "3. save it as a file",
+      "4. memorise it"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "यदि आप किसी एक ही साइट पर बार-बार जाते हैं तो आपको हर बार एड्रेस टाइप करने के बजाय _______।",
+    "options": [
+      "1. उसकी एक कॉपी (प्रति) बना लेनी चाहिए",
+      "2. उसे बुकमार्क बना लेना चाहिए",
+      "3. उसे एक फ़ाइल की तरह सेव कर लेना चाहिए",
+      "4. उसे याद कर लेना चाहिए"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is/are commonly found on a webpage?",
+    "options": [
+      "1. Intranet",
+      "2. Internet",
+      "3. Hyperlinks",
+      "4. Templates"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से क्या सामान्यतः वेब पेजों पर पाया जाता है?",
+    "options": [
+      "1. इंट्रानेट (Intranet)",
+      "2. इंटरनेट (Internet)",
+      "3. हाइपरलिंक (Hyperlinks)",
+      "4. टेम्पलेट (Templates)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The strength of an encrypted algorithm depends on the ________________.",
+    "options": [
+      "1. length of the key",
+      "2. value of the key",
+      "3. length of the algorithm",
+      "4. secrecy of the algorithm"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एन्क्रिप्टेड एल्गोरिदम की स्ट्रैन्थ ________________पर निर्भर करती है।",
+    "options": [
+      "1. कुंजी (की) की लंबाई",
+      "2. कुंजी (की) की वैल्यू",
+      "3. एल्गोरिदम की लंबाई",
+      "4. एल्गोरिथम की गोपनीयता"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What would be the output of '=sign(-1200)' in MS-Excel 2019?",
+    "options": [
+      "1. 0",
+      "2. -1",
+      "3. 1",
+      "4. 2"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 में, '=sign(-1200)' का आउटपुट क्या होगा?",
+    "options": [
+      "1. 0",
+      "2. -1",
+      "3. 1",
+      "4. 2"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A webcam, used to capture live images and videos for computers, is classified as which of the following?",
+    "options": [
+      "1. Firmware",
+      "2. Software",
+      "3. Hardware",
+      "4. Web application"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "कंप्यूटर के लिए लाइव चित्र और वीडियो कैप्चर करने के लिए उपयोग किए जाने वाले वेबकैम को निम्नलिखित में से किस श्रेणी में वर्गीकृत किया जाता है?",
+    "options": [
+      "1. फ़र्मवेयर (Firmware)",
+      "2. सॉफ्टवेयर (Software)",
+      "3. हार्डवेयर (Hardware)",
+      "4. वेब एप्लिकेशन (Web application)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is not an actual Intel Core processor series?",
+    "options": [
+      "1. Core i7",
+      "2. Core i3",
+      "3. Core i5",
+      "4. Core i2"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा वास्तविक इंटेल कोर प्रोसेसर श्रृंखला नहीं है?",
+    "options": [
+      "1. Core i7",
+      "2. Core i3",
+      "3. Core i5",
+      "4. Core i2"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is NOT a valid option in the MS-PowerPoint 2019 Start Slide Show group of the Slide Show tab?",
+    "options": [
+      "1. From Current Slide",
+      "2. Reverse from Rear",
+      "3. From Beginning",
+      "4. Custom Slide Show"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-PowerPoint 2019 में, स्लाइड शो (Slide Show) टैब के अंतर्गत स्टार्ट स्लाइड शो (Start Slide Show) समूह में निम्न में से कौन-सा एक मान्य विकल्प नहीं है?",
+    "options": [
+      "1. फ्रॉम करंट स्लाइड (From Current Slide)",
+      "2. रिवर्स फ्रॉम रियर (Reverse from Rear)",
+      "3. फ्रॉम बिगनिंग (From Beginning)",
+      "4. कस्टम स्लाइड शो (Custom Slide Show)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In digital imaging, resolution is typically measured in which unit?",
+    "options": [
+      "1. Icons per inch",
+      "2. Colors per inch",
+      "3. Pixels per inch",
+      "4. Fonts per inch"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "डिजिटल इमेजिंग में, रिज़ॉल्यूशन आमतौर पर किस इकाई में मापा जाता है?",
+    "options": [
+      "1. आइकन प्रति इंच (Icons per inch)",
+      "2. कलर प्रति इंच (Colors per inch)",
+      "3. पिक्सेल प्रति इंच (Pixels per inch)",
+      "4. फ़ॉन्ट प्रति इंच (Fonts per inch)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "With reference to operating system loading, what does PXE stands for?",
+    "options": [
+      "1. Proper execution environment",
+      "2. Past boot execution environment",
+      "3. Primary execution environment",
+      "4. Pre boot execution environment"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "ऑपरेटिंग सिस्टम लोडिंग के संदर्भ में, PXE का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Proper execution environment (प्रॉपर एग्ज़िक्यूशन एन्वायरन्मेन्ट)",
+      "2. Past boot execution environment (पास्ट बूट एग्ज़िक्यूशन एन्वायरन्मेन्ट)",
+      "3. Primary execution environment (प्राइमरी एग्ज़िक्यूशन एन्वायरन्मेन्ट)",
+      "4. Pre boot execution environment (प्रि बूट एग्ज़िक्यूशन एन्वायरन्मेन्ट)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": ".mdb file format is used for:",
+    "options": [
+      "1. Microsoft Access database",
+      "2. SQL Server database",
+      "3. Mobile Device database",
+      "4. SQLite 3 database"
+    ],
+    "answer": 0
+  },
+  {
+    "q": ".mdb फाइल फॉर्मेट का उपयोग _______________ के लिए किया जाता है।",
+    "options": [
+      "1. माइक्रोसॉफ्ट एक्सेस डेटाबेस (Microsoft Access database)",
+      "2. SQL सर्वर डेटाबेस (SQL Server database)",
+      "3. मोबाइल डिवाइस डेटाबेस (Mobile Device database)",
+      "4. SQLite 3 डेटाबेस (SQLite 3 database)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "With reference to Java files, what is the full form of JAR?",
+    "options": [
+      "1. Java Abort",
+      "2. Java Access",
+      "3. Java Archive",
+      "4. Java Adobe"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "जावा फाइलों के संदर्भ में, JAR का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Java Abort (जावा एबोर्ट)",
+      "2. Java Access (जावा एक्सेस)",
+      "3. Java Archive (जावा आर्काइव)",
+      "4. Java Adobe (जावा एडोब)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the extension for disc image file?",
+    "options": [
+      "1. .jpeg",
+      "2. .WAV",
+      "3. .png",
+      "4. .IMG"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "डिस्क इमेज फाइल का एक्सटेंशन क्या है?",
+    "options": [
+      "1. .jpeg",
+      "2. .WAV",
+      "3. .png",
+      "4. .IMG"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "File compression is possible when the original data contains some type of ______.",
+    "options": [
+      "1. redundancy",
+      "2. sufficiency",
+      "3. abundancy",
+      "4. adequacy"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "फ़ाइल संपीड़न संभव है जब मूल डेटा में कुछ प्रकार का / की ______ होता / होती है।",
+    "options": [
+      "1. अतिरेकता (redundancy)",
+      "2. पर्याप्तता (sufficiency)",
+      "3. प्रचुरता (Abundancy)",
+      "4. उपयुक्तता (adequacy)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "How many types of data redundancies are commonly identified in digital image compression?",
+    "options": [
+      "1. 4",
+      "2. 3",
+      "3. 2",
+      "4. 5"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "डिजिटल छवि संपीड़न (digital image compression) में सामान्यतः कितने प्रकार के डेटा अतिरेक पहचाने जाते हैं?",
+    "options": [
+      "1. 4",
+      "2. 3",
+      "3. 2",
+      "4. 5"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Most ring topologies allow packets to travel only in one direction, called a ______ ring network.",
+    "options": [
+      "1. uppardirectional",
+      "2. undirectional",
+      "3. semidirectional",
+      "4. unidirectional"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "अधिकांश रिंग टोपोलॉजी, पैकेट को केवल एक दिशा में यात्रा करने की सुविधा देती है, जिसे ______ रिंग नेटवर्क कहा जाता है।",
+    "options": [
+      "1. अपरडायरेक्शनल (uppardirectional)",
+      "2. अनडायरेक्शनल (undirectional)",
+      "3. सेमिडायरेक्शनल (semidirectional)",
+      "4. यूनिडायरेक्शनल (unidirectional)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following registers hold the current instruction being executed?",
+    "options": [
+      "1. Instruction Register",
+      "2. Control Unit",
+      "3. Accumulator",
+      "4. Program Control"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा रजिस्टर निष्पादित किए जा रहे करंट इंस्ट्रक्शन को होल्ड करता है?",
+    "options": [
+      "1. इंस्ट्रक्शन रजिस्टर (Instruction Register)",
+      "2. कंट्रोल यूनिट (Control Unit)",
+      "3. एक्युमुलेटर (Accumulator)",
+      "4. प्रोग्राम कंट्रोल (Program Control)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which USB version first introduced the maximum data transfer speed of 5 Gbps (Gigabits per second)?",
+    "options": [
+      "1. USB 1.1",
+      "2. USB 3.0",
+      "3. USB 2.0",
+      "4. USB 4.0"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "किस USB संस्करण ने पहली बार 5 Gbps (गीगाबिट्स प्रति सेकंड) की अधिकतम डेटा स्थानांतरण गति पेश की?",
+    "options": [
+      "1. USB 1.1",
+      "2. USB 3.0",
+      "3. USB 2.0",
+      "4. USB 4.0"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ programming is a general-purpose, procedural, imperative computer programming language developed in 1972 by Dennis M. Ritchie at the Bell Telephone Laboratories.",
+    "options": [
+      "1. COBOL",
+      "2. Go",
+      "3. C",
+      "4. JAVA"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "________ प्रोग्रामिंग एक सामान्य प्रयोजन, प्रक्रियात्मक, अनिवार्य कंप्यूटर प्रोग्रामिंग भाषा है जिसे 1972 में बेल टेलीफोन लेबोरेटरीज में डेनिस एम. रिची (Dennis M. Ritchie) द्वारा विकसित किया गया l",
+    "options": [
+      "1. COBOL",
+      "2. Go",
+      "3. C",
+      "4. JAVA"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Random Access Memory (RAM) is used to store the ______ being used by the CPU in real-time.",
+    "options": [
+      "1. data and instructions",
+      "2. permanent files",
+      "3. input devices",
+      "4. applications"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "रैंडम एक्सेस मेमोरी (RAM) का उपयोग CPU द्वारा वास्तविक समय में उपयोग किए जा रहे ______ को संग्रहीत करने के लिए किया जाता है।",
+    "options": [
+      "1. डेटा और निर्देश (data and instructions)",
+      "2. परमानेंट फाइलों (permanent files) लों",
+      "3. इनपुट डिवाइस (input devices)",
+      "4. एप्लिकेशन (applications)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "By default, the file extension of MS-PowerPoint 2007 or later versions is __________.",
+    "options": [
+      "1. .ppt",
+      "2. .pptx",
+      "3. .ppx",
+      "4. .ppxt"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "डिफ़ॉल्ट रूप से, MS-PowerPoint 2007 या बाद के संस्करणों का फ़ाइल एक्सटेंशन __________ है।",
+    "options": [
+      "1. .ppt",
+      "2. .pptx",
+      "3. .ppx",
+      "4. .ppxt"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following in HTML is defined by a start tag, some content and an end tag?",
+    "options": [
+      "1. Characters",
+      "2. Literals",
+      "3. Elements",
+      "4. Variables"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "HTML में, निम्नलिखित में से किसे स्टार्ट टैग, सम कंटेंट और एंड टैग द्वारा परिभाषित किया जाता है?",
+    "options": [
+      "1. कैरेक्टर्स (Characters)",
+      "2. लिटरल्स (Literals)",
+      "3. एलिमेंट्स (Elements)",
+      "4. वेरिएबल्स (Variables)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following views is NOT supported in MS-PowerPoint 2019?",
+    "options": [
+      "1. Reading",
+      "2. Slide Sorter",
+      "3. Outline",
+      "4. Reverse"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा व्यू MS-PowerPoint 2019 में समर्थित (supported) नहीं है?",
+    "options": [
+      "1. रीडिंग (Reading)",
+      "2. स्लाइड सॉर्टर (Slide Sorter)",
+      "3. आउटलाइन (Outline)",
+      "4. रिवर्स (Reverse)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Twisted nematic liquid crystal has a ______ twist.",
+    "options": [
+      "1. 360°",
+      "2. 90°",
+      "3. 270°",
+      "4. 180°"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ट्विस्टेड नेमैटिक लिक्विड क्रिस्टल (Twisted nematic liquid crystal) में ______ ट्विस्ट होते हैं।",
+    "options": [
+      "1. 360°",
+      "2. 90°",
+      "3. 270°",
+      "4. 180°"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ printer is a non-impact printer and is quiet while working.",
+    "options": [
+      "1. Ball",
+      "2. Daisy Wheel",
+      "3. Inkjet",
+      "4. Dot matrix"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "______ प्रिंटर एक नॉन-इम्पैक्ट प्रिंटर है और प्रिंट करने के दौरान काफी कम आवाज करता है।",
+    "options": [
+      "1. बॉल (Ball)",
+      "2. डेज़ी व्हील (Daisy Wheel)",
+      "3. इंक-जेट (Inkjet)",
+      "4. डॉट मैट्रिक्स (Dot matrix)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is not a valid top-level domain (TLD) for an email address?",
+    "options": [
+      "1. .edu",
+      "2. .gov",
+      "3. .mil",
+      "4. .not"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा ईमेल पते के लिए वैध शीर्ष-स्तरीय डोमेन (TLD) नहीं है?",
+    "options": [
+      "1. .edu",
+      "2. .gov",
+      "3. .mil",
+      "4. .not"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "____________ is a set of open protocols and standards that allow data to be exchanged between different applications or systems.",
+    "options": [
+      "1. Web service",
+      "2. Web API",
+      "3. Web portal",
+      "4. Web GUI"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "____________ ओपन प्रोटोकॉल और मानकों का एक सेट है जो विभिन्न एप्लिकेशन या प्रणालियों के बीच डेटा का आदान-प्रदान करने की सुविधा देता है।",
+    "options": [
+      "1. Web service",
+      "2. Web API",
+      "3. Web portal",
+      "4. Web GUI"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In addition to email access, webmail providers offer various tools and features. Which of the following features helps to have text-based conversations?",
+    "options": [
+      "1. Online address book",
+      "2. Online calendar",
+      "3. Instant messaging",
+      "4. Public profile"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "ईमेल एक्सेस के अलावा, वेबमेल प्रदाता विभिन्न टूल और सुविधाएं प्रदान करते हैं। निम्नलिखित में से कौन-सी विशेषता टेक्स्ट-आधारित संचार करने में मदद करती है?",
+    "options": [
+      "1. ऑनलाइन एड्रेस बुक (Online address book)",
+      "2. ऑनलाइन कैलेंडर (Online calendar)",
+      "3. इंस्टेंट मैसेजिंग (Instant messaging)",
+      "4. पब्लिक प्रोफाइल (Public profile)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is NOT an operational mode of a Cisco's router?",
+    "options": [
+      "1. Global configuration mode",
+      "2. User EXEC mode",
+      "3. Privilege mode",
+      "4. Rest mode"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा सिस्को (Cisco) राउटर का परिचालन मोड नहीं है?",
+    "options": [
+      "1. ग्लोबल कन्फ़िगरेशन मोड (Global configuration mode)",
+      "2. यूज़र एक्सेक मोड (User EXEC mode)",
+      "3. प्रिविलेज़ मोड (Privilege mode)",
+      "4. रेस्ट मोड (Rest mode)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In which type of integration testing are all software modules combined simultaneously and tested together as a complete system, resulting in a complex integration process?",
+    "options": [
+      "1. Big bang testing",
+      "2. System testing",
+      "3. Incremental testing",
+      "4. Component testing"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एकीकरण परीक्षण के किस प्रकार में सभी सॉफ्टवेयर मॉड्यूल को एक साथ संयोजित किया जाता है और इनका एक पूर्ण प्रणाली के रूप में एक साथ परीक्षण किया जाता है, जिसके परिणामस्वरूप एक जटिल एकीकरण प्रक्रिया होती है?",
+    "options": [
+      "1. बिग बैंग परीक्षण (Big bang testing)",
+      "2. सिस्टम परीक्षण (System testing)",
+      "3. इंक्रीमेंटल परीक्षण (Incremental testing)",
+      "4. कॉम्पोनेन्ट परीक्षण (Component testing)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which protocol is primarily used for secure communication over the web?",
+    "options": [
+      "1. HTTP",
+      "2. HTTPS",
+      "3. FTP",
+      "4. SMTP"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "वेब पर सुरक्षित संचार के लिए मुख्यतः किस प्रोटोकॉल का उपयोग किया जाता है?",
+    "options": [
+      "1. HTTP",
+      "2. HTTPS",
+      "3. FTP",
+      "4. SMTP"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following bits are used to represent the binary number system?",
+    "options": [
+      "1. 0 to 9 and A to F",
+      "2. 0 to 6",
+      "3. 0 to 8",
+      "4. 0 and 1"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन से बिट्स का उपयोग बाइनरी संख्या प्रणाली को दर्शाने के लिए किया जाता है?",
+    "options": [
+      "1. 0 से 9 और A से F",
+      "2. 0 से 6",
+      "3. 0 से 8",
+      "4. 0 और 1"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "You want to edit a cell’s content in MS-Excel 2019. Which of the following keyboard shortcuts will you use to do this?",
+    "options": [
+      "1. F2",
+      "2. Ctrl + Spacebar",
+      "3. Alt + Spacebar",
+      "4. F6"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में सेल के कंटेंट को एडिट करना चाहते हैं। तो ऐसा करने के लिए निम्न में से किस कीबोर्ड शॉर्टकट का उपयोग किया जाएगा?",
+    "options": [
+      "1. F2",
+      "2. Ctrl + Spacebar",
+      "3. Alt + Spacebar",
+      "4. F6"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS-Excel 2019, the _______ function returns the number in middle of a set of numbers.",
+    "options": [
+      "1. AVERAGE",
+      "2. MEDIAN",
+      "3. SUM",
+      "4. AVG"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 में, ____________ फ़ंक्शन किसी संख्याओं के समूह की बीच वाली संख्या रिटर्न करता है।",
+    "options": [
+      "1. AVERAGE",
+      "2. MEDIAN",
+      "3. SUM",
+      "4. AVG"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following options is used to convert a column of data into a row in MS-Excel 2019?",
+    "options": [
+      "1. Paste Special only",
+      "2. Cut and Paste",
+      "3. Paste Special and Transpose",
+      "4. Cut and Transpose"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel 2019 में किसी डेटा के कॉलम को रो (row) में बदलने के लिए _________ का उपयोग होता है।",
+    "options": [
+      "1. पेस्ट स्पेशल ओनली (Paste special only)",
+      "2. कट और पेस्ट (Cut and paste)",
+      "3. पेस्ट स्पेशल और ट्रांसपोज (Paste Special and Transpose)",
+      "4. कट और ट्रांसपोज (Cut and Transpose)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which file extension is typically associated with a compressed archive file?",
+    "options": [
+      "1. .zip",
+      "2. .docx",
+      "3. .pptx",
+      "4. .exe"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कौन-सा फ़ाइल एक्सटेंशन आमतौर पर कम्प्रेस्ड आर्काइव फ़ाइल से संबंधित होता है?",
+    "options": [
+      "1. .zip",
+      "2. .docx",
+      "3. .pptx",
+      "4. .exe"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "An absolute reference for the range A1:A10 in MS-Excel looks like this:",
+    "options": [
+      "1. =$A1:$A$10",
+      "2. =$A$1:$A$10",
+      "3. =$A$1:$A10",
+      "4. =$A$1:A10"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एमएस-एक्सेल (MS-Excel) में A1 : A10 रेंज के लिए एब्सोल्यूट रेफरेन्स (absolute reference) किस प्रकार दिखता है?",
+    "options": [
+      "1. =$A1:$A$10",
+      "2. =$A$1:$A$10",
+      "3. =$A$1:$A10",
+      "4. =$A$1:A10"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following statements related to references in MS-Excel 2019 is correct?",
+    "options": [
+      "1. An absolute reference is a default reference in MS-Excel.",
+      "2. A mixed reference is a combination of a relative reference and a reflexive reference.",
+      "3. To create an absolute reference, select the cell reference and click function key F4, then the $ sign will be added to the row and column.",
+      "4. A relative reference is another type of reference where it will take the reference as fixed wherever you paste the formula."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel 2019 में रेफरेन्स से संबंधित निम्न में से कौन-सा कथन सही है?",
+    "options": [
+      "1. एमएस-एक्सेल (MS-Excel) में, एब्सोल्यूट रेफरेन्स डिफ़ॉल्ट रेफरेन्स है।",
+      "2. एक मिक्स्ड रेफरेन्स, रिलेटिव रेफरेन्स और रिफ्लेक्सिव रेफरेन्स का संयोजन है।",
+      "3. एक एब्सोल्यूट रेफरेन्स बनाने के लिए, सेल रेफरेन्स का चयन करें और F4 पर क्लिक करें; फिर, $ प्रतीक रो (row) और कॉलम (column) में जुड़ जाएगा।",
+      "4. रिलेटिव रेफरेन्स अन्य प्रकार का रेफरेन्स है जिसमें आप जहां भी फ़ॉर्म्यूला पेस्ट करते हैं, यह रेफरेन्स को निश्चित मान लेगा।"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "If you follow the given steps in MS-Excel 2019, what will you do as a result? <br> <br>1. Place the cursor in a cell from where you want to start recording. <br>2. Click on the Developer tab –> Record Macro. A Record Macro dialog box will appear. <br>3. Type a name for the macro by following the naming convention rules.<br>4. Assign keyboard shortcut and write the description (These are optional).<br>5. Click on the OK button.",
+    "options": [
+      "1. Change the keyboard shortcut and/or description of the recorded macro",
+      "2. Activate a tab in the ribbon menu",
+      "3. Create a dialog box in MS-Excel",
+      "4. Record a macro"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "यदि आप MS-Excel 2019 में दिए गए चरणों का पालन करते हैं, तो परिणाम के रूप में आप क्या करेंगे? <br> <br> 1. कर्सर को उस सेल में रखें जहाँ से आप रिकॉर्डिंग शुरू करना चाहते हैं। <br>2. Developer tab –> Record Macro पर क्लिक करें। एक रिकॉर्ड मैक्रो डायलॉग बॉक्स दिखाई देगा।<br>3. नेमिंग कन्वेंशन नियमों का पालन करके मैक्रो के लिए एक नाम टाइप करें। <br>4. कीबोर्ड शॉर्टकट असाइन करें और विवरण लिखें (ये वैकल्पिक हैं)। <br>5. OK बटन पर क्लिक करें।",
+    "options": [
+      "1. रिकॉर्ड किए गए मैक्रो का कीबोर्ड शॉर्टकट और/या विवरण बदलना",
+      "2. रिबन मेनू में एक टैब सक्रिय करना",
+      "3. एमएस-एक्सेल (MS-Excel) में एक डायलॉग बॉक्स बनाना",
+      "4. मैक्रो रिकॉर्ड करना"
+    ],
+    "answer": 3
+  }
+],
+
+  
+
 "18th January 2026 - Shift1": [
   {
     "q": "ISP stands for _______.",
@@ -11486,6 +12531,7 @@
   
         
     
+
 
 
 
