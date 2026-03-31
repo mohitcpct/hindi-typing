@@ -1,5 +1,1049 @@
  const questionBank26 = {
- 
+
+"31th March 2026 - Shift1": [
+  {
+    "q": "IBM 1401 is a ______ generation computer.",
+    "options": [
+      "1. first",
+      "2. second",
+      "3. third",
+      "4. fourth"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "IBM 1401 __________ पीढ़ी का कंप्यूटर है।",
+    "options": [
+      "1. पहली",
+      "2. दूसरी",
+      "3. तीसरी",
+      "4. चौथी"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which function returns the rank of a number in a list of numbers in MS-Excel 2019?",
+    "options": [
+      "1. LNRANK function",
+      "2. RANK.AVG function",
+      "3. RANKLN function",
+      "4. RANKLNUM function"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 में, निम्न में से कौन सा फंक्शन संख्याओं की सूची में संख्याओं की रैंकिंग देता है?",
+    "options": [
+      "1. LNRANK फंक्शन",
+      "2. RANK.AVG फंक्शन",
+      "3. RANKLN फंक्शन",
+      "4. RANKLNUM फंक्शन"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "_______ is the dropdown menu in OpenOffice Calc's formula toolbar that displays the active cell reference, such as A1.",
+    "options": [
+      "1. Name box",
+      "2. Drop box",
+      "3. Formula box",
+      "4. Input box"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_______ OpenOffice Calc के फ़ॉर्मूला टूलबार में ड्रॉ पडाउन मेन्यू है, जो सक्रिय सेल संदर्भ जैसे A1 को प्रदर्शित करता है।",
+    "options": [
+      "1. नाम बॉक्स (Name box)",
+      "2. ड्रॉप बॉक्स (Drop box)",
+      "3. फ़ॉर्मूला बॉक्स (Formula box)",
+      "4. इनपुट बॉक्स (Input box)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Read only, write once and rewritable are three basic types of ____________.",
+    "options": [
+      "1. floppy discs",
+      "2. keyboards",
+      "3. monitors",
+      "4. compact discs"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "रीड ओनली, राइट वन्स और रीराइटेबल, ___________ के तीन मूल प्रकार हैं।",
+    "options": [
+      "1. फ्लॉपी डिस्क्स (floppy discs)",
+      "2. की-बोर्ड्स (keyboards)",
+      "3. मॉनीटर्स (monitors)",
+      "4. कॉम्पैक्ट डिस्क्स (compact discs)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Choose the hexadecimal equivalent for decimal 45.",
+    "options": [
+      "1. 2D",
+      "2. 2C",
+      "3. 2A",
+      "4. 3D"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "दशमलव संख्या 45 के हेक्साडेसीमल समतुल्य का चयन विकल्पों में से कीजिए।",
+    "options": [
+      "1. 2D",
+      "2. 2C",
+      "3. 2A",
+      "4. 3D"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "If you are using the Windows operating system, then all necessary software are available in the:",
+    "options": [
+      "1. Microsoft Store",
+      "2. Apple Store",
+      "3. Google Store",
+      "4. Play Store"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "यदि आप विंडोज़ ऑपरेटिंग सिस्टम का उपयोग कर रहे हैं, तो सभी आवश्यक सॉफ़्टवेयर कहां उपलब्ध होंगेहों गे?",
+    "options": [
+      "1. माइक्रोसॉफ्ट स्टोर (Microsoft Store) में",
+      "2. एपल स्टोर (Apple Store) में",
+      "3. गूगल स्टोर (Google Store) में",
+      "4. प्ले स्टोर (Play Store) में"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A bar code reader is an electronic device that can also be called a:",
+    "options": [
+      "1. bar code scanner",
+      "2. bar code interpreter",
+      "3. bar code manipulator",
+      "4. bar code copier"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "बारकोड रीडर एक इलेक्ट्रॉ निक उपकरण है जिसे __________ भी कहा जाता है।",
+    "options": [
+      "1. बारकोड स्कैनर (bar code scanner)",
+      "2. बारकोड इंटरप्रेटर (bar code interpreter)",
+      "3. बारकोड मैनिपुलेटर (bar code manipulator)",
+      "4. बारकोड कॉपियर (bar code copier)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In biometric systems, the process of developing binning and partitioning schemes to speed up searches in large databases is called:",
+    "options": [
+      "1. swapping",
+      "2. hashing",
+      "3. indexing",
+      "4. stabilising"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "बायोमेट्रिक सिस्टम में, बड़े डेटाबेस में खोजों को गति देने के लिए बिनिंग और पार्टीशन योजनाओं को विकसित करने की प्रक्रिया निम्न में से क्या कहलाती है?",
+    "options": [
+      "1. स्वैपिंग (swapping)",
+      "2. हैशिंग (hashing)",
+      "3. इंडेक्सिंग (indexing)",
+      "4. स्टेबलाइजिंग (stabilising)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Choose the octal equivalent of decimal 29.",
+    "options": [
+      "1. 35",
+      "2. 36",
+      "3. 25",
+      "4. 26"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "दशमलव संख्या 29 के अष्टाधारी (octal) समतुल्य का चयन विकल्पों में से कीजिए।",
+    "options": [
+      "1. 35",
+      "2. 36",
+      "3. 25",
+      "4. 26"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the approximate wavelength of the laser used in Blu-ray Disc technology?",
+    "options": [
+      "1. 780 nm",
+      "2. 650 nm",
+      "3. 405 nm",
+      "4. 850 nm"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "ब्लू-रे डिस्क टेक्नोलॉजी में इस्तेमाल होने वाले लेज़र की अनुमानित वेवलेंथ कितनी होती है?",
+    "options": [
+      "1. 780 nm",
+      "2. 650 nm",
+      "3. 405 nm",
+      "4. 850 nm"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is NOT a type of virus?",
+    "options": [
+      "1. File Infector",
+      "2. Boot Sector",
+      "3. Macro",
+      "4. Worms"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से कौन सा वायरस का एक प्रकार नहीं है?",
+    "options": [
+      "1. फ़ाइल इंफेक्टर (File Infector)",
+      "2. बूट सेक्टर (Boot Sector)",
+      "3. मैक्रो (Macro)",
+      "4. वर्म्स (Worms)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which Internet application is primarily used for accessing and viewing web pages?",
+    "options": [
+      "1. VoIP",
+      "2. Web Browser",
+      "3. Telnet",
+      "4. SMTP"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कौन सा इंटरनेट अनुप्रयोग मुख्य रूप से वेब पेजों को एक्सेस करने और देखने के लिए उपयोग किया जाता है?",
+    "options": [
+      "1. वॉइप (VoIP)",
+      "2. वेब ब्राउज़र (Web Browser)",
+      "3. टेलनेट (Telnet)",
+      "4. SMTP"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is NOT a network topology type?",
+    "options": [
+      "1. Star",
+      "2. Mesh",
+      "3. Tree",
+      "4. Coin"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से कौन सा नेटवर्क टोपोलॉजी का एक प्रकार नहीं है?",
+    "options": [
+      "1. स्टार (Star)",
+      "2. मेश (Mesh)",
+      "3. ट्री (Tree)",
+      "4. कॉइन (Coin)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following USB versions can operate at a super speed mode with the data transfer rate up to 5 Gbps?",
+    "options": [
+      "1. USB 1.1",
+      "2. USB 2.0",
+      "3. USB 3.0",
+      "4. USB 1.0"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "USB का निम्नलिखित में से कौन-सा संस्करण 5 Gbps तक की डेटा अंतरण दर के साथ अति तीव्र गति पर कार्य कर सकता है?",
+    "options": [
+      "1. USB 1.1",
+      "2. USB 2.0",
+      "3. USB 3.0",
+      "4. USB 1.0"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the full form of FTP?",
+    "options": [
+      "1. File Transfer Protocol",
+      "2. File Transmission Protocol",
+      "3. File Timer Protocol",
+      "4. File Transfer Privacy"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "FTP का पूर्ण रूप क्या है?",
+    "options": [
+      "1. File Transfer Protocol (फ़ाइल ट्रांसफर प्रोटोकॉल)",
+      "2. File Transmission Protocol (फ़ाइल ट्रांसमिशन प्रोटोकॉल)",
+      "3. File Timer Protocol (फ़ाइल टाइमर प्रोटोकॉल)",
+      "4. File Transfer Privacy (फ़ाइल ट्रांसफर प्राइवेसी)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of following is NOT necessarily ensured by digital signatures?",
+    "options": [
+      "1. Authentication",
+      "2. Integrity",
+      "3. Non-repudiation",
+      "4. Confidentiality"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से किसे डिजिटल हस्ताक्षर द्वारा अनिवार्य रूप से सुनिश्चित नहीं किया जाता है?",
+    "options": [
+      "1. प्रमाणीकरण (Authentication)",
+      "2. अखंडता (Integrity)",
+      "3. प्रस्वीकरण (Non-repudiation)",
+      "4. गोपनीयता (Confidentiality)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "EPROM is a type of memory chip that can be erased and reprogrammed by which of the following methods?",
+    "options": [
+      "1. Electrically erasable programmable ROM",
+      "2. Magnetically erasable programmable ROM",
+      "3. Flash memory",
+      "4. UV erasable programmable ROM"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "EPROM एक प्रकार की मेमोरी चिप है जिसे निम्नलिखित में से किस विधि से मिटाया और पुनः प्रोग्राम किया जा सकता है?",
+    "options": [
+      "1. इलेक्ट्रिकली इरेजेबल प्रोग्रामेबल ROM",
+      "2. मैग्नेटिकली इरेजेबल प्रोग्रामेबल ROM",
+      "3. फ़्लैश मेमोरी",
+      "4. UV इरेजेबल प्रोग्रामेबल ROM"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The internet is the best example of a _______.",
+    "options": [
+      "1. LAN",
+      "2. VPN",
+      "3. MAN",
+      "4. WAN"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "इंटरनेट _______ का सबसे अच्छा उदाहरण है।",
+    "options": [
+      "1. LAN",
+      "2. VPN",
+      "3. MAN",
+      "4. WAN"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "An IP address is a:",
+    "options": [
+      "1. physical address",
+      "2. logical address",
+      "3. simple address",
+      "4. home address"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "IP एड्रेस क्या है?",
+    "options": [
+      "1. फिजिकल एड्रेस (physical address)",
+      "2. लॉजिकल एड्रेस (logical address)",
+      "3. सिंपल एड्रेस (simple address)",
+      "4. होम एड्रेस (home address)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "_______________ is the standard name most printers use for their built-in test page feature.",
+    "options": [
+      "1. self test",
+      "2. simple test",
+      "3. print test",
+      "4. status test"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_______________ वह मानक नाम है जिसका उपयोग अधिकांश प्रिंटर अपने अंतर्निहित परीक्षण पृष्ठ सुविधा के लिए करते हैं।",
+    "options": [
+      "1. स्व-परीक्षण (self test)",
+      "2. साधारण परीक्षण (simple test)",
+      "3. प्रिंट परीक्षण (print test)",
+      "4. स्थिति परीक्षण (status test)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In which cryptography algorithm is there a need to share the key?",
+    "options": [
+      "1. Public key",
+      "2. Private key",
+      "3. Protected key",
+      "4. Asymmetric key"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "किस क्रिप्टोग्राफी एल्गोरिथम में कुंजी साझा करने की आवश्यकता है?",
+    "options": [
+      "1. सार्वजनिक कुंजी (Public key)",
+      "2. निजी कुंजी (Private key)",
+      "3. संरक्षित कुंजी (Protected key)",
+      "4. असममित कुंजी (Asymmetric key)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In Windows 10, mdsched.exe is executed to start the __________________.",
+    "options": [
+      "1. Network Problem Solver",
+      "2. Memory Diagnostic Tool",
+      "3. Print management tool",
+      "4. PowerShell module"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "विंडोज 10 में, mdsched.exe को __________________ शुरू करने के लिए निष्पादित किया जाता है।",
+    "options": [
+      "1. नेटवर्क प्रॉब्लम सॉल्वर",
+      "2. मेमोरी डायग्नोस्टिक टूल",
+      "3. प्रिंट मेनेजमेंट टूल",
+      "4. पावरशेल मॉड्यूल"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is NOT a folder view of the Windows 10 File Explorer?",
+    "options": [
+      "1. Extra Large icons",
+      "2. Large icons",
+      "3. Tiles",
+      "4. Context"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से कौन-सा, विंडोज 10 फाइल एक्सप्लोरर का फोल्डर व्यू नहीं है?",
+    "options": [
+      "1. एक्स्ट्रा लार्ज आइकॉन्स (Extra Large icons)",
+      "2. लार्ज आइकॉन्स (Large icons)",
+      "3. टाइल्स (Tiles)",
+      "4. कोन्टेक्स्ट (Context)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What does System Clone do?",
+    "options": [
+      "1. Makes an exact same copy of the operating system (OS) as the original OS",
+      "2. Imports the exact same copy of the operating system (OS) as the original OS",
+      "3. Exports the exact same copy of the operating system (OS) as the original OS",
+      "4. Installs the exact same copy of the operating system (OS) as the original OS"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "सिस्टम क्लोन (System Clone) क्या करता है?",
+    "options": [
+      "1. मूल OS की तरह ही ऑपरेटिंग सिस्टम (OS) की ठीक वैसी ही कॉपी बनाता है।",
+      "2. मूल OS की तरह ही ऑपरेटिंग सिस्टम (OS) की ठीक वैसी ही कॉपी इम्पोर्ट करता है।",
+      "3. मूल OS की तरह ही ऑपरेटिंग सिस्टम (OS) की ठीक वैसी ही कॉपी एक्सपोर्ट करता है।",
+      "4. मूल OS की तरह ही ऑपरेटिंग सिस्टम (OS) की ठीक वैसी ही कॉपी इन्स्टोल करता है।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following file extensions can be used with MACBIN files?",
+    "options": [
+      "1. .bun",
+      "2. .bbn",
+      "3. .bin",
+      "4. .bn"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से किस फ़ाइल एक्सटेंशन का उपयोग MACBIN फ़ाइलों के साथ किया जा सकता है?",
+    "options": [
+      "1. .bun",
+      "2. .bbn",
+      "3. .bin",
+      "4. .bn"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the full form of XML?",
+    "options": [
+      "1. eXtension Markup Language",
+      "2. eXtensible Managed Language",
+      "3. eXtensible Markup Language",
+      "4. eXtensible Mobile Language"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "XML का पूर्ण रूप क्या है?",
+    "options": [
+      "1. eXtension Markup Language (एक्सटेंशन मार्कअप लैंग्वेज)",
+      "2. eXtensible Managed Language (एक्सटेंसिबल मैनेज्ड लैंग्वेज)",
+      "3. eXtensible Markup Language (एक्सटेंसिबल मार्कअप लैंग्वेज)",
+      "4. eXtensible Mobile Language (एक्सटेंसिबल मोबाइल लैंग्वेज)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is NOT a component of a UPS system?",
+    "options": [
+      "1. The static bypass switch",
+      "2. The rectifier",
+      "3. The battery",
+      "4. The toner"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, UPS सिस्टम का घटक नहीं है?",
+    "options": [
+      "1. स्टेटिक बाईपास स्विच",
+      "2. रेक्टीफायर",
+      "3. बैटरी",
+      "4. टोनर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following was the first general-purpose microprocessor released by Intel?",
+    "options": [
+      "1. 4004",
+      "2. 4005",
+      "3. 4003",
+      "4. 4006"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा इंटेल द्वारा जारी किया गया पहला सामान्य प्रयोजन माइक्रोप्रोसेसर था?",
+    "options": [
+      "1. 4004",
+      "2. 4005",
+      "3. 4003",
+      "4. 4006"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following categories of software helps users in system maintenance and routine tasks, such as disks formatting, backing up files, etc.?",
+    "options": [
+      "1. Word processor",
+      "2. Utility software",
+      "3. Communication software",
+      "4. Translator"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सी सॉफ्टवेयर श्रेणी उपयोगकर्ताओं को सिस्टम रखरखाव और नियमित कार्यों में मदद करती है, जैसे कि डिस्क फोर्मेटिंग, फाइलों का बैकअप लेना आदि?",
+    "options": [
+      "1. वर्ड प्रोसेसर",
+      "2. उपयोगिता (यूटिलिटी) सॉफ्टवेयर",
+      "3. संचार (कम्युनिकेशन) सॉफ्टवेयर",
+      "4. ट्रांसलेटर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a non-functional testing strategy in project development?",
+    "options": [
+      "1. Scalability testing",
+      "2. Regression testing",
+      "3. Smoke testing",
+      "4. Sanity testing"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सी, प्रोजेक्ट डेवलपमेंट में एक गैर-कार्यात्मक (non-functional) परीक्षण रणनीति है?",
+    "options": [
+      "1. मापनीयता (स्केलेबिलिटी) परीक्षण",
+      "2. प्रतिगमन (रिग्रेशन) परीक्षण",
+      "3. स्मोक परीक्षण",
+      "4. विवेक (सैनीटी) परीक्षण"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The COSH function is a built-in function in MS-Excel 2019 that is categorised as a _________ function.",
+    "options": [
+      "1. math and trigonometry",
+      "2. statistical",
+      "3. financial",
+      "4. text"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "COSH फ़ंक्शन MS-Excel 2019 का एक अंतर्निहित फ़ंक्शन है जिसे _________ फ़ंक्शन के रूप में वर्गीकृत किया गया है।",
+    "options": [
+      "1. मैथ एंड ट्रिगोनोमेट्री (math and trigonometry)",
+      "2. स्टैटिस्टिकल (statistical)",
+      "3. फाइनेंसिनें यल (financial)",
+      "4. टेक्स्ट (text)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the full form of HTTP?",
+    "options": [
+      "1. Hypertext Transfer Protocol",
+      "2. Highlevel Transfer Protocol",
+      "3. Hypertext Transmission Protocol",
+      "4. Highlevel Text Protocol"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "HTTP का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Hypertext Transfer Protocol (हाइपरटेक्स्ट ट्रांसफर प्रोटोकॉल)",
+      "2. Highlevel Transfer Protocol (हाईलेवल ट्रांसफर प्रोटोकॉल)",
+      "3. Hypertext Transmission Protocol (हाइपरटेक्स्ट ट्रांसमिशन प्रोटोकॉल)",
+      "4. Highlevel Text Protocol (हाईलेवल टेक्स्ट प्रोटोकॉल)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is an application software?",
+    "options": [
+      "1. Windows 10 Home",
+      "2. Red Hat Enterprise Linux",
+      "3. Safari",
+      "4. Catalina"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा एक एप्लीकेशन सॉफ्टवेयर है?",
+    "options": [
+      "1. Windows 10 Home",
+      "2. Red Hat Enterprise Linux",
+      "3. Safari",
+      "4. Catalina"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "_______ scripting, such as JavaScript, is used to create dynamic web pages that run inside a web browser.",
+    "options": [
+      "1. Web",
+      "2. DOS",
+      "3. COBOL",
+      "4. C"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "________ स्क्रिप्टिंग, जैसे जावास्क्रिप्ट, का उपयोग वेब ब्राउज़र के अंदर चलने वाले गतिशील वेब पेज बनाने के लिए किया जाता है।",
+    "options": [
+      "1. Web",
+      "2. DOS",
+      "3. COBOL",
+      "4. C"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "To introduce yourself professionally and connect with potential employers, you can use:",
+    "options": [
+      "1. McAfee",
+      "2. LinkedIn",
+      "3. Yatra",
+      "4. Gmail"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "अपने आप को पेशेवर रूप से परिचित कराने और संभावित नियोक्ताओं से जुड़ने के लिए आप किसका उपयोग कर सकते हैं?",
+    "options": [
+      "1. मैकएफी (McAfee)",
+      "2. लिंक्डइन (LinkedIn)",
+      "3. यात्रा (Yatra)",
+      "4. जीमेल (Gmail)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ is an internet service that is used for uploading files.",
+    "options": [
+      "1. World Wide Web (WWW)",
+      "2. Hypertext Markup Language (HTML)",
+      "3. Kernel",
+      "4. File Transfer Protocol (FTP)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "फाइलों को अपलोड करने के लिए __________ इंटरनेट सेवा का उपयोग किया जाता है।",
+    "options": [
+      "1. वर्ल्ड वाइड वेब (WWW)",
+      "2. हाइपरटेक्स्ट मार्क-अप लैंग्वेज (HTML)",
+      "3. कर्नेल",
+      "4. फाइल ट्रांसफर प्रोटोकॉल (FTP)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What does Email stand for?",
+    "options": [
+      "1. English mail",
+      "2. Electric mail",
+      "3. Electronic mail",
+      "4. Essential mail"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "ई-मेल (Email) का पूर्ण रूप क्या है?",
+    "options": [
+      "1. English mail (इंग्लिश मेल)",
+      "2. Electric mail (इलेक्ट्रिक मेल)",
+      "3. Electronic mail (इलेक्ट्रॉनिक मेल)",
+      "4. Essential mail (एसेंशियल मेल)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is NOT a networking device?",
+    "options": [
+      "1. Switch",
+      "2. Router",
+      "3. Linux",
+      "4. Gateway"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्न में से कौन-सा, एक नेटवर्किंग डिवाइस नहीं है?",
+    "options": [
+      "1. स्विच",
+      "2. राउटर",
+      "3. लिनक्स",
+      "4. गेटवे"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following media players CANNOT be used to view HTML 5 content?",
+    "options": [
+      "1. Windows Media Player",
+      "2. XBMC",
+      "3. Moovida Core",
+      "4. Audacity"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से किस मीडिया प्लेयर में HTML 5 कंटेंट को नहीं देखा जा सकता है?",
+    "options": [
+      "1. विंडोज़ मीडिया प्लेयर",
+      "2. XBMC",
+      "3. मूविडा कोर",
+      "4. ऑडेसिटी"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following internet services is NOT available or has limited availability in many locations?",
+    "options": [
+      "1. Cable broadband",
+      "2. Fiber optic service",
+      "3. ADSL",
+      "4. Satellite"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन सी इंटरनेट सेवा कई जगहों पर उपलब्ध नहीं है या उसकी उपलब्धता सीमित है?",
+    "options": [
+      "1. केबल ब्रॉडबैंड",
+      "2. फाइबर ऑप्टिक सेवा",
+      "3. ADSL",
+      "4. सैटेलाइट"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which Internet service uses telephone lines to provide broadband access?",
+    "options": [
+      "1. Fiber optic service",
+      "2. Satellite",
+      "3. ADSL",
+      "4. Cable broadband"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "कौन सी इंटरनेट सेवा ब्रॉडबैंड पहुंच प्रदान करने के लिए टेलीफोन लाइनों का उपयोग करती है?",
+    "options": [
+      "1. फाइबर ऑप्टिक सेवा",
+      "2. सैटेलाइट",
+      "3. ADSL",
+      "4. केबल ब्रॉडबैंड"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following internet services is NOT affected by your location, wires or cables but can be slower?",
+    "options": [
+      "1. Cable broadband",
+      "2. Fiber optic service",
+      "3. ADSL",
+      "4. Satellite"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सी इंटरनेट सेवा आपके स्थान, वायर्स या केबलों से प्रभावित नहीं होती, लेकिन धीमी हो सकती है?",
+    "options": [
+      "1. केबल ब्रॉडबैंड",
+      "2. फाइबर ऑप्टिक सेवा",
+      "3. ADSL",
+      "4. सैटेलाइट"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which Internet service allows users to remotely log in to another computer system?",
+    "options": [
+      "1. E-mail",
+      "2. FTP",
+      "3. Telnet",
+      "4. WWW"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "कौन सी इंटरनेट सेवा उपयोगकर्ताओं को दूसरे कंप्यूटर सिस्टम में दूरस्थ रूप से लॉग इन करने की अनुमति देती है?",
+    "options": [
+      "1. ई-मेल (E-mail)",
+      "2. FTP",
+      "3. टेलनेट (Telnet)",
+      "4. WWW"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In MS-Excel 2019, the given chart is an example of: <br> <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbeUYUzTeoDWLG4Vi-l1X4oY2lKWCEJUPXZtJ9SyBQLCzJxU3RpjzESPZcbTeoyBQyBXPyrDTP4DBghqcjoQSDgS6yET8HNlIRKu1P83EsD5EnsvVa4053Ebkc2O8YKk1e4ez42FESCm8jBTmPuyX86kfNJpFIvkUnraZebCJjsbbMcj4wFP4IH4u_k6gI/s473/01%20h.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. a pie chart",
+      "2. a column chart",
+      "3. a line chart",
+      "4. a bar chart"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में, दिया गया चार्ट ____ का एक उदाहरण है। <br> <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbeUYUzTeoDWLG4Vi-l1X4oY2lKWCEJUPXZtJ9SyBQLCzJxU3RpjzESPZcbTeoyBQyBXPyrDTP4DBghqcjoQSDgS6yET8HNlIRKu1P83EsD5EnsvVa4053Ebkc2O8YKk1e4ez42FESCm8jBTmPuyX86kfNJpFIvkUnraZebCJjsbbMcj4wFP4IH4u_k6gI/s473/01%20h.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. पाई चार्ट",
+      "2. कॉलम चार्ट",
+      "3. लाइन चार्ट",
+      "4. बार चार्ट"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "You can use a ______ when: <br><br>1. you want to show numbers as a proportion of the whole (i.e. the numbers equal 100%) <br> 2. each proportion is divided into slices",
+    "options": [
+      "1. pie chart",
+      "2. column chart",
+      "3. line chart",
+      "4. bar chart"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_________ का उपयोग तब किया जाता है, जब: <br> <br>1. जब संख्याओं को पूर्ण के अनुपात के रूप में दर्शाना (अर्थात: संख्याएं 100% के बराबर होती हैं)। <br>2. प्रत्येक अनुपात खंडों में विभाजित हो।",
+    "options": [
+      "1. पाई चार्ट (pie chart)",
+      "2. कॉलम चार्ट (column chart)",
+      "3. लाइन चार्ट (line chart)",
+      "4. बार चार्ट (bar chart)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The keyboard shortcut ________ is used in MS-Excel 2019 to underline text or remove the underline.",
+    "options": [
+      "1. Ctrl + 2",
+      "2. Ctrl + B",
+      "3. Ctrl + 4",
+      "4. Ctrl + I"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel 2019 में टेक्स्ट को अंडरलाइन करने या अंडरलाइन हटाने के लिए की-बोर्ड शॉर्टकट________ का उपयोग किया जाता है।",
+    "options": [
+      "1. Ctrl + 2",
+      "2. Ctrl + B",
+      "3. Ctrl + 4",
+      "4. Ctrl + I"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In MS-Excel 2019, the ‘Ctrl + Alt + −' keyboard shortcut is used to:",
+    "options": [
+      "1. scroll vertically",
+      "2. zoom in",
+      "3. zoom out",
+      "4. scroll horizontally"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel 2019 में ‘Ctrl + Alt + −’ कीबोर्ड शॉर्टकट का उपयोग किसके लिए किया जाता है?",
+    "options": [
+      "1. ऊर्ध्वाधर स्क्रॉल करना (Scroll vertically)",
+      "2. ज़ूम इन करना (Zoom in)",
+      "3. ज़ूम आउट करना (Zoom out)",
+      "4. क्षैतिज स्क्रॉल करना (Scroll horizontally)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Read the given steps and answer the question that follows. <br> Step 1: Divide the given number by 2. <br>Step 2: Note the remainder. <br>Step 3: Keep on dividing the quotient by 2 and note the remainder till the quotient is zero. <br>Step 4: Write the noted remainders in the reverse order (from bottom to top). <br>The above steps are to be followed for conversion from:",
+    "options": [
+      "1. binary to octal",
+      "2. decimal to binary",
+      "3. binary to decimal",
+      "4. binary to hexadecimal"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "दिए गए चरणों को पढ़ें और उसके आधार पर नीचे दिए गए प्रश्न का उत्तर दें।<br>चरण 1: दी गई संख्या को 2 से विभाजित करें। <br>चरण 2: शेषफल को नोट करें। <br>चरण 3: भागफल को 2 से तब तक विभाजित करते रहें और शेषफल को नोट करते रहें जब तक कि भागफल शून्य न हो जाए। <br> चरण 4: नोट किए गए शेषफलों को उल्टे क्रम में (नीचे से ऊपर तक) लिखें।  <br>उपरोक्त चरणों का पालन करके निम्न में से कौन सा रूपांतरण किया जा सकता है?",
+    "options": [
+      "1. बाइनरी से ऑक्टल",
+      "2. डेसीमल से बाइनरी",
+      "3. बाइनरी से डेसीमल",
+      "4. बाइनरी से हेक्साडेसीमल"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "________ is the decimal equivalent for hexadecimal 1A.",
+    "options": [
+      "1. 25",
+      "2. 26",
+      "3. 16",
+      "4. 14"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "हेक्साडेसिमल 1A का दशमलव समतुल्य ________ है।",
+    "options": [
+      "1. 25",
+      "2. 26",
+      "3. 16",
+      "4. 14"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "_________ is the octal equivalent for hexadecimal 2E.",
+    "options": [
+      "1. 56",
+      "2. 57",
+      "3. 54",
+      "4. 53"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "हेक्साडेसीमल 2E का ऑक्टल समतुल्य निम्न में से क्या होगा?",
+    "options": [
+      "1. 56",
+      "2. 57",
+      "3. 54",
+      "4. 53"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a math or trigonometric function in MS-Excel 2019?",
+    "options": [
+      "1. ACOS",
+      "2. AND",
+      "3. IF",
+      "4. AREAS"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में, निम्नलिखित में से कौन सा एक गणित (math) या त्रिकोणमिति (trigonometric) फ़ंक्शन है?",
+    "options": [
+      "1. ACOS",
+      "2. AND",
+      "3. IF",
+      "4. AREAS"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The ISERR function in MS-Excel 2019 is an example of a/an ________ type of function.",
+    "options": [
+      "1. financial",
+      "2. math",
+      "3. text",
+      "4. information"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel 2019 में ISERR फ़ंक्शन ________ प्रकार के फ़ंक्शन का एक उदाहरण है।",
+    "options": [
+      "1. वित्तीय (financial)",
+      "2. गणितीय (math)",
+      "3. टेक्स्ट (text)",
+      "4. सूचना (information)"
+    ],
+    "answer": 3
+  }
+],
+
+  
 "16th January 2026 - Shift1": [
   {
     "q": "Which feature of Windows 11 allows the desktop backgrounds to change automatically after some specified time interval?",
