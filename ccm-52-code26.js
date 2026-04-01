@@ -1043,6 +1043,1049 @@
   }
 ],
 
+  "14th March 2026 - Shift1": [
+   {
+    "q": "With respect to internet protocols, MIME stands for:",
+    "options": [
+      "1. Multipurpose Internet Mail Extensions",
+      "2. Multipurpose Internet Mail Email",
+      "3. Multipurpose International Mail Entity",
+      "4. Multipurpose International Mail End"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "इंटरनेट प्रोटोकॉल के संबंध में, MIME का विस्तारित रूप क्या होता है?",
+    "options": [
+      "1. Multipurpose Internet Mail Extensions (मल्टीपर्पज़ इंटरनेट मेल एक्सटेंशन्स)",
+      "2. Multipurpose Internet Mail Email (मल्टीपर्पज़ इंटरनेट मेल ईमेल)",
+      "3. Multipurpose International Mail Entity (मल्टीपर्पज़ इंटरनेशनल मेल एंटीटी)",
+      "4. Multipurpose International Mail End (मल्टीपर्पज़ इंटरनेशनल मेल एंड)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which function returns an aggregated value from a cube in MS-Excel 2019?",
+    "options": [
+      "1. CUBEIMP function",
+      "2. CUBEVALUE function",
+      "3. CUBETMP function",
+      "4. CUBEAGGR function"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कौन सा फंक्शन MS-Excel 2019 में क्यूब से एग्रीगेट वैल्यू रिटर्न देता है?",
+    "options": [
+      "1. CUBEIMP फंक्शन",
+      "2. CUBEVALUE फंक्शन",
+      "3. CUBETMP फंक्शन",
+      "4. CUBEAGGR फंक्शन"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In an OpenOffice Calc, the contents of the current cell (data, formula, or function) are displayed in the ________.",
+    "options": [
+      "1. Name box",
+      "2. Drop box",
+      "3. Formula band",
+      "4. Input line"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "ओपन ऑफिस कैल्क (OpenOffice Calc) में, चालू सेल (डेटा, फॉर्मूला, या फ़ंक्शन) की कंटेंट ________ में प्रदर्शित होती है।",
+    "options": [
+      "1. नेम बॉक्स (Name box)",
+      "2. ड्रॉप बॉक्स (Drop box)",
+      "3. फ़ॉर्मूला बैंड (Formula band)",
+      "4. इनपुट लाइन (Input line)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is a portable storage device?",
+    "options": [
+      "1. Digital Versatile Disc",
+      "2. Internal hard disk",
+      "3. Disk Array",
+      "4. RAM"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से कौन-सा, एक पोर्टेबल स्टोरेज़ डिवाइस है?",
+    "options": [
+      "1. डिजिटल वेर्सेटाईल डिस्क (Digital Versatile Disc)",
+      "2. इंटरनल हार्ड डिस्क (Internal hard disk)",
+      "3. डिस्क ऐरे (Disk Array)",
+      "4. RAM"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a check bit, which is added to a block of data for error detection purposes?",
+    "options": [
+      "1. Cary bit",
+      "2. Zero bit",
+      "3. Parity bit",
+      "4. Sign bit"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा एक चेक बिट है, जिसे एरर डिटेक्शन के प्रयोजन से डेटा के एक ब्लॉक में जोड़ा जाता है?",
+    "options": [
+      "1. कैरी बिट",
+      "2. ज़ीरो बिट",
+      "3. पैरिटी बिट",
+      "4. साइन बिट"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is a popular server side web programming language?",
+    "options": [
+      "1. PHP",
+      "2. HTML",
+      "3. CSS",
+      "4. COBOL"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सी एक लोकप्रिय सर्वर साइड वेब प्रोग्रामिंग भाषा है?",
+    "options": [
+      "1. PHP",
+      "2. HTML",
+      "3. CSS",
+      "4. COBOL"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A(An) ________ is the traditional technology for connecting devices in a wired local area network (LAN) or wide area network (WAN).",
+    "options": [
+      "1. Ethernet",
+      "2. Monitor",
+      "3. Printer",
+      "4. Mouse"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_______, एक वायर्ड लोकल एरिया नेटवर्क (LAN) या वाइड एरिया नेटवर्क (WAN) में उपकरणों को जोड़ने की पारंपरिक तकनीक है।",
+    "options": [
+      "1. ईथरनेट",
+      "2. मॉनिटर",
+      "3. प्रिंटर",
+      "4. माउस"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which function in MS-Excel 2019 converts a decimal number to binary?",
+    "options": [
+      "1. DECBIN function",
+      "2. DEC2BIN function",
+      "3. BINDEC function",
+      "4. BIN function"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 में कौन सा फंक्शन, दशमलव संख्या को बाइनरी में बदलता है?",
+    "options": [
+      "1. DECBIN फंक्शन",
+      "2. DEC2BIN फंक्शन",
+      "3. BINDEC फंक्शन",
+      "4. BIN फंक्शन"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which function in MS-Excel 2019 converts a text representation of a number in a given base into a decimal number?",
+    "options": [
+      "1. DECIMAL function",
+      "2. DEC function",
+      "3. 2DEC function",
+      "4. CONDEC function"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में कौन सा फ़ंक्शन किसी दिए गए आधार में किसी संख्या के टेक्स्ट प्रतिनिधित्व को दशमलव संख्या में परिवर्तित करता है?",
+    "options": [
+      "1. DECIMAL फंक्शन",
+      "2. DEC फंक्शन",
+      "3. 2DEC फंक्शन",
+      "4. CONDEC फंक्शन"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Snapdragon processor is developed by which company?",
+    "options": [
+      "1. Qualcomm",
+      "2. Apple",
+      "3. HP",
+      "4. Intel"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "स्नैपड्रैगन प्रोसेसर किस कंपनी द्वारा विकसित किया गया है?",
+    "options": [
+      "1. क्वालकॉम (Qualcomm)",
+      "2. एप्पल (Apple)",
+      "3. HP",
+      "4. इंटेल (Intel)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Pressing which function key generally helps to enter BIOS setup as the computer is booting?",
+    "options": [
+      "1. F1",
+      "2. F2",
+      "3. F3",
+      "4. F4"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कंप्यूटर बूट होते समय BIOS सेटअप में जाने के लिए सामान्यतः कौन‑सी फ़ंक्शन की (key) दबाई जाती है?",
+    "options": [
+      "1. F1",
+      "2. F2",
+      "3. F3",
+      "4. F4"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is NOT an output device?",
+    "options": [
+      "1. Plotter",
+      "2. Printer",
+      "3. Keyboard",
+      "4. Projector"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा एक आउटपुट डिवाइस नहीं है?",
+    "options": [
+      "1. प्लॉटर",
+      "2. प्रिंटर",
+      "3. कीबोर्ड",
+      "4. प्रोजेक्टर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Plotters are ideal for ______.",
+    "options": [
+      "1. computer aided definition",
+      "2. car aided design",
+      "3. computer aided design",
+      "4. manual design"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "प्लॉटर (Plotters) किसके लिए सबसे उपयुक्त होते हैं?",
+    "options": [
+      "1. कंप्यूटर एडेड डेफिनिशन",
+      "2. कार एडेड डिज़ाइन",
+      "3. कंप्यूटर एडेड डिज़ाइन",
+      "4. मैनुअल डिज़ाइन"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "If the LED light of the USB pen drive is on, then it indicates:",
+    "options": [
+      "1. waiting for data transfer",
+      "2. data transfer completed",
+      "3. data transfer in progress",
+      "4. error message"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "यदि USB पेन ड्राइव की LED लाइट ऑन है, तो यह क्या दर्शाता है?",
+    "options": [
+      "1. डेटा ट्रांसफर की प्रतीक्षा",
+      "2. डेटा ट्रांसफर पूरा हो गया",
+      "3. डेटा ट्रांसफर चल रहा है",
+      "4. त्रुटि संदेश (एरर मैसेज)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which function in MS-Excel 2019 Returns the sum of squares of deviations?",
+    "options": [
+      "1. DEVSQ function",
+      "2. SUMSQ function",
+      "3. SQSUM function",
+      "4. SQ function"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में कौन सा फ़ंक्शन, विचलन (डेविएशन्स) के वर्गों का योग रिटर्न देता है?",
+    "options": [
+      "1. DEVSQ फंक्शन",
+      "2. SUMSQ फंक्शन",
+      "3. SQSUM फंक्शन",
+      "4. SQ फंक्शन"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following steps would you follow to view the IP address of your Windows 10 OS computer?",
+    "options": [
+      "1. Open command prompt screen → Type \"ipconfig\" → Press Enter",
+      "2. Open command prompt screen → Type \"ipsec\" → Press Enter",
+      "3. Open Control Panel → Click System → Click Device Manager",
+      "4. Open Control Panel → Click System → Click Remote Settings"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से कौन‑सा चरण Windows 10 कंप्यूटर का IP पता देखने के लिए अपनाया जाता है?",
+    "options": [
+      "1. Command Prompt खोलें → \"ipconfig\" टाइप करें → Enter दबाएँ",
+      "2. Command Prompt खोलें → \"ipsec\" टाइप करें → Enter दबाएँ",
+      "3. Control Panel खोलें → System पर क्लिक करें → Device Manager पर क्लिक करें",
+      "4. Control Panel खोलें → System पर क्लिक करें → Remote Settings पर क्लिक करें"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following modes cut power to peripheral devices, your monitor, even your hard drive, but maintains power to your computer's memory?",
+    "options": [
+      "1. Hibernation",
+      "2. Power down",
+      "3. Standby mode",
+      "4. The shutdown procedure"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा मोड पैरिफेरल उपकरणों, णों आपके मॉनिटर, यहां तक कि आपकी हार्ड ड्रा इव की बिजली आपूर्ति को विसंयोजित है, लेकिन आपके कंप्यूटर मेमोरी की बिजली (पावर) को मेंटेमेंटेन रखता है?",
+    "options": [
+      "1. हाइबरनेशन",
+      "2. पावर डाउन",
+      "3. स्टैंडबाय मोड",
+      "4. शटडाउन की प्रक्रिया"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The _____ check helps users detect any changes made to an original file.",
+    "options": [
+      "1. confidentiality",
+      "2. non-repudiation",
+      "3. integrity",
+      "4. authenticity"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "_____ चेक उपयोगकर्ता को मूल फ़ाइल में किए गए किसी भी बदलाव का पता लगाने में सहायक होता है।",
+    "options": [
+      "1. कॉन्फिडेंशिआलिटी",
+      "2. नॉन-रेप्युडिएशन",
+      "3. इंटीग्रिटी",
+      "4. ऑथेंटिथें सिटी"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Printer resolution is mentioned as _______________.",
+    "options": [
+      "1. dots per meter",
+      "2. pages per minute",
+      "3. pages per month",
+      "4. dots per inch"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "प्रिंटर रिज़ॉल्यूशन को ___________ के रूप में उल्लिखित किया जाता है।",
+    "options": [
+      "1. डॉट्स प्रति मीटर",
+      "2. पेज प्रति मिनट",
+      "3. पेज प्रति माह",
+      "4. डॉट्स प्रति इंच"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The _____ port is a digital interface to connect High Definition and Ultra High Definition devices such as computer monitors, HDTVs, Blu-Ray players, gaming consoles and high definition cameras.",
+    "options": [
+      "1. HDMI",
+      "2. USB",
+      "3. RJ45",
+      "4. VGA"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "____ पोर्ट एक डिजिटल इंटरफ़ेस है जो हाई डेफिनिशन और अल्ट्रा हाई डेफिनिशन डिवाइस जैसे कि कंप्यूटर मॉनीटर, HDTVs, ब्लू-रे प्लेयर्स, गेमिंग कंसोल, हाई डेफिनिशन कैमरे इत्यादि को जोड़ने के लिए होता है।",
+    "options": [
+      "1. HDMI",
+      "2. USB",
+      "3. RJ45",
+      "4. VGA"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The Start button in Windows 10 is available on the ______.",
+    "options": [
+      "1. title bar",
+      "2. status bar",
+      "3. taskbar",
+      "4. toolbar"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "विंडोज 10 में स्टार्ट बटन _______ पर उपलब्ध होता है।",
+    "options": [
+      "1. टाइटल बार",
+      "2. स्टेटस बार",
+      "3. टास्क बार",
+      "4. टूल बार"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In a clean install of an OS, ____________________________.",
+    "options": [
+      "1. some of the files on the hard disk are erased",
+      "2. the hard disk is formatted and completely erased",
+      "3. files stored in primary memory only are erased",
+      "4. files stored in cache memory only are erased"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक OS की क्लीन इंस्टॉल में, ___________________________।",
+    "options": [
+      "1. हार्ड डिस्क की कुछ फ़ाइलें डिलीट की जाती हैं",
+      "2. हार्ड डिस्क फॉर्मेट की जाती है और पूरी तरह डिलीट कर दी जाती है",
+      "3. केवल प्राथमिक मेमोरी (RAM) में संग्रहित फ़ाइलें डिलीट की जाती हैं",
+      "4. केवल कैश मेमोरी में संग्रहित फ़ाइलें डिलीट की जाती हैं"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In the Windows operating system, the full form of DLL is ____________.",
+    "options": [
+      "1. Dual Link Library",
+      "2. Dictionary Link Library",
+      "3. Dynamic Link Library",
+      "4. Dynamic Load Library"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "विंडोज ऑपरेटिंग सिस्टम में, DLL का पूर्ण रूप _________ होता है।",
+    "options": [
+      "1. Dual Link Library (डूअल लिंक लाइब्रेरी)",
+      "2. Dictionary Link Library (डिक्शनरी लिंक लाइब्रेरी)",
+      "3. Dynamic Link Library (डायनेमिक लिंक लाइब्रेरी)",
+      "4. Dynamic Load Library (डायनेमिक लोड लाइब्रेरी)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the keyboard shortcut to open a new window in Incognito mode in Chrome?",
+    "options": [
+      "1. Ctrl + Shift + C",
+      "2. Ctrl + C",
+      "3. Ctrl + N",
+      "4. Ctrl + Shift + N"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "क्रोम में इंकॉग्निटो मोड में एक नई विंडो खोलने के लिए कीबोर्ड शॉर्टकट क्या है?",
+    "options": [
+      "1. Ctrl + Shift + C",
+      "2. Ctrl + C",
+      "3. Ctrl + N",
+      "4. Ctrl + Shift + N"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which extension is used for Consolidated Unix File Archive?",
+    "options": [
+      "1. .tat",
+      "2. .tar",
+      "3. .tap",
+      "4. .tsr"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से किस एक्सटेंशन का उपयोग कंसोलिडेटेड यूनिक्स (Unix) फाइल आर्काइव के लिए किया जाता है?",
+    "options": [
+      "1. .tat",
+      "2. .tar",
+      "3. .tap",
+      "4. .tsr"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following refers to the process of converting information, such as text, numbers, photos or music into digital data that can be manipulated by electronic devices?",
+    "options": [
+      "1. Digitisation",
+      "2. Normalisation",
+      "3. Visualisation",
+      "4. Convolution"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, इन्फोर्मेशन, जैसे कि टेक्स्ट, संख्या, फोटो या म्यूजिक को डिजिटल डेटा में परिवर्तित करने की प्रक्रिया को संदर्भित करता है जिसे इलेक्ट्रॉनिक उपकरणों द्वारा मेन्युपुलेट किया जा सकता है?",
+    "options": [
+      "1. डिजिटाइज़ेशन",
+      "2. नोर्मलाईज़ेशन",
+      "3. विज़्युलाईज़ेशन",
+      "4. कॉन्वोल्युशन"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The data compression methods can be classified broadly into ______ compression.",
+    "options": [
+      "1. lossy or lossless",
+      "2. modulation and demodulation",
+      "3. normalised and denormalised",
+      "4. compressed and decompressed"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "डेटा संपीड़न विधियों को विस्तृत तौर पर ______ संपीड़न में वर्गीकृत किया जा सकता है।",
+    "options": [
+      "1. हानिकारक अथवा हानिरहित (lossy or lossless)",
+      "2. मॉड्यूलेशन और डिमॉड्यूलेशन (modulation and demodulation)",
+      "3. नोर्मलाईज्ड और डीनोर्मलाईज्ड (normalised and denormalised)",
+      "4. संपीड़ित और असंपीड़ित (compressed and decompressed)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The CPU clock speed refers to the:",
+    "options": [
+      "1. number of cycles the CPU can execute per second",
+      "2. number of CPUs it can have",
+      "3. number of clocks it can have",
+      "4. number of RAMs it can have"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "CPU क्लॉक स्पीड किसे संदर्भित करती है?",
+    "options": [
+      "1. वह चक्रो की संख्या जिसे सीपीयू प्रति सेकंड निष्पादित कर सकता है।",
+      "2. सीपीयू को धारण करने की संख्या",
+      "3. क्लॉक को धारण करने की संख्या",
+      "4. RAMs को धारण करने की संख्या"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following types of operating system is non-interactive?",
+    "options": [
+      "1. Batch processing operating system",
+      "2. Multiprogramming operating system",
+      "3. Multi-user operating system",
+      "4. Multitasking operating system"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से कौन-सी ऑपरेटिंग सिस्टम गैर-इंटरैक्टिव (non-interactive) है?",
+    "options": [
+      "1. बैच प्रोसेसिंग ऑपरेटिंग सिस्टम",
+      "2. मल्टीप्रोग्रामिंग ऑपरेटिंग सिस्टम",
+      "3. मल्टी-युज़र ऑपरेटिंग सिस्टम",
+      "4. मल्टीटास्किंग ऑपरेटिंग सिस्टम"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following software is best suitable for creating, editing and saving professional documents such as letters and reports?",
+    "options": [
+      "1. MS-Access",
+      "2. MS-PowerPoint",
+      "3. MS-Excel",
+      "4. MS-Word"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा सॉफ्टवेयर, लेटर और रिपोर्ट जैसे पेशेवर डॉक्यूमेंट बनाने, एडिट करने और उसे सेव करने के लिए सबसे उपयुक्त है?",
+    "options": [
+      "1. MS-एक्सेस",
+      "2. MS-पावरपॉइंट",
+      "3. MS-एक्सेल",
+      "4. MS-वर्ड"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Choose the ASCII value in decimal for the Enter key (Carriage return).",
+    "options": [
+      "1. 13",
+      "2. 10",
+      "3. 15",
+      "4. 23"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एंटर कुंजी (कैरिज रिटर्न) के लिए डेसिमल में ASCII वैल्यू चुनें।",
+    "options": [
+      "1. 13",
+      "2. 10",
+      "3. 15",
+      "4. 23"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Choose the ASCII value in decimal for the Space.",
+    "options": [
+      "1. 32",
+      "2. 20",
+      "3. 15",
+      "4. 25"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "स्पेस के लिए दशमलव में ASCII मान चुनें।",
+    "options": [
+      "1. 32",
+      "2. 20",
+      "3. 15",
+      "4. 25"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "ASCII code for A is:",
+    "options": [
+      "1. 97",
+      "2. 65",
+      "3. 66",
+      "4. 98"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A के लिए ASCII कोड क्या होता है?",
+    "options": [
+      "1. 97",
+      "2. 65",
+      "3. 66",
+      "4. 98"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is NOT a web browser?",
+    "options": [
+      "1. Safari",
+      "2. Chrome",
+      "3. Hangout",
+      "4. Netscape"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, एक वेब ब्राउज़र नहीं है?",
+    "options": [
+      "1. सफारी (Safari)",
+      "2. क्रोम (Chrome)",
+      "3. हैंगआउट (Hangout)",
+      "4. नेटस्केप (Netscape)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is NOT an image file extension?",
+    "options": [
+      "1. .gif",
+      "2. .jpg",
+      "3. .png",
+      "4. .aac"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से कौन-सा, एक इमेज फाइल एक्सटेंशन नहीं है?",
+    "options": [
+      "1. .gif",
+      "2. .jpg",
+      "3. .png",
+      "4. .aac"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Buying and selling goods over the internet is called:",
+    "options": [
+      "1. e-post",
+      "2. e-blogs",
+      "3. e-commerce",
+      "4. e-science"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "इंटरनेट पर सामान ख़रीदने और बेचने को क्या कहा जाता है?",
+    "options": [
+      "1. ई-पोस्ट (e-post)",
+      "2. ई-ब्लॉग्स (e-blogs)",
+      "3. ई-कॉमर्स (e-commerce)",
+      "4. ई-साइंस (e-science)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In an email system, which folder is specifically designed to store unsolicited or unwanted emails?",
+    "options": [
+      "1. Spam folder",
+      "2. Sent folder",
+      "3. Inbox folder",
+      "4. Draft folder"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "ईमेल सिस्टम में, कौन सा फ़ोल्डर खास तौर पर अनचाहे या गैर-ज़रूरी ईमेल को स्टोर करने के लिए डिज़ाइन किया गया है?",
+    "options": [
+      "1. जंक फ़ोल्डर",
+      "2. सेंट फ़ोल्डर",
+      "3. इनबॉक्स फ़ोल्डर",
+      "4. ड्रा फ़्ट फ़ोल्डर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the size of MAC address?",
+    "options": [
+      "1. 48 bits",
+      "2. 32 bits",
+      "3. 16 bits",
+      "4. 8 bits"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MAC एड्रेस का साइज़ क्या होता है?",
+    "options": [
+      "1. 48 बिट्स",
+      "2. 32 बिट्स",
+      "3. 16 बिट्स",
+      "4. 8 बिट्स"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is the video sharing service that allows users to watch videos posted by other users and upload videos of their own, now owned by Google?",
+    "options": [
+      "1. YouTube",
+      "2. BBC",
+      "3. GUI",
+      "4. GST"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन सी वीडियो शेयरिंग सर्विस है जो यूज़र्स को दूसरे यूज़र्स द्वारा पोस्ट किए गए वीडियो देखने और अपने वीडियो अपलोड करने की सुविधा देती है, और अब यह Google के स्वामित्व में है?",
+    "options": [
+      "1. यूट्यूब",
+      "2. BBC",
+      "3. GUI",
+      "4. GST"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a voice/video calling application by Microsoft?",
+    "options": [
+      "1. Hangout",
+      "2. DropBox",
+      "3. Skype",
+      "4. Linos"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा वॉयस/वीडियो कॉलिंग एप्लिकेशन माइक्रोसॉफ्ट का है?",
+    "options": [
+      "1. हैंगआउट (Hangout)",
+      "2. ड्रॉ पबॉक्स (DropBox)",
+      "3. स्काइप (Skype)",
+      "4. लाइनोस (Linos)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which function in MS-Excel 2019 Returns the maximum value from selected database entries?",
+    "options": [
+      "1. DMAX function",
+      "2. MAX function",
+      "3. MAXIMUM function",
+      "4. DMAXIMUM function"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में कौन सा फ़ंक्शन चयनित डेटाबेस प्रविष्टियों से अधिकतम मान देता है?",
+    "options": [
+      "1. DMAX फंक्शन",
+      "2. MAX फंक्शन",
+      "3. MAXIMUM फंक्शन",
+      "4. DMAXIMUM फंक्शन"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which function in MS-Excel 2019 Multiplies the values in a particular field of records that match the criteria in a database?",
+    "options": [
+      "1. PRODUCT function",
+      "2. DPRODUCT function",
+      "3. MULT function",
+      "4. MULTIPLICATION function"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 में कौन सा फ़ंक्शन रिकॉर्ड के किसी विशेष क्षेत्र में मानों को गुणा करता है जो डेटाबेस में मानदंड से मेल खाता है?",
+    "options": [
+      "1. PRODUCT फंक्शन",
+      "2. DPRODUCT फंक्शन",
+      "3. MULT फंक्शन",
+      "4. MULTIPLICATION फंक्शन"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a Math function in MS-Excel 2019?",
+    "options": [
+      "1. ASIN",
+      "2. AND",
+      "3. OR",
+      "4. FIND"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा MS-Excel 2019 में मैथ (गणित) फंक्शन है?",
+    "options": [
+      "1. ASIN",
+      "2. AND",
+      "3. OR",
+      "4. FIND"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "<img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQwb_j9KMPBr-AlcCKDxKOBjsouXFb5ee3_7LDiuqcEcJVMpiLUfP5EfiJfao8790BYkjbmHD5PPlIJeWVn4ErJSLVyLK4Nt2osAOYspcoTWeduFnVWUetXOusTT1zPRRI4N2kCKWCCU3PgK4nD345f8gdobV7W-CMEQM64mrcTDt_LAoddsWQHcY-JCXC/s715/rt%20545.png\" style=\"max-width:100%;height:auto;\"> <br> In MS-Excel, the above chart is an example of",
+    "options": [
+      "1. a pie chart",
+      "2. a column chart",
+      "3. a line chart",
+      "4. a bar chart"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "<img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQwb_j9KMPBr-AlcCKDxKOBjsouXFb5ee3_7LDiuqcEcJVMpiLUfP5EfiJfao8790BYkjbmHD5PPlIJeWVn4ErJSLVyLK4Nt2osAOYspcoTWeduFnVWUetXOusTT1zPRRI4N2kCKWCCU3PgK4nD345f8gdobV7W-CMEQM64mrcTDt_LAoddsWQHcY-JCXC/s715/rt%20545.png\" style=\"max-width:100%;height:auto;\"> <br>MS-Excel में, उपरोक्‍त चित्र_________ का एक उदाहरण है।",
+    "options": [
+      "1. पाई चार्ट",
+      "2. कॉलम चार्ट",
+      "3. लाइन चार्ट",
+      "4. बार चार्ट"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following statements about the area chart in MS-Excel 2019 is INCORRECT?",
+    "options": [
+      "1. An area chart is similar to a line chart with one difference is that in area chart the area below the line is filled with a colour.",
+      "2. Both – a line chart and an area chart – show a trend over time.",
+      "3. Area charts are useful when you have multiple time series data and you also want to show the contribution of each data set to the whole.",
+      "4. An area chart is similar to a line chart with one difference is that in line chart the area below the line is filled with a colour."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel 2019 में एरिया चार्ट के बारे में निम्नलिखित में से कौन-सा कथन गलत है?",
+    "options": [
+      "1. एरिया चार्ट, लाइन चार्ट के समान है, लेकिन इनमें एक अंतर यह है कि एरिया चार्ट में लाइन के नीचे का क्षेत्र रंग से भरा होता है।",
+      "2. लाइन चार्ट और एरिया चार्ट दोनों ही समय के साथ ट्रेंड दर्शाते हैं।",
+      "3. एरिया चार्ट उस स्थिति में उपयोगी होते हैं, जब आपके पास एकाधिक समय श्रृंखला डेटा होता है और आप प्रत्येक डेटा सेट के योगदान को पूर्ण में दिखाना चाहते हैं।",
+      "4. एरिया चार्ट, लाइन चार्ट के समान है, लेकिन इनमें एक अंतर यह है कि लाइन चार्ट में लाइन के नीचे का क्षेत्र रंग से भरा होता है।"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The ________ shortcut key is used in MS-Excel 2019 to open the Insert tab.",
+    "options": [
+      "1. Alt + Ctrl + N",
+      "2. Alt + N",
+      "3. Ctrl + N",
+      "4. Shift + N"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 में ________ शॉर्टकट कुंजी का उपयोग इंसर्ट टैब खोलने के लिए किया जाता है।",
+    "options": [
+      "1. Alt + Ctrl + N",
+      "2. Alt + N",
+      "3. Ctrl + N",
+      "4. Shift + N"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The ________ shortcut key is used in MS-Excel 2019 to open the Paste Special dialog.",
+    "options": [
+      "1. Alt + V",
+      "2. Ctrl + V",
+      "3. Ctrl + Alt + Shift + V",
+      "4. Ctrl + Alt + V"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel 2019 में Paste Special डायलॉग को खोलने के लिए ________ शॉर्टकट कुंजी का उपयोग किया जाता है।",
+    "options": [
+      "1. Alt + V",
+      "2. Ctrl + V",
+      "3. Ctrl + Alt + Shift + V",
+      "4. Ctrl + Alt + V"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "To convert from decimal to octal we should continuously divide by:",
+    "options": [
+      "1. 2",
+      "2. 9",
+      "3. 16",
+      "4. 8"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "डेसिमल से ऑक्टल में रूपांतरण करने के लिए हमें लगातार ________ से विभाजित करना चाहिए।",
+    "options": [
+      "1. 2",
+      "2. 9",
+      "3. 16",
+      "4. 8"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "________ is the octal equivalent for hexadecimal 1A.",
+    "options": [
+      "1. 32",
+      "2. 34",
+      "3. 31",
+      "4. 33"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_________, हेक्साडेसिमल 1A के समतुल्य ऑक्टल है।",
+    "options": [
+      "1. 32",
+      "2. 34",
+      "3. 31",
+      "4. 33"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS-Excel 2019, which of the following options could be used to generate a random real number between a and b?",
+    "options": [
+      "1. RAND()*(b-a)+a",
+      "2. RND()*(b-a)+a",
+      "3. RANDOM()*(b-a)+a",
+      "4. RAD()*(b-a)+a"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में, a और b के बीच एक यादृच्छिक वास्तविक संख्या जेनरेट करने के लिए निम्नलिखित में से किस विकल्प का उपयोग किया जा सकता है?",
+    "options": [
+      "1. RAND()*(b-a)+a",
+      "2. RND()*(b-a)+a",
+      "3. RANDOM()*(b-a)+a",
+      "4. RAD()*(b-a)+a"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which MS-Excel 2019 function is used to count the number of cells that contain numeric values in a selected range?",
+    "options": [
+      "1. COUNTA",
+      "2. COUNT",
+      "3. COUNTS",
+      "4. SUM"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कौन सा MS-Excel 2019 फ़ंक्शन किसी चुनी हुई रेंज में न्यूमेरिक वैल्यू वाले सेल्स की संख्या गिनने के लिए इस्तेमाल किया जाता है?",
+    "options": [
+      "1. COUNTA",
+      "2. COUNT",
+      "3. COUNTS",
+      "4. SUM"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a Text function in MS-Excel 2019?",
+    "options": [
+      "1. ADDRESS",
+      "2. COLUMN",
+      "3. INDEX",
+      "4. REPLACE"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा MS-Excel 2019 में एक टेक्स्ट फंक्शन है?",
+    "options": [
+      "1. ADDRESS",
+      "2. COLUMN",
+      "3. INDEX",
+      "4. REPLACE"
+    ],
+    "answer": 3
+  }
+],
+
   
 "16th January 2026 - Shift1": [
   {
