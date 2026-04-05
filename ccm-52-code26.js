@@ -2086,6 +2086,1049 @@
   }
 ],
 
+  "15th March 2026 - Shift1": [
+{
+    "q": "Pentium is a brand of:",
+    "options": [
+      "1. microprocessors",
+      "2. hard disks",
+      "3. memories",
+      "4. virtual circuits"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "पेंटियम (Pentium) ________ का एक ब्रांड है।",
+    "options": [
+      "1. मइक्रोप्रोसेसर्स (microprocessors)",
+      "2. हार्ड डिस्क्स (hard disks)",
+      "3. मेमोरीज (memories)",
+      "4. वर्चूअल सर्किट्स (virtual circuits)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which function returns a string consisting of a supplied text string, repeated a specified number of times in MS-Excel 2019?",
+    "options": [
+      "1. REPEAT",
+      "2. STRREPT",
+      "3. REPT",
+      "4. REPTSTR"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel 2019 में, कौन-सा फंक्शन दिए गए टेक्स्ट स्ट्रिंग की निर्दिष्ट संख्या में पुनरावृत्ति करके उससे बनी एक स्ट्रिंग देता है?",
+    "options": [
+      "1. REPEAT",
+      "2. STRREPT",
+      "3. REPT",
+      "4. REPTSTR"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the shortcut key combination to move the viewable columns one screen to the right in an OpenOffice Calc?",
+    "options": [
+      "1. Alt+Page Down",
+      "2. Shift+Ctrl+Page Down",
+      "3. Ctrl+Page Down",
+      "4. Shift+Page Down"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "ओपनऑफिस कैल्क (OpenOffice Calc) में दिखने वाले कॉलम को एक स्क्रीन दाईं ओर ले जाने के लिए शॉर्टकट की (key) कॉम्बिनेशन क्या है?",
+    "options": [
+      "1. Alt+Page Down",
+      "2. Shift+Ctrl+Page Down",
+      "3. Ctrl+Page Down",
+      "4. Shift+Page Down"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A/An ______ uses laser technology to store a large amount of information.",
+    "options": [
+      "1. floppy disk",
+      "2. CD-ROM",
+      "3. hard disk",
+      "4. ED-ROM"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक ______ द्वारा बड़ी मात्रा में जानकारी संग्रहीत करने के लिए लेजर तकनीकी का उपयोग किया जाता है।",
+    "options": [
+      "1. फ्लॉपी डिस्क (floppy disk)",
+      "2. सीडी-रोम (CD-ROM)",
+      "3. हार्ड डिस्‍क (hard disk)",
+      "4. ईडी-रोम (ED-ROM)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which device is used to connect to different networks employing a completely different protocol?",
+    "options": [
+      "1. Gateway",
+      "2. Bridge",
+      "3. Connect way",
+      "4. Ethernet"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "पूरी तरह से अलग-अलग प्रोटोकॉल का उपयोग करके विभिन्न नेटवर्क से कनेक्ट करने के लिए किस डिवाइस का उपयोग किया जाता है?",
+    "options": [
+      "1. गेटवे (Gateway)",
+      "2. ब्रिज (Bridge)",
+      "3. कनेक्ट वे (Connect way)",
+      "4. ईथरनेट (Ethernet)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The following icon stands for __________ , which is in the group of Start Mail Merge of the Mailing tab in MS Word 365. <br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj49FbvxeX1phNUxF4SJfO7A3uLjVeL6XVd97SMan5ehQvyBOE3jm_h7XW7bbVtfgyPi3I1Ltg-VM7IghyphenhyphenbntlYduqGayXC_C4BK5dDTIV0c6sKcfWba_pQsvcmAwOwSUamsou5Op5JzpXtz9YH3wST1WUkps7-ushqs_Ok8K6CB-JZoKWk4-EK5hNXIZei/s54/012%20pj.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. Letters",
+      "2. Directory",
+      "3. Envelopes",
+      "4. Labels"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "नीचे दिया गया आइकन __________ के लिए है, जो MS Word 365 में मेलिंग (Mailing) टैब के स्टार्ट मेल मर्ज (Start Mail Merge) ग्रुप में होता है। <br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj49FbvxeX1phNUxF4SJfO7A3uLjVeL6XVd97SMan5ehQvyBOE3jm_h7XW7bbVtfgyPi3I1Ltg-VM7IghyphenhyphenbntlYduqGayXC_C4BK5dDTIV0c6sKcfWba_pQsvcmAwOwSUamsou5Op5JzpXtz9YH3wST1WUkps7-ushqs_Ok8K6CB-JZoKWk4-EK5hNXIZei/s54/012%20pj.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. पत्र (Letters)",
+      "2. डायरेक्टरी (Directory)",
+      "3. एनवेलप (Envelope)",
+      "4. लेबल (Labels)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A barcode that encodes all numbers, letters and punctuation plus ASCII 0 to 127 is:",
+    "options": [
+      "1. Bookland",
+      "2. Interleaved 2 of 5",
+      "3. QR Code",
+      "4. CODE 128"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "एक बारकोड जो सभी संख्याओं, अक्षरों और विराम चिह्न प्लस ASCII 0 से 127 तक एनकोड करता है, वह क्या कहलाता है?",
+    "options": [
+      "1. बुकलैंड (Bookland)",
+      "2. इंटरलीव्ड 2 ऑफ 5 (Interleaved 2 of 5)",
+      "3. क्यूआर कोड (QR Code)",
+      "4. कोड 128 (CODE 128)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A group of ______ bits is called a nibble.",
+    "options": [
+      "1. 2",
+      "2. 4",
+      "3. 6",
+      "4. 8"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ बिट का समूह, एक निबल (nibble) कहलाता है।",
+    "options": [
+      "1. 2",
+      "2. 4",
+      "3. 6",
+      "4. 8"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the purpose of a plotter?",
+    "options": [
+      "1. To store different designs of huge machines",
+      "2. To process high definition videos",
+      "3. To analyse huge calculations",
+      "4. To print graphs, drawings, charts, maps etc."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "एक प्लॉटर (plotter) का उद्देश्य क्या है?",
+    "options": [
+      "1. बड़ी मशीनों के विभिन्न डिज़ाइन स्टोर करना",
+      "2. हाई डेफिनेशन वीडियो प्रोसेस करना",
+      "3. बड़ी गणनाओं का विश्लेषण करना",
+      "4. ग्राफ़, ड्रॉइंग, चार्ट, मानचित्र आदि प्रिंट करना"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Laser printers are:",
+    "options": [
+      "1. page printers",
+      "2. line printers",
+      "3. dot matrix printers",
+      "4. band printers"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "लेज़र प्रिंटर्स ______ होते हैं?",
+    "options": [
+      "1. पेज प्रिंटर्स (page printers)",
+      "2. लाइन प्रिंटर्स (line printers)",
+      "3. डॉट मैट्रिक्स प्रिंटर्स (dot matrix printers)",
+      "4. बैंड प्रिंटर्स (band printers)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following manages the memory, buses on the motherboard and some peripherals?",
+    "options": [
+      "1. ALU",
+      "2. Registers",
+      "3. Chipset",
+      "4. Expansion cards"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन, मेमोरी, मदरबोर्ड पर बसों और कुछ सहायक यंत्रों का प्रबंधन करता है?",
+    "options": [
+      "1. ALU",
+      "2. रजिस्टर (Registers)",
+      "3. चिपसेट (Chipset)",
+      "4. एक्सपेंशन कार्ड्स (Expansion cards)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which unit acts as an interface between the computer and the user?",
+    "options": [
+      "1. Input and output devices",
+      "2. Control unit",
+      "3. Memory unit",
+      "4. Processor"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कौन-सी यूनिट कंप्यूटर और उपयोगकर्ता के बीच इंटरफ़ेस के रूप में कार्य करती है?",
+    "options": [
+      "1. इनपुट और आउटपुट डिवाइस (Input and output devices)",
+      "2. कंट्रोल यूनिट (Control unit)",
+      "3. मेमोरी यूनिट (Memory unit)",
+      "4. प्रोसेसर (Processor)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "With reference to computing, what is the full form of UBER?",
+    "options": [
+      "1. Uncorrectable Bit Error Rate",
+      "2. Uniform Bit Error Rate",
+      "3. Universal Bit Error Rate",
+      "4. Unique Bit Error Rate"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कंप्यूटिंग के संदर्भ में, UBER का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Uncorrectable Bit Error Rate (अनकरेक्टेबल बिट एरर रेट)",
+      "2. Uniform Bit Error Rate (यूनिफ़ॉर्म बिट एरर रेट)",
+      "3. Universal Bit Error Rate (यूनिवर्सल बिट एरर रेट)",
+      "4. Unique Bit Error Rate (यूनिक बिट एरर रेट)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "ISO/IEC 7816 Part 10 standard is used by memory cards for applications such as:",
+    "options": [
+      "1. vending machines",
+      "2. online shopping",
+      "3. super shop billing readers",
+      "4. air travel boarding pass readers"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "ISO/IEC 7816 पार्ट 10 मानक का उपयोग मेमोरी कार्ड द्वारा निम्नलिखित में से किस प्रकार के एप्लीकेशन के लिए किया जाता है?",
+    "options": [
+      "1. वेंडिंग मशीन्स (vending machines)",
+      "2. ऑनलाइन शॉपिंग (online shopping)",
+      "3. सुपर शॉप बिलिंग रीडर्स (super shop billing readers)",
+      "4. एयर ट्रेवल बोर्डिंग पास रीडर्स (air travel boarding pass readers)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What stereo miking technique uses a coincident pair of two bi-directional microphones in the same point, angled at 90° to each other?",
+    "options": [
+      "1. M-S",
+      "2. ORTF",
+      "3. Decca Tree",
+      "4. Blumlein"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से किस स्टीरियो माइकिंग तकनीक में, एक ही बिंदु पर एक दूसरे से 90° पर स्थित दो द्वि-दिशीय (bi-directional) माइक्रोफोनों के संपाती युग्म का उपयोग किया जाता है?",
+    "options": [
+      "1. M-S",
+      "2. ORTF",
+      "3. डेका ट्री (Decca Tree)",
+      "4. ब्‍लूमलेन (Blumlein)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is the purpose of using DNS/domain name?",
+    "options": [
+      "1. Since IP addresses are difficult for the host to remember, website names (domain names) are handy as they are alphabetic in nature.",
+      "2. A domain name is language dependent, so anyone can use it.",
+      "3. A domain name helps you save on cost of your website or internet charges.",
+      "4. A domain name is used to reduce Internet traffic."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "DNS/ डोमेन नेम उपयोग करने का उद्देश्य क्या है?",
+    "options": [
+      "1. क्योंकि होस्ट के लिए IP एड्रेस याद रखना मुश्किल होता है, जबकि वेबसाइट के नाम (डोमेन नेम) आसान होते हैं क्योंकि वे वर्णानुक्रमिक क्रम में होते हैं।",
+      "2. डोमेन नेम भाषा पर निर्भर होते हैं, इसलिए कोई भी इसका उपयोग कर सकता है।",
+      "3. डोमेन नेम आपको अपनी वेबसाइट की लागत या इंटरनेट शुल्क बचाने में मदद करता है।",
+      "4. इंटरनेट ट्रैफिक को कम करने के लिए डोमेन नेम का उपयोग किया जाता है।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following display(s) ads on a computer’s desktop or inside individual programs and are not exactly malicious but they do breach privacy of the users?",
+    "options": [
+      "1. Adware",
+      "2. Bots",
+      "3. Trojan",
+      "4. Worms"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्‍न में से कौन,उन ऐड को कंप्यूटर के डेस्कटॉप पर या अलग-अलग प्रोग्राम के अंदर डिस्‍प्‍ले करता है जो बिल्‍कुल भी दुर्भावपूर्ण नहीं होते हैं, लेकिन वे यूज़र्स की प्राइवेसी को भंग करते हैं?",
+    "options": [
+      "1. एडवेयर (Adware)",
+      "2. बोट्स (Bots)",
+      "3. ट्रोज़न (Trojan)",
+      "4. वर्म (Worms)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a disadvantage of an inkjet printer?",
+    "options": [
+      "1. No warmup time",
+      "2. Reasonably fast",
+      "3. Printing speed is not as fast as dot matrix printers",
+      "4. Cannot use highlighter marker on inkjet printouts"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से कौन-सी इंकजेट प्रिंटर के उपयोग की एक हानि है?",
+    "options": [
+      "1. इसमें वार्म-अप समय नहीं लगता है",
+      "2. यथोचित रूप से तीव्र होता है",
+      "3. इसकी मुद्रण गति डॉट मैट्रिक्स प्रिंटर जितनी तेज़ नहीं होती है",
+      "4. इंकजेट प्रिंटआउट में हाइलाइटर मार्कर का उपयोग नहीं कर सकते हैं"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "For connecting a computer to the Internet, we need _______.",
+    "options": [
+      "1. network adapters",
+      "2. Bluetooth drivers",
+      "3. radio frequency identifiers",
+      "4. sensors"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कंप्यूटर को इंटरनेट से कनेक्ट करने के लिए हमें _______ की आवश्यकता होती है।",
+    "options": [
+      "1. नेटवर्क एडाप्‍टर्स (network adapters)",
+      "2. ब्लूटूथ ड्रा इवर्स (Bluetooth drivers)",
+      "3. रेडियो फ्रीक्वेंसी आइडेंटिफायर्स (radio frequency identifiers)",
+      "4. सेंसर्स (Sensors)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following options is used to adjust the background of Windows 10 desktop?",
+    "options": [
+      "1. Personalisation",
+      "2. Sound Settings",
+      "3. Refresh",
+      "4. Sort by"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Windows 10 डेस्कटॉप के बैकग्राउंड को एडजस्ट करने के लिए निम्न में से किस विकल्प का उपयोग किया जाता है?",
+    "options": [
+      "1. पर्सनलाइज़ेशन (Personalisation)",
+      "2. साउंड सेटिंग्स (Sound Settings)",
+      "3. रिफ्रेश (Refresh)",
+      "4. सॉर्ट बाई (Sort by)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the maximum file size with the FAT 32 file system?",
+    "options": [
+      "1. 2 GB",
+      "2. 4 GB",
+      "3. 8 GB",
+      "4. 1 GB"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "FAT 32 फ़ाइल सिस्टम में फ़ाइल का अधिकतम आमाप कितना होता है?",
+    "options": [
+      "1. 2 GB",
+      "2. 4 GB",
+      "3. 8 GB",
+      "4. 1 GB"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the file extension for a bitmap image?",
+    "options": [
+      "1. .bif",
+      "2. .bmi",
+      "3. .bmp",
+      "4. .bpm"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "बिटमैप इमेज (Bitmap Image) का फ़ाइल एक्सटेंसन क्या है?",
+    "options": [
+      "1. .bif",
+      "2. .bmi",
+      "3. .bmp",
+      "4. .bpm"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A/An ______ is image or text that displays in the background of a page on a form or report in a word document.",
+    "options": [
+      "1. legend",
+      "2. icon",
+      "3. logo",
+      "4. watermark"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "______ एक इमेज या टेक्स्ट है जो वर्ड डॉक्यूमेंट में किसी फॉर्म या रिपोर्ट के पेज के बैकग्राउंड में दिखता है।",
+    "options": [
+      "1. लीजेंड (legend)",
+      "2. आइकॉन (icon)",
+      "3. लोगो (logo)",
+      "4. वाटरमार्क (watermark)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which extension is used for Microsoft Works program file?",
+    "options": [
+      "1. .wps",
+      "2. .wpa",
+      "3. .wap",
+      "4. .wpd"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "माइक्रोसॉफ्ट वर्क्स (Microsoft Works) प्रोग्राम फ़ाइल के लिए कौन सा एक्सटेंशन उपयोग किया जाता है?",
+    "options": [
+      "1. .wps",
+      "2. .wpa",
+      "3. .wap",
+      "4. .wpd"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ is a sequence of frames.",
+    "options": [
+      "1. Digital video",
+      "2. Digital image",
+      "3. Analogue image",
+      "4. Image file"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ फ्रेम्स का एक अनुक्रम है।",
+    "options": [
+      "1. डिजिटल वीडियो (Digital video)",
+      "2. डिजिटल इमेज (Digital image)",
+      "3. एनालॉग इमेज (Analogue image)",
+      "4. इमेज फ़ाइल (Image file)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Huffman coding utilises a ______________.",
+    "options": [
+      "1. fixed length code",
+      "2. bit length code",
+      "3. variable length code",
+      "4. byte length code"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "हफमैन (Huffman) कोडिंग में ______________ का उपयोग किया जाता है।",
+    "options": [
+      "1. फिक्स्ड लेंथ कोड (fixed length code)",
+      "2. बिट लेंथ कोड (bit length code)",
+      "3. वैरिएबल लेंथ कोड (variable length code)",
+      "4. बाइट लेंथ कोड (byte length code)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Who among the following hackers is a cybercriminal that breaks into computer systems with malicious or criminal intent?",
+    "options": [
+      "1. Black hat",
+      "2. White hat",
+      "3. Grey hat",
+      "4. Red hat"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा हैकर वह साइबर अपराधी है, जो दुर्भावनापूर्ण या आपराधिक इरादे से कंप्यूटर सिस्टम में सेंध लगाता है?",
+    "options": [
+      "1. ब्लैक हैट (Black hat)",
+      "2. व्हाइट हैट (White hat)",
+      "3. ग्रे हैट (Grey hat)",
+      "4. रेड हैट (Red hat)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT a peripheral device?",
+    "options": [
+      "1. Printer",
+      "2. Scanner",
+      "3. Plotter",
+      "4. Dispatcher"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से कौन सी एक पेरिफेरल डिवाइस नहीं है?",
+    "options": [
+      "1. प्रिंटर (Printer)",
+      "2. स्कैनर (Scanner)",
+      "3. प्लॉटर (Plotter)",
+      "4. डिस्पैचर (Dispatcher)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is the period of the third generation of computers?",
+    "options": [
+      "1. 1940-1959",
+      "2. 1956–1963",
+      "3. 1964–1971",
+      "4. 1971-1980"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा कंप्यूटर की तीसरी पीढ़ी की अवधि है?",
+    "options": [
+      "1. 1940-1959",
+      "2. 1956–1963",
+      "3. 1964–1971",
+      "4. 1971-1980"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Deliverables of test design phase include all the following, EXCEPT:",
+    "options": [
+      "1. test cases",
+      "2. test execution logs",
+      "3. test data sets",
+      "4. test design specification"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन‑सा टेस्ट डिज़ाइन फेज का डिलीवेरेबल नहीं है?",
+    "options": [
+      "1. टेस्ट केसेज़ (test cases)",
+      "2. टेस्ट एक्सेक्यूशन लॉग्स (test execution logs)",
+      "3. टेस्ट डेटा सेट्स (test data sets)",
+      "4. टेस्ट डिज़ाइन स्पेसिफ़िकेशन (test design specification)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is NOT a widely used e-mail program?",
+    "options": [
+      "1. Microsoft Outlook Express",
+      "2. Gmail",
+      "3. eBay",
+      "4. Yahoo mail"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, व्यापक रूप से उपयोग किया जाने वाला एक ई-मेल प्रोग्राम नहीं है?",
+    "options": [
+      "1. माइक्रोसॉफ्ट आउटलुक एक्सप्रेस (Microsoft outlook express)",
+      "2. जीमेल (Gmail)",
+      "3. ईबे (eBay)",
+      "4. याहू मेल (Yahoo mail)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Internet Explorer, Mozilla Firefox and Google Chrome are examples of:",
+    "options": [
+      "1. presentation applications",
+      "2. backup tools",
+      "3. Web browsers",
+      "4. operating systems"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "इंटरनेट एक्‍स्‍प्‍लोरर (Internet explorer), मोजिला फायरफॉक्‍स (Mozilla Firefox) और गूगल क्रोम (Google chrome) ______ के उदाहरण हैं।",
+    "options": [
+      "1. प्रेजेंटेजेंटेशन एप्लिकेशन्स (presentation applications)",
+      "2. बैकअप टूल्स (backup tools)",
+      "3. वेब ब्राउजर (Web browsers)",
+      "4. ऑपरेटिंग सिस्टम्स (operating systems)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "With reference to E-mail, the convenient place to store contact information for quick retrieval is:",
+    "options": [
+      "1. Message box",
+      "2. Address box",
+      "3. Address book",
+      "4. Quick box"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "ई-मेल के संदर्भ में, त्वरित पुनर्प्राप्ति के लिए संपर्क जानकारी संग्रहीत करने का सुविधाजनक स्थान कौन-सा है?",
+    "options": [
+      "1. मैसेज बॉक्स (Message box)",
+      "2. एड्रेस बॉक्स (Address box)",
+      "3. एड्रेस बुक (Address book)",
+      "4. क्विक बॉक्स (Quick box)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Microsoft Outlook is an example of a/an:",
+    "options": [
+      "1. Word Processor",
+      "2. High level Language",
+      "3. Email client",
+      "4. Database application"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "माइक्रोसॉफ्ट आउटलुक ______ का एक उदाहरण है।",
+    "options": [
+      "1. वर्ड प्रोसेसर (Word Processor)",
+      "2. हाई लेवल लैंग्वेज (High level Language)",
+      "3. ईमेल क्लाइंट (Email client)",
+      "4. डेटाबेस एप्लीकेशन (Database application)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is the form of public administration that uses information and communication technologies (ICT) to carry out its activities?",
+    "options": [
+      "1. E-Debate",
+      "2. E-Administration",
+      "3. E-Medicine",
+      "4. E-Transport"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, लोक प्रशासन का वह रूप है जो अपने कार्यो को सम्‍पन्‍न करने के लिए सूचना और संचार प्रौद्योगिकियों (ICT) यों का उपयोग करता है?",
+    "options": [
+      "1. ई-डीबेट (E-Debate)",
+      "2. ई-एडमिनिस्ट्रेशन (E-Administration)",
+      "3. ई-मेडिसीन (E-Medicine)",
+      "4. ई-ट्रां सपोर्ट (E-Transport)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following National Telemedicine Service of India is a step towards digital health equity to achieve Universal Health Coverage (UHC)?",
+    "options": [
+      "1. E-Court",
+      "2. E-Administration",
+      "3. eSanjeevani",
+      "4. E-Transport"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "भारत की निम्नलिखित में से कौन सी नेशनल टेलीमेडिसिन सर्विस, यूनिवर्सल हेल्थ कवरेज (UHC) प्राप्‍त करने के लिए डिजिटल हेल्थ इक्विटी की दिशा में एक कदम है?",
+    "options": [
+      "1. ई-कोर्ट (E-Court)",
+      "2. ई-एडमिनिस्ट्रेशन (E-Administration)",
+      "3. ई-संजीवनी (eSanjeevani)",
+      "4. ई-ट्रांसपोर्ट (E-Transport)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "With reference to data transmission, ADSL stands for:",
+    "options": [
+      "1. Asymmetric Digital Subscriber Line",
+      "2. Acyclic Dynamic Subscriber Line",
+      "3. Accurate Digital Service Line",
+      "4. Asynchronous Data Service Line"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "डेटा ट्रां समिशन के संदर्भ में, ADSL का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Asymmetric Digital Subscriber Line (एसिमेट्रिक डिजिटल सब्सक्राइबर लाइन)",
+      "2. Acyclic Dynamic Subscriber Line (एसाइक्लिक डायनामिक सब्सक्राइबर लाइन)",
+      "3. Accurate Digital Service Line (एक्यूरेट डिजिटल सर्विस लाइन)",
+      "4. Asynchronous Data Service Line (एसिंक्रोनस डेटा सर्विस लाइन)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "With reference to data transmission, SDSL stands for:",
+    "options": [
+      "1. Symmetric Digital Subscriber Line",
+      "2. Symbolic Dynamic Subscriber Line",
+      "3. Systematic Digital Service Line",
+      "4. Synchronous Data Service Line"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "डेटा ट्रांसमिशन के संदर्भ में, SDSL का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Symmetric Digital Subscriber Line (सिमेट्रिक डिजिटल सब्सक्राइबर लाइन)",
+      "2. Symbolic Dynamic Subscriber Line (सिंबोलिक डायनामिक सब्सक्राइबर लाइन)",
+      "3. Systematic Digital Service Line (सिस्टेमेटिक डिजिटल सर्विस लाइन)",
+      "4. Synchronous Data Service Line (सिंक्रोनस डेटा सर्विस लाइन)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following Internet Communication services is used to organise groups of Internet users to share common information through e-mail?",
+    "options": [
+      "1. Telnet",
+      "2. E-mails",
+      "3. Newsgroups",
+      "4. Mailing Lists"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "ई-मेल के माध्यम से सामान्य जानकारी साझा करने के लिए इंटरनेट उपयोगकर्ताओं के समूह के व्यवस्थापन हेतु _________ इंटरनेट संचार सेवा का उपयोग किया जाता है।",
+    "options": [
+      "1. टेलनेट (Telnet)",
+      "2. ई-मेल (E-mails)",
+      "3. न्यूज़ ग्रुप (Newsgroups)",
+      "4. मेलिंग सूची (Mailing Lists)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "HTTP functions as a ______ protocol in the client-server computing model.",
+    "options": [
+      "1. File transfer",
+      "2. Mail transfer",
+      "3. Stateful",
+      "4. Request–Response"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "HTTP, क्लाइंट-सर्वर कंप्यूटिंग मॉडल में ______ प्रोटोकॉल के रूप में कार्य करता है।",
+    "options": [
+      "1. फ़ाइल ट्रांसफर (File transfer)",
+      "2. मेल ट्रां सफर (Mail Transfer)",
+      "3. स्टेटफुल (Stateful)",
+      "4. रिक्वेस्ट-रिस्पोंसस्पों (Request–Response)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "HTTP functions as a request-response protocol in the ______________ computing model.",
+    "options": [
+      "1. client-server",
+      "2. component based",
+      "3. peer to peer",
+      "4. cloud"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "HTTP, ______ कंप्यूटिंग मॉडल में अनुरोध-अनुक्रिया (request-response) प्रोटोकॉल के रूप में कार्य करता है।",
+    "options": [
+      "1. क्लाइंट-सर्वर (client-server)",
+      "2. घटक-आधारित (component based)",
+      "3. पियर टू पियर (peer to peer)",
+      "4. क्लाउड (cloud)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT a feature of a good email service?",
+    "options": [
+      "1. Enough storage space",
+      "2. Availability of a desktop client",
+      "3. An effective spam filter",
+      "4. Voice mail"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से कौन-सी, अच्छी ईमेल सेवा की विशेषता नहीं है?",
+    "options": [
+      "1. पर्याप्त संग्रहण स्थान (Enough storage space)",
+      "2. डेस्कटॉप क्लाइंट की उपलब्धता (Availability of a desktop client)",
+      "3. प्रभावी स्पैम फ़िल्टर (An effective spam filter)",
+      "4. वाइस मेल (Voice mail)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is NOT a service offered by web mail providers in general?",
+    "options": [
+      "1. Database Management Systems",
+      "2. Instant messaging",
+      "3. Online address book",
+      "4. Online calendar"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सी, वेब मेल प्रदाताओं द्वारा सामान्य रूप से दी जाने वाली सेवा नहीं है?",
+    "options": [
+      "1. डेटाबेस मैनेजमेंट सिस्टम्स (Database Management Systems)",
+      "2. इंस्टेंट मैसेजिंग (Instant messaging)",
+      "3. ऑनलाइन एड्रेस बुक (Online address book)",
+      "4. ऑनलाइन कैलेंडर (Online calendar)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the binary equivalent of hexadecimal E?",
+    "options": [
+      "1. 1110",
+      "2. 1111",
+      "3. 1101",
+      "4. 1100"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "षोडश आधारी (हेक्साडेसिमल) E का बाइनरी समतुल्य ज्ञात कीजिए।",
+    "options": [
+      "1. 1110",
+      "2. 1111",
+      "3. 1101",
+      "4. 1100"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Using the decimal to binary formula, convert 206 from decimal to binary.",
+    "options": [
+      "1. 11001110",
+      "2. 11001111",
+      "3. 11001100",
+      "4. 11001101"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "दशमलव से बाइनरी सूत्र का उपयोग करके, 206 को दशमलव से बाइनरी में परिवर्तित कीजिए।",
+    "options": [
+      "1. 11001110",
+      "2. 11001111",
+      "3. 11001100",
+      "4. 11001101"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The ____ function key is used to toggle between references in MS-Excel 2019.",
+    "options": [
+      "1. F4",
+      "2. F2",
+      "3. F3",
+      "4. F5"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में, रेफरेंसों के बीच टॉगल करने के लिए ________फंक्शन कुंजी (function key) का उपयोग किया जाता है।",
+    "options": [
+      "1. F4",
+      "2. F2",
+      "3. F3",
+      "4. F5"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following shortcut keys is used to create, run, edit, or delete a macro in MS-Excel 2019?",
+    "options": [
+      "1. Alt + F8",
+      "2. Alt + F9",
+      "3. Alt + F10",
+      "4. Alt + F11"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में, मैक्रो को क्रिएट (create), रन (run), एडिट (edit) या डिलीट (delete) करने के लिए निम्न में से किस शॉर्टकट कुंजी का उपयोग किया जाता है?",
+    "options": [
+      "1. Alt + F8",
+      "2. Alt + F9",
+      "3. Alt + F10",
+      "4. Alt + F11"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Under which of the following tabs of MS-Excel 2019 can we find the option to add a hyperlink into a worksheet?",
+    "options": [
+      "1. Insert",
+      "2. Data",
+      "3. File",
+      "4. View"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 के निम्न में से किस टैब के अंतर्गत हम वर्कशीट में हाइपरलिंक जोड़ने का विकल्प ढूंढ सकते हैं?",
+    "options": [
+      "1. इन्सर्ट (Insert)",
+      "2. डेटा (Data)",
+      "3. फ़ाइल (File)",
+      "4. व्यू (View)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A/An________ in MS-Excel 2019 can be used to plot change over time and draw attention to the total value across a trend.",
+    "options": [
+      "1. area chart",
+      "2. scatter chart",
+      "3. stock chart",
+      "4. doughnut chart"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में ________ का उपयोग समय के साथ परिवर्तन (change over time) का प्लॉट बनाने और ट्रेंड के कुल मान पर ध्यान आकर्षित करने के लिए किया जा सकता है।",
+    "options": [
+      "1. एरिया चार्ट (area chart)",
+      "2. स्कैटर चार्ट (scatter chart)",
+      "3. स्टॉक चार्ट (stock chart)",
+      "4. डोनट चार्ट (doughnut chart)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The hexadecimal equivalent for octal 45 is:",
+    "options": [
+      "1. 28",
+      "2. 25",
+      "3. 34",
+      "4. 29"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "अष्टाधारी 45 के लिए षोडश आधारी (हेक्साडेसिमल) समतुल्य ________ है।",
+    "options": [
+      "1. 28",
+      "2. 25",
+      "3. 34",
+      "4. 29"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The keyboard shortcut ________ is used in MS-Excel 2019 to save your workbook.",
+    "options": [
+      "1. Alt + F + E",
+      "2. Alt + F + C",
+      "3. Alt + F + S",
+      "4. Alt + F + D"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel 2019 में, आपकी वर्कबुक को सेव करने के लिए ________ कीबोर्ड शॉर्टकट का उपयोग किया जाता है।",
+    "options": [
+      "1. Alt + F + E",
+      "2. Alt + F + C",
+      "3. Alt + F + S",
+      "4. Alt + F + D"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The keyboard shortcut ________ is used in MS-Excel 2019 to toggle outline symbols.",
+    "options": [
+      "1. Ctrl + 1",
+      "2. Ctrl + 5",
+      "3. Ctrl + 8",
+      "4. Ctrl + 6"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel 2019 में, आउटलाइन सिंबल को टॉगल करने के लिए कीबोर्ड शॉर्टकट ________ का उपयोग किया जाता है।",
+    "options": [
+      "1. Ctrl + 1",
+      "2. Ctrl + 5",
+      "3. Ctrl + 8",
+      "4. Ctrl + 6"
+    ],
+    "answer": 2
+  }
+],
+
   
 "16th January 2026 - Shift1": [
   {
