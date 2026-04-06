@@ -3129,6 +3129,1049 @@
   }
 ],
 
+  "22nd March 2026 - Shift1": [
+{
+    "q": "A computer's CPU consists of millions of tiny ______.",
+    "options": [
+      "1. bits",
+      "2. transistors",
+      "3. regular expressions",
+      "4. bytes"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कम्प्यूटर का CPU लाखों सूक्ष्म ______ से बना होता है।",
+    "options": [
+      "1. बिट्स",
+      "2. ट्रांजिस्टरों",
+      "3. रेगुलर एक्सप्रेशंस",
+      "4. बाइट्स"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which function returns a formula as a string in MS-Excel 2019?",
+    "options": [
+      "1. FORMULATEXT",
+      "2. STRFORMULA",
+      "3. FORMULASTR",
+      "4. TEXTFORMULA"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS‑Excel 2019 में कौन‑सा फ़ंक्शन किसी फ़ॉर्मूला को एक स्ट्रिंग के रूप में रिटर्न करता है?",
+    "options": [
+      "1. FORMULATEXT",
+      "2. STRFORMULA",
+      "3. FORMULASTR",
+      "4. TEXTFORMULA"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the keyboard shortcut for adding the next sheet to the current selection of sheets in OpenOffice Calc?",
+    "options": [
+      "1. Page Down",
+      "2. Shift + Ctrl + Page Down",
+      "3. Ctrl + Page Down",
+      "4. Shift + Page Down"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ओपन ऑफ़िस कैल्क (open office Calc) में, शीट के वर्तमान चयन में अगली शीट को जोड़ने के लिए की-बोर्ड शॉर्टकट क्या है?",
+    "options": [
+      "1. Page Down",
+      "2. Shift + Ctrl + Page Down",
+      "3. Ctrl + Page Down",
+      "4. Shift + Page Down"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "RAM is used as a short memory because it is ______ and ______ memory.",
+    "options": [
+      "1. volatile, temporary",
+      "2. nonvolatile, systematic",
+      "3. nonvolatile, sequential",
+      "4. volatile, permanent"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "रैम (RAM) को एक छोटी मेमोरी के रूप में प्रयोग किया जाता है क्योंकि यह ______ और ______ होती है।",
+    "options": [
+      "1. अस्थिर (वोलेटाइल), अस्थायी",
+      "2. स्थिर (नॉन-वोलेटाइल), व्यवस्थित",
+      "3. स्थिर (नॉन-वोलेटाइल), अनुक्रमिक",
+      "4. अस्थिर (वोलेटाइल), स्थायी"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "On Fedora, do not set __________ option if the machine also runs Microsoft Windows as that may cause unexpected behaviour under Fedora.",
+    "options": [
+      "1. System clock uses UTC",
+      "2. System Timer",
+      "3. Clock Time",
+      "4. Microsoft Time"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Fedora पर, यदि मशीन Microsoft Windows को रन कर रही है, तो __________ विकल्प सेट न करें, क्योंकि इससे Fedora में अप्रत्याशित व्यवहार हो सकता है।",
+    "options": [
+      "1. सिस्टम घड़ी UTC का उपयोग करती है",
+      "2. सिस्टम टाइमर",
+      "3. क्लॉक टाइम",
+      "4. माइक्रोसॉफ्ट टाइम"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "If the width of the page is less than the height of the page in an MS-Word document then which of the following statements would be FALSE?",
+    "options": [
+      "1. The page orientation is Landscape.",
+      "2. The page orientation is in Default.",
+      "3. The page orientation is Portrait.",
+      "4. The page is vertically aligned"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "यदि किसी MS‑Word दस्तावेज़ में पेज की चौड़ाई पेज की ऊँचाई से कम है, तो निम्नलिखित में से कौन‑सा कथन गलत होगा?",
+    "options": [
+      "1. पेज का ओरिएंटेशन लैंडस्केप है।",
+      "2. पेज का ओरिएंटेशन डिफ़ॉल्ट है।",
+      "3. पेज का ओरिएंटेशन पोर्ट्रेट है।",
+      "4. पेज वर्टिकली अलाइन है।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "All of the following barcode standards EXCEPT ___________ encode only numbers.",
+    "options": [
+      "1. Code 128",
+      "2. Interleaved 2 of 5",
+      "3. MSI code",
+      "4. Postnet"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से ________ को छोड़कर अन्य सभी बारकोड मानक, केवल संख्याओं को एन्कोड करते हैं।",
+    "options": [
+      "1. कोड 128 (Code 128)",
+      "2. इंटरलीव्ड 2 ऑफ 5 (Interleaved 2 of 5)",
+      "3. MSI कोड (MSI code)",
+      "4. पोस्टनेट (Postnet)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "16 bits equals to ______.",
+    "options": [
+      "1. 1 byte",
+      "2. 4 nibbles",
+      "3. 1 Tera byte",
+      "4. 4 bytes"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "16 बिट ______ के बराबर होता है।",
+    "options": [
+      "1. 1 बाइट",
+      "2. 4 निब्बल",
+      "3. 1 टेरा बाइट",
+      "4. 4 बाइट्स"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following set of words represent valid types of plotter?",
+    "options": [
+      "1. Pen, electrostatic",
+      "2. LCD, pen, cutting",
+      "3. USB, drum, electrostatic",
+      "4. Drum, pen, modem"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा शब्द समूह प्लॉटर के वैध प्रकारों का निरूपण करता है?",
+    "options": [
+      "1. पेन, इलेक्ट्रोस्टैटिक",
+      "2. LCD, पेन, कटिंग",
+      "3. USB, ड्रम, इलेक्ट्रोस्टैटिक",
+      "4. ड्रम, पेन, मॉडम"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_______ is the logical function used in MS-Excel.",
+    "options": [
+      "1. IF()",
+      "2. VLOOKUP()",
+      "3. SQRT()",
+      "4. DATEVALUE()"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS‑Excel में उपयोग होने वाला तार्किक फ़ंक्शन (Logical function) कौन‑सा है?",
+    "options": [
+      "1. IF()",
+      "2. VLOOKUP()",
+      "3. SQRT()",
+      "4. DATEVALUE()"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following ports is used to connect a speaker?",
+    "options": [
+      "1. Display Port",
+      "2. Ethernet Port",
+      "3. Audio Port",
+      "4. VGA Port"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्न में से कौन‑सा पोर्ट स्पीकर को जोड़ने के लिए उपयोग किया जाता है?",
+    "options": [
+      "1. डिस्प्ले पोर्ट",
+      "2. ईथरनेट पोर्ट",
+      "3. ऑडियो पोर्ट",
+      "4. VGA पोर्ट"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is an important component of the motherboard that forms an interface between the CPU, various buses and other external components?",
+    "options": [
+      "1. Main memory",
+      "2. Chipset",
+      "3. Socket",
+      "4. Peripheral card slot"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा मदरबोर्ड का एक महत्वपूर्ण घटक है जो सीपीयू, विभिन्न बसों और अन्य बाहरी घटकों के बीच एक इंटरफेस बनाता है?",
+    "options": [
+      "1. मुख्य मेमोरी",
+      "2. चिपसेट",
+      "3. सॉकेट",
+      "4. पेरिफेरल कार्ड स्लॉट"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Choose the hexadecimal equivalent of the decimal number 17.",
+    "options": [
+      "1.   11",
+      "2.   1A",
+      "3.   12",
+      "4.   A2"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "दशमलव संख्या 17 के समतुल्य षोडश आधारी (हेक्साडेसिमल) का चयन कीजिए।",
+    "options": [
+      "1.   11",
+      "2.   1A",
+      "3.   12",
+      "4.   A2"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A ______ is a new generation of storage device used in computers. It uses flash-based memory, which is much faster than a traditional mechanical hard disk.",
+    "options": [
+      "1. Blu-Ray Disc",
+      "2. DVD",
+      "3. Solid State Drive",
+      "4. Hard Disk Drive"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "______ कंप्यूटर में उपयोग की जाने वाली स्टोरेज डिवाइस की एक नई पीढ़ी है। यह फ्लैश-आधारित मेमोरी का उपयोग करता है, जो पारंपरिक मैकेनिकल हार्ड डिस्क की तुलना में बहुत तेज है।",
+    "options": [
+      "1. ब्लू-रे डिस्क",
+      "2. DVD",
+      "3. सॉलिड स्टेट ड्राइव",
+      "4. हार्ड डिस्क ड्राइव"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the full form of ISO?",
+    "options": [
+      "1. International Organization for Standardization",
+      "2. Internet Organization for Standardization",
+      "3. International Operations for Security",
+      "4. Intermittent Organization for Standardization"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "ISO का पूर्ण रूप क्या है?",
+    "options": [
+      "1. International Organization for Standardization (इंटरनेशनल ऑर्गेनाइज़ेशन फॉर स्टैंडर्डाइज़ेशन)",
+      "2. Internet Organization for Standardization (इंटरनेट ऑर्गेनाइज़ेशन फॉर स्टैंडर्डाइज़ेशन)",
+      "3. International Operations for Security (इंटरनेशनल ऑपरेशन्स फॉर सिक्योरिटी)",
+      "4. Intermittent Organization for Standardization (इंटरमिटेंट ऑर्गेनाइजेशन फॉर स्टैंडर्डाइज़ेशन)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Sometimes the proxy firewall or proxy server is a:",
+    "options": [
+      "1. gateway",
+      "2. switch",
+      "3. repeater",
+      "4. hub"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "प्रॉक्सी फ़ायरवॉल या प्रॉक्सी सर्वर कभी-कभी एक ________ के रूप में कार्य करने लगता है।",
+    "options": [
+      "1. गेटवे",
+      "2. स्विच",
+      "3. रिपीटर",
+      "4. हब"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which system software is primarily responsible for converting low-level program instructions into executable binary form?",
+    "options": [
+      "1. Linker",
+      "2. Assembler",
+      "3. Dispatcher",
+      "4. Loader"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कौन‑सा सिस्टम सॉफ़्टवेयर मुख्य रूप से निम्न‑स्तरीय प्रोग्राम निर्देशों को निष्पादन योग्य बाइनरी रूप में परिवर्तित करने के लिए उत्तरदायी होता है?",
+    "options": [
+      "1. लिंकर (Linker)",
+      "2. असेम्बलर (Assembler)",
+      "3. डिस्पैचर (Dispatcher)",
+      "4. लोडर (Loader)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is used to facilitate communication among CPU, main memory, and I/O devices?",
+    "options": [
+      "1. CD",
+      "2. Virtual memory",
+      "3. Antivirus software",
+      "4. Bus"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "CPU, मुख्य मेमोरी और I/O उपकरणों के बीच संचार की सुविधा के लिए निम्नलिखित में से किसका उपयोग किया जाता है?",
+    "options": [
+      "1. CD",
+      "2. वर्चुअल मेमोरी",
+      "3. एंटी-वायरस सॉफ्टवेयर",
+      "4. बस"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following hardware components is primarily responsible for handling graphics processing functions in a computer system?",
+    "options": [
+      "1. Motherboard",
+      "2. Network card",
+      "3. Video card",
+      "4. Geometric card"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन‑सा हार्डवेयर घटक मुख्य रूप से कंप्यूटर सिस्टम में ग्राफ़िक्स प्रोसेसिंग कार्यों को संभालने के लिए उत्तरदायी होता है?",
+    "options": [
+      "1. मदरबोर्ड",
+      "2. नेटवर्क कार्ड",
+      "3. वीडियो कार्ड",
+      "4. जियोमेट्रिक कार्ड"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following provides storage internal to the CPU?",
+    "options": [
+      "1. ALU",
+      "2. Hard disk",
+      "3. RAM",
+      "4. Register"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से कौन-सा CPU के भीतर इंटरनल स्टोरेज प्रदान करता है?",
+    "options": [
+      "1. ALU",
+      "2. हार्ड डिस्क",
+      "3. RAM",
+      "4. रजिस्टर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What does CDFS stands for?",
+    "options": [
+      "1. Compact disk file system",
+      "2. Common disk file system",
+      "3. Central disk file system",
+      "4. Computer disk file system"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "CDFS का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Compact disk file system (कॉम्पैक्ट डिस्क फाइल सिस्टम)",
+      "2. Common disk file system (कॉमन डिस्क फाइल सिस्टम)",
+      "3. Central disk file system (सेन्ट्रल डिस्क फाइल सिस्टम)",
+      "4. Computer disk file system (कंप्यूटर डिस्क फाइल सिस्टम)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following file types represents the simple, old‑generation executable format used in early DOS and Windows operating systems?",
+    "options": [
+      "1.    .dcm",
+      "2.    .dds",
+      "3.    .com",
+      "4.    .dos"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन‑सा फ़ाइल प्रकार प्रारंभिक DOS और Windows ऑपरेटिंग सिस्टम में उपयोग किए जाने वाले सरल, पुरानी पीढ़ी के निष्पादन योग्य फ़ॉर्मेट का प्रतिनिधित्व करता है?",
+    "options": [
+      "1.    .dcm",
+      "2.    .dds",
+      "3.    .com",
+      "4.    .dos"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following interprets the instructions in a memory and causes them to be executed?",
+    "options": [
+      "1. Control Unit",
+      "2. Data bus",
+      "3. ALU",
+      "4. SRAM"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा मेमोरी में मौजूद निर्देशों की व्याख्या करता है और उन्हें निष्पादित करवाता है?",
+    "options": [
+      "1. कंट्रोल यूनिट (Control Unit)",
+      "2. डेटा बस (Data bus)",
+      "3. ALU",
+      "4. SRAM"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following file formats was developed by Sun Microsystems and was commonly used as an early Unix audio file format?",
+    "options": [
+      "1.    .au",
+      "2.    .ad",
+      "3.    .ar",
+      "4.    .as"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन‑सा फ़ाइल फ़ॉर्मैट Sun Microsystems द्वारा विकसित किया गया था और जिसे शुरुआती Unix ऑडियो फ़ाइल फ़ॉर्मेट के रूप में आमतौर पर उपयोग किया जाता था?",
+    "options": [
+      "1.    .au",
+      "2.    .ad",
+      "3.    .ar",
+      "4.    .as"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In a digital image communication system, which component operates at the source stage to convert image data into a coded representation suitable for efficient transmission?",
+    "options": [
+      "1. Multiplexer",
+      "2. Decoder",
+      "3. Encoder",
+      "4. Modulator"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एक डिजिटल इमेज संचार प्रणाली में, स्रोत चरण (source stage) पर कौन‑सा घटक चित्र डेटा को एक कूटबद्ध (coded) रूप में बदलता है, ताकि उसका कुशलतापूर्वक संप्रेषण किया जा सके?",
+    "options": [
+      "1. मल्टीप्लेक्सर (Multiplexer)",
+      "2. डिकोडर (Decoder)",
+      "3. एनकोडर (Encoder)",
+      "4. मोड्युलेटर (Modulator)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following options gives the correct sequence of steps in image compression?",
+    "options": [
+      "1. Original image → inverse transform → de‑quantization → entropy encoding",
+      "2. Original image → quantization → inverse transform → entropy encoding",
+      "3. Original image → transform → quantization → entropy encoding",
+      "4. Entropy encoding → Original image → transform → de‑quantization"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्न में से कौन‑सा विकल्प इमेज कम्प्रेशन (Image Compression) में चरणों के सही क्रम को दर्शाता है?",
+    "options": [
+      "1. Original image → inverse transform → de‑quantization → entropy encoding",
+      "2. Original image → quantization → inverse transform → entropy encoding",
+      "3. Original image → transform → quantization → entropy encoding",
+      "4. Entropy encoding → Original image → transform → de‑quantization"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which type of UPS is most commonly recommended for desktop computers and other small-scale applications, providing basic power backup at low cost?",
+    "options": [
+      "1. Online double conversion UPS",
+      "2. Standby UPS",
+      "3. Line interactive UPS",
+      "4. Multimode UPS"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "किस प्रकार का UPS आम तौर पर डेस्कटॉप कंप्यूटर और अन्य छोटे‑स्तर के अनुप्रयोगों के लिए सर्वाधिक अनुशंसित है, जो कम लागत में बेसिक पावर बैकअप प्रदान करता है?",
+    "options": [
+      "1. ऑनलाइन डबल कन्वर्ज़न UPS",
+      "2. स्टैंडबाय UPS",
+      "3. लाइन इंटरैक्टिव UPS",
+      "4. मल्टीमोड UPS"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What does VGA stand for?",
+    "options": [
+      "1. Video Graphics Array",
+      "2. Very Genuine Accessories",
+      "3. Video Graphics Adapter",
+      "4. Video Graphics Analyzer"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "VGA का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Video graphics array (वीडियो ग्राफिक्स ऐरे)",
+      "2. Very genuine accessories (वैरी जेन्युइन एक्सेसरीज़)",
+      "3. Video graphics adapter (वीडियो ग्राफिक्स एडाप्टर)",
+      "4. Video graphics analyzer (वीडियो ग्राफिक्स एनालाइज़र)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Reasons you might need to change the configuration of your home router are as follows, EXCLUDING:",
+    "options": [
+      "1. changing your address proof",
+      "2. changing the name (SSID) of your wireless network",
+      "3. changing the password (encryption key) of your wireless network",
+      "4. changing your router's firewall rules to allow inbound or outbound traffic on specific network ports"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "आपको अपने होम राउटर के कॉन्फ़िगरेशन को बदलने के कई कारण हो सकते हैं। निम्न में से कौन-सा उन कारणों में शामिल नहीं है?",
+    "options": [
+      "1. अपने एड्रेस के प्रमाण को बदलना",
+      "2. अपने वायरलेस नेटवर्क का नाम (SSID) बदलना",
+      "3. अपने वायरलेस नेटवर्क का पासवर्ड (एन्क्रिप्शन की) बदलना",
+      "4. विशिष्ट नेटवर्क पोर्ट्स पर इनबाउंड या आउटबाउंड ट्रैफिक की अनुमति देने के लिए अपने राउटर के फ़ायरवॉल नियमों को बदलना"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which software testing verify that different modules or services used by your application work well together?",
+    "options": [
+      "1. End-to-End testing",
+      "2. Functional testing",
+      "3. Unit testing",
+      "4. Integration testing"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कौन-सा सॉफ़्टवेयर परीक्षण यह सत्यापित करता है कि आपके एप्लिकेशन द्वारा उपयोग किए जाने वाले विभिन्न मॉड्यूल अथवा सेवाएं एक साथ अच्छी तरह से काम कर रहे हैं?",
+    "options": [
+      "1. एंड-टू-एंड परीक्षण",
+      "2. फंक्शनल परीक्षण",
+      "3. यूनिट परीक्षण",
+      "4. इंटीग्रेशन परीक्षण"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A website's main page is also called as:",
+    "options": [
+      "1. browser page",
+      "2. search page",
+      "3. home page",
+      "4. finding page"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "किसी वेबसाइट के मुख्य पृष्ठ को _________भी कहा जाता है।",
+    "options": [
+      "1. ब्राउज़र पेज",
+      "2. सर्च पेज",
+      "3. होम पेज",
+      "4. फाइंडिंग पेज"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is an example of a web browser?",
+    "options": [
+      "1. Opera",
+      "2. Star Works",
+      "3. Google Apps",
+      "4. Odilla"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से कौन-सा, एक वेब ब्राउज़र का उदाहरण है?",
+    "options": [
+      "1. ओपेरा (Opera)",
+      "2. स्टार वर्क्स (Star Works)",
+      "3. गूगल एप्स (Google Apps)",
+      "4. ओडिल्ला (Odilla)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a valid email address format?",
+    "options": [
+      "1. student.name@example..com",
+      "2. student.name@example.com",
+      "3. studentname.example.com@",
+      "4. studentname.example.com"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्न में से कौन-सा ईमेल एड्रेस फ़ॉर्मेट एक वैध फ़ॉर्मेट है?",
+    "options": [
+      "1. student.name@example..com",
+      "2. student.name@example.com",
+      "3. studentname.example.com@",
+      "4. studentname.example.com"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The World Wide Web is composed of:",
+    "options": [
+      "1. 1 page",
+      "2. only 100 web pages",
+      "3. only 500 web pages",
+      "4. millions of web pages"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "वर्ल्ड वाइड वेब, _______ का संकलन है।",
+    "options": [
+      "1. 1 पेज",
+      "2. केवल 100 वेब पेजों",
+      "3. केवल 500 वेब पेजों",
+      "4. लाखों वेब पेजों"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Fourth generation computers are based on which of the following hardware?",
+    "options": [
+      "1. Microprocessor",
+      "2. Transistor",
+      "3. Vaccume tube",
+      "4. Integrated circuit"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "चौथी पीढ़ी के कंप्यूटर निम्न में से किस हार्डवेयर पर आधारित हैं?",
+    "options": [
+      "1. माइक्रोप्रोसेसर",
+      "2. ट्रां जिस्टर",
+      "3. वैक्यूम ट्यूब",
+      "4. इंटीग्रेटेड सर्किट"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The first Linux kernel that supports the SMP hardware is:",
+    "options": [
+      "1. Linux 2.0",
+      "2. Linux 0.1",
+      "3. Linux 1.1",
+      "4. Linux 1.2"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "पहला Linux कर्नेल जो SMP हार्डवेयर को सपोर्ट करता है, वह ______ है।",
+    "options": [
+      "1. Linux 2.0",
+      "2. Linux 0.1",
+      "3. Linux 1.1",
+      "4. Linux 1.2"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ is a type of fixed wireline broadband internet that travels along existing copper telephone lines.",
+    "options": [
+      "1. Digital Subscriber Line (DSL)",
+      "2. Digital Super Line (DSL)",
+      "3. Direct Subscriber Limit (DSL)",
+      "4. Digital Summary Line (DSL)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "________ एक प्रकार का फिक्स्ड वायरलाइन ब्रॉडबैंड इंटरनेट है, जो मौजूदा कॉपर टेलीफोन लाइनों के साथ संचरण करता है।",
+    "options": [
+      "1. डिजिटल सब्सक्राइबर लाइन (DSL)",
+      "2. डिजिटल सुपर लाइन (DSL)",
+      "3. डायरेक्ट सब्सक्राइबर लिमिट (DSL)",
+      "4. डिजिटल समरी लाइन (DSL)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The term ______ refers to a company that provides access to the Internet to both personal and business customers.",
+    "options": [
+      "1. Internet Service Provider",
+      "2. Intranet Service Provider",
+      "3. International Service Provider",
+      "4. Internet Station Provider"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "________ पद, एक ऐसी कंपनी को संदर्भित करता है जो व्यक्तिगत और व्यावसायिक दोनों ग्राहकों को इंटरनेट तक पहुंच प्रदान करती है।",
+    "options": [
+      "1. Internet Service Provider (इंटरनेट सर्विस प्रोवाइडर)",
+      "2. Intranet Service Provider (इंट्रानेट सर्विस प्रोवाइडर)",
+      "3. International Service Provider (इंटरनेशनल सर्विस प्रोवाइडर)",
+      "4. Internet Station Provider (इंटरनेट स्टेशन प्रोवाइडर)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which Internet service allows synchronous text-based communication among two or more participants?",
+    "options": [
+      "1. Telnet",
+      "2. VoIP",
+      "3. Mailing Lists",
+      "4. Instant Messaging"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कौन‑सी इंटरनेट सेवा दो या अधिक प्रतिभागियों के बीच समकालिक (synchronous) टेक्स्ट‑आधारित संचार की अनुमति देती है?",
+    "options": [
+      "1. टेलनेट (Telnet)",
+      "2. वीओआईपी (VoIP)",
+      "3. मेलिंग लिस्ट्स (Mailing Lists)",
+      "4. इंस्टेंट मैसेजिंग (Instant Messaging)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "At the most basic level, whenever a web _______ needs a file that is hosted on, it requests the file via HTTP.",
+    "options": [
+      "1. sensor",
+      "2. browser",
+      "3. dictionary",
+      "4. URL"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "सबसे बुनियादी स्तर पर, जब भी कोई वेब _______ को किसी ऐसी फ़ाइल की आवश्यकता होती है जो सर्वर पर होस्ट की गई हो, तो वह उस फ़ाइल को HTTP के माध्यम से अनुरोध करता/ करती है।",
+    "options": [
+      "1. सेंसर",
+      "2. ब्राउज़र",
+      "3. डिक्शनरी",
+      "4. URL"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The ASCII value of a comma character is ________.",
+    "options": [
+      "1. 57",
+      "2. 97",
+      "3. 44",
+      "4. 65"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "कॉमा कैरेक्टर की ASCII वैल्यू ______ है।",
+    "options": [
+      "1. 57",
+      "2. 97",
+      "3. 44",
+      "4. 65"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "______ is a email service managed by Microsoft.",
+    "options": [
+      "1. Moho Mail",
+      "2. Gmail",
+      "3. Zoho Mail",
+      "4. Outlook"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "______ माइक्रोसॉफ्ट द्वारा प्रबंधित एक ईमेल सेवा है।",
+    "options": [
+      "1. मोहो मेल (Moho mail)",
+      "2. जीमेल (Gmail)",
+      "3. ज़ोहो मेल (Zoho mail)",
+      "4. आउटलुक (Outlook)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is a virus that creates a new file with a similar name to an existing program but with a different file extension?",
+    "options": [
+      "1. FAT",
+      "2. Memory Resident",
+      "3. Stealth",
+      "4. Companion"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन‑सा वायरस एक नई फ़ाइल बनाता है, जो किसी मौजूदा प्रोग्राम के समान नाम की होती है, लेकिन उसका फ़ाइल एक्सटेंशन अलग होता है?",
+    "options": [
+      "1. एफएटी (FAT)",
+      "2. मेमोरी रेज़िडेंट (Memory Resident)",
+      "3. स्टील्थ (Stealth)",
+      "4. कम्पैनियन (Companion)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is the size of MAC address?",
+    "options": [
+      "1. 64 bits",
+      "2. 32 bits",
+      "3. 48 bits",
+      "4. 16 bits"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MAC एड्रेस का साइज़ क्या है?",
+    "options": [
+      "1. 64 बिट्स",
+      "2. 32 बिट्स",
+      "3. 48 बिट्स",
+      "4. 16 बिट्स"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the output of the following MS-Excel 2019 formula? <br> =DEC2OCT(1681)",
+    "options": [
+      "1. 3122",
+      "2. 3221",
+      "3. 3212",
+      "4. 1223"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित MS-Excel 2019 सूत्र का आउटपुट क्या होगा? <br> =DEC2OCT(1681)",
+    "options": [
+      "1. 3122",
+      "2. 3221",
+      "3. 3212",
+      "4. 1223"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which function of MS-Excel 2019 returns TRUE if any argument is TRUE?",
+    "options": [
+      "1. AND",
+      "2. NOT",
+      "3. OR",
+      "4. AT"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "यदि कोई आर्गुमेंट TRUE है, तो MS-Excel 2019 का कौन-सा फ़ंक्शन TRUE रिटर्न करता है?",
+    "options": [
+      "1. AND",
+      "2. NOT",
+      "3. OR",
+      "4. AT"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The combination of table and column names is called a _________ in MS-Excel.",
+    "options": [
+      "1. structured reference",
+      "2. relative reference",
+      "3. absolute reference",
+      "4. mixed reference"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel में, टेबल और कॉलम नामों के कॉम्बिनेशन को ______ कहा जाता है।",
+    "options": [
+      "1. स्ट्रक्चर्ड रेफरेंस (structured reference)",
+      "2. रिलेटिव रेफरेंस (relative reference)",
+      "3. अब्सोल्यूट रेफरेंस (absolute reference)",
+      "4. मिक्स्ड रेफरेंस (mixed reference)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A _______ in MS-Excel compares the aggregate values of several data series.",
+    "options": [
+      "1. radar chart",
+      "2. scatter chart",
+      "3. stock chart",
+      "4. doughnut chart"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel में, _______ कई डेटा शृंखलाओं के कुल मानों की तुलना करता है।",
+    "options": [
+      "1. रडार चार्ट",
+      "2. स्कैटर चार्ट",
+      "3. स्टॉक चार्ट",
+      "4. डोनट चार्ट"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The decimal equivalent of hexadecimal 4B is:",
+    "options": [
+      "1. 60",
+      "2. 75",
+      "3. 70",
+      "4. 65"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "षोडश आधारी (हेक्साडेसिमल) 4B के लिए दशमलव समतुल्य _________ होगा।",
+    "options": [
+      "1. 60",
+      "2. 75",
+      "3. 70",
+      "4. 65"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "2’s complement for –22 is:",
+    "options": [
+      "1110 1011",
+      "1110 1000",
+      "1110 1010",
+      "1110 1001"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "–22 के लिए 2 का पूरक (2’s complement) ज्ञात कीजिए।",
+    "options": [
+      "1110 1011",
+      "1110 1000",
+      "1110 1010",
+      "1110 1001"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The keyboard shortcut ________ is used in MS-Excel 2019 to close your workbook.",
+    "options": [
+      "1. Alt + F + E",
+      "2. Alt + F + C",
+      "3. Alt + F + Z",
+      "4. Alt + F + D"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 में, वर्कबुक को बंद करने के लिए कीबोर्ड शॉर्टकट ________ का उपयोग किया जाता है।",
+    "options": [
+      "1. Alt + F + E",
+      "2. Alt + F + C",
+      "3. Alt + F + Z",
+      "4. Alt + F + D"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The keyboard shortcut ________ is used in MS-Excel 2019 to place outline borders around the selected cells.",
+    "options": [
+      "1. Ctrl + Shift + @",
+      "2. Ctrl + Shift + ~",
+      "3. Ctrl + Shift + %",
+      "4. Ctrl + Shift + &"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel 2019 में, कीबोर्ड शॉर्टकट ________ का उपयोग चुने हुए सेल्स के चारों ओर आउटलाइन बॉर्डर बनाने के लिए किया जाता है।",
+    "options": [
+      "1. Ctrl + Shift + @",
+      "2. Ctrl + Shift + ~",
+      "3. Ctrl + Shift + %",
+      "4. Ctrl + Shift + &"
+    ],
+    "answer": 3
+  }
+],
+
   
 "16th January 2026 - Shift1": [
   {
