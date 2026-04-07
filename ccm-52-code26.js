@@ -1043,6 +1043,1051 @@
   }
 ],
 
+  "13th March 2026 - Shift2": [
+{
+    "q": "To paste text from the clipboard into an MS-Word 2019 document being edited, you must use the keyboard shortcut __________.",
+    "options": [
+      "1. Ctrl + V",
+      "2. Ctrl + X",
+      "3. Ctrl + A",
+      "4. Ctrl + H"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Word 2019 के एडिट किए जा रहे डॉक्यूमेंट में क्लिपबोर्ड से टेक्स्ट पेस्ट करने के लिए _________ कीबोर्ड शॉर्टकट दबाएं।",
+    "options": [
+      "1. Ctrl + V",
+      "2. Ctrl + X",
+      "3. Ctrl + A",
+      "4. Ctrl + H"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a part of a desktop computer that houses the primary devices that perform operations and produce results for complex calculations?",
+    "options": [
+      "1. System unit",
+      "2. Power cable",
+      "3. Network interface card",
+      "4. WiFi card"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, किसी डेस्कटॉप कंप्यूटर का एक भाग होता है जिसमें प्राथमिक उपकरण होते हैं जो जटिल गणनाओं के लिए संक्रिया करता है और परिणाम उत्पन्न करता है?",
+    "options": [
+      "1. सिस्टम यूनिट (System unit)",
+      "2. पॉवर केबल (Power cable)",
+      "3. नेटवर्क इंटरफेस कार्ड (Network interface card)",
+      "4. वाईफाई कार्ड (WiFi card)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following statements is true in the context of a watermark in MS-Word 2019?",
+    "options": [
+      "1. You cannot have a picture-based watermark.",
+      "2. You cannot have a text-based watermark.",
+      "3. A watermark is a design, either text or image, that appears behind document content on each page.",
+      "4. In MS-Word 2019, the watermark option is found within the Home tab."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Word 2019 में, वॉटरमार्क के संदर्भ में निम्न में से कौन-सा कथन सत्य है?",
+    "options": [
+      "1. चित्र-आधारित वॉटरमार्क नहीं हो सकता है।",
+      "2. टेक्स्ट-आधारित वॉटरमार्क नहीं हो सकता है।",
+      "3. वॉटरमार्क या तो टेक्स्ट या इमेज के रूप में एक डिज़ाइन है, जो प्रत्येक पृष्ठ पर डॉक्यूमेंट कंटेन्ट के पीछे दिखाई देता है।",
+      "4. MS-Word 2019 में, वॉटरमार्क ऑप्शन होम टैब के अंदर मिलता है।"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which toolbar appears immediately below the Menu Bar in OpenOffice Calc and is common to all Calc screens?",
+    "options": [
+      "1. Standard Toolbar",
+      "2. Table Toolbar",
+      "3. Function Toolbar",
+      "4. Formula Toolbar"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कौन सा टूलबार ओपनऑफिस कैल्क में मेनू बार के ठीक नीचे होता है और सभी कैल्क स्क्रीन के लिए समान है?",
+    "options": [
+      "1. स्टैंडर्ड टूलबार (Standard Toolbar)",
+      "2. टेबल टूलबार (Table Toolbar)",
+      "3. फंक्शन टूलबार (Function Toolbar)",
+      "4. फ़ॉर्मूला टूलबार (Formula Toolbar)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "HTML is derived from:",
+    "options": [
+      "1. SGML",
+      "2. C",
+      "3. C++",
+      "4. Cobol"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "HTML की व्युत्पत्ति कहाँ से हुई है?",
+    "options": [
+      "1. SGML",
+      "2. C",
+      "3. C++",
+      "4. Cobol"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ is the process of saving information to a secondary storage device.",
+    "options": [
+      "1. Reading",
+      "2. Drawing",
+      "3. Listening",
+      "4. Writing"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "________ वह प्रक्रिया है जिसमें जानकारी को सेकेंडरी स्टोरेज डिवाइस में सहेजा जाता है।",
+    "options": [
+      "1. रीडिंग (Reading)",
+      "2. ड्रॉ इंग (Drawing)",
+      "3. लिसनिंग (Listening)",
+      "4. राइटिंग (Writing)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Optical character reader is a(n):",
+    "options": [
+      "1. input device",
+      "2. output device",
+      "3. software",
+      "4. flat scanner"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "ऑप्टिकल कैरेक्टर रीडर निम्न में से क्या है?",
+    "options": [
+      "1. इनपुट डिवाइस (input device)",
+      "2. आउटपुट डिवाइस (output device)",
+      "3. सॉफ्टवेयर (software)",
+      "4. फ्लैट स्कैनर (flat scanner)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS-PowerPoint 2019, which of the following keyboard shortcuts is used to start a presentation from the current slide?",
+    "options": [
+      "1. F5",
+      "2. Shift + F5",
+      "3. Alt + B",
+      "4. Alt + S"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-PowerPoint 2019 में, वर्तमान स्लाइड से प्रेजेंटेजेंटेशन शुरू करने के लिए निम्न में से किस कीबोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. F5",
+      "2. Shift + F5",
+      "3. Alt + B",
+      "4. Alt + S"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is the aspect ratio of size of a standard slide in MS-PowerPoint 2019?",
+    "options": [
+      "1. 16 : 03",
+      "2. 16 : 10",
+      "3. 4 : 6",
+      "4. 4 : 3"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-PowerPoint 2019 में मानक स्लाइड (standard slide) के साइज़ का एस्पेक्ट रेश्यो (aspect ratio) निम्न में से कौन-सा है?",
+    "options": [
+      "1.   16 : 03",
+      "2.   16 : 10",
+      "3.    4 : 6",
+      "4.     4 : 3"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following statements correctly describes a BD-RE (Blu-ray Disc Recordable Erasable)?",
+    "options": [
+      "1. It can be recorded and erased repeatedly.",
+      "2. It stores data using magnetic coating.",
+      "3. It is only used for audio CDs.",
+      "4. It is not suitable for repeated data storage."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा कथन BD-RE (ब्लू-रे डिस्क रेकॉर्डेबल इरेजेबल) का सही वर्णन करता है?",
+    "options": [
+      "1. इसे बार‑बार रिकॉर्ड और इरेज किया जा सकता है।",
+      "2. यह चुंबकीय कोटिंग का उपयोग करके डेटा संग्रहीत करता है।",
+      "3. इसका उपयोग केवल ऑडियो CDs के लिए किया जाता है।",
+      "4. यह बार‑बार डेटा भंडारण के लिए उपयुक्त नहीं है।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following components of a computer does NOT perform any actual data processing or calculations tasks, rather acts as the central nervous system of the computer?",
+    "options": [
+      "1. Input and output device",
+      "2. ALU",
+      "3. RAM and ROM",
+      "4. Control unit"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कंप्यूटर का निम्नलिखित में से कौन-सा घटक टास्क की कोई वास्तविक प्रोसेसिंग नहीं करता है, बल्कि कंप्यूटर के केंद्रीय तंत्रिका तंत्र के रूप में कार्य करता है?",
+    "options": [
+      "1. इनपुट और आउटपुट डिवाइस",
+      "2. ALU",
+      "3. RAM और ROM",
+      "4. कंट्रोल यूनिट"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The printed copy or report from a computer is called:",
+    "options": [
+      "1. a soft copy",
+      "2. a program copy",
+      "3. an internet copy",
+      "4. a hard copy"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कंप्यूटर से प्रिंटेड कॉपी या रिपोर्ट क्या कहलाती है?",
+    "options": [
+      "1. सॉफ्ट कॉपी",
+      "2. प्रोग्राम कॉपी",
+      "3. इंटरनेट कॉपी",
+      "4. हार्ड कॉपी"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In MS - PowerPoint 2019, you can delete the slides in the ________ view as well as the _________ view.",
+    "options": [
+      "1. Normal, Slide Show",
+      "2. Normal, Slide Sorter",
+      "3. Slide Sorter, Slide Show",
+      "4. Slide Master, Slide Show"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-PowerPoint 2019 में, आप स्लाइड्स को ________ व्यू के साथ-साथ _________ व्यू से भी डिलीट कर सकते हैं।",
+    "options": [
+      "1. नॉर्मल (Normal), स्लाइड शो (Slide Show)",
+      "2. नॉर्मल (Normal), स्लाइड सॉर्टर (Slide Sorter)",
+      "3. स्लाइड सॉर्टर (Slide Sorter), स्लाइड शो (Slide Show)",
+      "4. स्लाइड मास्टर (Slide Master), स्लाइड शो (Slide Show)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "With reference to mobile phones, what does SIM stand for?",
+    "options": [
+      "1. Speed In Mobile",
+      "2. Special Identity Module",
+      "3. Subscriber Identity Module",
+      "4. Subscriber Indication Module"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "मोबाइल फोन के संदर्भ में SIM का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Speed In Mobile (स्पीड इन मोबाइल)",
+      "2. Special Identity Module (स्पेशल आइडेंडिटी मॉड्यूल)",
+      "3. Subscriber Identity Module (सब्सक्राइबर आइडेंडिटी मॉड्यूल)",
+      "4. Subscriber Indication Module (सब्सक्राइबर इंडिकेशन मॉड्यूल)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What will be the MS-Excel 2019 error corresponding to the following Excel formula? <br> =SUM(A, 10)",
+    "options": [
+      "1. #NULL!",
+      "2. #NUM!",
+      "3. #NAME?",
+      "4. #REF!"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित एक्सेल सूत्र के संदर्भ में MS-Excel एरर क्या होगा? <br> =SUM(A, 10)",
+    "options": [
+      "1. #NULL!",
+      "2. #NUM!",
+      "3. #NAME?",
+      "4. #REF!"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following commands could be used in Windows to get all the TCP/IP network configurations?",
+    "options": [
+      "1. ipconfig",
+      "2. ping",
+      "3. config",
+      "4. route"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "विंडोज में सभी TCP/IP नेटवर्क कॉन्फ़िगरेशन पाने के लिए निम्नलिखित में से किस कमांड का इस्तेमाल किया जा सकता है?",
+    "options": [
+      "1. ipconfig",
+      "2. ping",
+      "3. config",
+      "4. route"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In a _________, the attacker builds a pre-made list of ciphertexts and corresponding plaintexts that he has learnt over a period of time.",
+    "options": [
+      "1. dictionary attack",
+      "2. brute force",
+      "3. birthday attack",
+      "4. DoS attack"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_________ में, हमलावर सिफरटेक्स्ट और संबंधित प्लेनटेक्स्ट की एक पूर्व-निर्मित सूची बनाता है जिसे उसने एक निश्चित अवधि में सीखा है।",
+    "options": [
+      "1. डिक्शनरी अटैक (Dictionary attack)",
+      "2. ब्रूट फोर्स (Brute force)",
+      "3. बर्थडे अटैक (Birthday attack)",
+      "4. DoS अटैक (DoS attack)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which device enables real-time video calling to see while interacting online with friends far away?",
+    "options": [
+      "1. Modem",
+      "2. Router",
+      "3. Webcam",
+      "4. USB drive"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "कौन‑सा उपकरण वास्तविक समय में वीडियो कॉलिंग सक्षम करता है, जिससे आप दूर रहने वाले दोस्तों के साथ ऑनलाइन बातचीत करते समय उन्हें देख सकते हैं?",
+    "options": [
+      "1. मॉडेम (Modem)",
+      "2. राउटर (Router)",
+      "3. वेबकैम (Webcam)",
+      "4. यूएसबी ड्राइव (USB drive)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "CPU clock speed is measured in ______.",
+    "options": [
+      "1. terabytes",
+      "2. gigabytes",
+      "3. megabytes",
+      "4. megahertz and gigahertz"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "CPU क्लॉक की गति को निम्न में किस इकाई में मापा जाता है?",
+    "options": [
+      "1. टेराबाइट",
+      "2. गीगाबाइट",
+      "3. मेगाबाइट",
+      "4. मेगाहर्ट्ज और गीगाहर्ट्ज"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is the full form of DPI?",
+    "options": [
+      "1. Dots Per Inch",
+      "2. Dots Per Image",
+      "3. Details Per Image",
+      "4. Details Per Inch"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "DPI का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Dots Per Inch (डॉट्स पर इंच)",
+      "2. Dots Per Image (डॉट्स पर इमेज)",
+      "3. Details Per Image (डिटेल्स पर इमेज)",
+      "4. Details Per Inch (डिटेल्स पर इंच)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which file system is the default for modern Windows operating systems (Windows 10 and Windows 11) when formatting internal hard drives or SSDs?",
+    "options": [
+      "1. FAT32",
+      "2. exFAT",
+      "3. NTFS",
+      "4. EXT4"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन‑सा फ़ाइल सिस्टम आधुनिक Windows ऑपरेटिंग सिस्टम (Windows 10 और Windows 11) में इंटरनल हार्ड ड्रा इव या SSD को फ़ॉर्मैट करते समय डिफ़ॉल्ट रूप से उपयोग किया जाता है?",
+    "options": [
+      "1. FAT32",
+      "2. exFAT",
+      "3. NTFS",
+      "4. EXT4"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel (97 - 2003 version) spreadsheets have a ______ file extension.",
+    "options": [
+      "1. .xl",
+      "2. .ls",
+      "3. .xls",
+      "4. .wk"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel (97 - 2003 संस्करण) स्प्रेडशीट्स का फ़ाइल एक्सटेंशन ________ होता है।",
+    "options": [
+      "1. .xl",
+      "2. .ls",
+      "3. .xls",
+      "4. .wk"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following has '.asp' file extension?",
+    "options": [
+      "1. Active Send Pages",
+      "2. Active Server Pages",
+      "3. Active Set Pages",
+      "4. Achieve Send Pages"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्न में से किसके लिए '.asp' फ़ाइल एक्सटेंशन का उपयोग किया जाता है?",
+    "options": [
+      "1. एक्टिव सेंड पेज (Active Send Pages)",
+      "2. एक्टिव सर्वर पेज (Active Server Pages)",
+      "3. एक्टिव सेट पेज (Active Set Pages)",
+      "4. एचीव सेंड पेज (Achieve Send Pages)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ is the conversion of a sampled signal, which is discrete in time but continuous in value, into a signal which is discrete in value.",
+    "options": [
+      "1. Packetising",
+      "2. Quantisation",
+      "3. Distributing",
+      "4. Sampling"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______, समय के साथ डिस्क्रीट लेकिन वैल्यू में कंटीन्यूअस किसी सैंपल्ड सिग्नल का वैल्यू में डिस्क्रीट सिग्नल में कन्वर्ज़न है।",
+    "options": [
+      "1. पैकेटाइजिंग (Packetising)",
+      "2. क्वान्टिजेशन (Quantisation)",
+      "3. डिस्ट्री ब्यूटिंग (Distributing)",
+      "4. सैंपलिंग (Sampling)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ compression technique CANNOT completely recover original data.",
+    "options": [
+      "1. Dirty",
+      "2. Lossy",
+      "3. Lossless",
+      "4. Clean"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ संपीडन तकनीक द्वारा मूल डेटा पूर्णतः पुनर्प्राप्त नहीं किया जा सकता है।",
+    "options": [
+      "1. डर्टी (Dirty)",
+      "2. लॉस्सी (Lossy)",
+      "3. लॉसलेस (Lossless)",
+      "4. क्लीन (Clean)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is NOT a lossless entropy-based compression technique?",
+    "options": [
+      "1. Huffman",
+      "2. Lempel-Ziv",
+      "3. Arithmetic",
+      "4. Vector"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन‑सी लॉसलेस एंट्रॉ पी-आधारित कम्प्रेशन तकनीक नहीं है?",
+    "options": [
+      "1. हफमैन (Huffman)",
+      "2. लेम्पेल-ज़िव (Lempel‑Ziv)",
+      "3. अरिथमेटिक (Arithmetic)",
+      "4. वेक्टर (Vector)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Choose the binary equivalent of the decimal number 10.",
+    "options": [
+      "1. 1010",
+      "2. 1011",
+      "3. 1000",
+      "4. 1001"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "दशमलव संख्या 10 का बाइनरी समतुल्य क्या होगा?",
+    "options": [
+      "1. 1010",
+      "2. 1011",
+      "3. 1000",
+      "4. 1001"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A wireless mouse can be connected using ___________ technology.",
+    "options": [
+      "1. LAN",
+      "2. bluetooth",
+      "3. networking",
+      "4. data transmission"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक वायरलेस माउस को ___________ तकनीक का उपयोग करके जोड़ा जा सकता है।",
+    "options": [
+      "1. लैन (LAN)",
+      "2. ब्लू-टूथ (bluetooth)",
+      "3. नेटवर्किंग (networking)",
+      "4. डेटा ट्रांसमिशन (data transmission)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a device that is used to connect networks or subnetworks?",
+    "options": [
+      "1. Router",
+      "2. Modem",
+      "3. Repeater",
+      "4. Firewall"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "नेटवर्क या सबनेटवर्क को जोड़ने के लिए निम्न में से किस उपकरण का उपयोग किया जाता है?",
+    "options": [
+      "1. राउटर (Router)",
+      "2. मॉडेम (Modem)",
+      "3. रिपीटर (Repeater)",
+      "4. फ़ायरवॉल (Firewall)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a form of acceptance testing?",
+    "options": [
+      "1. Alpha testing",
+      "2. System testing",
+      "3. Unit testing",
+      "4. Integration testing"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से कौन सा स्वीकृति परीक्षण (acceptance testing) का एक रूप है?",
+    "options": [
+      "1. अल्फ़ा परीक्षण",
+      "2. सिस्टम परीक्षण",
+      "3. यूनिट परीक्षण",
+      "4. इंटीग्रेशन परीक्षण"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ are dedicated computers with very large storage capacities that provide users access to fast storage and retrieval of data.",
+    "options": [
+      "1. Magnetic tapes",
+      "2. Disk drives",
+      "3. File apps",
+      "4. File servers"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "____________ बहुत बड़ी भंडारण क्षमता वाला एक समर्पित कंप्यूटर है जो उपयोगकर्ताओं को तेजी से भंडारण और डेटा की पुनर्प्राप्ति का एक्सेस प्रदान करता है।",
+    "options": [
+      "1. मैग्नेटिक टेप्स (Magnetic tapes)",
+      "2. डिस्क ड्राइव्स (Disk drives)",
+      "3. फाइल ऐप्स (File apps)",
+      "4. फाइल सर्वर्स (File servers)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What type of commerce takes place when an individual sells his products and services to another individual?",
+    "options": [
+      "1. B2B",
+      "2. C2B",
+      "3. B2C",
+      "4. C2C"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "जब कोई व्यक्ति अपने उत्पाद और सेवाएं किसी अन्य व्यक्ति को बेचता है तो किस प्रकार का वाणिज्य होता है?",
+    "options": [
+      "1.    B2B",
+      "2.    C2B",
+      "3.    B2C",
+      "4.    C2C"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "____________ is the process of buying, selling or exchanging products, services and information via a computer network.",
+    "options": [
+      "1. E-Care",
+      "2. E-Commerce",
+      "3. E-Field",
+      "4. E-Blog"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "____________ कंप्यूटर नेटवर्क के माध्यम से उत्पादों, दों सेवाओं और जानकारी को खरीदने, बेचने या आदान-प्रदान की प्रक्रिया है।",
+    "options": [
+      "1. ई-केयर (E-Care)",
+      "2. ई-कॉमर्स (E-Commerce)",
+      "3. ई-फील्ड (E-Field)",
+      "4. ई-ब्लॉग (E-Blog)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "NSDG stands for:",
+    "options": [
+      "1. National E-governance Service Delivery Gateway",
+      "2. National E-governance State Delivery Gateway",
+      "3. National E-governance Service Delivery Guidelines",
+      "4. National E-commerce Service Delivery Gateway"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "NSDG का पूर्ण रूप क्या है?",
+    "options": [
+      "1. National E-governance Service Delivery Gateway (नेशनल ई-गवर्नेंस सर्विस डिलीवरी गेटवे)",
+      "2. National E-governance State Delivery Gateway (नेशनल ई-गवर्नेंस स्टेट डिलीवरी गेटवे)",
+      "3. National E-governance Service Delivery Guidelines (नेशनल ई-गवर्नेंस सर्विस डिलीवरी गाइडलाइंस)",
+      "4. National E-commerce Service Delivery Gateway (नेशनल ई-कॉमर्स सर्विस डिलीवरी गेटवे)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "________is a technology-driven administration, whereby a citizen can avail government services like getting copies of land records, filing of tax returns etc.",
+    "options": [
+      "1. E-Banking",
+      "2. E-Payments",
+      "3. E-Learning",
+      "4. E-Governance"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "________ एक तकनीकी संचालित प्रशासन है, जहाँ नागरिक सरकारी सेवाओं का लाभ उठा सकते हैं जैसे कि भूमि अभिलेखों की प्रतियां प्राप्त करना, कर रिटर्न दाखिल करना आदि।",
+    "options": [
+      "1. ई-बैंकिंबैं किं ग (E-Banking)",
+      "2. ई-पेमेंट्स (E-Payments)",
+      "3. ई-लर्निंग (E-Learning)",
+      "4. ई-गवर्नेंस (E-Governance)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "ICT stands for:",
+    "options": [
+      "1. Information and Communication Technology",
+      "2. Internet Communication Technology",
+      "3. Intranet Communication Technology",
+      "4. Information Consuming Techniques"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "ICT का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Information and Communication Technology (इन्फॉर्मैशन ऐन्ड कम्यूनिकेशन टेक्नालॉजी)",
+      "2. Internet Communication Technology (इंटरनेट कम्यूनिकेशन टेक्नालॉजी)",
+      "3. Intranet Communication Technology (इंट्रा नेट कम्यूनिकेशन टेक्नालॉजी)",
+      "4. Information Consuming Techniques (इन्फॉर्मैशन कंज़्यूमिंग टेक्निक्स)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "An Internet ______, sometimes resemble telephone booths, and are typically placed in settings such as hotel lobbies, long-term care facilities, medical waiting rooms, apartment complex offices, or airports for fast access to e-mail or web pages.",
+    "options": [
+      "1. LED Monitor",
+      "2. LCD Monitor",
+      "3. Kiosk",
+      "4. Plotter"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एक इंटरनेट ______, कभी-कभी टेलीफोन बूथ जैसा दिखता है, और आमतौर पर ई-मेल या वेब पेजों को तेजी से एक्सेस करने के लिए होटल लॉबी, दीर्घकालिक देखभाल सुविधाएं, चिकित्सा प्रतीक्षा कक्ष, अपार्टमेंट परिसर कार्यालय, या हवाई अड्डे जैसी सेटिंग्स में स्थापित किया जाता है।",
+    "options": [
+      "1. एलईडी मॉनिटर (LED Monitor)",
+      "2. एलसीडी मॉनिटर (LCD Monitor)",
+      "3. कियोस्क (Kiosk)",
+      "4. प्लॉटर (Plotter)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the minimum size of an IPV4 packet?",
+    "options": [
+      "1. 30 bytes",
+      "2. 20 bytes",
+      "3. 10 bytes",
+      "4. 5 bytes"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "IPV4 पैकेट का न्यूनतम साइज़ क्या होता है?",
+    "options": [
+      "1. 30 बाइट्स",
+      "2. 20 बाइट्स",
+      "3. 10 बाइट्स",
+      "4. 5 बाइट्स"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "State whether the given statements are True or False. <br><br>(i) The Transport layer of the OSI model provides end to end data delivery among hosts. <br>(ii) The Data Link layer of the OSI model deals with hardware technology and actual communication mechanism.",
+    "options": [
+      "1. (i) True, (ii) False",
+      "2. (i) False, (ii) True",
+      "3. (i) True, (ii) True",
+      "4. (i) False, (ii) False"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "दिए गए कथनों की सत्य या असत्य के रूप में पहचान कीजिए। <br><br>(i) OSI मॉडल की ट्रां सपोर्ट लेयर होस्ट के बीच एंड-टू-एंड डेटा डिलीवरी प्रदान करती है।  <br>(ii) OSI मॉडल की डेटा लिंक लेयर हार्डवेयर टेक्नोलॉजी और वास्तविक कम्युनिकेशन मैकेनिज्म से संबंधित है।",
+    "options": [
+      "1. (i) सत्य, (ii) असत्य",
+      "2. (i) असत्य, (ii) सत्य",
+      "3. (i) सत्य, (ii) सत्य",
+      "4. (i) असत्य, (ii) असत्य"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following statements is FALSE with reference to video conferencing?",
+    "options": [
+      "1. Video conferencing can be conducted only over smartphones and tablets.",
+      "2. The stability and quality of the video conference may fluctuate with the speed and reliability of the data connection.",
+      "3. Video conferencing saw a huge boost amid the global Covid-19 pandemic.",
+      "4. Video conferencing is a technology that allows users in different locations to hold real-time face-to-face meetings."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "वीडियो कॉन्फ्रेंसिंग के संदर्भ में निम्नलिखित में से कौन-सा कथन गलत (FALSE) है?",
+    "options": [
+      "1. वीडियो कॉन्फ्रेंसिंग केवल स्मार्टफ़ोन और टैबलेट पर ही की जा सकती है।",
+      "2. वीडियो कॉन्फ़्रेंस की स्थिरता और गुणवत्ता में डेटा कनेक्शन की गति (स्पीड) और विश्वसनीयता के साथ उतार-चढ़ाव हो सकता है।",
+      "3. वैश्विक कोविड -19 महामारी के बीच वीडियो कॉन्फ्रेंसिंग में भारी वृद्धि देखी गई।",
+      "4. वीडियो कॉन्फ़्रेंसिंग एक ऐसी तकनीक है जो विभिन्न स्थानों पर मौजूद उपयोगकर्ताओं को वास्तविक समय में आमने‑सामने बैठकें करने की सुविधा प्रदान करती है।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT a video conferencing tool?",
+    "options": [
+      "1. Cisco Webex",
+      "2. Zoom",
+      "3. Google Meet",
+      "4. Microsoft Outlook"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से कौन-सा वीडियो कॉन्फ्रेंसिंग टूल नहीं है?",
+    "options": [
+      "1. सिस्को वेबेक्स (Cisco Webex)",
+      "2. ज़ूम (Zoom)",
+      "3. गूगल मीट (Google Meet)",
+      "4. माइक्रोसॉफ्ट आउटलूक (Microsoft Outlook)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is a non-volatile memory that is generally used to store an initial program called the ‘bootstrap loader’ whose function is to boot the computer system once the power is turned on?",
+    "options": [
+      "1. SRAM",
+      "2. DRAM",
+      "3. Cache",
+      "4. ROM"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सी एक नॉन-वोलेटाइल मेमोरी है जिसका उपयोग आम तौर पर 'बूटस्ट्रैप लोडर' नामक एक प्रारंभिक प्रोग्राम को स्टोर करने के लिए किया जाता है जिसका कार्य पॉवर चालू (ON) होने के बाद कंप्यूटर सिस्टम को बूट करना है?",
+    "options": [
+      "1. SRAM",
+      "2. DRAM",
+      "3. कैश",
+      "4. ROM"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which technology tool can you use to communicate asynchronously with your classmate with reference to Learning Management System?",
+    "options": [
+      "1. Chat and blog",
+      "2. Chat and instant messaging",
+      "3. Blog and video conferencing",
+      "4. Discussion forums"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "लर्निंग मैनेजमेंट सिस्टम के संदर्भ में, आप अपने सहपाठी के साथ एसिंक्रोनस संवाद करने के लिए इनमें से किस तकनीकी उपकरण का उपयोग कर सकते हैं?",
+    "options": [
+      "1. चैट और ब्लॉग",
+      "2. चैट और इंस्टैंट मैसेजिंग",
+      "3. ब्लॉग और वीडियो कॉन्फ्रेन्सिंग",
+      "4. परिचर्चा फॉरम और ईमेल"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In MS-Excel, which of the following function keys must be pressed to calculate the values of formula cells in all open workbooks if Auto Calculate mode is disabled?",
+    "options": [
+      "1. F1",
+      "2. F2",
+      "3. F9",
+      "4. F6"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel में, ऑटो कैल्कूलेट (Auto Calculate) मोड डिसेबल होने पर सभी खुली वर्कबुको में फ़ॉर्मूला सेल के मानों की गणना करने के लिए निम्न में से कौन-सी फ़ंक्शन कुंजी को दबाया जाना चाहिए?",
+    "options": [
+      "1. F1",
+      "2. F2",
+      "3. F9",
+      "4. F6"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In MS-Excel 2019, the ________function combines text from multiple ranges.",
+    "options": [
+      "1. CONCAT",
+      "2. TEXT",
+      "3. FORMAT",
+      "4. Customlist"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में, __________ फ़ंक्शन कई रेंज से टेक्स्ट को संघटित करता है।",
+    "options": [
+      "1. CONCAT (कॉनकैट)",
+      "2. TEXT (टेक्स्ट)",
+      "3. FORMAT (फ़ॉर्मैट)",
+      "4. Customlist (कस्टमलिस्ट)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS-Excel 2019, ________returns the current month of the year (1 - 12). For example, if the current month is May, this formula returns 5.",
+    "options": [
+      "1. =TODAY()",
+      "2. =TODAY()+5",
+      "3. =DAY(TODAY())",
+      "4. =MONTH(TODAY())"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel 2019 में, __________ वर्ष का वर्तमान महीना (1-12) प्रदान करता है। उदाहरण के लिए, यदि वर्तमान महीना मई है, तो यह फ़ॉर्म्यूला 5 प्रदान करता है।",
+    "options": [
+      "1. =TODAY()",
+      "2. =TODAY()+5",
+      "3. =DAY(TODAY())",
+      "4. =MONTH(TODAY())"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "When we continue to press ___________, MS-Excel 2019 will cycle through all of the absolute reference possibilities.",
+    "options": [
+      "1. F1",
+      "2. F2",
+      "3. F3",
+      "4. F4"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "जब हम ___________ को लगातार दबाते रहते हैं, तो MS‑Excel 2019 सभी प्रकार की absolute reference संभावनाओं के बीच चक्र (cycle) करता है।",
+    "options": [
+      "1. F1",
+      "2. F2",
+      "3. F3",
+      "4. F4"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "_________ is a valid macro name in MS-Excel 2019.",
+    "options": [
+      "1. 1ant",
+      "2. 1_ant",
+      "3. Ant 1",
+      "4. Ant1"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel 2019 में, _________, एक मान्य मैक्रो नाम है।",
+    "options": [
+      "1. 1ant",
+      "2. 1_ant",
+      "3. Ant 1",
+      "4. Ant1"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In MS-Excel, $A1 means a mixed reference locked for __________.",
+    "options": [
+      "1. a column",
+      "2. a row",
+      "3. the second cell",
+      "4. the third cell"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एमएस-एक्सेल (MS-Excel) में, $A1 का अर्थ है, मिश्रित रेफरेन्स जो ____________ के लिए लॉक किया गया है।",
+    "options": [
+      "1. कॉलम (column)",
+      "2. रो (row)",
+      "3. दूसरी सेल",
+      "4. तीसरी सेल"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A table style has alternate row shading. In MS-Excel 2019, to change the shading from rows to columns we use:",
+    "options": [
+      "1. Header row",
+      "2. Column row",
+      "3. Banded Columns",
+      "4. Total row"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "टेबल स्टाइल में वैकल्पिक रो शेडिंग (row shading) होता है। MS-Excel 2019 में शेडिंग को रो (rows) से कॉलम में बदलने के लिए, हम _________ का उपयोग करते हैं।",
+    "options": [
+      "1. हेडर रो (Header row)",
+      "2. कॉलम रो (Column row)",
+      "3. बैंडेड कॉलम्स (Banded Columns)",
+      "4. टोटल रो (Total row)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In MS-Excel 2019, to adjust column width automatically, you must click on:",
+    "options": [
+      "1. AutoSum window",
+      "2. AutoFit Window",
+      "3. Auto fill window",
+      "4. Autofit Column Width"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel 2019 में, कॉलम की चौड़ाई को स्वतः एडजस्ट करने के लिए, आपको ___________ पर क्लिक करना होगा।",
+    "options": [
+      "1. ऑटोसम विंडो (AutoSum window)",
+      "2. ऑटोफिट विंडो (AutoFit window)",
+      "3. ऑटो फिल विंडो (Auto fill window)",
+      "4. ऑटोफिट कॉलम विड्थ (Autofit Column Width)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "To select a column in a table in MS-Excel 2019, you must:",
+    "options": [
+      "1. click to the left of the row",
+      "2. click the top edge of the column header",
+      "3. place the pointer over the table until a four-headed arrow handle appears, and then click on the table",
+      "4. click the left edge of the cell"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एमएस-एक्सेल 2019 (MS-Excel 2019) में टेबल में किसी कॉलम को चयन/सेलेक्ट करने के लिए, आपको ____________ ।",
+    "options": [
+      "1. रो (पंक्ति) के बाईं ओर क्लिक करना होगा",
+      "2. कॉलम हेडर की टॉप एज पर क्लिक करना होगा",
+      "3. पॉइंटर को टेबल पर तब तक रखना होगा जब तक कि चार-सिरों वाला एरो हैंडल दिखाई न दे, और फिर टेबल पर क्लिक करना होगा",
+      "4. सेल के लेफ्ट एज पर क्लिक करना होगा"
+    ],
+    "answer": 1
+  }
+],
+
+  
+
   "14th March 2026 - Shift1": [
    {
     "q": "With respect to internet protocols, MIME stands for:",
