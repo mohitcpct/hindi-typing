@@ -3131,6 +3131,1050 @@
   }
 ],
 
+  "14th March 2026 - Shift2": [
+ {
+    "q": "Which of the following is NOT a class of computer-based models on the basis of data handling capabilities?",
+    "options": [
+      "1. Digital computer",
+      "2. Hybrid computer",
+      "3. Analog computer",
+      "4. AT computer"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सी, डेटा प्रबंधन क्षमताओं के आधार पर कंप्यूटर आधारित मॉडल्स की श्रेणी नहीं है?",
+    "options": [
+      "1. डिजिटल कंप्यूटर",
+      "2. हाइब्रिड कंप्यूटर",
+      "3. एनालॉग कंप्यूटर",
+      "4. AT कंप्यूटर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which function returns the kth percentile of values in a range, where k is in the range 0..1, exclusive in MS-Excel 2019?",
+    "options": [
+      "1. PERCENTILE",
+      "2. PERCENTILE.EXC",
+      "3. PERCENTILE RAN",
+      "4. KVALPERCENTILE"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 में, कौन-सा फंक्शन रेंज में मानों का kवां परसेंटाइल देता है, जहां k, 0..1 रेंज में है?",
+    "options": [
+      "1. PERCENTILE",
+      "2. PERCENTILE.EXC",
+      "3. PERCENTILE RAN",
+      "4. KVALPERCENTILE"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which toolbar provides quick access to commands like Open and Save in OpenOffice Calc?",
+    "options": [
+      "1. Standard toolbar",
+      "2. Formatting toolbar",
+      "3. Formula toolbar",
+      "4. Status bar"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "ओपन ऑफ़िस कैल्क (open office Calc) में, कौन-सा टूलबार ‘ओपन (Open)’और ‘सेव (Save)’ जैसे कमांड के लिए त्वरित एक्सेस प्रदान करता है?",
+    "options": [
+      "1. स्टैंडर्ड टूलबार (Standard toolbar)",
+      "2. फॉर्मेटिंग टूलबार (Formatting toolbar)",
+      "3. फ़ॉर्मूला टूलबार (Formula toolbar)",
+      "4. स्टेटस टूलबार (Status bar)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The operating system is the most common type of ________ software.",
+    "options": [
+      "1. system",
+      "2. communication",
+      "3. application",
+      "4. word processing"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "ऑपरेटिंग सिस्टम, ________ सॉफ्टवेयर का सबसे आम प्रकार है।",
+    "options": [
+      "1. सिस्टम",
+      "2. कम्युनिकेशन",
+      "3. एप्लीकेशन",
+      "4. वर्ड प्रोसेसिंग"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a fixed storage device of a computer system?",
+    "options": [
+      "1. Floppy disk",
+      "2. Pen drive",
+      "3. Internal hard disk",
+      "4. Optical disk"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, कंप्यूटर सिस्टम का एक स्थायी भंडारण उपकरण (fixed storage device) है?",
+    "options": [
+      "1. फ्लॉपी डिस्क",
+      "2. पेन ड्राइव",
+      "3. इंटरनल हार्ड डिस्क",
+      "4. ऑप्टिकल डिस्क"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "___________ is a device through which graphic images are transformed into digital images.",
+    "options": [
+      "1. Printer",
+      "2. Scanner",
+      "3. Monitor",
+      "4. MICR"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "वह उपकरण जिसके माध्यम से ग्राफिक छवियों को डिजिटल छवियों में बदला जाता है, क्या कहलाता है?",
+    "options": [
+      "1. प्रिंटर",
+      "2. स्कैनर",
+      "3. मॉनिटर",
+      "4. MICR"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In MS-Word 2019, what is the process of creating a batch of documents that are personalised for each recipient called?",
+    "options": [
+      "1. Mail customise",
+      "2. Mail merge",
+      "3. Create mail",
+      "4. Merge mail"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Word 2019 में, प्रत्येक प्राप्तकर्ता के लिए व्यक्तिगत दस्तावेजों का एक बैच बनाने की प्रक्रिया क्या कहलाती है?",
+    "options": [
+      "1. मेल कस्टमाइज़ (Mail customise)",
+      "2. मेल मर्ज (Mail merge)",
+      "3. क्रिएट मेल (Create mail)",
+      "4. मर्ज मेल (Merge mail)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a common reason for updating software packages on any operating system?",
+    "options": [
+      "1. To change the system’s hardware components",
+      "2. To improve software performance and fix known issues",
+      "3. To reduce the amount of system memory permanently",
+      "4. To disable existing applications"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "किसी भी ऑपरेटिंग सिस्टम पर सॉफ़्टवेयर पैकेजों को सामान्यतः किसलिए अपडेट किया जाता है?",
+    "options": [
+      "1. सिस्टम के हार्डवेयर घटकों को बदलने के लिए",
+      "2. सॉफ़्टवेयर के प्रदर्शन को बेहतर बनाने और ज्ञात समस्याओं को ठीक करने के लिए",
+      "3. सिस्टम मेमोरी की मात्रा को स्थायी रूप से कम करने के लिए",
+      "4. मौजूदा ऐप्लिकेशंस को निष्क्रिय करने के लिए"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is one of the most secure and stable biometric sensor systems used for authentication?",
+    "options": [
+      "1. Signature recognition system",
+      "2. Voice recognition system",
+      "3. Iris recognition system",
+      "4. Face recognition system"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सी, प्रमाणीकरण के लिए उपयोग की जाने वाली सबसे सुरक्षित और स्थायी बायोमेट्रिक सेंसर प्रणाली में से एक है?",
+    "options": [
+      "1. हस्ताक्षर पहचान प्रणाली (Signature recognition system)",
+      "2. आवाज पहचान प्रणाली (Voice recognition system)",
+      "3. आइरिस पहचान प्रणाली (Iris recognition system)",
+      "4. चेहरा पहचान प्रणाली (Face recognition system)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is NOT a valid pagination option in the “Paragraph” window of MS-Word 2019?",
+    "options": [
+      "1. Widow/Orphan control",
+      "2. Keep with next",
+      "3. Keep lines together",
+      "4. Merge lines together"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Word 2019 के \"पैराग्राफ\" विंडो में निम्नलिखित में से कौन-सा एक वैध पेजिनेशन विकल्प नहीं है?",
+    "options": [
+      "1. विडो/ऑर्फ़न कंट्रो ल (Widow/Orphan control)",
+      "2. कीप विथ नेक्स्ट (Keep with next)",
+      "3. कीप लाइन्स टुगेदर (Keep lines together)",
+      "4. मर्ज लाइन्स टुगेदर (Merge lines together)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "With reference to computer monitors, what is the full form of LED?",
+    "options": [
+      "1. Light Emitting Disk",
+      "2. Light Emitting Diode",
+      "3. Liquid Emitting Display",
+      "4. Light Emitting Display"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कंप्यूटर मॉनीटर के संदर्भ में, LED का पूर्ण रूप क्या है ?",
+    "options": [
+      "1. Light Emitting Disk (लाइट एमिटिंग डिस्क)",
+      "2. Light Emitting Diode (लाइट एमिटिंग डायोड)",
+      "3. Liquid Emitting Display (लिक्विड एमिटिंग डिस्प्ले)",
+      "4. Light Emitting Display (लाइट एमिटिंग डिस्प्ले)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following combinations is correctly matched with the computer generation, key technology used, and a typical type of computer?",
+    "options": [
+      "1. First Generation – Integrated Circuits – Personal Computer",
+      "2. Second Generation – Vacuum Tubes – Mainframe Computer",
+      "3. Third Generation – Integrated Circuits – Minicomputer",
+      "4. Fourth Generation – Magnetic Core Memory – Supercomputer"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन‑सा संयोजन कंप्यूटर की पीढ़ी, उसमें उपयोग की गई मुख्य तकनीक, और कंप्यूटर के एक सामान्य प्रकार के साथ सही रूप से मेल खाता है?",
+    "options": [
+      "1. प्रथम पीढ़ी – इंटीग्रेटेड सर्किट – पर्सनल कंप्यूटर",
+      "2. द्वितीय पीढ़ी – वैक्यूम ट्यूब – मेनफ़्रेम कंप्यूटर",
+      "3. तृतीय पीढ़ी – इंटीग्रेटेड सर्किट – मिनीकंप्यूटर",
+      "4. चतुर्थ पीढ़ी – मैग्नेटिक कोर मेमोरी – सुपरकंप्यूटर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which type of computer is generally used for space research, weather forecasting and designing complicated machines such as supersonic jets?",
+    "options": [
+      "1. Super computer",
+      "2. Mainframe computer",
+      "3. Mini computer",
+      "4. Microcomputer"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "किस प्रकार के कंप्यूटर का उपयोग आमतौर पर अंतरिक्ष अनुसंधान, मौसम पूर्वानुमान, सुपरसोनिक जेट जैसी जटिल मशीनों को डिजाइन करने में किया जाता है।",
+    "options": [
+      "1. सुपर कंप्यूटर",
+      "2. मेनफ़्रेम कंप्यूटर",
+      "3. मिनी कंप्यूटर",
+      "4. माइक्रो कंप्यूटर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "With reference to speed of operations in computers, what is the full form of FLOPs?",
+    "options": [
+      "1. Floating-Point Operations per second",
+      "2. Floating-Point Operands per second",
+      "3. Floating-Point Outputs per second",
+      "4. Floating-Point Organizations per second"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कंप्यूटर में प्रचालन की गति के संदर्भ में, FLOPs का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Floating-Point Operations per second (फ्लोटिंग-पॉइंट ऑपरेशंस पर सेकंड)",
+      "2. Floating-Point Operands per second (फ़्लोटिंग-पॉइंट ऑपरेंड पर सेकंड)",
+      "3. Floating-Point Outputs per second (फ़्लोटिंग-पॉइंट आउटपुट पर सेकंड)",
+      "4. Floating-Point Organizations per second (फ़्लोटिंग-पॉइंट ओर्गेनाइज़ेशन्स पर सेकंड)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "6 kilo bytes is equal to how many bytes?",
+    "options": [
+      "1. 4096",
+      "2. 5120",
+      "3. 6144",
+      "4. 7168"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "6 किलो बाइट्स कितने बाइट्स के बराबर होता है?",
+    "options": [
+      "1. 4096",
+      "2. 5120",
+      "3. 6144",
+      "4. 7168"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A dot matrix printer is a/an:",
+    "options": [
+      "1. input-output device",
+      "2. output device",
+      "3. input device",
+      "4. software"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "डॉट मैट्रिक्स प्रिंटर क्या है?",
+    "options": [
+      "1. इनपुट-आउटपुट डिवाइस (input-output device)",
+      "2. आउटपुट डिवाइस (output device)",
+      "3. इनपुट डिवाइस (input device)",
+      "4. सॉफ्टवेयर (software)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following includes new utility BIOSFIX.COM, which preserved the entire 80386 register set during any mode switches via INT 15H?",
+    "options": [
+      "1. PKZIP 1.02",
+      "2. GZIP",
+      "3. me2ZIP",
+      "4. SecureZIP"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से किसमें नई यूटिलिटी BIOSFIX.COM शामिल है, जो INT 15H के माध्यम से किसी भी मोड स्विच के दौरान संपूर्ण 80386 रजिस्टर सेट को संरक्षित करती है?",
+    "options": [
+      "1. PKZIP 1.02",
+      "2. GZIP",
+      "3. me2ZIP",
+      "4. SecureZIP"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "ICANN is a non-profit organisation that was established in the United States in 1998 to help maintain the security of the Internet, and allow it to be usable by all. What is the full form of ICANN?",
+    "options": [
+      "1. Intranet Corporation for Assigned Names and Numbers",
+      "2. Internet Corporation for Automated Names and Numbers",
+      "3. Internet Category for Assigned Names and Numbers",
+      "4. Internet Corporation for Assigned Names and Numbers"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "ICANN एक गैर-लाभकारी संगठन है जिसकी स्थापना 1998 में संयुक्त राज्य अमेरिका में इंटरनेट की सुरक्षा बनाए रखने और इसे सभी के लिए सुलभ बनाने के उद्देश्य से की गई थी। ICANN का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Intranet Corporation for Assigned Names and Numbers (इंट्रा नेट कॉर्पोरेशन फॉर एसाइन्ड नेम्स एंड नंबर्स)",
+      "2. Internet Corporation for Automated Names and Numbers (इंटरनेट कॉर्पोरेशन फॉर ऑटोमेटेड नेम्स एंड नंबर्स)",
+      "3. Internet Category for Assigned Names and Numbers (इंटरनेट कैटेगरी फॉर एसाइन्ड नेम्स एंड नंबर्स)",
+      "4. Internet Corporation for Assigned Names and Numbers (इंटरनेट कॉर्पोरेशन फॉर एसाइन्ड नेम्स एंड नंबर्स)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "With reference to cryptography, _________ is some critical information used by the cipher, known only to the sender receiver.",
+    "options": [
+      "1. Lock",
+      "2. Key",
+      "3. Password",
+      "4. Username"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "क्रिप्टोग्राफी के संदर्भ में ________ सिफर (cipher) द्वारा उपयोग की जाने वाली ऐसी महत्वपूर्ण जानकारी है, जो केवल प्रेषक और प्राप्तकर्ता को ज्ञात होती है।",
+    "options": [
+      "1. लॉक (Lock)",
+      "2. की (Key)",
+      "3. पासवर्ड (Password)",
+      "4. यूज़रनेम (Username)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Webcam is:",
+    "options": [
+      "1. an input device",
+      "2. an output device",
+      "3. a network device",
+      "4. both an input and output device"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "वेबकैम ________ है।",
+    "options": [
+      "1. एक इनपुट डिवाइस",
+      "2. एक आउटपुट डिवाइस",
+      "3. एक नेटवर्क डिवाइस",
+      "4. इनपुट और आउटपुट डिवाइस दोनों"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A modem could be attached to which port?",
+    "options": [
+      "1. Serial port",
+      "2. Keyboard connector",
+      "3. Video port",
+      "4. PS/2"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "मॉडेम को किस पोर्ट से जोड़ा जा सकता है?",
+    "options": [
+      "1. सीरियल पोर्ट (Serial port)",
+      "2. कीबोर्ड कनेक्टर (Keyboard connector)",
+      "3. वीडियो पोर्ट (Video port)",
+      "4. PS/2"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following key combinations is used to display the shortcut menu for selected items in Windows 10 OS?",
+    "options": [
+      "1. Shift+F2",
+      "2. Shift +F5",
+      "3. Shift+F10",
+      "4. Shift+F12"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Windows 10 OS में, चयनित आइटम के लिए शॉर्टकट मेनू प्रदर्शित करने हेतु निम्न में से किस कुंजी संयोजन का उपयोग किया जाता है?",
+    "options": [
+      "1. Shift+F2",
+      "2. Shift +F5",
+      "3. Shift+F10",
+      "4. Shift+F12"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is NOT a variant of shell?",
+    "options": [
+      "1. C Shell",
+      "2. Bourne Shell",
+      "3. Korn Shell",
+      "4. Born shell"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से कौन-सा शेल (Shell) का एक वैरिएन्ट नहीं है?",
+    "options": [
+      "1. सी शेल (C Shell)",
+      "2. बॉर्न शेल (Bourne Shell)",
+      "3. कोर्न शेल (Korn Shell)",
+      "4. बोर्न शेल (Born shell)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following file formats denotes Common Gateway Interface script?",
+    "options": [
+      "1. .cgt",
+      "2. .cgi",
+      "3. .cg",
+      "4. .cgl"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा फाइल फॉर्मेट कॉमन गेटवे इंटरफेस स्क्रिप्ट को दर्शाता है?",
+    "options": [
+      "1. .cgt",
+      "2. .cgi",
+      "3. .cg",
+      "4. .cgl"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the full form of RAR?",
+    "options": [
+      "1. Real Archive",
+      "2. Ready Archive",
+      "3. Roshal Archive",
+      "4. Rojjer Archive"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "RAR का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Real Archive (रियल आर्काइव)",
+      "2. Ready Archive (रेडी आर्काइव)",
+      "3. Roshal Archive (रोशल आर्काइव)",
+      "4. Rojjer Archive (रोज्जर आर्काइव)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "With reference to colour models in colour printing, CMYK stands for:",
+    "options": [
+      "1. cyan, magenta, yellow, key",
+      "2. cyan, magenta, yellow, kilobyte",
+      "3. cyan, magenta, yellow, keras",
+      "4. cyan, magenta, yellow, kilowords"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कलर प्रिंटिंग में उपयोग होने वाले रंग मॉडलों के संदर्भ में, CMYK का पूर्ण रूप क्या है?",
+    "options": [
+      "1. cyan, magenta, yellow, key (सियान, मैजेंटा, येलो, की)",
+      "2. cyan, magenta, yellow, kilobyte (सियान, मैजेंटा, येलो, किलोबाइट)",
+      "3. cyan, magenta, yellow, keras (सियान, मैजेंटा, येलो, केरास)",
+      "4. cyan, magenta, yellow, kilowords (सियान, मैजेंटा, येलो, किलोवर्ड्स)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "With reference to picture resolution file format, CIF stands for:",
+    "options": [
+      "1. Common Intermediate Format",
+      "2. Common Import Format",
+      "3. Common Interchange Format",
+      "4. Common Input Format"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "पिक्चर रेजोल्यूशन फ़ाइल फॉर्मेट के संदर्भ में, CIF का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Common Intermediate Format (कॉमन इंटरमीडिएट फ़ॉर्मेट)",
+      "2. Common Import Format (कॉमन इम्पोर्ट फॉर्मेट)",
+      "3. Common Interchange Format (कॉमन इंटरचेंज फॉर्मेट)",
+      "4. Common Input Format (कॉमन इनपुट फॉर्मेट)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Computers have a built-in power supply that converts ______ to _____ at a _____ voltage.",
+    "options": [
+      "1. AC, DC, lower",
+      "2. DC, AC, lower",
+      "3. AC, DC, higher",
+      "4. DC, AC, higher"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कंप्यूटर में एक अंतर्निहित (बिल्ट-इन) पॉवर सप्लाय होती है, जो ______ वोल्टेज पर ______ को _____ में परिवर्तित करती है।",
+    "options": [
+      "1. निम्न, AC, DC",
+      "2. निम्न, DC, AC",
+      "3. उच्च, AC, DC",
+      "4. उच्च, DC, AC"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is not a passive threat as malware but it can be harmful to your privacy, computer performance, confidentiality of data, and security of software?",
+    "options": [
+      "1. Greyware",
+      "2. Virus",
+      "3. Worms",
+      "4. Trojan horse"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन‑सा एक पैसिव (निष्क्रिय) थ्रेट के रूप में मैलवेयर नहीं माना जाता है, लेकिन यह आपकी प्राइवेसी, कंप्यूटर के प्रदर्शन, डेटा की गोपनीयता और सॉफ़्टवेयर की सुरक्षा के लिए हानिकारक हो सकता है?",
+    "options": [
+      "1. ग्रेवेयर (Greyware)",
+      "2. वायरस (Virus)",
+      "3. वर्म (Worm)",
+      "4. ट्रोजन हॉर्स (Trojan horse)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Code coverage is used as a measure of what?",
+    "options": [
+      "1. Time spent testing",
+      "2. Defects",
+      "3. Trends analysis",
+      "4. Test effectiveness"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कोड कवरेज का उपयोग किसके एक मापदंड (measure) के रूप में किया जाता है?",
+    "options": [
+      "1. टाइम स्पेंट टेस्टिंग (Time spent testing)",
+      "2. दोष (Defects)",
+      "3. रुझान विश्लेषण (Trends analysis)",
+      "4. परीक्षण प्रभावशीलता (Test effectiveness)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which protocol is used for transferring mail between mail servers?",
+    "options": [
+      "1. HTTP",
+      "2. SMTP",
+      "3. FTP",
+      "4. TELNET"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कौन-सा प्रोटोकॉल, मेल सर्वरों के बीच मेल ट्रां सफर करने के लिए उपयोग किया जाता है?",
+    "options": [
+      "1. HTTP",
+      "2. SMTP",
+      "3. FTP",
+      "4. TELNET"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a professional social network on the internet?",
+    "options": [
+      "1. Instagram",
+      "2. LinkedIn",
+      "3. WhatsApp",
+      "4. X (formerly known as Twitter)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, इंटरनेट पर एक व्यवसायीक सामाजिक नेटवर्क है?",
+    "options": [
+      "1. इंस्टाग्राम (Instagram)",
+      "2. लिंक्डइन (LinkedIn)",
+      "3. वाट्सएप (WhatsApp)",
+      "4. X (जिसे पहले Twitter के नाम से जाना जाता था)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Identify whether the given statements are true or false. <br> (i) Mail Merge is not supported by MS-Word 2016. <br> (ii) In MS-Word 2016, the font size of a piece of text can be a negative number.",
+    "options": [
+      "1. (i) True, (ii) True",
+      "2. (i) True, (ii) False",
+      "3. (i) False, (ii) True",
+      "4. (i) False, (ii) False"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "पहचानें कि दिए गए कथन सही हैं या गलत। <br> (i) मेल मर्ज, MS-Word 2016 द्वारा समर्थित नहीं है। <br> (ii) MS-Word 2016 में, टेक्स्ट के किसी भाग का फ़ॉन्ट आकार ऋणात्मक संख्या हो सकता है।",
+    "options": [
+      "1. (i) सही, (ii) सही",
+      "2. (i) सही, (ii) गलत",
+      "3. (i) गलत, (ii) सही",
+      "4. (i) गलत, (ii) गलत"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is the address of the second cell in an MS-Excel worksheet, considering cell numbering in a row-wise order?",
+    "options": [
+      "1. A1",
+      "2. A2",
+      "3. B1",
+      "4. 1B"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "पंक्ति-वार क्रम में सेल नंबरिंग पर विचार करते हुए, MS-Excel वर्कशीट में दूसरे सेल का पता (एड्रेस) क्या होगा?",
+    "options": [
+      "1. A1",
+      "2. A2",
+      "3. B1",
+      "4. 1B"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What will be the value of the given MS-Excel 2019 function? <br> =FLOOR(144, 34)",
+    "options": [
+      "1. 144",
+      "2. 136",
+      "3. 4",
+      "4. 8"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "दिए गए MS-Excel 2019 फ़ंक्शन का मान क्या होगा? <br> =FLOOR(144, 34)",
+    "options": [
+      "1. 144",
+      "2. 136",
+      "3. 4",
+      "4. 8"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "How many bits are there in an IPv6 address?",
+    "options": [
+      "1. 16",
+      "2. 32",
+      "3. 64",
+      "4. 128"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "IPv6 एड्रेस में कितने बिट (bits) होते हैं?",
+    "options": [
+      "1. 16",
+      "2. 32",
+      "3. 64",
+      "4. 128"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is the full-form of TCP?",
+    "options": [
+      "1. Transistor Control Protocol",
+      "2. Transmission Control Protocol",
+      "3. Technically Correct Protocol",
+      "4. Tele-Communication Protocol"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "TCP का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Transistor Control Protocol (ट्रांजिस्टर कंट्रोल प्रोटोकॉल)",
+      "2. Transmission Control Protocol (ट्रांसमिशन कंट्रोल प्रोटोकॉल)",
+      "3. Technically Correct Protocol (टेक्निकली करेक्ट प्रोटोकॉल)",
+      "4. Tele-Communication Protocol (टेली-कम्युनिकेशन प्रोटोकॉल)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ is a program that provides access to web resources.",
+    "options": [
+      "1. Browser",
+      "2. HTML",
+      "3. Java",
+      "4. DHTML"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_______ एक ऐसा प्रोग्राम है, जो वेब संसाधनों तक पहुँच प्रदान करता है।",
+    "options": [
+      "1. ब्राउज़र (Browser)",
+      "2. HTML",
+      "3. जावा (Java)",
+      "4. DHTML"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a type of communications technology that allows voice calls and other telephony services like fax, SMS and other voice-messaging applications to be transmitted using the internet as a connection medium?",
+    "options": [
+      "1. Extranet aps",
+      "2. Collaborations",
+      "3. Text Messaging",
+      "4. Internet telephony"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सी एक प्रकार की संचार तकनीक है जो वॉयस कॉल और अन्य टेलीफोनी सेवाओं जैसे कि फैक्स, एसएमएस और अन्य वॉयस-मैसेजिंग एप्लिकेशन को इंटरनेट का उपयोग एक कनेक्शन माध्यम के रूप में करके प्रसारित करने की सुविधा देती है?",
+    "options": [
+      "1. एक्स्ट्रानेट ऐप्स (Extranet aps)",
+      "2. कोलैबोरेशन्स (Collaborations)",
+      "3. टेक्स्ट मैसेजिंग (Text Messaging)",
+      "4. इंटरनेट टेलीफोनी (Internet telephony)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What does protocol NOT define?",
+    "options": [
+      "1. How to format data",
+      "2. What data is communicated",
+      "3. How to transmit data",
+      "4. How to receive data"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "प्रोटोकॉल क्या परिभाषित नहीं करता है?",
+    "options": [
+      "1. डेटा को कैसे फॉर्मेट करना है।",
+      "2. कौन-सा डेटा संप्रेषित किया जाता है।",
+      "3. डेटा को कैसे संचारित करना है।",
+      "4. डेटा को कैसे प्राप्त करना है।"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Video is represented as a series of images formally called ______.",
+    "options": [
+      "1. pictures",
+      "2. shots",
+      "3. snaps",
+      "4. frames"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "वीडियो को प्रायः ______ कहलाने वाली इमेज शृंखला के रूप में प्रस्तुत किया जाता है।",
+    "options": [
+      "1. पिक्चर्स (pictures)",
+      "2. शॉट्स (shots)",
+      "3. स्नैप्स (snaps)",
+      "4. फ्रेम्स (frames)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is the value of the following MS-Excel 2019 formula? <br> =18-12/3/2+4",
+    "options": [
+      "1. 20",
+      "2. 12",
+      "3. 5",
+      "4. 8"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित MS-Excel 2019 फॉर्मूला का मान क्या होगा? <br> =18-12/3/2+4",
+    "options": [
+      "1. 20",
+      "2. 12",
+      "3. 5",
+      "4. 8"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ and ______ are the two types of streaming techniques.",
+    "options": [
+      "1. Live, off-demand",
+      "2. Live, on-demand",
+      "3. Virtual, off-demand",
+      "4. Recorded, broadcast"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ और ______ दो प्रकार की स्ट्री मिंग तकनीकें हैं।",
+    "options": [
+      "1. लाइव, ऑफ-डिमांड (Live, off-demand)",
+      "2. लाइव, ऑन-डिमांड (Live, on-demand)",
+      "3. वर्चुअल, ऑफ-डिमांड (Virtual, off-demand)",
+      "4. रिकार्डेड, ब्रॉडकास्ट (Recorded, broadcast)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a visual representation of data in MS-Excel?",
+    "options": [
+      "1. Table",
+      "2. Chart",
+      "3. Macro",
+      "4. References"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्न में से क्या MS-Excel में डेटा का एक सचित्र निरूपण है।",
+    "options": [
+      "1. टेबल (Table)",
+      "2. चार्ट (Chart)",
+      "3. मैक्रो (Macro)",
+      "4. रेफरेन्सेस (References)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "________ is the area where your chart data is represented and contains the data markers, gridlines, data labels, trendlines and optional chart items placed in the chart area.",
+    "options": [
+      "1. Data area",
+      "2. Sheet area",
+      "3. Fill area",
+      "4. Plot area"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "________ वह एरिया है जहां आपके चार्ट डेटा को निरूपित किया जाता है और इसमें चार्ट एरिया में रखे गए डेटा मार्कर, ग्रिडलाइन, डेटा लेबल, ट्रेंडलाइन और वैकल्पिक चार्ट आइटम शामिल होते हैं।",
+    "options": [
+      "1. डेटा एरिया (Data area)",
+      "2. शीट एरिया (Sheet area)",
+      "3. फिल एरिया (Fill area)",
+      "4. प्लॉट एरिया (Plot area)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following steps will you take to go to gridlines on the ribbon tab in MS-Excel 2019?",
+    "options": [
+      "1. Data → gridlines",
+      "2. File → gridlines",
+      "3. Design → gridlines",
+      "4. View → gridlines"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel 2019 में, रिबन टैब के ग्रिडलाइन (gridline) पर जाने के लिए आप निम्न में से किन चरणों का अनुसरण करेंगे?",
+    "options": [
+      "1. Data → gridlines",
+      "2. File → gridlines",
+      "3. Design → gridlines",
+      "4. View → gridlines"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In MS-Excel 2019, the keyboard shortcut ________ is used to go to the View tab.",
+    "options": [
+      "1. Alt + R",
+      "2. Alt + W",
+      "3. Alt + A",
+      "4. Alt + I"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 में, व्यू (View) टैब पर जाने के लिए कीबोर्ड शॉर्टकट ________ का उपयोग किया जाता है।",
+    "options": [
+      "1. Alt + R",
+      "2. Alt + W",
+      "3. Alt + A",
+      "4. Alt + I"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The keyboard shortcut ________ is used in MS-Excel 2019 to move one screen to the right in a worksheet.",
+    "options": [
+      "1. Ctrl + Page Down",
+      "2. Alt + Page Down",
+      "3. Shift + Page Down",
+      "4. Page Down"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 में, वर्कशीट में एक स्क्रीन दाईं ओर जाने के लिए ________ शॉर्टकट कुंजी का उपयोग किया जाता है।",
+    "options": [
+      "1. Ctrl + Page Down",
+      "2. Alt + Page Down",
+      "3. Shift + Page Down",
+      "4. पेज डाउन (Page Down)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The keyboard shortcut _______ is used in MS-Excel 2019 to go to the Insert tab.",
+    "options": [
+      "1. Ctrl + M",
+      "2. Alt + N",
+      "3. Ctrl + N",
+      "4. Ctrl + O"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 में, इन्सर्ट टैब पर जाने के लिए ________ शॉर्टकट कुंजी का उपयोग किया जाता है।",
+    "options": [
+      "1. Ctrl + M",
+      "2. Alt + N",
+      "3. Ctrl + N",
+      "4. Ctrl + O"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following statements related to the F6 key in MS-Excel 2019 is INCORRECT?",
+    "options": [
+      "1. F6 alone switches between the worksheet, ribbon, task pane, and Zoom controls. In a worksheet that has been split, F6 includes the split panes when switching between panes and the ribbon area.",
+      "2. Shift + F6 switches between the worksheet, Zoom controls, task pane and ribbon.",
+      "3. Ctrl + F6 switches between two MS-Excel windows.",
+      "4. Ctrl + Shift + F6 inserts a new worksheet."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel 2019 में, F6 कुंजी से संबंधित निम्नलिखित में से कौन-सा कथन गलत है?",
+    "options": [
+      "1. F6 अकेले वर्कशीट, रिबन, टास्क पेन और ज़ूम कंट्रो ल के बीच स्विच करती है। विभाजित किए गए वर्कशीट में, F6 पेन्स और रिबन एरिया के बीच में स्विच करते हुए स्प्लिट पेन शामिल करती है।",
+      "2. Shift + F6 वर्कशीट, ज़ूम कंट्रो ल, टास्क पेन और रिबन के बीच स्विच करती है।",
+      "3. Ctrl + F6, दो MS-Excel विंडो के बीच स्विच करती है।",
+      "4. Ctrl + Shift + F6 एक नई वर्कशीट सम्मिलित करती है।"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The decimal equivalent for binary 1110 is:",
+    "options": [
+      "1. 14",
+      "2. 12",
+      "3. 13",
+      "4. 15"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "________ डेसिमल, बाइनरी 1110 के समतुल्य है।",
+    "options": [
+      "1. 14",
+      "2. 12",
+      "3. 13",
+      "4. 15"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The hexadecimal equivalent for binary 11111 is:",
+    "options": [
+      "1. F",
+      "2. 1F",
+      "3. 1FF",
+      "4. 11F"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "________ हेक्साडेसिमल, बाइनरी 11111 के समतुल्य है।",
+    "options": [
+      "1. F",
+      "2. 1F",
+      "3. 1FF",
+      "4. 11F"
+    ],
+    "answer": 1
+  }
+],
+  
+
   "15th March 2026 - Shift1": [
 {
     "q": "Pentium is a brand of:",
