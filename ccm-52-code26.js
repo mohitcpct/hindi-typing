@@ -7305,6 +7305,1050 @@
   }
 ],
 
+  "22nd March 2026 - Shift2": [
+ {
+    "q": "Which of the following is used in a RAM?",
+    "options": [
+      "1. Coil",
+      "2. Sensor",
+      "3. Semiconductors",
+      "4. Vacuum tubes"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "RAM में निम्नलिखित में से किसका उपयोग किया जाता है?",
+    "options": [
+      "1. कॉइल",
+      "2. सेंसर",
+      "3. अर्धचालक",
+      "4. वैक्यूम ट्यूब"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which function returns the result of a number raised to a power in MS-Excel 2019?",
+    "options": [
+      "1. EXPO function",
+      "2. POWERN function",
+      "3. POWERT function",
+      "4. POWER function"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel 2019 में, किसी संख्या को घात में परिवर्तित करने के लिए निम्न में से किस फ़ंक्शन का उपयोग किया जाता है?",
+    "options": [
+      "1. EXPO फ़ंक्शन",
+      "2. POWERN फ़ंक्शन",
+      "3. POWERT फ़ंक्शन",
+      "4. POWER फ़ंक्शन"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "By default, which of the following toolbars is present at the top of all Calc screens after formatting toolbar in an OpenOffice?",
+    "options": [
+      "1. Main menu Toolbar",
+      "2. Function Toolbar",
+      "3. Formula Toolbar",
+      "4. File Toolbar"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "डिफ़ॉल्ट रूप से, ओपनऑफिस में टूलबार को फ़ॉर्मेट करने के बाद सभी Calc स्क्रीन के टॉप पर इनमें से कौन सा टूलबार मौजूद होता है?",
+    "options": [
+      "1. मेन मेनू टूलबार",
+      "2. फंक्शन टूलबार",
+      "3. फ़ॉर्मूला टूलबार",
+      "4. फ़ाइल टूलबार"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following storage devices is used to store the operating system, installed software, and the user's personal files?",
+    "options": [
+      "1. Hard disk",
+      "2. RAM (Random Access Memory)",
+      "3. Cache Memory",
+      "4. CPU Registers"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से कौन सा स्टोरेज़ डिवाइस सामान्यतः कंप्यूटर के ऑपरेटिंग सिस्टम, एप्लिकेशन सॉफ़्टवेयर और डेटा को स्टोर करने के लिए उपयोग किया जाता है?",
+    "options": [
+      "1. हार्ड डिस्क (Hard Disk)",
+      "2. RAM (रैंडम एक्सेस मेमोरी)",
+      "3. कैश मेमोरी (Cache Memory)",
+      "4. CPU रजिस्टर (CPU Registers)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following shortcut keys in MS-Word 2019 is used to increase the font size by 1 point?",
+    "options": [
+      "1. Ctrl+]",
+      "2. ctrl+[",
+      "3. Ctrl+>",
+      "4. Ctrl+<"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Word 2019 में, फ़ॉन्ट साइज़ को 1 पॉइंट बढ़ाने के लिए निम्नलिखित में से किस की-बोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Ctrl+]",
+      "2. ctrl+[",
+      "3. Ctrl+>",
+      "4. Ctrl+<"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT an example of a storage device?",
+    "options": [
+      "1. Magnetic disk",
+      "2. Magnetic Tape",
+      "3. DVD",
+      "4. Light Pen"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से कौन सा, स्टोरेज डिवाइस का एक उदाहरण नहीं है?",
+    "options": [
+      "1. मैग्नेटिक डिस्क",
+      "2. मैग्नेटिक टेप",
+      "3. DVD",
+      "4. लाइट पेन"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The letters, labels, envelopes, and e-mails are the most common documents of _______ in MS-Word 2019.",
+    "options": [
+      "1. Mail customize",
+      "2. Mail merge",
+      "3. Create Mail",
+      "4. Merge Mail"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Word 2019 में लेटर्स, लेबल्‍स, एन्‍वेलप्‍स और ई-मेल्‍स _______ के सबसे सामान्य डॉक्यूमेंट्स हैं।",
+    "options": [
+      "1. मेल कस्टमाइज़ (Mail customize)",
+      "2. मेल मर्ज (Mail merge)",
+      "3. क्रिएट मेल (Create Mail)",
+      "4. मर्ज मेल (Merge Mail)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In 1990s, the popular method of installing software was with the help of:",
+    "options": [
+      "1. a CD ROM",
+      "2. a website",
+      "3. a pen drive",
+      "4. an expert"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "1990 के दशक में सॉफ्टवेयर इंस्टॉल करने की लोकप्रिय विधि का उपयोग _____ की सहायता से किया जाता था।",
+    "options": [
+      "1. सीडी ROM",
+      "2. वेबसाइट",
+      "3. पेनड्राइव",
+      "4. विशेषज्ञ"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The method that emulates the unique biometric attributes of an individual so as to confuse the system between the artifact and the real biological target and gain access to sensitive information is called:",
+    "options": [
+      "1. biometric hazards",
+      "2. biometric destroying",
+      "3. biometric cloning",
+      "4. biometric spoofing"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "किसी व्यक्ति की अद्वितीय बायोमेट्रिक विशेषताओं की नकल करके सिस्टम को विरूपण साक्ष्य और वास्तविक बायोलॉजिकल टार्गेट के बीच भ्रमित करने और संवेदनशील सूचना का एक्‍सेस प्राप्त करने की विधि को क्‍या कहा जाता है?",
+    "options": [
+      "1. बायोमीट्रिक हैज़ार्ड (biometric hazards)",
+      "2. बायोमीट्रिक डेस्ट्रो यइंग (biometric destroying)",
+      "3. बायोमीट्रिक क्लोनिंग (biometric cloning)",
+      "4. बायोमीट्रिक स्पूफिंग (biometric spoofing)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In which year was BD-RE version 4 developed?",
+    "options": [
+      "1. 2010",
+      "2. 2008",
+      "3. 2006",
+      "4. 2005"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "BD-RE का चौथा संस्करण किस वर्ष विकसित किया गया था?",
+    "options": [
+      "1. 2010",
+      "2. 2008",
+      "3. 2006",
+      "4. 2005"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following output devices provide information in a permanent readable form?",
+    "options": [
+      "1. LED monitor",
+      "2. Printer",
+      "3. Multimedia Projector",
+      "4. Speech Synthesizer"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्न में से कौन सी आउटपुट डिवाइस स्थायी पठनीय रूप में सूचना प्रदान करती है?",
+    "options": [
+      "1. LED मॉनिटर",
+      "2. प्रिंटर",
+      "3. मल्टीमीडिया प्रोजेक्टर",
+      "4. स्पीच सिंथेसाइज़र"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Match the computation time required by generations of computer. <br> <table border=\"1\" style=\"border-collapse:collapse;width:60%;text-align:left;\"><tr><th>Generation</th><th>Computing Time</th></tr><tr><td>A. First Generation</td><td>1. Milliseconds</td></tr><tr><td>B. Second Generation</td><td>2. Microseconds</td></tr><tr><td>C. Third Generation</td><td>3. Nanoseconds</td></tr><tr><td>D. Fourth Generation</td><td>4. Picoseconds</td></tr></table>",
+    "options": [
+      "1. A-1, B-2, C-3, D-4",
+      "2. A-2, B-1, C-3, D-4",
+      "3. A-4, B-3, C-2, D-1",
+      "4. A-3, B-4, C-2, D-1"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कम्प्यूटर की विभिन्न पीढ़ियों का आवश्यक गणना समय से मिलान कीजिए। <br> <table border=\"1\" style=\"border-collapse:collapse;width:60%;text-align:left;\"><tr><th>पीढ़ी (Generation)</th><th>गणना समय (Computation time) </th></tr><tr><td>A. प्रथम पीढ़ी</td><td>1. मिलीसेकण्ड (Milliseconds)</td></tr><tr><td>B. द्वितीय पीढ़ी</td><td>2. माइक्रोसेकण्ड (Microseconds)</td></tr><tr><td>C. तृतीय पीढ़ी</td><td>3. नैनोसेकण्ड (Nanoseconds) </td></tr><tr><td>D. चतुर्थ पीढ़ी</td><td>4. पिकोसेकण्ड (Picoseconds)</td></tr></table>",
+    "options": [
+      "1. A-1, B-2, C-3, D-4",
+      "2. A-2, B-1, C-3, D-4",
+      "3. A-4, B-3, C-2, D-1",
+      "4. A-3, B-4, C-2, D-1"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "For most of the computers, generally which of the following types of battery cell is used for CMOS?",
+    "options": [
+      "1. CR2016",
+      "2. CR2032",
+      "3. CR2018",
+      "4. CR2064"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "अधिकांश कंप्यूटरों के लिए, सामान्‍यत: CMOS के लिए निम्नलिखित में से किस प्रकार की बैटरी सेल का उपयोग किया जाता है?",
+    "options": [
+      "1. CR2016",
+      "2. CR2032",
+      "3. CR2018",
+      "4. CR2064"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "With reference to computer systems, SMP stands for:",
+    "options": [
+      "1. Symmetric Multiprocessing",
+      "2. System Multiprocessing",
+      "3. Spherical Multiprocessing",
+      "4. Simple Multiprocessing"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कंप्यूटर सिस्टम के संदर्भ में, SMP का पूर्ण रूप क्या है?",
+    "options": [
+      "1. सिमेट्रिक मल्टीप्रोसेसिंग (Symmetric Multiprocessing)",
+      "2. सिस्टम मल्टीप्रोसेसिंग (System Multiprocessing)",
+      "3. स्फेरिकल मल्टीप्रोसेसिंग (Spherical Multiprocessing)",
+      "4. सिंपल मल्टीप्रोसेसिंग (Simple Multiprocessing)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is generally used at museums, historical sites, etc. as a method for conveying information about a particular exhibit or site?",
+    "options": [
+      "1. Information Kiosk",
+      "2. ATM",
+      "3. Microphone",
+      "4. Satellite"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से किसका उपयोग सामान्यतः संग्रहालयों, यों ऐतिहासिक स्थलों आदि में किसी विशेष प्रदर्शनी या स्थल के बारे में सूचना देने के लिए एक विधि के रूप में किया जाता है?",
+    "options": [
+      "1. इन्‍फॉर्मेशन कियोस्क",
+      "2. ATM",
+      "3. माइक्रोफोन",
+      "4. सैटेलाइट"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A ______ is a computer that can process print-related jobs on a network of computers.",
+    "options": [
+      "1. print server",
+      "2. net server",
+      "3. com server",
+      "4. edu server"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एक ________ एक कंप्यूटर है जो कंप्यूटर के नेटवर्क पर प्रिंट से संबंधित कार्यों को संसाधित कर सकता है।",
+    "options": [
+      "1. प्रिंट सर्वर (print server)",
+      "2. नेट सर्वर (net server)",
+      "3. कॉम सर्वर (com server)",
+      "4. edu सर्वर (edu server)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Choose an example of a Malware.",
+    "options": [
+      "1. virus",
+      "2. website",
+      "3. email",
+      "4. browser"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "मैलवेयर का एक उदाहरण चुनें।",
+    "options": [
+      "1. वाइरस",
+      "2. वेबसाइट",
+      "3. ईमेल",
+      "4. ब्राउज़र"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "All the encryption algorithms are based on two general principles, ______ and ______.",
+    "options": [
+      "1. superposition, transposition",
+      "2. substitution, superposition",
+      "3. substitution, transposition",
+      "4. substitution, truncation"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "सभी एन्क्रिप्शन एल्गोरिदम दो सामान्य सिद्धांतों पर आधारित होते हैं, उन्हें _____ और ____ कहते है।",
+    "options": [
+      "1. सुपरपोजिशन, ट्रान्सपोजिशन (superposition, transposition)",
+      "2. सब्स्टिट्यूशन, सुपरपोजिशन (substitution, superposition)",
+      "3. सब्स्टिट्यूशन, ट्रान्सपोजिशन (substitution, transposition)",
+      "4. सब्स्टिट्यूशन, ट्रन्केशन (substitution, truncation)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "SSID is NOTHING but:",
+    "options": [
+      "1. the name assigned to WiFi network",
+      "2. the password to the WiFi network",
+      "3. a company name",
+      "4. a security key"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "SSID, ________________।",
+    "options": [
+      "1. वाई-फ़ाई को दिया गया नाम होता है",
+      "2. वाई-फ़ाई नेटवर्क का पासवर्ड होता है",
+      "3. कंपनी का नाम होता है",
+      "4. सुरक्षा कुंजी होती है"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following types of cable is used with RJ45 connector?",
+    "options": [
+      "1. Cat 5E",
+      "2. HDMI Cable",
+      "3. Fiber Optic Cable",
+      "4. Coaxial Cable"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन‑सी केबल RJ45 कनेक्टर के साथ उपयोग की जाती है?",
+    "options": [
+      "1. कैट 5E (Cat 5E)",
+      "2. HDMI केबल",
+      "3. फ़ाइबर ऑप्टिक केबल",
+      "4. कोएक्सियल केबल"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT an application layer protocol?",
+    "options": [
+      "1. DNS",
+      "2. FTP",
+      "3. SMTP",
+      "4. TCP"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, एक एप्लीकेशन लेयर प्रोटोकॉल नहीं है?",
+    "options": [
+      "1. DNS",
+      "2. FTP",
+      "3. SMTP",
+      "4. TCP"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In Unix, you can use the ____ command to list out all the files or directories available in a directory.",
+    "options": [
+      "1. ls",
+      "2. ds",
+      "3. cs",
+      "4. ms"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Unix में आप डाइरेक्ट्री में उपलब्ध सभी फाइलों और डाइरेक्ट्रियों को ________ कमांड से सूचीबद्ध कर सकते है।",
+    "options": [
+      "1. ls",
+      "2. ds",
+      "3. cs",
+      "4. ms"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "An _____ file is a versatile document format developed by Microsoft that supports formatted text—such as bold, italics, fonts, and colors—and images, while offering high cross-platform compatibility.",
+    "options": [
+      "1. .xlsx",
+      "2. .rtf",
+      "3. .pptx",
+      "4. .txt"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "_____ फ़ाइल माइक्रोसॉफ्ट द्वारा डेवलप किया गया बहुउपयोगी (versatile) डॉक्यूमेंट फ़ॉर्मैट है जो फ़ॉर्मैट किए गए टेक्स्ट जैसे बोल्ड, इटैलिक, फ़ॉन्ट और कलर तथा इमेज को सपोर्ट करता है, साथ ही हाई क्रॉस-प्लेटफ़ॉर्म कम्पैटिबिलिटी भी देता है।",
+    "options": [
+      "1. .xlsx",
+      "2. .rtf",
+      "3. .pptx",
+      "4. .txt"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A standard CD is composed of a clear ______ plastic substrate, a reflective metallic layer, and a clear protective coating of acrylic plastic.",
+    "options": [
+      "1. polypropylene",
+      "2. polycarbonate",
+      "3. polyester",
+      "4. polymethyl"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक सामान्य सीडी (standard CD) एक क्लियर ______ प्लास्टिक सब्सट्रेट, एक परावर्तक धातु परत और ऐक्रेलिक प्लास्टिक की एक क्लियर सुरक्षात्मक कोटिंग से बनी होती है।",
+    "options": [
+      "1. पॉलीप्रोपिलीन",
+      "2. पॉलीकार्बोनेट",
+      "3. पॉलीएस्टर",
+      "4. पॉलीमेथिल"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which extension is used for C# source code file?",
+    "options": [
+      "1. .csv",
+      "2. .cs",
+      "3. .cf",
+      "4. .ccf"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से किस एक्सटेंशन का उपयोग C# सोर्स कोड फाइल के लिए किया जाता है?",
+    "options": [
+      "1. .csv",
+      "2. .cs",
+      "3. .cf",
+      "4. .ccf"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ images use many distinct intensity values.",
+    "options": [
+      "1. High contrast",
+      "2. Low contrast",
+      "3. No contrast",
+      "4. Slow contrast"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ इमेज, कई विभिन्न तीव्रता मानों का उपयोग करती हैं।",
+    "options": [
+      "1. हाई कॉन्ट्रास्ट (High contrast)",
+      "2. लो कॉन्ट्रास्ट (Low contrast)",
+      "3. नो कॉन्ट्रास्ट (No contrast)",
+      "4. स्लो कॉन्ट्रास्ट (Slow contrast)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Expand POP.",
+    "options": [
+      "1. Post Office Protocol",
+      "2. Pre Office Protocol",
+      "3. Post Ordinary Protocol",
+      "4. Post Order Protocol"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "POP का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Post Office Protocol (पोस्ट ऑफिस प्रोटोकॉल)",
+      "2. Pre Office Protocol (प्री ऑफिस प्रोटोकॉल)",
+      "3. Post Ordinary Protocol (पोस्ट ऑर्डिनरी प्रोटोकॉल)",
+      "4. Post Order Protocol (पोस्ट ऑर्डर प्रोटोकॉल)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which UDP port is used by Domain Name System?",
+    "options": [
+      "1. 53",
+      "2. 23",
+      "3. 25",
+      "4. 83"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "डोमेन नेम सिस्टम द्वारा किस यूडीपी (UDP) पोर्ट का उपयोग किया जाता है?",
+    "options": [
+      "1. 53",
+      "2. 23",
+      "3. 25",
+      "4. 83"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Client software uses ______ or POP protocols to receive emails.",
+    "options": [
+      "1. IMAP",
+      "2. HTTP",
+      "3. TCP",
+      "4. FTP"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "क्लाइंट सॉफ्टवेयर ईमेल रिसीव करने के लिए ______ या POP प्रोटोकॉल का उपयोग करता है।",
+    "options": [
+      "1. IMAP",
+      "2. HTTP",
+      "3. TCP",
+      "4. FTP"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following network devices operate at the Physical Layer of the OSI model?",
+    "options": [
+      "1. Hub",
+      "2. Bridge",
+      "3. Router",
+      "4. Gateway"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन‑सा नेटवर्क डिवाइस OSI मॉडल की भौतिक परत (Physical Layer) पर कार्य करता है?",
+    "options": [
+      "1. हब (Hub)",
+      "2. ब्रिज (Bridge)",
+      "3. राउटर (Router)",
+      "4. गेटवे (Gateway)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The tool/protocol that is used to transfer data/files among computers on the internet is called:",
+    "options": [
+      "1. FTP",
+      "2. Archie",
+      "3. SMTP",
+      "4. Gopher"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "इंटरनेट पर कंप्यूटरों के मध्‍य डेटा/ फाइलों को ट्रांसफर करने के लिए उपयोग किया जाने वाला टूल/प्रोटोकॉल निम्न में से कौन-सा है?",
+    "options": [
+      "1. FTP",
+      "2. Archie",
+      "3. SMTP",
+      "4. Gopher"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A software that allows users to view the web page is called:",
+    "options": [
+      "1. an interpreter",
+      "2. a website",
+      "3. an operating system",
+      "4. an internet browser"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "वह सॉफ़्टवेयर निम्न में से कौन सा है, जो उपयोगकर्ता को वेब पेज देखने की सुविधा देता है?",
+    "options": [
+      "1. इंटरप्रेटर",
+      "2. वेबसाइट",
+      "3. ऑपरेटिंग सिस्टम",
+      "4. इंटरनेट ब्राउज़र"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following extensions is NOT used for executable files?",
+    "options": [
+      "1. .COM",
+      "2. .EXE",
+      "3. .RTF",
+      "4. .BAT"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा एक्सटेंशन निष्पादन योग्य (executable) फाइलों के लिए उपयोग नहीं किया जाता है?",
+    "options": [
+      "1. .COM",
+      "2. .EXE",
+      "3. .RTF",
+      "4. .BAT"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following statements is FALSE?",
+    "options": [
+      "1. BIOS is a firmware.",
+      "2. Unix is an example of system software.",
+      "3. Notepad is a word-processor.",
+      "4. A computer cannot have two operating systems."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से कौन सा कथन असत्‍य है?",
+    "options": [
+      "1. BIOS एक फ़र्मवेयर है।",
+      "2. Unix सिस्टम सॉफ्टवेयर का एक उदाहरण है।",
+      "3. नोटपैड एक वर्ड-प्रोसेसर है।",
+      "4. एक कंप्यूटर में दो ऑपरेटिंग सिस्टम नहीं हो सकते।"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Android is an example of:",
+    "options": [
+      "1. utility software",
+      "2. application software",
+      "3. system software",
+      "4. antivirus software"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एंड्रॉयड (Android), ________ का एक उदाहरण है।",
+    "options": [
+      "1. यूटीलिटी सॉफ्टवेयर",
+      "2. एप्लीकेशन सॉफ्टवेयर",
+      "3. सिस्टम सॉफ्टवेयर",
+      "4. एंटीवायरस सॉफ्टवेयर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A student wants to share a large project folder with classmates online so that everyone can access and edit files from different locations. Which Internet service is most suitable?",
+    "options": [
+      "1. Cloud storage service",
+      "2. Email attachment",
+      "3. Bluetooth file transfer",
+      "4. Offline USB sharing"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एक विद्यार्थी अपने सहपाठियों के साथ एक बड़ा प्रोजेक्ट फ़ोल्डर ऑनलाइन शेयर करना चाहता है ताकि सभी लोग अलग‑अलग स्थानों से फ़ाइलों को एक्सेस और एडिट कर सकें। इसके लिए सबसे उपयुक्त इंटरनेट सेवा कौन‑सी है?",
+    "options": [
+      "1. क्लाउड स्टोरेज सेवा (Cloud storage service)",
+      "2. ईमेल अटैचमेंट (Email attachment)",
+      "3. ब्लूटूथ फ़ाइल ट्रांसफ़र (Bluetooth file transfer)",
+      "4. ऑफ़लाइन USB शेयरिंग (Offline USB sharing)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is an example of a cloud storage Internet service?",
+    "options": [
+      "1. Google Drive",
+      "2. Notepad",
+      "3. Control Panel",
+      "4. Device Manager"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "इनमें से कौन सा क्लाउड स्टोरेज इंटरनेट सर्विस का उदाहरण है?",
+    "options": [
+      "1. गूगल ड्राइव",
+      "2. नोटपैड",
+      "3. कंट्रोल पैनल",
+      "4. डिवाइस मैनेजर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a software program that helps people find the information they are looking for online using keywords or phrases?",
+    "options": [
+      "1. Search Engine",
+      "2. MS-Excel",
+      "3. Presentation",
+      "4. Anti-virus"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा एक ऐसा सॉफ्टवेयर प्रोग्राम है जिसके द्वारा लोग शब्दों या वाक्यांशों का उपयोग कर जानकारी खोज सकते हैं?",
+    "options": [
+      "1. सर्च इंजन",
+      "2. एमएस-एक्‍सेल",
+      "3. प्रेजेंटेजेंटेशन",
+      "4. एंटी-वायरस"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "An e-mail address typically consists of a user ID followed by a ______ sign and the name of the e-mail server that manages the user's electronic post office box.",
+    "options": [
+      "1. @",
+      "2. #",
+      "3. &",
+      "4 . ٭"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एक ई-मेल एड्रेस में आमतौर पर एक यूजर ID शामिल होती है जिसके बाद _______ का चिह्न और ई-मेल सर्वर का नाम होता है, जो उपभोगता के इलेक्ट्रॉनिक पोस्ट ऑफिस बॉक्स को प्रबंधित करता है।",
+    "options": [
+      "1. @",
+      "2. #",
+      "3. &",
+      "4 . ٭"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A subset of a network that includes all the router but contains NO loop is called a:",
+    "options": [
+      "1. spider tree",
+      "2. spider structure",
+      "3. spanning tree",
+      "4. spanning structure"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "किसी नेटवर्क का वह सबसेट जिसमें सभी राउटर शामिल होते हैं लेकिन कोई भी लूप शामिल नहीं होता है, क्या कहलाता है?",
+    "options": [
+      "1. स्पाइडर ट्री",
+      "2. स्पाइडर स्ट्रक्चर",
+      "3. स्पैनिंग ट्री",
+      "4. स्पैनिंग स्ट्रक्चर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is the slowest of all internet connections available?",
+    "options": [
+      "1. Fiber optic otherwise known as FiOS",
+      "2. Cable",
+      "3. Dial-up",
+      "4. Satellite"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "मौजूदा सभी इंटरनेट कनेक्शनों में सबसे धीमा कनेक्शन निम्न में से कौन-सा है?",
+    "options": [
+      "1. फाइबर ऑप्टिक जिसे FiOS के नाम से भी जाना जाता है",
+      "2. केबल",
+      "3. डायल-अप",
+      "4. सैटेलाइट"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "With reference to transmission technologies, the two types of DSL are:",
+    "options": [
+      "1. high speed DSL and low speed DSL",
+      "2. digital DSL and analogue DSL",
+      "3. wireless DSL and wired DSL",
+      "4. asymmetric DSL and symmetric DSL"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "ट्रांसमिशन प्रौद्योगिकी के संदर्भ में, DSL के दो प्रकार ______ हैं।",
+    "options": [
+      "1. हाई स्‍पीड DSL और लो स्‍पीड DSL",
+      "2. डिजिटल DSL और एनालॉग DSL",
+      "3. वॉयरलेस DSL और वॉयर्ड DSL",
+      "4. असममित DSL और सममित DSL"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Among the two types of DSL, asymmetric DSL is ______ than symmetric DSL.",
+    "options": [
+      "1. cheaper",
+      "2. secure",
+      "3. costlier",
+      "4. better"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "दो प्रकार के DSL में, सममित DSL की तुलना में असममित DSL _________ होता है।",
+    "options": [
+      "1. सस्ता",
+      "2. सुरक्षित",
+      "3. महंगा",
+      "4. बेहतर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following are faint lines that you see around the cells in the worksheet of MS-Excel?",
+    "options": [
+      "1. Gridlines",
+      "2. Rows",
+      "3. Columns",
+      "4. Legends"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel की वर्कशीट में सेलों के चारों ओर दिखने वाली हल्की लाइनें इनमें से कौन-सी हैं?",
+    "options": [
+      "1. ग्रिडलाइंस (Gridlines)",
+      "2. रो (Rows)",
+      "3. कॉलम (Columns)",
+      "4. लीजेंड्स (Legends)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Click _________to apply special visual effects to the chart element, such as shadows, bevels, or 3-D rotation in MS-Office 2019.",
+    "options": [
+      "1. shape fill",
+      "2. fill area",
+      "3. shape effects",
+      "4. auto format"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Office 2019 में, चार्ट के एलिमेंट्स पर विशेष दृश्य-प्रभाव (visual effect), जैसे कि शेडो, बेवल, या 3-डी रोटेशन एप्‍लाई करने के लिए ________ पर क्लिक करना चाहिए।",
+    "options": [
+      "1. शेप फ़िल (shape fill)",
+      "2. फ़िल एरिया (fill area)",
+      "3. शेप इफ़ेक्ट्स (shape effects)",
+      "4. ऑटो फार्मेट (auto format)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The ________ shortcut key is used in MS-Excel 2019 to select the current and next sheet in a workbook.",
+    "options": [
+      "1. Alt + Shift + Page Down",
+      "2. Ctrl + Shift + Page Down",
+      "3. Shift + Page Down",
+      "4. Ctrl + Page Down"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 की किसी वर्कबुक में, करेंट और नेक्‍स्‍ट शीट को सेलेक्‍ट करने के लिए की-बोर्ड शॉर्टकट ________ का उपयोग किया जाता है।",
+    "options": [
+      "1. Alt + Shift + Page Down",
+      "2. Ctrl + Shift + Page Down",
+      "3. Shift + Page Down",
+      "4. Ctrl + Page Down"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The ________ shortcut key is used in MS-Excel 2019 to move one cell up in a worksheet.",
+    "options": [
+      "1. Up arrow",
+      "2. Ctrl + Up arrow",
+      "3. Alt + Up arrow",
+      "4. Shift + Up arrow"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में, वर्कशीट में एक सेल ऊपर जाने के लिए की-बोर्ड शॉर्टकट ____________ का उपयोग किया जाता है।",
+    "options": [
+      "1. Up arrow key",
+      "2. Ctrl + Up arrow key",
+      "3. Alt + Up arrow key",
+      "4. Shift + Up arrow key"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following statements is INCORRECT with reference to shortcut keys in MS-Excel 2019?",
+    "options": [
+      "1. Ctrl + Up arrow is used to move to the first cell of the selected column.",
+      "2. Ctrl + Right arrow is used to move to the last cell of the selected row.",
+      "3. Ctrl + Left arrow is used to move to the first cell of the selected row.",
+      "4. Ctrl + Down arrow is used to move to the last cell in the lower right corner of the selected table."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel 2019 में की-बोर्ड शॉर्टकट्स के संदर्भ में निम्नलिखित में से कौन सा कथन गलत है?",
+    "options": [
+      "1. Ctrl + Up arrow का उपयोग सेलेक्‍ट किए गए कॉलम की पहली सेल में जाने के लिए किया जाता है।",
+      "2. Ctrl + Right arrow का उपयोग सेलेक्‍ट की गई रो की अंतिम सेल में जाने के लिए किया जाता है।",
+      "3. Ctrl + Left arrow का उपयोग सेलेक्‍ट की गई रो की पहली सेल में जाने के लिए किया जाता है।",
+      "4. Ctrl + Down arrow का उपयोग सेलेक्‍ट किए गए कॉलम के निचले दाहिने कोने की अंतिम सेल में जाने के लिए किया जाता है।"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The ________ shortcut key is used in MS-Excel 2019 to create a chart of the data in the current range in a separate chart sheet.",
+    "options": [
+      "1. F5",
+      "2. F7",
+      "3. F11",
+      "4. F10"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel 2019 में, एक अलग चार्ट शीट में करेंट रेंज में डेटा का चार्ट बनाने के लिए की-बोर्ड शॉर्टकट ________ का उपयोग किया जाता है।",
+    "options": [
+      "1. F5",
+      "2. F7",
+      "3. F11",
+      "4. F10"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "When you are entering data that has a pattern, like separating a full name into first and last names, you can use the ________ feature in MS-Excel 2019 for the web to save time and have MS-Excel fill in the data for you.",
+    "options": [
+      "1. Fill down",
+      "2. Flash fill",
+      "3. Fill",
+      "4. Fill up"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel में जब आपको किसी खास पैटर्न, जैसे कि नाम और उपनाम में विभाजित पूर्ण नामों का डेटा एंटर करना होता है, तो आप वेब के लिए MS-Excel 2019 के ___________ फीचर का उपयोग कर सकते हैं। इससे MS-Excel आपके लिए डेटा को स्वतः ही भर देगा।",
+    "options": [
+      "1. फिल डाउन (Fill down)",
+      "2. फ़्लैश फिल (Flash fill)",
+      "3. फिल (Fill)",
+      "4. फिल अप (Fill up)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The syntax for UNIQUE function in MS-Excel 365 is:",
+    "options": [
+      "1. =UNIQ(array, [by_col], [exactly_once])",
+      "2. =UNIQUE(array, [by_col], [exactly_once])",
+      "3. =UNIQUE([by_col], [exactly_once])",
+      "4. =UNIQUE(array, [by_col], [exactly_once], string)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 365 में UNIQUE फ़ंक्शन के लिए सिंटेक्स क्या होगा?",
+    "options": [
+      "1. =UNIQ(array, [by_col], [exactly_once])",
+      "2. =UNIQUE(array, [by_col], [exactly_once])",
+      "3. =UNIQUE([by_col], [exactly_once])",
+      "4. =UNIQUE(array, [by_col], [exactly_once], string)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Let's say you have a table of planets in our solar system and you want to get the name of the 4th planet, Mars, with a formula. Which of the following formulas is used in MS-Excel 2019?",
+    "options": [
+      "1. INDEX",
+      "2. MATCH",
+      "3. SEQUENCE",
+      "4. SORT"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "मान लीजिए कि आपके पास हमारे सौर मंडल के ग्रहों की तालिका है और आप चौथे ग्रह, मंगल का नाम फॉर्मूला के साथ प्राप्त करना चाहते हैं। इसके लिए MS-Excel में निम्नलिखित में से किस फॉर्मूले का उपयोग करना होगा?",
+    "options": [
+      "1. INDEX",
+      "2. MATCH",
+      "3. SEQUENCE",
+      "4. SORT"
+    ],
+    "answer": 0
+  }
+],
+  
+
   
 "16th January 2026 - Shift1": [
   {
