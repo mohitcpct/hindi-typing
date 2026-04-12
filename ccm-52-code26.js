@@ -5218,6 +5218,1050 @@
   }
 ],
 
+  "15th March 2026 - Shift2": [
+  {
+    "q": "BIOS stands for:",
+    "options": [
+      "1. Basic Input Output System",
+      "2. Basic Interpreter Output System",
+      "3. Basic Input Organization System",
+      "4. Basic Independent Organization System"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "BIOS का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Basic Input Output System (बेसिक इनपुट आउटपुट सिस्टम)",
+      "2. Basic Interpreter Output System (बेसिक इंटरप्रेटर आउटपुट सिस्टम)",
+      "3. Basic Input Organization System (बेसिक इनपुट आर्गेनाईजेशन सिस्टम)",
+      "4. Basic Independent Organization System (बेसिक इंडिपेंडेंट आर्गेनाईजेशन सिस्टम)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which function returns the number of permutations for a given number of objects that can be selected from number objects in MS-Excel 2019?",
+    "options": [
+      "1. NUMPERMUT function",
+      "2. PERMUTNUM function",
+      "3. PERMUT function",
+      "4. PERMUTN function"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel 2019 में दिए गए ऑब्जेक्ट की संख्या के लिए कौन सा फ़ंक्शन क्रमपरिवर्तनों (permutations) नों की संख्या देता है जिसे संख्या ऑब्जेक्ट से चुना जा सकता है?",
+    "options": [
+      "1. NUMPERMUT फंक्शन",
+      "2. PERMUTNUM फंक्शन",
+      "3. PERMUT फंक्शन",
+      "4. PERMUTN फंक्शन"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the value of the following MS-Excel formula? <br> =23+16/4+3*2",
+    "options": [
+      "1. 31",
+      "2. 32",
+      "3. 33",
+      "4. 23"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्न MS-Excel सूत्र का मान क्या होगा? <br> =23+16/4+3*2",
+    "options": [
+      "1. 31",
+      "2. 32",
+      "3. 33",
+      "4. 23"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Office is an example of:",
+    "options": [
+      "1. application software",
+      "2. utility software",
+      "3. system software",
+      "4. communication software"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Office निम्न में से किसका उदाहरण है?",
+    "options": [
+      "1. एप्लीकेशन सॉफ्टवेयर",
+      "2. यूटिलिटी सॉफ्टवेयर",
+      "3. सिस्टम सॉफ्टवेयर",
+      "4. कम्युनिकेशन सॉफ्टवेयर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following can be used to reload the current page, ignoring cached content in Chrome?",
+    "options": [
+      "1. Shift + F3",
+      "2. F5",
+      "3. Shift + F6",
+      "4. Shift + F5"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "क्रोम में कैश्ड कंटेंट (cached content) को इग्नोर करते हुए, निम्न में से किसका उपयोग वर्तमान पेज को पुनः लोड करने के लिए किया जा सकता है?",
+    "options": [
+      "1. Shift + F3",
+      "2. F5",
+      "3. Shift + F6",
+      "4. Shift + F5"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Instructions to a computer is given through:",
+    "options": [
+      "1. input device",
+      "2. ALU",
+      "3. output device",
+      "4. motherboard"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कंप्यूटर को _______ के द्वारा निर्देश दिए जाते हैं।",
+    "options": [
+      "1. इनपुट डिवाइस",
+      "2. एलएलयू (ALU)",
+      "3. आउटपुट डिवाइस",
+      "4. मदरबोर्ड"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "While using the ______ feature in MS-Word 2016, you must have a main document and a data source.",
+    "options": [
+      "1. Mail customize",
+      "2. Mail merge",
+      "3. Create Mail",
+      "4. Merge Mail"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Word 2016 के ______ फ़ीचर का उपयोग करते समय आपके पास एक मुख्य डॉक्यूमेंट और एक डेटा स्रोत होना चाहिए।",
+    "options": [
+      "1. मेल कस्टमाइज़",
+      "2. मेल मर्ज",
+      "3. क्रिएट मेल",
+      "4. मर्ज मेल"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following represents a step-by-step process to solve a computational problem?",
+    "options": [
+      "1. Function",
+      "2. Routine",
+      "3. Pseudo code",
+      "4. Algorithm"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कम्प्यूटेशनल प्रोब्लेम को हल करने के लिए निम्नलिखित में से कौन-सा विकल्प एक चरण-दर-चरण प्रक्रिया का निरूपण करता है?",
+    "options": [
+      "1. फंक्शन",
+      "2. रूटीन",
+      "3. स्यूडो कोड",
+      "4. अल्गोरिदम"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which biometric sensor system is widely deployed by organisations handling with the masses of users, for example, the Aadhaar identification executed by the Government of India, to maintain records of Indian population?",
+    "options": [
+      "1. Typing recognition system",
+      "2. Iris recognition system",
+      "3. Voice recognition system",
+      "4. Signature recognition system"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कौन-सा बायोमेट्रिक सेंसर सिस्टम उन ऑर्गनाइज़ेशन द्वारा बड़े पैमाने पर इस्तेमाल किया जाता है जो बड़ी संख्या में यूज़र्स को हैंडल करते हैं, जैसे कि भारत सरकार द्वारा बनाया गया आधार आइडेंटिफिकेशन, ताकि भारतीय आबादी का रिकॉर्ड रखा जा सके?",
+    "options": [
+      "1. टाइपिंग रिकॉग्निशन सिस्टम",
+      "2. आइरिस रिकॉग्निशन सिस्टम",
+      "3. वॉइस रिकॉग्निशन सिस्टम",
+      "4. सिग्नेचर रिकॉग्निशन सिस्टम"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "NIC is a hardware component used to connect a computer with another computer onto a network. What does the term NIC mean?",
+    "options": [
+      "1. New Interface Card",
+      "2. Network Integration Card",
+      "3. Network interface Card",
+      "4. Network interface Care"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "NIC एक हार्डवेयर घटक है जिसका उपयोग किसी नेटवर्क पर एक कंप्यूटर को दूसरे कंप्यूटर से जोड़ने के लिए किया जाता है। NIC का पूर्ण रूप क्या है?",
+    "options": [
+      "1. New Interface Card (न्यू इंटरफ़ेस कार्ड)",
+      "2. Network Integration Card (नेटवर्क इंटीग्रेशन कार्ड)",
+      "3. Network interface Card (नेटवर्क इंटरफ़ेस कार्ड)",
+      "4. Network interface Care (नेटवर्क इंटरफ़ेस केयर)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is NOT an output device?",
+    "options": [
+      "1. Light Pen",
+      "2. Printer",
+      "3. Plotter",
+      "4. Speaker"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से कौन-सा एक आउटपुट डिवाइस नहीं है?",
+    "options": [
+      "1. लाइट पेन",
+      "2. प्रिंटर",
+      "3. प्लॉटर",
+      "4. स्पीकर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Arrange the technologies used in different generations of computer in correct chronological order.",
+    "options": [
+      "1. Vacuum tube → Transistor → Microprocessors → Integrated Circuits → Artificial Intelligence",
+      "2. Transistor → Vacuum tube → Integrated Circuits → Microprocessors → Artificial Intelligence",
+      "3. Vacuum tube → Transistor → Integrated Circuits → Microprocessors → Artificial Intelligence",
+      "4. Transistor → Vacuum tube → Microprocessors → Integrated Circuits → Artificial Intelligence"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "कंप्यूटर की विभिन्न पीढ़ियों में उपयोग की गई तकनीकों को सही कालानुक्रमिक क्रम में व्यवस्थित कीजिए।",
+    "options": [
+      "1. वैक्यूम ट्यूब → ट्रांजिस्टर → माइक्रो प्रोसेसर → इंटीग्रेटेड सर्किट → आर्टिफिशियल इंटेलिजेंस",
+      "2. ट्रांजिस्टर → वैक्यूम ट्यूब → इंटीग्रेटेड सर्किट → माइक्रो प्रोसेसर → आर्टिफिशियल इंटेलिजेंस",
+      "3. वैक्यूम ट्यूब → ट्रांजिस्टर → इंटीग्रेटेड सर्किट → माइक्रो प्रोसेसर → आर्टिफिशियल इंटेलिजेंस",
+      "4. ट्रांजिस्टर → वैक्यूम ट्यूब → माइक्रो प्रोसेसर → इंटीग्रेटेड सर्किट → आर्टिफिशियल इंटेलिजेंस"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is NOT a CMOS failure symptom in a desktop system?",
+    "options": [
+      "1. Loss of BIOS settings when the computer is powered off",
+      "2. Incorrect or slow system date and time in the BIOS",
+      "3. Time-Of-Day clock stopped error message",
+      "4. Computer randomly crashes"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा डेस्कटॉप सिस्टम में CMOS विफलता का लक्षण नहीं है?",
+    "options": [
+      "1. कंप्यूटर बंद होने पर BIOS सेटिंग्स क्षति",
+      "2. BIOS में गलत या धीमा सिस्टम दिनांक और समय",
+      "3. दिन के समय घड़ी बंद होने का त्रुटि संदेश",
+      "4. कंप्यूटर का बेतरतीब ढंग से क्रैश हो जाना"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A __________ is a hardware device which is used to receive, analyse and forward the incoming packets to another network.",
+    "options": [
+      "1. USB",
+      "2. Repeater",
+      "3. Modem",
+      "4. Router"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "__________ एक हार्डवेयर डिवाइस है जिसका उपयोग दूसरे नेटवर्क पर आने वाले पैकेट्स को प्राप्त (receive) करने, उनका विश्लेषण (analyse) करने और उन्हें अग्रेषित (forward) करने के लिए किया जाता है।",
+    "options": [
+      "1. USB",
+      "2. रिपीटर",
+      "3. मॉडेम",
+      "4. राउटर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "With respect to e-mails, POP stands for:",
+    "options": [
+      "1. Private Office Protocol",
+      "2. Post Office Protocol",
+      "3. Public Office Protocol",
+      "4. Post Operation Protocol"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ई-मेल के संबंध में, POP का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Private Office Protocol (प्राइवेट ऑफिस प्रोटोकॉल)",
+      "2. Post Office Protocol (पोस्ट ऑफिस प्रोटोकॉल)",
+      "3. Public Office Protocol (पब्लिक ऑफिस प्रोटोकॉल)",
+      "4. Post Operation Protocol (पोस्ट ऑपरेशन प्रोटोकॉल)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "________ is a telecommunications network that extends over a large geographical area for the primary purpose of computer networking.",
+    "options": [
+      "1. Peer-to-peer network",
+      "2. LAN",
+      "3. WAN",
+      "4. PAN"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "________ एक दूरसंचार नेटवर्क है जो कंप्यूटर नेटवर्किंग के प्राथमिक उद्देश्य के लिए एक बड़े भौगोलिक क्षेत्र में फैला होता है।",
+    "options": [
+      "1. पीयर-टू-पीयर नेटवर्क",
+      "2. LAN",
+      "3. WAN",
+      "4. PAN"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In DoS Attack, the targeted computer becomes ____.",
+    "options": [
+      "1. responsive",
+      "2. extra alert",
+      "3. unresponsive",
+      "4. very fast"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "DoS अटैक में, लक्षित कंप्यूटर ______ हो जाता है।",
+    "options": [
+      "1. प्रतिक्रियात्मक (responsive)",
+      "2. अधिक अलर्ट (extra alert)",
+      "3. अप्रतिक्रियात्मक (unresponsive)",
+      "4. बहुत तेज (very fast)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the purpose of a Webcam?",
+    "options": [
+      "1. It collects the text and share it over the Internet.",
+      "2. It only collects the audio and share it over the Internet.",
+      "3. It collects only mp3 files and share it over the Internet.",
+      "4. It captures video and audio data and transmits it in real-time over the internet."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "वेबकैम का क्या उद्देश्य होता है?",
+    "options": [
+      "1. यह टेक्स्ट एकत्र करता है और उसे इंटरनेट पर साझा करता है।",
+      "2. यह केवल ऑडियो एकत्र करता है और उसे इंटरनेट पर साझा करता है।",
+      "3. यह केवल mp3 फ़ाइलें एकत्र करता है और उन्हें इंटरनेट पर साझा करता है।",
+      "4. यह वीडियो और ऑडियो डेटा कैप्चर करता है और इसे इंटरनेट पर रियल-टाइम में भेजता है।"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MIPS in CPU stands for _____.",
+    "options": [
+      "1. majority instructions per second",
+      "2. million installment per second",
+      "3. maximum instructions per second",
+      "4. million instructions per second"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "CPU के सन्दर्भ में MIPS का पूर्ण रूप क्या है?",
+    "options": [
+      "1. majority instructions per second (मेजोरिटी इंस्ट्रक्शंस पर सेकंड)",
+      "2. million installment per second (मिलियन इन्सटॉलमेंट पर सेकंड)",
+      "3. maximum instructions per second (मैक्सिमम इंस्ट्रक्शंस पर सेकंड)",
+      "4. million instructions per second (मिलियन इंस्ट्रक्शंस पैर सेकंड)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A ______ icon on the Desktop only points to the file, and it's not the entire file.",
+    "options": [
+      "1. Recycle Bin",
+      "2. My Computer",
+      "3. Delete",
+      "4. Shortcut"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "डेस्कटॉप पर कौन-सा आइकन केवल फाइल को इंगित करता है और वह पूरी फ़ाइल नहीं होता है?",
+    "options": [
+      "1. रीसायकल बिन (Recycle Bin)",
+      "2. माय कंप्यूटर (My Computer)",
+      "3. डिलीट (Delete)",
+      "4. शॉर्टकट (Shortcuts)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The JFS file system of Unix is developed by:",
+    "options": [
+      "1. Red Hat",
+      "2. HP",
+      "3. IBM",
+      "4. Sun Microsystem"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Unix के जे.एफ.एस. (JFS) फाइल सिस्टम को ______ के द्वारा विकसित किया गया है।",
+    "options": [
+      "1. रेड हैट",
+      "2. एचपी. (HP)",
+      "3. आई.बी.एम. (IBM)",
+      "4. सन माइक्रोसिस्टम"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The XML-based and macro-enabled Add-In format for Excel 2010 and Excel 2007 is __________.",
+    "options": [
+      "1. .xlx",
+      "2. .xls",
+      "3. .xlsx",
+      "4. .xlam"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Excel 2010 और Excel 2007 के लिए XML-बेस्ड और मैक्रो-इनेबल्ड ऐड-इन फॉर्मेट __________ है।",
+    "options": [
+      "1. .xlx",
+      "2. .xls",
+      "3. .xlsx",
+      "4. .xlam"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following extensions is used for Document Type Definition File?",
+    "options": [
+      "1. .dt",
+      "2. .doc",
+      "3. .dtdf",
+      "4. .dtd"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से किस एक्सटेंशन का उपयोग डॉक्यूमेंट टाइप डेफिनिशन फाइल के लिए किया जाता है?",
+    "options": [
+      "1. .dt",
+      "2. .doc",
+      "3. .dtdf",
+      "4. .dtd"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Spatial redundancy is based on the redundancy of ______.",
+    "options": [
+      "1. any pixels",
+      "2. neighbouring pixels",
+      "3. highlighted pixels",
+      "4. dimmed pixels"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "स्पेशियल रिडंडेंसी ______ की रिडंडेंसी पर आधारित है।",
+    "options": [
+      "1. किसी भी पिक्सल",
+      "2. आसपास के पिक्सल",
+      "3. हाइलाइटेड पिक्सल",
+      "4. धुंधले पिक्सल"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ compression perfectly restore the original images when applying a reversible process.",
+    "options": [
+      "1. Dirty",
+      "2. Lossy",
+      "3. Lossless",
+      "4. Clean"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एक रिवर्सबल प्रक्रिया लागू करते समय ______ कम्प्रेशन पूरी तरह से मूल इमेज को रिस्टोर करता है।",
+    "options": [
+      "1. डर्टी (Dirty)",
+      "2. लॉसी (Lossy)",
+      "3. लॉसलेस (Lossless)",
+      "4. क्लीन (Clean)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "______ are the most basic morphological operations.",
+    "options": [
+      "1. Trilation and erosion",
+      "2. Dilation and erosion",
+      "3. Dilation and corrosion",
+      "4. Qudlation and corrosion"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ सबसे बुनियादी मोर्फोलोजिकल ऑपरेशन हैं।",
+    "options": [
+      "1. ट्राईलेशन (Trilation) और इरोशन (erosion)",
+      "2. डाइलेशन (Dilation) और इरोशन (erosion)",
+      "3. डाइलेशन (Dilation) और कोरोशन (corrosion)",
+      "4. कुडलेशन (Qudlation) और कोरोशन (corrosion)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Choose the Hexadecimal equivalent of the decimal number 27.",
+    "options": [
+      "1. 1B",
+      "2. 2A",
+      "3. A1",
+      "4. B1"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "डेसिमल संख्या 27 के हेक्साडेसिमल समतुल्य का चयन करें।",
+    "options": [
+      "1. 1B",
+      "2. 2A",
+      "3. A1",
+      "4. B1"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A DSP is a specialized microprocessor. <br><br> DSP stands for:",
+    "options": [
+      "1. Digital Signal Processor",
+      "2. Dialog Size Prediction",
+      "3. Digital Simple Predictor",
+      "4. Digital Signal Prediction"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "डीएसपी (DSP) एक विशेष माइक्रोप्रोसेसर है। <br><br>DSP का पूर्ण रूप निम्न में से कौन-सा है?",
+    "options": [
+      "1. Digital Signal Processor (डिजिटल सिग्नल प्रोसेसर)",
+      "2. Dialog Size Prediction (डायलॉग साइज प्रेडिक्शन)",
+      "3. Digital Simple Predictor (डिजिटल सिंपल प्रेडिक्टर)",
+      "4. Digital Signal Prediction (डिजिटल सिग्नल प्रेडिक्शन)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Choose the Octal equivalent of the decimal number 29.",
+    "options": [
+      "1. 35",
+      "2. 25",
+      "3. 26",
+      "4. 36"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "डेसिमल संख्या 29 के ऑक्टल समतुल्य का चयन करें।",
+    "options": [
+      "1. 35",
+      "2. 25",
+      "3. 26",
+      "4. 36"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The full form of SMTP is:",
+    "options": [
+      "1. Simple Mail Transmission Protocol",
+      "2. Simple Mail Transfer Protocol",
+      "3. Same Mail Transfer Protocol",
+      "4. Simple Message Transfer Protocol"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "SMTP का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Simple Mail Transmission Protocol (सिंपल मेल ट्रांसमिशन प्रोटोकॉल)",
+      "2. Simple Mail Transfer Protocol (सिंपल मेल ट्रांसफर प्रोटोकॉल)",
+      "3. Same Mail Transfer Protocol (सेम मेल ट्रांसफर प्रोटोकॉल)",
+      "4. Simple Message Transfer Protocol (सिंपल मेसेज ट्रांसफर प्रोटोकॉल)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The IPv4 address contains _______ bits.",
+    "options": [
+      "1. 4",
+      "2. 32",
+      "3. 12",
+      "4. 8"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "IPv4 पता (address) में _______ बिट होते हैं।",
+    "options": [
+      "1. 4",
+      "2. 32",
+      "3. 12",
+      "4. 8"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is the most common language used in designing a web page?",
+    "options": [
+      "1. C++",
+      "2. C",
+      "3. COBOL",
+      "4. HTML"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "किसी वेब पेज को डिज़ाइन करने में उपयोग की जाने वाले सबसे सामान्य भाषा कौन-सी है?",
+    "options": [
+      "1. C++",
+      "2. C",
+      "3. COBOL",
+      "4. HTML"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "______ is a free application to create an online bulletin board that you can use to display information for any topic.",
+    "options": [
+      "1. Padlet",
+      "2. Cad let",
+      "3. Toddle",
+      "4. Torrent"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "ऑनलाइन बुलेटिन बोर्ड, जिसका उपयोग किसी भी विषय की जानकारी प्रदर्शित करने के लिए किया जा सकता है, को बनाने के _________ एक निःशुल्क एप्लिकेशन है।",
+    "options": [
+      "1. Padlet (पैडलेट)",
+      "2. Cad let (कैड लेट)",
+      "3. Toddle (टॉडल)",
+      "4. Torrent (टोरेंट)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ is a free website providing learning tools for students, including flashcards, study and game modes.",
+    "options": [
+      "1. Quizlet",
+      "2. Plickers",
+      "3. Padlet",
+      "4. Near pod"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "__________ एक नि:शुल्क वेबसाइट है जिसमें छात्रों लिए विभिन्न अधिगम सुविधाएं जैसे फ़्लैशकार्ड, स्टडी और गेम मोड शामिल हैं।",
+    "options": [
+      "1. Quizlet (क्विज़लेट)",
+      "2. Plickers (प्लिकर्स)",
+      "3. Padlet (पैडलेट)",
+      "4. Near Pod (नियर पॉड)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following units links the computer with the external environment?",
+    "options": [
+      "1. Arithmetic Logic Unit",
+      "2. Input Unit",
+      "3. Control Unit",
+      "4. Storage Unit"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सी यूनिट कंप्यूटर को वाह्य वातावरण से जोड़ती है?",
+    "options": [
+      "1. अरिथमेटिक लॉजिक यूनिट",
+      "2. इनपुट यूनिट",
+      "3. कंट्रोल यूनिट",
+      "4. स्टोरेज यूनिट"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Investors who trade through an online brokerage firm are provided with an ______.",
+    "options": [
+      "1. online trading platform",
+      "2. online exchange platform",
+      "3. online sale platform",
+      "4. online buyer platform"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "ऑनलाइन ब्रोकरेज फर्म के माध्यम से व्यापार करने वाले निवेशकों को एक _____________ प्रदान किया जाता है।",
+    "options": [
+      "1. ऑनलाइन व्यापार मंच",
+      "2. ऑनलाइन विनिमय मंच",
+      "3. ऑनलाइन बिक्री मंच",
+      "4. ऑनलाइन खरीदार मंच"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ refers to a situation where one business makes a commercial transaction with another.",
+    "options": [
+      "1. Business-to-Business",
+      "2. Business-to-Consumer",
+      "3. Consumer-to-Consumer",
+      "4. Consumer-to-Business"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ उस स्थिति को संदर्भित करता है जिसमें एक व्यवसाय दूसरे व्यवसाय के साथ वाणिज्यिक लेनदेन करता है।",
+    "options": [
+      "1. व्यापार-से-व्यापार",
+      "2. व्यापार-से-उपभोक्ता",
+      "3. उपभोक्ता-से-उपभोक्ता",
+      "4. उपभोक्ता-से-व्यापार"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Netscape Navigator is a type of a(n) ______.",
+    "options": [
+      "1. web browser",
+      "2. e-mail",
+      "3. URL",
+      "4. network"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "नेट्सकेप नेविगेटर एक प्रकार का _______ है।",
+    "options": [
+      "1. वेब ब्राउज़र",
+      "2. ई-मेल",
+      "3. URL",
+      "4. नेटवर्क"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ is the transmission of telephone calls over computer networks.",
+    "options": [
+      "1. Voice over IP (VoIP)",
+      "2. Volume over IP (VoIP)",
+      "3. Vide over IP (VoIP)",
+      "4. Vacuum over IP (VoIP)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कंप्यूटर नेटवर्क पर टेलीफोन कॉल्स का ट्रांसमिशन __________ कहलाता है।",
+    "options": [
+      "1. वॉइस ओवर IP (VoIP)",
+      "2. वॉल्यूम ओवर IP (VoIP)",
+      "3. वाइड ओवर IP (VoIP)",
+      "4. वैक्यूम ओवर IP (VoIP)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT a characteristic of impact printers?",
+    "options": [
+      "1. Very high consumable costs",
+      "2. Very noisy",
+      "3. Useful for bulk printing due to low cost",
+      "4. There is physical contact with the paper to produce an image"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से क्या इम्पैक्ट प्रिंटर की एक विशेषता नहीं है?",
+    "options": [
+      "1. इनका उपयोग अत्यधिक खर्चीला होता है।",
+      "2. ये बहुत शोर करते हैं।",
+      "3. कम लागत के कारण प्रिंटिंग के लिए उपयुक्त होते हैं।",
+      "4. इमेज मुद्रित करने के लिए ये पेपर के साथ भौतिक संपर्क में होते हैं।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Before any audio or video signals can be sent on the internet, they need to be ______.",
+    "options": [
+      "1. channelised",
+      "2. managed",
+      "3. digitised",
+      "4. organised"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "किसी भी ऑडियो या वीडियो सिग्नल को इंटरनेट पर भेजे जाने से पहले उन्हें ______ करना होता है।",
+    "options": [
+      "1. चैनलाइज्ड",
+      "2. मैनेज्ड",
+      "3. डिजिटाइज्ड",
+      "4. आर्गनाइज्ड"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Moving Picture Experts Group (MPEG-1), was designed for a ______.",
+    "options": [
+      "1. PC",
+      "2. Video-CD",
+      "3. floppy",
+      "4. DVD"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "मूविंग पिक्चर एक्सपर्ट्स ग्रुप (MPEG-1) को ______ के लिए डिजाइन किया गया था।",
+    "options": [
+      "1. PC",
+      "2. वीडियो-CD",
+      "3. फ्लॉपी",
+      "4. DVD"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is NOT a high-speed internet service?",
+    "options": [
+      "1. Cable",
+      "2. Dial-up",
+      "3. Satellite",
+      "4. DSL"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सी एक तीव्र गति की इंटरनेट सेवा नहीं है?",
+    "options": [
+      "1. केबल",
+      "2. डायल-अप",
+      "3. सैटेलाइट",
+      "4. DSL"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In MS-Excel 2019, the background of the chart which is filled with colours or patterns and a document or spreadsheet containing the chart, graph, and headers of the graph is known as a:",
+    "options": [
+      "1. chart grid",
+      "2. chart area",
+      "3. fill area",
+      "4. plot area"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 में, चार्ट की पृष्ठभूमि जो रंगों या पैटर्न से भरी होती है और एक डॉक्यूमेंट या स्प्रेडशीट जिसमें चार्ट, ग्राफ़ और ग्राफ़ के हेडर होते हैं, को __________ के रूप में जाना जाता है।",
+    "options": [
+      "1. चार्ट ग्रिड (chart grid)",
+      "2. चार्ट एरिया (chart area)",
+      "3. फिल एरिया (fill area)",
+      "4. प्लॉट एरिया (plot area)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In MS-Excel 2019, we have to click ________ to apply a different fill colour, or a gradient, picture, or texture to the chart element.",
+    "options": [
+      "1. shape fill",
+      "2. fill area",
+      "3. shape effects",
+      "4. auto format"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में, चार्ट एलिमेंट में भिन्न फिल कलर, ग्रेडिएंट, पिक्चर या टेक्सचर लागू करने के लिए ________ पर क्लिक करना होगा।",
+    "options": [
+      "1. शेप फिल (shape fill)",
+      "2. फिल एरिया (fill area)",
+      "3. शेप इफ़ेक्ट्स (shape effects)",
+      "4. ऑटो फार्मेट (auto format)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following statements about pie chart in MS-Excel is INCORRECT?",
+    "options": [
+      "1. A pie chart is a circle that is divided into slices and each slice represents a proportion of the whole.",
+      "2. It is a graphical object used to represent the data in your Excel spreadsheet that uses 2 series of data to create the graph.",
+      "3. It is a graphical object used to represent the data in your MS-Excel spreadsheet that uses 1 series of data to create the graph.",
+      "4. We can use a pie chart when we want to show numbers as a proportion of the whole (i.e.: the numbers equals 100%)."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel में पाई चार्ट के बारे में निम्नलिखित में से कौन-सा कथन गलत है?",
+    "options": [
+      "1. पाई चार्ट एक वृत्त है जो खंडों में विभाजित होता है और प्रत्येक खंड पूर्ण के भाग को निरूपित करता है।",
+      "2. यह एक ग्राफिकल ऑब्जेक्ट है जिसका उपयोग आपकी एक्सेल स्प्रेडशीट में डेटा को निरूपित करने के लिए किया जाता है जो ग्राफ बनाने के लिए डेटा की 2 शृंखला का उपयोग करती है।",
+      "3. यह एक ग्राफिकल ऑब्जेक्ट है जिसका उपयोग आपकी एक्सेल स्प्रेडशीट में डेटा को निरूपित करने के लिए किया जाता है जो ग्राफ बनाने के लिए डेटा की 1 शृंखला का उपयोग करती है।",
+      "4. संख्याओं को पूर्ण के भाग के रूप में दिखाने के लिए आप पाई चार्ट का उपयोग कर सकते हैं (अर्थात: संख्याएं 100% के बराबर होती हैं)।"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In MS-Excel 2019, the ________ shortcut key is used to open the Data tab and connect to, sort, filter, analyse, and work with data.",
+    "options": [
+      "1. Alt + R",
+      "2. Alt + W",
+      "3. Alt + A",
+      "4. Alt + I"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel 2019 में की-बोर्ड शॉर्टकट ________ का उपयोग डेटा टैब को खोलने और सॉर्ट, फ़िल्टर, एनालाइज़ और वर्क विद डेटा से कनेक्ट करने के लिए किया जाता है।",
+    "options": [
+      "1. Alt + R",
+      "2. Alt + W",
+      "3. Alt + A",
+      "4. Alt + I"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The ________ shortcut key is used to open and edit a cell note in MS-Excel 2019.",
+    "options": [
+      "1. Ctrl + F2",
+      "2. Shift + F2",
+      "3. Alt + F2",
+      "4. F2"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 में, सेल नोट को खोलने और एडिट करने के लिए की-बोर्ड शॉर्टकट ________ का उपयोग किया जाता है।",
+    "options": [
+      "1. Ctrl + F2",
+      "2. Shift + F2",
+      "3. Alt + F2",
+      "4. F2"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The ________ shortcut key is used to move the table in MS-Excel 2019.",
+    "options": [
+      "1. Ctrl + M",
+      "2. Ctrl + R",
+      "3. Ctrl + N",
+      "4. Ctrl + O"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में, टेबल को मूव करने के लिए की-बोर्ड शॉर्टकट ________ का उपयोग किया जाता है।",
+    "options": [
+      "1. Ctrl + M",
+      "2. Ctrl + R",
+      "3. Ctrl + N",
+      "4. Ctrl + O"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is a short text that indicates the chart’s subject and usually appears in a larger font near the top of the chart?",
+    "options": [
+      "1. Chart legend",
+      "2. Chart area",
+      "3. Plot area",
+      "4. Chart title"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "वह छोटा टेक्स्ट क्या है जो चार्ट के सब्जेक्ट को बताता है और आमतौर पर चार्ट के टॉप के पास बड़े फ़ॉन्ट में दिखता है?",
+    "options": [
+      "1. चार्ट लीजेंड",
+      "2. चार्ट एरिया",
+      "3. प्लॉट एरिया",
+      "4. चार्ट टाइटल"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The hexadecimal equivalent for binary 10000 is:",
+    "options": [
+      "1. 10",
+      "2. A",
+      "3. 11",
+      "4. B"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "बाइनरी संख्या 10000 का हेक्साडेसीमल समतुल्य क्या होगा?",
+    "options": [
+      "1. 10",
+      "2. A",
+      "3. 11",
+      "4. B"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The ________ function will remove all spaces from the text except for single spaces between words in MS-Excel 2019.",
+    "options": [
+      "1. Trunc",
+      "2. Trim",
+      "3. Cut",
+      "4. Concat"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "________ फ़ंक्शन, MS-Excel 2019 में शब्दों के बीच सिंगल रिक्त स्थान को छोड़कर टेक्स्ट से अन्य सभी रिक्त स्थानों को हटा देगा।",
+    "options": [
+      "1. Trunc",
+      "2. Trim",
+      "3. Cut",
+      "4. Concat"
+    ],
+    "answer": 1
+  }
+],
+  
+
   "22nd March 2026 - Shift1": [
 {
     "q": "A computer's CPU consists of millions of tiny ______.",
