@@ -1043,6 +1043,1049 @@
   }
 ],
 
+  "10th May 2026 - Shift1": [
+   {
+    "q": "The microprocessors are ______, as we can use the same chip in a number of applications by configuring the software program.",
+    "options": [
+      "1. reliable",
+      "2. cost-effective",
+      "3. versatile",
+      "4. soft"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "माइक्रोप्रोसेसर ______ होते हैं, क्योंकि हम सॉफ्टवेयर प्रोग्राम को कॉन्फ़िगर करके कई अनुप्रयोगों में एक ही चिप का उपयोग कर सकते हैं।",
+    "options": [
+      "1. विश्वसनीय (reliability)",
+      "2. किफायती (cost‑effective)",
+      "3. बहु-उपयोगी (versatile)",
+      "4. मृदु (soft)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "By default, MS-Excel 2019 contains how many rows?",
+    "options": [
+      "1. 1024000",
+      "2. 1048576",
+      "3. 243567",
+      "4. 2560765"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS Excel 2019 में, डिफ़ॉल्ट रूप से कितनी पंक्तियां (रॉ) होती हैं?",
+    "options": [
+      "1. 1024000",
+      "2. 1048576",
+      "3. 243567",
+      "4. 2560765"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the keyboard shortcut to display the note that is attached to the current cell in OpenOffice Calc?",
+    "options": [
+      "1. Shift + F12",
+      "2. Shift + F1",
+      "3. Ctrl + F1",
+      "4. Ctrl + F2"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "ओपन ऑफ़िस कैल्क (open office Calc) में, वर्तमान सेल से अटैच नोट को प्रदर्शित करने के लिए की-बोर्ड शॉर्टकट क्या है?",
+    "options": [
+      "1. Shift + F12",
+      "2. Shift + F1",
+      "3. Ctrl + F1",
+      "4. Ctrl + F2"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which type of memory holds only the program and data that the CPU is presently processing?",
+    "options": [
+      "1. CMOS",
+      "2. ROM",
+      "3. RAM",
+      "4. ASCII"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "किस प्रकार की मेमोरी केवल उस प्रोग्राम और डेटा को रखती है, जो सीपीयू में वर्तमान में संसाधित हो रहा है?",
+    "options": [
+      "1. CMOS",
+      "2. ROM",
+      "3. RAM",
+      "4. ASCII"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which technology was used in primary generation(First generation) computers?",
+    "options": [
+      "1. Vaccum tubes",
+      "2. Transistor",
+      "3. Integrated circuits",
+      "4. Micro-processors"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "प्रथम पीढ़ी (First Generation) के कंप्यूटरों में कौन‑सी तकनीक का उपयोग किया गया था?",
+    "options": [
+      "1. वैक्यूम ट्यूब (Vacuum tubes)",
+      "2. ट्रां जिस्टर (Transistor)",
+      "3. इंटीग्रेटेड सर्किट्स (Integrated circuits)",
+      "4. माइक्रो‑प्रोसेसर (Micro‑processors)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "To choose the Step by Step Mail Merge wizard feature,______ group has to be chosen from the Mailings tab in MS-Word 365.",
+    "options": [
+      "1. Create",
+      "2. Start Mail Merge",
+      "3. Write & insert fields",
+      "4. Preview results"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS‑Word 365 में Step by Step Mail Merge Wizard फीचर को चुनने के लिए, Mailings टैब से किस समूह (Group) को चुना जाता है?",
+    "options": [
+      "1. क्रिएट (Create)",
+      "2. स्टार्ट मेल मर्ज (Start Mail Merge)",
+      "3. राइट एंड इन्सर्ट फ़ील्ड्स (Write & insert fields)",
+      "4. प्रिव्यू रिज़ल्ट्स (Preview results)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A printed textbook for school children provides an option to connect with additional reference material. Which of the following options are suitable to integrate this feature on a printed textbook?",
+    "options": [
+      "1. MICR Code",
+      "2. PIN Code",
+      "3. Area Code",
+      "4. QR Code"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "स्कूल के बच्चों के लिए छपी हुई पाठ्यपुस्तक, अतिरिक्त संदर्भ सामग्री से जुड़ने का एक विकल्प प्रदान करती है। छपी हुई पाठ्यपुस्तक में इस सुविधा को शामिल करने के लिए निम्नलिखित में से कौन-सा विकल्प उपयुक्त होता है?",
+    "options": [
+      "1. MICR कोड",
+      "2. PIN कोड",
+      "3. एरिया कोड",
+      "4. QR कोड"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "1 KB is equal to ______.",
+    "options": [
+      "1. 101 bytes",
+      "2. 10000 bytes",
+      "3. 1024 bytes",
+      "4. 1011 bytes"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "1 KB, ______ के बराबर होता है।",
+    "options": [
+      "1. 101 बाइट्स",
+      "2. 10000 बाइट्स",
+      "3. 1024 बाइट्स",
+      "4. 1011 बाइट्स"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "An output device which sometimes uses attached pens to draw graphs and other pictorial images on paper is a:",
+    "options": [
+      "1. printer",
+      "2. plotter",
+      "3. keyboard",
+      "4. scanner"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "वह आउटपुट डिवाइस क्या कहलाती है जिसमें कभी-कभी कागज पर ग्राफ और अन्य चित्र बनाने के लिए जुड़े हुए पेन का उपयोग किया जाता है?",
+    "options": [
+      "1. प्रिंटर",
+      "2. प्लॉटर",
+      "3. कीबोर्ड",
+      "4. स्कैनर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Dot matrix' and 'solid font printers' are examples of:",
+    "options": [
+      "1. line printers",
+      "2. off-band printers",
+      "3. character printers",
+      "4. ink printers"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "डॉट मैट्रिक्स प्रिंटर' और 'सॉलिड फॉन्ट प्रिंटर' निम्न में से किसके उदाहरण हैं?",
+    "options": [
+      "1. लाइन प्रिंटर्स",
+      "2. ऑफ-बैंड प्रिंटर्स",
+      "3. करैक्टर प्रिंटर्स",
+      "4. इंक प्रिंटर्स"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Inside the computer, a sound card is a/an ______ component that is also referred to as a soundboard, audio output device, or audio card.",
+    "options": [
+      "1. expansion",
+      "2. compression",
+      "3. systematic",
+      "4. absolute"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कंप्यूटर के अंदर, साउंड कार्ड एक ______ घटक होता है, जिसे साउंडबोर्ड, ऑडियो आउटपुट डिवाइस, या ऑडियो कार्ड भी कहा जाता है।",
+    "options": [
+      "1. एक्सपेंशन (expansion)",
+      "2. कम्प्रेशन (compression)",
+      "3. सिस्टेमैटिक (systematic)",
+      "4. एब्सोल्यूट (absolute)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is the latest and fastest component of motherboards that supports add-on cards?",
+    "options": [
+      "1. ISA (Industry Standard Architecture)",
+      "2. PCI (Peripheral Component Interconnect)",
+      "3. PCI Express (PCIe)",
+      "4. AGP (Accelerated Graphics Port)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन‑सा, मदरबोर्ड का नवीनतम और सबसे तेज़ घटक है जो ऐड‑ऑन कार्ड्स को सपोर्ट करता है?",
+    "options": [
+      "1. ISA (इंडस्ट्री स्टैंडर्ड आर्किटेक्चर)",
+      "2. PCI (पेरिफेरल कंपोनेंट इंटरकनेक्ट)",
+      "3. PCI एक्सप्रेस (PCIe)",
+      "4. AGP (एक्सेलरेटेड ग्राफ़िक्स पोर्ट)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The programming language COBOL stands for:",
+    "options": [
+      "1. Common Beginner Oriented Language",
+      "2. Common Business Object Language",
+      "3. Complementary Business Oriented Language",
+      "4. Common Business Oriented Language"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "प्रोग्रामिंग भाषा COBOL का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Common Beginner Oriented Language (कॉमन बिगिनर ओरिएंटेड लैंग्वेज)",
+      "2. Common Business Object Language (कॉमन बिज़नेस ऑब्जेक्ट लैंग्वेज)",
+      "3. Complementary Business Oriented Language (कॉम्प्लिमेंटरी बिज़नेस ओरिएंटेड लैंग्वेज)",
+      "4. Common Business Oriented Language (कॉमन बिज़नेस ओरिएंटेड लैंग्वेज)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "______ flash is most often used in applications where individual bytes of data need to be written and read, and is most often used where random access and execute-in place access techniques are required.",
+    "options": [
+      "1. NOR",
+      "2. SRAM",
+      "3. DRAM",
+      "4. RAM"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ फ्लैश का इस्तेमाल अक्सर उन एप्लिकेशनों में किया जाता है जहां डेटा के अलग-अलग बाइट्स को लिखने और पढ़ने की ज़रूरत होती है, और इसका इस्तेमाल अक्सर वहां किया जाता है जहां रैंडम एक्सेस और एग्जीक्यूट-इन-प्लेस एक्सेस टेक्नीक की ज़रूरत होती है।",
+    "options": [
+      "1. NOR",
+      "2. SRAM",
+      "3. DRAM",
+      "4. RAM"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "On-the-Go (OTG) flash drive adapters are typically used for:",
+    "options": [
+      "1. servers",
+      "2. internet",
+      "3. PCs",
+      "4. phones"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "On‑the‑Go (OTG) फ़्लैश ड्रा इव एडेप्टर सामान्यतः किसके लिए उपयोग किए जाते हैं?",
+    "options": [
+      "1. सर्वर (servers)",
+      "2. इंटरनेट (internet)",
+      "3. पर्सनल कंप्यूटर (PCs)",
+      "4. फ़ोन (phones)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Early Internet access required that each subscriber dial up from the PC to a bank of ______, which in turn were connected to the Internet.",
+    "options": [
+      "1. Real Access System",
+      "2. Remote Active System",
+      "3. Remote Access Servers",
+      "4. Real Active Servers"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "प्रारंभिक इंटरनेट एक्सेस के लिए यह आवश्यक था कि प्रत्येक सब्सक्राइबर अपने पीसी से ______ के एक समूह (बैंक) तक डायल‑अप करे, जो आगे इंटरनेट से जुड़े होते थे।",
+    "options": [
+      "1. रियल एक्सेस सिस्टम",
+      "2. रिमोट एक्टिव सिस्टम",
+      "3. रिमोट एक्सेस सर्वर",
+      "4. रियल एक्टिव सर्वर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The Data Encryption Standard (DES) is a _____ block cipher.",
+    "options": [
+      "1. asymmetric-key",
+      "2. irsymmetric-key",
+      "3. symmetric-key",
+      "4. unsymmetric-key"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Data Encryption Standard (DES) एक ________ ब्लॉक सिफर है।",
+    "options": [
+      "1. असिमेट्रिक‑की (asymmetric-key)",
+      "2. इरसमेट्रिक‑की (irsymmetric-key)",
+      "3. सिमेट्रिक‑की (symmetric-key)",
+      "4. अनसिमेट्रिक‑की (unsymmetric-key)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following actions is performed when a user presses Ctrl + Alt + Delete in Windows 10 OS?",
+    "options": [
+      "1. Opens the Task Manager and security options",
+      "2. Deletes the selected file permanently",
+      "3. Restarts the computer immediately",
+      "4. Closes the currently open application"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "जब कोई उपयोगकर्ता Windows 10 ऑपरेटिंग सिस्टम में, Ctrl + Alt + Delete दबाता है, तो निम्न में से कौन‑सी क्रिया होती है?",
+    "options": [
+      "1. Task Manager और security options खुल जाता है",
+      "2. चयनित फ़ाइल स्थायी रूप से डिलीट हो जाती है",
+      "3. कंप्यूटर तुरंत रीस्टार्ट हो जाता है",
+      "4. वर्तमान में खुला एप्लिकेशन बंद हो जाता है"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What causes CPU to overheat?",
+    "options": [
+      "1. Overclocking",
+      "2. Overwatching",
+      "3. Underclocking",
+      "4. Underwatching"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "CPU के अत्यधिक गर्म होने का कारण क्या होता है?",
+    "options": [
+      "1. ओवरक्लॉकिंग",
+      "2. ओवरवाचिंग",
+      "3. अंडरक्लॉकिंग",
+      "4. अंडरवाचिंग"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "How to change the height of the taskbar in windows 10 OS?",
+    "options": [
+      "1. Double click on the taskbar",
+      "2. Click on Maximize button of the taskbar",
+      "3. Unlock the taskbar → Drag using the mouse (double-headed arrow option)",
+      "4. Enter the height value in the taskbar properties"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "विंडोज 10 OS में, टास्कबार की ऊंचाई कैसे बदली जा सकती है?",
+    "options": [
+      "1. टास्कबार पर डबल क्लिक करके",
+      "2. टास्कबार के मैक्सिमाइज़ बटन पर क्लिक करके",
+      "3. टास्कबार अनलॉक करें → माउस के उपयोग से ड्रैग करें (डबल-हेडेड एरो विकल्प)",
+      "4. टास्कबार प्रॉपर्टीज़ में लंबाई का मान एंटर करके"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The computer programs that allocate the system resources and coordinate all the details of the computer's internal is called the:",
+    "options": [
+      "1. user interface",
+      "2. command line interpreter",
+      "3. MS-Office",
+      "4. operating system"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "वे कंप्यूटर प्रोग्राम जो सिस्टम संसाधनों का आवंटन करते हैं और कंप्यूटर के आंतरिक कार्यों के सभी विवरणों का समन्वय करते हैं, उन्हें क्या कहा जाता है?",
+    "options": [
+      "1. यूजर इंटरफ़ेस (User interface)",
+      "2. कमांड लाइन इंटरप्रेटर (Command line interpreter)",
+      "3. एम.एस.-ऑफ़िस (MS‑Office)",
+      "4. ऑपरेटिंग सिस्टम (Operating system)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A ______ file is a program file or script written in Python, an interpreted object-oriented programming language.",
+    "options": [
+      "1. .py",
+      "2. .yp",
+      "3. .program",
+      "4. .compiler"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एक ______ फ़ाइल, ऐसी एक प्रोग्राम फ़ाइल या स्क्रिप्ट है जो Python में लिखी जाती है, जोकि एक इंटरप्रेटेड ऑब्जेक्ट-ओरिएंटेड प्रोग्रामिंग भाषा है।",
+    "options": [
+      "1. .py",
+      "2. .yp",
+      "3. .program",
+      "4. .compiler"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following commands will be used to create a new directory in Linux?",
+    "options": [
+      "1. mk",
+      "2. ck",
+      "3. mkdir",
+      "4. CD"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "लिनक्स (Linux) में, नई डायरेक्टरी बनाने के लिए निम्न में से किस कमांड का उपयोग किया जाएगा?",
+    "options": [
+      "1. mk",
+      "2. ck",
+      "3. mkdir",
+      "4. CD"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "ROM, which stands for read only memory, is a memory device or storage medium that stores information ______.",
+    "options": [
+      "1. for long-term, non-volatile storage",
+      "2. for frequent temporary use",
+      "3. only while the power is on",
+      "4. for short-term processing tasks"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "ROM, जिसका पूर्ण रूप Read Only Memory है, एक मेमोरी डिवाइस या संग्रहण माध्यम है, जो जानकारी को __________ संग्रहीत करता है।",
+    "options": [
+      "1. दीर्घकालिक, नॉन‑वोलेटाइल स्टोरेज के लिए",
+      "2. बार‑बार अस्थायी उपयोग के लिए",
+      "3. केवल तब जब बिजली चालू हो",
+      "4. अल्पकालिक प्रोसेसिंग कार्यों के लिए"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "If you are referring to the File Structure, then what does DAG stand for:",
+    "options": [
+      "1. Diluted Acyclic Graph",
+      "2. Directed Acyclic Graph",
+      "3. Distributed Acyclic Graph",
+      "4. Diminishing Acyclic Graph"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "फ़ाइल संरचना (File Structure) के संदर्भ में, DAG का पूर्ण रूप क्या होता है?",
+    "options": [
+      "1. Diluted Acyclic Graph (डायल्यूटेड एसाइक्लिक ग्राफ)",
+      "2. Directed Acyclic Graph (डायरेक्टेड एसाइक्लिक ग्राफ)",
+      "3. Distributed Acyclic Graph (डिस्ट्रिब्यूटेड एसाइक्लिक ग्राफ)",
+      "4. Diminishing Acyclic Graph (डिमिनिशिंग एसाइक्लिक ग्राफ)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Choose a lossy image compression technique.",
+    "options": [
+      "1. Run Length Encoding",
+      "2. LZW",
+      "3. Transform Coding",
+      "4. Huffman Coding"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "गुणवत्ता घटाने वाली (lossy) इमेज कम्प्रेशन तकनीक चुनिए।",
+    "options": [
+      "1. रन लेंथ एन्कोडिंग (Run Length Encoding)",
+      "2. एल.ज़ेड.डब्ल्यू (LZW)",
+      "3. ट्रांसफॉर्म कोडिंग (Transform Coding)",
+      "4. हफ़मैन कोडिंग (Huffman Coding)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is NOT an Optical Media?",
+    "options": [
+      "1. DVD",
+      "2. CD",
+      "3. Hard Disk",
+      "4. Blu-Ray Disk"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा एक ऑप्टिकल मीडिया नहीं है?",
+    "options": [
+      "1. DVD",
+      "2. CD",
+      "3. हार्ड डिस्क",
+      "4. ब्लू-रे डिस्क"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What does HDMI stand for?",
+    "options": [
+      "1. High Definition Multimedia Interface",
+      "2. High Definition Multimedia Installer",
+      "3. High Dimension Multimedia Interface",
+      "4. High Dimension Multimedia Installer"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "HDMI का पूर्ण रूप क्या है?",
+    "options": [
+      "1. High Definition Multimedia Interface (हाई डेफिनीशन मल्टीमीडिया इंटरफ़ेस)",
+      "2. High Definition Multimedia Installer (हाई डेफिनीशन मल्टीमीडिया इंस्टॉलर)",
+      "3. High Dimension Multimedia Interface (हाई डायमेंशन मल्टीमीडिया इंटरफ़ेस)",
+      "4. High Dimension Multimedia Installer (हाई डायमेंशन मल्टीमीडिया इंस्टॉलर)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT an application software?",
+    "options": [
+      "1. Operating System",
+      "2. Tableau",
+      "3. Spreadsheet",
+      "4. Presentation"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा एक एप्लीकेशन सॉफ्टवेयर नहीं है?",
+    "options": [
+      "1. ऑपरेटिंग सिस्टम (Operating System)",
+      "2. टेब्लो (Tableau)",
+      "3. स्प्रेडशीट (Spreadsheet)",
+      "4. प्रेजेंटेजेंटेशन (Presentation)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a DDL command?",
+    "options": [
+      "1. INSERT",
+      "2. MERGE",
+      "3. CREATE",
+      "4. UPDATE"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सी DDL कमांड है?",
+    "options": [
+      "1. INSERT",
+      "2. MERGE",
+      "3. CREATE",
+      "4. UPDATE"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following terms will be applied to the collection of all web pages such as Amazon.com?",
+    "options": [
+      "1. Top-level domain",
+      "2. Website",
+      "3. Website address",
+      "4. Web domain"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Amazon.com जैसे सभी वेब पेजों के संग्रह के लिए निम्नलिखित में से कौन‑सा शब्द प्रयुक्त होता है?",
+    "options": [
+      "1. शीर्ष‑स्तरीय डोमेन (Top-level domain)",
+      "2. वेबसाइट (Website)",
+      "3. वेबसाइट पता (Website address)",
+      "4. वेब डोमेन (Web domain)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The home page (index.html) of a website is typically stored in the ______ directory of the web server. Most web servers allow the home page to have different default filenames.",
+    "options": [
+      "1. root",
+      "2. last",
+      "3. image",
+      "4. video"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "किसी वेबसाइट का होम पेज (index.html) आमतौर पर वेब सर्वर की ________ डायरेक्टरी में स्टोर होता है। ज़्यादातर वेब सर्वर होम पेज के लिए अलग-अलग डिफ़ॉल्ट फ़ाइलनेम रखने की सुविधा देते हैं।",
+    "options": [
+      "1. रूट",
+      "2. लास्ट",
+      "3. इमेज",
+      "4. वीडियो"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "________ is a message that is distributed by electronic means from one computer user to one or more recipients via a network.",
+    "options": [
+      "1. E-mail",
+      "2. FTP",
+      "3. Browsing",
+      "4. TCP"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "________ एक संदेश है, जो इलेक्ट्रॉ निक माध्यम से एक कंप्यूटर उपयोगकर्ता से नेटवर्क के जरिए एक या अधिक प्राप्तकर्ताओं को वितरित किया जाता है।",
+    "options": [
+      "1. ई-मेल",
+      "2. FTP",
+      "3. ब्राउज़िंग",
+      "4. TCP"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "____ is a term coined for unwanted and unsolicited email.",
+    "options": [
+      "1. Spam",
+      "2. Trash",
+      "3. Flame",
+      "4. Web"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "\"_______\", अवांछित और अनचाहे ई-मेल के लिए निर्दिष्ट एक शब्द है।",
+    "options": [
+      "1. स्पैम (Spam)",
+      "2. ट्रैश (Trash)",
+      "3. फ्लेम (Flame)",
+      "4. वेब (Web)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "________ are discussion groups located on commercial online services.",
+    "options": [
+      "1. Forums",
+      "2. Interactive whiteboard",
+      "3. News list",
+      "4. Content list"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "________, वाणिज्यिक ऑनलाइन सेवाओं पर स्थित चर्चा समूह हैं।",
+    "options": [
+      "1. फोरम (Forums)",
+      "2. इंटरैक्टिव व्हाइटबोर्ड (Interactive whiteboard)",
+      "3. समाचार सूची (News list)",
+      "4. वस्तु-सामग्री सूची (Content list)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ is an Indigenously developed Payment System – designed to meet the expectation and needs of the Indian consumer, banks and merchant eco-system.",
+    "options": [
+      "1. RuPay",
+      "2. VISA",
+      "3. Mastercard",
+      "4. MUDRA"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_______ एक स्वदेशी रूप से विकसित भुगतान प्रणाली है - जिसे भारतीय उपभोक्ता, बैंकों और मर्चेंट इको-सिस्टम की अपेक्षाओं और आवश्यकताओं को पूरा करने के लिए डिज़ाइन किया गया है।",
+    "options": [
+      "1. RuPay",
+      "2. VISA",
+      "3. Mastercard",
+      "4. MUDRA"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a compression tool?",
+    "options": [
+      "1. WinZip",
+      "2. Deflaggler",
+      "3. Razer Cortex",
+      "4. EaseUS"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से कौन-सा, एक संपीड़न (कम्प्रेशन) टूल है?",
+    "options": [
+      "1. WinZip",
+      "2. Deflaggler",
+      "3. Razer Cortex",
+      "4. EaseUS"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Disk Management is utility first introduced in Window XP as a replacement of the ______ command.",
+    "options": [
+      "1. CHKDSK",
+      "2. FORMAT",
+      "3. SCANDISK",
+      "4. FDISK"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "डिस्क मैनेजमेंट एक यूटिलिटी है जिसे सबसे पहले Windows XP में ______ कमांड के स्थानापन्न के तौर पर लाया गया था।",
+    "options": [
+      "1. CHKDSK",
+      "2. FORMAT",
+      "3. SCANDISK",
+      "4. FDISK"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Gopher and Very Easy Rodent Oriented Netwide Index to Computer Archives (VERONICA) are examples of:",
+    "options": [
+      "1. web services",
+      "2. World Wide Web",
+      "3. information retrieval services",
+      "4. communication services"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Gopher और Very Easy Rodent Oriented Netwide Index to Computer Archives (VERONICA) निम्नलिखित में से किसके उदाहरण हैं?",
+    "options": [
+      "1. वेब सेवा",
+      "2. वर्ल्ड वाइड वेब",
+      "3. सूचना पुनर्प्राप्ति सेवा",
+      "4. संचार सेवा"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "_________ operating system does NOT interact with the computer directly.",
+    "options": [
+      "1. Batch",
+      "2. Time-sharing",
+      "3. Distributed",
+      "4. Network"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_________ ऑपरेटिंग सिस्टम सीधे कंप्यूटर से इंटरैक्ट नहीं करता है।",
+    "options": [
+      "1. बैच (Batch)",
+      "2. टाईम-शेयरिंग (Time-sharing)",
+      "3. डिस्ट्री ब्यूटेड (Distributed)",
+      "4. नेटवर्क (Network)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT an example of a network operating system?",
+    "options": [
+      "1. MS-DOS",
+      "2. Windows Server 2008",
+      "3. Unix",
+      "4. Linux"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से कौन-सा, नेटवर्क ऑपरेटिंग सिस्टम का उदाहरण नहीं है?",
+    "options": [
+      "1. MS-DOS",
+      "2. Windows Server 2008",
+      "3. यूनिक्स (Unix)",
+      "4. लिनक्स (Linux)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A(An) ______ is a standard language for specifying, visualizing, constructing, and documenting the artifacts of software systems.",
+    "options": [
+      "1. Unchecked Modeling Language",
+      "2. Unified Math Language",
+      "3. Unified Modeling Language",
+      "4. Unified Modeling List"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "सॉफ़्टवेयर प्रणालियों के आर्टिफ़ैक्ट्स को निर्दिष्ट (specify), दृश्यात्मक (visualize), निर्मित (construct) और प्रलेखित (document) करने के लिए उपयोग की जाने वाली एक मानक भाषा को ______ कहा जाता है।",
+    "options": [
+      "1. अनचेक्ड मॉडलिंग लैंग्वेज (Unchecked Modeling Language)",
+      "2. यूनिफ़ाइड मैथ लैंग्वेज (Unified Math Language)",
+      "3. यूनिफ़ाइड मॉडलिंग लैंग्वेज (Unified Modeling Language)",
+      "4. यूनिफ़ाइड मॉडलिंग लिस्ट (Unified Modeling List)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The ______ software makes it safer for your computer to download/upload files and helps you avoid malware and viruses.",
+    "options": [
+      "1. antivirus",
+      "2. finder",
+      "3. trojan",
+      "4. malware"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा सॉफ़्टवेयर आपके कंप्यूटर के लिए फ़ाइलों को डाउनलोड/अपलोड करना सुरक्षित बनाता है तथा उसे मालवेयर और वायरस से बचाने में आपकी सहायता करता है?",
+    "options": [
+      "1. एंटीवायरस (antivirus)",
+      "2. फ़ाइंडर (finder)",
+      "3. ट्रोजन (trojan)",
+      "4. मैलवेयर (malware)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The __________function is used in MS-Excel 2019 for adding all the values in a list and then dividing by the number of values listed.",
+    "options": [
+      "1. AutoSum",
+      "2. AVERAGE",
+      "3. SUM",
+      "4. TOTAL"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एमएस-एक्सेल 2019 में, _______ फ़ंक्शन का उपयोग किसी सूची में मौजूद सभी मानों को जोड़ने और फिर सूची में मौजूद मानों की संख्या से भाग देने के लिए किया जाता है।",
+    "options": [
+      "1. AutoSum",
+      "2. AVERAGE",
+      "3. SUM",
+      "4. TOTAL"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In MS‑Excel 2019, which function is used to perform conditional decision‑making such that one result is returned when a condition is true and another result is returned when the condition is false (for example, if a student passes, display “Pass”; otherwise, display “Fail”)?",
+    "options": [
+      "1. COMPARE",
+      "2. IF",
+      "3. IFS",
+      "4. IF..THEN"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS‑Excel 2019 में वह कौन‑सा फ़ंक्शन उपयोग किया जाता है जो शर्त आधारित निर्णय लेने के लिए प्रयुक्त होता है, जिसमें शर्त सत्य होने पर एक परिणाम तथा शर्त असत्य होने पर दूसरा परिणाम प्राप्त होता है (उदाहरण के लिए, यदि कोई छात्र उत्तीर्ण होता है तो “Pass” प्रदर्शित करें; अन्यथा “Fail” प्रदर्शित करें)?",
+    "options": [
+      "1. COMPARE",
+      "2. IF",
+      "3. IFS",
+      "4. IF..THEN"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The keyboard shortcut __________ is used to open the Insert hyperlink dialog box in MS-Excel 2019.",
+    "options": [
+      "1. Alt + K",
+      "2. Shift + K",
+      "3. Ctrl + K",
+      "4. Shift + Alt + K"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel 2019 में, इन्सर्ट हाइपरलिंक डायलॉग बॉक्स खोलने के लिए कीबोर्ड शॉर्टकट ________ का उपयोग किया जाता है।",
+    "options": [
+      "1. Alt + K",
+      "2. Shift + K",
+      "3. Ctrl + K",
+      "4. Shift + Alt + K"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A pivot table in MS-Excel 2019 is used to:",
+    "options": [
+      "1. sort data",
+      "2. autofill data",
+      "3. calculate, summarise and analyse data",
+      "4. format data"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel 2019 में, पिवट टेबल (pivot table) का उपयोग _________ करने के लिए किया जाता है।",
+    "options": [
+      "1. डेटा को सॉर्ट (sort)",
+      "2. डेटा को ऑटोफिल (autofill)",
+      "3. डेटा की गणना (calculate), सारांश (summarise) और विश्लेषण (analyse)",
+      "4. डेटा को फॉर्मेट (format)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The hexadecimal equivalent for decimal 107 is:",
+    "options": [
+      "1. 5A",
+      "2. 6B",
+      "3. 6C",
+      "4. 5D"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "दशमलव 107 के लिए षोडश आधारी (हेक्साडेसिमल) समतुल्य ________ है।",
+    "options": [
+      "1. 5A",
+      "2. 6B",
+      "3. 6C",
+      "4. 5D"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The keyboard shortcut ________ is used to hide columns in MS-Excel 2019.",
+    "options": [
+      "1. Ctrl + 9",
+      "2. Ctrl + 0",
+      "3. Ctrl + 8",
+      "4. Ctrl + 7"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 में, कॉलम्स छिपाने के लिए कीबोर्ड शॉर्टकट _________ का उपयोग किया जाता है।",
+    "options": [
+      "1. Ctrl + 9",
+      "2. Ctrl + 0",
+      "3. Ctrl + 8",
+      "4. Ctrl + 7"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following file extensions is commonly used for a markup language file?",
+    "options": [
+      "1. .xml",
+      "2. .txt",
+      "3. .doc",
+      "4. .bat"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "इनमें से कौन-सा फ़ाइल एक्सटेंशन आमतौर पर मार्कअप लैंग्वेज फ़ाइल के लिए इस्तेमाल किया जाता है?",
+    "options": [
+      "1. .xml",
+      "2. .txt",
+      "3. .doc",
+      "4. .bat"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "With the help of the ________feature in MS-Excel 2019, we can quickly complete a series of data.",
+    "options": [
+      "1. Auto Fill",
+      "2. Auto Format",
+      "3. Pivot table",
+      "4. Chart"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में, _________फीचर की मदद से, हम डेटा सीरीज़ को शीघ्रता से पूरा कर सकते हैं।",
+    "options": [
+      "1. ऑटो फिल (Auto Fill)",
+      "2. ऑटो फॉर्मेट (Auto Format)",
+      "3. पिवट टेबल (Pivot table)",
+      "4. चार्ट (Chart)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The ________function key is used to run a spell check in MS-Excel 2019.",
+    "options": [
+      "1. F11",
+      "2. F8",
+      "3. F7",
+      "4. F6"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel 2019 में, स्पेल चेक रन करने के लिए ________ फंक्शन कुंजी (function key) का उपयोग किया जाता है।",
+    "options": [
+      "1. F11",
+      "2. F8",
+      "3. F7",
+      "4. F6"
+    ],
+    "answer": 2
+  }
+],
+
 "13th March 2026 - Shift1": [
   {
     "q": "IBM 1401 is a ______ generation computer.",
