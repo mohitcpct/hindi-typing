@@ -1,5 +1,1048 @@
  const questionBank26 = {
 
+  "9th May 2026 - Shift1": [
+  {
+    "q": "Which of the following is an invalid characteristic of a computer?",
+    "options": [
+      "1. Memory",
+      "2. Speed",
+      "3. Versatility",
+      "4. IQ"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से कौन-सी, कंप्यूटर की अमान्य विशेषता है?",
+    "options": [
+      "1. मेमोरी (Memory)",
+      "2. स्पीड (Speed)",
+      "3. बहुउपयोगिता (Versatility)",
+      "4. आईक्यू (IQ)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "By default, MS-EXCEL 2019 contains how many columns?",
+    "options": [
+      "1.   256",
+      "2.   512",
+      "3.   5012",
+      "4.   16384"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "डिफ़ॉल्ट रूप से, MS Excel 2019 में कितने कॉलम होते हैं?",
+    "options": [
+      "1.   256",
+      "2.   512",
+      "3.   5012",
+      "4.   16384"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is the shortcut key combination to display context help in an OpenOffice Calc?",
+    "options": [
+      "1. Shift+F2",
+      "2. Shift+F1",
+      "3. F1",
+      "4. Shift+F11"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ओपन ऑफ़िस कैल्क (open office Calc) में कांटेक्स्ट हेल्प (context help) डिस्प्ले करने के लिए शॉर्टकट कुंजी संयोजन क्या है?",
+    "options": [
+      "1. Shift+F2",
+      "2. Shift+F1",
+      "3. F1",
+      "4. Shift+F11"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "During processing data, programs and processed information are held temporarily in ______.",
+    "options": [
+      "1. secondary storage",
+      "2. ROM",
+      "3. RAM",
+      "4. CPU"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "डेटा प्रोसेसिंग के दौरान, प्रोग्राम और प्रोसेस की जानेवाली जानकारी अस्थायी रूप से ______ में रखी जाती है।",
+    "options": [
+      "1. सेकंडरी स्टोरेज (secondary storage)",
+      "2. रोम (ROM)",
+      "3. रैम (RAM)",
+      "4. सीपीयू (CPU)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following satisfies the constraints for a good root password in Fedora?",
+    "options": [
+      "1. abcdefg",
+      "2. 12345",
+      "3. HL8$391%%rb",
+      "4. abc123"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, फेडोरा (Fedora) में एक अच्छे रूट पासवर्ड के लिए बाध्यताओं को परिपूर्ण करता है?",
+    "options": [
+      "1. abcdefg",
+      "2. 12345",
+      "3. HL8$391%%rb",
+      "4. abc123"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Choose the binary equivalent of the hexadecimal number C.",
+    "options": [
+      "1. 1100",
+      "2. 1010",
+      "3. 1000",
+      "4. 1001"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "हेक्साडेसिमल संख्या C का बाइनरी समतुल्य चुनें।",
+    "options": [
+      "1. 1100",
+      "2. 1010",
+      "3. 1000",
+      "4. 1001"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_______ is a machine-readable code consisting of an array of black and white squares, typically used for storing URLs or other information for reading by the camera on a smartphone.",
+    "options": [
+      "1. AlphaNumeric Code",
+      "2. C Program",
+      "3. QR Code",
+      "4. Assembly Code"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "_______ एक मशीन रीडेबल कोड है, जो काले और सफेद वर्गों की सरणी (array) से बना होता है, और आमतौर पर स्मार्टफ़ोन के कैमरे द्वारा रीड करने के लिए URL या अन्य जानकारी संग्रहित करने में उपयोग किया जाता है।",
+    "options": [
+      "1. अल्फ़ान्यूमेरिक कोड (AlphaNumeric Code)",
+      "2. सी प्रोग्राम (C Program)",
+      "3. क्यूआर कोड (QR Code)",
+      "4. असेंबली कोड (Assembly Code)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A group of ______ bits is called a byte.",
+    "options": [
+      "1. 100",
+      "2. 4",
+      "3. 6",
+      "4. 8"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "______ बिट का समूह, बाइट कहलाती है।",
+    "options": [
+      "1. 100",
+      "2. 4",
+      "3. 6",
+      "4. 8"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "It is preferable to use a plotter when we need ______.",
+    "options": [
+      "1. to save large documents",
+      "2. to play mp4 video clip",
+      "3. to take big canvas prints",
+      "4. to provide good visual effects"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "जब हमें ______ की आवश्यकता होती है, तब प्लॉटर का उपयोग करना अधिक उपयुक्त होता है।",
+    "options": [
+      "1. बड़े दस्तावेज़ों को सुरक्षित रखने",
+      "2. MP4 वीडियो क्लिप चलाने",
+      "3. बड़े आकार के कैनवास प्रिंट निकालने",
+      "4. अच्छे दृश्य प्रभाव प्रदान करने"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Printers that prints only one character at one time are called ______.",
+    "options": [
+      "1. forest liner",
+      "2. line and page printer",
+      "3. series printer",
+      "4. serial printer"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "वे प्रिंटर जो एक समय में केवल एक ही कैरक्टर प्रिंट करते हैं, ______ कहलाते हैं।",
+    "options": [
+      "1. फॉरेस्ट लाइनर",
+      "2. लाइन एंड पेज प्रिंटर",
+      "3. सीरीज प्रिंटर",
+      "4. सीरियल प्रिंटर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Membranes in drums and diaphragms in telephone and ______ systems vibrate about their mean positions.",
+    "options": [
+      "1. sitar",
+      "2. guitar",
+      "3. speaker",
+      "4. violin"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "ड्रम में लगी झिल्लियाँ तथा टेलीफोन और _______ सिस्टम में लगे डायफ्राम अपने माध्य स्थान के आसपास कंपन करते हैं।",
+    "options": [
+      "1. सितार",
+      "2. गिटार",
+      "3. स्पीकर",
+      "4. वायलिन"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In computing, the specification of a motherboards such as shapes and size is called:",
+    "options": [
+      "1. case factor",
+      "2. features",
+      "3. form factor",
+      "4. chipset factor"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "कंप्यूटिंग में, मदरबोर्ड के शेप और साइज जैसे स्पेसिफिकेशन को क्या कहा जाता है?",
+    "options": [
+      "1. केस फैक्टर",
+      "2. फीचर्स",
+      "3. फॉर्म फैक्टर",
+      "4. चिपसेट फैक्टर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Choose the octal equivalent of the decimal number 9.",
+    "options": [
+      "1. 11",
+      "2. 12",
+      "3. 21",
+      "4. 111"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "डेसिमल संख्या 9 का ऑक्टल समतुल्य चुनें।",
+    "options": [
+      "1. 11",
+      "2. 12",
+      "3. 21",
+      "4. 111"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In flash memory, data is stored:",
+    "options": [
+      "1. magnetically",
+      "2. electrically",
+      "3. physically",
+      "4. electronically"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "फ़्लैश मेमोरी में डेटा कैसे संग्रहीत किया जाता है?",
+    "options": [
+      "1. चुम्बकीय रूप से (magnetically)",
+      "2. विद्युत रूप से (electrically)",
+      "3. भौतिक रूप से (physically)",
+      "4. इलेक्ट्रॉनिक रूप से (electronically)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following standards is used by memory cards for applications like pre-paid telephone cards?",
+    "options": [
+      "1. ISO/IEC 7816 Part 3 and 4",
+      "2. ISO/IEC 7816 Part 4 and 5",
+      "3. ISO/IEC 7816 Part 10",
+      "4. ISO/IEC 7816 Part 1 and 2"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "प्री-पेड टेलीफोन कार्ड जैसे एप्लीकेशन के लिए मेमोरी कार्ड द्वारा निम्नलिखित में से किस मानक का इस्तेमाल किया जाता है?",
+    "options": [
+      "1. ISO/IEC 7816 भाग 3 और 4",
+      "2. ISO/IEC 7816 भाग 4 और 5",
+      "3. ISO/IEC 7816 भाग 10",
+      "4. ISO/IEC 7816 भाग 1 और 2"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the advantage of the web cache feature of any web browser?",
+    "options": [
+      "1. It helps the users to remember web page contents.",
+      "2. It helps to download the same page fully.",
+      "3. The user does not have to download the web page again.",
+      "4. It provides up-to-date information."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "किसी भी वेब ब्राउज़र के वेब कैश फ़ीचर का लाभ क्या है?",
+    "options": [
+      "1. यह उपयोगकर्ताओं को वेब पेज के कंटेंट को याद रखने में मदद करता है।",
+      "2. यह एक ही पेज को पूर्ण रूप से से डाउनलोड करने में मदद करता है।",
+      "3. उपयोगकर्ता को वेब पेज को फिर से डाउनलोड नहीं करना पड़ता है।",
+      "4. यह अद्यतन जानकारी प्रदान करता है।"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Secret key encryption is ______ because the same key is used to encrypt plaintext into ciphertext and decrypt that ciphertext back into plaintext.",
+    "options": [
+      "1. symmetric",
+      "2. assymetric",
+      "3. isometric",
+      "4. isomorphic"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "सीक्रेट कुंजी एन्क्रिप्शन ______ होता है क्योंकि प्लेनटेक्स्ट को सिफरटेक्स्ट में एन्क्रिप्ट करने और उस सिफरटेक्स्ट को वापस प्लेनटेक्स्ट में डिक्रिप्ट करने के लिए एक ही कुंजी का उपयोग किया जाता है।",
+    "options": [
+      "1. सिमेट्रिक (symmetric)",
+      "2. असिमेट्रिक (assymetric)",
+      "3. इसोमेट्रिक (isometric)",
+      "4. इसोमोर्फिक (isomorphic)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following applications use Webcam?",
+    "options": [
+      "1. Instant messaging using text messages",
+      "2. Creating spreadsheets using office software",
+      "3. Online face-to-face video communication",
+      "4. Recording audio only"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से किस अनुप्रयोग में वेबकैम का उपयोग किया जाता है?",
+    "options": [
+      "1. टेक्स्ट मैसेज का उपयोग करके इंस्टेंट मैसेजिंग",
+      "2. ऑफिस सॉफ़्टवेयर का उपयोग करके स्प्रेडशीट बनाना",
+      "3. ऑनलाइन आमने‑सामने वीडियो संचार",
+      "4. केवल ऑडियो रिकॉर्ड करना"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is NOT true about overclocking of CPU?",
+    "options": [
+      "1. It increases its performance.",
+      "2. It reduces its life span.",
+      "3. It overheats the CPU.",
+      "4. It overcools the CPU."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "CPU की ओवरक्लॉकिंग के संबंध में निम्नलिखित में से कौन सा कथन सही नहीं है?",
+    "options": [
+      "1. यह इसके प्रदर्शन को बढ़ाता है।",
+      "2. यह इसके जीवन काल को कम करता है।",
+      "3. यह CPU को अत्यधिक गर्म कर देता है।",
+      "4. यह CPU को अत्यधिक ठंडा कर देता है।"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "dll(DLL) files stand for:",
+    "options": [
+      "1. Double link library",
+      "2. Dynamic link library",
+      "3. Double link list",
+      "4. Dynamic link list"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "dll(DLL) फ़ाइल का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Double link library (डबल लिंक लाइब्रेरी)",
+      "2. Dynamic link library (डायनेमिक लिंक लाइब्रेरी)",
+      "3. Double link list (डबल लिंक लिस्ट)",
+      "4. Dynamic link list (डायनेमिक लिंक लिस्ट)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In Linux, users communicate with the Kernel through a program known as the:",
+    "options": [
+      "1. Shell",
+      "2. Bash",
+      "3. dos",
+      "4. Command prompt"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Linux में, उपयोगकर्ता कर्नेल से एक प्रोग्राम के माध्यम से संवाद करते हैं, जिसे ______ कहा जाता है।",
+    "options": [
+      "1. शेल (Shell)",
+      "2. बाश (Bash)",
+      "3. डॉस (dos)",
+      "4. कमांड प्रॉम्प्ट (Command prompt)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following file formats is primarily used for storing images with lossless compression?",
+    "options": [
+      "1. PNG",
+      "2. MP3",
+      "3. PDF",
+      "4. DOCX"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन‑सा फ़ाइल फ़ॉर्मेट मुख्य रूप से लॉसलेस कंप्रेशन (Lossless Compression) के साथ इमेज को संग्रहीत करने के लिए उपयोग किया जाता है?",
+    "options": [
+      "1. PNG",
+      "2. MP3",
+      "3. PDF",
+      "4. DOCX"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ (called a \"man page\") used by the Unix Man utility has an extension of .man.",
+    "options": [
+      "1. Help Manual",
+      "2. Main Program",
+      "3. Mandatory File",
+      "4. Installation file"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ (जिसे \"man page\" कहा जाता है) यूनिक्स मैन यूटिलिटी द्वारा उपयोग किया जाता है, इसका एक्सटेंशन .man है।",
+    "options": [
+      "1. हेल्प मैनुअल (Help Manual)",
+      "2. मेन प्रोग्राम (Main Program)",
+      "3. मैंडेटरी फ़ाइल (Mandatory File)",
+      "4. इंस्टालेशन फ़ाइल (Installation file)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ is commonly used entropy coding scheme.",
+    "options": [
+      "1. Huffman coding",
+      "2. Newton coding",
+      "3. Johnson coding",
+      "4. Tapman coding"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ सामान्यतः उपयोग की जाने वाली एंट्रॉ पी कोडिंग योजना है।",
+    "options": [
+      "1. हफ़मैन कोडिंग",
+      "2. न्यूटन कोडिंग",
+      "3. जॉनसन कोडिंग",
+      "4. टेपमैन कोडिंग"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ is a standard that defines how to establish and maintain a network conversation by which applications can exchange data.",
+    "options": [
+      "1. FTP",
+      "2. HTTP",
+      "3. SMTP",
+      "4. TCP"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "________ एक मानक है जो परिभाषित करता है कि नेटवर्क कन्वर्सेशन को कैसे स्थापित और बनाए रखा जाए जिसके द्वारा एप्लिकेशन डेटा का आदान-प्रदान कर सकें।",
+    "options": [
+      "1. FTP",
+      "2. HTTP",
+      "3. SMTP",
+      "4. TCP"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Dilation ______ pixels to the boundaries of objects in an image, while erosion ______ pixels on object boundaries.",
+    "options": [
+      "1. adds, removes",
+      "2. removes, adds",
+      "3. compresses, duplicates",
+      "4. rotates, shifts"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "डाइलेशन (Dilation) किसी इमेज में वस्तुओं की सीमाओं पर पिक्सेल ______, जबकि इरोजन (Erosion) वस्तुओं की सीमाओं से पिक्सेल ______।",
+    "options": [
+      "1. जोड़ता है, हटाता है",
+      "2. हटाता है, जोड़ता है",
+      "3. संपीड़ित करता है, प्रतिलिपि बनाता है",
+      "4. घुमाता है, स्थानांतरित करता है"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the full form of JPG/JPEG?",
+    "options": [
+      "1. Joint Photographic Experts Group",
+      "2. Joint Picture Experts Group",
+      "3. Joint Photographic Experts Graph",
+      "4. Joint Picture Experts Graph"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "JPG/JPEG का पूर्ण रूप क्या है?",
+    "options": [
+      "1. जॉइंट फ़ोटोग्राफ़िक एक्सपर्ट्स ग्रुप (Joint Photographic Experts Group)",
+      "2. जॉइंट पिक्चर एक्सपर्ट्स ग्रुप (Joint Picture Experts Group)",
+      "3. जॉइंट फ़ोटोग्राफ़िक एक्सपर्ट्स ग्राफ़ (Joint Photographic Experts Graph)",
+      "4. जॉइंट पिक्चर एक्सपर्ट्स ग्राफ़ (Joint Picture Experts Graph)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a peripheral device?",
+    "options": [
+      "1. Printer",
+      "2. ROM",
+      "3. Motherboard",
+      "4. System Bus"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से कौन-सा एक पेरिफेरल डिवाइस है?",
+    "options": [
+      "1. प्रिंटर",
+      "2. ROM",
+      "3. मदरबोर्ड",
+      "4. सिस्टम बस"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The router is a physical or virtual ______ device that is designed to receive, analyze, and forward data packets between computer networks.",
+    "options": [
+      "1. networking",
+      "2. end-user",
+      "3. application",
+      "4. storage"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "राउटर एक भौतिक या वर्चुअल ______ उपकरण होता है, जिसे कंप्यूटर नेटवर्कों के बीच डेटा पैकेट प्राप्त करने, उनका विश्लेषण करने और उन्हें अग्रेषित करने के लिए डिज़ाइन किया गया है।",
+    "options": [
+      "1. नेटवर्किंग",
+      "2. एंड‑यूज़र",
+      "3. एप्लिकेशन",
+      "4. स्टोरेज"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is NOT a test log with reference to Software Testing Life Cycle (STLC)?",
+    "options": [
+      "1. It contains pass or fail results.",
+      "2. It contains record of test case execution.",
+      "3. It records test activities.",
+      "4. It maintains control over the test."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "सॉफ़्टवेयर टेस्टिंग लाइफ साइकल (STLC) के संदर्भ में, निम्न में से कौन‑सा टेस्ट लॉग नहीं है?",
+    "options": [
+      "1. इसमें पास या फ़ेल परिणाम शामिल होते हैं।",
+      "2. इसमें टेस्ट केस निष्पादन का रिकॉर्ड शामिल होता है।",
+      "3. यह टेस्ट गतिविधियों को रिकॉर्ड करता है।",
+      "4. यह टेस्ट पर नियंत्रण बनाए रखता है।"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "________ introduced the web browser Internet explorer.",
+    "options": [
+      "1. Microsoft",
+      "2. IBM",
+      "3. Intel",
+      "4. Pentium"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Internet Explorer वेब ब्राउज़र को ________ ने प्रस्तुत किया था।",
+    "options": [
+      "1. माइक्रोसॉफ्ट (Microsoft)",
+      "2. आईबीएम (IBM)",
+      "3. इंटेल (Intel)",
+      "4. पेंटिपें यम (Pentium)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Web pages are uniquely identified using:",
+    "options": [
+      "1. IP address",
+      "2. Domain",
+      "3. URL",
+      "4. File name"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "वेब पेजों को ______ का उपयोग करके विशिष्ट रूप से पहचाना जाता है।",
+    "options": [
+      "1. IP एड्रेस",
+      "2. डोमेन",
+      "3. URL",
+      "4. फाइल नेम"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In addition to providing access to the ______, ISPs may also provide software packages (such as browsers), e-mail accounts, and a personal Web site or home page.",
+    "options": [
+      "1. Laptop",
+      "2. Desktop",
+      "3. Internet",
+      "4. Arc Net Shield"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "________ तक एक्सैस प्रदान करने के अलावा, आईएसपी (ISP) सॉफ्टवेयर पैकेज (जैसे ब्राउज़र), ई-मेल अकाउंट और एक व्यक्तिगत वेब साइट या होम पेज भी प्रदान कर सकते हैं।",
+    "options": [
+      "1. लैपटॉप",
+      "2. डेस्कटॉप",
+      "3. इंटरनेट",
+      "4. आर्कनेट शील्ड"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "______ goes a step beyond spam filtering and lets you copy or redirect emails based on customized rules.",
+    "options": [
+      "1. Email structuring",
+      "2. Email routing",
+      "3. Email drafting",
+      "4. Email deleting"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "________, स्पैम फ़िल्टरिंग से एक कदम आगे जाता है और आपको अनुकूलित नियमों के आधार पर ईमेल को कॉपी या रीडायरेक्ट करने देता है।",
+    "options": [
+      "1. ई-मेल स्ट्रक्चरिंग",
+      "2. ई-मेल रूटिंग",
+      "3. ई-मेल ड्राफ्टिंग",
+      "4. ई-मेल डिलिटिंग"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the full form of UDP?",
+    "options": [
+      "1. User Datagram Protocol",
+      "2. Uber Direct Protocol",
+      "3. User Data Protocol",
+      "4. User Discrete Protocol"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "UDP का पूर्ण रूप क्या है?",
+    "options": [
+      "1. यूज़र डेटाग्राम प्रोटोकॉल (User Datagram Protocol)",
+      "2. ऊबर डायरेक्ट प्रोटोकॉल (Uber Direct Protocol)",
+      "3. यूज़र डेटा प्रोटोकॉल (User Data Protocol)",
+      "4. यूज़र डिस्क्रीट प्रोटोकॉल (User Discrete Protocol)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Choose the correct Ethernet standard.",
+    "options": [
+      "1. IEEE 802.3",
+      "2. IEEE 801.2",
+      "3. IEEE 802.4",
+      "4. IEEE 802.5"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "सही ईथरनेट मानक चुनें।",
+    "options": [
+      "1. IEEE 802.3",
+      "2. IEEE 801.2",
+      "3. IEEE 802.4",
+      "4. IEEE 802.5"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The first generation computers were based on __________.",
+    "options": [
+      "1. vacuum tube",
+      "2. transistor",
+      "3. integrated circuit",
+      "4. VLSI microprocessor"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "पहली पीढ़ी के कंप्यूटर __________ पर आधारित थे।",
+    "options": [
+      "1. वैक्यूम ट्यूब",
+      "2. ट्रांजिस्टर",
+      "3. इंटीग्रेटेड सर्किट",
+      "4. VLSI माइक्रोप्रोसेसर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In a computer, which of the following is considered as the brain of the computer?",
+    "options": [
+      "1. CPU",
+      "2. Memory Unit",
+      "3. Hard Disk",
+      "4. Motherboard"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कंप्यूटर में, निम्नलिखित में से किसे कंप्यूटर का \"मस्तिष्क\" माना जाता है?",
+    "options": [
+      "1. सीपीयू (CPU)",
+      "2. मेमोरी यूनिट (Memory Unit)",
+      "3. हार्ड डिस्क (Hard Disk)",
+      "4. मदरबोर्ड (Motherboard)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which file format is commonly used for presentations?",
+    "options": [
+      "1. docx",
+      "2. xlsx",
+      "3. pptx",
+      "4. txt"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन‑सा फ़ाइल प्रारूप सामान्यतः प्रेज़ेंटेज़ेंटेशन (प्रस्तुतियाँ) बनाने के लिए उपयोग किया जाता है?",
+    "options": [
+      "1. docx",
+      "2. xlsx",
+      "3. pptx",
+      "4. txt"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The Web server accepts, approve and respond to the request made by the web browser for ___________ or services.",
+    "options": [
+      "1. extreme programming",
+      "2. a simple computer",
+      "3. sensors",
+      "4. a web document"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "वेब सर्वर, वेब ब्राउज़र द्वारा ______ या सर्विस प्रदान करने के लिए की गई रेकुएस्ट को स्वीकार करता है, अनुमोदित करता है और रिस्पांसड करता है।",
+    "options": [
+      "1. एक्स्ट्रीम प्रोग्रामिंग (extreme programming)",
+      "2. साधारण कंप्यूटर (simple computer)",
+      "3. सेंसर (sensors)",
+      "4. वेब डॉक्यूमेंट (web document)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A web browser is an example of:",
+    "options": [
+      "1. user manager",
+      "2. user agent",
+      "3. user input",
+      "4. plain text"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "वेब ब्राउज़र किसका उदाहरण है?",
+    "options": [
+      "1. यूजर मैनेजर (user manager)",
+      "2. यूजर एजेंट (user agent)",
+      "3. यूजर इनपुट (user input)",
+      "4. प्लेन टेक्स्ट (plain text)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ARPANET, an experimental computer network that was the forerunner of the Internet, stands for __________.",
+    "options": [
+      "1. Advanced Research Projects Agency Neutral",
+      "2. Advanced Research Projects Agency Network",
+      "3. Advanced Research Private Agency Neutral",
+      "4. Advanced Research Private Agency Network"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ARPANET, जो एक प्रायोगिक कंप्यूटर नेटवर्क था और इंटरनेट का पूर्ववर्ती माना जाता है, उसका पूर्ण रूप ______ है।",
+    "options": [
+      "1. एडवांस्ड रिसर्च प्रोजेक्ट्स एजेंसी न्यूट्रल (Advanced Research Projects Agency Neutral)",
+      "2. एडवांस्ड रिसर्च प्रोजेक्ट्स एजेंसी नेटवर्क (Advanced Research Projects Agency Network)",
+      "3. एडवांस्ड रिसर्च प्राइवेट एजेंसी न्यूट्रल (Advanced Research Private Agency Neutral)",
+      "4. एडवांस्ड रिसर्च प्राइवेट एजेंसी नेटवर्क (Advanced Research Private Agency Network)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "_______ is a freely distributed piece of software suitable for such tasks as photo retouching, image composition and image authoring.",
+    "options": [
+      "1. GIMP",
+      "2. MS-Word",
+      "3. MS- Excel",
+      "4. Adobe Photoshop"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_______ एक मुफ्त में उपलब्ध सॉफ़्टवेयर है, जो फोटो रीटचिंग, इमेज कंपोज़िशन और इमेज ऑथरिंग जैसे कार्यों के लिए उपयुक्त है।",
+    "options": [
+      "1. जीआईएमपी (GIMP)",
+      "2. एम.एस. वर्ड (MS‑Word)",
+      "3. एम.एस. एक्सेल (MS‑Excel)",
+      "4. एडोब फ़ोटोशॉप (Adobe Photoshop)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following MS-Excel 2019 functions truncate a number to an integer by removing the fractional part of the number?",
+    "options": [
+      "1. TRIM",
+      "2. TRUNC",
+      "3. DEL",
+      "4. CUT"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन‑सा MS‑Excel 2019 फ़ंक्शन किसी संख्या के भिन्न (डेसिमल) पार्ट को हटाकर उसे पूर्णांक में परिवर्तित करता है?",
+    "options": [
+      "1. TRIM",
+      "2. TRUNC",
+      "3. DEL",
+      "4. CUT"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The ______ function in MS-Excel 2019 is used to capitalise the first letter of a word and make the remaining letters lowercase.",
+    "options": [
+      "1. LOWER",
+      "2. UPPER",
+      "3. PROPER",
+      "4. SENTENCE"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS‑Excel 2019 में ________ फ़ंक्शन का उपयोग किसी शब्द के पहले अक्षर को बड़ा करने और शेष अक्षरों को छोटे अक्षर में बदलने के लिए किया जाता है।",
+    "options": [
+      "1. LOWER",
+      "2. UPPER",
+      "3. PROPER",
+      "4. SENTENCE"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following keyboard shortcuts opens the Macro dialog box in MS-Excel 2019 showing all the names of the macros that we have defined in the workbook and in our Personal Macro Workbook?",
+    "options": [
+      "1. Alt + F8",
+      "2. Ctrl + F8",
+      "3. F8",
+      "4. Shift + F8"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में, निम्न में से कौन सा कीबोर्ड शॉर्टकट मैक्रो डायलॉग बॉक्स ओपन करता है, जिसमें मैक्रो के सभी नाम दिखाए जाते हैं जिन्हें हमने वर्कबुक और हमारी पर्सनल मैक्रो वर्कबुक में परिभाषित किया है?",
+    "options": [
+      "1. Alt + F8",
+      "2. Ctrl + F8",
+      "3. F8",
+      "4. Shift + F8"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_______ in MS-Excel 2019 enables you to highlight cells with a certain colour, depending on the cell's value.",
+    "options": [
+      "1. Format",
+      "2. Pivot table",
+      "3. Conditional formatting",
+      "4. Autofill"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS‑Excel 2019 में _______ का उपयोग किसी सेल के मान के आधार पर उसे एक निश्चित रंग से हाइलाइट करने के लिए किया जाता है।",
+    "options": [
+      "1. फॉर्मेट (Format)",
+      "2. पिवट टेबल (Pivot table)",
+      "3. कंडीशनल फॉर्मेटिंग (Conditional formatting)",
+      "4. ऑटोफिल (Autofill)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The decimal equivalent for hexadecimal 3C is:",
+    "options": [
+      "1. 40",
+      "2. 60",
+      "3. 50",
+      "4. 20"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "हेक्साडेसिमल संख्या 3C के लिए डेसिमल समतुल्य ________ है।",
+    "options": [
+      "1. 40",
+      "2. 60",
+      "3. 50",
+      "4. 20"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The hexadecimal equivalent for decimal 90 is:",
+    "options": [
+      "1. 5A",
+      "2. 5B",
+      "3. 5C",
+      "4. 5D"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "डेसिमल संख्या 90 के लिए हेक्साडेसिमल समतुल्य ________ है।",
+    "options": [
+      "1. 5A",
+      "2. 5B",
+      "3. 5C",
+      "4. 5D"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "2’s complement of 40 is:",
+    "options": [
+      "1101 1000",
+      "0010 1010",
+      "0010 1110",
+      "0010 1001"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "40 का द्विसंपूरक (2’s Complement) क्या है?",
+    "options": [
+      "1101 1000",
+      "0010 1010",
+      "0010 1110",
+      "0010 1001"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The keyboard shortcut _________ in MS-Excel 2019 opens Format Cell dialog box.",
+    "options": [
+      "1. Ctrl + 1",
+      "2. Ctrl + 5",
+      "3. Ctrl + 8",
+      "4. Ctrl + 6"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS‑Excel 2019 में Format Cell डायलॉग बॉक्स ओपन करने वाला कीबोर्ड शॉर्टकट _________ है।",
+    "options": [
+      "1. Ctrl + 1",
+      "2. Ctrl + 5",
+      "3. Ctrl + 8",
+      "4. Ctrl + 6"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The keyboard shortcut ________ is used in MS-Excel 2019 to apply date formatting with the day, month, and year.",
+    "options": [
+      "1. Ctrl + Shift + #",
+      "2. Ctrl + Shift + ~",
+      "3. Ctrl + Shift + %",
+      "4. Ctrl + Shift + $"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS‑Excel 2019 में दिन, माह और वर्ष के साथ दिनांक फ़ॉर्मेट अप्लाई करने के लिए उपयोग किया जाने वाला कीबोर्ड शॉर्टकट ________ है।",
+    "options": [
+      "1. Ctrl + Shift + #",
+      "2. Ctrl + Shift + ~",
+      "3. Ctrl + Shift + %",
+      "4. Ctrl + Shift + $"
+    ],
+    "answer": 0
+  }
+],
+
 "13th March 2026 - Shift1": [
   {
     "q": "IBM 1401 is a ______ generation computer.",
