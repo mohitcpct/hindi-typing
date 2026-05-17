@@ -1138,7 +1138,7 @@
     "q": "प्रथम पीढ़ी (First Generation) के कंप्यूटरों में कौन‑सी तकनीक का उपयोग किया गया था?",
     "options": [
       "1. वैक्यूम ट्यूब (Vacuum tubes)",
-      "2. ट्रां जिस्टर (Transistor)",
+      "2. ट्रांजिस्टर (Transistor)",
       "3. इंटीग्रेटेड सर्किट्स (Integrated circuits)",
       "4. माइक्रो‑प्रोसेसर (Micro‑processors)"
     ],
