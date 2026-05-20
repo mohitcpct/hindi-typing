@@ -2086,6 +2086,1050 @@
   }
 ],
 
+  "11th May 2026 - Shift1": [
+ {
+    "q": "EIDE stands for:",
+    "options": [
+      "1. Enhanced Integrated Drive Electronics",
+      "2. Electrically Integrated Drive Electronics",
+      "3. Easily Integrated Drive Electronics",
+      "4. Element Integrated Drive Electronics"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "EIDE का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Enhanced Integrated Drive Electronics (एनहांस्ड इंटीग्रेटेड ड्राइव इलेक्ट्रॉनिक्स)",
+      "2. Electrically Integrated Drive Electronics (इलेक्ट्रिकली इंटीग्रेटेड ड्राइव इलेक्ट्रॉनिक्स)",
+      "3. Easily Integrated Drive Electronics (ईज़ीली इंटीग्रेटेड ड्राइव इलेक्ट्रॉनिक्स)",
+      "4. Element Integrated Drive Electronics (एलिमेंट इंटीग्रेटेड ड्राइव इलेक्ट्रॉनिक्स)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "By default, MS-Excel 2019 contains how many rows?",
+    "options": [
+      "1. 243567",
+      "2. 2560765",
+      "3. 1048576",
+      "4. 1024024"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "डिफ़ॉल्ट रूप से, MS Excel 2019 में कितनी पंक्तियां (रॉ) होती हैं?",
+    "options": [
+      "1. 243567",
+      "2. 2560765",
+      "3. 1048576",
+      "4. 1024024"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which function key switches to edit mode and places the cursor at the end of the contents of the current cell in an OpenOffice Calc?",
+    "options": [
+      "1. F2",
+      "2. F3",
+      "3. F4",
+      "4. F5"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "ओपन ऑफ़िस कैल्क (open office Calc) में, कौन-सी फंक्शन कुंजी एडिट मोड पर स्विच करती है और वर्तमान सेल कंटैंट के अंत में कर्सर को प्लेस करती है?",
+    "options": [
+      "1. F2",
+      "2. F3",
+      "3. F4",
+      "4. F5"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which storage medium usually contains factory‑written data and is primarily used to distribute software or multimedia content?",
+    "options": [
+      "1. Flash memory cards",
+      "2. CD-ROMs",
+      "3. Hard disk drives",
+      "4. Floppy disks"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्न में से किस स्टोरेज माध्यम में सामान्यतः फैक्ट्री में राइट किया गया डेटा होता है और मुख्य रूप से सॉफ़्टवेयर या मल्टीमीडिया कंटैंट के वितरण के लिए उपयोग किया जाता है?",
+    "options": [
+      "1. फ्लैश मेमोरी कार्ड",
+      "2. CD-ROMs",
+      "3. हार्ड डिस्‍क ड्राइव",
+      "4. फ्लॉपी डिस्क"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "_______ is an interface between user and computer hardware.",
+    "options": [
+      "1. Operating System",
+      "2. Application Software",
+      "3. Drivers",
+      "4. Compiler"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_______, उपयोगकर्ता और कंप्यूटर हार्डवेयर के बीच एक इंटरफ़ेस है।",
+    "options": [
+      "1. ऑपरेटिंग सिस्टम",
+      "2. एप्लीकेशन सॉफ्टवेयर",
+      "3. ड्राइवर्स",
+      "4. कम्पाइलर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The Step by Step Mail merge wizard feature is in the drop down menu of ______ icon in MS-Word 2019.",
+    "options": [
+      "1. Select Recipients",
+      "2. Start Mail Merge",
+      "3. Edit Recipient List",
+      "4. Mail Merge Wizard"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Word 2019 में 'स्टेप बाय स्टेप मेल मर्ज विज़ार्ड (Step by Step Mail merge wizard)' फ़ीचर, ______ आइकन के ड्रॉप-डाउन मेनू में होता है।",
+    "options": [
+      "1. सेलेक्ट रेसिपिएंट्स (Select Recipients)",
+      "2. स्टार्ट मेल मर्ज (Start Mail Merge)",
+      "3. एडिट रेसिपिएंट लिस्ट (Edit Recipient List)",
+      "4. मेल मर्ज विज़ार्ड (Mail Merge Wizard)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which input device is primarily used to convert printed documents or images into digital format so that they can be stored and edited on a computer?",
+    "options": [
+      "1. Plotter",
+      "2. Scanner",
+      "3. Speaker",
+      "4. Monitor"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कौन‑सा इनपुट डिवाइस मुख्य रूप से मुद्रित दस्तावेज़ों या चित्रों को डिजिटल फ़ॉर्मेट में बदलने के लिए उपयोग किया जाता है ताकि उन्हें कंप्यूटर में संग्रहीत और संपादित किया जा सके?",
+    "options": [
+      "1. प्लॉटर",
+      "2. स्कैनर",
+      "3. स्पीकर",
+      "4. मॉनिटर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "1 MB is equal to which of the following?",
+    "options": [
+      "1. 110 bytes",
+      "2. 1024 Kilo bytes",
+      "3. 1024 bytes",
+      "4. 1011 bytes"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "1 MB निम्न में से किसके बराबर होता है?",
+    "options": [
+      "1. 110 बाइट्स",
+      "2. 1024 किलो बाइट्स",
+      "3. 1024 बाइट्स",
+      "4. 1011 बाइट्स"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A raster graphic image is primarily composed of which of the following basic elements?",
+    "options": [
+      "1. Mathematical paths and geometric shapes",
+      "2. Individual pixels arranged in a grid",
+      "3. Continuous vector lines only",
+      "4. Text-based colour descriptions"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक रास्टर ग्राफ़िक इमेज मुख्य रूप से किन बुनियादी तत्वों से बनी होती है?",
+    "options": [
+      "1. गणितीय पथ और ज्यामितीय आकृतियाँ",
+      "2. ग्रिड में व्यवस्थित अलग-अलग पिक्सेल",
+      "3. केवल निरंतर वेक्टर रेखाएँ",
+      "4. टेक्स्ट-आधारित रंग विवरण"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Printer is an: <br>A. internal output device <br>B. external output device",
+    "options": [
+      "1. Both A and B",
+      "2. Only A",
+      "3. Only B",
+      "4. Neither A nor B"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "प्रिंटर क्या है? <br>A. आंतरिक आउटपुट डिवाइस <br>B. बाह्य आउटपुट डिवाइस",
+    "options": [
+      "1. A और B दोनों",
+      "2. केवल A",
+      "3. केवल B",
+      "4. ना A न ही B"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following statements best describes the primary function of a speaker as a computer output device?",
+    "options": [
+      "1. It converts sound waves into electrical signals for the computer.",
+      "2. It converts digital audio signals from the computer into audible sound waves.",
+      "3. It stores audio files for playback.",
+      "4. It compresses audio data before transmission."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्न में से कौन‑सा कथन कंप्यूटर आउटपुट डिवाइस के रूप में स्पीकर के प्राथमिक कार्य का सबसे सही वर्णन करता है?",
+    "options": [
+      "1. यह ध्वनि तरंगों को कंप्यूटर के लिए विद्यु त संकेतों में बदलता है।",
+      "2. यह कंप्यूटर से प्राप्त डिजिटल ऑडियो संकेतों को सुनने योग्य ध्वनि तरंगों में बदलता है।",
+      "3. यह ऑडियो फ़ाइलों को प्लेबैक के लिए संग्रहीत करता है।",
+      "4. यह ट्रांसमिशन से पहले ऑडियो डेटा को कम्प्रेस करता है।"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "AGP stands for:",
+    "options": [
+      "1. Average Graphics Port",
+      "2. Accelerated Graph Port",
+      "3. Augmented Graphics Port",
+      "4. Accelerated Graphics Port"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "AGP का पूर्ण-रूप क्या है?",
+    "options": [
+      "1. Average Graphics Port (एवरेज ग्राफिक्स पोर्ट)",
+      "2. Accelerated Graph Port (एक्सेलरेटेड ग्राफ पोर्ट)",
+      "3. Augmented Graphics Port (ऑग्मेंटेग्मेंटेड ग्राफिक्स पोर्ट)",
+      "4. Accelerated Graphics Port (एक्सेलरेटेड ग्राफिक्स पोर्ट)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In a Solid State Drive, which command is used for the secure deletion of data?",
+    "options": [
+      "1. Delete",
+      "2. ATA secure erase",
+      "3. SATA secure erase",
+      "4. PATA secure erase"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "सॉलिड स्टेट ड्राइव में, डेटा को सुरक्षित रूप से डिलीट करने के लिए किस कमांड का उपयोग किया जाता है?",
+    "options": [
+      "1. डिलीट (Delete)",
+      "2. ATA सिक्योर इरेज़ (ATA secure erase)",
+      "3. SATA सिक्योर इरेज़ (SATA secure erase)",
+      "4. PATA सिक्योर इरेज़ (PATA secure erase)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following types of memory has the slowest access speed?",
+    "options": [
+      "1. Registers",
+      "2. Cache",
+      "3. Main memory",
+      "4. Secondary memory"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से किस प्रकार की मेमोरी की एक्सेस स्पीड सबसे कम होती है?",
+    "options": [
+      "1. रजिस्टर (Registers)",
+      "2. कैश (Cache)",
+      "3. मेन मेमोरी (Main memory)",
+      "4. सेकेंडरी मेमोरी (Secondary memory)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "An OTG or On The Go adapter (sometimes called an OTG cable, or OTG connector) allows you to connect a full sized USB flash drive or USB A cable to your _________ through the Micro USB or USB-C charging port.",
+    "options": [
+      "1. phone",
+      "2. servers",
+      "3. internet",
+      "4. desktop computer"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एक OTG या ऑन द गो एडॉप्टर (जिसे कभी-कभी OTG केबल या OTG कनेक्टर भी कहा जाता है) आपको माइक्रो USB या USB-C चार्जिंग पोर्ट के ज़रिए एक फुल साइज़ USB फ्लैश ड्राइव या USB A केबल को अपने _________ से कनेक्ट करने की सुविधा देता है।",
+    "options": [
+      "1. फोन",
+      "2. सर्वर",
+      "3. इंटरनेट",
+      "4. डेस्कटॉप कंप्यूटर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following printers prints an entire page at once rather than character‑by‑character or line‑by‑line?",
+    "options": [
+      "1. Drum printer",
+      "2. Dot-matrix printer",
+      "3. Laser printer",
+      "4. Line printer"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्न में से कौन‑सा प्रिंटर अक्षर‑दर‑अक्षर या पंक्ति‑दर‑पंक्ति की बजाय पूरे पृष्ठ को एक बार में प्रिंट करता है?",
+    "options": [
+      "1. ड्रम प्रिंटर",
+      "2. डॉट-मैट्रिक्स प्रिंटर",
+      "3. लेज़र प्रिंटर",
+      "4. लाइन प्रिंटर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following shortcuts is used to remove the document window split in MS-Word 2019?",
+    "options": [
+      "1. Alt + S",
+      "2. Ctrl + S",
+      "3. Ctrl + Alt + S",
+      "4. Shift + Alt + S"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Word 2019 में डॉक्यूमेंट विंडो स्प्लिट को हटाने के लिए निम्न में से किस शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Alt + S",
+      "2. Ctrl + S",
+      "3. Ctrl + Alt + S",
+      "4. Shift + Alt + S"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "HTML is used for:",
+    "options": [
+      "1. storing information for reference, reporting and analysis",
+      "2. structuring a web page and its content",
+      "3. creating documents, such as brochures and letters",
+      "4. writing test cases"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "HTML का उपयोग किसके लिए किया जाता है?",
+    "options": [
+      "1. संदर्भ, रिपोर्टिंग और विश्लेषण हेतु जानकारी संग्रहीत करने के लिए",
+      "2. एक वेब पेज और उसके कंटैंट की संरचना करने के लिए",
+      "3. ब्रोशर और लेटर जैसे डॉक्युमेंट्स बनाने के लिए",
+      "4. टेस्ट केस को लिखने के लिए"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A series of byte-oriented algorithms that produce a 128-bit hash value from an arbitrary-length message are known as:",
+    "options": [
+      "1. Message Digest (MD) algorithms",
+      "2. Mail Digest (MD) algorithms",
+      "3. Message Dedicated (MD) algorithms",
+      "4. Mail Dedicated (MD) algorithms"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "बाइट-ओरिएंटेड एल्गोरिदम की कोई ऐसी श्रृंखला जो एक आर्बिट्ररी-लंबाई वाले मेसेज से 128-बिट हैश का मान प्रस्तुत करती है उसे ____ के रूप में जाना जाता है।",
+    "options": [
+      "1. मैसेज डाइजेस्ट (MD) एल्गोरिदम",
+      "2. मेल डाइजेस्ट (MD) एल्गोरिदम",
+      "3. मैसेज डेडिकेटेड (MD) एल्गोरिदम",
+      "4. मेल डेडिकेटेड (MD) एल्गोरिदम"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Data is accessed using laser light in which of the following storage devices?",
+    "options": [
+      "1. Hard Disk Drive",
+      "2. CD ROM",
+      "3. Magnetic Tape",
+      "4. Flash Drive"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्न में से किस स्टोरेज डिवाइस में डेटा को लेज़र लाइट की सहायता से एक्सेस किया जाता है?",
+    "options": [
+      "1. हार्ड डिस्क ड्राइव",
+      "2. CD ROM",
+      "3. मैग्नेटिक टेप",
+      "4. फ्लैश ड्राइव"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "From which location are the initial computer instructions available on boot up after it is powered on?",
+    "options": [
+      "1. Motherboard",
+      "2. CPU",
+      "3. BIOS",
+      "4. Hard disk"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "कंप्यूटर को चालू (power on) करने के बाद, बूट-अप के समय शुरुआती कंप्यूटर निर्देश किस स्थान से उपलब्ध होते हैं?",
+    "options": [
+      "1. मदरबोर्ड से",
+      "2. CPU से",
+      "3. BIOS से",
+      "4. हार्ड डिस्क से"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In an Operating System, the collection of files is called a file ______________, which contains information about the files.",
+    "options": [
+      "1. log",
+      "2. shell",
+      "3. directory",
+      "4. kernal"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एक ऑपरेटिंग सिस्टम में, फाइलों के संग्रह को फाइल _______ कहा जाता है, जिसमें फाइलों के बारे में जानकारी होती है।",
+    "options": [
+      "1. लॉग",
+      "2. शेल",
+      "3. डायरेक्ट्री",
+      "4. केर्नेल"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following operating systems is NOT a UNIX variant?",
+    "options": [
+      "1. Solaris",
+      "2. AIX",
+      "3. BSD",
+      "4. OpenVMS"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से कौन‑सा ऑपरेटिंग सिस्टम UNIX का वैरिएंट नहीं है?",
+    "options": [
+      "1. Solaris",
+      "2. AIX",
+      "3. BSD",
+      "4. OpenVMS"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following file extensions denote a GNU zipped file?",
+    "options": [
+      "1. .gz",
+      "2. .zip",
+      "3. .7z",
+      "4. .rar"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से कौन‑सा फ़ाइल फ़ॉर्मेट GNU zip फ़ाइल को दर्शाता है?",
+    "options": [
+      "1. .gz",
+      "2. .zip",
+      "3. .7z",
+      "4. .rar"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is an extension used for compressed file archives?",
+    "options": [
+      "1. .arj",
+      "2. .jat",
+      "3. .ajr",
+      "4. .ajc"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से किस एक्सटेंशन का उपयोग कम्प्रेस्ड फाइल आर्काइव के लिए किया जाता है?",
+    "options": [
+      "1. .arj",
+      "2. .jat",
+      "3. .ajr",
+      "4. .ajc"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In ______ audio compression, the transition from uncompressed to compressed sound is smoother.",
+    "options": [
+      "1. soft knee",
+      "2. hard knee",
+      "3. soft hand",
+      "4. hard hand"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "किस प्रकार की ऑडियो कंप्रेशन में अनकंप्रेस्ड से कंप्रेस्ड साउंड में परिवर्तन अधिक स्मूथ होता है?",
+    "options": [
+      "1. सॉफ्ट नी (Soft knee)",
+      "2. हार्ड नी (Hard knee)",
+      "3. सॉफ्ट हैंड (Soft hand )",
+      "4. हार्ड हैंड (Hard hand)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which keyboard shortcut is used to select an entire row in MS Excel 2019?",
+    "options": [
+      "1. Ctrl + Spacebar",
+      "2. Ctrl + Alt + Shift",
+      "3. Shift + Spacebar",
+      "4. Alt + Spacebar"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS Excel 2019 में पूरी पंक्ति (row) को सेलैक्ट करने के लिए किस कीबोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Ctrl + Spacebar",
+      "2. Ctrl + Alt + Shift",
+      "3. Shift + Spacebar",
+      "4. Alt + Spacebar"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is a short, rapid rise in voltage that can cause damage or impairment to a computer or other electronic devices?",
+    "options": [
+      "1. Sink",
+      "2. Surge",
+      "3. Spike",
+      "4. Stroke"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्न में से कौन‑सी स्थिति वोल्टेज में अचानक और बहुत तेज़ वृद्धि को दर्शाती है, जिससे कंप्यूटर या अन्य इलेक्ट्रॉ निक उपकरणों को नुकसान हो सकता है?",
+    "options": [
+      "1. सिंक (Sink)",
+      "2. सर्ज (Surge)",
+      "3. स्पाइक (Spike)",
+      "4. स्ट्रोक (Stroke)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which network topology connects each node to exactly two adjacent nodes, with no master node controlling the network?",
+    "options": [
+      "1. Star",
+      "2. Bus",
+      "3. Mesh",
+      "4. Ring"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "किस नेटवर्क टोपोलॉजी में प्रत्येक नोड ठीक दो आसन्न नोड्स से जुड़ा होता है और नेटवर्क को नियंत्रित करने के लिए कोई मास्टर नोड नहीं होता है?",
+    "options": [
+      "1. स्टार",
+      "2. बस",
+      "3. मेश",
+      "4. रिंग"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "_______ is a stand-alone electronic device that can play music, show photos, and videos, as well as provide information to the user.",
+    "options": [
+      "1. multimedia presentation",
+      "2. multimedia conferencing",
+      "3. multimedia kiosk",
+      "4. animated advertisements"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "_______ एक स्टैंड-अलोन इलेक्ट्रॉनिक डिवाइस है जो म्यूज़िक प्ले कर सकता है, फ़ोटो और वीडियो दिखा सकता है, और यूज़र को जानकारी भी दे सकता है।",
+    "options": [
+      "1. मल्टीमीडिया प्रेजेंटेजेंटेशन",
+      "2. मल्टीमीडिया कॉन्फ्रेंसिंग",
+      "3. मल्टीमीडिया कियोस्क",
+      "4. एनिमेटेड विज्ञापन"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is an E-mail client?",
+    "options": [
+      "1. Microsoft Outlook",
+      "2. Internet explorer",
+      "3. Mozilla Firefox",
+      "4. Chrome"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा एक ई-मेल क्लाइंट है?",
+    "options": [
+      "1. माइक्रोसॉफ्ट आउटलुक (Microsoft Outlook)",
+      "2. इंटरनेट एक्स्प्लोरर (Internet Explorer)",
+      "3. मॉज़िल्ला फायरफोक्स (Mozilla Firefox)",
+      "4. क्रोम (Chrome)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "JSON stands for:",
+    "options": [
+      "1. JavaScript Object Notation",
+      "2. Java Simple Object Notation",
+      "3. JavaScript Object Name",
+      "4. Java Shell Object Notation"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "JSON का पूर्ण रूप क्या है?",
+    "options": [
+      "1. JavaScript Object Notation (जावास्क्रिप्ट ऑब्जेक्ट नोटेशन)",
+      "2. Java Simple Object Notation (जावा सिंपल ऑब्जेक्ट नोटेशन)",
+      "3. JavaScript Object Name (जावास्क्रिप्ट ऑब्जेक्ट नेम)",
+      "4. Java Shell Object Notation (जावा शेल ऑब्जेक्ट नोटेशन)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In a UPI app, which section is primarily used to update user details such as display name or photo?",
+    "options": [
+      "1. Settings",
+      "2. Profile",
+      "3. Pay",
+      "4. Requests"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "UPI ऐप में डिस्प्ले नाम या फ़ोटो जैसी उपयोगकर्ता विवरण अपडेट करने हेतु मुख्यतः किस अनुभाग का उपयोग किया जाता है?",
+    "options": [
+      "1. सेटिंग्स (Settings)",
+      "2. प्रोफ़ाइल (Profile)",
+      "3. पे (Pay)",
+      "4. रेकुएस्ट्स (Requests)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ is the interface offered by Web Server to pass on form data to an external application.",
+    "options": [
+      "1. Common gateway interface",
+      "2. Common desktop environment",
+      "3. Concatenation",
+      "4. Linking"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ वह इंटरफ़ेस है जो वेब सर्वर द्वारा फ़ॉर्म डेटा को किसी बाहरी एप्लिकेशन तक पहुँचाने के लिए प्रदान किया जाता है।",
+    "options": [
+      "1. कॉमन गेटवे इंटरफेस",
+      "2. कॉमन डेस्कटॉप एनवायरनमेंट",
+      "3. कंकैटनैशन",
+      "4. लिंकिंग"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT a network topology?",
+    "options": [
+      "1. Square",
+      "2. Mesh",
+      "3. Star",
+      "4. Ring"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से कौन-सी, एक नेटवर्क टोपोलॉजी नहीं है?",
+    "options": [
+      "1. स्क्वायर",
+      "2. मेश",
+      "3. स्टार",
+      "4. रिंग"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The length of a MAC address is:",
+    "options": [
+      "1. 12 nibbles",
+      "2. 8 nibbles",
+      "3. 16 nibbles",
+      "4. 32 nibbles"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एक मैक एड्रेस (MAC address) की लंबाई कितनी होती है?",
+    "options": [
+      "1. 12 निबल्स",
+      "2. 8 निबल्स",
+      "3. 16 निबल्स",
+      "4. 32 निबल्स"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which command‑line tool is used to identify and display active network connections and ports on a computer?",
+    "options": [
+      "1. netstat",
+      "2. ping",
+      "3. traceroute",
+      "4. ipconfig"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "किस कमांड‑लाइन टूल का उपयोग कंप्यूटर पर सक्रिय नेटवर्क कनेक्शन और पोर्ट्स को पहचानने और दिखाने के लिए किया जाता है?",
+    "options": [
+      "1. netstat",
+      "2. ping",
+      "3. traceroute",
+      "4. ipconfig"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A client, such as a web ______, can also store web content for reuse.",
+    "options": [
+      "1. crawler",
+      "2. server",
+      "3. browser",
+      "4. sensor"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एक क्लायंट, जैसे कि वेब ______, वेब कंटैंट को पुन: उपयोग हेतु स्टोर भी कर सकता है।",
+    "options": [
+      "1. क्रॉलर",
+      "2. सर्वर",
+      "3. ब्राउज़र",
+      "4. सेंसर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following web components sitting between the client and the server can evaluate HTTP headers and choose whether to store web content?",
+    "options": [
+      "1. Web crawler",
+      "2. Proxy server",
+      "3. Web cache",
+      "4. Web browser"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "क्लाइंट और सर्वर के बीच स्थित निम्न में से कौन-सा वेब घटक HTTP शीर्षकों (headers) कों का मूल्यांकन कर सकते हैं और यह चुन सकते हैं कि वेब कंटैंट को स्टोर करना है अथवा नहीं?हीं",
+    "options": [
+      "1. वेब क्रॉलर",
+      "2. प्रॉक्सी सर्वर",
+      "3. वेब कैश",
+      "4. वेब ब्राउज़र"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "With reference to network criteria, which of the following is measured in terms of transit time and response time?",
+    "options": [
+      "1. Flexible access",
+      "2. Reliability",
+      "3. Security",
+      "4. Performance"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "नेटवर्क मानदंड (Network Criteria) के संदर्भ में, ट्रां ज़िट समय और रिस्पॉन्स समय के रूप में किसे मापा जाता है?",
+    "options": [
+      "1. लचीला एक्सेस (Flexible access)",
+      "2. विश्वसनीयता (Reliability)",
+      "3. सुरक्षा (Security)",
+      "4. प्रदर्शन (Performance)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "With reference to IP address, DNS stands for:",
+    "options": [
+      "1. Domain Name System",
+      "2. Domain New Server",
+      "3. Domain Network Server",
+      "4. Domain Network System"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "IP एड्रेस के संदर्भ में, DNS का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Domain Name System (डोमेन नेम सिस्टम)",
+      "2. Domain New Server (डोमेन न्यू सर्वर)",
+      "3. Domain Network Server (डोमेन नेटवर्क सर्वर)",
+      "4. Domain Network System (डोमेन नेटवर्क सिस्टम)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is the correct decimal equivalent of the hexadecimal number 5CC?",
+    "options": [
+      "1. 1486",
+      "2. 1488",
+      "3. 1484",
+      "4. 1465"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "हेक्साडेसिमल संख्या 5CC का सही डेसिमल मान निम्नलिखित में से कौन सा है?",
+    "options": [
+      "1. 1486",
+      "2. 1488",
+      "3. 1484",
+      "4. 1465"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following functions in MS-Excel 365 is used to combine the first and the last name into one cell or join the city, state and ZIP code into one cell?",
+    "options": [
+      "1. CONCAT",
+      "2. JOIN",
+      "3. STRING",
+      "4. SUBSTR"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 365 में, निम्न में से कौन-सा फ़ंक्शन प्रथम और अंतिम नाम को एक सेल में संयोजित करने या शहर, राज्य और ZIP कोड को एक सेल में जोड़ने के लिए उपयोग किया जाता है?",
+    "options": [
+      "1. CONCAT",
+      "2. JOIN",
+      "3. STRING",
+      "4. SUBSTR"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following Excel functions returns TRUE if at least one condition is TRUE?",
+    "options": [
+      "1. AND",
+      "2. OR",
+      "3. NAND",
+      "4. NOT"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "इनमें से कौन सा Excel फ़ंक्शन तब TRUE देता है जब कम से कम एक कंडीशन TRUE है?",
+    "options": [
+      "1. AND",
+      "2. OR",
+      "3. NAND",
+      "4. NOT"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In MS‑Excel 2019, the ‘Remove Duplicates’ option is available under the ______ tab.",
+    "options": [
+      "1. Insert",
+      "2. Data",
+      "3. File",
+      "4. View"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS‑Excel 2019 में ‘Remove Duplicates’ विकल्प ______ टैब के अंतर्गत होता है।",
+    "options": [
+      "1. इन्सर्ट (Insert)",
+      "2. डेटा (Data)",
+      "3. फ़ाइल (File)",
+      "4. व्यू (View)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A __________ in MS Excel 2019 shows the relationship of parts to a whole and can contain more than one data series.",
+    "options": [
+      "1. scatter chart",
+      "2. doughnut chart",
+      "3. line chart",
+      "4. bar chart"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS Excel 2019 में वह कौन‑सा चार्ट है जो भाग का पूर्ण से संबंध दर्शाता है और जिसमें एक से अधिक डेटा सीरीज़ हो सकती हैं?",
+    "options": [
+      "1. स्कैटर चार्ट",
+      "2. डोनट चार्ट",
+      "3. लाइन चार्ट",
+      "4. बार चार्ट"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "2’s complement for –17 is:",
+    "options": [
+      "1110 1111",
+      "1110 1101",
+      "1110 1001",
+      "1110 1100"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "–17 के लिए 2 का पूरक (complement) ज्ञात कीजिए।",
+    "options": [
+      "1110 1111",
+      "1110 1101",
+      "1110 1001",
+      "1110 1100"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following keyboard shortcuts open the Insert dialog box to insert rows or columns in MS‑Excel 2019?",
+    "options": [
+      "1. Ctrl + Shift + Plus sign (+)",
+      "2. Ctrl + Shift + ~",
+      "3. Ctrl + Shift + %",
+      "4. Ctrl + Shift + &"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "इनमें से कौन सा कीबोर्ड शॉर्टकट MS-Excel 2019 में रो या कॉलम इन्सर्ट करने के लिए इन्सर्ट डायलॉग बॉक्स खोलता है?",
+    "options": [
+      "1. Ctrl + Shift + प्लस चिह्न (+)",
+      "2. Ctrl + Shift + ~",
+      "3. Ctrl + Shift + %",
+      "4. Ctrl + Shift + &"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following CANNOT be used to edit a cell in MS-Excel 2019?",
+    "options": [
+      "1. Pressing the F2 key",
+      "2. Clicking the formula bar",
+      "3. Double-clicking the cell",
+      "4. Pressing the F6 key"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel 2019 में सेल को एडिट करने के लिए निम्न में से किसका उपयोग नहीं किया जा सकता है?",
+    "options": [
+      "1. F2 कुंजी को दबाना",
+      "2. फार्मूला बार को क्लिक करना",
+      "3. सेल पर डबल क्लिक करना",
+      "4. F6 कुंजी को दबाना"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following keyboard shortcuts in MS‑Excel 2019 closes the active workbook?",
+    "options": [
+      "1. Ctrl + W",
+      "2. Alt + W",
+      "3. Shift + W",
+      "4. Esc + W"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में इनमें से कौन सा कीबोर्ड शॉर्टकट एक्टिव वर्कबुक को बंद करता है?",
+    "options": [
+      "1. Ctrl + W",
+      "2. Alt + W",
+      "3. Shift + W",
+      "4. Esc + W"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "JVM Stands for:",
+    "options": [
+      "1. Java Virtual Machine",
+      "2. JavaScript Virtual Machine",
+      "3. Joint Virtual Machine",
+      "4. Java Variant Machine"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "JVM का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Java Virtual Machine (जावा वर्चुअल मशीन)",
+      "2. JavaScript Virtual Machine (जावास्क्रिप्ट वर्चुअल मशीन)",
+      "3. Joint Virtual Machine (जोइंट वर्चुअल मशीन)",
+      "4. Java Variant Machine (जावा वेरिएंट मशीन)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Software such as Internet Explorer and Firefox are referred to as ______.",
+    "options": [
+      "1. system software",
+      "2. utility software",
+      "3. programming languages",
+      "4. web browsers"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "इंटरनेट एक्सप्लोरर (Internet Explorer) और फायरफॉक्स (Firefox) जैसे सॉफ्टवेयर को ______ के रूप मे संदर्भित किया जाता है।",
+    "options": [
+      "1. सिस्टम सॉफ्टवेयर (system software)",
+      "2. यूटिलिटी सॉफ्टवेयर (utility software)",
+      "3. प्रोगरामिंग लैंग्वेजेज (programming languages)",
+      "4. वेब ब्राउज़र (web browsers)"
+    ],
+    "answer": 3
+  }
+],
+  
+
 "13th March 2026 - Shift1": [
   {
     "q": "IBM 1401 is a ______ generation computer.",
