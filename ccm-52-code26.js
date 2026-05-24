@@ -1043,6 +1043,1049 @@
   }
 ],
 
+  "9th May 2026 - Shift2": [
+ {
+    "q": "Which section of CPU is capable of performing a mathematical operation?",
+    "options": [
+      "1. ALU",
+      "2. Control Unit",
+      "3. Ports",
+      "4. Monitor"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "CPU का कौन-सा भाग, गणितीय संक्रियाएं करने में सक्षम होता है?",
+    "options": [
+      "1. ALU",
+      "2. कंट्रोल यूनिट",
+      "3. पोर्ट्स",
+      "4. मॉनिटर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the output of the following MS-Excel 2019 formula? <br> =XOR(1,1)",
+    "options": [
+      "1. TRUE",
+      "2. FALSE",
+      "3. 1",
+      "4. ON"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित MS-Excel 2019 फॉर्मूले का आउटपुट क्या है? <br> =XOR(1,1)",
+    "options": [
+      "1. TRUE",
+      "2. FALSE",
+      "3. 1",
+      "4. ON"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the shortcut key combination to move the cursor to the first cell in the sheet in an OpenOffice Calc?",
+    "options": [
+      "1. Alt+Home",
+      "2. Ctrl+Home",
+      "3. Shift+Home",
+      "4. Home"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ओपन ऑफिस कैल्क (OpenOffice Calc) में, शीट में कर्सर को पहले सेल में ले जाने के लिए की-बोर्ड शॉर्टकट संयोजन क्या है?",
+    "options": [
+      "1. Alt+Home",
+      "2. Ctrl+Home",
+      "3. Shift+Home",
+      "4. Home"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Alternatively referred to as auxiliary storage, a/an ______ is a non-volatile device that holds data until it is deleted or overwritten.",
+    "options": [
+      "1. primary storage device",
+      "2. first storage device",
+      "3. secondary storage device",
+      "4. initial storage device"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "वैकल्पिक रूप से सहायक स्टोरेज (Auxiliary Storage) कहलाने वाला ______ एक नॉन‑वोलेटाइल डिवाइस होता है, जो डेटा को तब तक सुरक्षित रखता है जब तक उसे डिलीट या ओवरराइट न किया जाए।",
+    "options": [
+      "1. प्राथमिक स्टोरेज डिवाइस",
+      "2. प्रथम स्टोरेज डिवाइस",
+      "3. द्वितीयक स्टोरेज डिवाइस",
+      "4. प्रारंभिक स्टोरेज डिवाइस"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the use of a parity bit?",
+    "options": [
+      "1. Used to indicate upper case letters",
+      "2. Used to indicate numerals",
+      "3. The first bit in a byte",
+      "4. Used to detect errors"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "पैरिटी बिट (parity bit) का क्या उपयोग है?",
+    "options": [
+      "1. इसका उपयोग अपरकेस लेटर्स को इंगित करने के लिए किया जाता है",
+      "2. इसका उपयोग न्यूमरल को इंगित करने के लिए किया जाता है",
+      "3. यह बाइट का पहला बिट होता है",
+      "4. इसका उपयोग त्रुटियों का पता लगाने के लिए किया जाता है"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "______ lets you create a batch of documents that are personalized for each recipient in MS-Word 2019.",
+    "options": [
+      "1. Mail Merge",
+      "2. Task pane",
+      "3. Sort records",
+      "4. Pivot table"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "________ आपको डॉक्यूमेंट्स का एक बैच बनाने की सुविधा देता है जो MS-Word 2019 में प्रत्येक प्राप्तकर्ता के लिए वैयक्तिकृत (personalized) होता है।",
+    "options": [
+      "1. मेल मर्ज (Mail Merge)",
+      "2. टास्क पैन (Task pane)",
+      "3. सॉर्ट रिकॉर्ड (Sort records)",
+      "4. पिवट टेबल (Pivot table)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Systems based on the Debian distribution, which includes Ubuntu, use apt and the ________ command to automatically read dependencies files and download the packages needed before proceeding with the installation.",
+    "options": [
+      "1. yummy",
+      "2. partial",
+      "3. pat",
+      "4. apt-get"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "डेबियन वितरण (Debian distribution) पर आधारित सिस्टम, जिसमें उबंटू (Ubuntu) शामिल है, निर्भरता फाइलों को स्वचालित रूप से पढ़ने और इंस्टॉलेशन के साथ आगे बढ़ने से पहले आवश्यक पैकेज डाउनलोड करने के लिए apt और ______ कमांड का उपयोग करते हैं।",
+    "options": [
+      "1. yummy",
+      "2. partial",
+      "3. pat",
+      "4. apt-get"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A ______ is an optical scanner which makes use of a flat surface for scanning documents.",
+    "options": [
+      "1. keyboard",
+      "2. printer",
+      "3. router",
+      "4. flatbed scanner"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "_______ एक ऑप्टिकल स्कैनर है जो डॉक्यूमेंट्स को स्कैन करने के लिए एक सपाट सतह का उपयोग करता है।",
+    "options": [
+      "1. की-बोर्ड",
+      "2. प्रिंटर",
+      "3. राउटर",
+      "4. फ्लैटबेड स्कैनर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In a biometric system, during enrolment or verification of a user, each finger-print is analysed for very specific features called:",
+    "options": [
+      "1. minutiae",
+      "2. feature vector",
+      "3. feature descriptor",
+      "4. pattern descriptor"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "बायोमेट्रिक प्रणाली में, किसी उपयोगकर्ता के नामांकन (enrolment) या सत्यापन (verification) के दौरान, प्रत्येक फिंगरप्रिंट का विश्लेषण जिन अत्यधिक विशिष्ट विशेषताओं के लिए किया जाता है, उन्हें क्या कहा जाता है?",
+    "options": [
+      "1. मिनिशिए (minutiae)",
+      "2. फ़ीचर वेक्टर (feature vector)",
+      "3. फ़ीचर डिस्क्रिप्टर (feature vector)",
+      "4. पैटर्न डिस्क्रिप्टर (pattern descriptor)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following communication modes supports two-way traffic, but in only one direction at a time?",
+    "options": [
+      "1. Half-duplex",
+      "2. Simplex",
+      "3. Full-duplex",
+      "4. Quarter-duplex"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा कम्युनिकेशन मोड, टु-वे ट्रैफिक में सहायक होता है, लेकिन एक समय में केवल एक ही दिशा में होता है?",
+    "options": [
+      "1. हाफ-डुप्लेक्स (Half-duplex)",
+      "2. सिम्प्लेक्स (Simplex)",
+      "3. फुल-डुप्लेक्स (Full-duplex)",
+      "4. क्वार्टर-डुप्लेक्स (Quarter-duplex)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______, is a surface-mount IC package with gull wing leads on all four sides of the package body.",
+    "options": [
+      "1. Thick Quad Flat Pack",
+      "2. Thin Quad Flat Pack",
+      "3. Thin Quest Flat Pack",
+      "4. Thin Quiet Flat Pack"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "________ एक सरफेस-माउंट IC पैकेज है जिसमें पैकेज बॉडी के चारों तरफ गल विंग लीड्स (gull wing leads) होती है।",
+    "options": [
+      "1. थिक क्वैड फ्लैट पैक (Thick Quad Flat Pack)",
+      "2. थिन क्वैड फ्लैट पैक (Thin Quad Flat Pack)",
+      "3. थिन क्वेस्ट फ्लैट पैक (Thin Quest Flat Pack)",
+      "4. थिन क्वाइट फ्लैट पैक (Thin Quiet Flat Pack)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ topology is a multi-point connection and a non-robust topology because if the backbone fails the topology crashes.",
+    "options": [
+      "1. Bus",
+      "2. Star",
+      "3. Ring",
+      "4. Mesh"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ टोपोलॉजी एक मल्टी-पॉइंट कनेक्शन और एक नॉन-रोबस्ट टोपोलॉजी है क्योंकि बैकबोन विफल हो जाने पर टोपोलॉजी क्रैश हो जाती है।",
+    "options": [
+      "1. बस (Bus)",
+      "2. स्टार (Star)",
+      "3. रिंग (Ring)",
+      "4. मेश (Mesh)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT a networking device?",
+    "options": [
+      "1. Gateway",
+      "2. Firewall",
+      "3. Linux",
+      "4. Router"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन सी एक नेटवर्किंग डिवाइस नहीं है?",
+    "options": [
+      "1. गेटवे (Gateway)",
+      "2. फ़ायरवॉल (Firewall)",
+      "3. लिनक्स (Linux)",
+      "4. राउटर (Router)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "___________ refers to the physical and logical arrangement of nodes and connections in a computer network, which governs how data flows between devices.",
+    "options": [
+      "1. Network topology",
+      "2. Network pathology",
+      "3. Operating system",
+      "4. Network protocol"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "___________, कंप्यूटर नेटवर्क में नोड्स और कनेक्शन की भौतिक और तार्किक व्यवस्था को संदर्भित करता है, जो यह नियंत्रित करता है कि डिवाइसों के बीच डेटा कैसे प्रवाहित होता है।",
+    "options": [
+      "1. नेटवर्क टोपोलॉजी",
+      "2. नेटवर्क पैथोलॉजी",
+      "3. ऑपरेटिंग सिस्टम",
+      "4. नेटवर्क प्रोटोकॉल"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a disadvantage of a laser printer?",
+    "options": [
+      "1. It is quieter than an impact printer.",
+      "2. The output is of a lower quality.",
+      "3. It is very slow.",
+      "4. It is very costly."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सी, लेजर प्रिंटर के उपयोग की एक हानि है?",
+    "options": [
+      "1. यह इम्पैक्ट प्रिंटर की तुलना में कम आवाज़ करता है",
+      "2. इसका आउटपुट निम्न गुणवत्ता का होता है",
+      "3. यह बहुत धीमा होता है",
+      "4. यह बहुत महंगा होता है"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "______ enables you to create professional-looking publications for print and the web, or convert them to PDF (Portable Document Format) directly from within the application.",
+    "options": [
+      "1. Notepad",
+      "2. Vim Editor",
+      "3. Adobe InDesign",
+      "4. Command Prompt"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "______ आपको प्रिंट और वेब के लिए पेशेवर दिखने वाले पब्लिकेशन क्रिएट करने, या उन्हें एप्लिकेशन के भीतर सीधे PDF (पोर्टेबल डॉक्यूमेंट फॉर्मेट) में परिवर्तित करने में सक्षम बनाता है।",
+    "options": [
+      "1. नोटपैड (Notepad)",
+      "2. विम एडिटर (Vim Editor)",
+      "3. एडोब इनडिज़ाइन (Adobe InDesign)",
+      "4. कमांड प्रॉम्प्ट (Command Prompt)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is an option to upload a file to Google Drive from your computer?",
+    "options": [
+      "1. Move a file",
+      "2. Copy and paste",
+      "3. Drag and drop",
+      "4. Cut and paste"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्न में से कौन-सा, आपके कंप्यूटर से गूगल ड्रा इव (Google Drive) पर फाइल अपलोड करने का एक विकल्प है?",
+    "options": [
+      "1. मूव अ फाइल (Move a file)",
+      "2. कॉपी और पेस्ट (Copy and paste)",
+      "3. ड्रैग और ड्रॉप (Drag and drop)",
+      "4. कट और पेस्ट (Cut and paste)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The process of converting plain text to cipher text using a cipher and a key is called ______.",
+    "options": [
+      "1. encryption",
+      "2. deciphering",
+      "3. decoding",
+      "4. cryptology"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एक सिफर (cipher) और एक कुंजी (key) का उपयोग करके प्लेन (plain) टेक्स्ट को सिफर टेक्स्ट में बदलने की प्रक्रिया को ______ कहा जाता है।",
+    "options": [
+      "1. एन्क्रिप्शन (encryption)",
+      "2. डेसिफेरिंग (deciphering)",
+      "3. डिकोडिंग (decoding)",
+      "4. क्रिप्टोलॉजी (cryptology)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A ______ is a compact digital camera you can hook up to your computer to broadcast video images in real time (as they happen).",
+    "options": [
+      "1. Keyboard",
+      "2. Mouse",
+      "3. Webcam",
+      "4. Barcode Scanner"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "______ एक कॉम्पैक्ट डिजिटल कैमरा है जिसे कंप्यूटर से जोड़कर वास्तविक समय में (जैसा हो रहा हो वैसा) वीडियो इमेजेस प्रसारित किए जा सकते हैं।",
+    "options": [
+      "1. कीबोर्ड",
+      "2. माउस",
+      "3. वेबकैम",
+      "4. बारकोड स्कैनर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "When seeking to upgrade your BIOS for a particular motherboard what do you need to know?",
+    "options": [
+      "1. RAM",
+      "2. Hard disk",
+      "3. Manufacturer and model number",
+      "4. DIMM"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "किसी विशेष मदरबोर्ड के लिए BIOS को अपग्रेड करते समय आपको क्या जानने की आवश्यकता होती है?",
+    "options": [
+      "1. RAM",
+      "2. हार्ड डिस्क",
+      "3. मैन्युफैक्चरर और मॉडल नंबर",
+      "4. DIMM"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is NOT an image file extension?",
+    "options": [
+      "1. .gif",
+      "2. .png",
+      "3. .jpeg",
+      "4. .zip"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से कौन-सा एक इमेज फाइल एक्सटेंशन नहीं है?",
+    "options": [
+      "1. .gif",
+      "2. .png",
+      "3. .jpeg",
+      "4. .zip"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "According to the Unix File System, all data in Unix is organized into _______ which are further arranged into a tree-like structure called the file system.",
+    "options": [
+      "1. blocks",
+      "2. sectors",
+      "3. directories",
+      "4. executables"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "यूनिक्स फ़ाइल सिस्टम (Unix File System) के अनुसार, यूनिक्स में सभी डेटा को _______ में व्यवस्थित किया जाता है जिसे आगे फाइल सिस्टम कहलाने वाले एक ट्री -सदृश संरचना में व्यवस्थित किया जाता है।",
+    "options": [
+      "1. ब्लॉक्स (blocks)",
+      "2. सेक्टर्स (sectors)",
+      "3. डाइरेक्ट्रीज (directories)",
+      "4. एग्ज़िक्यूटेबल्स (executables)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following file extensions denotes a configuration file?",
+    "options": [
+      "1. .con",
+      "2. .cfg",
+      "3. .cgi",
+      "4. .clt"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा फाइल एक्सटेंशन, कॉन्फिगरेशन फाइल को दर्शाता है?",
+    "options": [
+      "1. .con",
+      "2. .cfg",
+      "3. .cgi",
+      "4. .clt"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A ______ is any file containing one or more files or directory that is smaller than their original file size.",
+    "options": [
+      "1. isometric file",
+      "2. small file",
+      "3. compressed file",
+      "4. sum file"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "______ एक ऐसी फाइल है जिसमें एक या अधिक फाइलें अथवा डायरेक्टरी होती है जो उनके मूल फाइल साइज से छोटी होती है।",
+    "options": [
+      "1. आइसोमेट्रिक फाइल (isometric file)",
+      "2. स्मॉल फाइल (small file)",
+      "3. कंप्रेस्ड फाइल (compressed file)",
+      "4. सम फाइल (sum file)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is one of the extensions of a data compression file?",
+    "options": [
+      "1. .tat",
+      "2. .tar",
+      "3. .tap",
+      "4. .tsr"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्न में से कौन-सा डेटा कम्प्रेशन फ़ाइल का एक्सटेंशन है?",
+    "options": [
+      "1. .tat",
+      "2. .tar",
+      "3. .tap",
+      "4. .tsr"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "RGB stands for ______, ______, ______, a model used in electronic displays, such as computer monitors, televisions and smartphone screens.",
+    "options": [
+      "1. red, green, blue",
+      "2. red, green, black",
+      "3. red, green, brown",
+      "4. red, grey, blue"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "RGB का पूर्ण रूप ______, ______,______ है, जो एक ऐसा मॉडल है जिसका उपयोग कंप्यूटर मॉनिटर, टेलीविज़न और स्मार्टफोन स्क्रीन जैसे इलेक्ट्रॉनिक डिस्प्ले में किया जाता है।",
+    "options": [
+      "1. red, green, blue (रेड, ग्रीन, ब्लू)",
+      "2. red, green, black (रेड, ग्रीन, ब्लैक)",
+      "3. red, green, brown (रेड, ग्रीन, ब्राउन)",
+      "4. red, grey, blue (रेड, ग्रे, ब्लू)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT a code name of Apple's macOS?",
+    "options": [
+      "1. Natty Narwhal",
+      "2. Yosemite",
+      "3. Sierra",
+      "4. High Sierra"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा Apple के macOS का कोड नाम नहीं है?",
+    "options": [
+      "1. Natty Narwhal",
+      "2. Yosemite",
+      "3. Sierra",
+      "4. High Sierra"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT a photo editing software?",
+    "options": [
+      "1. Photoshop",
+      "2. Lightroom",
+      "3. Photoshop Elements",
+      "4. Zoom"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा एक फोटो एडिटिंग सॉफ्टवेयर नहीं है?",
+    "options": [
+      "1. फोटोशॉप (Photoshop)",
+      "2. लाइटरूम (Lightroom)",
+      "3. फोटोशॉप एलीमेंट्स (Photoshop Elements)",
+      "4. ज़ूम (Zoom)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "_______ is a type of malicious software that is installed on your computer or mobile device without your consent.",
+    "options": [
+      "1. Spyware",
+      "2. Browser",
+      "3. One Time Password",
+      "4. System"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_______ एक प्रकार का मेलिशियस सॉफ़्टवेयर है जो आपकी सहमति के बिना आपके कंप्यूटर या मोबाइल डिवाइस पर इंस्टॉल हो जाता है।",
+    "options": [
+      "1. स्पाइवेयर",
+      "2. ब्राउज़र",
+      "3. वन टाइम पासवर्ड",
+      "4. सिस्टम"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "When the application is not working as per the requirement it is known as ________.",
+    "options": [
+      "1. a defect",
+      "2. an error",
+      "3. a trail",
+      "4. a fault"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "जब एप्लिकेशन आवश्यकता के अनुसार काम नहीं कर रहा होता है, तो इसे ________ के रूप में जाना जाता है।",
+    "options": [
+      "1. दोष (defect)",
+      "2. त्रुटि (error)",
+      "3. विफलता (failure)",
+      "4. फॉल्ट (fault)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is a 'vlog'?",
+    "options": [
+      "1. Video log",
+      "2. Video lan",
+      "3. Video blog",
+      "4. Log of blog activity"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "व्लॉग’ (vlog) क्या है?",
+    "options": [
+      "1. वीडियो लॉग",
+      "2. वीडियो लैन",
+      "3. वीडियो ब्लॉग",
+      "4. लॉग ऑफ व्लॉग एक्टिविटी"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What does acronym CRM stand for:",
+    "options": [
+      "1. Customer Relationship Management",
+      "2. Customer Relationship Media",
+      "3. Cost Reserve Management",
+      "4. Customer Resolve Management"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "संक्षिप्त रूप CRM का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Customer Relationship Management (कस्टमर रिलेशनशिप मैनेजमेंट)",
+      "2. Customer Relationship Media (कस्टमर रिलेशनशिप मीडिया)",
+      "3. Cost Reserve Management (कॉस्ट रिज़र्व मैनेजमेंट)",
+      "4. Customer Resolve Management (कस्टमर रिसॉल्व मैनेजमेंट)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "DML stands for:",
+    "options": [
+      "1. Data Manipulation Language",
+      "2. Data Maintenance Language",
+      "3. Disk Mapping Language",
+      "4. Data Migration Language"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "DML का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Data Manipulation Language (डेटा मैनीपुलेशन लैंग्वेज़)",
+      "2. Data Maintenance Language (डेटा मेंटेमेंटेनेंस लैंग्वेज़)",
+      "3. Disk Mapping Language (डिस्क मैपिंग लैंग्वेज़)",
+      "4. Data Migration Language (डेटा माइग्रेशन लैंग्वेज़)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following options provide an easy interface to browse the internet and web documents?",
+    "options": [
+      "1. E-mail",
+      "2. Browsers",
+      "3. Internet service providers",
+      "4. Filters"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्न में से कौन-सा विकल्प, इंटरनेट और वेब डॉक्यूमेंट ब्राउज़ करने के लिए एक आसान इंटरफ़ेस प्रदान करता है?",
+    "options": [
+      "1. ई-मेल",
+      "2. ब्राउज़र",
+      "3. इंटरनेट सर्विस प्रोवाइडर",
+      "4. फिल्टर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A browser ______ is a computer application that expands a web browser’s functionality by adding extra features to it.",
+    "options": [
+      "1. plug-ins",
+      "2. readers",
+      "3. activeX controls",
+      "4. pop-ups"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एक ब्राउज़र ______ एक कंप्यूटर एप्लिकेशन है जो वेब ब्राउज़र की फंक्शनलिटी को अतिरिक्त फीचरों से जोड़कर विस्तारित होता है।",
+    "options": [
+      "1. प्लग-इन्स (plug-ins)",
+      "2. रीडर्स (readers)",
+      "3. एक्टिवएक्स कंट्रोल्स (activeX controls)",
+      "4. पॉप-अप्स (pop-ups)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A web application that allows one to take educational courses online is known as:",
+    "options": [
+      "1. e-commerce",
+      "2. e-learning",
+      "3. e-blogs",
+      "4. e-post"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक वेब एप्लिकेशन, जो ऑनलाइन शैक्षणिक पाठ्यक्रम लेने की सुविधा देता है, _________ के रूप में जाना जाता है।",
+    "options": [
+      "1. ई-कॉमर्स",
+      "2. ई-लर्निंग",
+      "3. ई-ब्लॉग्स",
+      "4. ई-पोस्ट"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The To field in an email is used to:",
+    "options": [
+      "1. Mention hidden recipients",
+      "2. Mention main recipients",
+      "3. Attach files",
+      "4. Add a signature"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "किसी ईमेल में To field का उपयोग किसके लिए किया जाता है?",
+    "options": [
+      "1. छिपे हुए प्राप्तकर्ताओं का उल्लेख करने के लिए (Mention hidden recipients)",
+      "2. मुख्य प्राप्तकर्ताओं का उल्लेख करने के लिए (Mention main recipients)",
+      "3. फ़ाइलें संलग्न करने के लिए (Attach files)",
+      "4. एक हस्ताक्षर ऐड करने के लिए (Add a signature)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Layer-2 switch, that works on the Data Link Layer and utilizes MAC address to determine the path through where the frames are to be forwarded, is also called a:",
+    "options": [
+      "1. Multiport Hub",
+      "2. Multiport Switch",
+      "3. Multiport Bridge",
+      "4. Multiport NIC"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "लेयर-2 स्विच, जो डेटा लिंक लेयर पर काम करता है और मैक (MAC) एड्रेस का उपयोग उस पथ को निर्धारित करने के लिए करता है जहां से फ्रेम को अग्रेषित किया जाना है, को क्या कहा जाता है?",
+    "options": [
+      "1. मल्टीपोर्ट हब",
+      "2. मल्टीपोर्ट स्विच",
+      "3. मल्टीपोर्ट ब्रिज",
+      "4. मल्टीपोर्ट NIC"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is NOT a Data Definition Language (DDL) command?",
+    "options": [
+      "1. DELETE",
+      "2. DROP",
+      "3. CREATE",
+      "4. ALTER"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, डेटा डेफिनिशन लैंग्वेज (DDL) कमांड नहीं है?",
+    "options": [
+      "1. DELETE",
+      "2. DROP",
+      "3. CREATE",
+      "4. ALTER"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "1 TB = __________.",
+    "options": [
+      "1. 1024MB",
+      "2. 1024KB",
+      "3. 1024GB",
+      "4. 1024PB"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "1 TB = _____.",
+    "options": [
+      "1. 1024MB",
+      "2. 1024KB",
+      "3. 1024GB",
+      "4. 1024PB"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "With ______ internet service, you will NOT be able to watch streaming movies, listen to streaming music, or browse at a lightning fast internet speed.",
+    "options": [
+      "1. dial-up",
+      "2. satellite",
+      "3. fiber optic service",
+      "4. DSL"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "________ इंटरनेट सेवा के साथ, आप स्ट्री मिंग फिल्में नहीं देख पाएंगे, स्ट्री मिंग म्यूजिक नहीं सुन पाएंगे या इंटरनेट को तेज गति से ब्राउज़ नहीं कर पाएंगे।",
+    "options": [
+      "1. डायल-अप (dial-up)",
+      "2. सैटेलाइट (satellite)",
+      "3. फाइबर ऑप्टिक सर्विस (fiber optic service)",
+      "4. डीएसएल (DSL)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT a category of File Transfer Service?",
+    "options": [
+      "1. File Transfer Protocol (FTP)",
+      "2. Gopher",
+      "3. Telnet",
+      "4. Archie"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, फ़ाइल ट्रां सफर सर्विसेस (File Transfer Services) की श्रेणी नहीं है?",
+    "options": [
+      "1. फ़ाइल ट्रां सफर प्रोटोकॉल (File Transfer Protocol - FTP)",
+      "2. गोफर (Gopher)",
+      "3. टेलनेट (Telnet)",
+      "4. आर्ची (Archie)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is NOT an application software?",
+    "options": [
+      "1. Linux",
+      "2. MS-PowerPoint",
+      "3. MS-Word",
+      "4. MS-Excel"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा एक एप्लिकेशन सॉफ्टवेयर नहीं है?",
+    "options": [
+      "1. लिनक्स (Linux)",
+      "2. एमएस-पॉवरपॉइंट (MS-PowerPoint)",
+      "3. एमएस-वर्ड (MS-Word)",
+      "4. एमएस-एक्सेल (MS-Excel)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "<img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisFXC7dUAznpn3-E1qaGDj0FQXV1QvxUNea6h6HZDZsSB28NMRhRI0Ihr9_PcTSSWSpddry0CCntwB2vlWMrtRx6KHfk13VEYLlwLE8umKn7BWR7xGjhCvN70Qgt0KnHxUMnZm5evGUAwJ14DoJp0PyJOifMeHHDyTaakCn3Mcf0AhyHWzKd_fdsQSqhL1/s320/455%20k.png\" style=\"max-width:100%;height:auto;\"><br>The above picture is an example of a __________ in MS-Excel 2019.",
+    "options": [
+      "1. pie chart",
+      "2. bubble chart",
+      "3. hierarchy chart",
+      "4. bar chart"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "<img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisFXC7dUAznpn3-E1qaGDj0FQXV1QvxUNea6h6HZDZsSB28NMRhRI0Ihr9_PcTSSWSpddry0CCntwB2vlWMrtRx6KHfk13VEYLlwLE8umKn7BWR7xGjhCvN70Qgt0KnHxUMnZm5evGUAwJ14DoJp0PyJOifMeHHDyTaakCn3Mcf0AhyHWzKd_fdsQSqhL1/s320/455%20k.png\" style=\"max-width:100%;height:auto;\"><br>उपरोक्त चित्र MS-Excel 2019 में __________ का एक उदाहरण है।",
+    "options": [
+      "1. पाई चार्ट (pie chart)",
+      "2. बबल चार्ट (bubble chart)",
+      "3. हायरार्की चार्ट (hierarchy chart)",
+      "4. बार चार्ट (bar chart)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The ________ shortcut key is used to expand or collapse the ribbon in MS-Excel 2019.",
+    "options": [
+      "1. Ctrl + F1",
+      "2. Ctrl + F4",
+      "3. Ctrl + F5",
+      "4. Ctrl + Space"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में रिबन को विस्तृत या संक्षिप्त (expand or collapse) करने के लिए की-बोर्ड शॉर्टकट ________ का उपयोग किया जाता है।",
+    "options": [
+      "1. Ctrl + F1",
+      "2. Ctrl + F4",
+      "3. Ctrl + F5",
+      "4. Ctrl + Space"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The ________ shortcut key is used in MS-Excel 2019 to open the Insert tab to insert tables, pictures and shapes, headers, or text boxes.",
+    "options": [
+      "1. Alt + M",
+      "2. Alt + F",
+      "3. Alt + N",
+      "4. Alt + L"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel 2019 में टेबल्स, पिक्चर्स और शेप्स, हेडर्स अथवा टेक्स्ट बॉक्स इंसर्ट करने हेतु Insert टैब ओपन करने के लिए की-बोर्ड शॉर्टकट ________ का उपयोग किया जाता है।",
+    "options": [
+      "1. Alt + M",
+      "2. Alt + F",
+      "3. Alt + N",
+      "4. Alt + L"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "We can use ________ to maintain the original formatting or paste it as a link or a picture in MS-Excel 2019.",
+    "options": [
+      "1. Paste Special",
+      "2. Copy Special",
+      "3. Paste Cells",
+      "4. Cut Cells"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में मूल फॉर्मेटिंग को बनाए रखने अथवा इसे लिंक या पिक्चर के रूप में पेस्ट करने के लिए ________ का उपयोग किया जा सकता है।",
+    "options": [
+      "1. पेस्ट स्पेशल (Paste Special)",
+      "2. कॉपी स्पेशल (Copy Special)",
+      "3. पेस्ट सेल्स (Paste Cells)",
+      "4. कट सेल्स (Cut Cells)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "________ is the decimal equivalent for binary 100001.",
+    "options": [
+      "32",
+      "34",
+      "31",
+      "33"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "बाइनरी संख्या 100001 का दशमलव समतुल्य क्या होगा?",
+    "options": [
+      "32",
+      "34",
+      "31",
+      "33"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "An octal equivalent for hexadecimal C is:",
+    "options": [
+      "14",
+      "12",
+      "11",
+      "13"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "हेक्साडेसीमल C का ऑक्टल समतुल्य क्या होगा?",
+    "options": [
+      "14",
+      "12",
+      "11",
+      "13"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following formulas return the position of “March” as 3 in MS-Excel 2019? <br> <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0Arp79UkvQDLbALhucnf4wkLagoi2TjYcraI5UFMl2Q4aXqrAzauSnIpd2VbWWnkwa0nRCs-rTF4nbfEwqS9T6xUHgLAXr94MC7Kxr7qv4odU_GRuf5tddAmMq9-Sw6TwXPVGI1yyIrkjcUi3QRkiPXNQgkrDOy1b7AAHCLgzmS3VBgtlCvXRJoyZK9Ei/s320/fd45.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. MATCH(\"Mar\",C2:E2,0)",
+      "2. INDEX(C3:E11,Match(h2,b3:b11,0),2)",
+      "3. index(C3:E11,5,2)",
+      "4. index(C3:E11,5,3)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा सूत्र MS-Excel 2019 में \"March\" की पोजीशन को 3 के रूप में रिटर्न करता है? <br> <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0Arp79UkvQDLbALhucnf4wkLagoi2TjYcraI5UFMl2Q4aXqrAzauSnIpd2VbWWnkwa0nRCs-rTF4nbfEwqS9T6xUHgLAXr94MC7Kxr7qv4odU_GRuf5tddAmMq9-Sw6TwXPVGI1yyIrkjcUi3QRkiPXNQgkrDOy1b7AAHCLgzmS3VBgtlCvXRJoyZK9Ei/s320/fd45.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. MATCH(\"Mar\",C2:E2,0)",
+      "2. INDEX(C3:E11,Match(h2,b3:b11,0),2)",
+      "3. index(C3:E11,5,2)",
+      "4. index(C3:E11,5,3)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a Logical function in MS-Excel 2019?",
+    "options": [
+      "1. ACOS",
+      "2. AND",
+      "3. CONCATENATE",
+      "4. SUM"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, MS-Excel 2019 का एक लॉजिकल फंक्शन है?",
+    "options": [
+      "1. ACOS",
+      "2. AND",
+      "3. CONCATENATE",
+      "4. SUM"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In MS-Excel 2019, the BASE formula is an example of a:",
+    "options": [
+      "1. Financial function",
+      "2. Math & Trig function",
+      "3. Text function",
+      "4. Lookup and Reference function"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 में, BASE फॉर्मूला ________ का एक उदाहरण है।",
+    "options": [
+      "1. फाइनेंसिनें यल फ़ंक्शन (Financial function)",
+      "2. मैथ एंड ट्रिग फंक्शन (Math & Trig function)",
+      "3. टेक्स्ट फ़ंक्शन (Text function)",
+      "4. लुक-अप एंड रेफरेंस फ़ंक्शन (Lookup and Reference function)"
+    ],
+    "answer": 1
+  }
+],
+
   "10th May 2026 - Shift1": [
    {
     "q": "The microprocessors are ______, as we can use the same chip in a number of applications by configuring the software program.",
