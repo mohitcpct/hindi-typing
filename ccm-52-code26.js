@@ -5214,7 +5214,1049 @@
     "answer": 3
   }
 ],
-  
+
+  "11th May 2026 - Shift2": [
+ {
+    "q": "A ______ is a person who generally tests software for bugs, errors and defects.",
+    "options": [
+      "1. software tester",
+      "2. designer",
+      "3. hardware engineer",
+      "4. scientist"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______, एक ऐसा व्यक्ति है जो आम तौर पर बग, त्रुटियों और दोषों के लिए सॉफ्टवेयर का परीक्षण करता है।",
+    "options": [
+      "1. सॉफ्टवेयर टेस्टर",
+      "2. डिज़ाइनर",
+      "3. हार्डवेयर इंजीनियर",
+      "4. वैज्ञानिक"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following functions tests whether a supplied value is text, and if not, returns an empty text string in MS-Excel 2019?",
+    "options": [
+      "1. TSTR function",
+      "2. TSTRING function",
+      "3. TEST function",
+      "4. T function"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel 2019 में, निम्नलिखित में से कौन-सा फ़ंक्शन यह परीक्षण करता है कि क्या आपूर्ति किया गया मान टेक्स्ट है, और यदि नहीं है, तो यह एक खाली टेक्स्ट स्ट्रिंग लौटाता है?",
+    "options": [
+      "1. TSTR फ़ंक्शन",
+      "2. TSTRING फ़ंक्शन",
+      "3. TEST फ़ंक्शन",
+      "4. T फ़ंक्शन"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is the shortcut key combination to move one sheet to the right in an OpenOffice Calc?",
+    "options": [
+      "1. Ctrl + Page Down",
+      "2. Page Down",
+      "3. Shift + Page Down",
+      "4. Shift + Ctrl + Page Down"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "ओपन ऑफ़िस कैल्क (open office Calc) में, एक शीट दाएँ जाने के लिए संक्षिप्त कुंजी संयोजन क्या है?",
+    "options": [
+      "1. Ctrl + Page Down",
+      "2. Page Down",
+      "3. Shift + Page Down",
+      "4. Shift + Ctrl + Page Down"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ is a digital optical disc storage unit.",
+    "options": [
+      "1. CD-Recordable",
+      "2. Floppy disc",
+      "3. Hard drive",
+      "4. Pen drive"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_________ एक डिजिटल ऑप्टिकल डिस्क स्‍टोरेज यूनिट है।",
+    "options": [
+      "1. CD-रिकॉर्डेबल",
+      "2. फ़्लॉपी डिस्क",
+      "3. हार्ड ड्राइव",
+      "4. पेन ड्राइव"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following options is used to customise the set of partitions that Fedora creates, to configure your system to use drives in RAID arrays, or to modify the boot options for your computer?",
+    "options": [
+      "1. Review and modify partitioning layout",
+      "2. Remove partition",
+      "3. Create custom layout",
+      "4. Use free space"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा विकल्प, फेडोरा (Fedora) द्वारा बनाए जाने वाले पार्टिशन के सेट को कस्टमाइज़ करने के लिए उपयोग किया जाता है, ताकि RAID एरे में ड्राइव का उपयोग करने के लिए अपने सिस्टम को कॉन्फ़िगर या अपने कंप्यूटर के बूट विकल्पों को संशोधित किया जा सके?",
+    "options": [
+      "1. रिव्यु एंड मॉडिफाई पार्टीशनिंग लेआउट (Review and modify partitioning layout)",
+      "2. रिमूव पार्टीशन (Remove partition)",
+      "3. क्रिएट कस्टम लेआउट (Create custom layout)",
+      "4. यूज़ फ्री स्पेस (Use free space)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The given icon stands for _______, which is the 'Start Mail Merge' option of the 'Start Mail Merge' group in MS-Word 2019. <br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglwsdXR-YHEW7eO55_KyV_rSQImf_yImKmETzgiBubbMNOIAqFeHLeOtDwXBnhZ09sCKzaRS8rV99okpRAj24pmx-A8QNyv-Jq4USmIskMC1TLlEJjXAmFGW30r7-6t5M89d3uFwEj_bjans540goPfHd_8K_EAhmRdxlDgk1TQTk6RE5v_DBdB3chJJqm/s1600/45f%20f.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. Letters",
+      "2. Email messages",
+      "3. Envelopes",
+      "4. Labels"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "दिया गया आइकन _______ को दर्शाता है, जो MS‑Word 2019 में ‘Start Mail Merge’ समूह का ‘Start Mail Merge’ विकल्प है। <br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglwsdXR-YHEW7eO55_KyV_rSQImf_yImKmETzgiBubbMNOIAqFeHLeOtDwXBnhZ09sCKzaRS8rV99okpRAj24pmx-A8QNyv-Jq4USmIskMC1TLlEJjXAmFGW30r7-6t5M89d3uFwEj_bjans540goPfHd_8K_EAhmRdxlDgk1TQTk6RE5v_DBdB3chJJqm/s1600/45f%20f.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. पत्र (Letters)",
+      "2. ईमेल संदेश (Email messages)",
+      "3. लिफाफे (Envelopes)",
+      "4. लेबल (Labels)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following software systems help businesses and organisations to track products, prices and stock levels for inventory management, resulting in a significant increase in productivity and efficiency?",
+    "options": [
+      "1. Intrusion detection system",
+      "2. Encryption system",
+      "3. Barcode Inventory System",
+      "4. Database management system"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन‑सा सॉफ़्टवेयर सिस्टम, व्यवसायों और संगठनों को उत्पादों, दों उनकी कीमतों और स्टॉक के स्तर को ट्रैक करने में मदद करता है, जिससे इन्वेंटरी प्रबंधन में उत्पादकता और दक्षता में उल्लेखनीय वृद्धि होती है?",
+    "options": [
+      "1. इंट्रूज़न डिटेक्शन सिस्टम (Intrusion Detection System)",
+      "2. एन्क्रिप्शन सिस्टम (Encryption System)",
+      "3. बारकोड इन्वेंटरी सिस्टम (Barcode Inventory System)",
+      "4. डेटाबेस प्रबंधन सिस्टम (Database Management System)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Computer use the ______ number system to store data and perform calculations.",
+    "options": [
+      "1. decimal",
+      "2. hexadecimal",
+      "3. binary",
+      "4. octal"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "कंप्यूटर डेटा स्टोर करने और गणना करने के लिए ______संख्या पद्धति (number system) का उपयोग करता है।",
+    "options": [
+      "1. दशमलव (decimal)",
+      "2. षोडश आधारी (hexadecimal)",
+      "3. द्विआधारी (binary)",
+      "4. अष्टाधारी (octal)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following best describes a key difference between a plotter and a printer?",
+    "options": [
+      "1. A plotter is designed for high-precision vector graphics, while a printer is mainly used for general text and image printing",
+      "2. A printer is mainly used for large engineering drawings, while a plotter is used for simple text documents",
+      "3. A plotter works faster than a printer for all types of outputs",
+      "4. A printer can draw continuous lines, whereas a plotter cannot"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन‑सा कथन प्लॉटर (Plotter) और प्रिंटर (Printer) के बीच मुख्य अंतर का सबसे अच्छी तरह से वर्णन करता है?",
+    "options": [
+      "1. प्लॉटर उच्च‑सटीकता (High‑Precision) वाले वेक्टर ग्राफ़िक्स के लिए डिज़ाइन किया गया है, जबकि प्रिंटर का उपयोग मुख्य रूप से सामान्य टेक्स्ट (Text) और इमेज (Images) प्रिंटिंग के लिए किया जाता है।",
+      "2. प्रिंटर का उपयोग मुख्य रूप से बड़े इंजीनियरिंग ड्रॉ इंग के लिए किया जाता है, जबकि प्लॉटर साधारण टेक्स्ट दस्तावेज़ों के लिए उपयोग किया जाता है।",
+      "3. प्लॉटर सभी प्रकार के आउटपुट के लिए प्रिंटर से अधिक तेज़ गति से कार्य करता है।",
+      "4. प्रिंटर सतत रेखाएँ (Continuous Lines) खींचखीं सकता है, जबकि प्लॉटर ऐसा नहीं कर सकता।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The pattern of printed lines on most products is called:",
+    "options": [
+      "1. barcode",
+      "2. OCR code",
+      "3. MICR code",
+      "4. price code"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "अधिकांश उत्पादों पर मुद्रित (printed) लाइनों के पैटर्न को किस नाम से जाना जाता है?",
+    "options": [
+      "1. बारकोड",
+      "2. OCR कोड",
+      "3. MICR कोड",
+      "4. कीमत कोड"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "With reference to motherboard, which of the following determines additional parameters such as the casing, power supply, mounting holes and overall physical layout?",
+    "options": [
+      "1. Multi factor",
+      "2. Form factor",
+      "3. Grouping",
+      "4. Embedding"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "मदर बोर्ड के संदर्भ में, निम्नलिखित में से कौन-सा, अतिरिक्त पैरामीटर जैसे केसिंग, विद्युत आपूर्ति, माउंटिंग होल और समग्र भौतिक लेआउट निर्धारित करता है?",
+    "options": [
+      "1. मल्टी फैक्टर (Multi factor)",
+      "2. फॉर्म फैक्टर (Form factor)",
+      "3. ग्रुपिंग (Grouping)",
+      "4. एम्बेडिंग (Embedding)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a connection point that acts as an interface between the computer and external devices like mouse, printer, modem, etc. ?",
+    "options": [
+      "1. Cable",
+      "2. Port",
+      "3. Live code",
+      "4. Chip"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, एक कनेक्शन पॉइंट है जो कंप्यूटर और बाहरी उपकरणों जैसे कि माउस, प्रिंटर, मॉडेम, आदि के बीच एक इंटरफेस के रूप में कार्य करता है?",
+    "options": [
+      "1. केबल",
+      "2. पोर्ट",
+      "3. लाइव कोड",
+      "4. चिप"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Mouse is a ________ device.",
+    "options": [
+      "1. plotting",
+      "2. printing",
+      "3. scanning",
+      "4. pointing"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "माउस किस प्रकार का उपकरण (Device) है?",
+    "options": [
+      "1. प्लॉटिंग (Plotting)",
+      "2. प्रिंटिंग (Printing)",
+      "3. स्कैनिंग (Scanning)",
+      "4. पॉइंटिंग (Pointing)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The process of temporarily transferring a block of data between secondary storage to main memory and vice-versa is called _______.",
+    "options": [
+      "1. blocking",
+      "2. swapping",
+      "3. seeking",
+      "4. flooding"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "सेकंडरी स्‍टोरेज से मुख्‍य मेमोरी के बीच और इसके विपरीत, डेटा के किसी ब्लॉक को अस्थायी रूप से स्थानांतरित करने की प्रक्रिया को क्या कहा जाता है?",
+    "options": [
+      "1. ब्लॉकिंग (Blocking)",
+      "2. स्वैपिंग (Swapping)",
+      "3. सीकिंग (Seeking)",
+      "4. फ्लडिंग (Flooding)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is NOT a valid language translating program?",
+    "options": [
+      "1. Assembler",
+      "2. MS-Excel",
+      "3. Compiler",
+      "4. Interpreter"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, एक वैध भाषा अनुवाद प्रोग्राम नहीं है?",
+    "options": [
+      "1. एसेम्बलर (Assembler)",
+      "2. एमएस-एक्‍सेल (MS-Excel)",
+      "3. कंपाइलर (Compiler)",
+      "4. इंटरप्रेटर (Interpreter)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following printers uses a print head with tiny pins that physically strike an ink ribbon?",
+    "options": [
+      "1. Thermal printer",
+      "2. Dot matrix printer",
+      "3. Laser printer",
+      "4. Inkjet printer"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन‑सा प्रिंटर छोटे‑छोटे पिन वाले प्रिंट हेड का उपयोग करता है, जो स्याही रिबन (Ink Ribbon) पर भौतिक रूप से प्रहार (strike) करती हैं?",
+    "options": [
+      "1. थर्मल प्रिंटर (Thermal Printer)",
+      "2. डॉट मैट्रिक्स प्रिंटर (Dot Matrix Printer)",
+      "3. लेज़र प्रिंटर (Laser Printer)",
+      "4. इंकजेट प्रिंटर (Inkjet Printer)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is an example of a third generation computer?",
+    "options": [
+      "1. IBM 360",
+      "2. IBM 1400 series",
+      "3. IBM PC",
+      "4. IBM 7090"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, तीसरी पीढ़ी के कंप्यूटर का एक उदाहरण है?",
+    "options": [
+      "1. IBM 360",
+      "2. IBM1400 सिरीज़",
+      "3. IBM PC",
+      "4. IBM 7090"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_____ processes the input block of elements at a time, producing output block for each input block.",
+    "options": [
+      "1. Lump cipher",
+      "2. Chunk cipher",
+      "3. Stream cipher",
+      "4. Block cipher"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "______ एक समय में एलिमेंट्स के इनपुट ब्लॉक को प्रोसेस करता है, और प्रत्येक इनपुट ब्लॉक के लिए आउटपुट ब्लॉक का निर्माण करता है।",
+    "options": [
+      "1. लम्‍प सिफ़र (Lump cipher)",
+      "2. चंक सिफ़र (Chunk cipher)",
+      "3. स्ट्रीम सिफ़र (Stream cipher)",
+      "4. ब्लॉक सिफ़र (Block cipher)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which technology is primarily used to connect devices to a Wireless Local Area Network (WLAN)?",
+    "options": [
+      "1. Bluetooth",
+      "2. Wi-Fi",
+      "3. Ethernet",
+      "4. HDMI"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "किस तकनीक का मुख्य रूप से उपयोग डिवाइसों को वायरलेस लोकल एरिया नेटवर्क (WLAN) से जोड़ने के लिए किया जाता है?",
+    "options": [
+      "1. ब्लूटूथ (Bluetooth)",
+      "2. वाई‑फाई (Wi‑Fi)",
+      "3. ईथरनेट (Ethernet)",
+      "4. एचडीएमआई (HDMI)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Tracks of the hard disk are further subdivided into:",
+    "options": [
+      "1. vectors",
+      "2. sectors",
+      "3. clusters",
+      "4. heads"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "हार्ड-डिस्क के ट्रैक को आगे किसमें उपविभाजित किया जाता है?",
+    "options": [
+      "1. वेक्टर्स",
+      "2. सेक्टर्स",
+      "3. क्लस्टर्स",
+      "4. हेड्स"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In which category does the Ctrl (Control) key of a keyboard fall?",
+    "options": [
+      "1. Modifier Keys",
+      "2. Numeric keys",
+      "3. Typing keys",
+      "4. Function keys"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कीबोर्ड की Ctrl (Control) कुंजी किस श्रेणी (Category) में आती है?",
+    "options": [
+      "1. मॉडिफ़ायर कुंजियाँ (Modifier Keys)",
+      "2. न्यूमेरिक कुंजियाँ (Numeric Keys)",
+      "3. टाइपिंग कुंजियाँ (Typing Keys)",
+      "4. फ़ंक्शन कुंजियाँ (Function Keys)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The ___________ command is a simple yet powerful utility designed to reveal the current username associated with the active user session in Unix/Linux OS.",
+    "options": [
+      "1. whatiam",
+      "2. whoami",
+      "3. whoiam",
+      "4. whoru"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "___________ कमांड एक सरल, फिर भी शक्तिशाली यूटिलिटी है, जिसे Unix/Linux OS में सक्रिय उपयोगकर्ता सत्र से जुड़े वर्तमान उपयोगकर्ता नाम को प्रदर्शित करने के लिए डिज़ाइन किया गया है।",
+    "options": [
+      "1. whatiam",
+      "2. whoami",
+      "3. whoiam",
+      "4. whoru"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Windows Media video files have ______ extension.",
+    "options": [
+      "1. .wm",
+      "2. .wmv",
+      "3. .mv",
+      "4. .video"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "विंडोज मीडिया वीडियो फाइल में ______ एक्सटेंशन होता है।",
+    "options": [
+      "1. .wm",
+      "2. .wmv",
+      "3. .mv",
+      "4. .video"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the full form of CSV?",
+    "options": [
+      "1. Common Spread Values",
+      "2. Common Sheet Values",
+      "3. Comma Separated Values",
+      "4. Comma Spread Values"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "CSV का पूर्ण रूप (Full Form) क्या है?",
+    "options": [
+      "1. कॉमन स्प्रेड वैल्यूज़ (Common Spread Values)",
+      "2. कॉमन शीट वैल्यूज़ (Common Sheet Values)",
+      "3. कॉमा सेपरेटेड वैल्यूज़ (Comma Separated Values)",
+      "4. कॉमा स्प्रेड वैल्यूज़ (Comma Spread Values)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which extension is used for an MPEG-4 video file?",
+    "options": [
+      "1. .mp1",
+      "2. .mp2",
+      "3. .mp3",
+      "4. .mp4"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MPEG-4 वीडियो फाइल के लिए किस एक्सटेंशन का उपयोग किया जाता है?",
+    "options": [
+      "1. .mp1",
+      "2. .mp2",
+      "3. .mp3",
+      "4. .mp4"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Low contrast images use ______ intensity values.",
+    "options": [
+      "1. huge",
+      "2. excess",
+      "3. few",
+      "4. no"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "कम कॉन्ट्रास्ट वाली इमेज ________ तीव्रता मानों का उपयोग करती हैं।",
+    "options": [
+      "1. वृहत् (huge)",
+      "2. अत्‍यधिक (excess)",
+      "3. कुछ (few)",
+      "4. शून्य (no)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The creation of motion from still pictures is called:",
+    "options": [
+      "1. animation",
+      "2. a presentation",
+      "3. transition",
+      "4. 3-D modeling"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "स्थिर चित्रों से गति उत्‍पन्‍न करने की प्रक्रिया को क्या कहा जाता है?",
+    "options": [
+      "1. एनीमेशन",
+      "2. प्रेजेंटेजेंटेशन",
+      "3. ट्रांजीशन",
+      "4. 3-D मॉडलिंग"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which input device is used to move the cursor on a computer screen?",
+    "options": [
+      "1. Joystick",
+      "2. Printer",
+      "3. Scanner",
+      "4. OCR"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कंप्यूटर स्क्रीन पर कर्सर को मूव करने के लिए किस इनपुट डिवाइस का उपयोग किया जाता है?",
+    "options": [
+      "1. जॉयस्टिक",
+      "2. प्रिंटर",
+      "3. स्कैनर",
+      "4. OCR"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A _______ is a type of malware that typically gets hidden as an attachment in an email or a free-to-download file, and then transfers onto the user’s device.",
+    "options": [
+      "1. virus",
+      "2. bug",
+      "3. worm",
+      "4. trojan horse"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "_______ एक तरह का मैलवेयर है जो आम तौर पर किसी ईमेल या फ्री-टू-डाउनलोड फ़ाइल में अटैचमेंट के तौर पर छिप जाता है, और फिर यूज़र के डिवाइस पर ट्रां सफर हो जाता है।",
+    "options": [
+      "1. वायरस",
+      "2. बग",
+      "3. वॉर्म",
+      "4. ट्रॉजन हॉर्स"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In testing, Statement coverage will NOT check for which of the following?",
+    "options": [
+      "1. Unused statement",
+      "2. Dead code",
+      "3. Unused branches",
+      "4. Optimize code"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "टेस्टिंग में, स्टेटमेंट कवरेज निम्नलिखित में से किसके लिए जाँच नहीं करेगा?",
+    "options": [
+      "1. अप्रयुक्त कथन (Unused statement)",
+      "2. निष्‍क्रिय कोड (Dead code)",
+      "3. अप्रयुक्त शाखाएं (Unused branches)",
+      "4. ऑप्टिमाइज़ कोड (Optimize code)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following sites can be used to set up an email account?",
+    "options": [
+      "1. www.egreetings.com",
+      "2. www.gmail.com",
+      "3. www.linxu.com",
+      "4. www.facebook.com"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से किस साइट का उपयोग एक ईमेल एकाउंट सेट अप करने के लिए किया जा सकता है?",
+    "options": [
+      "1. www.egreetings.com",
+      "2. www.gmail.com",
+      "3. www.linxu.com",
+      "4. www.facebook.com"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "An element in a web page that opens another document is known as a/an _______________.",
+    "options": [
+      "1. website",
+      "2. hyperlink",
+      "3. reference",
+      "4. alias"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "किसी वेब पेज में वह एलीमेंट जो किसी दूसरे डॉक्यूमेंट को खोलता है, उसे _______ नाम से जाना जाता है।",
+    "options": [
+      "1. वेबसाइट",
+      "2. हाइपरलिंक",
+      "3. रेफरेंस",
+      "4. एलिआस"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "An email address typically consists of a user ID followed by the ____ sign and the name of the email server that manages the user's electronic post office box.",
+    "options": [
+      "1. @",
+      "2. #",
+      "3. &",
+      "4. *"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एक ई-मेल पते में आमतौर पर यूज़र ID के बाद ____ चिह्न और ई-मेल सर्वर का नाम होता है जो यूज़र के इलेक्ट्रॉनिक पोस्ट ऑफिस बॉक्स का प्रबंधन करता है।",
+    "options": [
+      "1. @",
+      "2. #",
+      "3. &",
+      "4. *"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a connection-oriented protocol and offers end-to-end packet delivery over the Internet?",
+    "options": [
+      "1. TCP",
+      "2. IP",
+      "3. UDP",
+      "4. FTP"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, एक कनेक्शन-ओरिएंटेड प्रोटोकॉल है और इंटरनेट पर एंड-टू-एंड पैकेट डिलीवरी प्रदान करता है?",
+    "options": [
+      "1. TCP",
+      "2. IP",
+      "3. UDP",
+      "4. FTP"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is an application of information technology and communication for providing government services?",
+    "options": [
+      "1. E-commerce",
+      "2. E-mobile",
+      "3. E-science",
+      "4. E-governance"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, सरकारी सेवाएं प्रदान करने के लिए सूचना प्रौद्योगिकी और संचार का एक एप्लिकेशन है?",
+    "options": [
+      "1. ई-कॉमर्स (E-commerce)",
+      "2. ई-मोबाइल (E-mobile)",
+      "3. ई-साइंस (E-science)",
+      "4. ई-गवर्नेंस (E-governance)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is an automated system for efficient working of Transport departments and service delivery to the citizens for issue of vehicle registration & driving license?",
+    "options": [
+      "1. E-transport",
+      "2. E-medicine",
+      "3. E-filing",
+      "4. E-marker"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सी, वाहन पंजीकरण और ड्राइविंग लाइसेंस जारी करने के लिए परिवहन विभागों के कुशल कामकाज और नागरिकों के लिए सेवा वितरण की एक स्वचालित प्रणाली है?",
+    "options": [
+      "1. ई-ट्रांसपोर्ट (E-transport)",
+      "2. ई-मेडिसीन (E-medicine)",
+      "3. ई-फाइलिंग (E-filing)",
+      "4. ई-मार्कर (E-marker)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The term 'broadband' covers all the following types of internet connections, EXCEPT:",
+    "options": [
+      "1. cable",
+      "2. dial-up",
+      "3. satellite",
+      "4. DSL"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ब्रॉडबैंड (broadband) शब्द, निम्नलिखित में से किस एक को छोड़कर शेष सभी प्रकार के इंटरनेट कनेक्शन को समाविष्ट करता है?",
+    "options": [
+      "1. केबल",
+      "2. डायल-अप",
+      "3. सैटेलाइट",
+      "4. DSL"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following provides a software interface that allows you to click hyperlinked resources on the WWW?",
+    "options": [
+      "1. URL",
+      "2. URI",
+      "3. Browser",
+      "4. IP address"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, एक सॉफ्टवेयर इंटरफ़ेस प्रदान करता है जो आपको WWW पर हाइपरलिंक्ड रिसोर्स पर क्लिक करने की सुविधा देता है?",
+    "options": [
+      "1. URL",
+      "2. URI",
+      "3. ब्राउज़र",
+      "4. IP एड्रेस"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Mailing Lists, Instant Messaging and VoIP are what type of internet services?",
+    "options": [
+      "1. Knowledge transfer",
+      "2. World Wide Web",
+      "3. Information retrieval",
+      "4. Communication"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "मेलिंग लिस्ट, इंस्टेंट मैसेजिंग और VoIP किस प्रकार की इंटरनेट सेवाएं हैं?",
+    "options": [
+      "1. ज्ञान हस्तांतरण (Knowledge transfer)",
+      "2. वर्ल्ड वाइड वेब (World Wide Web)",
+      "3. सूचना पुनर्प्राप्ति (Information retrieval)",
+      "4. संचार (Communication)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A typical URL could have the form http://www.example.com/index.html, in which 'http' indicates:",
+    "options": [
+      "1. a hostname",
+      "2. a protocol",
+      "3. an address",
+      "4. a file name"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक सामान्य URL http.//www.example.com/index.html के रूप में हो सकता है, जिसमें 'http' क्या दर्शाता है?",
+    "options": [
+      "1. एक होस्ट नाम",
+      "2. एक प्रोटोकॉल",
+      "3. एक एड्रेस",
+      "4. एक फ़ाइल नाम"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A typical URL could have the form http://www.example.com/index.html, in which 'example' indicates:",
+    "options": [
+      "1. a computer name",
+      "2. a protocol",
+      "3. an address",
+      "4. a domain name"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "एक सामान्य URL http://www.example.com/index.html के रूप में हो सकता है, इसमें ‘example’क्या दर्शाता है?",
+    "options": [
+      "1. एक कंप्यूटर नाम",
+      "2. एक प्रोटोकॉल",
+      "3. एक एड्रेस",
+      "4. एक डोमेन नाम"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "‘Margins’ option is available in which of the following ribbon menus in MS-Word 2019?",
+    "options": [
+      "1. Developer",
+      "2. Home",
+      "3. File",
+      "4. Layout"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Word 2019 में, ‘मार्जिन्‍स (Margins)’ विकल्प निम्न में से किस रिबन मेनू में उपलब्ध है?",
+    "options": [
+      "1. डेवलपर (Developer)",
+      "2. होम (Home)",
+      "3. फाइल (File)",
+      "4. लेआउट (Layout)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Almost every computer comes with a small amount of ROM containing the _________.",
+    "options": [
+      "1. freeware",
+      "2. shareware",
+      "3. utility software",
+      "4. boot firmware"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "लगभग हर कंप्यूटर में थोड़ी मात्रा में ROM होता है जिसमें _________ होता है।",
+    "options": [
+      "1. फ्रीवेयर",
+      "2. शेयरवेयर",
+      "3. यूटिलिटी सॉफ्टवेयर",
+      "4. बूट फर्मवेयर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is the 2’s complement of 13?",
+    "options": [
+      "1. 1111 0011",
+      "2. 1111 0010",
+      "3. 1111 0001",
+      "4. 1111 0111"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "13 का द्विसंपूरक (2’s Complement) क्या है?",
+    "options": [
+      "1. 1111 0011",
+      "2. 1111 0010",
+      "3. 1111 0001",
+      "4. 1111 0111"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is 2’s complement of –15?",
+    "options": [
+      "1. 00001111",
+      "2. 11110001",
+      "3. 00001110",
+      "4. 00001100"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "-15 का द्विसंपूरक (2’s Complement) क्या है?",
+    "options": [
+      "1. 00001111",
+      "2. 11110001",
+      "3. 00001110",
+      "4. 00001100"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a lookup function in MS-Excel 2019?",
+    "options": [
+      "1. EXACT",
+      "2. FIND",
+      "3. INDEX",
+      "4. PROPER"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel 2019 में, निम्न में से कौन-सा एक लुकअप फंक्शन है?",
+    "options": [
+      "1. EXACT",
+      "2. FIND",
+      "3. INDEX",
+      "4. PROPER"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In MS-Excel, ‘=$A$1’ is an example of a/an ____________.",
+    "options": [
+      "1. relative reference",
+      "2. absolute reference",
+      "3. mixed reference",
+      "4. reflexive reference"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel में, ‘=$A$1’ ________ का एक उदाहरण है।",
+    "options": [
+      "1. रिलेटिव रेफरेंस (relative reference)",
+      "2. एब्सलूट रेफरेंस (absolute reference)",
+      "3. मिक्स्ड रेफरेंस (mixed reference)",
+      "4. रिफ्लेक्सिव रेफरेंस (reflexive reference)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A ________ in MS-Excel 2019 illustrates comparisons among individual items. The categories are organised along the vertical axis and the values are organised along the horizontal axis.",
+    "options": [
+      "1. radar chart",
+      "2. scatter chart",
+      "3. stock chart",
+      "4. bar chart"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel 2019 में एक ________ अलग-अलग आइटमों के बीच तुलना को दर्शाता है। श्रेणियों को लंबवत अक्ष के साथ और मानों को क्षैतिज अक्ष के साथ व्यवस्थित किया जाता है।",
+    "options": [
+      "1. रडार चार्ट (radar chart)",
+      "2. स्कैटर चार्ट (scatter chart)",
+      "3. स्टॉक चार्ट (stock chart)",
+      "4. बार चार्ट (bar chart)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A _________ in MS-Excel 2019 contains rings, with each ring representing one data series.",
+    "options": [
+      "1. radar chart",
+      "2. scatter chart",
+      "3. stock chart",
+      "4. doughnut chart"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel 2019 में एक _________ में रिंग होते हैं जिनमें प्रत्येक रिंग एक डेटा शृंखला को निरूपित करती है।",
+    "options": [
+      "1. रडार चार्ट (radar chart)",
+      "2. स्कैटर चार्ट (scatter chart)",
+      "3. स्टॉक चार्ट (stock chart)",
+      "4. डोनट चार्ट (doughnut chart)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The keyboard shortcut ________ is used in MS-Excel 2019 to apply the General number format.",
+    "options": [
+      "1. Ctrl + Shift + =",
+      "2. Ctrl + Shift + ~",
+      "3. Ctrl + Shift + %",
+      "4. Ctrl + Shift + &"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 में जनरल नंबर फॉर्मेट (general number format) को लागू करने के लिए ________ कीबोर्ड शॉर्टकट का उपयोग किया जाता है।",
+    "options": [
+      "1. Ctrl + Shift + =",
+      "2. Ctrl + Shift + ~",
+      "3. Ctrl + Shift + %",
+      "4. Ctrl + Shift + &"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following keyboard shortcuts in MS-Excel 2019 is used to apply the Percentage format with no decimal places?",
+    "options": [
+      "1. Ctrl + Shift + Drag",
+      "2. Ctrl + Shift + %",
+      "3. Shift + Drag",
+      "4. Alt + Drag"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 में निम्नलिखित में से कौन-सा कीबोर्ड शॉर्टकट बिना किसी दशमलव स्थानों के परसेंटेसेंटेज फ़ॉर्मेट (Percentage format) लागू करने के लिए उपयोग किया जाता है?",
+    "options": [
+      "1. Ctrl + Shift + Drag",
+      "2. Ctrl + Shift + %",
+      "3. Shift + Drag",
+      "4. Alt + Drag"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The __________ keyboard shortcut is used in MS-Excel 2019 to calculate the active worksheets in a workbook.",
+    "options": [
+      "1. F9",
+      "2. Ctrl + F9",
+      "3. Shift + F9",
+      "4. Alt + F9"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel 2019 में, किसी वर्कबुक में एक्टिव वर्कशीटों की संख्या की गणना करने के लिए __________ कीबोर्ड शॉर्टकट का उपयोग किया जाता है।",
+    "options": [
+      "1. F9",
+      "2. Ctrl + F9",
+      "3. Shift + F9",
+      "4. Alt + F9"
+    ],
+    "answer": 2
+  }
+],
 
 "13th March 2026 - Shift1": [
   {
