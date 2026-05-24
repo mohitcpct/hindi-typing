@@ -3129,6 +3129,1049 @@
   }
 ],
 
+  "10th May 2026 - Shift2": [
+{
+    "q": "Which of the following components is responsible for interpreting and executing program instructions in a computer system?",
+    "options": [
+      "1. CPU",
+      "2. VDU",
+      "3. Printers",
+      "4. Scanners"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा घटक कंप्यूटर सिस्टम में प्रोग्राम निर्देशों की व्याख्या और निष्पादन के लिए जिम्मेदार है?",
+    "options": [
+      "1. CPU",
+      "2. VDU",
+      "3. प्रिंटर",
+      "4. स्कैनर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which function in MS-Excel 2019 locates one text string within a second text string, and return the number of the starting position of the first text string from the first character of the second text string?",
+    "options": [
+      "1. FIND",
+      "2. STRLEN",
+      "3. LEN",
+      "4. POSCHAR"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में कौन-सा फ़ंक्शन दूसरी टेक्स्ट स्ट्रिंग के भीतर एक टेक्स्ट स्ट्रिंग को लोकेट करता है, और दूसरी टेक्स्ट स्ट्रिंग के पहले अक्षर से पहली टेक्स्ट स्ट्रिंग की शुरुआती स्थिति की संख्या प्रदान करता है?",
+    "options": [
+      "1. FIND",
+      "2. STRLEN",
+      "3. LEN",
+      "4. POSCHAR"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the shortcut key combination to move the cursor to the last cell on the sheet that contains data in an OpenOffice Calc?",
+    "options": [
+      "1. Alt + End",
+      "2. Ctrl + End",
+      "3. Shift + End",
+      "4. End"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ओपन ऑफ़िस कैल्क (OpenOffice Calc) में, कर्सर को डेटा युक्त शीट की अंतिम सेल में ले जाने के लिए की-बोर्ड शॉर्टकट निम्न में से क्या है?",
+    "options": [
+      "1. Alt + End",
+      "2. Ctrl + End",
+      "3. Shift + End",
+      "4. End"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "When the data is saved to the _______, it remains intact even when the computer is turned off.",
+    "options": [
+      "1. RAM",
+      "2. motherboard",
+      "3. secondary storage device",
+      "4. primary storage device"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "जब डेटा को _______ में सेव किया जाता है, तो कंप्यूटर बंद होने पर भी यह मौजूद रहता है।",
+    "options": [
+      "1. RAM",
+      "2. मदरबोर्ड",
+      "3. सेकेंडरी स्टोरेज़ डिवाइस",
+      "4. प्राइमरी स्टोरेज़ डिवाइस"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which number system is the basis for computer operation?",
+    "options": [
+      "1. Hexadecimal",
+      "2. Octal",
+      "3. Decimal",
+      "4. Binary"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कंप्यूटर की विभिन्न संक्रियाओं के लिए निम्न में से कौन-सी संख्या प्रणाली आधार प्रदान करती है?",
+    "options": [
+      "1. हेक्साडेसीमल",
+      "2. ऑक्टल",
+      "3. डेसीमल",
+      "4. बाइनरी"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Under which tab, the group of commands shown in the below picture are found in MS-Word 2019? <br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHZA4-C_MyuS25Q_8IBVHXFlGzMQ-l-0AG8euFNhMOLe6bbw96I_GxmFqopIJcR_y45wc0M3gF3H4M23vR-9O6G68GtH_VHTO6ewGhjIx26zOvnSa8R3MCQoBQHHV7GKSjDYZUCRhwsxVK_aCdE7bOYXWLMAeS-urZs6Xx6YAw9oH2ukVhslQ92kGsAa3c/s1600/45%20fgd.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. Mailings",
+      "2. View",
+      "3. Layout",
+      "4. Design"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "नीचे चित्र में दिखाए गए कमांड का समूह MS-Word 2019 में किस टैब के अंतर्गत पाया जाता है? <br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHZA4-C_MyuS25Q_8IBVHXFlGzMQ-l-0AG8euFNhMOLe6bbw96I_GxmFqopIJcR_y45wc0M3gF3H4M23vR-9O6G68GtH_VHTO6ewGhjIx26zOvnSa8R3MCQoBQHHV7GKSjDYZUCRhwsxVK_aCdE7bOYXWLMAeS-urZs6Xx6YAw9oH2ukVhslQ92kGsAa3c/s1600/45%20fgd.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. मैलिंग्स (Mailings)",
+      "2. व्यू (View)",
+      "3. लेआउट (Layout)",
+      "4. डिज़ाइन (Design)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Who among the following is the founder of Microsoft Inc?",
+    "options": [
+      "1. Steve Jobs",
+      "2. Bill Gates",
+      "3. Bill Drake",
+      "4. Bill Goldberg"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Microsoft Inc का संस्थापक निम्नलिखित में से कौन हैं?",
+    "options": [
+      "1. स्टीव जॉब्स",
+      "2. बिल गेट्स",
+      "3. बिल ड्रेक",
+      "4. बिल गोल्डबर्ग"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In terms of Computer Memory abbreviation TB usually means '_________'.",
+    "options": [
+      "1. Tera Byte",
+      "2. Tiny Byte",
+      "3. Tetra Byte",
+      "4. Theta Byte"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कंप्यूटर मेमोरी के संदर्भ में संक्षिप्त नाम TB का पूर्ण रूप '_________' है।",
+    "options": [
+      "1. Tera Byte (टेरा बाइट)",
+      "2. Tiny Byte (टिनी बाइट)",
+      "3. Tetra Byte (टेट्रा बाइट)",
+      "4. Theta Byte (थीटा बाइट)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following Access Systems is NOT used as a Biometric systems?",
+    "options": [
+      "1. Iris Recognition",
+      "2. One Time Password",
+      "3. Facial Recognition",
+      "4. Retinal Scan System"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा एक्सेस सिस्टम बायोमेट्रिक सिस्टम के रूप में उपयोग नहीं किया जाता है?",
+    "options": [
+      "1. आईरिस रिकॉग्निशन",
+      "2. वन टाइम पासवर्ड",
+      "3. फेशियल रिकॉग्निशन",
+      "4. रेटिनल स्कैन सिस्टम"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ is the practice of protecting digital information from unauthorized access, corruption, or theft throughout its entire lifecycle.",
+    "options": [
+      "1. Data digitization",
+      "2. Data shelf",
+      "3. Data security",
+      "4. Data definition"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "______ डिजिटल जानकारी को उसके पूरे जीवन‑चक्र के दौरान अनधिकृत एक्सेस, क्षति या चोरी से सुरक्षित रखने की प्रक्रिया है।",
+    "options": [
+      "1. डेटा डिजिटाइजेशन (Data digitization)",
+      "2. डेटा शेल्फ (Data shelf)",
+      "3. डेटा सिक्योरिटी (Data security)",
+      "4. डेटा डेफिनेशन (Data definition)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Blu-ray technology gets its name from the ______ laser that is used to read Blu-ray disks.",
+    "options": [
+      "1. white-black",
+      "2. blue-violet",
+      "3. blue-red",
+      "4. red-pink"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ब्लू-रे तकनीक का नाम ______ लेजर से प्राप्त हुआ है जिसका उपयोग ब्लू-रे डिस्क को रीड करने के लिए किया जाता है।",
+    "options": [
+      "1. वाइट-ब्लैक",
+      "2. ब्लू-वायलेट",
+      "3. ब्लू-रेड",
+      "4. रेड-पिंक"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Plotters are primarily used for printing which type of graphics?",
+    "options": [
+      "1. Vector graphics and large technical drawings",
+      "2. Simple text documents",
+      "3. Basic dotted line patterns only",
+      "4. Small bitmap images only"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "प्लॉटर का उपयोग मुख्य रूप से किस प्रकार के ग्राफ़िक्स को प्रिंट करने के लिए किया जाता है?",
+    "options": [
+      "1. वेक्टर ग्राफिक्स और बड़े तकनीकी चित्र",
+      "2. सिंपल टेक्स्ट डाक्यूमेंट्स",
+      "3. केवल मूल बिंदीदार रेखा पैटर्न",
+      "4. केवल छोटी बिटमैप इमेज"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following types of printers is generally the most expensive in terms of initial cost and maintenance for high-volume professional printing?",
+    "options": [
+      "1. Laser Printer",
+      "2. Inkjet Printer",
+      "3. Dot Matrix Printer",
+      "4. Thermal Printer"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन‑सा प्रिंटर प्रकार आमतौर पर अधिक मात्रा में पेशेवर प्रिंटिंग के लिए शुरुआती कीमत और अनुरक्षण के मामले में सबसे महंगा होता है?",
+    "options": [
+      "1. लेजर प्रिंटर",
+      "2. इंकजेट प्रिंटर",
+      "3. डॉट मैट्रिक्स प्रिंटर",
+      "4. थर्मल प्रिंटर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the binary equivalent of 29₁₀?",
+    "options": [
+      "1. 11101",
+      "2. 11100",
+      "3. 11111",
+      "4. 11001"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "29₁₀ का बाइनरी समकक्ष क्या है?",
+    "options": [
+      "1. 11101",
+      "2. 11100",
+      "3. 11111",
+      "4. 11001"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The heart of a laser printer is a ______ which is wider than the width of the paper the machine will use and made from light-sensitive material.",
+    "options": [
+      "1. sinter",
+      "2. pipe",
+      "3. cask",
+      "4. drum"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "लेज़र प्रिंटर का हार्ट एक ______ होता है जो मशीन द्वारा उपयोग किए जाने वाले कागज की चौड़ाई से अधिक चौड़ा होता है और प्रकाश-संवेदनशील सामग्री से बना होता है।",
+    "options": [
+      "1. सिंटर",
+      "2. पाइप",
+      "3. कास्क",
+      "4. ड्रम"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A light sensitive device that converts drawing, printed text or other images into a digital form is called:",
+    "options": [
+      "1. keyboard",
+      "2. plotter",
+      "3. scanner",
+      "4. OMR"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एक लाइट सेंसिटिव डिवाइस जो ड्राइंग, प्रिंटेड टेक्स्ट या अन्य इमेज को डिजिटल रूप में परिवर्तित करता है, उसे क्या कहते है?",
+    "options": [
+      "1. कीबोर्ड",
+      "2. प्लॉटर",
+      "3. स्कैनर",
+      "4. ओएमआर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "When you upload a file to Google drive, then your original file:",
+    "options": [
+      "1. (from where the file is selected) is deleted",
+      "2. is updated when you make changes in its copy at Google drive",
+      "3. is on computer, the copy of the same file is kept on Google drive",
+      "4. is no longer needed"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "जब आप गूगल ड्राइव पर फ़ाइल अपलोड करते हैं, तो आपकी मूल फ़ाइल _______________।",
+    "options": [
+      "1. अपने मूल स्थान से डिलीट हो जाती है",
+      "2. गूगल ड्राइव पर इसकी कॉपी में परिवर्तन करने पर अपडेट हो जाती है",
+      "3. कंप्यूटर पर रहती है, उसी फ़ाइल की कॉपी गूगल ड्राइव पर रखी जाती है",
+      "4. की अब जरूरत नहीं रहती है"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In stream cipher, processing or encoding of plain text is done ______.",
+    "options": [
+      "1. byte by bit",
+      "2. bit by byte",
+      "3. block by bit",
+      "4. byte by byte"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "स्ट्रीम सिफर (stream cipher) में प्लेन टेक्स्ट की प्रॉसेसिंग या एन्कोडिंग ______ की जाती है।",
+    "options": [
+      "1. बाइट बाय बिट (byte by bit)",
+      "2. बिट बाय बाइट (bit by byte)",
+      "3. ब्लॉक बाय बिट (block by bit)",
+      "4. बाइट बाय बाइट (Byte by byte)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "______________ is known as a signal translator as it translates one signal into another signal by modulating the digital signal into an analog signal for transmission and then demodulates receiving analog signals into digital signals.",
+    "options": [
+      "1. MODEM",
+      "2. Mouse",
+      "3. Monitor",
+      "4. Microphone"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______________ को सिग्नल ट्रांसलेटर के रूप में जाना जाता है क्योंकि यह ट्रांसमिशन के लिए डिजिटल सिग्नल को एनालॉग सिग्नल में मॉड्यूलेट करके एक सिग्नल को दूसरे सिग्नल में ट्रांसलेट करता है और फिर प्राप्त एनालॉग सिग्नल को डिजिटल सिग्नल में डिमॉड्यूलेट करता है।",
+    "options": [
+      "1. मॉडेम",
+      "2. माउस",
+      "3. मॉनिटर",
+      "4. माइक्रोफोन"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "CSS stands for:",
+    "options": [
+      "1. Cascading Style Sheet",
+      "2. Case Style Sheet",
+      "3. Cascading System Screen",
+      "4. Computer Style Sheet"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "CSS का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Cascading Style Sheets (कैस्केडिंग स्टाइल शीट्स)",
+      "2. Case Style Sheet (केस स्टाइल शीट)",
+      "3. Cascading System Screen (कैस्केडिंग सिस्टम स्क्रिन)",
+      "4. Computer Style Sheet (कंप्यूटर स्टाइल शीट)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the way to make the text size of the Windows 10 Desktop items larger?",
+    "options": [
+      "1. Screen Background",
+      "2. Display settings",
+      "3. Screen Themes",
+      "4. Screen Appearances"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "विंडोज 10 डेस्कटॉप आइटम के टेक्स्ट साइज़ को बड़ा करने का तरीका क्या है?",
+    "options": [
+      "1. स्क्रीन बैकग्राउंड",
+      "2. डिस्प्ले सेटिंग्स",
+      "3. स्क्रीन थीम्स",
+      "4. स्क्रीन एपीयरेंस"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "_______ command is used to know login names of the users currently on the system, space separated, in the Linux operating system.",
+    "options": [
+      "1. users",
+      "2. whologged",
+      "3. howmanylogged",
+      "4. loggedusers"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "लिनक्स ऑपरेटिंग सिस्टम में वर्तमान में सिस्टम पर लॉग‑इन किए हुए उपयोगकर्ताओं के लॉगिन नामों को स्पेस‑सेपरेटेड रूप में जानने के लिए _______ कमांड का उपयोग किया जाता है।",
+    "options": [
+      "1. users",
+      "2. whologged",
+      "3. howmanylogged",
+      "4. loggedusers"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the extension of LaTeX document?",
+    "options": [
+      "1. .text",
+      "2. .tex",
+      "3. .doc",
+      "4. .lx"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "LaTeX डॉक्यूमेंट का एक्सटेंशन क्या है?",
+    "options": [
+      "1. .text",
+      "2. .tex",
+      "3. .doc",
+      "4. .lx"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "_____________ files are commonly used to store a series of events logged by a computer.",
+    "options": [
+      "1. .log",
+      "2. .user",
+      "3. .login",
+      "4. .com"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_____________ फ़ाइलें आमतौर पर कंप्यूटर द्वारा लॉग की गई घटनाओं की एक श्रृंखला को संग्रहीत करने के लिए उपयोग की जाती हैं।",
+    "options": [
+      "1. .log",
+      "2. .user",
+      "3. .login",
+      "4. .com"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which extension is used for MPEG video file?",
+    "options": [
+      "1. .avi",
+      "2. .mpg",
+      "3. .mp3",
+      "4. .mp2"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MPEG वीडियो फाइल के लिए किस एक्सटेंशन का उपयोग किया जाता है?",
+    "options": [
+      "1. .avi",
+      "2. .mpg",
+      "3. .mp3",
+      "4. .mp2"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "__________ dynamic range refers to technology capable of either capturing or reproducing a particularly wide range of brightness values relative to the \"standard\" of that particular technology in digital imaging.",
+    "options": [
+      "1. High",
+      "2. Low",
+      "3. Minimum",
+      "4. Medium"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "__________ डायनेमिक रेंज उस तकनीक को संदर्भित करती है जो डिजिटल इमेजिंग में उस विशेष तकनीक के \"मानक\" के सापेक्ष ब्राइटनेस वैल्यू की एक विशेष विस्तृत श्रृंखला को कैप्चर करने या पुन: निर्मित करने में सक्षम है।",
+    "options": [
+      "1. हाई (High)",
+      "2. लो (Low)",
+      "3. मिनिमम (Minimum)",
+      "4. मीडियम (Medium)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ is a combination of textual data, graphical data, audio, video data along with animation.",
+    "options": [
+      "1. Multiprogram",
+      "2. Multifacet",
+      "3. Multimedia",
+      "4. Multiprocess"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "_______, एनीमेशन के साथ टेक्स्टुअल डेटा, ग्राफिकल डेटा, ऑडियो, वीडियो डेटा का संयोजन है।",
+    "options": [
+      "1. मल्टीप्रोग्राम (Multiprogram)",
+      "2. मल्टीफ़ैसेट (Multifacet)",
+      "3. मल्टीमीडिया (Multimedia)",
+      "4. मल्टीप्रोसेस (Multiprocess)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "_______ is a server-side scripting language designed specifically for web development.",
+    "options": [
+      "1. JSP",
+      "2. C",
+      "3. ProLOG",
+      "4. BASIC"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_______ एक सर्वर-साइड स्क्रिप्टिंग लैंग्वेज है जिसे विशेष रूप से वेब डेवलपमेंट के लिए डिज़ाइन किया गया है।",
+    "options": [
+      "1. JSP",
+      "2. C",
+      "3. ProLOG",
+      "4. BASIC"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "__________ is an open source and cross-platform runtime environment for executing JavaScript code outside a browser.",
+    "options": [
+      "1. Node.js",
+      "2. VS Code",
+      "3. Notepad",
+      "4. Command prompt"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "__________, एक ब्राउज़र के बाहर जावास्क्रिप्ट कोड को निष्पादित करने के लिए एक ओपन सोर्स और क्रॉस-प्लेटफ़ॉर्म रनटाइम वातावरण है।",
+    "options": [
+      "1. Node.js",
+      "2. VS Code",
+      "3. नोटपैड",
+      "4. कमांड प्रॉम्प्ट"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a back end framework?",
+    "options": [
+      "1. Django",
+      "2. JavaScript",
+      "3. PHP",
+      "4. RDBMS"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, एक बैक एंड फ्रेमवर्क है?",
+    "options": [
+      "1. Django",
+      "2. JavaScript",
+      "3. PHP",
+      "4. RDBMS"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In terms of Structured Query Languages, DML stands for:",
+    "options": [
+      "1. Data Manipulation Language",
+      "2. Data Maintenance Language",
+      "3. Disk Mapping Language",
+      "4. Data Migration Language"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "स्ट्रक्चर्ड क्वेरी लैंग्वेज के संदर्भ में, DML का पूर्ण रूप क्या है?",
+    "options": [
+      "1. Data Manipulation Language (डेटा मैनीपुलेशन लैंग्वेज़)",
+      "2. Data Maintenance Language (डेटा मेंटेमेंटेनेंस लैंग्वेज़)",
+      "3. Disk Mapping Language (डिस्क मैपिंग लैंग्वेज़)",
+      "4. Data Migration Language (डेटा माइग्रेशन लैंग्वेज़)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ is the practice of iterative, methodical exploration of an organisation's data, with an emphasis on statistical analysis.",
+    "options": [
+      "1. Business analytics",
+      "2. Business autonomy",
+      "3. Business economy",
+      "4. Datasheet"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "सांख्यिकीय विश्लेषण पर ध्यान देते हुए, संगठन के आंकड़ों का पुनरावृत्तीय, विधिवत पर्यवेक्षण क्या कहलाता है?",
+    "options": [
+      "1. बिजनेस एनालिटिक्स (Business analytics)",
+      "2. बिजनेस ऑटोनोमी (Business autonomy)",
+      "3. बिजनेस इकॉनमी (Business economy)",
+      "4. डेटाशीट (Datasheet)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ is a process in which information is gathered and expressed in a summary form, for purposes such as statistical analysis.",
+    "options": [
+      "1. Data aggregation",
+      "2. Data extraction",
+      "3. Data attribution",
+      "4. Data cohesion"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "वह प्रक्रिया जिसमें सांख्यिकीय विश्लेषण जैसे उद्देश्यों के लिए जानकारी एकत्र की जाती है और उसे सारांश के रूप में व्यक्त किया जाता है, क्या कहलाती है?",
+    "options": [
+      "1. डेटा एग्रीगेशन (Data aggregation)",
+      "2. डेटा एक्सट्रैक्शन (Data extraction)",
+      "3. डेटा एट्रिब्यूशन (Data attribution)",
+      "4. डेटा कोहेशन (Data cohesion)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "With reference to securing ATM, credit card, and debit card transactions, PIN stands for:",
+    "options": [
+      "1. Personal Identification Number",
+      "2. Private Identifical Number",
+      "3. Public International Number",
+      "4. People Identity Number"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एटीएम, क्रेडिट कार्ड और डेबिट कार्ड लेनदेन को सुरक्षित करने के संदर्भ में, PIN का क्या अर्थ है?",
+    "options": [
+      "1. Personal Identification Number (पर्सनल आइडेंटिफिकेशन नंबर)",
+      "2. Private Identifical Number (प्राइवेट आइडेंटिफिकल नंबर)",
+      "3. Public International Number (पब्लिक इंटरनेशनल नंबर)",
+      "4. People Identity Number (पीपल आइडेंटिटी नंबर)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following typically appear as underlined and coloured text and/or images on a web page that allows you to navigate from page to page with a single click?",
+    "options": [
+      "1. Top-level domain names",
+      "2. Applets",
+      "3. Hyperlink",
+      "4. Protocols"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा आम तौर पर एक वेब पेज पर रेखांकित और रंगीन टेक्स्ट और/या छवियों के रूप में दिखाई देता है जो आपको एक क्लिक के साथ एक पेज से दूसरे पेज पर नेविगेट करने की सुविधा देता है?",
+    "options": [
+      "1. टॉप-लेवल डोमेन नेम",
+      "2. ऐप्लेट्स",
+      "3. हाइपरलिंक",
+      "4. प्रोटोकॉल्स"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A ______ is a software add-on that is installed on a program, enhancing its capabilities.",
+    "options": [
+      "1. plugin",
+      "2. system software",
+      "3. virus",
+      "4. worm"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एक ________ एक सॉफ्टवेयर ऐड-ऑन है जो एक प्रोग्राम पर इंस्टॉल होता है, जो इसकी क्षमताओं को बढ़ाता है।",
+    "options": [
+      "1. प्लगइन",
+      "2. सिस्टम सॉफ्टवेयर",
+      "3. वायरस",
+      "4. वर्म"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT an example of protocol?",
+    "options": [
+      "1. TCP/IP",
+      "2. FTP",
+      "3. HTML",
+      "4. HTTP"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा प्रोटोकॉल का उदाहरण नहीं है?",
+    "options": [
+      "1. TCP/IP",
+      "2. FTP",
+      "3. HTML",
+      "4. HTTP"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Junk E-mail is also called a:",
+    "options": [
+      "1. Spam",
+      "2. Spoof",
+      "3. Sniffer script",
+      "4. Spool"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "जंक ई-मेल (E-mail) को _________ भी कहा जाता है।",
+    "options": [
+      "1. स्पैम",
+      "2. स्पूफ़",
+      "3. स्निफ़र स्क्रिप्ट",
+      "4. स्पूल"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ is capable of streaming a wide array of video formats.",
+    "options": [
+      "1. YouTube",
+      "2. Spotify",
+      "3. Winzip",
+      "4. JPEG"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "________ वीडियो फॉर्मेट्स की एक विस्तृत शृंखला को स्ट्री म करने में सक्षम है।",
+    "options": [
+      "1. यूट्यूब (YouTube)",
+      "2. स्पॉटीफाई (Spotify)",
+      "3. विनज़िप (Winzip)",
+      "4. जेपीइजी (JPEG)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Video is represented as a series of images formally known as ______.",
+    "options": [
+      "1. tan",
+      "2. read",
+      "3. frames",
+      "4. shapes"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "वीडियो को छवियों (images) यों की एक श्रृंखला के रूप में दर्शाया जाता है, जिसे औपचारिक रूप से ______ कहा जाता है।",
+    "options": [
+      "1. टैन (tan)",
+      "2. रीड (read)",
+      "3. फ्रेम्स (frames)",
+      "4. शेप्स (shapes)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What type of Internet services are Electronic Mail, Telnet?",
+    "options": [
+      "1. Communication Services",
+      "2. Knowledge transfer services",
+      "3. World Wide Web",
+      "4. Information retrieval services"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "इलेक्ट्रॉनिक मेल और टेलनेट किस प्रकार की इंटरनेट सर्विस हैं?",
+    "options": [
+      "1. कम्युनिकेशन सर्विस",
+      "2. नॉलेज ट्रांसफर सर्विस",
+      "3. वर्ल्ड वाइड वेब",
+      "4. इनफार्मेशन रिट्रीवल सर्विस"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What type of Internet services are File Transfer Protocol, Archie, Gopher?",
+    "options": [
+      "1. File Transfer Services",
+      "2. Communication Services",
+      "3. World Wide Web",
+      "4. Directory Services"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "फाइल ट्रांसफर प्रोटोकॉल, आर्ची, गोफर किस प्रकार की इंटरनेट सर्विस हैं?",
+    "options": [
+      "1. फाइल ट्रांसफर सर्विस",
+      "2. कम्युनिकेशन सर्विस",
+      "3. वर्ल्ड वाइड वेब",
+      "4. डायरेक्टरी सर्विस"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a high-level programming language?",
+    "options": [
+      "1. Machine Code",
+      "2. Assembly Language",
+      "3. Python",
+      "4. Binary Code"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सी एक उच्च स्तरीय प्रोग्रामिंग लैंग्वेज है?",
+    "options": [
+      "1. मशीन कोड",
+      "2. असेंबली लैंग्वेज",
+      "3. पाइथन",
+      "4. बाइनरी कोड"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "________ is the graphical representation of an organisation's structure. Its purpose is to illustrate the reporting relationships and chains of command within the organisation in MS-Excel 2019.",
+    "options": [
+      "1. Pie chart",
+      "2. Bubble chart",
+      "3. Hierarchy chart",
+      "4. Bar chart"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "________ किसी संगठन की संरचना का चित्रमय प्रदर्शन होता है। इसका उद्देश्य MS-Excel 2019 में संगठन के भीतर रिपोर्टिंग संबंधों और कमांड की शृंखलाओं को स्पष्ट करना होता है।",
+    "options": [
+      "1. पाई चार्ट (Pie chart)",
+      "2. बबल चार्ट (Bubble chart)",
+      "3. हायरार्की चार्ट (Hierarchy chart)",
+      "4. बार चार्ट (Bar chart)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The ________ shortcut key is used in MS-Excel 2019 to move to the previous sheet in a workbook.",
+    "options": [
+      "1. Ctrl + Page Up",
+      "2. Alt + Page Up",
+      "3. Shift + Page Up",
+      "4. Page Up"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में, किसी वर्कबुक की पिछली शीट पर जाने के लिए निम्न में से किस की-बोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Ctrl + Page Up",
+      "2. Alt + Page Up",
+      "3. Shift + Page Up",
+      "4. Page Up"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS-Excel 2019, the ‘CTRL + ALT + =’ shortcut key is used to:",
+    "options": [
+      "1. scroll vertically",
+      "2. zoom in",
+      "3. zoom out",
+      "4. scroll horizontally"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 में, ________करने के लिए की-बोर्ड शॉर्टकट ‘CTRL + ALT + =’ का उपयोग किया जाता है।",
+    "options": [
+      "1. वर्टिकल रूप से स्क्रॉल",
+      "2. ज़ूम इन",
+      "3. ज़ूम आउट",
+      "4. हॉरिज़ॉन्टल रूप से स्क्रॉल"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The ________ shortcut key is used in MS-Excel 2019 to display the Create Table dialog.",
+    "options": [
+      "1. Ctrl + B or Ctrl + T",
+      "2. Ctrl + L or Ctrl + T",
+      "3. Ctrl + L or Ctrl + A",
+      "4. Ctrl + X or Ctrl + A"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Excel 2019 में, क्रिएट टेबल डायलॉग (Create Table dialog) प्रदर्शित करने के लिए की-बोर्ड शॉर्टकट _________ का उपयोग किया जाता है।",
+    "options": [
+      "1. Ctrl + B या Ctrl + T",
+      "2. Ctrl + L या Ctrl + T",
+      "3. Ctrl + L या Ctrl + A",
+      "4. Ctrl + X या Ctrl + A"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The decimal equivalent for hexadecimal FF is:",
+    "options": [
+      "1. 522",
+      "2. 255",
+      "3. 15",
+      "4. 100"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "हेक्साडेसीमल FF का दशमलव समतुल्य क्या होगा?",
+    "options": [
+      "1. 522",
+      "2. 255",
+      "3. 15",
+      "4. 100"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The hexadecimal equivalent for binary 11111 is:",
+    "options": [
+      "1. 1D",
+      "2. 1E",
+      "3. 1F",
+      "4. 1A"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "बाइनरी संख्या 11111 का हेक्साडेसीमल समतुल्य क्या है?",
+    "options": [
+      "1. 1D",
+      "2. 1E",
+      "3. 1F",
+      "4. 1A"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "_______ is NOT a logical function in MS-Excel 2019.",
+    "options": [
+      "1. IF",
+      "2. XOR",
+      "3. AND",
+      "4. ACOS"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "________ MS-Excel 2019 का एक लॉजिकल फंक्शन नहीं है।",
+    "options": [
+      "1. IF",
+      "2. XOR",
+      "3. AND",
+      "4. ACOS"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In MS-Excel 2019, the SEARCH formula is an example of:",
+    "options": [
+      "1. financial function",
+      "2. math function",
+      "3. text function",
+      "4. lookup and reference function"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel 2019 में, SEARCH फॉर्मूला ________ का एक उदाहरण है।",
+    "options": [
+      "1. वित्तीय फ़ंक्शन (financial function)",
+      "2. गणितीय फ़ंक्शन (math function)",
+      "3. टेक्स्ट फ़ंक्शन (text function)",
+      "4. लुकअप और संदर्भ फ़ंक्शन (lookup and reference function)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In MS-Excel 2019, the DURATION formula is an example of:",
+    "options": [
+      "1. financial function",
+      "2. math function",
+      "3. text function",
+      "4. lookup and reference function"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel 2019 में, DURATION फॉर्मूला ________ का एक उदाहरण है।",
+    "options": [
+      "1. वित्तीय फ़ंक्शन (financial function)",
+      "2. गणितीय फ़ंक्शन (math function)",
+      "3. टेक्स्ट फ़ंक्शन (text function)",
+      "4. लुकअप और संदर्भ फ़ंक्शन (lookup and reference function)"
+    ],
+    "answer": 0
+  }
+],
+
   "11th May 2026 - Shift1": [
  {
     "q": "EIDE stands for:",
