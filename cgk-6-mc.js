@@ -121,6 +121,130 @@
     "answer": 3
   }
 ],
+
+ "9th May 2026 - Shift2": [
+{
+    "q": "When is the International Day of Democracy, recognised by the UN, observed?",
+    "options": [
+      "1. December 11",
+      "2. December 20",
+      "3. September 15",
+      "4. October 27"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "संयुक्त राष्ट्र द्वारा मान्यता प्राप्त अंतरराष्ट्रीय लोकतंत्र दिवस कब मनाया जाता है?",
+    "options": [
+      "1. 11 दिसंबर",
+      "2. 20 दिसंबर",
+      "3. 15 सितंबर",
+      "4. 27 अक्टूबर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Richard Grasso was the head of:",
+    "options": [
+      "1. NASDAQ",
+      "2. London Stock Exchange",
+      "3. New York Stock Exchange",
+      "4. Dubai Stock Exchange"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "रिचर्ड ग्रासो (Richard Grasso) किसके प्रमुख हैं?",
+    "options": [
+      "1. NASDAQ",
+      "2. लंदन स्टॉक एक्सचेंज",
+      "3. न्यूयॉर्क स्टॉक एक्सचेंज",
+      "4. दुबई स्टॉक एक्सचेंज"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The procedure for impeachment of the President of India is laid down in Article __________.",
+    "options": [
+      "1. 54",
+      "2. 61",
+      "3. 66",
+      "4. 72"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "भारत के राष्ट्रपति पर महाभियोग की प्रक्रिया अनुच्छेद __________ में निर्धारित की गई है।",
+    "options": [
+      "1. 54",
+      "2. 61",
+      "3. 66",
+      "4. 72"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The atoms of the elements which have the same number of neutrons are called ______.",
+    "options": [
+      "1. isobars",
+      "2. isotopes",
+      "3. isotones",
+      "4. catalyst"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "जिन तत्वों के परमाणुओं में न्यूट्रॉनों की संख्या समान होती है, उन्हें क्या कहा जाता है?",
+    "options": [
+      "1. आइसोबार (isobars)",
+      "2. आइसोटोप (isotopes)",
+      "3. आइसोटोन (isotones)",
+      "4. कतैलिस्ट (catalyst)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A customer wishes to purchase some US dollars in India. <br> He/she should go to:",
+    "options": [
+      "1. Public Debt Division of the RBI only",
+      "2. American Express Bank only",
+      "3. RBI or any branch of a bank which is authorised for such business",
+      "4. Ministry of Foreign Affairs"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "कोई ग्राहक भारत में कुछ अमेरिकी डॉलर (US dollars) खरीदना चाहता है। उसे कहां जाना चाहिए?",
+    "options": [
+      "1. केवल आर.बी.आई. की सार्वजनिक ऋण शाखा",
+      "2. केवल अमेरिकन एक्सप्रेस बैंक",
+      "3. आर.बी.आई. या बैंक की किसी ऐसी शाखा में जो इस व्यवसाय के लिए अधिकृत हो",
+      "4. विदेश मंत्रालय"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A _________ has one episode of high water and one episode of low water each day.",
+    "options": [
+      "1. diurnal tide",
+      "2. semi-diurnal tide",
+      "3. mixed tide",
+      "4. meteorological tide"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एक _________ में प्रतिदिन एक बार उच्च ज्वार और एक बार निम्न ज्वार आता है।",
+    "options": [
+      "1. दैनिक ज्वारभाटे",
+      "2. अर्ध-दैनिक ज्वारभाटे",
+      "3. मिश्रित ज्वारभाटे",
+      "4. मौसमी ज्वारभाटे"
+    ],
+    "answer": 0
+  }
+],
+  
   
   "30th May 2025 - Shift1": [
     {
