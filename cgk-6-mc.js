@@ -1,4 +1,127 @@
  const questionBank = {
+ "9th May 2026 - Shift1": [
+{
+    "q": "Which of the following pairs is NOT correctly matched?",
+    "options": [
+      "1. Sheikh Shihabuddin Suhrawardi - Sufi Saint",
+      "2. Chaitanya Mahaprabhu - Bhakti Saint",
+      "3. Minhas-us-Siraj - Founder of the Sufi Order",
+      "4. Lalleshwari - Bhakti Saint"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में कौन-सा मिलान सही नहीं है?",
+    "options": [
+      "1. शेख शिहाबुद्दीन सुहरावर्दी - सूफी संत",
+      "2. चैतन्य महाप्रभु - भक्ति संत",
+      "3. मिन्हास-अस-सिराज - सूफी संघ के संस्थापक",
+      "4. लालेश्वरी - भक्ति संत"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The 2016 Olympic Games were held in:",
+    "options": [
+      "1. London",
+      "2. Atlanta",
+      "3. Seoul",
+      "4. Rio de Janeiro"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "2016 के ओलंपिक खेलों का आयोजन कहां किया गया था?",
+    "options": [
+      "1. लंदन",
+      "2. अटलांटा",
+      "3. सिओल",
+      "4. रियो डी जेनेरियो"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The Headquarters of the Organisation of Petroleum Exporting Countries is located in:",
+    "options": [
+      "1. Vienna",
+      "2. Abu Dhabi",
+      "3. Kuwait City",
+      "4. Riyadh"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "पेट्रोलियम निर्यातक देशों के संगठन का मुख्यालय ________ में स्थित है।",
+    "options": [
+      "1. वियना",
+      "2. अबू धाबी",
+      "3. कुवैत शहर",
+      "4. रियाद"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Who among the following was NOT a politician?",
+    "options": [
+      "1. HN Bahuguna",
+      "2. IK Gujral",
+      "3. SL Bahuguna",
+      "4. J Jayalalitha"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्न में से कौन एक राजनीतिज्ञ नहीं था?",
+    "options": [
+      "1. एचएन बहुगुणा",
+      "2. आईके गुजराल",
+      "3. एसएल बहुगुणा",
+      "4. जे जयललिता"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Under the Constitution of India, which of the following is NOT a fundamental duty?",
+    "options": [
+      "1. To vote in public elections",
+      "2. To develop the scientific temper",
+      "3. To safeguard public property",
+      "4. To abide by the constitution and respect its ideals"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "भारतीय संविधान के अंतर्गत, निम्न में से कौन सा एक मौलिक कर्तव्य नहीं है?",
+    "options": [
+      "1. आम चुनावों में मतदान करना",
+      "2. वैज्ञानिक दृष्टिकोण विकसित करना",
+      "3. सार्वजनिक संपत्ति की रक्षा करना",
+      "4. संविधान का पालन और इसके आदर्शों का सम्मान करना"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which catalyst is used in the manufacture of sulphuric acid by the lead chamber process?",
+    "options": [
+      "1. Fe",
+      "2. Ni",
+      "3. Pb",
+      "4. Oxides of nitrogen"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "लेड चैंबर प्रक्रिया द्वारा सल्फ्यूरिक अम्ल बनाने में निम्न में से किस उत्प्रेरक का उपयोग किया जाता है?",
+    "options": [
+      "1. Fe",
+      "2. Ni",
+      "3. Pb",
+      "4. नाइट्रोजन के ऑक्साइड"
+    ],
+    "answer": 3
+  }
+],
+  
   "30th May 2025 - Shift1": [
     {
     "q": "With the onset of monsoons, day temperature:",
