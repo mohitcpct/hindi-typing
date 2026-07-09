@@ -1,5 +1,1048 @@
  const questionBank26 = {
 
+  "3rd July 2026 - Shift2": [
+{
+    "q": "A ______ is a graphical user interface element that displays a list of commands or options that users can select in GUI Operating Systems.",
+    "options": [
+      "1. Pointer",
+      "2. Menu",
+      "3. Scroll bar",
+      "4. Button"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ एक ऐसा ग्राफ़िकल यूज़र इंटरफ़ेस (GUI) एलिमेंट है जो कमांड्स या विकल्पों (options) की एक सूची प्रदर्शित करता है, जिन्हें उपयोगकर्ता GUI ऑपरेटिंग सिस्टम में चुन सकते हैं।",
+    "options": [
+      "1. पॉइंटर (Pointer)",
+      "2. मेनू (Menu)",
+      "3. स्क्रॉल बार (Scroll bar)",
+      "4. बटन (Button)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Duplication of data is known as ______.",
+    "options": [
+      "1. data inconsistency",
+      "2. data repentance",
+      "3. data redundancy",
+      "4. data error"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "डेटा की प्रतिलिपि (duplication) को क्या कहा जाता है?",
+    "options": [
+      "1. डेटा असंगति (Data inconsistency)",
+      "2. डेटा पश्चाताप (Data repentance)",
+      "3. डेटा की पुनरावृत्ति (Data redundancy)",
+      "4. डेटा त्रुटि (Data error)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following data types is used to integrate objects such as images, documents and graphs?",
+    "options": [
+      "1. Hyperlink",
+      "2. OLE Object",
+      "3. Text",
+      "4. Description"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन‑सा डेटा टाइप इमेज, डॉक्‍युमेंट और ग्राफ़ जैसे ऑब्जेक्ट्स को इंटीग्रेट (integrate) करने के लिए उपयोग किया जाता है?",
+    "options": [
+      "1. हाइपरलिंक (Hyperlink)",
+      "2. OLE ऑब्जेक्ट (OLE Object)",
+      "3. टेक्स्ट (Text)",
+      "4. डिस्क्रिप्‍शन (Description)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "_______ is the process of saving information to the secondary storage device.",
+    "options": [
+      "1. Reading",
+      "2. Hearing",
+      "3. Writing",
+      "4. Drawing"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "सेकेंडरी स्टोरेज डिवाइस में सूचना (information) को सुरक्षित करने की प्रक्रिया को क्या कहा जाता है?",
+    "options": [
+      "1. रीडिंग (Reading)",
+      "2. हियरिंग (Hearing)",
+      "3. राइटिंग (Writing)",
+      "4. ड्रॉइंग (Drawing)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "With reference to graphical designing, CAD stands for:",
+    "options": [
+      "1. Computer Aided Design",
+      "2. Computer Algorithm Design",
+      "3. Computer Application in Design",
+      "4. Computer Appliance Design"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "ग्राफ़िकल डिज़ाइनिंग (Graphical Designing) के संदर्भ में, CAD का क्या अर्थ है?",
+    "options": [
+      "1. कंप्यूटर एडेड डिजाईन (Computer Aided Design)",
+      "2. कंप्यूटर अल्गोरिथम डिजाईन (Computer Algorithm Design)",
+      "3. कंप्यूटर एप्लीकेशन इन डिजाईन (Computer Application in Design)",
+      "4. कंप्यूटर एप्लायंस डिजाईन (Computer Appliance Design)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "CPU has special purpose storage locations called:",
+    "options": [
+      "1. Registers",
+      "2. RAM",
+      "3. BIOS",
+      "4. I/O"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "CPU में विशेष प्रयोजन (special purpose) के लिए उपयोग होने वाले स्टोरेज स्थानों को क्या कहा जाता है?",
+    "options": [
+      "1. रजिस्टर्स",
+      "2. RAM",
+      "3. BIOS",
+      "4. I/O"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What do you mean by Jacquard Loom?",
+    "options": [
+      "1. A bird found in Japan",
+      "2. A weaving machine that used punched cards",
+      "3. The first computer controlled loom",
+      "4. A machine for writing match tables"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "जैकवर्ड लूम का क्या अर्थ है?",
+    "options": [
+      "1. जापान में पाया जाने वाला एक पक्षी",
+      "2. एक बुनाई मशीन जिसने पंच्‍ड कार्ड का इस्तेमाल किया",
+      "3. लूम को नियंत्रित करने वाला पहला कंप्यूटर",
+      "4. मैच टेबल लिखने के लिए एक मशीन"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following memories must be refreshed many times per second?",
+    "options": [
+      "1. Static RAM",
+      "2. Dynamic RAM",
+      "3. ROM",
+      "4. EPROM"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से किस मेमोरी को प्रति सेकंड कई बार रिफ्रेश किया जाना चाहिए?",
+    "options": [
+      "1. स्थैतिक रैम (Static RAM)",
+      "2. डायनामिक रैम (Dynamic RAM)",
+      "3. रोम (ROM)",
+      "4. इपीरोम (EPROM)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which device can understand the difference between data and programs?",
+    "options": [
+      "1. Input device",
+      "2. Output device",
+      "3. Memory",
+      "4. Microprocessor"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कौन सी डिवाइस, डेटा और कार्यक्रमों के बीच अंतर को समझ सकती है?",
+    "options": [
+      "1. इनपुट डिवाइस",
+      "2. आउटपुट डिवाइस",
+      "3. मेमोरी",
+      "4. माइक्रोप्रोसेसर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A CD-ROM drive reads data from a rotating disc using laser beam technology. Which type of storage technique does it use?",
+    "options": [
+      "1. Magnetic storage technique",
+      "2. Optical storage technique",
+      "3. Solid state storage technique",
+      "4. Semiconductor memory technique"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक CD‑ROM ड्राइव लेज़र बीम तकनीक का उपयोग करके घूमती हुई डिस्क से डेटा पढ़ती है। यह किस प्रकार की स्टोरेज तकनीक का उपयोग करती है?",
+    "options": [
+      "1. मैग्‍नेटिक स्टोरेज तकनीक (Magnetic storage technique)",
+      "2. ऑप्टिकल स्टोरेज तकनीक (Optical storage technique)",
+      "3. सॉलिड स्टेट स्टोरेज तकनीक (Solid state storage technique)",
+      "4. सेमीकंडक्टर मेमोरी तकनीक (Semiconductor memory technique)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is an electronic circuit designed to speed up image processing on various devices?",
+    "options": [
+      "1. RAM",
+      "2. ALU",
+      "3. DPU",
+      "4. GPU"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन‑सा एक इलेक्ट्रॉनिक परिपथ (electronic circuit) है जिसे विभिन्न उपकरणों में इमेज प्रोसेसिंग (image processing) को तेज़ करने के लिए डिज़ाइन किया गया है?",
+    "options": [
+      "1. RAM",
+      "2. ALU",
+      "3. DPU",
+      "4. GPU"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which directory is NOT valid for the Linux file system?",
+    "options": [
+      "1. /dev",
+      "2. /mnt",
+      "3. /etc",
+      "4. /etm"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "लिनक्स फाइल सिस्टम के लिए कौन सी डायरेक्टरी वैध नहीं है?",
+    "options": [
+      "1. /dev",
+      "2. /mnt",
+      "3. /etc",
+      "4. /etm"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which input device is generally used in banks because of a large number of cheques to be processed every day?",
+    "options": [
+      "1. MICR",
+      "2. Keyboard",
+      "3. Scanner",
+      "4. Mouse"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ इनपुट डिवाइस का उपयोग आम तौर पर बैंकों में हर दिन बड़ी संख्या में चेकों को प्रोसेस करने के लिए किया जाता है।",
+    "options": [
+      "1. MICR",
+      "2. कीबोर्ड",
+      "3. स्कैनर",
+      "4. माउस"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In a pen type barcode reader, the photodiode generates a waveform that is used to measure the ______ in the bar code.",
+    "options": [
+      "1. wavelength of light",
+      "2. widths of the bars and spaces",
+      "3. density of light",
+      "4. variance of light"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "पेन टाइप बारकोड रीडर में, फोटोडायोड एक तरंग उत्पन्न करता है जिसका उपयोग बारकोड में ______ को मापने के लिए किया जाता है।",
+    "options": [
+      "1. प्रकाश के तरंग दैर्ध्य (wavelength of light)",
+      "2. बार और रिक्त स्थान की चौड़ाई (widths of the bars and spaces)",
+      "3. प्रकाश के घनत्व (density of light)",
+      "4. प्रकाश के विचरण (variance of light)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In a triple layer Recordable Blu-ray Disc, what is the cover layer thickness of L2 layer?",
+    "options": [
+      "1. 57 µm",
+      "2. 100 µm",
+      "3. 75 µm",
+      "4. 65 µm"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "ट्रिपल लेयर रिकॉर्डेबल ब्‍लू-रे डिस्‍क में, L2 लेयर के कवर लेयर की मोटाई कितनी होती है?",
+    "options": [
+      "1. 57 µm",
+      "2. 100 µm",
+      "3. 75 µm",
+      "4. 65 µm"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which file format is used to save a Microsoft Access database?",
+    "options": [
+      "1. ms.db",
+      "2. ace.db",
+      "3. .mdb",
+      "4. .msdb"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Microsoft Access डेटाबेस को सहेजने के लिए कौन से फ़ाइल फॉर्मेट का उपयोग किया जाता है?",
+    "options": [
+      "1. ms.db",
+      "2. ace.db",
+      "3. .mdb",
+      "4. .msdb"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "_______ is a technology that serves as an intermediary for online transactions, connecting customers and businesses with their banks and payment processors.",
+    "options": [
+      "1. Acquirer",
+      "2. Issuer",
+      "3. Payment gateway",
+      "4. Purchase request"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "_______ एक ऐसी तकनीक है जो ऑनलाइन लेन‑देन (online transactions) के लिए मध्यस्थ (intermediary) के रूप में कार्य करती है और ग्राहकों, कों व्यवसायों, यों उनके बैंकों तथा पेमेंट प्रोसेसर (payment processors) को आपस में जोड़ती है।",
+    "options": [
+      "1. एक्वायरर (Acquirer)",
+      "2. इश्यूअर (Issuer)",
+      "3. पेमेंट गेटवे (Payment Gateway)",
+      "4. परचेज़ रिक्वेस्ट (Purchase Request)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following programs is similar to an antivirus program?",
+    "options": [
+      "1. Anti-firewall",
+      "2. Anti-spyware",
+      "3. Anti-threads",
+      "4. Anti-programs"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौनसा प्रोग्राम एंटीवायरस प्रोग्राम जैसा होता है?",
+    "options": [
+      "1. एंटी-फ़ायरवॉल",
+      "2. एंटी-स्पायवेयर",
+      "3. एंटी-थ्रेड्स",
+      "4. एंटी-प्रोग्राम"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In the booting process after POST, the settings are stored in the __________________.",
+    "options": [
+      "1. ROM",
+      "2. RAM",
+      "3. CMOS",
+      "4. Hard disk"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "बूटिंग प्रक्रिया (Booting Process) में POST के बाद सेटिंग कहाँ संग्रहीत होती हैं?",
+    "options": [
+      "1. ROM",
+      "2. RAM",
+      "3. CMOS",
+      "4. Hard disk"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which topology is used to connect Bank ATMs?",
+    "options": [
+      "1. Star Topology",
+      "2. Ring Topology",
+      "3. Hybrid Topology",
+      "4. Mesh Topology"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "बैंक के ATM को कनेक्‍ट करने के लिए किस टोपोलॉजी (Topology) का उपयोग किया जाता है?",
+    "options": [
+      "1. स्टार टोपोलॉजी (Star Topology)",
+      "2. रिंग टोपोलॉजी (Ring Topology)",
+      "3. हाइब्रिड टोपोलॉजी (Hybrid Topology)",
+      "4. मेश टोपोलॉजी (Mesh Topology)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The term HP UPD stands for:",
+    "options": [
+      "1. HP Unique Pink Driver",
+      "2. HP Universal Print Driver",
+      "3. HP Universal Pointer Driver",
+      "4. HP Universal Plotter Driver"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "शब्द HP UPD का पूर्ण स्वरुप क्या है?",
+    "options": [
+      "1. एचपी यूनिक पिंक ड्राईवर (HP Unique Pink Driver)",
+      "2. एचपी यूनिवर्सल प्रिंट ड्राईवर (HP Universal Print Driver)",
+      "3. एचपी यूनिवर्सल पॉइंटर ड्राईवर (HP Universal Pointer Driver)",
+      "4. एचपी यूनिवर्सल प्लॉटर ड्राईवर (HP Universal Plotter Driver)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Dot-matrix and band printers are types of:",
+    "options": [
+      "1. impact printers",
+      "2. ink jet printers",
+      "3. laser printers",
+      "4. thermal printers"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "डॉट मैट्रिक्स और बैंड प्रिंटर ______ के प्रकार हैं।",
+    "options": [
+      "1. इम्पैक्ट प्रिंटर",
+      "2. इंकजेट प्रिंटर",
+      "3. लेजर प्रिंटर",
+      "4. थर्मल प्रिंटर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In most of the laptops, the webcam is ______.",
+    "options": [
+      "1. unattached",
+      "2. pre-installed",
+      "3. uninstalled",
+      "4. unused"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "अधिकांश लैपटॉप में, वेबकैम ______ होते हैं।",
+    "options": [
+      "1. असंबद्ध",
+      "2. पूर्व-स्थापित",
+      "3. स्थापित नहीं",
+      "4. अप्रयुक्त"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Sound is a kind of ______ wave.",
+    "options": [
+      "1. transverse",
+      "2. longitudinal",
+      "3. surface",
+      "4. electromagnetic"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "ध्वनि (Sound) किस प्रकार की तरंग (wave) होती है?",
+    "options": [
+      "1. ट्रांसवर्स (Transverse)",
+      "2. लॉन्गिट्यूडिनल (Longitudinal)",
+      "3. सरफेस (Surface)",
+      "4. इलेक्ट्रो मैग्नेटिक (Electromagnetic)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In digital image compression, which data redundancies are identified and exploited?",
+    "options": [
+      "1. Coding redundancy, interpixel redundancy and psychovisual redundancy",
+      "2. Decoding redundancy, interpixel redundancy and psychovisual redundancy",
+      "3. Coding redundancy, intrapixel redundancy and psychovisual redundancy",
+      "4. Coding redundancy, interpixel redundancy and visual redundancy"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "डिजिटल इमेज कंप्रेशन में किन डेटा रिडंडेंसीज (redundancies) की पहचान की जाती है और उनका उपयोग (exploit) किया जाता है?",
+    "options": [
+      "1. कोडिंग रिडंडेंसी, इंटरपिक्सेल रिडंडेंसी और साइकोविज़ुअल रिडंडेंसी",
+      "2. डिकोडिंग रिडंडेंसी, इंटरपिक्सेल रिडंडेंसी और साइकोविज़ुअल रिडंडेंसी",
+      "3. कोडिंग रिडंडेंसी, इंट्रा पिक्सेल रिडंडेंसी और साइकोविज़ुअल रिडंडेंसी",
+      "4. कोडिंग रिडंडेंसी, इंटरपिक्सेल रिडंडेंसी और विज़ुअल रिडंडेंसी"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_____ key cryptography algorithms are also called symmetric encryption.",
+    "options": [
+      "1. Secret",
+      "2. Personal",
+      "3. Shared",
+      "4. Universal"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "_____ की क्रिप्टोग्राफी एल्गोरिदम को सिमेट्रिक एन्क्रिप्शन (Symmetric Encryption) भी कहा जाता है।",
+    "options": [
+      "1. सीक्रेट (Secret)",
+      "2. पर्सनल (Personal)",
+      "3. शेयर्ड (Shared)",
+      "4. यूनिवर्सल (Universal)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The two internet protocol versions currently in use are:",
+    "options": [
+      "1. IPV3 and IPV4",
+      "2. IPV2 and IPV6",
+      "3. IPV2 and IPV4",
+      "4. IPV4 and IPV6"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "वर्तमान में उपयोग किए जाने वाले दो इंटरनेट प्रोटोकॉल संस्करण क्या हैं?",
+    "options": [
+      "1. IPV3 और IPV4",
+      "2. IPV2 और IPV6",
+      "3. IPV2 और IPV4",
+      "4. IPV4 और IPV6"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "How do you measure the speed of a dot matrix printer?",
+    "options": [
+      "1. Pages per minute",
+      "2. Characters per second",
+      "3. Lines per minute",
+      "4. Paragraphs per minute"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "डॉट मैट्रिक्स प्रिंटर की गति किसमें मापी जाती है?",
+    "options": [
+      "1. पृष्ठ प्रति मिनट",
+      "2. अक्षर प्रति सेकंड",
+      "3. पंक्ति प्रति मिनट",
+      "4. पैराग्राफ प्रति मिनट"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Data (information) in a computer is stored in the form of ______.",
+    "options": [
+      "1. files",
+      "2. directories",
+      "3. floppies",
+      "4. matter"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कंप्यूटर में डेटा (सूचना) किस रूप में संग्रहीत (stored) की जाती है?",
+    "options": [
+      "1. फाइल्स",
+      "2. डायरेक्ट्रीज",
+      "3. फ्लॉपी",
+      "4. मैटर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Recovering the file back from the compression method is known as ______.",
+    "options": [
+      "1. uninstalling",
+      "2. decompression",
+      "3. enhancement",
+      "4. contrast"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "संपीड़न (कम्प्रेशन) विधि से फ़ाइल को पुनर्प्राप्त करना ______ के रूप में जाना जाता है।",
+    "options": [
+      "1. अनइंस्टालिंग",
+      "2. डीकम्प्रेशन",
+      "3. एनहांसमेंट",
+      "4. कॉन्ट्रास्ट"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following best defines Electronic Mail (E-mail)?",
+    "options": [
+      "1. A protocol used for transferring files between computers on the Internet",
+      "2. An online discussion area where users post messages on specific topics",
+      "3. A system for sending and receiving digital messages over a computer network",
+      "4. A real-time typed conversation between two or more users"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्न में से कौन‑सा विकल्प इलेक्ट्रॉनिक मेल (E‑mail) की सबसे उपयुक्त परिभाषा बताता है?",
+    "options": [
+      "1. इंटरनेट पर कंप्यूटरों के बीच फ़ाइल स्थानांतरण के लिए प्रयुक्त प्रोटोकॉल",
+      "2. एक ऑनलाइन चर्चा मंच जहाँ उपयोगकर्ता विषय‑विशेष पर संदेश पोस्ट करते हैं",
+      "3. कंप्यूटर नेटवर्क के माध्यम से डिजिटल संदेश भेजने और प्राप्त करने की प्रणाली",
+      "4. दो या अधिक उपयोगकर्ताओं के बीच वास्तविक‑समय (real‑time) टाइप का किया गया संवाद"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which organization is responsible for coordinating domain names and allocating IP addresses on the Internet?",
+    "options": [
+      "1. ICANN",
+      "2. HTTP",
+      "3. ISP",
+      "4. HTML"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "इंटरनेट पर डोमेन नामों और IP एड्रेस के आवंटन (allocation) का समन्वय करने के लिए कौन‑सी संस्था जिम्मेदार है?",
+    "options": [
+      "1. ICANN",
+      "2. HTTP",
+      "3. ISP",
+      "4. HTML"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "To insert clip art (pictures stored on the disk) into an MS Word 2019 document, which of the following methods is used?",
+    "options": [
+      "1. Insert > Picture",
+      "2. Insert > Object",
+      "3. Add > Picture",
+      "4. Insert > File"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS Word 2019 में डिस्क में सेव की गई तस्वीरें (Clip Art) डालने के लिए किस विधि का उपयोग किया जाता है?",
+    "options": [
+      "1. Insert > Picture",
+      "2. Insert > Object",
+      "3. Add > Picture",
+      "4. Insert > File"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A collection of related web pages under a single domain name (such as www.amazon.com) is called a ______.",
+    "options": [
+      "1. website",
+      "2. web browser",
+      "3. top-level domain",
+      "4. URL"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "www.amazon.com जैसे एक ही डोमेन नाम के अंतर्गत संबंधित वेब पेजों के समूह को क्या कहा जाता है?",
+    "options": [
+      "1. वेबसाइट",
+      "2. वेब ब्राउज़र",
+      "3. टॉप‑लेवल डोमेन",
+      "4. URL"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Using Print Preview in MS Office is useful when you want to:",
+    "options": [
+      "1. colour the document",
+      "2. save the document",
+      "3. delete the document",
+      "4. see how a document will look when printed"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS Office में Print Preview का उपयोग तब किया जाता है जब आप यह देखना चाहते हैं कि दस्तावेज़ प्रिंट होने पर कैसा दिखाई देगा।",
+    "options": [
+      "1. डॉक्यूमेंट को कलर करना",
+      "2. डॉक्यूमेंट को सेव करना",
+      "3. डॉक्यूमेंट को डिलीट करना",
+      "4. डॉक्यूमेंट प्रिंट होने पर कैसा दिखाई देगा यह देखना"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Multipurpose Internet Mail Extension (MIME) was developed to support which of the following?",
+    "options": [
+      "1. E-mail messages containing text, audio and video",
+      "2. FTP clients",
+      "3. Telnet between two machines",
+      "4. Text–based e-mail messages only"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "मल्टीपर्पज़ इंटरनेट मेल एक्सटेंशन (MIME) किसका सपोर्ट करने के लिए विकसित किया गया था?",
+    "options": [
+      "1. टेक्स्ट, ऑडियो और वीडियो वाले ई‑मेल संदेश",
+      "2. FTP क्लाइंट",
+      "3. दो मशीनों के बीच टेलनेट",
+      "4. केवल टेक्स्ट‑आधारित ई‑मेल संदेश"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is the default file extension for documents created in MS Word 2019?",
+    "options": [
+      "1. .txt",
+      "2. .wrd",
+      "3. .fil",
+      "4. .docx"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS Word 2019 में बनाए गए दस्तावेज़ों (documents) ज़ों की डिफ़ॉल्ट फ़ाइल एक्सटेंशन कौन‑सी होती है?",
+    "options": [
+      "1. .txt",
+      "2. .wrd",
+      "3. .fil",
+      "4. .docx"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which function key is used to open Help window in Microsoft Office applications?",
+    "options": [
+      "1. F1",
+      "2. F2",
+      "3. F3",
+      "4. F4"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Microsoft Office एप्लिकेशन में Help खोलने के लिए किस फ़ंक्शन की (Function Key) का उपयोग किया जाता है?",
+    "options": [
+      "1. F1",
+      "2. F2",
+      "3. F3",
+      "4. F4"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS Excel 2019, which of the following is a type of pie chart?",
+    "options": [
+      "1. Polar Area",
+      "2. Doughnut",
+      "3. Column",
+      "4. XY"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS Excel 2019 में निम्न में से कौन‑सा पाई चार्ट का एक प्रकार है?",
+    "options": [
+      "1. पोलर एरिया (Polar Area)",
+      "2. डोनट (Doughnut)",
+      "3. कॉलम (Column)",
+      "4. XY"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which keyboard shortcut is used to close a tab in the Google Chrome browser?",
+    "options": [
+      "1. Ctrl+Y",
+      "2. Ctrl+A",
+      "3. Ctrl+W",
+      "4. Ctrl+T"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Google Chrome ब्राउज़र में किसी टैब को बंद करने के लिए किस कीबोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Ctrl+Y",
+      "2. Ctrl+A",
+      "3. Ctrl+W",
+      "4. Ctrl+T"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "______ is a chart that is placed on a worksheet rather than on a separate chart sheet in MS Excel.",
+    "options": [
+      "1. Chart sheet",
+      "2. Data table",
+      "3. Embedded chart",
+      "4. Worksheet tab"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS Excel में वह चार्ट जिसे अलग चार्ट शीट के बजाय वर्कशीट पर रखा जाता है, क्या कहलाता है?",
+    "options": [
+      "1. चार्ट शीट (Chart Sheet)",
+      "2. डेटा टेबल (Data Table)",
+      "3. एम्बेडेड चार्ट (Embedded Chart)",
+      "4. वर्कशीट टैब (Worksheet Tab)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "When a chart in MS Excel 2019 contains multiple data series, which chart element is used to identify each data series?",
+    "options": [
+      "1. title",
+      "2. legend",
+      "3. scale",
+      "4. source"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS Excel 2019 में, जब किसी चार्ट में एक से अधिक डेटा सीरीज़ होती हैं, तो प्रत्येक सीरीज़ की पहचान करने के लिए किस चार्ट एलिमेंट का उपयोग किया जाता है?",
+    "options": [
+      "1. टाइटल (Title)",
+      "2. लीजेंड (Legend)",
+      "3. स्केल (Scale)",
+      "4. सोर्स (Source)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which keyboard shortcut in MS Excel 2019 cycles through all combinations of absolute and relative cell references when a reference or range is selected in a formula?",
+    "options": [
+      "1. Ctrl",
+      "2. F4",
+      "3. F2",
+      "4. Alt"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS Excel 2019 में, जब किसी फ़ॉर्मूला में सेल रेफ़रेंस या रेंज चुनी होती है, तो कौन‑सा कीबोर्ड शॉर्टकट absolute और relative रेफ़रेंस के सभी संयोजनों के बीच चक्रित होता है?",
+    "options": [
+      "1. Ctrl",
+      "2. F4",
+      "3. F2",
+      "4. Alt"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which function in MS Excel 2019 returns the highest value from a range of cells?",
+    "options": [
+      "1. MAX",
+      "2. LARGE",
+      "3. HIGH",
+      "4. TOP"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS Excel 2019 में किस फ़ंक्शन का उपयोग किसी रेंज में सबसे अधिक (highest) मान प्राप्त करने के लिए किया जाता है?",
+    "options": [
+      "1. MAX",
+      "2. LARGE",
+      "3. HIGH",
+      "4. TOP"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which feature in MS Excel 2019 allows you to display only the rows that meet specific criteria?",
+    "options": [
+      "1. Sort",
+      "2. Filter",
+      "3. Wrap Text",
+      "4. Merge & Center"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS Excel 2019 में किस फ़ीचर का उपयोग करके केवल उन्हीं पंक्तियों (rows) यों को दिखाया जाता है जो निश्चित मानदंडों (criteria) को पूरा करती हैं?",
+    "options": [
+      "1. सॉर्ट (Sort)",
+      "2. फ़िल्टर (Filter)",
+      "3. रैप टेक्स्ट (Wrap Text)",
+      "4. मर्ज और सेंटर (Merge & Center)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A ______ is a piece of programming code that runs in the MS Excel 2019 environment and helps automate routine tasks.",
+    "options": [
+      "1. formula",
+      "2. micro",
+      "3. macro",
+      "4. module"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS Excel 2019 के परिवेश में चलने वाला और नियमित कार्यों को स्वचालित (automate) करने में सहायक प्रोग्रामिंग कोड क्या कहलाता है?",
+    "options": [
+      "1. फ़ॉर्मूला",
+      "2. माइक्रो",
+      "3. मैक्रो",
+      "4. मॉड्यूल"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which keyboard shortcut is used to insert the registered trademark (®) symbol in MS Word 2019?",
+    "options": [
+      "1. ALT+Enter",
+      "2. CTRL+ALT+R",
+      "3. CTRL+TAB+Shift",
+      "4. CTRL+SHIFT+ESC"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS Word 2019 में रजिस्टर्ड ट्रेडमार्क (®) चिन्ह डालने के लिए किस कीबोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. ALT+Enter",
+      "2. CTRL+ALT+R",
+      "3. CTRL+TAB+Shift",
+      "4. CTRL+SHIFT+ESC"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which tab in MS PowerPoint 2019 is used to apply themes to a presentation?",
+    "options": [
+      "1. Home",
+      "2. Insert",
+      "3. Design",
+      "4. View"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS PowerPoint 2019 में किसी प्रस्तुति (Presentation) पर थीम लागू करने के लिए किस टैब का उपयोग किया जाता है?",
+    "options": [
+      "1. होम (Home)",
+      "2. इन्सर्ट (Insert)",
+      "3. डिज़ाइन (Design)",
+      "4. व्यू (View)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following does NOT belong to the Statistical function category in MS Excel 2019?",
+    "options": [
+      "1. AND()",
+      "2. LARGE()",
+      "3. COUNT()",
+      "4. AVERAGE()"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS Excel 2019 में इनमें से किसका संबंध स्टैटिस्टिकल फ़ंक्शन कैटेगरी से नहीं है?",
+    "options": [
+      "1. AND()",
+      "2. LARGE()",
+      "3. COUNT()",
+      "4. AVERAGE()"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which Internet‑based service is commonly used to conduct online meetings among participants in different locations?",
+    "options": [
+      "1. Video conferencing",
+      "2. E-mail",
+      "3. File compression",
+      "4. Web browsing"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से कौन‑सी इंटरनेट‑आधारित सेवा अलग‑अलग स्थानों पर स्थित प्रतिभागियों के बीच ऑनलाइन बैठकें आयोजित करने के लिए सामान्यतः उपयोग की जाती है?",
+    "options": [
+      "1. वीडियो कॉन्फ़्रेंसिंग",
+      "2. ई‑मेल",
+      "3. फ़ाइल कम्‍प्रेशन",
+      "4. वेब ब्राउज़िंग"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "We can get files from another computer connected to the Internet using ______.",
+    "options": [
+      "1. TELNET",
+      "2. FTP",
+      "3. HTTP",
+      "4. DHCP"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ का इस्तेमाल करके हम इंटरनेट से जुड़े किसी दूसरे कंप्यूटर से फाइलें प्राप्त कर सकते हैं।",
+    "options": [
+      "1. TELNET",
+      "2. FTP",
+      "3. HTTP",
+      "4. DHCP"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following can best be described as a digital media receiver?",
+    "options": [
+      "1. Apple TV",
+      "2. Google TV",
+      "3. Yahoo Live",
+      "4. Windows Live"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से किसे डिजिटल मीडिया रिसीवर के रूप में सबसे उपयुक्त रूप से वर्णित किया जा सकता है?",
+    "options": [
+      "1. एप्पल टीवी",
+      "2. गूगल टीवी",
+      "3. याहू लाइव",
+      "4. विंडोज लाइव"
+    ],
+    "answer": 0
+  }
+],
+  
   "9th May 2026 - Shift1": [
   {
     "q": "Which of the following is an invalid characteristic of a computer?",
