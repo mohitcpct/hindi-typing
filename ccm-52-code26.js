@@ -1,5 +1,1048 @@
  const questionBank26 = {
 
+ "4rd July 2026 - Shift1": [
+{
+    "q": "LINUX is:",
+    "options": [
+      "1. an application software",
+      "2. an assembler",
+      "3. an operating system",
+      "4. a DBMS software"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "LINUX क्या है?",
+    "options": [
+      "1. एक एप्लीकेशन सॉफ्टवेयर",
+      "2. एक एसेंबलर",
+      "3. एक ऑपरेटिंग सिस्टम",
+      "4. एक डीबीएमएस सॉफ्टवेयर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "With respect to the computer keyboard, ‘Prt Scrn’ is an abbreviation for:",
+    "options": [
+      "1. Print Scene",
+      "2. Print Screen",
+      "3. Print Sign",
+      "4. Port Scan"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "कंप्यूटर कीबोर्ड के संदर्भ में ‘Prt Scrn’ किसका संक्षिप्त रूप है?",
+    "options": [
+      "1. Print Scene (प्रिंट सीन)",
+      "2. Print Screen (प्रिंट स्क्रीन)",
+      "3. Print Sign (प्रिंट साइन)",
+      "4. Port Scan (पोर्ट स्कैन)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Windows XP is the successor of which version of the Windows operating system?",
+    "options": [
+      "1. Windows 8",
+      "2. Windows ME",
+      "3. Windows 7",
+      "4. Windows 10"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Windows XP, Windows ऑपरेटिंग सिस्टम के किस संस्करण का उत्तराधिकारी था?",
+    "options": [
+      "1. Windows 8",
+      "2. Windows ME",
+      "3. Windows 7",
+      "4. Windows 10"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In which language are mnemonic codes used?",
+    "options": [
+      "1. Machine language",
+      "2. Assembly language",
+      "3. Binary language",
+      "4. High-level language"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "म्नेमोनिक कोड (Mnemonic Codes) किस भाषा में उपयोग किए जाते हैं?",
+    "options": [
+      "1. मशीनी लैंग्वेज",
+      "2. असेंबली लैंग्वेज",
+      "3. बायनरी लैंग्वेज",
+      "4. उच्च स्तरीय लैंग्वेज"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which tab is used to add a footnote in OpenOffice Writer?",
+    "options": [
+      "1. View",
+      "2. Insert",
+      "3. Edit",
+      "4. File"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "OpenOffice Writer में फुटनोट (Footnote) जोड़ने के लिए किस टैब का उपयोग किया जाता है?",
+    "options": [
+      "1. व्यू",
+      "2. इन्सर्ट",
+      "3. एडिट",
+      "4. फ़ाइल"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Who is known as the Father of Computer?",
+    "options": [
+      "1. James Gosling",
+      "2. Charles Babbage",
+      "3. Peter Norton",
+      "4. Tim Berners Lee"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्न में से किसे कंप्यूटर के जनक के रूप में जाना जाता है?",
+    "options": [
+      "1. जेम्स गोसलिंग",
+      "2. चार्ल्स बैबेज",
+      "3. पीटर नॉर्टन",
+      "4. टिम बर्नर्स ली"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a useful and robust library for machine learning in Python?",
+    "options": [
+      "1. Scikit-learn",
+      "2. Macromedia flash",
+      "3. Author ware",
+      "4. Open SSL"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन‑सी Python में मशीन लर्निंग के लिए एक उपयोगी और सशक्त (robust) लाइब्रेरी है?",
+    "options": [
+      "1. Scikit-learn",
+      "2. Macromedia flash",
+      "3. Author ware",
+      "4. Open SSL"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following hardware components is an internal part of a computer system?",
+    "options": [
+      "1. Keyboard",
+      "2. Motherboard",
+      "3. DVD",
+      "4. Monitor"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा हार्डवेयर कंप्यूटर सिस्टम का आंतरिक घटक है?",
+    "options": [
+      "1. कीबोर्ड",
+      "2. मदर बोर्ड",
+      "3. डीवीडी (DVD)",
+      "4. मॉनिटर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Primary memory is also known as _________ memory.",
+    "options": [
+      "1. internal",
+      "2. external",
+      "3. concept",
+      "4. virtual"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "प्राइमरी मेमोरी को __________ मेमोरी के रूप में भी जाना जाता है।",
+    "options": [
+      "1. इंटरनल (internal)",
+      "2. एक्सटर्नल (external)",
+      "3. कांसेप्ट (concept)",
+      "4. वर्चुअल (virtual)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a component of the Central Processing Unit (CPU)?",
+    "options": [
+      "1. Keyboard",
+      "2. Mouse",
+      "3. ALU",
+      "4. MICR"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन‑सा सेंट्रल प्रोसेसिंग यूनिट (CPU) का भाग है?",
+    "options": [
+      "1. की-बोर्ड",
+      "2. माउस",
+      "3. एएलयू (ALU)",
+      "4. एमआईसीआर (MICR)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "AGP cards operate at a clock speed of ______ MHz.",
+    "options": [
+      "1. 66",
+      "2. 33",
+      "3. 55",
+      "4. 16"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "AGP कार्ड का क्लॉक स्पीड कितने मेगाहर्ट्ज़ (MHz) होता है?",
+    "options": [
+      "1. 66",
+      "2. 33",
+      "3. 55",
+      "4. 16"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "How much data can a dual‑layer Blu‑ray Disc store?",
+    "options": [
+      "1. 45 GB",
+      "2. 52 GB",
+      "3. 50 GB",
+      "4. 40 GB"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "ड्यूल‑लेयर ब्लू‑रे डिस्क (Dual‑Layer Blu‑ray Disc) में अधिकतम कितना डेटा संग्रहीत किया जा सकता है?",
+    "options": [
+      "1. 45 GB",
+      "2. 52 GB",
+      "3. 50 GB",
+      "4. 40 GB"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the process called in which the system spends more time swapping pages between main memory and disk than on executing processes?",
+    "options": [
+      "1. Thrashing",
+      "2. Caching",
+      "3. Blocking",
+      "4. Segmentation"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "वह प्रक्रिया क्या कहलाती है जिसमें सिस्टम, प्रोग्रामों के निष्पादन की तुलना में मुख्य स्मृति (Main Memory) और डिस्क के बीच पेज स्वैप करने में अधिक समय व्यतीत करता है?",
+    "options": [
+      "1. थ्रैशिंग",
+      "2. कैशिंग",
+      "3. ब्लॉकिंग",
+      "4. सेगमेंटेमेंटेशन"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Capacitive touch sensors are classified into how many types?",
+    "options": [
+      "1. one",
+      "2. two",
+      "3. three",
+      "4. four"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कैपेसिटिव टच सेंसरों (Capacitive रों Touch Sensors) को कितने प्रकारों में वर्गीकृत किया जाता है?",
+    "options": [
+      "1. एक",
+      "2. दो",
+      "3. तीन",
+      "4. चार"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "FireWire is an interface standard developed by which company?",
+    "options": [
+      "1. IBM",
+      "2. Sony",
+      "3. Apple",
+      "4. HP"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "FireWire इंटरफ़ेस मानक किस कंपनी द्वारा विकसित किया गया है?",
+    "options": [
+      "1. आई.बी.एम.",
+      "2. सोनी",
+      "3. एप्पल",
+      "4. एच.पी."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "With reference to types of networks, what does CAN stand for?",
+    "options": [
+      "1. Campus Area Network",
+      "2. Cable Area Network",
+      "3. Communication Area Network",
+      "4. Common Area Network"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "नेटवर्क के प्रकारों के संदर्भ में, CAN का पूर्ण रूप क्या है?",
+    "options": [
+      "1. कैंपस एरिया नेटवर्क (Campus Area Network)",
+      "2. केबल एरिया नेटवर्क (Cable Area Network)",
+      "3. कम्युनिकेशन एरिया नेटवर्क (Communication Area Network)",
+      "4. कॉमन एरिया नेटवर्क (Common Area Network)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is an example of an access control system?",
+    "options": [
+      "1. Wi-Fi",
+      "2. Password authentication",
+      "3. Hotspot",
+      "4. Modem"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन‑सा एक एक्सेस कंट्रोल सिस्टम (Access Control System) का उदाहरण है?",
+    "options": [
+      "1. वाई-फ़ाई",
+      "2. पासवर्ड ऑथेंटिथें केशन",
+      "3. हॉट स्पॉट",
+      "4. मॉडेम"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A web browser may ______ the access to a website or at least warn that the user certificate of the website is expired.",
+    "options": [
+      "1. deny",
+      "2. intrude",
+      "3. allow",
+      "4. hack"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "जब किसी वेबसाइट के प्रमाणपत्र की समय सीमा समाप्त हो जाती है तो एक वेब ब्राउज़र उस वेबसाइट के एक्सेस को _______ या कम से कम यूज़र को चेतावनी दे सकता है।",
+    "options": [
+      "1. मना कर सकता है",
+      "2. हस्तक्षेप कर सकता है",
+      "3. अनुमति दे सकता है",
+      "4. हैक कर सकता है"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which file format is used to save a Microsoft Excel 2019 Open XML workbook?",
+    "options": [
+      "1. .xls.ox",
+      "2. .xls",
+      "3. .xlsx",
+      "4. .oxls"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Microsoft Excel 2019 की Open XML वर्कबुक और स्प्रेडशीट को सहेजने (save) के लिए कौन‑सा फ़ाइल फ़ॉर्मेट उपयोग किया जाता है?",
+    "options": [
+      "1. .xls.ox",
+      "2. .xls",
+      "3. .xlsx",
+      "4. .oxls"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What does PPM indicate in a printer’s specifications?",
+    "options": [
+      "1. The quality of printed images",
+      "2. The number of pages a printer can print in one minute",
+      "3. The number of colours a printer can produce",
+      "4. The number of paper trays in a printer"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "प्रिंटर की विशिष्टताओं (Specifications) ओं में PPM क्या दर्शाता है?",
+    "options": [
+      "1. मुद्रित चित्रों की गुणवत्ता",
+      "2. एक मिनट में प्रिंटर द्वारा छापे जा सकने वाले पृष्ठों की संख्या",
+      "3. प्रिंटर द्वारा उत्पन्न किए जा सकने वाले रंगों की संख्या",
+      "4. प्रिंटर में पेपर ट्रे की संख्या"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following devices is best suited for use with large‑size paper and complex drawings in computer‑aided design (CAD)?",
+    "options": [
+      "1. Dot matrix printer",
+      "2. Plotter",
+      "3. Laser printer",
+      "4. Inkjet printer"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कंप्यूटर‑एडेड डिज़ाइन (CAD) में बड़े आकार के काग़ज़ और जटिल ड्रॉ इंग के लिए निम्नलिखित में से कौन‑सा उपकरण सबसे अधिक उपयुक्त है?",
+    "options": [
+      "1. डॉट मैट्रिक्स प्रिंटर",
+      "2. प्लॉटर",
+      "3. लेज़र प्रिंटर",
+      "4. इंकजेट प्रिंटर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following viruses stay permanently in the primary memory (RAM), becomes active when the computer starts, and corrupts files and programs?",
+    "options": [
+      "1. Boot",
+      "2. Macro",
+      "3. Resident",
+      "4. Executable"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन‑सा वायरस प्राथमिक स्मृति (RAM) में स्थायी रूप से रहता है, कंप्यूटर के शुरू होते ही सक्रिय हो जाता है और कंप्यूटर पर चल रही फ़ाइलों व प्रोग्रामों को संक्रमित करता है?",
+    "options": [
+      "1. बूट (Boot)",
+      "2. मॅक्रो (Macro)",
+      "3. रेसिडेंट (Resident)",
+      "4. एक्सेक्यूटेबल (Executable)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "GIF stands for:",
+    "options": [
+      "1. Graphical Interchange Form",
+      "2. Graphics Interchange Format",
+      "3. Graph Interchange Form",
+      "4. General Interchange Formation"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "GIF का पूर्णरूप क्या है?",
+    "options": [
+      "1. Graphical Interchange Form (ग्राफिकल इंटरचेंज फॉर्म)",
+      "2. Graphics Interchange Format (ग्राफ़िक्स इंटरचेंज फॉर्मेट)",
+      "3. Graph Interchange Form (ग्राफ इंटरचेंज फॉर्म)",
+      "4. General Interchange Formation (जनरल इंटरचेंज फार्मेशन)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "TIFF stands for:",
+    "options": [
+      "1. Tinted Image File Format",
+      "2. Tagged Image File Format",
+      "3. Tar Image File Format",
+      "4. Threshold Image File Format"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "TIFF का पूर्णरूप क्या है?",
+    "options": [
+      "1. Tinted Image File Format (टिंटेड इमेज़ फाइल फॉर्मेट)",
+      "2. Tagged Image File Format (टैग्ड इमेज़ फाइल फॉर्मेट)",
+      "3. Tar Image File Format (टार इमेज़ फाइल फॉर्मेट)",
+      "4. Threshold Image File Format (थ्रेशोल्ड इमेज़ फाइल फॉर्मेट)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a non-impact printer?",
+    "options": [
+      "1. Dot matrix",
+      "2. Daisy wheel",
+      "3. Line",
+      "4. Laser"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से कौन सा एक नॉन-इम्पैक्ट प्रिंटर है?",
+    "options": [
+      "1. डॉट मैट्रिक्स",
+      "2. डेज़ी व्हील",
+      "3. लाइन",
+      "4. लेज़र"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is an example of system software?",
+    "options": [
+      "1. Payroll System",
+      "2. MS Excel",
+      "3. Word Processor",
+      "4. Linux"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्न में से कौन सा सिस्टम सॉफ्टवेयर का एक उदाहरण है?",
+    "options": [
+      "1. पे-रोल सिस्टम",
+      "2. ऍम ऍस एक्सेल",
+      "3. वर्ड प्रोसेसर",
+      "4. लिनक्स"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A modem helps a computer send or receive information over ______ line.",
+    "options": [
+      "1. a telephone",
+      "2. a magnetic",
+      "3. an electric",
+      "4. an optic fiber"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "मोडेम (Modem) कंप्यूटर को ______ लाइन के माध्यम से सूचना भेजने या प्राप्त करने में सहायता करता है।",
+    "options": [
+      "1. टेलीफोन",
+      "2. चुंबकीय",
+      "3. इलेक्ट्रिक",
+      "4. ऑप्टिक फ़ाइबर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "If keyboard keys stick or certain keys become unresponsive, which of the following is an appropriate first troubleshooting step?",
+    "options": [
+      "1. Carefully clean the keyboard to remove dust and debris",
+      "2. Change the keyboard layout preferences",
+      "3. Toggle the Num Lock key",
+      "4. Hold Shift and Ctrl keys for a few seconds"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "यदि कीबोर्ड की कुछ कुंजियाँ चिपकने लगें या प्रतिक्रिया देना बंद कर दें, तो निम्नलिखित में से कौन‑सा उपयुक्त प्रारम्भिक Troubleshooting चरण है?",
+    "options": [
+      "1. कीबोर्ड को सावधानीपूर्वक साफ करके धूल और मलबा हटाना",
+      "2. कीबोर्ड लेआउट वरीयताओं (Keyboard Layout Preferences) ओं को बदलना",
+      "3. Num Lock कुंजी को ऑन/ऑफ करना",
+      "4. Shift और Ctrl कुंजियों को कुछ समय तक दबाए रखना"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In the Microsoft Windows operating system, icons used for desktop shortcuts can be stored in .ico files or embedded as resources in which file formats?",
+    "options": [
+      "1. .exe and .jpeg",
+      "2. .exe and .dll",
+      "3. .dll and .docx",
+      "4. .jpeg and .docx"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Microsoft Windows ऑपरेटिंग सिस्टम में, डेस्कटॉप शॉर्टकट्स के लिए उपयोग किए जाने वाले आइकॉन .ico फ़ाइलों में या किन फ़ाइल फ़ॉर्मैट्स में रिसोर्स के रूप में एम्बेड किए जा सकते हैं?",
+    "options": [
+      "1. .exe और .jpeg",
+      "2. .exe और .dll",
+      "3. .dll और .docx",
+      "4. .jpeg और .docx"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Resource management in an operating system can be carried out via:",
+    "options": [
+      "1. time division multiplexing",
+      "2. space division multiplexing",
+      "3. both time and space division multiplexing",
+      "4. frequency division multiplexing"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "ऑपरेटिंग सिस्टम में संसाधन प्रबंधन (resource management) किसके माध्यम से किया जा सकता है?",
+    "options": [
+      "1. केवल टाइम डिवीज़न मल्टीप्लेक्सिंग (time division multiplexing)",
+      "2. केवल स्पेस डिवीज़न मल्टीप्लेक्सिंग (space division multiplexing)",
+      "3. टाइम और स्पेस डिवीज़न मल्टीप्लेक्सिंग दोनों",
+      "4. फ्रीक्वेंसी डिवीज़न मल्टीप्लेक्सिंग (frequency division multiplexing)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The e-commerce domain that involves business activity initiated by the consumer and targeted to businesses is known as:",
+    "options": [
+      "1. Consumer to Consumer (C2C)",
+      "2. Business to Business (B2B)",
+      "3. Consumer to Business (C2B)",
+      "4. Business to Consumer (B2C)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "वह ई-कामर्स डोमेन क्या कहलाता है जिसमें उपभोक्ता द्वारा शुरू की गई व्यावसायिक गतिविधि शामिल होती है और जिसका उद्देश्य व्यवसाय करना होता है?",
+    "options": [
+      "1. उपभोक्ता से उपभोक्ता (C2C)",
+      "2. व्यापार से व्यवसाय (B2B)",
+      "3. उपभोक्ता से व्यवसाय (C2B)",
+      "4. व्यवसाय से उपभोक्ता (B2C)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In Gmail, emails related to social networks, media‑sharing sites, and gaming platforms are categorized under which tab?",
+    "options": [
+      "1. Primary",
+      "2. Promotions",
+      "3. Social",
+      "4. Forums"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Gmail में सोशल नेटवर्क, मीडिया‑शेयरिंग साइट्स और गेमिंग प्लेटफ़ॉर्म से संबंधित ई‑मेल किस टैब के अंतर्गत वर्गीकृत किए जाते हैं?",
+    "options": [
+      "1. प्राइमरी",
+      "2. प्रमोशन",
+      "3. सोशल",
+      "4. फोरम"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which option in the Home tab of MS Word 365 allows a user to format text as a subtitle?",
+    "options": [
+      "1. Clipboard",
+      "2. Styles",
+      "3. Font",
+      "4. Paragraph"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS Word 365 के Home टैब में कौन‑सा विकल्प किसी दस्तावेज़ में टेक्स्ट को Subtitle के रूप में फॉर्मैट करने की अनुमति देता है?",
+    "options": [
+      "1. क्लिपबोर्ड",
+      "2. स्टाइल्स",
+      "3. फॉण्ट",
+      "4. पैराग्राफ"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following shortcut keys is used to open the Insert tab in MS PowerPoint 2019?",
+    "options": [
+      "1. Ctrl + Shift + D",
+      "2. Alt + N",
+      "3. Ctrl + A",
+      "4. Ctrl + E"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS PowerPoint 2019 में Insert टैब खोलने के लिए निम्नलिखित में से कौन‑सी शॉर्टकट कुंजी उपयोग की जाती है?",
+    "options": [
+      "1. Ctrl + Shift + D",
+      "2. Alt + N",
+      "3. Ctrl + A",
+      "4. Ctrl + E"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In BHIM, the payment address is used to:",
+    "options": [
+      "1. uniquely identify the person’s bank account",
+      "2. uniquely identify the person’s PIN id",
+      "3. uniquely identify the person’s password",
+      "4. uniquely identify the person's recurring deposit account"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "BHIM में पेमेंट एड्रेस (Payment Address) का उपयोग किसके लिए किया जाता है?",
+    "options": [
+      "1. व्यक्ति के बैंक खाते की विशिष्ट पहचान करने के लिए",
+      "2. व्यक्ति के PIN ID की पहचान करने के लिए",
+      "3. व्यक्ति के पासवर्ड की पहचान करने के लिए",
+      "4. व्यक्ति के आवर्ती जमा (Recurring Deposit) खाते की पहचान करने के लिए"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which chart style in MS Excel 365 is mostly useful in scientific and engineering applications?",
+    "options": [
+      "1. Stock",
+      "2. Radar",
+      "3. Pie",
+      "4. Scatter"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS Excel 365 में वैज्ञानिक और इंजीनियरिंग क्षेत्रों में प्रायः उपयोग में आने वाला चार्ट स्टाइल कौन‑सा है?",
+    "options": [
+      "1. स्टॉक",
+      "2. रडार",
+      "3. पाई",
+      "4. स्कैटर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In legacy Skype instant messaging (prior to its retirement), which symbol was used to make a word italic?",
+    "options": [
+      "1. Asterisk (*)",
+      "2. Hyphens (-)",
+      "3. Underscore (_)",
+      "4. Hash (#)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Skype (सेवा के बंद होने से पहले) की इंस्टेंट मैसेजिंग में किसी शब्द को इटैलिक करने के लिए किस चिन्ह का उपयोग किया जाता था?",
+    "options": [
+      "1. Asterisk (*)",
+      "2. Hyphens (-)",
+      "3. Underscore (_)",
+      "4. Hash (#)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "The following figure shows that the user is customising the ______ in MS Word 365. <br> <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn7k2tykLeQa5n2uWd5m61lTpaHv1jBtGxe4cEN75jGSJMO6ZfZd-65i3xE-wakn8KwZNN3-k2mb1Dv3Tjt2PXrA1S8bSVMfZxTui50cU1_rQ0sfSAjPOOFP9byfcLjFvANdXHn5yZDHJVtJ8qFRaLylzlCA5bHFWx1mzigMrjdp51nyprs8_YDylezK6Q/s320/01%20hv.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. size of the document",
+      "2. margins",
+      "3. page orientation",
+      "4. font size"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित चित्र दर्शाता है कि उपयोगकर्ता MS Word 365 में किस विकल्प को कस्टमाइज़ कर रहा है? <br> <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn7k2tykLeQa5n2uWd5m61lTpaHv1jBtGxe4cEN75jGSJMO6ZfZd-65i3xE-wakn8KwZNN3-k2mb1Dv3Tjt2PXrA1S8bSVMfZxTui50cU1_rQ0sfSAjPOOFP9byfcLjFvANdXHn5yZDHJVtJ8qFRaLylzlCA5bHFWx1mzigMrjdp51nyprs8_YDylezK6Q/s320/01%20hv.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. डॉक्यूमेंट के आकार",
+      "2. मार्जिन",
+      "3. पेज ओरिएंटेशन",
+      "4. फ़ॉन्ट के आकार"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which option in MS Word 365 is used to set the space between the text of a document and the edges of the page?",
+    "options": [
+      "1. Orientation",
+      "2. Margins",
+      "3. Columns",
+      "4. Indentation"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS Word 365 में किसी दस्तावेज़ (document) के टेक्स्ट और पेज के किनारों के बीच की जगह को सेट करने के लिए किस विकल्प (option) का उपयोग किया जाता है?",
+    "options": [
+      "1. ऑरिएंटेशन (Orientation)",
+      "2. मार्जिन (Margins)",
+      "3. कॉलम (Columns)",
+      "4. इंडेंटेशन (Indentation)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the maximum number of lines that can be set for a drop cap in MS Word 365?",
+    "options": [
+      "1. Undefined",
+      "2. 20",
+      "3. 15",
+      "4. 10"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS Word 365 में ड्रॉप कैप (Drop Cap) के लिए अधिकतम कितनी पंक्तियाँ (lines) निर्धारित की जा सकती हैं?",
+    "options": [
+      "1. अपरिभाषित (Undefined)",
+      "2. 20",
+      "3. 15",
+      "4. 10"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Identify the pagination option in the “Line and Page Breaks” tab of MS Word 365 that prevents an automatic page break between paragraphs.",
+    "options": [
+      "1. Widow/Orphan control",
+      "2. Page break before",
+      "3. Keep with next",
+      "4. Keep lines together"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS Word 365 के ‘Line and Page Breaks’ टैब में कौन‑सा pagination विकल्प अनुच्छेदों (paragraphs) दों के बीच स्वतः होने वाले पेज ब्रेक को रोकता है?",
+    "options": [
+      "1. विडो/ऑर्फ़न कंट्रोल",
+      "2. पेज ब्रेक बिफोर",
+      "3. कीप विद नेक्स्ट",
+      "4. कीप लाइन्स टुगेदर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which feature in MS Word 365 also converts common text shortcuts into their proper characters?",
+    "options": [
+      "1. AutoCorrect",
+      "2. Auto Capitalization",
+      "3. Auto shortcuts",
+      "4. Auto check"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS Word 365 में कौन‑सा फीचर सामान्य टेक्स्ट शॉर्टकट्स को उनके उचित अक्षरों/चिह्नों में बदल देता है?",
+    "options": [
+      "1. ऑटो करेक्ट",
+      "2. ऑटो कैपिटलाइजेशन",
+      "3. ऑटो शॉर्टकट",
+      "4. ऑटो चेक"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which command in MS Word 365 displays revisions in a separate window?",
+    "options": [
+      "1. Track Changes",
+      "2. Balloons",
+      "3. Show Markup",
+      "4. Reviewing pane"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS Word 365 में कौन‑सा कमांड संशोधनों (revisions) को एक अलग विंडो में दिखाता है?",
+    "options": [
+      "1. ट्रैक चेंज",
+      "2. बैलून्स",
+      "3. शो मार्कअप",
+      "4. रिव्युविंग पैन"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which tab in MS Word 365 contains the option used to change or remove column formatting in a document?",
+    "options": [
+      "1. Insert",
+      "2. Home",
+      "3. Layout",
+      "4. Review"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS Word 365 में कॉलम फ़ॉर्मेटिंग को बदलने या हटाने के लिए कौन‑सा टैब उपयोग किया जाता है?",
+    "options": [
+      "1. Insert",
+      "2. Home",
+      "3. Layout",
+      "4. Review"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which feature in MS Word 365 allows users to insert pre‑formatted tables such as calendars or tabular lists?",
+    "options": [
+      "1. Insert Table",
+      "2. Quick Tables",
+      "3. Draw Table",
+      "4. Convert Text to Table"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS Word 365 में कौन सी विशेषता (feature) उपयोगकर्ताओं को कैलेंडर या सारणीबद्ध सूचियों (tabular lists) यों जैसी पहले से स्वरूपित (pre-formatted) टेबल डालने की अनुमति देती है?",
+    "options": [
+      "1. Insert Table (टेबल डालें)",
+      "2. Quick Tables (क्विक टेबल्स)",
+      "3. Draw Table (टेबल ड्रा करें)",
+      "4. Convert Text to Table (टेक्स्ट को टेबल में बदलें)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which shortcut key is used to perform a Thesaurus check on a selected word in MS Word 365?",
+    "options": [
+      "1. SHIFT + F7",
+      "2. CTRL + F5",
+      "3. SHIFT + F6",
+      "4. SHIFT + F8"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS Word 365 में किसी चयनित शब्द पर थेसॉरस जाँच करने के लिए कौन‑सा शॉर्टकट कुंजी उपयोग किया जाता है?",
+    "options": [
+      "1. SHIFT + F7",
+      "2. CTRL + F5",
+      "3. SHIFT + F6",
+      "4. SHIFT + F8"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "How many options are available in the Create group on the Mailings tab in MS Word 2019?",
+    "options": [
+      "1. One",
+      "2. Two",
+      "3. Three",
+      "4. Four"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS Word 2019 में Mailings टैब के Create समूह में कितने विकल्प उपलब्ध होते हैं?",
+    "options": [
+      "1. एक",
+      "2. दो",
+      "3. तीन",
+      "4. चार"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In which step of the Step‑by‑Step Mail Merge Wizard in MS Word 2019 is the ‘Preview your letters’ option available?",
+    "options": [
+      "1. Third",
+      "2. Fifth",
+      "3. Sixth",
+      "4. Fourth"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS Word 2019 के Step‑by‑Step Mail Merge Wizard में ‘Preview your letters’ विकल्प किस चरण में उपलब्ध होता है?",
+    "options": [
+      "1. तीसरे",
+      "2. पांचवें",
+      "3. छठे",
+      "4. चौथे"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which PivotTable layout in MS Excel 365 shows items from different row area fields in one column and uses indentation to distinguish between items from different fields?",
+    "options": [
+      "1. Compact Form",
+      "2. Design Form",
+      "3. Tabular Form",
+      "4. Outline Form"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS Excel 365 में PivotTable का कौन‑सा लेआउट विभिन्न रो एरिया फ़ील्ड्स के आइटम्स को एक ही कॉलम में दिखाता है और अलग‑अलग फ़ील्ड्स के आइटम्स को पहचानने के लिए इंडेंटेशन का उपयोग करता है?",
+    "options": [
+      "1. कॉम्पैक्ट फॉर्म",
+      "2. डिजाइन फॉर्म",
+      "3. टैब्युलर फॉर्म",
+      "4. आउटलाइन फॉर्म"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Where is the insertion point positioned when a document is opened in MS Word 365?",
+    "options": [
+      "1. Bottom corner of the page",
+      "2. Top left corner of the page",
+      "3. Top right corner of the page",
+      "4. It disappears"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS Word 365 में जब कोई दस्तावेज़ खोला जाता है, तो इंसर्शन पॉइंट किस स्थान पर होता है?",
+    "options": [
+      "1. पृष्ठ के निचले कोने में",
+      "2. पृष्ठ के ऊपर बाएँ कोने में",
+      "3. पृष्ठ के ऊपर दाएँ कोने में",
+      "4. वह गायब हो जाता है"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following is a page orientation in MS Word 365?",
+    "options": [
+      "1. Landscape",
+      "2. Legal",
+      "3. Narrow",
+      "4. Wide"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन‑सा MS Word 365 में पेज ओरिएंटेशन है?",
+    "options": [
+      "1. लैंडस्केप",
+      "2. लीगल",
+      "3. नैरो",
+      "4. वाइड"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The quality of an internet stream depends on the ______ used during encoding.",
+    "options": [
+      "1. bit-rate",
+      "2. block-rate",
+      "3. mono-rate",
+      "4. dual-rate"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "इंटरनेट पर स्ट्रीम की गुणवत्ता एन्कोडिंग के दौरान उपयोग की गई ______ पर निर्भर करती है।",
+    "options": [
+      "1. बिट-रेट",
+      "2. ब्लॉक-रेट",
+      "3. मोनो-रेट",
+      "4. ड्यूल-रेट"
+    ],
+    "answer": 0
+  }
+],
+  
   "3rd July 2026 - Shift2": [
 {
     "q": "A ______ is a graphical user interface element that displays a list of commands or options that users can select in GUI Operating Systems.",
