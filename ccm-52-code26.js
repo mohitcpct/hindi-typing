@@ -1,5 +1,1048 @@
  const questionBank26 = {
 
+  "5th July 2026 - Shift1": [
+{
+    "q": "What is the full form of CD-R?",
+    "options": [
+      "1. Collect Data-Readable",
+      "2. Compact Disc-Recordable",
+      "3. Cover Drink Recordable",
+      "4. Carbon Data Recordable"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "CD-R का पूर्णरूप क्या है?",
+    "options": [
+      "1. कलेक्ट डेटा-रीडेबल (Collect data-Readable)",
+      "2. कॉम्पैक्ट डिस्क-रेकॉर्डेबल (Compact Disc-Recordable)",
+      "3. कवर ड्रिंक रेकॉर्डेबल (Cover Drink Recordable)",
+      "4. कार्बन डेटा रेकॉर्डेबल (Carbon Data Recordable)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "On a computer keyboard, the arrow keys, Home, End, Page Up, Page Down, Delete and Insert that are used for moving around in documents or webpages and editing text are called ________.",
+    "options": [
+      "1. control keys",
+      "2. navigation keys",
+      "3. function keys",
+      "4. numeric keys"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कंप्यूटर में किसी डॉक्यूमेंट अथवा वेबपेज पर इधर-उधर जाने और टेक्स्ट को एडिट करने के लिए कंप्यूटर के की-बोर्ड पर मौजूद एरो, होम, इंड, पेज-अप, पेज-डाउन, डिलीट और इन्सर्ट कीज़ ____________ कहलाती हैं।",
+    "options": [
+      "1. कंट्रोल कीज़",
+      "2. नेविगेशन कीज़",
+      "3. फंक्शन कीज़",
+      "4. न्यूमेरिक कीज़"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which symbol is used as a directory separator in Linux?",
+    "options": [
+      "1. / (forward slash)",
+      "2. \\ (backward slash)",
+      "3. , (comma)",
+      "4. SPACE"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Linux ऑपरेटिंग सिस्टम में डायरेक्टरी सेपरेटर के रूप में किस चिन्ह का प्रयोग होता है?",
+    "options": [
+      "1. / (फॉरवर्ड स्लैश)",
+      "2. \\ (बैकवर्ड स्लैश)",
+      "3. , (कॉमा)",
+      "4. स्पेस"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which file system was introduced in Windows 98 to support larger disk partitions?",
+    "options": [
+      "1. FAT32",
+      "2. NTFS",
+      "3. HPFS",
+      "4. exFAT"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Windows 98 में बड़े डिस्क पार्टिशन के लिए कौन-सा फाइल सिस्टम प्रस्तुत किया गया था?",
+    "options": [
+      "1. FAT32",
+      "2. NTFS",
+      "3. HPFS",
+      "4. exFAT"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which tab is used to convert text to uppercase in MS Word 365?",
+    "options": [
+      "1. Format",
+      "2. Home",
+      "3. Insert",
+      "4. Tools"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS Word 365 में टेक्स्ट को अपरकेस में बदलने के लिए किस टैब का उपयोग किया जाता है?",
+    "options": [
+      "1. फॉर्मेट",
+      "2. होम",
+      "3. इन्सर्ट",
+      "4. टूल्स"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A computer with more than one processor is called a ______.",
+    "options": [
+      "1. co-processor",
+      "2. multiprocessor",
+      "3. multitasker",
+      "4. batch processor"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक से अधिक प्रोसेसर वाले कंप्यूटर को क्या कहा जाता है?",
+    "options": [
+      "1. को-प्रोसेसर",
+      "2. मल्टीप्रोसेसर",
+      "3. मल्टीटास्कर",
+      "4. बैच प्रोसेसर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which tools combine data from multiple sources for unified analysis?",
+    "options": [
+      "1. Data integration tools",
+      "2. Search tools",
+      "3. Index tools",
+      "4. Networking tools"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "विभिन्न स्रोतों से डेटा को एकीकृत करने वाले टूल्स कौन-से हैं?",
+    "options": [
+      "1. डेटा इंटीग्रेशन टूल",
+      "2. सर्च टूल",
+      "3. इंडेक्स टूल",
+      "4. नेटवर्किंग टूल"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In an operating system, PCB stands for ______.",
+    "options": [
+      "1. Process Control Block",
+      "2. Procedure Control Board",
+      "3. Process Common Board",
+      "4. Procedure Common Board"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "ऑपरेटिंग सिस्टम में, पीसीबी (PCB) का पूर्णरूप क्या है?",
+    "options": [
+      "1. Process Control Block (प्रोसेस कंट्रोल ब्लॉक)",
+      "2. Procedure Control Board (प्रोसीज़र कंट्रोल बोर्ड)",
+      "3. Process Common Board (प्रोसेस कॉमन बोर्ड)",
+      "4. Procedure Common Board (प्रोसीज़र कॉमन बोर्ड)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A diskette is a type of a storage ______.",
+    "options": [
+      "1. mediator",
+      "2. data",
+      "3. medium",
+      "4. format"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "डिस्केट एक प्रकार का स्टोरेज __________ है।",
+    "options": [
+      "1. मिडिएटर",
+      "2. डेटा",
+      "3. मीडियम",
+      "4. फॉर्मेट"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which programming language was developed for scientific applications?",
+    "options": [
+      "1. COBOL",
+      "2. FORTRAN",
+      "3. PASCAL",
+      "4. BASIC"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "वैज्ञानिक उद्देश्यों के लिए कौन-सी प्रोग्रामिंग भाषा विकसित की गई थी?",
+    "options": [
+      "1. COBOL",
+      "2. FORTRAN",
+      "3. PASCAL",
+      "4. BASIC"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which interface is used to connect a high-speed 3D graphics card?",
+    "options": [
+      "1. AGV",
+      "2. AGI",
+      "3. AGC",
+      "4. AGP"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "हाई-स्पीड 3D ग्राफिक्स कार्ड को जोड़ने के लिए किस पोर्ट का उपयोग किया जाता है?",
+    "options": [
+      "1. AGV",
+      "2. AGI",
+      "3. AGC",
+      "4. AGP"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which computer generation was based on transistors?",
+    "options": [
+      "1. First",
+      "2. Second",
+      "3. Third",
+      "4. Fourth"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कंप्यूटर की कौन-सी पीढ़ी ट्रां जिस्टर पर आधारित थी?",
+    "options": [
+      "1. प्रथम",
+      "2. द्वितीय",
+      "3. तृतीय",
+      "4. चतुर्थ"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "______ memory is non-volatile semiconductor memory used to retain data even when power is off.",
+    "options": [
+      "1. RDRAM",
+      "2. SGRAM",
+      "3. NVRAM",
+      "4. SDRAM"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "______ मेमोरी एक नॉन-वोलाटाइल सेमीकंडक्टर मेमोरी है, जिसका उपयोग बिजली बंद होने पर भी डेटा को सुरक्षित रखने के लिए किया जाता है।",
+    "options": [
+      "1. RDRAM",
+      "2. SGRAM",
+      "3. NVRAM",
+      "4. SDRAM"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which technology is commonly used in touch screens to detect finger position?",
+    "options": [
+      "1. Magnetic sensing",
+      "2. Capacitive sensing",
+      "3. Optical storage",
+      "4. Laser scanning"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "टच स्क्रीन में उंगली की स्थिति पहचानने के लिए कौन-सी तकनीक सामान्यतः उपयोग की जाती है?",
+    "options": [
+      "1. चुंबकीय सेंसिंग",
+      "2. कैपेसिटिव सेंसिंग",
+      "3. ऑप्टिकल स्टोरेज",
+      "4. लेज़र स्कैनिंग"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A sound card is categorized as which type of computer hardware component?",
+    "options": [
+      "1. Input device",
+      "2. Output device",
+      "3. Storage device",
+      "4. Expansion card"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "एक साउंड कार्ड किस प्रकार का कंप्यूटर हार्डवेयर घटक है?",
+    "options": [
+      "1. इनपुट डिवाइस",
+      "2. आउटपुट डिवाइस",
+      "3. स्टोरेज डिवाइस",
+      "4. एक्सपेंशन कार्ड"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which topology is formed by combining two or more network topologies?",
+    "options": [
+      "1. Hybrid",
+      "2. Star",
+      "3. Mesh",
+      "4. Tree"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "दो या अधिक नेटवर्क टोपोलॉजी के संयोजन को क्या कहा जाता है?",
+    "options": [
+      "1. हाइब्रिड",
+      "2. स्टार",
+      "3. मेश",
+      "4. ट्री"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is an access control system?",
+    "options": [
+      "1. A fingerprint reader",
+      "2. Wi-Fi",
+      "3. Hotspot",
+      "4. A modem"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्न में से कौन‑सा एक्सेस कंट्रोल सिस्टम का उदाहरण है?",
+    "options": [
+      "1. फ़िंगरप्रिंट रीडर",
+      "2. वाई-फ़ाई",
+      "3. हॉटस्पॉट",
+      "4. मॉडेम"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A web browser may deny access to a website when the certificate of a website is expired and the ______ of the website cannot be verified.",
+    "options": [
+      "1. size",
+      "2. protocol",
+      "3. identity",
+      "4. age"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "जब किसी वेबसाइट के प्रमाणपत्र की नियत तिथि समाप्त हो जाती है और वेबसाइट की/का ______________ सत्यापित नहीं हो पाती/पाता है, तो वेब ब्राउज़र उस वेबसाइट का एक्सेस देने से इंकार कर सकता है।",
+    "options": [
+      "1. आकार",
+      "2. प्रोटोकॉल",
+      "3. पहचान",
+      "4. समयसीमा"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A printer that uses direct contact between ribbon and paper is called ______.",
+    "options": [
+      "1. impact printer",
+      "2. non-impact printer",
+      "3. chemical printer",
+      "4. electrostatic printer"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "वह प्रिंटर जिसमें रिबन और काग़ज़ का सीधा संपर्क होता है, क्या कहलाता है?",
+    "options": [
+      "1. इम्पैक्ट प्रिंटर",
+      "2. नॉन इम्पैक्ट प्रिंटर",
+      "3. केमिकल प्रिंटर",
+      "4. इलेक्ट्रो स्टैटिक प्रिंटर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A laser printer uses:",
+    "options": [
+      "1. camera lenses",
+      "2. a raster scan",
+      "3. toner cartridges",
+      "4. a print head"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "लेजर प्रिंटर में______ का उपयोग होता है?",
+    "options": [
+      "1. कैमरा लेंस",
+      "2. रास्टर स्कैन",
+      "3. टोनर कार्ट्रिज",
+      "4. प्रिंट हेड"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which term best describes the process by which sound waves are captured and preserved on a storage medium before playback is possible?",
+    "options": [
+      "1. Recording",
+      "2. Erasing",
+      "3. Forwarding",
+      "4. Reproducing"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कौन-सा शब्द उस प्रक्रिया का सबसे अच्छा वर्णन करता है, जिसके द्वारा ध्वनि तरंगों को प्लेबैक संभव होने से पहले किसी संग्रहण माध्यम पर कैप्चर और संरक्षित किया जाता है?",
+    "options": [
+      "1. रिकॉर्डिंग",
+      "2. ईरेजिंग",
+      "3. फॉरवर्डिंग",
+      "4. रिप्रोड्यूसिंग"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which statement about Unix OS is FALSE?",
+    "options": [
+      "1. It does not provide a graphical user interface.",
+      "2. It is a multi-user operating system.",
+      "3. It is a multi-tasking operating system.",
+      "4. It is a stable operating system."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Unix ऑपरेटिंग सिस्टम के संबंध में कौन‑सा कथन गलत है?",
+    "options": [
+      "1. यह ग्राफ़िकल यूज़र इंटरफ़ेस प्रदान नहीं करता है",
+      "2. यह एक मल्टी-यूज़र ऑपरेटिंग सिस्टम है",
+      "3. यह एक मल्टी-टास्किंग ऑपरेटिंग सिस्टम है",
+      "4. यह एक स्टेबल ऑपरेटिंग सिस्टम है"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "GIF files are limited to how many colors?",
+    "options": [
+      "1. 56",
+      "2. 200",
+      "3. 256",
+      "4. 24"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "GIF फाइल में अधिकतम कितने रंग हो सकते हैं?",
+    "options": [
+      "1. 56",
+      "2. 200",
+      "3. 256",
+      "4. 24"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Printer resolution is measured in ______.",
+    "options": [
+      "1. DPI",
+      "2. GPU",
+      "3. CPU",
+      "4. MPI"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "प्रिंटर का रेज़ोल्यूशन किसमें मापा जाता है?",
+    "options": [
+      "1. DPI",
+      "2. GPU",
+      "3. CPU",
+      "4. MPI"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The BIOS (Basic Input Output System) resides in:",
+    "options": [
+      "1. ROM",
+      "2. cache memory",
+      "3. RAM",
+      "4. CPU"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "BIOS (बेसिक इनपुट आउटपुट सिस्टम) कहाँ स्थित होता है?",
+    "options": [
+      "1. ROM में",
+      "2. कैश मेमोरी में",
+      "3. RAM में",
+      "4. CPU में"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "The first web browser, WorldWideWeb, was developed by ______.",
+    "options": [
+      "1. Lan Jacobs",
+      "2. Tim Berners-Lee",
+      "3. Marc Andreessen",
+      "4. Mozilla Foundation"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "पहला वेब ब्राउज़र WorldWideWeb किसने विकसित किया था?",
+    "options": [
+      "1. लैन जैकब",
+      "2. टिम बरनर्स ली",
+      "3. मार्क एंडर्सन",
+      "4. मोज़िला फाउंडेशन"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "When you click on an icon, image or a highlighted text within a website, the web page is redirected to another page. This is due to the presence of:",
+    "options": [
+      "1. a comment",
+      "2. a hyperlink",
+      "3. a plug-in",
+      "4. an add-on"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "जब आप एक वेबसाइट के किसी आइकन या इमेज या हाइलाइट किए गए टेक्स्ट पर क्लिक करते हैं, तो वेब पेज आपको दूसरे पेज पर ले जाता है। यह किसके कारण संभव होता है?",
+    "options": [
+      "1. कमेंट",
+      "2. हाइपरलिंक",
+      "3. प्लग-इन",
+      "4. ऐड-ऑन"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The FDISK utility is NOT used to ______.",
+    "options": [
+      "1. create partitions",
+      "2. delete partitions",
+      "3. format partitions",
+      "4. damage partitions"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "FDISK यूटिलिटी का उपयोग किस कार्य के लिए नहीं किया जाता है?",
+    "options": [
+      "1. पार्टीशन क्रिएट करने में",
+      "2. पार्टीशन डिलीट करने में",
+      "3. पार्टीशन को फॉर्मेट करने में",
+      "4. पार्टीशन को डैमेज करने में"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is a section of Microsoft Windows for editing operating system settings, including hardware settings, connectivity, user profiles, security settings, and the computer name?",
+    "options": [
+      "1. System Properties",
+      "2. Computer Properties",
+      "3. CPU Properties",
+      "4. Network Properties"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "हार्डवेयर सेटिंग्स, कनेक्टिविटी, उपयोगकर्ता प्रोफाइल, सुरक्षा सेटिंग्स और कंप्यूटर नाम सहित ऑपरेटिंग सिस्टम सेटिंग्स को संपादित करने के लिए निम्न में से कौन सा माइक्रोसॉफ्ट विंडोज का एक अनुभाग है?",
+    "options": [
+      "1. सिस्टम प्रॉपर्टीज",
+      "2. कंप्यूटर प्रॉपर्टीज",
+      "3. CPU प्रॉपर्टीज",
+      "4. नेटवर्क प्रॉपर्टीज"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which property enables multitasking in the Unix operating system?",
+    "options": [
+      "1. Multithreading",
+      "2. Timesharing",
+      "3. Multiuser",
+      "4. Multiprogramming"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Unix ऑपरेटिंग सिस्टम में मल्टीटास्किंग को सक्षम करने वाली विशेषता कौन-सी है?",
+    "options": [
+      "1. मल्टीथ्रेडिंग",
+      "2. टाइमशेयरिंग",
+      "3. मल्टीयूज़र",
+      "4. मल्टीप्रोग्रामिंग"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What kind of software would you use to open the web pages on the internet?",
+    "options": [
+      "1. Web browser",
+      "2. Excel",
+      "3. Presentation",
+      "4. Anti-virus"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "इंटरनेट पर कोई वेब पेज खोलने के लिए आप किस प्रकार के सॉफ्टवेयर का उपयोग करेंगे?",
+    "options": [
+      "1. वेब ब्राउजर",
+      "2. Excel",
+      "3. प्रेजेंटेजेंटेशन",
+      "4. एंटी-वायरस"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "By using which tab can you add a page break in an MS Word 365 document?",
+    "options": [
+      "1. Insert",
+      "2. Home",
+      "3. Edit",
+      "4. Format"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Word 365 में किसी डॉक्यूमेंट में पेज ब्रेक को जोड़ने के लिए किस विकल्प का उपयोग किया जा सकता है?",
+    "options": [
+      "1. इन्सर्ट",
+      "2. होम",
+      "3. एडिट",
+      "4. फॉर्मेट"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following Ribbon tabs are not available in MS-Word 2019?",
+    "options": [
+      "1. File",
+      "2. Home",
+      "3. Edit",
+      "4. References"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Word 2019 में निम्नलिखित में से कौन-सा रिबन टैब उपलब्ध नहीं है?",
+    "options": [
+      "1. फाइल",
+      "2. होम",
+      "3. एडिट",
+      "4. रेफेरेंसेस"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "______ is a popular email client.",
+    "options": [
+      "1. Netscape Netcaster",
+      "2. Netscape Online",
+      "3. Netscape Mail",
+      "4. Netscape Access"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "________ एक लोकप्रिय ई-मेल क्लाइंट है।",
+    "options": [
+      "1. नेटस्केप नेटकास्टर",
+      "2. नेटस्केप ऑनलाइन",
+      "3. नेटस्केप मेल",
+      "4. नेटस्केप एक्सेस"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following scenarios BEST explains a potential privacy risk caused by improper mobile app behavior, even when no explicit personal data is entered by the user?",
+    "options": [
+      "1. An app requests camera access only when the user clicks the “Upload Photo” button.",
+      "2. An app stores user preferences locally using encrypted shared storage.",
+      "3. An app analyzes background network metadata (such as IP address, device model, and usage timing) to infer user behavior patterns without requesting identifiable permissions.",
+      "4. An app shows targeted advertisements based solely on search history stored in the browser."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा परिदृश्य उस संभावित गोपनीयता जोखिम की सबसे अच्छी व्याख्या करता है, जो तब भी उत्पन्न हो सकता है जब उपयोगकर्ता द्वारा कोई स्पष्ट व्यक्तिगत जानकारी दर्ज नहीं की जाती हो, लेकिन मोबाइल ऐप का व्यवहार अनुचित हो?",
+    "options": [
+      "1. जब उपयोगकर्ता “फ़ोटो अपलोड करें” बटन पर क्लिक करता है, तभी ऐप कैमरा एक्सेस की अनुमति माँगता है।",
+      "2. ऐप उपयोगकर्ता की प्राथमिकताओं को एन्क्रिप्टेड साझा संग्रह (Shared Storage) में स्थानीय रूप से संग्रहीत करता है।",
+      "3. ऐप पृष्ठभूमि में नेटवर्क मेटाडेटा (जैसे IP पता, डिवाइस मॉडल और उपयोग का समय) का विश्लेषण करके, बिना किसी पहचान योग्य अनुमति के, उपयोगकर्ता के व्यवहार पैटर्न का अनुमान लगाता है।",
+      "4. ऐप केवल ब्राउज़र में संग्रहीत खोज इतिहास के आधार पर लक्षित विज्ञापन प्रदर्शित करता है।"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which chart in MS Excel 365 can show continuous data over time on an evenly scaled axis which makes them ideal for showing trends in data at equal intervals, like months, quarters or fiscal years?",
+    "options": [
+      "1. Line",
+      "2. Surface",
+      "3. Radar",
+      "4. Area"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS Excel 365 में निम्न में से कौन सा चार्ट समान रूप से स्केल किए गए अक्ष पर समय के साथ निरंतर आंकड़ों को दर्शा सकता है जो उसे समान अंतराल, जैसे महीनों, नों तिमाहियों या वित्तीय वर्षों में आंकड़ों में रुझान दिखाने के लिए आदर्श बनाता है?",
+    "options": [
+      "1. लाइन",
+      "2. समतल",
+      "3. रडार",
+      "4. एरिया"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Study the below dialogue box of MS-Word 365. After the click on the ok option, which of the following options will happen? <br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOmBCfYonSGjSURv3OFXolPizz5AoDtMYkLhWWdvWKIPLCJSnLV7Jhg6UDRJbTTdjLTvt8Pw6UDZC7AeN-BQb8zBIR6IFv56OlRpmbKmmVueRLCC5M13Qle6bHSj3GOsP87Ib2weMTwY_FJc8CisJJoOuE66r8oxIKQgsKTsNV9KvwmUb_eb10WvcXZicq/s320/12%20mn.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. The page size of the document will change.",
+      "2. The font style will change.",
+      "3. The font size will change.",
+      "4. The page colour will change."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "नीचे दिए गए MS-Word 365 के डायलॉग बॉक्स को देखें। इसमें 'OK' विकल्प पर क्लिक करने के बाद क्या होगा? <br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOmBCfYonSGjSURv3OFXolPizz5AoDtMYkLhWWdvWKIPLCJSnLV7Jhg6UDRJbTTdjLTvt8Pw6UDZC7AeN-BQb8zBIR6IFv56OlRpmbKmmVueRLCC5M13Qle6bHSj3GOsP87Ib2weMTwY_FJc8CisJJoOuE66r8oxIKQgsKTsNV9KvwmUb_eb10WvcXZicq/s320/12%20mn.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. डॉक्यूमेंट के पेज का आकार बदल जाएगा।",
+      "2. फ़ॉन्ट का स्टाइल बदल जाएगा।",
+      "3. फ़ॉन्ट का आकार बदल जाएगा।",
+      "4. पेज का रंग बदल जाएगा।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "There is/are ______ number of option(s) for gutter positions in MS Word 2019.",
+    "options": [
+      "1. one",
+      "2. two",
+      "3. three",
+      "4. four"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Word 2019 में गटर (gutter) पोजीशंस के विकल्पों की संख्या ______ होती है।",
+    "options": [
+      "1. एक",
+      "2. दो",
+      "3. तीन",
+      "4. चार"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which indent marker controls all the lines EXCEPT the first line in MS-Word 2019?",
+    "options": [
+      "1. First line indent",
+      "2. Left indent",
+      "3. Right indent",
+      "4. Hanging indent"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कौन सा इंडेंट मार्कर MS-Word 2019 की पहली पंक्ति को छोड़कर सभी लाइनों को नियंत्रित करता है?",
+    "options": [
+      "1. फर्स्ट लाइन इंडेंट",
+      "2. लेफ्ट इंडेंट",
+      "3. राइट इंडेंट",
+      "4. हैंगिंग इंडेंट"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In Microsoft Word 365, which pagination control available in the Line and Page Breaks tab ensures that a selected paragraph always starts at the top of a new page?",
+    "options": [
+      "1. Widow/Orphan control",
+      "2. Page break before",
+      "3. Keep with next",
+      "4. Keep lines together"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Microsoft Word 365 में, 'Line and Page Breaks' टैब में उपलब्ध कौन-सा पेजिनेशन कंट्रोल यह सुनिश्चित करता है कि कोई चयनित पैराग्राफ हमेशा एक नए पेज के शीर्ष से शुरू हो?",
+    "options": [
+      "1. विडो/ऑर्फ़न कंट्रोल",
+      "2. पेज ब्रेक बिफोर",
+      "3. कीप विद नेक्स्ट",
+      "4. कीप लाइन्स टुगेदर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "While working in MS Word 365, you want to access the AutoCorrect Options to manage automatic corrections. The following steps are given in a jumbled order. Arrange them in the correct sequence. <br>a) Click OK. <br>b) Go to File → Options → Proofing, and select AutoCorrect Options. <br>c) Open the AutoCorrect tab and configure the settings (such as Replace text as you type). <br> d) Type the required text in the Replace and With boxes and click Add.",
+    "options": [
+      "1. b, c, d, a",
+      "2. b, d, c, a",
+      "3. b, c, a, d",
+      "4. b, a, d, c"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS Word 365 में काम करते समय, आप ऑटोमैटिक सुधारों को मैनेज करने के लिए AutoCorrect Options एक्सेस करना चाहते हैं। नीचे दिए गए स्टेप्स उल्टे-पुल्टे क्रम में दिए गए हैं। उन्हें सही क्रम में व्यवस्थित करें। <br>a) OK पर क्लिक करें। <br>b) File → Options → Proofing पर जाएँ, और AutoCorrect Options चुनें। <br>c) AutoCorrect टैब खोलें और सेटिंग्स कॉन्फ़िगर करें (जैसे, Replace text as you type)। <br>d) Replace और With बॉक्स में ज़रूरी टेक्स्ट टाइप करें और Add पर क्लिक करें।",
+    "options": [
+      "1. b,c,d,a",
+      "2. b,d,c,a",
+      "3. b,c,a,d",
+      "4. b,a,d,c"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "When reviewing a document with Track Changes in MS Word 365, which option displays revisions such as deletions, comments, and formatting changes in the margins of the document?",
+    "options": [
+      "1. Display for review",
+      "2. Balloons",
+      "3. Show markup",
+      "4. Handout"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Word 365 में 'Track Changes' के साथ किसी डॉक्यूमेंट की समीक्षा करते समय, कौन-सा विकल्प डॉक्यूमेंट के हाशिये (margins) में विलोपन, टिप्पणियाँ और फ़ॉर्मेटिंग में बदलाव जैसे संशोधनों को प्रदर्शित करता है?",
+    "options": [
+      "1. डिस्प्ले फॉर रिव्यु",
+      "2. बैलून्स",
+      "3. शो मार्कअप",
+      "4. हैंडआउट"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which option in the Layout tab of MS Word 365 is used to divide text into multiple vertical sections similar to a newsletter or newspaper layout?",
+    "options": [
+      "1. Columns",
+      "2. Margins",
+      "3. Orientation",
+      "4. Hyphenation"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS Word 365 के Layout टैब में कौन-सा विकल्प टेक्स्ट को कई ऊर्ध्वाधर (vertical) अनुभागों में विभाजित करने के लिए उपयोग किया जाता है, जो किसी न्यूज़लेटर या समाचार पत्र के लेआउट जैसा होता है?",
+    "options": [
+      "1. कॉलम",
+      "2. मार्जिन",
+      "3. ओरिएंटेशन",
+      "4. हाइफेनेशन"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which shortcut key opens Print Preview in MS Word 2019?",
+    "options": [
+      "1. Alt + Ctrl + P",
+      "2. Ctrl + Alt + I",
+      "3. Ctrl + Alt + X",
+      "4. Ctrl + Alt + P"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS Word 2019 में Print Preview खोलने के लिए कौन‑सा शॉर्टकट प्रयोग किया जाता है?",
+    "options": [
+      "1. Alt + Ctrl + P",
+      "2. Ctrl + Alt + I",
+      "3. Ctrl + Alt + X",
+      "4. Ctrl + Alt + P"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The below icon is present in _______________ group in mailing tab of MS Word 365. <br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg32YMz3xL2cT0qaRxrPG5DCaHX7fW78174St_dZRoQiKvW_0ENSC_U2tk1NgEzAENjFzuGmchhsyxcVqs5qrkQy957OsSH7H53epf3NYfYPyXoghAT-X_T-fd50pKENXtgfKvOD-1G8PJ6wHLthHiCpcMjmJRmhljmx81gZP8QJ8J2Ri4b8DKLteha2GOx/s1600/14%20mn.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. Create",
+      "2. Start Mail Merge",
+      "3. Preview result",
+      "4. Finish"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "नीचे दिया गया आइकन MS Word 365 के Mailing टैब में _______________ ग्रुप में मौजूद है। <br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg32YMz3xL2cT0qaRxrPG5DCaHX7fW78174St_dZRoQiKvW_0ENSC_U2tk1NgEzAENjFzuGmchhsyxcVqs5qrkQy957OsSH7H53epf3NYfYPyXoghAT-X_T-fd50pKENXtgfKvOD-1G8PJ6wHLthHiCpcMjmJRmhljmx81gZP8QJ8J2Ri4b8DKLteha2GOx/s1600/14%20mn.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. क्रिएट",
+      "2. स्टार्ट मेल मर्ज",
+      "3. प्रीव्यू रिजल्ट",
+      "4. फिनिश"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "______ is the type of document that creates a single document containing a catalogue or printed list of addresses in Mail Merge in MS-Word 365.",
+    "options": [
+      "1. Letters",
+      "2. Labels",
+      "3. Directory",
+      "4. Envelopes"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "______ एक ऐसा दस्तावेज़ प्रकार है जो MS-Word 365 में Mail Merge के अंतर्गत पतों की एक सूची या कैटलॉग वाला एक एकल दस्तावेज़ बनाता है।",
+    "options": [
+      "1. लेटर",
+      "2. लेबल",
+      "3. डायरेक्टरी",
+      "4. एन्वलप"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following option is 5th step in step by step mail merge wizard in MS-Word 365?",
+    "options": [
+      "1. Create",
+      "2. Start Mail Merge",
+      "3. Preview your letters",
+      "4. Finish"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Word 365 में स्टेप बाय स्टेप मेल मर्ज विज़ार्ड में नीचे दिए गए ऑप्शन में से कौन सा 5वां स्टेप है?",
+    "options": [
+      "1. क्रिएट",
+      "2. स्टार्ट मेल मर्ज",
+      "3. प्रीव्यू योर लेटर्स",
+      "4. फ़िनिश"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following pivot table layout form in MS-Excel 365 displays one column per field and provides space for field headers without any subtotals?",
+    "options": [
+      "1. Outline Form",
+      "2. Compact Form",
+      "3. Design Form",
+      "4. Tabular Form"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel 365 में निम्नलिखित में से कौन सा Pivot Table लेआउट फ़ॉर्म प्रति फ़ील्ड एक कॉलम प्रदर्शित करता है और बिना किसी सब-टोटल के फ़ील्ड हेडर के लिए जगह प्रदान करता है?",
+    "options": [
+      "1. आउटलाइन फॉर्म",
+      "2. कॉम्पैक्ट फॉर्म",
+      "3. डिजाइन फॉर्म",
+      "4. टैबुलर फॉर्म"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is NOT allowed while naming a file in Windows?",
+    "options": [
+      "1. Reserved names",
+      "2. Numbers",
+      "3. Special characters",
+      "4. Letters"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Windows में फ़ाइल का नाम रखते समय निम्न में से क्या अनुमति नहीं है?",
+    "options": [
+      "1. रिजर्व्ड नाम",
+      "2. संख्याएं",
+      "3. विशेष अक्षर",
+      "4. अक्षर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Accessing a file server over the internet is typically implemented using which protocol?",
+    "options": [
+      "1. ARP",
+      "2. ICMP",
+      "3. FTP",
+      "4. DHCP"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "इंटरनेट पर फ़ाइल सर्वर को एक्सेस करने के लिए सामान्यतः किस प्रोटोकॉल का उपयोग होता है?",
+    "options": [
+      "1. ARP",
+      "2. ICMP",
+      "3. FTP",
+      "4. DHCP"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which software can be used for immediate, real-time communication with another person over the internet?",
+    "options": [
+      "1. E-mail",
+      "2. Instant messaging",
+      "3. Usenet",
+      "4. Blog"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "इंटरनेट के माध्यम से किसी अन्य व्यक्ति से तुरंत, रियल टाइम कम्युनिकेशन के लिए किस सॉफ्टवेयर का उपयोग किया जा सकता है?",
+    "options": [
+      "1. ई-मेल",
+      "2. इंस्टैंट मैसेजिंग",
+      "3. यूज़नेट",
+      "4. ब्लॉग"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following file types is NOT suitable for video streaming?",
+    "options": [
+      "1. MPEG",
+      "2. AVI",
+      "3. WMV",
+      "4. JPEG"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से फाइल्स का कौन सा प्रकार वीडियो स्ट्रीमिंग के लिए उपयुक्त नहीं होता है?",
+    "options": [
+      "1. MPEG",
+      "2. AVI",
+      "3. WMV",
+      "4. JPEG"
+    ],
+    "answer": 3
+  }
+],
+
  "4th July 2026 - Shift1": [
 {
     "q": "LINUX is:",
