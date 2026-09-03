@@ -2085,6 +2085,1049 @@
     "answer": 0
   }
 ],
+ "5th July 2026 - Shift1": [
+  {
+    "q": "Who is the main developer of the Linux operating system?",
+    "options": [
+      "1. Bill Gates",
+      "2. Linus Torvalds",
+      "3. Sundar Pichai",
+      "4. Ada Lovelace"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "लिनक्स ऑपरेटिंग सिस्टम का मुख्य डेवलपर कौन है?",
+    "options": [
+      "1. बिल गेट्स (Bill Gates)",
+      "2. लिनस टोरवाल्डस (Linus Torvalds)",
+      "3. सुंदर पिचाई (Sundar Pichai)",
+      "4. ऐडा लोवलास (Ada Lovelace)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The process of preparing a floppy diskette for initial use is called ______.",
+    "options": [
+      "1. disk assembling",
+      "2. disk translating",
+      "3. disk parsing",
+      "4. disk formatting"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "फ्लॉपी डिस्केट को प्रारंभिक उपयोग के लिए तैयार करने की प्रक्रिया को _______ कहा जाता है।",
+    "options": [
+      "1. डिस्क असेम्बलिंग",
+      "2. डिस्क ट्रांसलेटिंग",
+      "3. डिस्क पार्सिंग",
+      "4. डिस्क फॉर्मेटिंग"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "With respect to a computer keyboard, the ‘SysRq’ key is an abbreviation for which key? It often shares the same key as the Print Screen key on modern keyboards.",
+    "options": [
+      "1. System Requirement",
+      "2. Systematic Request",
+      "3. System Request",
+      "4. Systematic Requirement"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "कंप्यूटर कीबोर्ड के संदर्भ में ‘SysRq’ कुंजी किस शब्द का संक्षिप्त रूप है? यह कुंजी आधुनिक कीबोर्डों में प्रायः Print Screen कुंजी के साथ होती है।",
+    "options": [
+      "1. System Requirement (सिस्टम आवश्यकताएँ)",
+      "2. Systematic Request (व्यवस्थित अनुरोध)",
+      "3. System Request (सिस्टम अनुरोध)",
+      "4. Systematic Requirement (व्यवस्थित आवश्यकता)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following file systems is supported by Windows NT Server 4.0?",
+    "options": [
+      "1. FAT16",
+      "2. BSD",
+      "3. HTFS",
+      "4. ReFS"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा फ़ाइल सिस्टम Windows NT Server 4.0 द्वारा समर्थित है?",
+    "options": [
+      "1. FAT16",
+      "2. BSD",
+      "3. HTFS",
+      "4. ReFS"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which tab is used to insert special characters in OpenOffice Writer?",
+    "options": [
+      "1. View",
+      "2. Insert",
+      "3. Edit",
+      "4. File"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "OpenOffice Writer में विशेष अक्षरों (Special Characters) रों को जोड़ने के लिए किस टैब का उपयोग किया जाता है?",
+    "options": [
+      "1. व्यू",
+      "2. इन्सर्ट",
+      "3. एडिट",
+      "4. फ़ाइल"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following operating systems was developed by Microsoft Corporation?",
+    "options": [
+      "1. Windows",
+      "2. Novell",
+      "3. Linux",
+      "4. Unix"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा ऑपरेटिंग सिस्टम Microsoft Corporation द्वारा विकसित किया गया था?",
+    "options": [
+      "1. Windows",
+      "2. Novell",
+      "3. Linux",
+      "4. Unix"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "R language provides an environment for ______ computing.",
+    "options": [
+      "1. statistical",
+      "2. transactional",
+      "3. operating system kernel",
+      "4. embedded"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "R भाषा ______ संगणन (कम्प्यूटिंग) के लिए एक वातावरण प्रदान करती है।",
+    "options": [
+      "1. सांख्यिकीय",
+      "2. लेन‑देन संबंधी",
+      "3. ऑपरेटिंग सिस्टम कर्नेल",
+      "4. एम्बेडेड"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which technology was used in first‑generation computers?",
+    "options": [
+      "1. Transistor",
+      "2. Microprocessor",
+      "3. Vacuum tube",
+      "4. Integrated circuit"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "प्रथम पीढ़ी के कंप्यूटरों में कौन‑सी तकनीक का उपयोग किया गया था?",
+    "options": [
+      "1. ट्रांजिस्टर",
+      "2. माइक्रोप्रोसेसर",
+      "3. वैक्यूम ट्यूब",
+      "4. इंटीग्रेटेड सर्किट"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which programming language consists of instructions written in binary form?",
+    "options": [
+      "1. Machine language",
+      "2. Assembly language",
+      "3. High-level language",
+      "4. Middle-level language"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कौन‑सी प्रोग्रामिंग भाषा में निर्देश द्विआधारी (बाइनरी) रूप में लिखे जाते हैं?",
+    "options": [
+      "1. मशीन भाषा (Machine language)",
+      "2. असेंबली भाषा (Assembly language)",
+      "3. उच्च-स्तरीय भाषा (High-level language)",
+      "4. मध्य-स्तरीय भाषा (Middle-level language)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "What is the physical copy of textual or graphic information produced on paper by a computer called?",
+    "options": [
+      "1. Soft copy",
+      "2. Hard copy",
+      "3. Scanned copy",
+      "4. Presentation copy"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कंप्यूटर द्वारा सामान्य आकार में कागज़ पर तैयार की गई पाठ्य या ग्राफ़िक जानकारी की प्रति को क्या कहा जाता है?",
+    "options": [
+      "1. सॉफ्ट कॉपी",
+      "2. हार्ड कॉपी",
+      "3. स्कैन्ड कॉपी",
+      "4. प्रेजेंटेजेंटेशन कॉपी"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which term refers to the time taken by a computer, mobile, or laptop to retrieve data from storage?",
+    "options": [
+      "1. Clock speed",
+      "2. Processing cycle",
+      "3. Seek time",
+      "4. Access time"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कंप्यूटर, मोबाइल या लैपटॉप द्वारा स्टोरेज से डेटा प्राप्त करने में लगने वाले समय को क्या कहा जाता है?",
+    "options": [
+      "1. क्लॉक स्पीड",
+      "2. प्रोसेसिंग चक्र (साइकल)",
+      "3. सीक टाइम",
+      "4. एक्सेस टाइम"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is the standard diameter of a Blu‑ray Disc?",
+    "options": [
+      "1. 120 mm",
+      "2. 115 mm",
+      "3. 110 mm",
+      "4. 100 mm"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "मानक (Standard) Blu‑ray Disc का व्यास (Diameter) कितना होता है?",
+    "options": [
+      "1. 120 mm",
+      "2. 115 mm",
+      "3. 110 mm",
+      "4. 100 mm"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "With reference to semiconductor memory, which of the following statements is INCORRECT?",
+    "options": [
+      "1. Random access feature is provided by all types of semiconductor memories.",
+      "2. Semiconductor memory provides quicker access time compared to other storage devices.",
+      "3. Semiconductor memory can be used as primary storage.",
+      "4. Semiconductor memories do not support multitasking."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "सेमीकंडक्टर मेमोरी के संदर्भ में निम्नलिखित में से कौन‑सा कथन गलत (INCORRECT) है?",
+    "options": [
+      "1. सभी सेमीकंडक्टर मेमोरी रैंडम एक्सेस प्रदान करती हैं।",
+      "2. सेमीकंडक्टर मेमोरी अन्य भंडारण उपकरणों की तुलना में तेज़ होती है।",
+      "3. सेमीकंडक्टर मेमोरी का उपयोग प्राथमिक भंडारण के रूप में किया जा सकता है।",
+      "4. सेमीकंडक्टर मेमोरी मल्टीटास्किंग को सपोर्ट नहीं करती है।"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following statements is true with reference to Read Only Memory (ROM)?",
+    "options": [
+      "1. Instructions that are required to start a computer that are stored in ROM is referred to as 'bootstrap program'.",
+      "2. ROM is volatile memory.",
+      "3. ROM chips are only used in the computer.",
+      "4. The information stored in ROM is temporary."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Read Only Memory (ROM) के संदर्भ में निम्नलिखित में से कौन‑सा कथन सही है?",
+    "options": [
+      "1. कंप्यूटर को शुरू करने के लिए आवश्यक निर्देश ROM में संग्रहीत होते हैं, जिन्हें बूटस्ट्रैप प्रोग्राम कहा जाता है।",
+      "2. ROM वोलेटाइल मेमोरी है।",
+      "3. ROM चिप्स का उपयोग केवल कंप्यूटर में होता है।",
+      "4. ROM में संग्रहीत जानकारी अस्थायी होती है।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is NOT a design consideration of an Instruction Set Architecture (ISA)?",
+    "options": [
+      "1. Types of instructions",
+      "2. Types and sizes of operands",
+      "3. Names of operands",
+      "4. Addressing modes"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Instruction Set Architecture (ISA) के डिज़ाइन में निम्नलिखित में से किस पर विचार करना आवश्यक नहीं होता है?",
+    "options": [
+      "1. निर्देशों के प्रकार",
+      "2. ऑपरेंड के प्रकार और माप",
+      "3. ऑपरेंड के नाम",
+      "4. एड्रेसिंग मोड"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is NOT an advantage of using a computer network?",
+    "options": [
+      "1. File security",
+      "2. Peripheral sharing",
+      "3. Protection from viruses",
+      "4. Storage capacity"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा कंप्यूटर नेटवर्क का उपयोग करने का लाभ नहीं है?",
+    "options": [
+      "1. फ़ाइल सुरक्षा",
+      "2. परिधीय साझाकरण",
+      "3. वायरस से संरक्षण",
+      "4. संग्रहण क्षमता"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is an example of an access control system?",
+    "options": [
+      "1. Wi-Fi",
+      "2. Hotspot",
+      "3. Access card",
+      "4. Modem"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन‑सा एक्सेस कंट्रोल सिस्टम (Access Control System) का उदाहरण है?",
+    "options": [
+      "1. वाई-फ़ाई",
+      "2. हॉट स्पॉट",
+      "3. एक्सेस कार्ड",
+      "4. मॉडम"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A web browser may deny access to a website or display a warning when the website’s security ______ has expired.",
+    "options": [
+      "1. code",
+      "2. certificate",
+      "3. program",
+      "4. protocol"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "जब किसी वेबसाइट का सुरक्षा ______ समाप्त हो जाता है, तो वेब ब्राउज़र उस वेबसाइट तक पहुँच को रोक सकता है या उपयोगकर्ता को चेतावनी दे सकता है।",
+    "options": [
+      "1. कोड",
+      "2. प्रमाणपत्र",
+      "3. प्रोग्राम",
+      "4. प्रोटोकॉल"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "An impact printer in which the complete shape of each character is engraved or molded onto a font carrier is known as a ________ printer.",
+    "options": [
+      "1. matrix font",
+      "2. solid font",
+      "3. page font",
+      "4. paragraph font"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "वह इम्पैक्ट प्रिंटर, जिसमें प्रत्येक अक्षर का पूरा आकार (complete shape) फ़ॉन्ट कैरियर पर उकेरा या ढाला गया होता है, ________ प्रिंटर कहलाता है।",
+    "options": [
+      "1. मैट्रिक्स फोंट",
+      "2. सॉलिड फोंट",
+      "3. पेज फोंट",
+      "4. पैराग्राफ फोंट"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following correctly represents the truth value of the given statements? <br><br>(i) Software can be physically touched. <br>(ii) An example of Software is hard drives, monitors, CPU, scanners, printers etc.",
+    "options": [
+      "1. (i) True, (ii) False",
+      "2. (i) False, (ii) True",
+      "3. (i) True, (ii) True",
+      "4. (i) False, (ii) False"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित कथनों की सत्यता के बारे में सही विकल्प कौन‑सा है? <br><br>(i) सॉफ़्टवेयर को शारीरिक रूप से छुआ जा सकता है। <br>(ii) हार्ड डिस्क, मॉनिटर, CPU, स्कैनर, प्रिंटर आदि सॉफ़्टवेयर के उदाहरण हैं।",
+    "options": [
+      "1. (i) सत्य, (ii) असत्य",
+      "2. (i) असत्य, (ii) सत्य",
+      "3. (i) सत्य, (ii) सत्य",
+      "4. (i) असत्य, (ii) असत्य"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following components is NOT used in a laser printer?",
+    "options": [
+      "1. A ribbon holder",
+      "2. A laser beam",
+      "3. A photoconductive drum",
+      "4. A toner cartridge"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन‑सा घटक लेज़र प्रिंटर में उपयोग नहीं किया जाता है?",
+    "options": [
+      "1. एक रिबन होल्डर",
+      "2. लेजर बीम",
+      "3. फोटो प्रवाहकीय ड्रम",
+      "4. टोनर कार्ट्रिज"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "With reference to sound, pitch increases when which of the following increases?",
+    "options": [
+      "1. Decibel",
+      "2. Intensity",
+      "3. Frequency",
+      "4. Timbre"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "ध्वनि (Sound) के संदर्भ में, पिच (Pitch) में वृद्धि तब होती है जब किसमें वृद्धि होती है?",
+    "options": [
+      "1. डेसीबल (decibel)",
+      "2. तीव्रता (intensity)",
+      "3. आवृत्ति (frequency)",
+      "4. लय (timbre)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "TIFF (Tagged Image File Format) images typically use which type of compression to preserve image quality?",
+    "options": [
+      "1. Lossy compression",
+      "2. Lossless compression",
+      "3. Transform compression using DCT",
+      "4. Audio compression"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "TIFF (Tagged Image File Format) छवियाँ सामान्यतः किस प्रकार के कम्प्रेशन का उपयोग करती हैं ताकि छवि की गुणवत्ता सुरक्षित रहे?",
+    "options": [
+      "1. हानिकारक संपीड़न (Lossy Compression)",
+      "2. बिना‑हानि संपीड़न (Lossless Compression)",
+      "3. DCT का उपयोग करके ट्रां सफ़ॉर्म संपीड़न (Transform compression using DCT)",
+      "4. ऑडियो संपीड़न (Audio compression)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following options correctly completes the given statement? <br>______ resolution results in ______ quality images.",
+    "options": [
+      "1. Lower ; higher",
+      "2. Higher ; higher",
+      "3. Higher ; lower",
+      "4. Wider ; lower"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन‑सा शब्द‑समूह कथन को सही रूप से पूरा करता है: <br>‘______ रेज़ोल्यूशन का अर्थ ______ गुणवत्ता वाली छवियाँ होता है।’?",
+    "options": [
+      "1. निम्न, उच्च",
+      "2. उच्च, उच्च",
+      "3. उच्च, निम्न",
+      "4. व्यापक, निम्न"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The acronym BIOS stands for:",
+    "options": [
+      "1. Business Intelligence Output System",
+      "2. Basic Input/Output System",
+      "3. Basic Input Output Session",
+      "4. Basis Input Output Structure"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "BIOS का पूर्ण रूप (Full Form) क्या है?",
+    "options": [
+      "1. बिजनेस इंटेलिजेंस आउटपुट सिस्टम (Business Intelligence Output System)",
+      "2. बेसिक इनपुट आउटपुट सिस्टम (Basic Input/Output System)",
+      "3. बेसिक इनपुट आउटपुट सेशन (Basic Input Output Session)",
+      "4. बेसिस इनपुट आउटपुट सिस्टम (Basis Input Output System)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A computer that hosts a website on the Internet is known as a ______.",
+    "options": [
+      "1. web Server",
+      "2. search engine",
+      "3. web page",
+      "4. web browser"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "इंटरनेट पर किसी वेबसाइट को होस्ट करने वाले कंप्यूटर को क्या कहा जाता है?",
+    "options": [
+      "1. वेब सर्वर",
+      "2. सर्च इंजन",
+      "3. वेब पेज",
+      "4. वेब ब्राउज़र"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following web browsers is developed by Microsoft?",
+    "options": [
+      "1. Mozilla",
+      "2. Chrome",
+      "3. Opera",
+      "4. Edge"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन‑सा वेब ब्राउज़र Microsoft द्वारा विकसित किया गया है?",
+    "options": [
+      "1. मोज़िला (Mozilla)",
+      "2. क्रोम (Chrome)",
+      "3. ओपेरा (Opera)",
+      "4. एज (Edge)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following sequences represents the correct steps to diagnose a hard disk drive (HDD) failure?",
+    "options": [
+      "1. Check its physical connectivity, check BIOS setup, check for boot sector viruses, check for valid partitions, check for valid file system",
+      "2. Check its physical connectivity, check for video card, check for boot sector viruses, check for RAM, check for valid file system",
+      "3. Check its physical connectivity, check BIOS setup, check if SMPS fan is working or not, check if USB ports are working or not, check for valid file system",
+      "4. Check its physical connectivity, check CPU heat sink, check for boot sector viruses, check if antivirus software is working or not, check for valid file system"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा क्रम हार्ड डिस्क ड्राइव (HDD) की खराबी का पता लगाने के सही चरणों को दर्शाता है?",
+    "options": [
+      "1. इसकी भौतिक कनेक्टिविटी जांचें, BIOS सेटअप जांचें, बूट सेक्टर वायरस के लिए जांचें, वैध विभाजन की जांच करें, वैध फ़ाइल सिस्टम की जांच करें",
+      "2. भौतिक कनेक्टिविटी की जांच करें, वीडियो कार्ड की जांच करें, बूट सेक्टर वायरस के लिए जांचें, RAM की जांच करें, वैध फाइल सिस्टम की जांच करें",
+      "3. इसकी भौतिक कनेक्टिविटी जांचें, BIOS सेटअप जांचें, जांचें कि क्या SMPS पंखा काम कर रहा है या नहीं, USB हीं पोर्ट काम कर रहे हैं या नहीं जांच करें, वैध फाइल सिस्टम की जांच करें",
+      "4. इसकी भौतिक कनेक्टिविटी जांचें, CPU हीट-सिंक की जांच करें, बूट सेक्टर वायरस के लिए जांचें, एंटीवायरस सॉफ़्टवेयर कार्य कर रहा है या नहीं यह जांच करें, वैध फाइल सिस्टम की जांच करें"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In Windows 10, the default system icons are stored in which of the following locations?",
+    "options": [
+      "1. C:\\Windows\\System32",
+      "2. C:\\Program Files\\Windows",
+      "3. C:\\Program Files->Windows",
+      "4. C:\\Users\\Windows\\System32"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Windows 10 में डिफ़ॉल्ट सिस्टम आइकॉन किस स्थान पर स्थित होते हैं?",
+    "options": [
+      "1. C:\\Windows\\System32",
+      "2. C:\\Program Files\\Windows",
+      "3. C:\\Program Files->Windows",
+      "4. C:\\Users\\Windows\\System32"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Mounting a file system refers to which of the following actions?",
+    "options": [
+      "1. Creating a file system",
+      "2. Deleting a file system",
+      "3. Attaching a file system to a directory structure",
+      "4. Removing a portion of a file system from a directory structure"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "फ़ाइल सिस्टम को माउंट (Mount) करने का अर्थ निम्न में से क्या है?",
+    "options": [
+      "1. फ़ाइल सिस्टम बनाना",
+      "2. फ़ाइल सिस्टम हटाना",
+      "3. फ़ाइल सिस्टम को डायरेक्टरी संरचना से जोड़ना",
+      "4. फ़ाइल सिस्टम के किसी भाग को डायरेक्टरी संरचना से हटाना"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In Google Chrome, which option is used to save a web page so that it can be easily opened again later?",
+    "options": [
+      "1. History",
+      "2. Bookmark",
+      "3. Downloads",
+      "4. Exrensions"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Google Chrome में, किसी वेब पेज को सेव करने के लिए किस विकल्प का उपयोग किया जाता है, ताकि उसे बाद में आसानी से दोबारा खोला जा सके?",
+    "options": [
+      "1. हिस्ट्री (History)",
+      "2. बुकमार्क (Bookmark)",
+      "3. डाउनलोड्स (Downloads)",
+      "4. एक्सटेंशन्स (Extensions)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In MS Word 365, the Format Painter tool is available on which tab?",
+    "options": [
+      "1. Insert",
+      "2. Home",
+      "3. Edit",
+      "4. Format"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS Word 365 में Format Painter विकल्प किस टैब में उपलब्ध होता है?",
+    "options": [
+      "1. Insert",
+      "2. Home",
+      "3. Edit",
+      "4. Format"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which keyboard shortcut is used to paste clipboard contents in MS‑Word 365?",
+    "options": [
+      "1. Ctrl + X",
+      "2. Ctrl + Z",
+      "3. Ctrl + C",
+      "4. Ctrl + V"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS‑Word 365 में क्लिपबोर्ड की सामग्री को पेस्ट करने के लिए किस शॉर्टकट कुंजी का उपयोग किया जाता है?",
+    "options": [
+      "1. Ctrl + X",
+      "2. Ctrl + Z",
+      "3. Ctrl + C",
+      "4. Ctrl + V"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In which year was the first e‑mail sent?",
+    "options": [
+      "1971",
+      "1974",
+      "1976",
+      "1978"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "प्रथम ई‑मेल (e‑mail) किस वर्ष भेजा गया था?",
+    "options": [
+      "1971",
+      "1974",
+      "1976",
+      "1978"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In the BHIM app, which option is used to view transaction history?",
+    "options": [
+      "1. Go to BHIM Home Screen - Money option",
+      "2. Go to BHIM Home Screen - Transactions",
+      "3. Go to BHIM Home Screen - Bank account",
+      "4. Go to History & Pay"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "BHIM ऐप में, ट्रांज़ैक्शन हिस्ट्री देखने के लिए किस विकल्प का उपयोग किया जाता है?",
+    "options": [
+      "1. भीम (BHIM) की होम स्क्रीन पर जाएं - मनी (money) विकल्प देखें",
+      "2. भीम (BHIM) की होम स्क्रीन पर जाएं - लेनदेन (transaction) देखें",
+      "3. भीम (BHIM) की होम स्क्रीन पर जाएं- बैंक अकाउंट (Bank account) देखें",
+      "4. हिस्ट्री एंड पे (History & Pay) पर जाएं"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which type of chart in MS Excel 365 is most useful for showing comparisons among individual items?",
+    "options": [
+      "1. Bar",
+      "2. Stock",
+      "3. Map",
+      "4. Line"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS Excel 365 में व्यक्तिगत आइटम्स के बीच तुलना (comparison) दिखाने के लिए कौन‑सा चार्ट सबसे उपयुक्त है?",
+    "options": [
+      "1. बार (Bar)",
+      "2. स्टॉक (Stock)",
+      "3. मैप (Map)",
+      "4. लाइन (Line)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following methods is used for immediate and real‑time communication with a friend?",
+    "options": [
+      "1. Dry net",
+      "2. Usenet",
+      "3. E-mail",
+      "4. Instant messaging"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "किसी मित्र के साथ त्वरित (immediate) और वास्तविक‑समय (real‑time) संचार के लिए निम्न में से किसका उपयोग किया जाता है?",
+    "options": [
+      "1. ड्रा ई नेट (Dry net)",
+      "2. यूजनेट (Usenet)",
+      "3. ई-मेल (E-mail)",
+      "4. इंस्टैंट मैसेजिंग (Instant messaging)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In MS Word 365, as shown in the figure, the Size icon in the Page Setup group is used to change the _______. <br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvaqWiVxyheZgV8dYmRsWdrF9UjuyAKQCSmoNJiz8coKsEmWjhJCy7tG4szEn53MIQLeipDgs2vKUTV9u9qEkZc0d-1LWdi7C_XOgRnN8l9j8AUuX4a0ksg7qJQPbrOXTUppB6lnzs-6vsuqwxiPjA9eO8IcYEaDd5YFFrqKchJssx-07IxXYKZhGiBTo1/s320/0124%20k.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. page size of the document",
+      "2. text size of the document",
+      "3. margin size of the page",
+      "4. font size in the document"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS Word 365 में, दिए गए चित्र के अनुसार Page Setup समूह में मौजूद Size आइकन किसको बदलने के लिए उपयोग किया जाता है? <br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvaqWiVxyheZgV8dYmRsWdrF9UjuyAKQCSmoNJiz8coKsEmWjhJCy7tG4szEn53MIQLeipDgs2vKUTV9u9qEkZc0d-1LWdi7C_XOgRnN8l9j8AUuX4a0ksg7qJQPbrOXTUppB6lnzs-6vsuqwxiPjA9eO8IcYEaDd5YFFrqKchJssx-07IxXYKZhGiBTo1/s320/0124%20k.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. दस्तावेज़ का पेज साइज",
+      "2. टेक्स्ट का साइज",
+      "3. पेज का मार्जिन साइज",
+      "4. फ़ॉन्ट का साइज"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Study the given figure and fill in the blank with the most suitable option in MS-Word 365. ______ are great for documents with facing pages, like bound reports or newsletters.",
+    "options": [
+      "1. Wide margins",
+      "2. Moderate margins",
+      "3. Narrow margins",
+      "4. Mirror margins"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "दिए गए चित्र को पढ़ें और MS-Word 365 में सबसे सही ऑप्शन से खाली जगह भरें। <br> ______ आमने-सामने वाले पेज वाले डॉक्यूमेंट्स के लिए बहुत अच्छे होते हैं, जैसे बाउंड रिपोर्ट या न्यूज़लेटर।",
+    "options": [
+      "1. वाइड मार्जिन",
+      "2. मॉडरेट मार्जिन",
+      "3. नैरो मार्जिन",
+      "4. मिरर मार्जिन"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which feature of MS Excel 365 is used to quickly copy cell content into adjacent cells in the same row or column?",
+    "options": [
+      "1. Format Painter",
+      "2. Fill Handle",
+      "3. Auto Format",
+      "4. Clear Formatting"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS Excel 365 में, निम्न में से कौन‑सी सुविधा का उपयोग किसी सेल की सामग्री को उसी पंक्ति (row) या कॉलम (column) में स्थित आस‑पास के सेल्स में तेज़ी से कॉपी करने के लिए किया जाता है?",
+    "options": [
+      "1. फॉर्मेट पेंटर",
+      "2. फिल हैंडल",
+      "3. ऑटो फॉर्मेट",
+      "4. क्लियर फॉर्मेटिंग"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Select the pagination control in the Line and Page Breaks tab in MS Word 365 to fill in the given blank. <br>______ prevents breaks between paragraphs you want to stay together.",
+    "options": [
+      "1. Widow/Orphan control",
+      "2. Page break before",
+      "3. Keep with next",
+      "4. Keep lines together"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS Word 365 में लाइन और पेज ब्रेक्स टैब में पेजिनेशन कंट्रोल को चुनकर दी गई खाली जगह भरें।<br>______ उन पैराग्राफ के बीच ब्रेक को रोकता है जिन्हें आप एक साथ रखना चाहते हैं।",
+    "options": [
+      "1. विडो/ऑर्फ़न कंट्रोल (Widow/Orphan control)",
+      "2. पेज ब्रेक बिफोर",
+      "3. कीप विद नेक्स्ट",
+      "4. कीप लाइन्स टुगेदर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What are the steps to replace the word “AND” with punctuation using the keyboard in MS‑Word 365?",
+    "options": [
+      "1. No replacement can be done",
+      "2. Ctrl + F, then type AND, then in the Replace With column, type your desired punctuation",
+      "3. Ctrl + G, then type AND, then in the Replace With column, type your desired punctuation",
+      "4. Ctrl + H, then type AND, then in the Replace With column, type your desired punctuation"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS‑Word 365 में कीबोर्ड का उपयोग करके ‘AND’ शब्द को विराम‑चिह्न से बदलने के लिए कौन‑से चरण अपनाए जाते हैं?",
+    "options": [
+      "1. कोई प्रतिस्थापन नहीं किया जा सकता है",
+      "2. Ctrl + F, फिर एंड (AND) टाइप करें, फिर रिप्लेस विद कॉलम में अपने वांछित विराम चिह्न टाइप करें",
+      "3. Ctrl + G, फिर एंड (AND) टाइप करें, फिर रिप्लेस विद कॉलम में अपने वांछित विराम चिह्न टाइप करें",
+      "4. Ctrl + H, फिर एंड (AND) टाइप करें, फिर रिप्लेस विद कॉलम में अपने वांछित विराम चिह्न टाइप करें"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Raghu is working on a Word 365 document. When he types (C), by default AutoCorrect promptly inserts the ______ symbol .",
+    "options": [
+      "1. copyright",
+      "2. trademark",
+      "3. arrow",
+      "4. happy face"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "रघु Word 365 डॉक्यूमेंट पर काम कर रहा है। जब वह (C) टाइप करता है, तो डिफ़ॉल्ट रूप से AutoCorrect तुरंत ______ सिंबल डाल देता है।",
+    "options": [
+      "1. कॉपीराइट",
+      "2. ट्रेडमार्क",
+      "3. एरो (तीर)",
+      "4. हैप्पी फेस (प्रसन्नचित्त चेहरा)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS‑Word 365, the Reviewing Pane command displays tracked revisions in a separate _______.",
+    "options": [
+      "1. pane",
+      "2. column",
+      "3. comment",
+      "4. page"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS‑Word 365 में, ट्रैक किए गए बदलावों (Tवों rack Changes) को Reviewing Pane कमांड द्वारा एक अलग _______ में प्रदर्शित किया जाता है।",
+    "options": [
+      "1. पैन (Pane)",
+      "2. कॉलम (column)",
+      "3. कमेंट (comment)",
+      "4. पेज (page)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS Word 365, since a gutter is additional space added to the page margins for binding, the gutter size CANNOT be measured in which of the following?",
+    "options": [
+      "1. Inches",
+      "2. Points",
+      "3. Number of lines",
+      "4. Millimeters"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS Word 365 में, चूँकि Gutter पृष्ठ के मार्जिन में जोड़ी गई अतिरिक्त जगह होती है, इसलिए Gutter का माप निम्न में से किसमें नहीं किया जा सकता है?",
+    "options": [
+      "1. इंच",
+      "2. पॉइंट",
+      "3. लाइन की संख्या",
+      "4. मिलीमीटर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following options describes the correct way to draw a table in MS Word 365?",
+    "options": [
+      "1. Click the Design tab, then move to Table group and select Draw Table.",
+      "2. Click the Review tab, then move to Table group and select Draw Table.",
+      "3. Click the View tab, then move to Table group and select Draw Table.",
+      "4. Click the Insert tab, then move to Table group and select Draw Table."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS Word 365 में टेबल ड्रॉ (Draw) करने का सही तरीका निम्न में से कौन‑सा है?",
+    "options": [
+      "1. डिज़ाइन टैब पर क्लिक करें, फिर टेबल ग्रुप में जाएँ और ड्रा टेबल चुनें",
+      "2. रिव्यू टैब पर क्लिक करें, फिर टेबल ग्रुप में जाएं और ड्रा टेबल चुनें",
+      "3. व्यू टैब पर क्लिक करें, फिर टेबल ग्रुप में जाएं और ड्रा टेबल चुनें",
+      "4. इंसर्ट टैब पर क्लिक करें, फिर टेबल ग्रुप में जाएँ और ड्रा टेबल चुनें"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which keyboard shortcut is used to change the text case in MS‑Word 365?",
+    "options": [
+      "1. SHIFT + F2",
+      "2. SHIFT + F1",
+      "3. SHIFT + F4",
+      "4. SHIFT + F3"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS‑Word 365 में टेक्स्ट का केस (uppercase, lowercase) बदलने के लिए किस कीबोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. SHIFT + F2",
+      "2. SHIFT + F1",
+      "3. SHIFT + F4",
+      "4. SHIFT + F3"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In MS Word 365, the Envelopes and Labels commands in the Create group are located on which tab?",
+    "options": [
+      "1. Home",
+      "2. Mailings",
+      "3. Page layout",
+      "4. References"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS Word 365 में ‘Create’ समूह में मौजूद Envelopes और Labels कमांड किस टैब में स्थित होते हैं?",
+    "options": [
+      "1. होम (Home)",
+      "2. मेलिंग (Mailings)",
+      "3. पेज लेआउट (Page layout)",
+      "4. रेफरेन्सेस (References)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "The 'Select the Recipients' is which step in 'Step by step Mail Merge Wizard' in MS-Word 365 while printing form letters that use the data from an Excel worksheet?",
+    "options": [
+      "1. Second",
+      "2. Fourth",
+      "3. Fifth",
+      "4. Third"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Word 365 में, Excel वर्कशीट के डेटा का उपयोग करके फ़ॉर्म पत्र प्रिंट करते समय, 'Step by step Mail Merge Wizard' में 'Select the Recipients' कौन-सा चरण है?",
+    "options": [
+      "1. दूसरा",
+      "2. चौथा",
+      "3. पांचवा",
+      "4. तीसरा"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In MS‑Excel 365, which PivotTable report layout displays items from multiple Row area fields in a single column and uses indentation to distinguish items belonging to different fields?",
+    "options": [
+      "1. Tabular Form",
+      "2. Outline Form",
+      "3. Compact Form",
+      "4. Design Form"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS‑Excel 365 में PivotTable का कौन‑सा रिपोर्ट लेआउट, Row Area में मौजूद एक से अधिक फ़ील्ड्स के आइटम्स को एक ही कॉलम में प्रदर्शित करता है तथा विभिन्न फ़ील्ड्स के आइटम्स में अंतर दिखाने के लिए इंडेंटेशन का उपयोग करता है?",
+    "options": [
+      "1. टैब्युलर फॉर्म",
+      "2. आउटलाइन फॉर्म",
+      "3. कॉम्पैक्ट फॉर्म",
+      "4. डिजाइन फॉर्म"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the default file extension for documents in Microsoft Word 2007 and later versions?",
+    "options": [
+      "1. .txt",
+      "2. .word",
+      "3. .docs",
+      "4. .docx"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Microsoft Word 2007 और उसके बाद के संस्करणों में दस्तावेज़ों के लिए डिफ़ॉल्ट फ़ाइल एक्सटेंशन कौन‑सा होता है?",
+    "options": [
+      "1. .txt",
+      "2. .word",
+      "3. .docs",
+      "4. .docx"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "With reference to Blue-ray encoding, which of the following is HD codec?",
+    "options": [
+      "1. H.261",
+      "2. H.235",
+      "3. H.263",
+      "4. H.264"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "ब्लू-रे एन्कोडिंग के संदर्भ में, निम्न में से कौन-सा HD कोडेक है?",
+    "options": [
+      "1. H.261",
+      "2. H.235",
+      "3. H.263",
+      "4. H.264"
+    ],
+    "answer": 3
+  }
+],
+  
   
   "3rd July 2026 - Shift2": [
 {
