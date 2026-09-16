@@ -1,5 +1,1049 @@
  const questionBank26 = {
 
+"5th Sep 2026 - Shift1": [
+  {
+    "q": "Which statement best describes the role of a compiler in computer languages?",
+    "options": [
+      "1. A compiler executes the program directly without translation.",
+      "2. A compiler translates the entire source code of a program into machine code before execution.",
+      "3. A compiler translates each line of code one by one during execution.",
+      "4. A compiler translates machine code back into source code."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कंप्यूटर भाषाओं में कंपाइलर की भूमिका का सर्वोत्तम वर्णन कौन-सा कथन करता है?",
+    "options": [
+      "1. कंपाइलर बिना अनुवाद के प्रोग्राम को सीधे एग्जीक्यूट करता है।",
+      "2. कंपाइलर किसी प्रोग्राम के संपूर्ण सोर्स कोड को एग्जीक्यूशन से पहले मशीन कोड में अनुवाद करता है।",
+      "3. कंपाइलर एग्जीक्यूशन के दौरान कोड की प्रत्येक पंक्ति का एक-एक करके अनुवाद करता है।",
+      "4. कंपाइलर मशीन कोड का वापस सोर्स कोड में अनुवाद करता है।"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which statement correctly describes open source software?",
+    "options": [
+      "1. It does not allow users to view or modify the source code.",
+      "2. It allows users to access, study, modify, and share the source code according to its license terms.",
+      "3. It is always free from all license conditions and usage rules.",
+      "4. It is available only for schools and colleges."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कौन-सा कथन, ओपन सोर्स सॉफ्टवेयर का सर्वोत्तम वर्णन करता है?",
+    "options": [
+      "1. यह उपयोगकर्ताओं को सोर्स कोड देखने या उसमें संशोधन करने की सुविधा नहीं देता है।",
+      "2. यह उपयोगकर्ताओं को इसके लाइसेंस की शर्तों के अनुसार सोर्स कोड को एक्सेस करने, उसका अध्ययन करने, उसमें संशोधन करने और उसे शेयर करने की सुविधा देता है।",
+      "3. यह सदैव सभी लाइसेंस शर्तों और उपयोग संबंधी नियमों से मुक्त होता है।",
+      "4. यह केवल विद्यालयों और महाविद्यालयों के लिए उपलब्ध होता है।"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which component in a computer is mainly responsible for rendering images and videos on the monitor?",
+    "options": [
+      "1. Processor",
+      "2. Motherboard",
+      "3. Hard disk",
+      "4. Graphics card"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कंप्यूटर में कौन-सा घटक, मुख्य रूप से मॉनिटर पर इमेज और वीडियो को डिस्प्ले करने के लिए उत्तरदायी होता है?",
+    "options": [
+      "1. प्रोसेसर",
+      "2. मदरबोर्ड",
+      "3. हार्ड डिस्क",
+      "4. ग्राफिक्स कार्ड"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In the following question, an Assertion (A) is followed by a Reason (R). Read both statements carefully and select the option that correctly describes the relationship between them. <br><br>Assertion: The CPU uses internal storage areas such as registers to temporarily hold data and instructions during processing. Reason: Temporary storage helps the CPU access required information quickly while executing instructions.",
+    "options": [
+      "1. Only the assertion is true, but the reason is false.",
+      "2. Both the assertion and reason are true, and the reason correctly explains the assertion.",
+      "3. Both the assertion and the reason are false.",
+      "4. Both the assertion and reason are true, but the reason does not explain the assertion."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित प्रश्न में एक अभिकथन (A) के बाद एक कारण (R) दिया गया है। दोनों कथनों को ध्यानपूर्वक पढ़िए और उस विकल्प का चयन कीजिए जो इन दोनों के बीच के संबंध का सही वर्णन करता है। <br><br> अभिकथन: CPU, प्रोसेसिंग के दौरान डेटा और निर्देशों को अस्थायी रूप से होल्ड रखने के लिए रजिस्टर्स जैसे आंतरिक स्टोरेज क्षेत्रों का उपयोग करता है। <br><br> कारण: अस्थायी स्टोरेज, निर्देशों को एक्जीक्यूट करते समय CPU को आवश्यक जानकारी तक शीघ्रता से एक्सेस करने में सहायता करता है।",
+    "options": [
+      "1. केवल अभिकथन सत्य है, किंतु कारण असत्य है।",
+      "2. अभिकथन और कारण दोनों सत्य हैं तथा कारण, अभिकथन की सही व्याख्या करता है।",
+      "3. अभिकथन और कारण दोनों असत्य हैं।",
+      "4. अभिकथन और कारण दोनों सत्य हैं, किंतु कारण, कथन की व्याख्या नहीं करता है।"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following best describes a high-level programming language?",
+    "options": [
+      "1. It uses binary numbers as the main way to write instructions.",
+      "2. It requires knowledge of machine code to write programs.",
+      "3. It is designed to work specifically with hardware instructions only.",
+      "4. It uses English-like statements that are easy for humans to understand."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, उच्च-स्तरीय प्रोग्रामिंग भाषा का सर्वोत्तम वर्णन करता है?",
+    "options": [
+      "1. इसमें निर्देश लिखने के मुख्य माध्यम के रूप में द्विआधारी (binary) संख्याओं का उपयोग किया जाता है।",
+      "2. इसमें प्रोग्राम लिखने के लिए मशीन कोड का ज्ञान आवश्यक होता है।",
+      "3. इसे केवल हार्डवेयर निर्देशों (instructions) शों के साथ विशेष रूप से कार्य करने के लिए बनाया जाता है।",
+      "4. इसमें अंग्रेजी जैसे कथनों का उपयोग होता है, जिसे मनुष्यों के लिए समझना आसान होता है।"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following best describes embedded software in the context of software categories?",
+    "options": [
+      "1. Software that manages overall system resources",
+      "2. Software integrated into devices to control specific functions",
+      "3. Software developed for general office use",
+      "4. Software used for user-focused applications"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "सॉफ्टवेयर की श्रेणियों के संदर्भ में, निम्नलिखित में से कौन-सा अंतर्निहित सॉफ्टवेयर (embedded software) का सर्वोत्तम वर्णन करता है?",
+    "options": [
+      "1. समग्र सिस्टम रिसोर्सेस को मैनेज करने वाला सॉफ्टवेयर",
+      "2. विशिष्ट कार्यों को नियंत्रित करने के लिए डिवाइसों में एकीकृत सॉफ्टवेयर",
+      "3. सामान्य कार्यालय उपयोग के लिए विकसित किया गया सॉफ्टवेयर",
+      "4. उपयोगकर्ता-केंद्रित एप्लिकेशनों के लिए प्रयुक्त सॉफ्टवेयर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which category does a computer mouse belong to in terms of hardware devices?",
+    "options": [
+      "1. Output device",
+      "2. Processing device",
+      "3. Input device",
+      "4. Storage device"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "हार्डवेयर डिवाइसों की दृष्टि से कंप्यूटर माउस किस श्रेणी के अंतर्गत आता है?",
+    "options": [
+      "1. आउटपुट डिवाइस",
+      "2. प्रोसेसिंग डिवाइस",
+      "3. इनपुट डिवाइस",
+      "4. स्टोरेज डिवाइस"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following best distinguishes a motherboard from other hardware components in a computer?",
+    "options": [
+      "1. It stores data and files for later use.",
+      "2. It generates output for the user to view.",
+      "3. It connects and allows communication between all main internal components.",
+      "4. It processes instructions directly for the system."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा कथन, मदरबोर्ड को कंप्यूटर के अन्य हार्डवेयर घटकों से सर्वोत्तम रूप से विभेदित करता है?",
+    "options": [
+      "1. यह डेटा और फाइलों को बाद में उपयोग के लिए संग्रहित करता है।",
+      "2. यह उपयोगकर्ता के देखने के लिए आउटपुट उत्पन्न करता है।",
+      "3. यह सभी प्रमुख आंतरिक घटकों को कनेक्ट करता है और उनके बीच कम्युनिकेशन की सुविधा प्रदान करता है।",
+      "4. यह सिस्टम के लिए सीधे निर्देशों को प्रोसेस करता है।"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following statements about Assembly Level Language is FALSE?",
+    "options": [
+      "1. Assembly language uses symbolic instructions called mnemonics.",
+      "2. Assembly language is used to program microprocessors.",
+      "3. Assembly language is easier to understand than machine language.",
+      "4. Assembly language is independent of the computer hardware."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "असेंबली स्तरीय भाषा के संबंध में निम्नलिखित में से कौन-सा कथन असत्य है?",
+    "options": [
+      "1. असेंबली भाषा में निमोनिक्स कहलाने वाले प्रतीकात्मक निर्देशों का उपयोग किया जाता है।",
+      "2. असेंबली भाषा का उपयोग माइक्रोप्रोसेसरों को प्रोग्राम करने के लिए किया जाता है।",
+      "3. असेंबली भाषा को मशीन भाषा की तुलना में समझना आसान होता है।",
+      "4. असेंबली भाषा, कंप्यूटर हार्डवेयर से स्वतंत्र होती है।"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which statement correctly describes machine level language?",
+    "options": [
+      "1. It requires a translator program to convert instructions before the CPU can execute them.",
+      "2. It is independent of the underlying computer hardware and can run on any machine.",
+      "3. It uses English-like statements that are easy for humans to read and write.",
+      "4. It consists of instructions written in binary code that can be directly executed by a computer's CPU."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कौन-सा कथन, मशीन स्तरीय भाषा का सर्वोत्तम वर्णन करता है?",
+    "options": [
+      "1. CPU द्वारा निर्देशों को एग्जीक्यूट करने से पहले उन्हें परिवर्तित करने के लिए अनुवादक प्रोग्राम की आवश्यकता होती है।",
+      "2. यह अंतर्निहित कंप्यूटर हार्डवेयर से स्वतंत्र होती है और किसी भी मशीन पर रन कर सकती है।",
+      "3. इसमें अंग्रेजी जैसे कथनों का उपयोग किया जाता है, जिन्हें मनुष्यों के लिए पढ़ना और लिखना आसान होता है।",
+      "4. इसमें बाइनरी कोड में लिखे निर्देश होते हैं, जिन्हें कंप्यूटर का CPU सीधे एग्जीक्यूट कर सकता है।"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is the best example of application software?",
+    "options": [
+      "1. Operating system",
+      "2. Utility tool",
+      "3. Device driver",
+      "4. Word processor"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, एप्लिकेशन सॉफ्टवेयर का सर्वोत्तम उदाहरण है?",
+    "options": [
+      "1. ऑपरेटिंग सिस्टम",
+      "2. यूटिलिटी टूल",
+      "3. डिवाइस ड्रा इवर",
+      "4. वर्ड प्रोसेसर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following best describes the primary function of system software in a computer system?",
+    "options": [
+      "1. It manages hardware resources and provides a platform for running application programs.",
+      "2. It creates web pages for the user to access online content.",
+      "3. It edits images and videos for multimedia purposes.",
+      "4. It stores user data such as documents and media files."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, कंप्यूटर सिस्टम में सिस्टम सॉफ्टवेयर के प्राथमिक कार्य का सर्वोत्तम वर्णन करता है?",
+    "options": [
+      "1. यह हार्डवेयर रिसोर्सेस को मैनेज करता है और एप्लिकेशन प्रोग्रामों को रन करने के लिए एक प्लेटफॉर्म प्रदान करता है।",
+      "2. यह उपयोगकर्ता के लिए ऑनलाइन कंटेंट तक एक्सेस हेतु वेब पेज क्रिएट करता है।",
+      "3. यह मल्टीमीडिया संबंधी उद्देश्यों के लिए इमेजेस और वीडियो को एडिट करता है।",
+      "4. यह डॉक्यूमेंट्स और मीडिया फाइलों जैसे उपयोगकर्ता डेटा को संग्रहित करता है।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following best describes the primary function of the Arithmetic Logic Unit (ALU) within the CPU?",
+    "options": [
+      "1. Controls input and output devices",
+      "2. Performs arithmetic and logical operations",
+      "3. Manages data flow between CPU and memory",
+      "4. Stores program instructions"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, CPU के अंदर अरिथमेटिक लॉजिक यूनिट (ALU) के मुख्य कार्य का सर्वोत्तम वर्णन करता है?",
+    "options": [
+      "1. इनपुट और आउटपुट डिवाइसों को कंट्रो ल करता है",
+      "2. अंकगणितीय और तार्किक संक्रियाएं करता है",
+      "3. CPU और मेमोरी के बीच डेटा फ्लो को मैनेज करता है",
+      "4. प्रोग्राम के निर्देशों को संग्रहित करता है"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which type of computer is commonly used by large organizations for bulk data processing, transaction processing, and managing large volumes of data?",
+    "options": [
+      "1. Mini computer",
+      "2. Supercomputer",
+      "3. Microcomputer",
+      "4. Mainframe computer"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "बड़े संगठनों द्वारा व्यापक डेटा प्रोसेसिंग, ट्रांज़ैक्शन प्रोसेसिंग और बड़ी मात्रा में डेटा को मैनेज करने के लिए सामान्यतः किस प्रकार के कंप्यूटर का उपयोग किया जाता है?",
+    "options": [
+      "1. मिनी कंप्यूटर",
+      "2. सुपर कंप्यूटर",
+      "3. माइक्रो कंप्यूटर",
+      "4. मेनफ्रेम कंप्यूटर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which computer generation first introduced the use of integrated circuits for processing and memory functions?",
+    "options": [
+      "1. Fourth generation computers",
+      "2. First generation computers",
+      "3. Second generation computers",
+      "4. Third generation computers"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कंप्यूटर की किस पीढ़ी में प्रोसेसिंग और मेमोरी संबंधी कार्यों के लिए सर्वप्रथम इंटीग्रेटेड सर्किट का उपयोग आरंभ हुआ?",
+    "options": [
+      "1. चौथी पीढ़ी के कंप्यूटर",
+      "2. प्रथम पीढ़ी के कंप्यूटर",
+      "3. द्वितीय पीढ़ी के कंप्यूटर",
+      "4. तृतीय पीढ़ी के कंप्यूटर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "To share a simple text-only document with someone who uses a different word processing program, which file format is best for maximum compatibility when formatting does not need to be preserved?",
+    "options": [
+      "1. a presentation (.ppt) file",
+      "2. an executable (.exe) file",
+      "3. a plain text (.txt) file",
+      "4. a spreadsheet (.xls) file"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "यदि आप किसी ऐसे व्यक्ति के साथ केवल साधारण टेक्स्ट वाला डॉक्यूमेंट शेयर करना चाहते हैं जो एक अलग वर्ड प्रोसेसिंग प्रोग्राम का उपयोग करता है, तो फ़ॉर्मेटिंग बनाए रखने की आवश्यकता न होने पर, अधिकतम कम्पैटिबिलिटी के लिए कौन-सा फ़ाइल फ़ॉर्मेट सर्वोत्तम है?",
+    "options": [
+      "1. प्रेजेंटेजेंटेशन (.ppt) फाइल",
+      "2. एग्जीक्यूटेबल (.exe) फाइल",
+      "3. प्लेन टेक्स्ट (.txt) फाइल",
+      "4. स्प्रेडशीट (.xls) फाइल"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following best describes encryption in the context of data security?",
+    "options": [
+      "1. A technique for duplicating files for backup purposes",
+      "2. A procedure for organizing files into folders",
+      "3. A method of deleting files to increase security",
+      "4. A process that converts data into a coded form to prevent unauthorized access"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "डेटा सुरक्षा के संदर्भ में निम्नलिखित में से कौन-सा, एन्क्रिप्शन का सर्वोत्तम वर्णन करता है?",
+    "options": [
+      "1. बैकअप उद्देश्यों के लिए फाइलों का डुप्लिकेट बनाने की एक तकनीक",
+      "2. फाइलों को फोल्डरों में व्यवस्थित करने की प्रक्रिया",
+      "3. सुरक्षा बढ़ाने के लिए फाइलों को डिलीट करने की विधि",
+      "4. अनधिकृत एक्सेस को रोकने के लिए डेटा को कूटबद्ध रूप में परिवर्तित करने की प्रक्रिया"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is a common purpose of disabling startup applications on a computer?",
+    "options": [
+      "1. To increase storage capacity",
+      "2. To upgrade hardware components",
+      "3. To prevent viruses from entering",
+      "4. To improve system boot speed"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कंप्यूटर पर स्टार्टअप एप्लिकेशनों को डिसेबल करने का एक सामान्य उद्देश्य निम्नलिखित में से क्या है?",
+    "options": [
+      "1. स्टोरेज क्षमता बढ़ाना",
+      "2. हार्डवेयर घटकों को अपग्रेड करना",
+      "3. वायरस को प्रवेश करने से रोकना",
+      "4. सिस्टम की बूट स्पीड बेहतर करना"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Arrange the following steps in the correct sequence to sign out of a Windows 11 computer: <br><br>(A) Click the Start menu <br>(B) Select your account/profile icon <br> (C) Choose Sign out <br>(D) Wait for the system to complete the sign-out process.",
+    "options": [
+      "1. A, C, B, D",
+      "2. B, A, D, C",
+      "3. A, B, C, D",
+      "4. C, D, B, A"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "विंडोज 11 कंप्यूटर से साइन आउट (sign out) करने के लिए निम्नलिखित चरणों को सही अनुक्रम में व्यवस्थित कीजिए: <br><br>(A) स्टार्ट मेनू पर क्लिक करें <br>(B) अपना अकाउंट/प्रोफ़ाइल आइकन सेलेक्ट करें <br>(C) साइन आउट का चयन करें <br>(D) सिस्टम के साइन-आउट प्रक्रिया के पूर्ण होने तक प्रतीक्षा करें",
+    "options": [
+      "1. A, C, B, D",
+      "2. B, A, D, C",
+      "3. A, B, C, D",
+      "4. C, D, B, A"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Match each basic computer issue in Column A with the most appropriate troubleshooting step in Column B. <br><br>Column A: <br>1. Computer does not turn on <br>2. Monitor is blank <br>3. Mouse is not working <br> 4. Keyboard is unresponsive <br><br>Column B: <br>A. Check power supply connection <br>B. Ensure monitor is plugged in <br>C. Reconnect mouse cable <br>D. Check keyboard connection",
+    "options": [
+      "1. 1-D, 2-C, 3-B, 4-A",
+      "2. 1-C, 2-A, 3-D, 4-B",
+      "3. 1-B, 2-D, 3-A, 4-C",
+      "4. 1-A, 2-B, 3-C, 4-D"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कॉलम A में दी गई प्रत्येक मूलभूत कंप्यूटर समस्या का कॉलम B में दिए गए सर्वाधिक उपयुक्त समस्या-निवारण चरण से मिलान कीजिए। <br><br>कॉलम A: <br>1. कंप्यूटर चालू नहीं होता है <br>2. मॉनिटर पर कुछ दिखाई नहीं देता है <br>3. माउस कार्य नहीं कर रहा है <br>4. कीबोर्ड प्रतिक्रिया नहीं दे रहा है <br><br>कॉलम B: <br>A. विद्यु त आपूर्ति कनेक्शन की जांच करें <br>B. सुनिश्चित करें कि मॉनिटर, प्लग-इन हो <br>C. माउस केबल को फिर से कनेक्ट करें <br>D. कीबोर्ड कनेक्शन की जांच करें",
+    "options": [
+      "1. 1-D, 2-C, 3-B, 4-A",
+      "2. 1-C, 2-A, 3-D, 4-B",
+      "3. 1-B, 2-D, 3-A, 4-C",
+      "4. 1-A, 2-B, 3-C, 4-D"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In Windows 11, which of the following is a direct method to change the desktop background?",
+    "options": [
+      "1. Right-click on the desktop and select 'Personalize'",
+      "2. Open Control Panel and search for 'Task Manager'",
+      "3. Press the Print Screen key on the keyboard",
+      "4. Double-click the Recycle Bin icon"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "विंडोज 11 में, डेस्कटॉप बैकग्राउंड बदलने का प्रत्यक्ष तरीका निम्नलिखित में से क्या है?",
+    "options": [
+      "1. डेस्कटॉप पर राइट-क्लिक करें और 'Personalize' सेलेक्ट करें",
+      "2. कंट्रोल पैनल ओपन करें और 'Task Manager' सर्च करें",
+      "3. कीबोर्ड पर Print Screen कुंजी प्रेस करें",
+      "4. रीसायकल बिन आइकन पर डबल-क्लिक करें"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which process involves adding a new program to a computer system so it can be used?",
+    "options": [
+      "1. Deleting",
+      "2. Installing",
+      "3. Uninstalling",
+      "4. Updating"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "किस प्रक्रिया द्वारा कंप्यूटर सिस्टम में एक नया प्रोग्राम ऐड किया जाता है ताकि उसका उपयोग किया जा सके?",
+    "options": [
+      "1. डिलीट करना (Deleting)",
+      "2. इंस्टॉल करना (Installing)",
+      "3. अनइंस्टॉल करना (Uninstalling)",
+      "4. अपडेट करना (Updating)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which Internet file uploading term is correctly matched with its description?",
+    "options": [
+      "1. File Path – The visual indicator showing how much of the upload is complete",
+      "2. Upload Button – The area where you type the file name to begin uploading",
+      "3. Drag and Drop – Moving files from your computer into a website by selecting and releasing them over the upload area",
+      "4. Progress Bar – The clickable icon that selects files for uploading"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "इंटरनेट पर फाइल अपलोड करने से संबंधित कौन-सा पद अपने विवरण से सुमेलित है?",
+    "options": [
+      "1. फाइल पाथ - अपलोड का कितना भाग पूर्ण हुआ है, यह दर्शाने वाला विजुअल इंडिकेटर",
+      "2. अपलोड बटन - वह क्षेत्र जहाँ अपलोड आरंभ करने के लिए फाइल का नाम टाइप किया जाता है",
+      "3. ड्रैग एंड ड्रॉप - अपने कंप्यूटर से फाइलों को सेलेक्ट करके वेबसाइट के अपलोड क्षेत्र पर ले जाकर छोड़ना",
+      "4. प्रोग्रेस बार - अपलोड करने के लिए फाइलों को सेलेक्ट करने वाला क्लिक-योग्य आइकन"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "According to modern password-security guidance, which practice is generally recommended?",
+    "options": [
+      "1. Requiring every password to contain uppercase letters, lowercase letters, and symbols",
+      "2. Requiring users to change their passwords every 30 days",
+      "3. Using a sufficiently long and unique password and checking it against a list of common or compromised passwords",
+      "4. Using the same complex password for multiple accounts"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "पासवर्ड-सिक्योरिटी से जुड़ी आधुनिक गाइडलाइंस के अनुसार, आम तौर पर किस तरीके की सलाह दी जाती है?",
+    "options": [
+      "1. हर पासवर्ड में बड़े अक्षर (uppercase), छोटे अक्षर (lowercase) और सिंबल का इस्तेमाल करना ज़रूरी बनाना",
+      "2. यूज़र्स के लिए हर 30 दिन में अपना पासवर्ड बदलना ज़रूरी बनाना",
+      "3. काफी लंबा और अनोखा पासवर्ड इस्तेमाल करना और आम या कॉम्प्रोमाइज़्ड पासवर्ड की लिस्ट से उसे चेक करना",
+      "4. कई अकाउंट्स के लिए एक ही कॉम्प्लेक्स पासवर्ड का इस्तेमाल करना"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which practice best helps protect personal data on a computer?",
+    "options": [
+      "1. Use unique, complex passwords and keep the operating system and applications updated",
+      "2. Use short passwords and update software only occasionally",
+      "3. Choose common passwords and update them often",
+      "4. Use one password for all accounts and update software only when prompted"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कंप्यूटर पर व्यक्तिगत डेटा को सुरक्षित रखने में कौन-सा तरीका सर्वोत्तम रूप से सहायता करता है?",
+    "options": [
+      "1. अद्वितीय, जटिल पासवर्ड का उपयोग करें तथा ऑपरेटिंग सिस्टम और एप्लिकेशनों को अपडेट रखें",
+      "2. छोटे पासवर्ड का उपयोग करें और सॉफ्टवेयर को कभी-कभी ही अपडेट करें",
+      "3. सामान्य पासवर्ड चुनें और उन्हें प्रायः अपडेट करें",
+      "4. सभी अकाउंट्स के लिए एक ही पासवर्ड का उपयोग करें और प्रॉम्प्ट मिलने पर ही सॉफ्टवेयर अपडेट करें"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which device provides temporary backup power to a computer during a power outage?",
+    "options": [
+      "1. Uninterruptible Power Supply",
+      "2. Voltage Stabilizer",
+      "3. Surge Protector",
+      "4. Extension Cord"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "विद्युत आपूर्ति बाधित (power outage) होने पर कौन-सा डिवाइस, कंप्यूटर को अस्थायी बैकअप पावर प्रदान करता है?",
+    "options": [
+      "1. अनइंटरप्टिबल पावर सप्लाई",
+      "2. वोल्टेज स्टेबलाइजर",
+      "3. सर्ज प्रोटेक्टर",
+      "4. एक्सटेंशन कॉर्ड"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which dedicated device is primarily designed to protect a computer from voltage spikes or sudden surges in electrical power?",
+    "options": [
+      "1. Extension Cord",
+      "2. Cooling Fan",
+      "3. Uninterruptible Power Supply used mainly for backup power",
+      "4. Surge Protector"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कौन-सा समर्पित डिवाइस, कंप्यूटर को वोल्टेज स्पाइक्स या विद्यु त शक्ति में अचानक प्रोत्कर्ष (surge) से बचाने के लिए मुख्य रूप से बनाया गया है?",
+    "options": [
+      "1. एक्सटेंशन कॉर्ड",
+      "2. कूलिंग फ़ैन",
+      "3. मुख्यतः बैकअप पावर के लिए प्रयुक्त अनइंटरप्टिबल पावर सप्लाई",
+      "4. सर्ज प्रोटेक्टर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What is the primary purpose of entering a username and password when logging on to a network?",
+    "options": [
+      "1. To disconnect from the internet",
+      "2. To verify the identity of the user and provide access to network resources",
+      "3. To change network settings for all users",
+      "4. To install new software automatically"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "किसी नेटवर्क पर लॉग ऑन करते समय यूजरनेम और पासवर्ड प्रविष्ट करने का प्राथमिक उद्देश्य क्या है?",
+    "options": [
+      "1. इंटरनेट से डिस्कनेक्ट करना",
+      "2. यूजर की पहचान सत्यापित करना और नेटवर्क रिसोर्सेस तक एक्सेस प्रदान करना",
+      "3. सभी यूजर्स के लिए नेटवर्क सेटिंग्स बदलना",
+      "4. स्वचालित रूप से नया सॉफ्टवेयर इंस्टॉल करना"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In Windows 11, which button or menu should you generally select first to properly shut down the computer?",
+    "options": [
+      "1. Start button/menu",
+      "2. File Explorer",
+      "3. Task Manager",
+      "4. Control Panel"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Windows 11 में, कंप्यूटर को ठीक से बंद करने के लिए आपको आम तौर पर सबसे पहले कौन सा बटन या मेनू चुनना चाहिए?",
+    "options": [
+      "1. स्टार्ट बटन/मेनू (Start button/menu)",
+      "2. फाइल एक्सप्लोरर (File Explorer)",
+      "3. टास्क मैनेजर (Task Manager)",
+      "4. कंट्रोल पैनल (Control Panel)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a necessary display-connection step when setting up a new desktop computer for the first time?",
+    "options": [
+      "1. Install application software before turning on the computer",
+      "2. Plug in the printer before connecting the keyboard",
+      "3. Connect only the mouse and keyboard before the monitor",
+      "4. Connect the monitor to the computer/system unit using a suitable cable"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "नए डेस्कटॉप कंप्यूटर को पहली बार स्थापित करते समय डिस्प्ले-कनेक्शन के लिए आवश्यक चरण निम्नलिखित में से क्या है?",
+    "options": [
+      "1. कंप्यूटर चालू करने से पहले एप्लिकेशन सॉफ्टवेयर इंस्टॉल करें",
+      "2. कीबोर्ड कनेक्ट करने से पहले प्रिंटर को प्लग इन करें",
+      "3. मॉनिटर लगाने से पहले केवल माउस और कीबोर्ड कनेक्ट करें",
+      "4. उपयुक्त केबल का उपयोग करके मॉनिटर को कंप्यूटर/सिस्टम यूनिट से कनेक्ट करें"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following best describes a primary feature of video conferencing services on the Internet?",
+    "options": [
+      "1. They are used solely for sharing large files instantly over the internet.",
+      "2. They only permit sending text messages between users.",
+      "3. They allow real-time audio and video communication between users at different locations.",
+      "4. They provide non-real-time communication through email."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, इंटरनेट पर वीडियो कॉन्फ्रेंसिंग सेवाओं की प्राथमिक विशेषता का सर्वोत्तम वर्णन करता है?",
+    "options": [
+      "1. इनका उपयोग केवल इंटरनेट पर बड़ी फाइलों को तुरंत शेयर करने के लिए किया जाता है।",
+      "2. ये केवल उपयोगकर्ताओं के बीच टेक्स्ट मैसेज भेजने की सुविधा देती हैं।",
+      "3. ये विभिन्न स्थानों पर मौजूद उपयोगकर्ताओं के बीच रियल-टाइम ऑडियो और वीडियो कम्युनिकेशन की सुविधा देती हैं।",
+      "4. ये ईमेल के माध्यम से नॉन-रियल-टाइम कम्युनिकेशन प्रदान करती हैं।"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which feature best distinguishes a news website from a government services website?",
+    "options": [
+      "1. A news website and a government services website both focus on posting only entertainment content.",
+      "2. A news website provides official forms for citizens, while a government services website posts daily news articles.",
+      "3. A news website and a government services website are mainly used for social networking.",
+      "4. A news website updates content regularly with current events, while a government services website provides official information and forms."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कौन-सी विशेषता, न्यूज वेबसाइट को सरकारी सेवा वेबसाइट से सर्वोत्तम रूप से विभेदित करती है?",
+    "options": [
+      "1. न्यूज वेबसाइट और सरकारी सेवा वेबसाइट, दोनों केवल मनोरंजन से जुड़ी सामग्री पोस्ट करने पर ध्यान देती हैं।",
+      "2. न्यूज वेबसाइट नागरिकों के लिए आधिकारिक प्रपत्र उपलब्ध कराती है, जबकि सरकारी सेवा वेबसाइट दैनिक न्यूज आर्टिकल पोस्ट करती है।",
+      "3. न्यूज वेबसाइट और सरकारी सेवा वेबसाइट मुख्यतः सोशल नेटवर्किंग के लिए प्रयुक्त होती हैं।",
+      "4. न्यूज वेबसाइट वर्तमान घटनाओं से संबंधित सामग्री को नियमित रूप से अपडेट करती है, जबकि सरकारी सेवा वेबसाइट आधिकारिक जानकारी और प्रपत्र उपलब्ध कराती है।"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Arrange the following steps in the correct logical data-handling sequence for presenting data with a graph, where each step depends on the previous one being completed first: <br>(A) Prepare and organise the data to be shown <br>(B) Select the graph type that best suits that prepared data <br>(C) Insert the chosen graph into the presentation <br>(D) Interpret the graph's data for the audience.",
+    "options": [
+      "1. B, A, C, D",
+      "2. C, B, A, D",
+      "3. A, B, C, D",
+      "4. D, A, B, C"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "ग्राफ के माध्यम से डेटा प्रस्तुत करने के लिए निम्नलिखित चरणों को सही तार्किक डेटा-हैंडलिंग अनुक्रम में व्यवस्थित कीजिए, जहाँ प्रत्येक चरण अपने पूर्ववर्ती चरण के पूर्ण होने पर निर्भर है: <br>(A) दिखाए जाने वाले डेटा को तैयार और व्यवस्थित करें <br>(B) तैयार डेटा के लिए सर्वाधिक उपयुक्त ग्राफ प्रकार सेलेक्ट करें  <br>(C) चुने गए ग्राफ को प्रेजेंटेजेंटेशन में इन्सर्ट करें <br>(D) दर्शकों के लिए ग्राफ के डेटा की व्याख्या करें",
+    "options": [
+      "1. B, A, C, D",
+      "2. C, B, A, D",
+      "3. A, B, C, D",
+      "4. D, A, B, C"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Match the spreadsheet formula with its correct description. <br>A. =SUM(A1:A5) <br>B. =AVERAGE(A1:A5) <br>C. =MIN(A1:A5) <br>D. =MAX(A1:A5) <br><br>1. Finds the average of values in cells A1 to A5 <br> 2. Adds values in cells A1 to A5 <br> 3. Returns the smallest value in cells A1 to A5 <br>4. Returns the largest value in cells A1 to A5 <br><br> Select the correct matching pairs:",
+    "options": [
+      "1. A-4, B-3, C-2, D-1",
+      "2. A-3, B-4, C-1, D-2",
+      "3. A-2, B-1, C-3, D-4",
+      "4. A-1, B-2, C-4, D-3"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "स्प्रेडशीट फ़ॉर्मूला को उसके सही विवरण से सुमेलित कीजिए। <br>A. =SUM(A1:A5)  <br>B. =AVERAGE(A1:A5)   <br>C. =MIN(A1:A5)  <br>D. =MAX(A1:A5)  <br><br>1. सेल A1 से A5 तक मानों का औसत ज्ञात करता है  <br>2. सेल A1 से A5 तक मानों को जोड़ता है  <br>3. सेल A1 से A5 में सबसे छोटा मान रिटर्न करता है  <br>4. सेल A1 से A5 में सबसे बड़ा मान रिटर्न करता है   <br><br> सही मिलान युग्म का चयन कीजिए:",
+    "options": [
+      "1. A-4, B-3, C-2, D-1",
+      "2. A-3, B-4, C-1, D-2",
+      "3. A-2, B-1, C-3, D-4",
+      "4. A-1, B-2, C-4, D-3"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the main purpose of using a header in a word processing document?",
+    "options": [
+      "1. To adjust the left and right text margins",
+      "2. To display information at the top of every page",
+      "3. To insert images at the bottom of each page",
+      "4. To change the font size for all paragraphs"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "किसी वर्ड प्रोसेसिंग डॉक्यूमेंट में हेडर (header) का उपयोग करने का मुख्य उद्देश्य क्या है?",
+    "options": [
+      "1. बाएं और दाएं टेक्स्ट मार्जिन को एडजस्ट करना",
+      "2. प्रत्येक पेज के टॉप पर जानकारी डिस्प्ले करना",
+      "3. प्रत्येक पेज के बॉटम में इमेज इन्सर्ट करना",
+      "4. सभी पैराग्राफ के लिए फ़ॉन्ट साइज बदलना"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following best describes the primary function of email as an Internet service?",
+    "options": [
+      "1. It is designed specifically for sharing large video files between users.",
+      "2. It allows users to send and receive digital messages over the Internet.",
+      "3. It is used mainly for organizing online events and meetings.",
+      "4. It enables access to real-time news updates from various sources."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, इंटरनेट सेवा के रूप में ईमेल के प्राथमिक कार्य का सर्वोत्तम वर्णन करता है?",
+    "options": [
+      "1. इसे विशेष रूप से उपयोगकर्ताओं के बीच बड़ी वीडियो फाइलें शेयर करने के लिए बनाया गया है।",
+      "2. यह उपयोगकर्ताओं को इंटरनेट पर डिजिटल मैसेज भेजने और प्राप्त करने की सुविधा देता है।",
+      "3. इसका उपयोग मुख्यतः ऑनलाइन इवेंट्स और मीटिंग्स को आयोजित करने के लिए किया जाता है।",
+      "4. यह विभिन्न स्रोतों से वास्तविक-समय के समाचार अपडेट तक पहुँच प्रदान करता है।"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the correct sequence for uploading a document to a website using the Upload button?",
+    "options": [
+      "1. Click the Upload button, select the document from your device, confirm the upload, and check that the file appears in the list",
+      "2. Select the document, check the file list, click Upload, and confirm",
+      "3. Check the file list, click Upload, select the document, and confirm",
+      "4. Confirm the upload, select the document, click Upload, and check the file list"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "अपलोड बटन (Upload button) का उपयोग करके किसी डॉक्यूमेंट को वेबसाइट पर अपलोड करने का सही अनुक्रम क्या है?",
+    "options": [
+      "1. अपलोड बटन पर क्लिक करें, अपने डिवाइस से डॉक्यूमेंट सेलेक्ट करें, अपलोड कन्फ़र्म करें और जाँचें कि फाइल, लिस्ट में दिखाई दे रही है या नहीं",
+      "2. डॉक्यूमेंट सेलेक्ट करें, फाइल लिस्ट जाँचें, अपलोड पर क्लिक करें और कन्फ़र्म करें",
+      "3. फाइल लिस्ट जाँचें, अपलोड पर क्लिक करें, डॉक्यूमेंट सेलेक्ट करें और कन्फ़र्म करें",
+      "4. अपलोड कन्फ़र्म करें, डॉक्यूमेंट सेलेक्ट करें, अपलोड पर क्लिक करें और फाइल लिस्ट जाँचें"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following statements about presenting data in a presentation is FALSE?",
+    "options": [
+      "1. Selecting relevant data is important for an effective presentation.",
+      "2. Data should always be presented using only text for better understanding.",
+      "3. Consistency in data presentation style helps avoid confusion.",
+      "4. Visual aids such as charts can help clarify complex information for the audience."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "प्रेजेंटेजेंटेशन में डेटा प्रस्तुत करने से संबंधित निम्नलिखित में से कौन-सा कथन असत्य है?",
+    "options": [
+      "1. प्रभावी प्रेजेंटेजेंटेशन के लिए प्रासंगिक डेटा का चयन महत्त्वपूर्ण है।",
+      "2. बेहतर समझ के लिए डेटा सदैव केवल टेक्स्ट के माध्यम से प्रस्तुत किया जाना चाहिए।",
+      "3. डेटा प्रेजेंटेजेंटेशन स्टाइल में एकरूपता, भ्रम से बचने में सहायता करती है।",
+      "4. चार्ट जैसे दृश्य सहायक साधन, दर्शकों के लिए जटिल जानकारी को स्पष्ट करने में सहायता कर सकते हैं।"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which feature in presentation software is commonly used to show data trends or comparisons visually?",
+    "options": [
+      "1. Slide transitions",
+      "2. Speaker notes",
+      "3. Charts",
+      "4. WordArt"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "प्रेजेंटेजेंटेशन सॉफ्टवेयर में किस फीचर का उपयोग सामान्यतः डेटा की प्रवृत्तियों या तुलनाओं को दृश्य रूप से दिखाने के लिए किया जाता है?",
+    "options": [
+      "1. Slide transitions",
+      "2. Speaker notes",
+      "3. Charts",
+      "4. WordArt"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In MS Excel, which feature in a spreadsheet allows users to record and automate a sequence of actions?",
+    "options": [
+      "1. Filter",
+      "2. Macro",
+      "3. Chart",
+      "4. Function"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS Excel में, स्प्रेडशीट का कौन-सा फ़ीचर यूज़र्स को एक्शन्स के क्रम को रिकॉर्ड और ऑटोमेट करने की सुविधा देता है?",
+    "options": [
+      "1. Filter",
+      "2. Macro",
+      "3. Chart",
+      "4. Function"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which keyboard shortcut is commonly used to select all the text in a word processing document?",
+    "options": [
+      "1. Ctrl + S",
+      "2. Ctrl + C",
+      "3. Ctrl + A",
+      "4. Ctrl + V"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "वर्ड प्रोसेसिंग डॉक्यूमेंट में संपूर्ण टेक्स्ट को सेलेक्ट (select all the text) करने के लिए सामान्यतः किस कीबोर्ड शॉर्टकट का उपयोग किया जाता है?",
+    "options": [
+      "1. Ctrl + S",
+      "2. Ctrl + C",
+      "3. Ctrl + A",
+      "4. Ctrl + V"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which online service is commonly used to create, store, share, and edit documents with others in real time?",
+    "options": [
+      "1. Internet Explorer",
+      "2. Calculator",
+      "3. Microsoft Paint",
+      "4. Google Drive (with Google Docs, Sheets, and Slides)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "डॉक्यूमेंट बनाने, स्टोर करने, शेयर करने और अन्य लोगों के साथ वास्तविक समय में एडिट करने के लिए सामान्यतः किस ऑनलाइन सर्विस का उपयोग किया जाता है?",
+    "options": [
+      "1. इंटरनेट एक्सप्लोरर",
+      "2. कैलकुलेटर",
+      "3. माइक्रोसॉफ्ट पेंट",
+      "4. गूगल ड्राइव (गूगल डॉक्स, शीट्स और स्लाइड्स सहित)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is NOT a true statement about blogs?",
+    "options": [
+      "1. Blogs can be maintained by individuals or groups.",
+      "2. Blogs are often updated with new entries regularly.",
+      "3. Blogs are only accessible to registered users on the internet.",
+      "4. Blogs usually allow readers to comment on posts."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "ब्लॉग (blog) के संबंध में निम्नलिखित में से कौन-सा कथन सत्य नहीं है?",
+    "options": [
+      "1. ब्लॉग को व्यक्तियों या समूहों द्वारा मेंटेंमेंटेंन किया जा सकता है।",
+      "2. ब्लॉग को प्रायः नई प्रविष्टियों के साथ नियमित रूप से अपडेट किया जाता है।",
+      "3. ब्लॉग, इंटरनेट पर केवल पंजीकृत उपयोगकर्ताओं के लिए उपलब्ध होते हैं।",
+      "4. ब्लॉग में प्रायः पाठकों को पोस्ट पर कमेंट करने की सुविधा मिलती है।"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which statement best compares the main functions of a web browser to those of an email client?",
+    "options": [
+      "1. A web browser is used to build websites, while an email client is used to design web pages.",
+      "2. A web browser is used to install software, while an email client is used to update the operating system.",
+      "3. A web browser is used to edit spreadsheets, while an email client is used to create presentations.",
+      "4. A web browser is used to access and view websites, while an email client is used to send and receive emails."
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कौन-सा कथन, वेब ब्राउजर के मुख्य कार्यों की तुलना ईमेल क्लाइंट के कार्यों से सर्वोत्तम रूप से करता है?",
+    "options": [
+      "1. वेब ब्राउजर का उपयोग वेबसाइट बनाने के लिए किया जाता है, जबकि ईमेल क्लाइंट का उपयोग वेब पेजों को डिजाइन करने के लिए किया जाता है।",
+      "2. वेब ब्राउजर का उपयोग सॉफ्टवेयर इंस्टॉल करने के लिए किया जाता है, जबकि ईमेल क्लाइंट का उपयोग ऑपरेटिंग सिस्टम को अपडेट करने के लिए किया जाता है।",
+      "3. वेब ब्राउजर का उपयोग स्प्रेडशीट को एडिट करने के लिए किया जाता है, जबकि ईमेल क्लाइंट का उपयोग प्रेजेंटेजेंटेशन बनाने के लिए किया जाता है।",
+      "4. वेब ब्राउजर का उपयोग वेबसाइटों तक एक्सेस पाने और उन्हें देखने के लिए किया जाता है, जबकि ईमेल क्लाइंट का उपयोग ईमेल भेजने और प्राप्त करने के लिए किया जाता है।"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following statements is factually correct about using search engines effectively?",
+    "options": [
+      "1. Typing long sentences always gives the best search results.",
+      "2. Ignoring spelling does not affect search results.",
+      "3. Using specific keywords can improve the accuracy of search results.",
+      "4. Using only one search engine is required for effective searching."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "सर्च इंजनों का प्रभावी रूप से उपयोग करने के संबंध में निम्नलिखित में से कौन-सा कथन तथ्यात्मक रूप से सही है?",
+    "options": [
+      "1. लंबे वाक्य टाइप करने से सदैव सर्वोत्तम सर्च परिणाम प्राप्त होते हैं।",
+      "2. वर्तनी पर ध्यान न देने से सर्च परिणाम प्रभावित नहीं होते हैं।",
+      "3. विशिष्ट कीवर्ड्स का उपयोग सर्च परिणामों की परिशुद्धता में सुधार कर सकता है।",
+      "4. प्रभावी रूप से सर्च करने के लिए केवल एक सर्च इंजन का उपयोग करना आवश्यक है।"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In Microsoft Excel for Windows, which of the following statements about keyboard shortcuts is FALSE?",
+    "options": [
+      "1. Ctrl + S saves the current workbook.",
+      "2. Ctrl + C copies the selected cells.",
+      "3. Ctrl + N inserts a new worksheet into the current workbook.",
+      "4. Ctrl + V pastes the copied content."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Microsoft Excel for Windows में कीबोर्ड शॉर्टकट्स के संबंध में निम्नलिखित में से कौन-सा कथन गलत है?",
+    "options": [
+      "1. Ctrl + S वर्तमान वर्कबुक को सेव करता है।",
+      "2. Ctrl + C चयनित सेल्स को कॉपी करता है।",
+      "3. Ctrl + N वर्तमान वर्कबुक में एक नई वर्कशीट इन्सर्ट करता है।",
+      "4. Ctrl + V कॉपी किए गए कंटेंट को पेस्ट करता है।"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which statement correctly describes the use of charts in spreadsheet applications?",
+    "options": [
+      "1. Charts are used to visually summarize and compare data in a spreadsheet",
+      "2. Charts are available only in presentation software",
+      "3. Charts are used only to change text style",
+      "4. Charts prevent users from entering formulas"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कौन-सा कथन, स्प्रेडशीट एप्लीकेशनों में चार्ट्स के उपयोग का सही वर्णन करता है?",
+    "options": [
+      "1. चार्ट का उपयोग स्प्रेडशीट में डेटा का दृश्य रूप से सारांश प्रस्तुत करने और तुलना करने के लिए किया जाता है",
+      "2. चार्ट केवल प्रेजेंटेजेंटेशन सॉफ्टवेयर में उपलब्ध होते हैं",
+      "3. चार्ट का उपयोग केवल टेक्स्ट स्टाइल बदलने के लिए किया जाता है",
+      "4. चार्ट, उपयोगकर्ताओं को फ़ॉर्मूला प्रविष्ट करने से रोकते हैं"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following best describes how formulas are used in spreadsheet applications?",
+    "options": [
+      "1. Formulas change the visual formatting of cells based on input.",
+      "2. Formulas protect the spreadsheet from unauthorized access.",
+      "3. Formulas perform calculations using values in specified cells.",
+      "4. Formulas convert spreadsheet files into different formats."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, स्प्रेडशीट एप्लीकेशनों में फ़ॉर्मूले के उपयोग का सर्वोत्तम वर्णन करता है?",
+    "options": [
+      "1. फ़ॉर्मूले, इनपुट के आधार पर सेल की दृश्य फ़ॉर्मैटिंग को परिवर्तित करते हैं।",
+      "2. फ़ॉर्मूले, स्प्रेडशीट को अनधिकृत एक्सेस से सुरक्षित करते हैं।",
+      "3. फ़ॉर्मूले, निर्दिष्ट सेल के वैल्यू का उपयोग करके गणनाएँ करते हैं।",
+      "4. फ़ॉर्मूले, स्प्रेडशीट फाइलों को भिन्न- भिन्न फ़ॉर्मैट में परिवर्तित करते हैं।"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the primary function of the mail merge feature in Microsoft Word?",
+    "options": [
+      "1. To join two separate documents into one file",
+      "2. To convert a Word document into a spreadsheet",
+      "3. To combine a template document with a data source for mass personalized communication",
+      "4. To format tables for better appearance"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "माइक्रोसॉफ्ट वर्ड में मेल मर्ज (mail merge) फीचर का मुख्य कार्य क्या है?",
+    "options": [
+      "1. दो अलग-अलग डॉक्यूमेंट्स को एक फाइल में जॉइन करना",
+      "2. वर्ड डॉक्यूमेंट को स्प्रेडशीट में परिवर्तित करना",
+      "3. बड़े पैमाने पर वैयक्तिकृत कम्युनिकेशन के लिए टेम्प्लेट डॉक्यूमेंट को डेटा सोर्स के साथ संयोजित करना",
+      "4. बेहतर रूप-रंग के लिए तालिकाओं को फ़ॉर्मेट करना"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which step is necessary before you can insert data into a table in a word processing document?",
+    "options": [
+      "1. You must first create or insert the table into the document",
+      "2. You need to select all text in the document",
+      "3. You must format the table cells before inserting data",
+      "4. You should choose a page layout for the document"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "वर्ड प्रोसेसिंग डॉक्यूमेंट में किसी तालिका (table) में डेटा इन्सर्ट करने से पहले कौन-सा चरण आवश्यक है?",
+    "options": [
+      "1. आपको पहले डॉक्यूमेंट में तालिका क्रिएट या इन्सर्ट करनी होगी",
+      "2. आपको डॉक्यूमेंट में संपूर्ण टेक्स्ट को सेलेक्ट करना होगा",
+      "3. डेटा इन्सर्ट करने से पहले आपको तालिका के सेल को फ़ॉर्मेट करना होगा",
+      "4. आपको डॉक्यूमेंट के लिए पेज लेआउट चुनना होगा"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In Microsoft Word, the buttons used to make selected text bold, italic, or underlined are found in which group on the Home tab?",
+    "options": [
+      "1. Mail merge",
+      "2. Font group",
+      "3. Spelling & Grammar (Spell check)",
+      "4. Page setup"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "माइक्रोसॉफ्ट वर्ड में सेलेक्ट किए गए टेक्स्ट को बोल्ड, इटैलिक या अंडरलाइन करने के लिए प्रयुक्त होने वाले बटन, Home टैब के किस ग्रुप में पाए जाते हैं?",
+    "options": [
+      "1. Mail merge",
+      "2. Font group",
+      "3. Spelling & Grammar (Spell check)",
+      "4. Page setup"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In Microsoft Word, which of the following represents the most standard and recommended sequence of steps for a new user to create and save a document? <br><br>A. Select \"New\" (or \"Blank document\"). <br>B. Open Microsoft Word. <br>C. Save the document. <br>D. Type content into the document.",
+    "options": [
+      "1. B, A, D, C",
+      "2. D, B, C, A",
+      "3. B, C, D, A",
+      "4. A, B, C, D"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "माइक्रोसॉफ्ट वर्ड में, किसी नए उपयोगकर्ता के लिए नया डॉक्यूमेंट बनाने और उसे सेव करने के लिए निम्नलिखित में से कौन सा सबसे मानक और अनुशंसित अनुक्रम है? <br><br>A. \"New\" (या \"Blank document\") सेलेक्ट करें।   <br>B. माइक्रोसॉफ्ट वर्ड ओपन करें। <br>C. डॉक्यूमेंट सेव करें। <br>D. डॉक्यूमेंट में कंटेंट टाइप करें।",
+    "options": [
+      "1. B, A, D, C",
+      "2. D, B, C, A",
+      "3. B, D, A, C",
+      "4. A, B, C, D"
+    ],
+    "answer": 0
+  }
+],
+
+  
   "5th July 2026 - Shift1": [
 {
     "q": "What is the full form of CD-R?",
