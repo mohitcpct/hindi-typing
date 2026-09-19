@@ -1043,6 +1043,1049 @@
   }
 ],
 
+  "6th Sep 2026 - Shift1": [
+  {
+    "q": "Which of the following is an INPUT device used to capture sound into the computer?",
+    "options": [
+      "1. The microphone",
+      "2. The speaker",
+      "3. The monitor",
+      "4. The printer"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, कंप्यूटर में ध्वनि (sound) को कैप्चर करने के लिए उपयोग किया जाने वाला इनपुट डिवाइस है?",
+    "options": [
+      "1. माइक्रोफोन",
+      "2. स्पीकर",
+      "3. मॉनिटर",
+      "4. प्रिंटर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A drawing must be produced on a large, rigid sheet that cannot be wrapped around a rotating cylinder. Which type of plotter should be selected to draw precise lines by moving the plotting mechanism along both the X-axis and Y-axis while keeping the sheet stationary?",
+    "options": [
+      "1. Drum plotter",
+      "2. Flatbed plotter",
+      "3. Electrostatic plotter",
+      "4. Inkjet plotter"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "किसी बड़ी, कठोर शीट पर एक ड्रॉ इंग बनानी है जिसे किसी घूर्णी सिलिंडर के चारों ओर नहीं लपेटा जा सकता। शीट को स्थिर रखते हुए प्लॉटिंग मैकेनिज्म को X-अक्ष और Y-अक्ष दोनों के अनुदिश मूव करके सटीक रेखाएं खींचखीं ने के लिए किस प्रकार का प्लॉटर सेलेक्ट किया जाना चाहिए?",
+    "options": [
+      "1. ड्रम प्लॉटर",
+      "2. फ्लैटबेड प्लॉटर",
+      "3. इलेक्ट्रोस्टैटिक प्लॉटर",
+      "4. इंकजेट प्लॉटर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following storage items is an OPTICAL storage medium that is read using a laser?",
+    "options": [
+      "1. The USB flash drive",
+      "2. The memory card",
+      "3. The external hard disk drive",
+      "4. The DVD/optical disc"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सी स्टोरेज आइटम एक ऑप्टिकल (OPTICAL) स्टोरेज माध्यम है जिसे लेजर का उपयोग करके रीड (read) किया जाता है?",
+    "options": [
+      "1. USB फ्लैश ड्राइव",
+      "2. मेमोरी कार्ड",
+      "3. एक्सटर्नल हार्ड डिस्क ड्राइव",
+      "4. DVD/ऑप्टिकल डिस्क"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Refer to the image below. A component is highlighted on the main board. It is chiefly responsible for producing the images sent to the monitor. Which component is this? <br> <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP-JihE7asF50BYY7euLCl_JNNMdSOx40qtJdym461pZ9qEuuc2tswPgxWm0pl2-UauqSlrXBsmDN4BiNOlS75tKcJvLhNTywtJrC8cTlb4fjoluugJf41VTxZ6HBAkgAGGiaonp_hJqBKp49c6eDmtAdcc0CaOCcrQnbDTCNOUVwQ_uIeqtiliRb96sNw/s320/12%20fg.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. The graphics card (GPU)",
+      "2. The power supply unit",
+      "3. The network card",
+      "4. The sound card"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "नीचे दी गई इमेज देखें। मेन बोर्ड पर एक घटक हाइलाइट किया गया है। यह मुख्य रूप से मॉनिटर पर भेजी जाने वाली इमेज उत्पन्न करने के लिए उत्तरदायी होता है। यह कौन-सा घटक है? <br> <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP-JihE7asF50BYY7euLCl_JNNMdSOx40qtJdym461pZ9qEuuc2tswPgxWm0pl2-UauqSlrXBsmDN4BiNOlS75tKcJvLhNTywtJrC8cTlb4fjoluugJf41VTxZ6HBAkgAGGiaonp_hJqBKp49c6eDmtAdcc0CaOCcrQnbDTCNOUVwQ_uIeqtiliRb96sNw/s320/12%20fg.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. ग्राफिक्स कार्ड (GPU)",
+      "2. पावर सप्लाई यूनिट",
+      "3. नेटवर्क कार्ड",
+      "4. साउंड कार्ड"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which of the following is a Linux distribution?",
+    "options": [
+      "1. Ubuntu",
+      "2. Windows 11",
+      "3. macOS",
+      "4. MS-DOS"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा, एक लिनक्स डिस्ट्रीब्यूशन (Linux distribution) है?",
+    "options": [
+      "1. Ubuntu",
+      "2. Windows 11",
+      "3. macOS",
+      "4. MS-DOS"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which statement best explains proprietary software?",
+    "options": [
+      "1. Its source code is always freely available for modification.",
+      "2. It is owned by an individual or organisation and used according to specified licence conditions.",
+      "3. It can be modified and redistributed without any restrictions.",
+      "4. It does not have an owner or licensing conditions."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कौन-सा कथन, स्वामित्व सॉफ्टवेयर (proprietary software) की सर्वोत्तम व्याख्या करता है?",
+    "options": [
+      "1. इसका सोर्स कोड, संशोधन के लिए सदैव स्वतंत्र रूप से उपलब्ध रहता है।",
+      "2. यह किसी व्यक्ति या संगठन के स्वामित्व में होता है और निर्दिष्ट लाइसेंस शर्तों के अनुसार उपयोग किया जाता है।",
+      "3. इसे बिना किसी प्रतिबंध के संशोधित और पुनर्वितरित किया जा सकता है।",
+      "4. इसका कोई स्वामी या लाइसेंसिंसें सिंग शर्तें नहीं होतीं हैं।"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A large bank must process millions of customer transactions reliably every day on one powerful central system. Which class of computer is traditionally used for this?",
+    "options": [
+      "1. A single embedded microcontroller",
+      "2. A pocket calculator",
+      "3. A basic home laptop",
+      "4. A mainframe computer"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "एक बड़े बैंक को प्रतिदिन लाखों कस्टमर के ट्रांज़ैक्शन एक शक्तिशाली केंद्रीय सिस्टम पर विश्वसनीय रूप से प्रोसेस करने होते हैं। इसके लिए पारंपरिक रूप से किस श्रेणी के कंप्यूटर का उपयोग किया जाता है?",
+    "options": [
+      "1. एक सिंगल एम्बेडेड माइक्रोकंट्रोलर",
+      "2. एक पॉकेट कैलकुलेटर",
+      "3. एक बेसिक होम लैपटॉप",
+      "4. एक मेनफ्रेम कंप्यूटर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "The smallest unit of digital data, which can hold only a 0 or a 1, is called a ______.",
+    "options": [
+      "1. byte",
+      "2. kilobyte",
+      "3. word",
+      "4. bit"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "डिजिटल डेटा का सबसे छोटा मात्रक (unit), जो केवल 0 या 1 होल्ड कर सकता है, ______ कहलाता है।",
+    "options": [
+      "1. बाइट (byte)",
+      "2. किलोबाइट (kilobyte)",
+      "3. वर्ड (word)",
+      "4. बिट (bit)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "During instruction processing, the CPU performs the following operations: <br><br>1. Compares two numerical values <br>2. Adds an offset to a memory address <br>3. Determines whether a result is equal to zero <br>4. Directs other CPU components to execute instructions <br>Which operations are primarily performed by the Arithmetic Logic Unit?",
+    "options": [
+      "1. Operations 1, 2 and 3 only",
+      "2. Operations 1 and 4 only",
+      "3. Operations 2 and 4 only",
+      "4. Operations 1, 2, 3 and 4"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "इंस्ट्रक्शन प्रोसेसिंग के दौरान, CPU निम्नलिखित संक्रियाएं करता है: <br> <br>1. दो संख्यात्मक मानों की तुलना करता है <br> 2. किसी मेमोरी एड्रेस में एक ऑफसेट जोड़ता है <br>3. यह निर्धारित करता है कि कोई परिणाम शून्य के बराबर है या नहीं <br>4. अन्य CPU घटकों को इंस्ट्रक्शन एग्जीक्यूट करने का निर्देश देता है। <br><br>मुख्य रूप से कौन-सी संक्रियाएं अरिथमेटिक लॉजिक यूनिट (Arithmetic Logic Unit) द्वारा की जाती हैं?",
+    "options": [
+      "1. केवल संक्रिया 1, 2 और 3",
+      "2. केवल संक्रिया 1 और 4",
+      "3. केवल संक्रिया 2 और 4",
+      "4. संक्रिया 1, 2, 3 और 4"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Match each language type with the program that translates it into machine code or prepares it for machine execution. <br> <br> Assembly language<br>High-level language (compiled)<br>Machine language<br><br>A. Compiler<br>B. Assembler<br>C. Requires no translation <br>Which matching is correct?",
+    "options": [
+      "1. 1-A, 2-B, 3-C",
+      "2. 1-B, 2-A, 3-C",
+      "3. 1-C, 2-A, 3-B",
+      "4. 1-B, 2-C, 3-A"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "प्रत्येक लैंग्वेज प्रकार का उस प्रोग्राम से मिलान करें जो उसे मशीन कोड में अनुवाद करता है अथवा मशीन द्वारा निष्पादन योग्य बनाता है। <br> <br>असेंबली लैंग्वेज <br>हाई-लेवल लैंग्वेज (कंपाइल्ड) <br>मशीन लैंग्वेज <br> <br>A. कंपाइलर <br> B. असेंबलर <br>C. किसी अनुवाद की आवश्यकता नहीं",
+    "options": [
+      "1. 1-A, 2-B, 3-C",
+      "2. 1-B, 2-A, 3-C",
+      "3. 1-C, 2-A, 3-B",
+      "4. 1-B, 2-C, 3-A"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A student compares two types of computers. One type uses vacuum tubes, produces more heat, and requires more maintenance. The other type uses transistors, consumes less power, and is more reliable. Which conclusion can be drawn from this comparison?",
+    "options": [
+      "1. Both types belong to the same generation of computers.",
+      "2. The transistor-based computers belong to a later generation than vacuum tube-based computers.",
+      "3. Vacuum tube-based computers are more advanced than transistor-based computers.",
+      "4. Transistors were introduced before vacuum tubes in computer development."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक विद्यार्थी दो प्रकार के कंप्यूटरों की तुलना करता है। एक प्रकार का कंप्यूटर, वैक्यूम ट्यूब्स का उपयोग करता है, अधिक ऊष्मा उत्पन्न करता है, और अधिक अनुरक्षण की आवश्यकता होती है। दूसरा प्रकार का कंप्यूटर ट्रांजिस्टरों का उपयोग करता है, कम पावर खपत करता है, और अधिक विश्वसनीय है। इस तुलना से कौन-सा निष्कर्ष निकाला जा सकता है?",
+    "options": [
+      "1. दोनों प्रकार के कंप्यूटर, समान जनरेशन के कंप्यूटर से संबंधित हैं।",
+      "2. ट्रांजिस्टर-आधारित कंप्यूटर, वैक्यूम ट्यूब-आधारित कंप्यूटरों की तुलना में बाद की पीढ़ी से संबंधित हैं।",
+      "3. वैक्यूम ट्यूब-आधारित कंप्यूटर, ट्रांजिस्टर-आधारित कंप्यूटरों की तुलना में अधिक उन्नत हैं।",
+      "4. कंप्यूटर के विकास में ट्रांजिस्टर, वैक्यूम ट्यूब्स से पहले आए थे।"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A memory card has 2 GB of usable space. Treating 1 GB as 1024 MB, how many 4 MB photo files can be stored?",
+    "options": [
+      "512",
+      "256",
+      "1024",
+      "500"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "किसी मेमोरी कार्ड में 2 GB उपयोज्य स्थान (usable space) है। 1 GB को 1024 MB मानते हुए, 4 MB की कितनी फोटो फाइलें स्टोर की जा सकती हैं?",
+    "options": [
+      "512",
+      "256",
+      "1024",
+      "500"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "An organization needs a secondary storage device for laptops used by employees who frequently travel. The device should provide fast data access, consume less power, and be resistant to physical shocks. Which storage device would be the most suitable choice?",
+    "options": [
+      "1. Hard Disk Drive (HDD), because it provides large storage capacity at a lower cost.",
+      "2. Solid State Drive (SSD), because it has no moving parts, provides faster data access, and consumes less power.",
+      "3. Magnetic Tape, because it can store large amounts of data for backup purposes.",
+      "4. Optical Disc, because it can be used for portable data storage and distribution."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक संगठन को उन कर्मचारियों द्वारा उपयोग किए जाने वाले लैपटॉप के लिए एक सेकंडरी स्टोरेज डिवाइस की आवश्यकता है जो अक्सर यात्रा करते हैं। डिवाइस को तीव्र डेटा एक्सेस प्रदान करना चाहिए, कम पावर खपत करनी चाहिए तथा फिजिकल झटकों से कम प्रभावित होना चाहिए। निम्नलिखित में से कौन-सा स्टोरेज डिवाइस सबसे उपयुक्त होगा?",
+    "options": [
+      "1. हार्ड डिस्क ड्राइव (HDD), क्योंकि यह कम लागत पर अधिक स्टोरेज क्षमता प्रदान करती है।",
+      "2. सॉलिड स्टेट ड्राइव (SSD), क्योंकिक्यों इसमें कोई मूविंग पार्ट्स नहीं होते, यह तीव्र डेटा एक्सेस प्रदान करती है तथा कम पावर खपत करती है।",
+      "3. मैग्नेटिक टेप, क्योंकि यह बैकअप के लिए बड़ी मात्रा में डेटा संग्रहीत कर सकता है।",
+      "4. ऑप्टिकल डिस्क, क्योंकि  इसका उपयोग पोर्टेबल डेटा स्टोरेज और वितरण के लिए किया जा सकता है।"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following file-management activities helps reduce the storage space required by a file?",
+    "options": [
+      "1. Renaming the file",
+      "2. Compressing the file",
+      "3. Printing the file",
+      "4. Copying the file"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सी फाइल-मैनेजमेंट गतिविधि किसी फाइल के लिए आवश्यक स्टोरेज स्थान (storage space) को कम करने में सहायता करती है?",
+    "options": [
+      "1. फाइल को रीनेम करना",
+      "2. फाइल को कंप्रेस करना",
+      "3. फाइल को प्रिंट करना",
+      "4. फाइल को कॉपी करना"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A newly connected printer is not recognised until the user installs a specific small program supplied by the printer maker, after which the operating system can communicate with it. This program belongs to which software category, and why?",
+    "options": [
+      "1. Application software, because the user chose to install it",
+      "2. Firmware, because it is permanently stored inside the printer's chip",
+      "3. A utility, because it cleans up temporary files",
+      "4. A device driver, because it is system software that lets the operating system control a specific hardware device"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "नया कनेक्ट किया गया एक प्रिंटर तब तक पहचाना नहीं जाता जब तक उपयोगकर्ता प्रिंटर निर्माता द्वारा दिया गया एक विशिष्ट छोटा प्रोग्राम इंस्टॉल नहीं करता, जिसके बाद ऑपरेटिंग सिस्टम उससे कम्युनिकेट कर सकता है। यह प्रोग्राम किस सॉफ्टवेयर श्रेणी से संबंधित है, और क्यों?क्यों",
+    "options": [
+      "1. एप्लिकेशन सॉफ्टवेयर, क्योंकिक्यों उपयोगकर्ता ने इसे इंस्टॉल करना चुना",
+      "2. फर्मवेयर, क्योंकिक्यों यह प्रिंटर की चिप के अंदर स्थायी रूप से स्टोर होता है",
+      "3. एक यूटिलिटी, क्योंकिक्यों यह अस्थायी फाइलों को क्लीन करता है",
+      "4. एक डिवाइस ड्राइवर, क्योंकि यह ऐसा सिस्टम सॉफ्टवेयर है जो ऑपरेटिंग सिस्टम को किसी विशिष्ट हार्डवेयर डिवाइस को कंट्रोल करने देता है"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following file extensions is normally used for a compressed audio (sound) file?",
+    "options": [
+      "1. .docx",
+      "2. .mp3",
+      "3. .png",
+      "4. .xlsx"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा फाइल एक्सटेंशन सामान्यतः किसी कंप्रेस्ड ऑडियो (साउंड) फाइल के लिए उपयोग किया जाता है?",
+    "options": [
+      "1. .docx",
+      "2. .mp3",
+      "3. .png",
+      "4. .xlsx"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Duplex printing prints on ______ of each sheet of paper.",
+    "options": [
+      "1. only the top half",
+      "2. only one side",
+      "3. both sides",
+      "4. the edges"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "डुप्लेक्स प्रिंटिंग (Duplex Printing) कागज़ की प्रत्येक शीट के ______ पर प्रिंट करती है।",
+    "options": [
+      "1. केवल ऊपरी आधे भाग",
+      "2. केवल एक तरफ",
+      "3. दोनों तरफ",
+      "4. किनारों पर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "You will step away from your computer for a short break and want it to save energy but resume almost instantly when you return. Which option is most appropriate?",
+    "options": [
+      "1. Perform a full shutdown and cold start later",
+      "2. Unplug the power cable from the wall",
+      "3. Put the computer into Sleep mode",
+      "4. Reduce the screen resolution to the lowest setting"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "आप थोड़े ब्रेक के लिए अपने कंप्यूटर से दूर जाएंगे और चाहते हैं कि यह ऊर्जा बचाए लेकिन लौटने पर लगभग तुरंत रिज़्यूम हो जाए। कौन-सा विकल्प सर्वाधिक उपयुक्त है?",
+    "options": [
+      "1. पूरा शटडाउन करें और बाद में कोल्ड स्टार्ट करें",
+      "2. पावर केबल को दीवार से अनप्लग करें",
+      "3. कंप्यूटर को स्लीप मोड में डालें",
+      "4. स्क्रीन रिज़ॉल्यूशन को न्यूनतम सेटिंग तक कम करें"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Assertion (A): You should not use the same password for many different accounts. <br>Reason (R): If one site is breached, a reused password lets attackers access your other accounts too. <br>Choose the correct option.",
+    "options": [
+      "1. Both A and R are true, and R correctly explains A",
+      "2. Both A and R are true, but R does not explain A",
+      "3. A is true but R is false",
+      "4. A is false but R is true"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "अभिकथन (A): आपको कई अलग-अलग अकाउंट्स के लिए एक ही पासवर्ड का उपयोग नहीं करना चाहिए। <br> कारण (R): यदि किसी एक साइट का ब्रीच हो जाए, तो पुनः उपयोग किया गया पासवर्ड हमलावरों को आपके अन्य अकाउंट्स तक भी एक्सेस दे देता है। <br> सही विकल्प का चयन कीजिए।",
+    "options": [
+      "1. A और R दोनों सत्य हैं, और R, A की सही व्याख्या करता है",
+      "2. A और R दोनों सत्य हैं, किंतु R, A की व्याख्या नहीं करता है",
+      "3. A सत्य है किंतु R असत्य है",
+      "4. A असत्य है किंतु R सत्य है"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "You saved a report weeks ago but cannot remember which folder it is in. You do remember part of its name. What is the fastest way to find it?",
+    "options": [
+      "1. Reinstall the application that created the file",
+      "2. Restart the computer several times",
+      "3. Create a brand-new file with the same name",
+      "4. Use the file manager's search box and type part of the file name"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "आपने कुछ सप्ताह पहले एक रिपोर्ट सेव की थी लेकिन आपको याद नहीं कि वह किस फोल्डर में है। आपको उसके नाम का कुछ भाग याद है। इसे खोजने का सबसे त्वरित तरीका क्या है?",
+    "options": [
+      "1. उस एप्लिकेशन को फिर से इंस्टॉल करें जिसने फाइल बनाई थी",
+      "2. कंप्यूटर को कई बार रीस्टार्ट करें",
+      "3. उसी नाम से एक बिल्कुल नई फाइल बनाएं",
+      "4. फाइल मैनेजर के सर्च बॉक्स का उपयोग करें और फाइल के नाम का कुछ भाग टाइप करें"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In Windows 11, which built-in location lets a user preview the live video feed and confirm that a newly connected webcam is actually capturing images?",
+    "options": [
+      "1. Settings → System → Cameras",
+      "2. Settings → Bluetooth & devices → Cameras",
+      "3. Settings → Network & internet → Cameras",
+      "4. Settings → Personalization → Cameras"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Windows 11 में, कौन-सा बिल्ट-इन लोकेशन यूज़र को लाइव वीडियो फ़ीड (live video feed) प्रीव्यू करने और यह कन्फ़र्म करने की सुविधा देता है कि नया कनेक्ट किया गया वेबकैम वाकई इमेज कैप्चर कर रहा है?",
+    "options": [
+      "1. Settings → System → Cameras",
+      "2. Settings → Bluetooth & devices → Cameras",
+      "3. Settings → Network & internet → Cameras",
+      "4. Settings → Personalization → Cameras"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Items on your screen look too small and you want to make text and icons larger. In which system settings area would you normally change this?",
+    "options": [
+      "1. Display settings",
+      "2. Network settings",
+      "3. Printer settings",
+      "4. Date and time settings"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "आपकी स्क्रीन पर आइटम बहुत छोटे दिखते हैं और आप टेक्स्ट और आइकन को बड़ा करना चाहते हैं। सामान्यतः किस सिस्टम सेटिंग्स क्षेत्र में आप इसे बदलेंगे?",
+    "options": [
+      "1. डिस्प्ले सेटिंग्स (Display settings)",
+      "2. नेटवर्क सेटिंग्स (Network settings)",
+      "3. प्रिंटर सेटिंग्स (Printer settings)",
+      "4. डेट और टाइम सेटिंग्स (Date and time settings)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A computer that used to start quickly now takes several minutes to become usable after logging in, and many programs open on their own at startup. What is the most likely cause?",
+    "options": [
+      "1. The monitor cable has become loose",
+      "2. Too many applications are set to launch automatically at startup",
+      "3. The keyboard driver is missing",
+      "4. The printer is switched off"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक कंप्यूटर जो पहले जल्दी स्टार्ट होता था, अब लॉग इन करने के बाद उपयोग करने योग्य होने में कई मिनट लेता है, और स्टार्टअप पर कई प्रोग्राम स्वतः ओपन हो जाते हैं। सबसे संभावित कारण क्या है?",
+    "options": [
+      "1. मॉनिटर केबल ढीली हो गई है",
+      "2. बहुत सारे एप्लिकेशन स्टार्टअप पर स्वचालित रूप से लॉन्च होने के लिए सेट हैं",
+      "3. कीबोर्ड ड्रा इवर मिसिंग है",
+      "4. प्रिंटर स्विच ऑफ है"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "You download a Microsoft Word document from an email link. When you open it, a yellow security warning appears asking you to \"Enable Content\". The sender is not verified. What is the safest action?",
+    "options": [
+      "1. Click \"Enable Content\" immediately so the document displays fully.",
+      "2. Print the document to remove any hidden code.",
+      "3. Do not enable content; verify the sender and scan the file, since enabling content may run hidden macros.",
+      "4. Change the file name to make the warning disappear."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "आप किसी ईमेल लिंक से एक Microsoft Word डॉक्यूमेंट डाउनलोड करते हैं। उसे खोलने पर एक पीली सुरक्षा चेतावनी दिखाई देती है, जो \"Enable Content\" करने के लिए कहती है। भेजने वाला सत्यापित नहीं है। सबसे सुरक्षित कार्य क्या है?",
+    "options": [
+      "1. तुरंत \"Enable Content\" पर क्लिक करें ताकि डॉक्यूमेंट पूरी तरह दिखाई दे।",
+      "2. किसी छिपे हुए कोड को हटाने के लिए डॉक्यूमेंट को प्रिंट करें।",
+      "3. कंटेंट इनेबल न करें; भेजने वाले को सत्यापित करें और फाइल को स्कैन करें, क्योंकिक्यों कंटेंट इनेबल करने से छिपे हुए मैक्रो चल सकते हैं।",
+      "4. चेतावनी को हटाने के लिए फाइल का नाम बदल दें।"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Analyse the network configuration displayed in the image. Which pair correctly identifies the address assigned to the computer’s Ethernet interface and the address used to forward packets to devices outside the local network? <br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuVpme1DQZuz05LiIXsKjUndneGUSIwtDq4zEIM7I3U5c9-5H4tGQx_TVN_h9ZP98iabeJKt9PijKYCzYJ8pnM7btkX1uzAcX_cUHkI9YVJIXzOXc9K6RQmpbM3uoUCNYFmlyc2Q33a8ARYOm8Qiqtfb4AOfv84fx5gce59F_OKhKDPhyphenhyphenorB0Uc8Iki9Ya/s320/012%20ff.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. 192.168.15.42 and 192.168.15.1",
+      "2. 192.168.15.1 and 192.168.15.42",
+      "3. 192.168.15.10 and 255.255.255.0",
+      "4. 255.255.255.0 and 192.168.15.10"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "इमेज में प्रदर्शित नेटवर्क कॉन्फ़िगरेशन का विश्लेषण करें। कौन-सा युग्म, कंप्यूटर के ईथरनेट इंटरफेस को असाइन किए गए एड्रेस और लोकल नेटवर्क के बाहर के डिवाइसों तक पैकेट फॉरवर्ड करने के लिए उपयोग किए जाने वाले एड्रेस की सही पहचान करता है? <br> <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuVpme1DQZuz05LiIXsKjUndneGUSIwtDq4zEIM7I3U5c9-5H4tGQx_TVN_h9ZP98iabeJKt9PijKYCzYJ8pnM7btkX1uzAcX_cUHkI9YVJIXzOXc9K6RQmpbM3uoUCNYFmlyc2Q33a8ARYOm8Qiqtfb4AOfv84fx5gce59F_OKhKDPhyphenhyphenorB0Uc8Iki9Ya/s320/012%20ff.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. 192.168.15.42 और 192.168.15.1",
+      "2. 192.168.15.1 और 192.168.15.42",
+      "3. 192.168.15.10 और 255.255.255.0",
+      "4. 255.255.255.0 और 192.168.15.10"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A colleague keeps postponing operating-system and application security updates because they are 'annoying'. Why is promptly installing these updates the safer practice?",
+    "options": [
+      "1. Updates only change the desktop wallpaper and icons",
+      "2. Updates often patch known security vulnerabilities that attackers actively exploit",
+      "3. Updates permanently delete all personal files for safety",
+      "4. Updates make the computer run slower on purpose"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक सहकर्मी ऑपरेटिंग-सिस्टम और एप्लिकेशन सुरक्षा अपडेट को 'परेशान करने वाले (annoying)' मानकर बार-बार टालता रहता है। इन अपडेट को तुरंत इंस्टॉल करना अधिक सुरक्षित अभ्यास क्यों है?",
+    "options": [
+      "1. अपडेट केवल डेस्कटॉप वॉलपेपर और आइकन बदलते हैं",
+      "2. अपडेट अक्सर ज्ञात सुरक्षा सुभेद्यताओं (vulnerabilities) ओं को पैच करते हैं जिनका हमलावर सक्रिय रूप से फायदा उठाते हैं",
+      "3. अपडेट सुरक्षा के लिए सभी निजी फाइलों को स्थायी रूप से डिलीट कर देते हैं",
+      "4. अपडेट जानबूझकर कंप्यूटर को धीमा रन करते हैं"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A user zips a folder of JPEG photos and is surprised the ZIP is barely smaller than the originals. Considering how compression works, which statement is INCORRECT?",
+    "options": [
+      "1. Zipping always halves the size of any file, including JPEG images",
+      "2. JPEG files are already compressed, so little further reduction is possible",
+      "3. ZIP works best on files with a lot of repetition, such as plain text",
+      "4. Bundling the photos into one ZIP can still make them easier to share as a single file"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एक उपयोगकर्ता JPEG फोटो वाले एक फोल्डर को ज़िप करता है और यह देखकर हैरान होता है कि ZIP फोल्डर का साइज, मूल फाइलों के साइज से थोड़ी ही कम है। कंप्रेशन के काम करने के तरीके पर विचार करते हुए, कौन-सा कथन गलत है?",
+    "options": [
+      "1. ज़िप करना, JPEG इमेज सहित किसी भी फाइल के साइज को हमेशा आधा कर देता है",
+      "2. JPEG फाइलें पहले से ही कंप्रेस्ड होती हैं, इसलिए इन्हें और कम करना बहुत कम संभव होता है",
+      "3. ZIP उन फाइलों पर सर्वोत्तम काम करता है जिनमें प्लेन टेक्स्ट जैसे बहुत अधिक दोहराव हो",
+      "4. फोटो को एक ZIP में बंडल करने से उन्हें एकल फाइल के रूप में शेयर करना फिर भी आसान हो जाता है"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Evaluate the following methods of removing installed software: <br><br>1. Use the operating system’s application-management facility or the software’s authorised uninstaller. <br>2. Confirm that the software is not required by another application or user. <br>3. Delete only the software’s main installation folder and assume that the software has been completely removed. <br>4. Preserve required user data or configuration files before beginning the removal process. <br><br>Which option identifies the appropriate methods?",
+    "options": [
+      "1. Methods 1 and 3 only",
+      "2. Methods 2 and 4 only",
+      "3. Methods 1, 2 and 4 only",
+      "4. Methods 1, 2, 3 and 4"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "इंस्टॉल किए गए सॉफ्टवेयर को हटाने के निम्नलिखित तरीकों का मूल्यांकन करें: <br><br>1. ऑपरेटिंग सिस्टम की एप्लिकेशन-मैनेजमेंट सुविधा या सॉफ्टवेयर के अधिकृत अनइंस्टॉलर का उपयोग करें। <br> 2. यह पुष्टि करें कि सॉफ्टवेयर किसी अन्य एप्लिकेशन या उपयोगकर्ता द्वारा आवश्यक नहीं है। <br>3. केवल सॉफ्टवेयर का मुख्य इंस्टॉलेशन फोल्डर डिलीट करें और यह मान लें कि सॉफ्टवेयर पूरी तरह हट गया है। <br> 4. हटाने की प्रक्रिया शुरू करने से पहले आवश्यक उपयोगकर्ता डेटा या कॉन्फ़िगरेशन फाइलों को सुरक्षित रखें। <br>कौन-सा विकल्प उपयुक्त तरीकों की पहचान करता है?",
+    "options": [
+      "1. केवल तरीका 1 और 3",
+      "2. केवल तरीका 2 और 4",
+      "3. केवल तरीका 1, 2 और 4",
+      "4. तरीका 1, 2, 3 और 4"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "You must design a backup plan for critical files that survives hardware failure, theft, and ransomware. Which plan best follows recognised best practice?",
+    "options": [
+      "1. Keep a single copy on the same hard disk in another folder",
+      "2. Keep all copies on one external drive left permanently connected",
+      "3. Rely only on the Recycle Bin to recover any lost files",
+      "4. Keep three copies of the data, on two different media types, with at least one copy stored off-site or offline"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "आपको ऐसी महत्वपूर्ण फाइलों के लिए एक बैकअप योजना बनानी है जो हार्डवेयर विफलता, चोरी और रैंसमवेयर से बची रहे। कौन-सी योजना मान्यता प्राप्त सर्वोत्तम अभ्यास का सर्वोत्तम रूप से अनुपालन करती है?",
+    "options": [
+      "1. समान हार्ड डिस्क पर किसी अन्य फोल्डर में एकल कॉपी रखें",
+      "2. सभी कॉपी को एक ही एक्सटर्नल ड्रा इव पर रखें जो स्थायी रूप से कनेक्टेड हो",
+      "3. खोई हुई फाइलों को रिकवर करने के लिए केवल रीसायकल बिन (Recycle Bin) पर निर्भर रहें",
+      "4. डेटा की तीन कॉपी रखें, दो अलग-अलग मीडिया प्रकारों पर, जिसमें कम से कम एक कॉपी ऑफ-साइट या ऑफलाइन स्टोर हो"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "During the initial setup of a powered-off desktop computer, why is it useful to connect essential peripherals before the first startup?",
+    "options": [
+      "1. It enables the operating system and firmware to detect connected hardware during initialization and load the required support for the devices.",
+      "2. It permanently stores the peripheral devices in the processor’s cache memory before the operating system loads.",
+      "3. It allows the power supply unit to assign separate operating-system partitions to all connected devices.",
+      "4. It prevents the BIOS or UEFI firmware from performing the Power-On Self-Test."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "पावर ऑफ किए गए डेस्कटॉप कंप्यूटर के प्रारंभिक सेटअप के दौरान, उसे पहली बार स्टार्ट करने से पहले आवश्यक पेरिफेरल डिवाइस कनेक्ट करना क्यों उपयोगी होता है?",
+    "options": [
+      "1. यह ऑपरेटिंग सिस्टम और फर्मवेयर को इनिशियलाइज़ेशन के दौरान कनेक्टेड हार्डवेयर को डिटेक्ट करने और डिवाइसों के लिए आवश्यक सपोर्ट लोड करने में सक्षम बनाता है।",
+      "2. यह ऑपरेटिंग सिस्टम लोड होने से पहले पेरिफेरल डिवाइसों को प्रोसेसर की कैश मेमोरी में स्थायी रूप से स्टोर करता है।",
+      "3. यह पावर सप्लाई यूनिट को सभी कनेक्टेड डिवाइसों के लिए अलग-अलग ऑपरेटिंग-सिस्टम पार्टीशन असाइन करने देता है।",
+      "4. यह BIOS या UEFI फर्मवेयर को पावर-ऑन सेल्फ-टेस्ट करने से रोकता है।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In an email application, what is the main purpose of placing an address in the BCC field?",
+    "options": [
+      "1. It gives the recipient permission to edit the original message",
+      "2. It automatically encrypts the message before it is sent",
+      "3. It sends a copy to a recipient while hiding that address from all other recipients",
+      "4. It marks the message as high importance for that recipient"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "किसी ईमेल एप्लिकेशन में, BCC फील्ड में कोई एड्रेस रखने का मुख्य उद्देश्य क्या है?",
+    "options": [
+      "1. यह प्राप्तकर्ता को मूल संदेश एडिट करने की अनुमति देता है",
+      "2. यह भेजने से पहले संदेश को स्वचालित रूप से एन्क्रिप्ट करता है",
+      "3. यह किसी प्राप्तकर्ता को एक कॉपी भेजता है जबकि उस एड्रेस को अन्य सभी प्राप्तकर्ताओं से छिपाता है",
+      "4. यह उस प्राप्तकर्ता के लिए संदेश को उच्च महत्व के रूप में चिह्नित करता है"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "On a connection with a fixed speed, a larger file will generally take ______ time to transfer than a smaller file.",
+    "options": [
+      "1. more",
+      "2. less",
+      "3. the same",
+      "4. no"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "किसी निश्चित गति वाले कनेक्शन पर, एक बड़ी फाइल को ट्रां सफर होने में सामान्यतः किसी छोटी फाइल की तुलना में ________।",
+    "options": [
+      "1. अधिक समय लगेगा",
+      "2. कम समय लगेगा",
+      "3. समान समय लगेगा",
+      "4. कोई समय नहीं लगेगा"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which web search technique will return results that contain EITHER the word 'laptop' OR the word 'notebook'?",
+    "options": [
+      "1. Typing: laptop -notebook",
+      "2. Typing: laptop OR notebook",
+      "3. Typing: \"laptop notebook\"",
+      "4. Typing: laptop AND notebook"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कौन-सी वेब सर्च तकनीक ऐसे परिणाम देगी जिनमें 'laptop' शब्द या 'notebook' शब्द में से कोई एक हो?",
+    "options": [
+      "1. टाइप करना: laptop -notebook",
+      "2. टाइप करना: laptop OR notebook",
+      "3. टाइप करना: \"laptop notebook\"",
+      "4. टाइप करना: laptop AND notebook"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In a spreadsheet (MS-Excel 2019), which function counts only the cells in a range that contain numbers?",
+    "options": [
+      "1. COUNTA",
+      "2. SUM",
+      "3. COUNT",
+      "4. LEN"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "किसी स्प्रेडशीट (MS-Excel 2019) में, कौन-सा फंक्शन किसी रेंज में केवल उन सेल को गिनता है जिनमें संख्याएं होती हैं?",
+    "options": [
+      "1. COUNTA",
+      "2. SUM",
+      "3. COUNT",
+      "4. LEN"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "When you increase the number of displayed decimal places for a cell, the value shown changes but the ______ stored in the cell stays the same in MS-Excel.",
+    "options": [
+      "1. cell reference",
+      "2. underlying (actual) value",
+      "3. column width",
+      "4. formula name"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "जब आप किसी सेल के लिए प्रदर्शित दशमलव स्थानों की संख्या बढ़ाते हैं, तो दिखाया गया मान बदल जाता है लेकिन MS-Excel में सेल में स्टोर की गई/किए गए ______ वही रहता/रहती है।",
+    "options": [
+      "1. सेल रेफरेंस",
+      "2. अंतर्निहित (वास्तविक) वैल्यू",
+      "3. कॉलम चौड़ाई",
+      "4. फॉर्मूला नाम"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which keyboard shortcut reverses (undoes) your most recent action in most spreadsheet and document programs in MS-Office?",
+    "options": [
+      "1. Ctrl + Y",
+      "2. Ctrl + Z",
+      "3. Ctrl + P",
+      "4. Ctrl + F"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Office में अधिकांश स्प्रेडशीट और डॉक्यूमेंट प्रोग्रामों में कौन-सा कीबोर्ड शॉर्टकट आपके सबसे हालिया कार्य को रिवर्स (अनडू) करता है?",
+    "options": [
+      "1. Ctrl + Y",
+      "2. Ctrl + Z",
+      "3. Ctrl + P",
+      "4. Ctrl + F"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Consider these statements about lists in a word processor. Which statement is correct?",
+    "options": [
+      "1. A bulleted list should always be used for steps that must be done in order",
+      "2. Numbered and bulleted lists are identical and interchangeable in every situation",
+      "3. A numbered list is preferred when the order of the items matters, such as steps in a procedure",
+      "4. A numbered list should be used only when items have no relationship to each other"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "किसी वर्ड प्रोसेसर में लिस्ट के बारे में इन कथनों पर विचार करें। कौन-सा कथन सही है?",
+    "options": [
+      "1. क्रम में किए जाने वाले चरणों के लिए हमेशा बुलेटेड लिस्ट का उपयोग किया जाना चाहिए",
+      "2. नंबर्ड और बुलेटेड लिस्ट हर स्थिति में एक समान और परस्पर विनिमेय होती हैं",
+      "3. नंबर्ड लिस्ट को तब प्राथमिकता दी जाती है जब आइटम का क्रम महत्वपूर्ण हो, जैसे किसी प्रक्रिया के चरण",
+      "4. नंबर्ड लिस्ट का उपयोग केवल तभी किया जाना चाहिए जब आइटम का एक-दूसरे से कोई संबंध न हो"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "You have finished a document in MS-Word and want to email it so that it looks exactly the same on every device and cannot be easily altered. What is the most appropriate action?",
+    "options": [
+      "1. Send the document as a plain text (.txt) file",
+      "2. Take a photograph of the screen and send the image",
+      "3. Copy the text into the body of the email only",
+      "4. Export or save the document as a PDF and send that file"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "आपने MS-Word में एक डॉक्यूमेंट पूरा कर लिया है और उसे ईमेल करना चाहते हैं ताकि वह हर डिवाइस पर बिल्कुल वैसा ही दिखे और उसमें आसानी से कोई बदलाव न किया जा सके। सबसे उपयुक्त कार्य क्या है?",
+    "options": [
+      "1. डॉक्यूमेंट को प्लेन टेक्स्ट (.txt) फाइल के रूप में भेजें",
+      "2. स्क्रीन की फोटो लें और इमेज भेजें",
+      "3. टेक्स्ट को केवल ईमेल के बॉडी में कॉपी करें",
+      "4. डॉक्यूमेंट को PDF के रूप में एक्सपोर्ट या सेव करें और वह फाइल भेजें"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "What information does the Word Count tool in MS-Word primarily provide?",
+    "options": [
+      "1. The number of spelling mistakes remaining in the document",
+      "2. The number of words (and often characters and pages) in the document",
+      "3. The number of times the document has been printed",
+      "4. The number of people who have opened the document"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Word में वर्ड काउंट (Word Count) टूल मुख्य रूप से क्या जानकारी प्रदान करता है?",
+    "options": [
+      "1. डॉक्यूमेंट में बची हुई स्पेलिंग की गलतियों की संख्या",
+      "2. डॉक्यूमेंट में शब्दों की संख्या (और अक्सर कैरेक्टर और पेज)",
+      "3. डॉक्यूमेंट के प्रिंट किए जाने की संख्या",
+      "4. डॉक्यूमेंट को ओपन करने वाले व्यक्तियों की संख्या"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In Microsoft PowerPoint 2019, what is the main purpose of the speaker notes attached to a slide?",
+    "options": [
+      "1. To display large captions to the audience during the show",
+      "2. To permanently lock the slide so it cannot be edited",
+      "3. To automatically translate the slide into another language",
+      "4. To give the presenter private prompts that the audience does not see on screen"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Microsoft PowerPoint 2019 में, किसी स्लाइड के साथ जुड़े स्पीकर नोट्स (speaker notes) का मुख्य उद्देश्य क्या होता है?",
+    "options": [
+      "1. शो (show) के दौरान दर्शकों के लिए बड़े कैप्शन प्रदर्शित करना",
+      "2. स्लाइड को स्थायी रूप से लॉक करना ताकि उसे एडिट न किया जा सके",
+      "3. स्लाइड को स्वचालित रूप से किसी अन्य भाषा में अनुवाद करना",
+      "4. प्रस्तुतकर्ता को ऐसे प्राइवेट प्रॉम्प्ट (prompt) देना जिन्हें दर्शक स्क्रीन पर न देख सकें"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A table in your document is full and you need one more empty row at the bottom. What is the simplest correct action in MS-Word?",
+    "options": [
+      "1. Place the cursor in the last cell and press the Tab key, or use the Insert Row option",
+      "2. Delete the whole table and type it again with one extra row",
+      "3. Change the page orientation to landscape",
+      "4. Increase the font size of the last row"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "आपके डॉक्यूमेंट में एक टेबल भरी हुई है और आपको सबसे नीचे एक और खाली पंक्ति (row) की आवश्यकता है। MS-Word में सबसे सरल सही कार्य क्या है?",
+    "options": [
+      "1. कर्सर को अंतिम सेल में रखें और Tab कुंजी दबाएं, या Insert Row विकल्प का उपयोग करें",
+      "2. पूरी टेबल को डिलीट करें और एक अतिरिक्त पंक्ति के साथ फिर से टाइप करें",
+      "3. पेज ओरिएंटेशन को लैंडस्केप में बदलें",
+      "4. अंतिम पंक्ति का फॉन्ट साइज बढ़ाएं"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS-Excel, a formula uses the lookup table in cells B2:C10 and is entered as =VLOOKUP(E2, B2:C10, 2, FALSE). When this formula is copied down the column, the results become wrong because the table range keeps shifting (e.g., it changes to B3:C11, B4:C12, and so on). Which change fixes this problem?",
+    "options": [
+      "1. Convert every value in the table to text first",
+      "2. Delete the header row of the lookup table",
+      "3. Change the column width of the table",
+      "4. Lock the table range as an absolute reference"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel में एक फॉर्मूला, सेल्स B2:C10 की लुकअप टेबल का उपयोग करता है और उसे =VLOOKUP(E2, B2:C10, 2, FALSE) के रूप में लिखा गया है। जब इस फॉर्मूले को कॉलम में नीचे की ओर कॉपी किया जाता है, तो रिज़ल्ट गलत आने लगते हैं क्योंकिक्यों टेबल की रेंज बार-बार शिफ्ट हो जाती है (जैसे वह B3:C11, B4:C12 आदि में बदल जाती है)। कौन-सा बदलाव इस समस्या को ठीक करता है?",
+    "options": [
+      "1. पहले टेबल के हर मान को टेक्स्ट में बदलें",
+      "2. लुकअप टेबल की हेडर पंक्ति को डिलीट करें",
+      "3. टेबल की कॉलम चौड़ाई बदलें",
+      "4. टेबल रेंज को एब्सोल्यूट रेफरेंस के रूप में लॉक करें"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A single month's household budget is split into four spending categories that add up to 100% of that month's spending. Which chart type best communicates each category's share of the whole in MS-Excel?",
+    "options": [
+      "1. A line chart",
+      "2. A pie chart",
+      "3. A scatter chart",
+      "4. A stacked area chart across many years"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक महीने के घरेलू बजट को चार खर्च श्रेणियों में बांटा जाता है जो उस महीने के खर्च का 100% बनती हैं। MS-Excel में कौन-सा चार्ट प्रकार प्रत्येक श्रेणी के संपूर्ण में हिस्से को सर्वोत्तम रूप से दर्शाता है?",
+    "options": [
+      "1. एक लाइन चार्ट",
+      "2. एक पाई चार्ट",
+      "3. एक स्कैटर चार्ट",
+      "4. कई वर्षों में फैला एक स्टैक्ड एरिया चार्ट"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "You find two pages that answer a technical question in a web search. To decide which information is more trustworthy and up to date, which check is most important?",
+    "options": [
+      "1. Check the last-updated/publication date and whether it is an official documentation source",
+      "2. Choose whichever page has more colourful advertisements",
+      "3. Choose whichever page appears first regardless of who published it",
+      "4. Choose whichever page is the longest"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "आपको वेब सर्च में दो पेज मिलते हैं जो किसी तकनीकी प्रश्न का उत्तर देते हैं। यह तय करने के लिए कि कौन-सी जानकारी अधिक विश्वसनीय और अद्यतन है, कौन-सी जांच सबसे महत्वपूर्ण है?",
+    "options": [
+      "1. लास्ट-अपडेटेड/प्रकाशन तिथि जांच करें और यह जांच करें कि क्या यह एक आधिकारिक डॉक्यूमेंटेमेंटेशन स्रोत है",
+      "2. जिस पेज पर अधिक रंगीन विज्ञापन हों उसे चुनें",
+      "3. जो पेज पहले दिखाई दे उसे चुनें, चाहे उसे किसी ने भी प्रकाशित किया हो",
+      "4. जो पेज सबसे लंबा हो उसे चुनें"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "You are designing a one-page newsletter and want the body text to flow in two side-by-side vertical columns like a newspaper. Which layout feature should you use in MS-Word 2019?",
+    "options": [
+      "1. Apply a two-column page layout to the text",
+      "2. Insert a two-cell table and type into each cell",
+      "3. Press the space bar repeatedly to create a gap",
+      "4. Reduce the font size until text splits by itself"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "आप एक-पेज का न्यूज़लेटर डिज़ाइन कर रहे हैं और चाहते हैं कि बॉडी टेक्स्ट किसी अखबार की तरह दो साथ-साथ (side-by-side) लंबवत कॉलमों में प्रवाहित हो। MS-Word 2019 में आपको कौन-सा लेआउट फीचर उपयोग करना चाहिए?",
+    "options": [
+      "1. टेक्स्ट पर दो-कॉलम पेज लेआउट लागू करें",
+      "2. दो-सेल वाली टेबल इन्सर्ट करें और प्रत्येक सेल में टाइप करें",
+      "3. गैप बनाने के लिए स्पेस बार बार-बार दबाएं",
+      "4. फॉन्ट साइज तब तक कम करें जब तक टेक्स्ट स्वयं विभाजित न हो जाए"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A spreadsheet has hundreds of rows and you keep losing sight of the column headings while scrolling down. Which feature best keeps the heading row on screen at all times in MS-Excel 2019?",
+    "options": [
+      "1. Hide the top row",
+      "2. Freeze the top row (Freeze Panes)",
+      "3. Merge all header cells into one",
+      "4. Sort the data by the first column"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "किसी स्प्रेडशीट में सैकड़ों पंक्तियां (rows) हैं और नीचे स्क्रॉल करते समय आप बार-बार कॉलम हेडिंग देख नहीं पाते। MS-Excel 2019 में कौन सा फीचर हेडिंग पंक्ति को हर समय स्क्रीन पर बनाए रखता है?",
+    "options": [
+      "1. टॉप पंक्ति को हाइड करें",
+      "2. टॉप पंक्ति को फ्रीज़ करें (Freeze Panes)",
+      "3. सभी हेडर सेल को एक में मर्ज करें",
+      "4. डेटा को पहले कॉलम के आधार पर सॉर्ट करें"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "You must produce a long report whose table of contents updates automatically when headings change. Which workflow is the best structured approach in MS-Word 2019?",
+    "options": [
+      "1. Type each heading and its page number manually at the top",
+      "2. Bold each heading and hope the software detects them",
+      "3. Insert a screenshot of the headings as the contents page",
+      "4. Apply built-in heading styles to titles, then insert an automatic Table of Contents that reads those styles"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "आपको एक लंबी रिपोर्ट बनानी है जिसकी टेबल ऑफ कंटेंट्स (table of contents) हेडिंग बदलने पर स्वचालित रूप से अपडेट हो। MS-Word 2019 में कौन-सा वर्कफ़्लो सर्वोत्तम संरचित तरीका है?",
+    "options": [
+      "1. प्रत्येक हेडिंग और उसका पेज नंबर ऊपर मैन्युअल रूप से टाइप करें",
+      "2. प्रत्येक हेडिंग को बोल्ड करें और उम्मीद करें कि सॉफ्टवेयर उन्हें डिटेक्ट कर लेगा",
+      "3. कंटेंट्स पेज के रूप में हेडिंग का स्क्रीनशॉट इन्सर्ट करें",
+      "4. टाइटल पर बिल्ट-इन हेडिंग स्टाइल अप्लाई करें, फिर एक ऑटोमैटिक टेबल ऑफ कंटेंट्स इन्सर्ट करें जो उन स्टाइल को रीड करती है"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In MS-Excel, cell B2 contains the formula =A$1*$A2. The following values are entered in the worksheet: A1 = 10, A2 = 4, A3 = 7, B1 = 5. Since B2 evaluates to 10 × 4, it displays 40. Now this formula is copied from B2 to cell C3. What value will C3 display?",
+    "options": [
+      "40",
+      "28",
+      "50",
+      "35"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Excel में, सेल B2 में फॉर्मूला =A$1*$A2 मौजूद है। वर्कशीट में निम्नलिखित वैल्यूज़ दर्ज हैं: A1 = 10, A2 = 4, A3 = 7, B1 = 5। चूँकि B2, 10 × 4 के बराबर होता है, इसलिए यह 40 दिखाता है। अब इस फॉर्मूले को B2 से सेल C3 में कॉपी किया जाता है। C3 क्या वैल्यू दिखाएगा?",
+    "options": [
+      "40",
+      "28",
+      "50",
+      "35"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "You receive a macro-enabled spreadsheet from an unverified external sender and the program shows a security warning that macros are disabled. What is the safest professional response in MS-Excel 2019?",
+    "options": [
+      "1. Immediately click 'Enable Content' so the file works normally",
+      "2. Forward the file to colleagues so they can enable it first",
+      "3. Keep macros disabled, verify the sender and the file's necessity, and enable macros only if the source is confirmed trustworthy",
+      "4. Rename the file extension to remove the macro warning"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "आपको किसी असत्यापित बाहरी भेजने वाले से एक मैक्रो-इनेबल्ड स्प्रेडशीट मिलती है और प्रोग्राम एक सुरक्षा चेतावनी दिखाता है कि मैक्रो डिसेबल हैं। MS-Excel 2019 में सबसे सुरक्षित पेशेवर प्रतिक्रिया क्या है?",
+    "options": [
+      "1. तुरंत 'Enable Content' पर क्लिक करें ताकि फाइल सामान्य रूप से काम करे",
+      "2. फाइल को सहकर्मियों को फॉरवर्ड करें ताकि वे पहले उसे इनेबल कर सकें",
+      "3. मैक्रो को डिसेबल रखें, भेजने वाले और फाइल की आवश्यकता को सत्यापित करें, और मैक्रो केवल तभी इनेबल करें जब स्रोत विश्वसनीय होने की पुष्टि हो जाए",
+      "4. मैक्रो चेतावनी हटाने के लिए फाइल एक्सटेंशन का नाम बदलें"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "You must design a professional slide deck that is readable for a large, mixed audience including some with low vision. Which overall design plan is best in MS-PowerPoint?",
+    "options": [
+      "1. Fill each slide with dense paragraphs to include every detail",
+      "2. Use many decorative fonts and low-contrast colour combinations for style",
+      "3. Rely on rapid animations and sound effects to hold attention",
+      "4. Use high colour contrast, large legible fonts, few words per slide, and consistent layout with visuals to support key points"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "आपको एक पेशेवर स्लाइड डेक (slide deck) डिज़ाइन करना है जो एक बड़े, मिश्रित दर्शक वर्ग के लिए पठनीय हो, जिसमें कुछ निम्न दृष्टि वाले भी हों। MS-PowerPoint में कौन-सी समग्र डिज़ाइन योजना सर्वोत्तम है?",
+    "options": [
+      "1. हर विवरण शामिल करने के लिए प्रत्येक स्लाइड को घने पैराग्राफ से भरें",
+      "2. स्टाइल के लिए कई सजावटी फॉन्ट और कम-कंट्रा स्ट रंग संयोजनों का उपयोग करें",
+      "3. ध्यान बनाए रखने के लिए तेज़ एनिमेशन और साउंड इफेक्ट पर निर्भर रहें",
+      "4. उच्च रंग कंट्रास्ट, बड़े सुपाठ्य फॉन्ट, प्रति स्लाइड कम शब्द, और मुख्य बिंदुओं को सपोर्ट करने वाले विजुअल्स के साथ एक सुसंगत लेआउट का उपयोग करें"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In a Zoom meeting, which control most effectively prevents unauthorised entry into a confidential virtual meeting?",
+    "options": [
+      "1. Virtual background",
+      "2. Waiting room with identity verification",
+      "3. Automatic captions",
+      "4. Participant name display"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Zoom मीटिंग में, कौन-सा कंट्रोल किसी गोपनीय वर्चुअल मीटिंग में अनधिकृत प्रवेश को सर्वाधिक प्रभावी रूप से रोकता है?",
+    "options": [
+      "1. वर्चुअल बैकग्राउंड",
+      "2. पहचान सत्यापन के साथ वेटिंग रूम",
+      "3. ऑटोमैटिक कैप्शन",
+      "4. पार्टिसिपेंट नाम डिस्प्ले"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A spreadsheet cell contains the formula =2+3*(4^2-6)/5. Applying the correct order of operations, what value is returned in MS Excel?",
+    "options": [
+      "10",
+      "6",
+      "11",
+      "8"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "किसी स्प्रेडशीट सेल में फॉर्मूला =2+3*(4^2-6)/5 है। संक्रियाओं के सही क्रम को लागू करते हुए, MS-Excel में कौन-सा मान रिटर्न होता है?",
+    "options": [
+      "10",
+      "6",
+      "11",
+      "8"
+    ],
+    "answer": 3
+  }
+],
+
   
   "5th July 2026 - Shift1": [
 {
