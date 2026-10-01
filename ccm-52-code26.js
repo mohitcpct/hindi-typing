@@ -2086,6 +2086,1049 @@
   }
 ],
 
+  "7th Sep 2026 - Shift1": [
+  {
+    "q": "Which hardware component is the main circuit board that connects the CPU, memory, storage controllers, and expansion slots?",
+    "options": [
+      "1. Power cable",
+      "2. Monitor stand",
+      "3. Motherboard",
+      "4. Printer cartridge"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "कौन-सा हार्डवेयर घटक वह मुख्य सर्किट बोर्ड है जो CPU, मेमोरी, स्टोरेज कंट्रो लर और एक्सपेंशन स्लॉट को कनेक्ट करता है?",
+    "options": [
+      "1. पावर केबल",
+      "2. मॉनिटर स्टैंड",
+      "3. मदरबोर्ड",
+      "4. प्रिंटर कार्ट्रिज"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A flatbed scanner is mainly used to:",
+    "options": [
+      "1. Display processed output on a screen",
+      "2. Store files permanently in RAM",
+      "3. Convert paper documents or photos into digital input",
+      "4. Protect a system from viruses"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "फ्लैटबेड स्कैनर (flatbed scanner) का मुख्य उपयोग किसलिए किया जाता है?",
+    "options": [
+      "1. स्क्रीन पर प्रोसेस्ड आउटपुट प्रदर्शित करने के लिए",
+      "2. RAM में फ़ाइलों को स्थायी रूप से संग्रहीत करने के लिए",
+      "3. कागज़ी दस्तावेज़ों या तस्वीरों को डिजिटल इनपुट में बदलने के लिए",
+      "4. सिस्टम को वायरस से सुरक्षित रखने के लिए"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which device produces soft-copy visual output?",
+    "options": [
+      "1. Keyboard",
+      "2. Mouse",
+      "3. Barcode scanner",
+      "4. Monitor"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कौन-सा डिवाइस, सॉफ्ट-कॉपी विजुअल आउटपुट उत्पन्न करता है?",
+    "options": [
+      "1. कीबोर्ड",
+      "2. माउस",
+      "3. बारकोड स्कैनर",
+      "4. मॉनिटर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following CPU components directs the ALU and registers during instruction processing?",
+    "options": [
+      "1. Secondary storage",
+      "2. Printer spooler",
+      "3. Optical drive",
+      "4. Control Unit"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा CPU घटक, इंस्ट्रक्शन प्रोसेसिंग के दौरान ALU और रजिस्टर्स को निर्देशित करता है?",
+    "options": [
+      "1. सेकंडरी स्टोरेज",
+      "2. प्रिंटर स्पूलर",
+      "3. ऑप्टिकल ड्राइव",
+      "4. कंट्रोल यूनिट"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which device is used for non-volatile secondary storage?",
+    "options": [
+      "1. CPU register",
+      "2. Cache line",
+      "3. Arithmetic logic unit",
+      "4. Hard disk drive"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कौन-सा डिवाइस, नॉन-वोलेटाइल सेकंडरी स्टोरेज के लिए उपयोग किया जाता है?",
+    "options": [
+      "1. CPU रजिस्टर",
+      "2. कैशे लाइन",
+      "3. अरिथमेटिक लॉजिक यूनिट",
+      "4. हार्ड डिस्क ड्राइव"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following is a core responsibility handled directly by an Operating System?",
+    "options": [
+      "1. Allocating CPU time and managing memory for active processes",
+      "2. Permanently increasing the physical storage capacity of the hard drive",
+      "3. Compiling source code directly into high-level programming logic",
+      "4. Protecting connected hardware from physical power surges"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन सा कार्य प्रत्यक्ष रूप से ऑपरेटिंग सिस्टम की एक मुख्य ज़िम्मेदारी है?",
+    "options": [
+      "1. सक्रिय प्रक्रियाओं (processes)  के लिए CPU समय आवंटित करना और मेमोरी का प्रबंधन करना",
+      "2. हार्ड ड्राइव की भौतिक भंडारण क्षमता (storage capacity) को स्थायी रूप से बढ़ाना",
+      "3. सोर्स कोड को सीधे हाई-लेवल प्रोग्रामिंग लॉजिक में संकलित (compile) करना",
+      "4. कनेक्टेड हार्डवेयर को भौतिक पावर सर्ज (बिजली के झटके) से बचाना"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Antivirus software is best classified as which type of software?",
+    "options": [
+      "1. Machine language",
+      "2. Output hardware",
+      "3. Magnetic storage",
+      "4. Utility software"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "एंटीवायरस सॉफ्टवेयर को किस प्रकार के सॉफ्टवेयर के रूप में सर्वोत्तम तरीके से वर्गीकृत किया जाता है?",
+    "options": [
+      "1. मशीन भाषा",
+      "2. आउटपुट हार्डवेयर",
+      "3. मैग्नेटिक स्टोरेज",
+      "4. यूटिलिटी सॉफ्टवेयर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which example best represents an embedded system?",
+    "options": [
+      "1. A large public web search index",
+      "2. A desktop used by one student only",
+      "3. A printed keyboard layout chart",
+      "4. A microcontroller inside a washing machine controlling wash cycles"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कौन-सा उदाहरण, किसी एम्बेडेड सिस्टम का सर्वोत्तम निरूपण करता है?",
+    "options": [
+      "1. एक बड़ा सार्वजनिक वेब सर्च इंडेक्स",
+      "2. केवल एक विद्यार्थी द्वारा उपयोग किया जाने वाला डेस्कटॉप",
+      "3. एक प्रिंटेड कीबोर्ड लेआउट चार्ट",
+      "4. वॉशिंग मशीन के अंदर वॉश साइकिल को कंट्रोल करने वाला एक माइक्रोकंट्रोलर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which statement best explains why high-level languages are easier for beginners than machine language?",
+    "options": [
+      "1. They require no translator of any kind",
+      "2. They run without an operating system in every case",
+      "3. They are always hardware devices",
+      "4. They use English-like syntax and abstractions rather than only binary instructions"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कौन-सा कथन सर्वोत्तम रूप से यह समझाता है कि उच्च-स्तरीय भाषाएं शुरुआती लोगों के लिए मशीन भाषा की तुलना में आसान क्यों होती हैं?",
+    "options": [
+      "1. उन्हें किसी भी प्रकार के अनुवादक की आवश्यकता नहीं होती है",
+      "2. वे प्रत्येक स्थिति में बिना किसी ऑपरेटिंग सिस्टम के रन करती हैं",
+      "3. वे हमेशा हार्डवेयर डिवाइस होती हैं",
+      "4. वे केवल बाइनरी निर्देशों के स्थान पर अंग्रेजी-जैसी सिंटैक्स और एब्स्ट्रैक्शन का उपयोग करती हैं"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which pair is correctly matched?",
+    "options": [
+      "1. First generation - integrated circuits",
+      "2. Second generation - vacuum tubes",
+      "3. Fourth generation - punched cards only",
+      "4. Third generation - integrated circuits"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा युग्म, सुमेलित है?",
+    "options": [
+      "1. प्रथम पीढ़ी - इंटीग्रेटेड सर्किट",
+      "2. द्वितीय पीढ़ी - वैक्यूम ट्यूब",
+      "3. चतुर्थ पीढ़ी - केवल पंच्ड कार्ड",
+      "4. तृतीय पीढ़ी - इंटीग्रेटेड सर्किट"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A computer training manual contains the following statements: <br> <br> 1. A bit represents a single binary value, either 0 or 1. <br>2. A byte is generally composed of eight bits. <br>3. File sizes are commonly expressed in bytes and their larger units. <br>4. The abbreviations Mb and MB represent the same unit and can always be used interchangeably. <br>Which of the following correctly evaluates these statements?",
+    "options": [
+      "1. Only Statements 1 and 2 are correct.",
+      "2. Only Statements 2, 3 and 4 are correct.",
+      "3. Statements 1, 2 and 3 are correct, but Statement 4 is incorrect.",
+      "4. All four statements are correct."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एक कंप्यूटर प्रशिक्षण मैनुअल में निम्नलिखित कथन हैं: <br> <br>1. एक बिट एक एकल बाइनरी वैल्यू, या तो 0 या 1 दर्शाता है। <br>2. एक बाइट सामान्यतः आठ बिट्स से मिलकर बनता है। <br>3. फाइल साइज सामान्यतः बाइट्स और उनकी बड़ी इकाइयों में व्यक्त किए जाते हैं। <br> 4. संक्षिप्ताक्षर Mb और MB एक ही इकाई को निरूपित करते हैं और हमेशा परस्पर विनिमेय रूप से उपयोग किए जा सकते हैं। <br><br>निम्नलिखित में से कौन-सा, इन कथनों का सटीक मूल्यांकन करता है?",
+    "options": [
+      "1. केवल कथन 1 और 2 सही हैं।",
+      "2. केवल कथन 2, 3 और 4 सही हैं।",
+      "3. कथन 1, 2 और 3 सही हैं, किंतु कथन 4 गलत है।",
+      "4. चारों कथन सही हैं।"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A processor executes an instruction to compare two numbers and then branch based on the result. Which statement is most accurate?",
+    "options": [
+      "1. The hard disk performs the comparison and prints the branch",
+      "2. The monitor performs the comparison and stores the result",
+      "3. The keyboard controls the internal instruction sequence",
+      "4. The ALU performs the comparison while the Control Unit coordinates the instruction sequence"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "एक प्रोसेसर दो संख्याओं की तुलना करने और फिर परिणाम के आधार पर ब्रांच करने के लिए एक निर्देश एग्जीक्यूट करता है। कौन-सा कथन सर्वाधिक परिशुद्ध है?",
+    "options": [
+      "1. हार्ड डिस्क तुलना करती है और ब्रांच को प्रिंट करती है",
+      "2. मॉनिटर तुलना करता है और परिणाम स्टोर करता है",
+      "3. कीबोर्ड आंतरिक निर्देश अनुक्रम को कंट्रो ल करता है",
+      "4. ALU तुलना करता है जबकि कंट्रो ल यूनिट निर्देश अनुक्रम का समन्वय करती है"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "An organization is selecting operating systems for two different computer labs: 1. Lab 1 requires an operating system that supports several commercial applications specifically developed for Windows. 2. Lab 2 requires an open-source operating system whose source code can be examined and modified according to institutional requirements. Which of the following recommendations is the most appropriate?",
+    "options": [
+      "1. Install Linux in Lab 1 and Windows in Lab 2 because Linux is required for all commercial applications.",
+      "2. Install Windows in both labs because Linux does not qualify as an operating system.",
+      "3. Install Windows in Lab 1 and Linux in Lab 2 because each operating system satisfies the respective specified requirement.",
+      "4. Install Linux in both labs because Windows applications always run natively on Linux without additional compatibility arrangements."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एक संगठन दो अलग-अलग कंप्यूटर लैब के लिए ऑपरेटिंग सिस्टमों का चयन कर रहा है: 1. लैब 1 को एक ऐसे ऑपरेटिंग सिस्टम की आवश्यकता है जो विशेष रूप से Windows के लिए विकसित की गई बहु कमर्शियल एप्लिकेशनों को सपोर्ट करे। 2. लैब 2 को एक ओपन-सोर्स ऑपरेटिंग सिस्टम की आवश्यकता है जिसके सोर्स कोड को संस्थागत आवश्यकताओं के अनुसार जांचा और संशोधित किया जा सके। निम्नलिखित में से कौन-सी अनुशंसा, सर्वाधिक उपयुक्त है?",
+    "options": [
+      "1. लैब 1 में Linux और लैब 2 में Windows इंस्टॉल करें क्योंकिक्यों सभी कमर्शियल एप्लिकेशनों के लिए Linux आवश्यक है।",
+      "2. दोनों लैब में Windows इंस्टॉल करें क्योंकिक्यों Linux एक ऑपरेटिंग सिस्टम के रूप में योग्य नहीं है।",
+      "3. लैब 1 में Windows और लैब 2 में Linux इंस्टॉल करें क्योंकिक्यों प्रत्येक ऑपरेटिंग सिस्टम संबंधित निर्दिष्ट आवश्यकता को पूरा करता है।",
+      "4. दोनों लैब में Linux इंस्टॉल करें क्योंकिक्यों Windows एप्लिकेशन बिना किसी अतिरिक्त कम्पैटिबिलिटी व्यवस्था के हमेशा Linux पर नेटिव रूप से रन करते हैं।"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A school wants students to write readable source code and then convert the whole program into executable form before running it. Which translation approach is being described?",
+    "options": [
+      "1. Optical scanning",
+      "2. Video rendering",
+      "3. Disk defragmentation",
+      "4. Compilation"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "एक स्कूल चाहता है कि विद्यार्थी पठनीय सोर्स कोड लिखें और फिर उसे रन करने से पहले पूरे प्रोग्राम को एग्जीक्यूटेबल रूप में बदलें। कौन-सा अनुवाद तरीका वर्णित किया जा रहा है?",
+    "options": [
+      "1. ऑप्टिकल स्कैनिंग",
+      "2. वीडियो रेंडरिंग",
+      "3. डिस्क डीफ्रैग्मेंटेग्मेंटेशन",
+      "4. कंपाइलेशन"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A startup program stored on a motherboard chip initializes basic hardware before the operating system loads. Which classification is most accurate?",
+    "options": [
+      "1. Spreadsheet application software",
+      "2. Cloud storage service",
+      "3. Input device driver written by the user",
+      "4. Firmware used during bootstrapping"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "मदरबोर्ड चिप पर स्टोर किया गया एक स्टार्टअप प्रोग्राम, ऑपरेटिंग सिस्टम के लोड होने से पहले बेसिक हार्डवेयर को इनिशियलाइज़ करता है। कौन-सा वर्गीकरण सर्वाधिक परिशुद्ध है?",
+    "options": [
+      "1. स्प्रेडशीट एप्लिकेशन सॉफ्टवेयर",
+      "2. क्लाउड स्टोरेज सर्विस",
+      "3. उपयोगकर्ता द्वारा लिखा गया इनपुट डिवाइस ड्रा इवर",
+      "4. बूटस्ट्रैपिंग के दौरान उपयोग होने वाला फर्मवेयर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "During initial computer setup, which pair is essential for basic user interaction?",
+    "options": [
+      "1. Router and projector only",
+      "2. Keyboard and monitor",
+      "3. Scanner and webcam only",
+      "4. External hard disk and speaker only"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "प्रारंभिक कंप्यूटर सेटअप के दौरान, बेसिक यूजर इंटरैक्शन के लिए कौन-सा युग्म आवश्यक है?",
+    "options": [
+      "1. केवल राउटर और प्रोजेक्टर",
+      "2. कीबोर्ड और मॉनिटर",
+      "3. केवल स्कैनर और वेबकैम",
+      "4. केवल एक्सटर्नल हार्ड डिस्क और स्पीकर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A new printer is physically connected but does not appear in the print list. What is the most likely required setup step?",
+    "options": [
+      "1. Rename the document file",
+      "2. Install/add the printer using the operating system or vendor driver",
+      "3. Increase monitor brightness",
+      "4. Compress the document into a zip file"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक नया प्रिंटर भौतिक रूप से कनेक्टेड है लेकिन प्रिंट लिस्ट में दिखाई नहीं देता है। सबसे संभावित आवश्यक सेटअप चरण क्या है?",
+    "options": [
+      "1. डॉक्यूमेंट फाइल को रिनेम करें",
+      "2. ऑपरेटिंग सिस्टम या वेंडर ड्राइवर का उपयोग करके प्रिंटर इंस्टॉल/ऐड करें",
+      "3. मॉनिटर ब्राइटनेस बढ़ाएं",
+      "4. डॉक्यूमेंट को एक ज़िप फाइल में कंप्रेस करें"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following sequences BEST represents the standard procedure for safely removing a USB flash drive in MS Windows?",
+    "options": [
+      "1. Save/close all active files -> Select 'Safely Remove Hardware and Eject Media' -> Wait for the confirmation prompt -> Disconnect the USB drive",
+      "2. Disconnect the USB drive -> Close open applications -> Select 'Eject Media' -> Save ongoing work",
+      "3. Select 'Safely Remove Hardware and Eject Media' -> Disconnect the USB drive immediately -> Save and close active files",
+      "4. Format the USB storage drive -> Wait for the system shutdown -> Disconnect the USB drive -> Close open files"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS Windows में USB फ़्लैश ड्राइव को सुरक्षित रूप से हटाने (Safely Remove) के लिए निम्नलिखित में से कौन सा क्रम सर्वोत्तम प्रक्रिया को दर्शाता है?",
+    "options": [
+      "1. सभी खुली फ़ाइलों को सहेजें (save)/बंद करें -> 'Safely Remove Hardware and Eject Media' चुनें -> पुष्टि संदेश (confirmation prompt) की प्रतीक्षा करें -> USB ड्राइव को अनप्लग (डिस्कनेक्ट) करें",
+      "2. USB ड्राइव को डिस्कनेक्ट करें -> खुले हुए एप्लिकेशन बंद करें -> 'Eject Media' चुनें -> चल रहे कार्य को सहेजें",
+      "3. 'Safely Remove Hardware and Eject Media' चुनें -> तुरंत USB ड्राइव को डिस्कनेक्ट करें -> सक्रिय फ़ाइलों को सहेजें और बंद करें",
+      "4. USB स्टोरेज ड्राइव को फ़ॉर्मेट करें -> सिस्टम शटडाउन की प्रतीक्षा करें -> USB ड्रा इव को डिस्कनेक्ट करें -> खुली फ़ाइलों को बंद करें"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "If a file is copied from Folder A to Folder B, what happens to the original file in Folder A?",
+    "options": [
+      "1. It is deleted from Folder A",
+      "2. It remains in Folder A and a duplicate is created in Folder B",
+      "3. It becomes unreadable",
+      "4. It automatically changes extension"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "यदि किसी फाइल को फोल्डर A से फोल्डर B में कॉपी किया जाए, तो फोल्डर A में मूल फाइल के साथ क्या होता है?",
+    "options": [
+      "1. यह फोल्डर A से डिलीट हो जाती है",
+      "2. यह फोल्डर A में रहती है और फोल्डर B में एक डुप्लिकेट बन जाती है",
+      "3. यह अपठनीय हो जाती है",
+      "4. इसका एक्सटेंशन स्वचालित रूप से बदल जाता है"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A user cannot find where to change display settings. Which built-in utility is most likely to guide them?",
+    "options": [
+      "1. Disk format command",
+      "2. Printer queue",
+      "3. Help/Search feature of the operating system",
+      "4. Recycle Bin only"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एक उपयोगकर्ता को डिस्प्ले सेटिंग्स बदलने का विकल्प नहीं मिल रहा है। कौन-सी बिल्ट-इन यूटिलिटी संभवतः उसका सर्वोत्तम मार्गदर्शन करेगी?",
+    "options": [
+      "1. डिस्क फॉर्मेट कमांड",
+      "2. प्रिंटर क्यू",
+      "3. ऑपरेटिंग सिस्टम का Help/Search फीचर",
+      "4. केवल रीसायकल बिन"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which password is generally strongest among the given options?",
+    "options": [
+      "1. sunny",
+      "2. Pa55",
+      "3. BlueTrain!River47Cloud",
+      "4. 12345678"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "दिए गए विकल्पों में से कौन-सा पासवर्ड सामान्यतः सबसे मजबूत (strongest) है?",
+    "options": [
+      "1. sunny",
+      "2. Pa55",
+      "3. BlueTrain!River47Cloud",
+      "4. 12345678"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A student receives notes in a .zip archive and wants to edit one document inside it properly. What should be done first in Windows OS?",
+    "options": [
+      "1. Print the zip icon",
+      "2. Rename the archive to .docx",
+      "3. Extract the files to a normal folder",
+      "4. Open it only in a media player"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एक विद्यार्थी को एक .zip आर्काइव में नोट्स मिलते हैं और वह उसके अंदर के एक डॉक्यूमेंट को उचित रूप से एडिट करना चाहता है। Windows OS में सबसे पहले क्या किया जाना चाहिए?",
+    "options": [
+      "1. ज़िप आइकन को प्रिंट करें",
+      "2. आर्काइव का नाम बदलकर .docx करें",
+      "3. फाइलों को एक सामान्य फोल्डर में एक्सट्रैक्ट करें",
+      "4. इसे केवल एक मीडिया प्लेयर में ओपन करें"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Two computers on a small network are manually assigned the same IP address, and one intermittently loses connectivity. What is the most likely cause?",
+    "options": [
+      "1. Printer cartridge failure",
+      "2. Low screen resolution",
+      "3. IP address conflict",
+      "4. Keyboard layout mismatch"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "दो कंप्यूटरों को एक छोटे नेटवर्क पर मैन्युअल रूप से एक ही IP एड्रेस असाइन किया गया है, और उनमें से एक रुक-रुक कर कनेक्टिविटी खो देता है। सबसे संभावित कारण क्या है?",
+    "options": [
+      "1. प्रिंटर कार्ट्रिज फेल्योर",
+      "2. लो स्क्रीन रिज़ॉल्यूशन",
+      "3. IP एड्रेस कॉन्फ्लिक्ट",
+      "4. कीबोर्ड लेआउट मिसमैच"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "An application is not responding, but the Windows operating system is still usable. Which first action is most reasonable?",
+    "options": [
+      "1. Immediately format the hard drive",
+      "2. Unplug the power cable at once",
+      "3. Wait briefly, then use the system task manager/close option for that application if needed",
+      "4. Delete all user documents"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एक एप्लिकेशन रिस्पॉन्ड नहीं कर रहा है, लेकिन Windows ऑपरेटिंग सिस्टम अभी भी उपयोग करने योग्य है। कौन-सी पहली कार्रवाई, सर्वाधिक उचित है?",
+    "options": [
+      "1. तुरंत हार्ड ड्राइव को फॉर्मेट करें",
+      "2. पावर केबल को तुरंत अनप्लग करें",
+      "3. थोड़ी देर प्रतीक्षा करें, फिर आवश्यकता होने पर उस एप्लिकेशन के लिए सिस्टम टास्क मैनेजर/क्लोज विकल्प का उपयोग करें",
+      "4. सभी यूजर डॉक्यूमेंट डिलीट करें"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A PDF opens in the wrong application every time. Which OS setting should be changed?",
+    "options": [
+      "1. Screen saver timeout",
+      "2. Mouse double-click speed",
+      "3. Default app/file association for PDF files",
+      "4. Keyboard repeat delay"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एक PDF हर बार गलत एप्लिकेशन में ओपन होती है। कौन-सी OS सेटिंग बदली जानी चाहिए?",
+    "options": [
+      "1. स्क्रीन सेवर टाइमआउट",
+      "2. माउस डबल-क्लिक स्पीड",
+      "3. PDF फाइलों के लिए डिफ़ॉल्ट ऐप/फाइल एसोसिएशन",
+      "4. कीबोर्ड रिपीट डिले"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A user needs to transfer a project file from a computer to a removable memory disk. The original file must remain available in its current location on the computer, and the file stored on the memory disk must contain the complete project data rather than merely provide a link to the original file. Which of the following actions is most appropriate?",
+    "options": [
+      "1. Create a shortcut to the project file and save the shortcut on the memory disk.",
+      "2. Cut the project file from its current location and paste it onto the memory disk.",
+      "3. Copy the project file from its current location and paste it onto the memory disk.",
+      "4. Rename the project file by adding the name of the memory disk to it."
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एक उपयोगकर्ता को एक प्रोजेक्ट फाइल, कंप्यूटर से एक रिमूवेबल मेमोरी डिस्क पर ट्रां सफर करनी है। मूल फाइल, कंप्यूटर पर अपने वर्तमान स्थान पर उपलब्ध रहनी चाहिए, और मेमोरी डिस्क पर स्टोर की गई फाइल में मूल फाइल का केवल एक लिंक देने के बजाय संपूर्ण प्रोजेक्ट डेटा होना चाहिए। निम्नलिखित में से कौन-सी क्रिया सर्वाधिक उपयुक्त है?",
+    "options": [
+      "1. प्रोजेक्ट फाइल का एक शॉर्टकट बनाएं और शॉर्टकट को मेमोरी डिस्क पर सेव करें।",
+      "2. प्रोजेक्ट फाइल को उसके वर्तमान स्थान से कट करें और मेमोरी डिस्क पर पेस्ट करें।",
+      "3. प्रोजेक्ट फाइल को उसके वर्तमान स्थान से कॉपी करें और मेमोरी डिस्क पर पेस्ट करें।",
+      "4. प्रोजेक्ट फाइल का नाम बदलकर उसमें मेमोरी डिस्क का नाम ऐड करें।"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "An employee performs the following two operations: <br>Selects a report stored on the office computer and submits it through an online portal. <br>Opens the same portal and saves a reference document from it to the computer's local storage. <br>Which option correctly identifies the direction of file transfer in both operations?",
+    "options": [
+      "1. The first operation is downloading because the report is selected from the computer, while the second operation is uploading because the document is opened through the portal.",
+      "2. The first operation is uploading because the file is transferred from the computer to the portal, while the second operation is downloading because the file is transferred from the portal to the computer.",
+      "3. Both operations are uploading because an internet connection is used in each case.",
+      "4. Both operations are downloading because files are accessed through the same online portal."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक कर्मचारी निम्नलिखित दो ऑपरेशन करता है: <br>ऑफिस कंप्यूटर पर स्टोर किए गए एक रिपोर्ट को सेलेक्ट करता है और उसे एक ऑनलाइन पोर्टल के माध्यम से सबमिट करता है। <br>उसी पोर्टल को ओपन करता है और उसमें से एक रेफरेंस डॉक्यूमेंट को कंप्यूटर के लोकल स्टोरेज में सेव करता है। <br><br>कौन-सा विकल्प दोनों ऑपरेशनों में फाइल ट्रांसफर की दिशा की सही पहचान करता है?",
+    "options": [
+      "1. पहला ऑपरेशन डाउनलोडिंग है क्योंकि रिपोर्ट कंप्यूटर से सेलेक्ट की गई है, जबकि दूसरा ऑपरेशन अपलोडिंग है क्योंकि डॉक्यूमेंट पोर्टल के माध्यम से ओपन किया गया है।",
+      "2. पहला ऑपरेशन अपलोडिंग है क्योंकि फाइल कंप्यूटर से पोर्टल पर ट्रांसफर होती है, जबकि दूसरा ऑपरेशन डाउनलोडिंग है क्योंकि फाइल पोर्टल से कंप्यूटर पर ट्रांसफर होती है।",
+      "3. दोनों ऑपरेशन अपलोडिंग हैं क्योंकि प्रत्येक स्थिति में एक इंटरनेट कनेक्शन उपयोग होता है।",
+      "4. दोनों ऑपरेशन डाउनलोडिंग हैं क्योंकि फाइलें उसी ऑनलाइन पोर्टल के माध्यम से एक्सेस की जाती हैं।"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which backup plan gives the strongest protection against ransomware, encrypting local files?",
+    "options": [
+      "1. Keep a shortcut to the same files on the desktop",
+      "2. Rename all files with shorter names",
+      "3. Keep at least one offline or versioned backup that is not continuously writable from the infected computer",
+      "4. Store the only backup on the same always-connected mapped drive"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "कौन-सी बैकअप योजना, लोकल फाइलों को एन्क्रिप्ट करने वाले रैंसमवेयर के विरुद्ध सबसे मजबूत सुरक्षा देती है?",
+    "options": [
+      "1. डेस्कटॉप पर उन्हीं फाइलों का एक शॉर्टकट रखना",
+      "2. सभी फाइलों के नाम छोटे नामों से बदलना",
+      "3. कम से कम एक ऐसा ऑफलाइन या वर्शन्ड बैकअप रखना जो इन्फेक्टेड कंप्यूटर से निरंतर लिखने योग्य न हो",
+      "4. एकमात्र बैकअप को उसी हमेशा-कनेक्टेड मैप्ड ड्राइव पर स्टोर करना"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A candidate must send a completed form that should look the same on any computer and should not be casually edited. Which format is usually most suitable?",
+    "options": [
+      "1. .tmp",
+      "2. .exe",
+      "3. PDF",
+      "4. Raw spreadsheet with formulas only"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एक अभ्यर्थी को एक पूर्ण किया हुआ फॉर्म भेजना है जो किसी भी कंप्यूटर पर एक जैसा दिखे और आसानी से एडिट न किया जा सके। इसके लिए सामान्यतः कौन-सा फॉर्मेट सर्वाधिक उपयुक्त है?",
+    "options": [
+      "1. .tmp",
+      "2. .exe",
+      "3. PDF",
+      "4. केवल फॉर्मूलों वाली रॉ स्प्रेडशीट"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A shared lab computer is used by many students. Which account setup best reduces accidental system changes?",
+    "options": [
+      "1. Give every student full administrator rights",
+      "2. Use one shared administrator password written near the monitor",
+      "3. Give normal users standard accounts and reserve administrator rights for authorised maintenance",
+      "4. Disable login passwords for convenience"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एक साझा लैब कंप्यूटर कई विद्यार्थियों द्वारा उपयोग किया जाता है। कौन-सा अकाउंट सेटअप आकस्मिक सिस्टम बदलावों को सर्वोत्तम रूप से कम करता है?",
+    "options": [
+      "1. प्रत्येक विद्यार्थी को पूर्ण एडमिनिस्ट्रेटर अधिकार देना",
+      "2. मॉनिटर के पास लिखा हुआ एक साझा एडमिनिस्ट्रेटर पासवर्ड उपयोग करना",
+      "3. सामान्य उपयोगकर्ताओं को स्टैंडर्ड अकाउंट देना और एडमिनिस्ट्रेटर अधिकार अधिकृत मेंटेमेंटेनेंस के लिए आरक्षित रखना",
+      "4. सुविधा के लिए लॉगिन पासवर्ड डिसेबल करना"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A student uploads an application form through a website. Which sign most directly indicates that the data transfer is protected in transit?",
+    "options": [
+      "1. The page URL begins with https:// and the browser shows a secure-connection indicator",
+      "2. The page uses a bright background colour",
+      "3. The uploaded file name is short",
+      "4. The website opens in a new tab"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एक विद्यार्थी किसी वेबसाइट के माध्यम से एक आवेदन फॉर्म अपलोड करता है। कौन-सा संकेत सबसे प्रत्यक्ष रूप से दर्शाता है कि डेटा ट्रांसफर पारगमन (in transit) के दौरान सुरक्षित है?",
+    "options": [
+      "1. पेज का URL, https:// से शुरू होता है और ब्राउजर एक सुरक्षित-कनेक्शन संकेतक दिखाता है",
+      "2. पेज एक चमकीले बैकग्राउंड रंग का उपयोग करता है",
+      "3. अपलोड की गई फाइल का नाम छोटा है",
+      "4. वेबसाइट एक नए टैब में ओपन होती है"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which internet application commonly allows multiple users to edit the same document online and see updates from each other?",
+    "options": [
+      "1. A cloud-based collaborative document editor",
+      "2. A disk defragmenter",
+      "3. A device driver utility",
+      "4. A local-only calculator"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कौन-सा इंटरनेट एप्लिकेशन सामान्यतः कई उपयोगकर्ताओं को एक ही डॉक्यूमेंट पर ऑनलाइन एडिट करने और एक-दूसरे के अपडेट को देखने की सुविधा देता है?",
+    "options": [
+      "1. क्लाउड-बेस्ड कोलैबोरेटिव डॉक्यूमेंट एडिटर",
+      "2. डिस्क डीफ्रैग्मेंटर",
+      "3. डिवाइस ड्राइवर यूटिलिटी",
+      "4. केवल-लोकल कैलकुलेटर"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "When sending a large project file by email, which action is usually most appropriate if it exceeds the attachment-size limit?",
+    "options": [
+      "1. Upload it to an authorised cloud location and share a permitted access link",
+      "2. Split the file name into shorter words",
+      "3. Change the file extension to .txt",
+      "4. Delete the file properties before sending"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "किसी बड़ी प्रोजेक्ट फाइल को ईमेल द्वारा भेजते समय, यदि वह अटैचमेंट-साइज सीमा से अधिक हो, तो सामान्यतः कौन-सी कार्रवाई सर्वाधिक उपयुक्त है?",
+    "options": [
+      "1. इसे एक अधिकृत क्लाउड लोकेशन पर अपलोड करें और एक अनुमत एक्सेस लिंक शेयर करें",
+      "2. फाइल के नाम को छोटे शब्दों में विभाजित करें",
+      "3. फाइल एक्सटेंशन को .txt में बदलें",
+      "4. भेजने से पहले फाइल प्रॉपर्टीज को डिलीट करें"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which part of the URL given below identifies the domain name of the website? URL: https://example.edu/student/login?id=24",
+    "options": [
+      "1. example.edu",
+      "2. https://",
+      "3. /student/login",
+      "4. ?id=24"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "नीचे दिए गए URL का कौन-सा भाग, वेबसाइट के डोमेन नाम की पहचान करता है? URL: https://example.edu/student/login?id=24",
+    "options": [
+      "1. example.edu",
+      "2. https://",
+      "3. /student/login",
+      "4. ?id=24"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A learner wants to use Google Search to find information about cloud storage while excluding pages related to rain clouds. Which search query is most appropriate?",
+    "options": [
+      "1. cloud storage -rain",
+      "2. cloud storage rain",
+      "3. cloud OR storage rain",
+      "4. cloud storage +rain"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एक शिक्षार्थी, रेन क्लाउड (rain cloud) से संबंधित पेजों को बाहर रखते हुए क्लाउड स्टोरेज के बारे में जानकारी खोजने के लिए Google Search का उपयोग करना चाहता है। कौन-सी सर्च क्वेरी सर्वाधिक उपयुक्त है?",
+    "options": [
+      "1. cloud storage -rain",
+      "2. cloud storage rain",
+      "3. cloud OR storage rain",
+      "4. cloud storage +rain"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which spreadsheet operation in MS-Excel changes the order of a list of student names based on alphabetical sequence?",
+    "options": [
+      "1. Sort",
+      "2. Filter",
+      "3. Wrap Text",
+      "4. Merge Cells"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel में कौन-सा स्प्रेडशीट ऑपरेशन, विद्यार्थियों के नामों की सूची के क्रम को वर्णानुक्रम के आधार पर बदलता है?",
+    "options": [
+      "1. सॉर्ट (Sort)",
+      "2. फिल्टर (Filter)",
+      "3. रैप टेक्स्ट (Wrap Text)",
+      "4. मर्ज सेल्स (Merge Cells)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A spreadsheet in MS-Excel contains students' marks in cells B2 to B6. Which formula correctly calculates the total of these marks?",
+    "options": [
+      "1. =SUM(B2:B6)",
+      "2. =SUM(B2,B6)",
+      "3. =ADD(B2:B6)",
+      "4. =B2+B6"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Excel की एक स्प्रेडशीट में सेल B2 से B6 में विद्यार्थियों के अंक हैं। कौन-सा फॉर्मूला इन अंकों के योग की सही गणना करता है?",
+    "options": [
+      "1. =SUM(B2:B6)",
+      "2. =SUM(B2,B6)",
+      "3. =ADD(B2:B6)",
+      "4. =B2+B6"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A presenter has quarterly sales data for two products over a period of two years. The audience needs to compare the sales of both products within each quarter and observe how their sales changed across the eight quarters. Which method would present the data most effectively?",
+    "options": [
+      "1. Display all sales figures as separate paragraphs on the slide.",
+      "2. Use a clustered column chart with quarters on the horizontal axis and a separate data series for each product.",
+      "3. Combine the sales figures of both products and display them in a single pie chart.",
+      "4. Present only the highest sales figure from each year in a text box."
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक प्रस्तुतकर्ता के पास दो वर्षों की अवधि में दो उत्पादों का त्रैमासिक बिक्री डेटा है। दर्शकों को प्रत्येक तिमाही के भीतर दोनों उत्पादों की बिक्री की तुलना करनी है और यह देखना है कि आठ तिमाहियों में उनकी बिक्री कैसे बदली। कौन-सा तरीका डेटा को सर्वाधिक प्रभावी रूप से प्रस्तुत करेगा?",
+    "options": [
+      "1. सभी बिक्री आंकड़ों को स्लाइड पर अलग-अलग पैराग्राफ के रूप में डिस्प्ले करें।",
+      "2. क्षैतिज अक्ष पर तिमाहियों और प्रत्येक उत्पाद के लिए एक अलग डेटा सीरीज़ के साथ एक क्लस्टर्ड कॉलम चार्ट का उपयोग करें।",
+      "3. दोनों उत्पादों के बिक्री आंकड़ों को मिलाकर एक ही पाई चार्ट में डिस्प्ले करें।",
+      "4. प्रत्येक वर्ष का केवल सबसे अधिक बिक्री आंकड़ा एक टेक्स्ट बॉक्स में प्रस्तुत करें।"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A user needs to create the same type of formal letter every week with a consistent layout. Which option is most suitable?",
+    "options": [
+      "1. Use a document template",
+      "2. Randomly change fonts each time",
+      "3. Save every letter as an image",
+      "4. Type the page margins manually every time"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एक उपयोगकर्ता को प्रत्येक सप्ताह एक सुसंगत लेआउट के साथ एक ही प्रकार का फॉर्मल लेटर बनाना है। कौन-सा विकल्प सर्वाधिक उपयुक्त है?",
+    "options": [
+      "1. एक डॉक्यूमेंट टेम्प्लेट का उपयोग करें",
+      "2. प्रत्येक बार यादृच्छिक रूप से फॉन्ट बदलें",
+      "3. प्रत्येक लेटर को एक इमेज के रूप में सेव करें",
+      "4. प्रत्येक बार पेज मार्जिन मैन्युअल रूप से टाइप करें"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which Microsoft Word 2019 feature identifies possible spelling mistakes and suggests corrections?",
+    "options": [
+      "1. Spelling & Grammar",
+      "2. Mail Merge",
+      "3. Page Orientation",
+      "4. Line Spacing"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कौन-सा Microsoft Word 2019 फीचर, संभावित वर्तनी गलतियों की पहचान करता है और सुधार का सुझाव देता है?",
+    "options": [
+      "1. Spelling & Grammar",
+      "2. Mail Merge",
+      "3. Page Orientation",
+      "4. Line Spacing"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In a word-processed table, what is the main purpose of a header row?",
+    "options": [
+      "1. To identify and label the contents of each column",
+      "2. To delete all table borders",
+      "3. To convert the table into an image",
+      "4. To make each cell contain a formula"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "किसी वर्ड-प्रोसेस्ड टेबल में, हेडर रो (header row) का मुख्य उद्देश्य क्या है?",
+    "options": [
+      "1. प्रत्येक कॉलम के कंटेंट्स की पहचान करना और उसे लेबल करना",
+      "2. सभी टेबल बॉर्डर्स को डिलीट करना",
+      "3. टेबल को एक इमेज में बदलना",
+      "4. प्रत्येक सेल को एक फॉर्मूला युक्त बनाना"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A sales formula uses a tax rate stored in cell F1. The formula will be copied down many rows. Which reference keeps F1 fixed in MS Excel?",
+    "options": [
+      "1. $F$1",
+      "2. F1",
+      "3. F$1",
+      "4. $F1"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एक बिक्री फॉर्मूला, सेल F1 में स्टोर किए गए एक टैक्स रेट का उपयोग करता है। फॉर्मूला नीचे कई रो में कॉपी किया जाएगा। MS Excel में कौन-सा रेफरेंस, F1 को स्थिर रखता है?",
+    "options": [
+      "1. $F$1",
+      "2. F1",
+      "3. F$1",
+      "4. $F1"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS Excel, a candidate's obtained marks are stored in cell B2 and the maximum marks are stored in cell C2. Which formula should be written in cell D2 to calculate the percentage score?",
+    "options": [
+      "1. =(B2/C2)*100",
+      "2. =(C2/B2)*100",
+      "3. =B2/(C2*100)",
+      "4. =(B2*C2)/100"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS Excel में, एक उम्मीदवार के प्राप्त अंक सेल B2 में और कुल अधिकतम अंक सेल C2 में संग्रहीत हैं। प्रतिशत अंक की गणना करने के लिए सेल D2 में कौन सा फ़ॉर्मूला लिखा जाना चाहिए?",
+    "options": [
+      "1. =(B2/C2)*100",
+      "2. =(C2/B2)*100",
+      "3. =B2/(C2*100)",
+      "4. =(B2*C2)/100"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Refer to the image given below. Which spreadsheet feature automatically highlights cells whose values meet a specified condition? <br> <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikKteEoRj4ErB5vVpKOjp1_GCtG4YGqq-qg4i1bW3bZRNdkV13djjVJRLKBvDHsvw2L9pocNxPuNcByYpIz_st_dVUrxNL_aBNUmOjm1KEV5oewUscbbYYsU9Wysv4FzJjGGFlDdYstG5pBNpjwoLn0H8Ee6JbWPMtsYS94ISS2GAJ2b_aPNL6Rha1s1DE/s320/01%20hh.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. Data validation",
+      "2. Conditional formatting",
+      "3. Freeze panes",
+      "4. Text wrapping"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "नीचे दी गई इमेज देखें। कौन-सा स्प्रेडशीट फीचर स्वचालित रूप से उन सेल को हाइलाइट करता है जिनके मान किसी निर्दिष्ट शर्त को पूरा करते हैं? <br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikKteEoRj4ErB5vVpKOjp1_GCtG4YGqq-qg4i1bW3bZRNdkV13djjVJRLKBvDHsvw2L9pocNxPuNcByYpIz_st_dVUrxNL_aBNUmOjm1KEV5oewUscbbYYsU9Wysv4FzJjGGFlDdYstG5pBNpjwoLn0H8Ee6JbWPMtsYS94ISS2GAJ2b_aPNL6Rha1s1DE/s320/01%20hh.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. डेटा वैलिडेशन (Data validation)",
+      "2. कंडीशनल फॉर्मेटिंग (Conditional formatting)",
+      "3. फ्रीज पेन्स (Freeze panes)",
+      "4. टेक्स्ट रैपिंग (Text wrapping)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A document contains a table with many columns that becomes unreadable on a portrait page. What is the best layout change in MS-Word?",
+    "options": [
+      "1. Change only the font colour",
+      "2. Use landscape orientation for that section",
+      "3. Remove all column headings",
+      "4. Insert extra blank lines before the table"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक डॉक्यूमेंट में कई कॉलमों वाली एक टेबल है जो पोर्ट्रेट पेज पर अपठनीय हो जाती है। MS-Word में सर्वोत्तम लेआउट परिवर्तन क्या है?",
+    "options": [
+      "1. केवल फॉन्ट रंग बदलें",
+      "2. उस सेक्शन के लिए लैंडस्केप ओरिएंटेशन का उपयोग करें",
+      "3. सभी कॉलम हेडिंग रिमूव करें",
+      "4. टेबल से पहले अतिरिक्त ब्लैंक लाइनें इन्सर्ट करें"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In MS Word, which method BEST ensures that heading formatting remains consistent throughout a multi-page document?",
+    "options": [
+      "1. Applying built-in or custom Heading Styles from the Home tab",
+      "2. Manually changing font size and color for each heading individually",
+      "3. Converting headings into images before inserting them",
+      "4. Setting individual tab stops for each heading line"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS Word में, कई पेजों वाले दस्तावेज़ में हेडिंग फ़ॉर्मेटिंग को शुरू से अंत तक एकसमान (consistent) बनाए रखने के लिए कौन सी विधि सर्वोत्तम है?",
+    "options": [
+      "1. 'Home' टैब से बिल्ट-इन या कस्टम हेडिंग स्टाइल्स (Heading Styles) लागू करना",
+      "2. प्रत्येक हेडिंग के लिए फ़ॉन्ट साइज़ और रंग को मैन्युअल रूप से अलग-अलग बदलना",
+      "3. हेडिंग्स को दस्तावेज़ में जोड़ने से पहले इमेज (चित्र) में बदलना",
+      "4. प्रत्येक हेडिंग लाइन के लिए अलग से टैब स्टॉप (Tab Stops) सेट करना"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In major search engines (like Google), which advanced search operator is used to restrict search results to a specific file format?",
+    "options": [
+      "1. filetype:",
+      "2. format:",
+      "3. doctype:",
+      "4. extension:"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "प्रमुख सर्च इंजनों (नों जैसे Google) में, खोज परिणामों (search results) मों को किसी विशिष्ट फ़ाइल प्रारूप (file format) तक सीमित करने के लिए किस एडवांस सर्च ऑपरेटर का उपयोग किया जाता है?",
+    "options": [
+      "1. filetype:",
+      "2. format:",
+      "3. doctype:",
+      "4. extension:"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS Excel, a cell must display \"Excellent\" if marks in cell B2 are 80 or above, \"Pass\" if marks are 40 to 79, and \"Fail\" if marks are below 40. Which formula is MOST appropriate?",
+    "options": [
+      "1. =IF(B2>=80, \"Excellent\", IF(B2>=40, \"Pass\", \"Fail\"))",
+      "2. =IF(B2>=80, \"Excellent\", IF(B2<40, \"Pass\", \"Fail\"))",
+      "3. =IF(B2<40, \"Fail\", IF(B2<80, \"Excellent\", \"Pass\"))",
+      "4. =IF(B2>=40, \"Pass\", IF(B2>=80, \"Excellent\", \"Fail\"))"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS Excel में, यदि सेल B2 में अंक 80 या उससे अधिक हैं तो \"Excellent\", यदि अंक 40 से 79 के बीच हैं तो \"Pass\", और यदि अंक 40 से कम हैं तो \"Fail\" प्रदर्शित होना चाहिए। इसके लिए कौन सा फ़ॉर्मूला सर्वाधिक उपयुक्त है?",
+    "options": [
+      "1. =IF(B2>=80, \"Excellent\", IF(B2>=40, \"Pass\", \"Fail\"))",
+      "2. =IF(B2>=80, \"Excellent\", IF(B2<40, \"Pass\", \"Fail\"))",
+      "3. =IF(B2<40, \"Fail\", IF(B2<80, \"Excellent\", \"Pass\"))",
+      "4. =IF(B2>=40, \"Pass\", IF(B2>=80, \"Excellent\", \"Fail\"))"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In spreadsheet applications (such as MS Excel), which practice provides the BEST balance between workflow automation and cybersecurity when dealing with macros?",
+    "options": [
+      "1. Enabling macros only from trusted, verified sources with standard security warnings active",
+      "2. Enabling all macros automatically without notifications to maximize productivity",
+      "3. Permanently disabling all macros across all files, including digitally signed internal templates",
+      "4. Running macro-enabled workbooks exclusively in read-only web viewers"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "स्प्रेडशीट अनुप्रयोगों (गों जैसे MS Excel) में, मैक्रोज़ (Macros) का उपयोग करते समय ऑटोमेशन और साइबर सुरक्षा के बीच सर्वोत्तम संतुलन कौन सा विकल्प प्रदान करता है?",
+    "options": [
+      "1. मानक सुरक्षा चेतावनियों को सक्रिय रखते हुए केवल विश्वसनीय और सत्यापित स्रोतों से मैक्रोज़ को सक्षम (enable) करना",
+      "2. बिना किसी सूचना के सभी मैक्रोज़ को स्वचालित रूप से सक्षम करना",
+      "3. डिजिटली हस्ताक्षरित आंतरिक टेम्प्लेट सहित सभी फ़ाइलों में मैक्रोज़ को स्थायी रूप से अक्षम (disable) करना",
+      "4. मैक्रो-सक्षम वर्कबुक्स को केवल रीड-ओनली वेब व्यूअर्स में खोलना"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "An editor must show proposed insertions and deletions to the author without silently changing the final text. Which feature best supports this review workflow in MS Word?",
+    "options": [
+      "1. Word Count",
+      "2. Track Changes",
+      "3. Page Colour",
+      "4. AutoCorrect only"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक एडिटर को अंतिम टेक्स्ट को चुपचाप बदले बिना, ऑथर को प्रस्तावित इंसर्शन और डिलीशन दिखाने हैं। MS Word में कौन-सा फीचर इस समीक्षा वर्कफ़्लो का सर्वोत्तम रूप से सपोर्ट करता है?",
+    "options": [
+      "1. वर्ड काउंट (Word Count)",
+      "2. ट्रैक चेंजेस (Track Changes)",
+      "3. पेज कलर (Page Colour)",
+      "4. केवल ऑटोकरेक्ट (AutoCorrect only)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A bar chart compares two candidates' scores: 78 and 82. The vertical axis starts at 77, making the 82 bar look many times taller. Which criticism is most accurate?",
+    "options": [
+      "1. The chart must always use 3D effects for accuracy",
+      "2. The chart may exaggerate a small difference by using a truncated axis",
+      "3. The chart is invalid because bars cannot show scores",
+      "4. The chart becomes more objective when labels are removed"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक बार चार्ट दो अभ्यर्थियों के स्कोर 78 और 82 की तुलना करता है। ऊर्ध्वाधर अक्ष 77 से शुरू होता है, जिससे 82 वाला बार कई गुना ऊंचा दिखता है। कौन-सी आलोचना सर्वाधिक परिशुद्ध है?",
+    "options": [
+      "1. परिशुद्धता के लिए चार्ट में हमेशा 3D इफेक्ट का उपयोग किया जाना चाहिए",
+      "2. चार्ट एक ट्रंकेटेड अक्ष का उपयोग करके एक छोटे अंतर को बढ़ा-चढ़ाकर दिखा सकता है",
+      "3. चार्ट अमान्य है क्योंकि बार स्कोर नहीं दिखा सकते हैं",
+      "4. लेबल रिमूव करने पर चार्ट अधिक वस्तुनिष्ठ हो जाता है"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A user must correct a repeated word in a long document without using the mouse. Which sequence is the most efficient keyboard-centred workflow?",
+    "options": [
+      "1. Press Print Screen, paste the image, crop the word",
+      "2. Open Find/Replace shortcut, enter old word, enter new word, confirm replacements",
+      "3. Use Caps Lock, retype the whole document, save",
+      "4. Open page setup, change margins, close document"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक उपयोगकर्ता को माउस का उपयोग किए बिना किसी लंबे डॉक्यूमेंट में दोहराए गए शब्द को सुधारना है। कौन-सा अनुक्रम सर्वाधिक कुशल कीबोर्ड-केंद्रित वर्कफ्लो है?",
+    "options": [
+      "1. Print Screen प्रेस करें, इमेज पेस्ट करें, शब्द को क्रॉप करें",
+      "2. Find/Replace शॉर्टकट ओपन करें, पुराना शब्द एंटर करें, नया शब्द एंटर करें, रिप्लेसमेंट कन्फर्म करें",
+      "3. Caps Lock का उपयोग करें, पूरे डॉक्यूमेंट को दोबारा टाइप करें, सेव करें",
+      "4. page setup ओपन करें, मार्जिन बदलें, डॉक्यूमेंट क्लोज करें"
+    ],
+    "answer": 1
+  }
+],
+
   
   "5th July 2026 - Shift1": [
 {
