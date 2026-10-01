@@ -3129,6 +3129,1050 @@
   }
 ],
 
+"8th Sep 2026 - Shift1": [
+  {
+    "q": "Which of the following images shows a pointing device?",
+    "options": [
+      "1. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjr7jmGq1qyTPykNfKvNgBivsshjx9kdrAGzq0W6XJZhox3UWKGEzwZDhYysPwIC5cox5TsxrhOwXZd5V2AAbUQEcPgp5osrxH6YxaZUx1gEZD5TFHd7JUNqijG9ksqEmKtjOP9pd14LTbRSy7_zoQ9OhsLrRoJ1KJZY4DZIkjZZ0Bp8luHOfHOAz7w25K/s1600/01%20im.png\" style=\"max-width:100%;height:auto;\">",
+      "2. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxHW3enzw-RQTr1_0YUSlTDouuaXkajwKOQS3uXcCe76DZGocL2JKeh3c36blSu5X2YkFqFPzJlIe8LTDx-BdoMrTbNGDNNOz_5-F-Em7voyWu5cyOkjMREFjYtR33hWiN7f_phiRaA2ahgrDlmdCx_QnjgCAG0O4aeqUgok9H9FHDt4T2gr2OBBEaE_z8/s1600/02%20im.png\" style=\"max-width:100%;height:auto;\">",
+      "3. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPp7krzai6Rt6YTkHbSGpydkuk3mF6eAk4HEjDgkONtMPO8rXCQEB1QUlf7dU2Oxij4LOVn6qWThaicqAUKOLHBNq0shAzzexBW8iGZij-GKX3hxDrEspFnk4WFjz-fllcAd1s0vENrBXXjEzJLDBLucHQvO8QncdA7yE7eHuT2bNOXpGZ1Ft5yVV4Hxrk/s1600/03%20im.png\" style=\"max-width:100%;height:auto;\">",
+      "4. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj77CP-VMf0lullOxx8VQGnYwCbFsanCHOKx0_SgPiQwO76XaNu9ZR_4S2uA7Lm4k6k-FvKKXj3ViTLz9Gq6SixZdp7xnNvd2qPwXm_bNMmlwSTCaKxVeXADrvKpHfqYTZ-zFJBMb_M6N2krQ16jGok2v1aP-fDfuUKu2rK7dL66QR0yrBXo11wK5XfgK0F/s1600/04%20im.png\" style=\"max-width:100%;height:auto;\">"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा चित्र एक पॉइंटिंग डिवाइस को दर्शाता है?",
+    "options": [
+      "1. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjr7jmGq1qyTPykNfKvNgBivsshjx9kdrAGzq0W6XJZhox3UWKGEzwZDhYysPwIC5cox5TsxrhOwXZd5V2AAbUQEcPgp5osrxH6YxaZUx1gEZD5TFHd7JUNqijG9ksqEmKtjOP9pd14LTbRSy7_zoQ9OhsLrRoJ1KJZY4DZIkjZZ0Bp8luHOfHOAz7w25K/s1600/01%20im.png\" style=\"max-width:100%;height:auto;\">",
+      "2. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxHW3enzw-RQTr1_0YUSlTDouuaXkajwKOQS3uXcCe76DZGocL2JKeh3c36blSu5X2YkFqFPzJlIe8LTDx-BdoMrTbNGDNNOz_5-F-Em7voyWu5cyOkjMREFjYtR33hWiN7f_phiRaA2ahgrDlmdCx_QnjgCAG0O4aeqUgok9H9FHDt4T2gr2OBBEaE_z8/s1600/02%20im.png\" style=\"max-width:100%;height:auto;\">",
+      "3. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPp7krzai6Rt6YTkHbSGpydkuk3mF6eAk4HEjDgkONtMPO8rXCQEB1QUlf7dU2Oxij4LOVn6qWThaicqAUKOLHBNq0shAzzexBW8iGZij-GKX3hxDrEspFnk4WFjz-fllcAd1s0vENrBXXjEzJLDBLucHQvO8QncdA7yE7eHuT2bNOXpGZ1Ft5yVV4Hxrk/s1600/03%20im.png\" style=\"max-width:100%;height:auto;\">",
+      "4. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj77CP-VMf0lullOxx8VQGnYwCbFsanCHOKx0_SgPiQwO76XaNu9ZR_4S2uA7Lm4k6k-FvKKXj3ViTLz9Gq6SixZdp7xnNvd2qPwXm_bNMmlwSTCaKxVeXADrvKpHfqYTZ-zFJBMb_M6N2krQ16jGok2v1aP-fDfuUKu2rK7dL66QR0yrBXo11wK5XfgK0F/s1600/04%20im.png\" style=\"max-width:100%;height:auto;\">"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which output device is specifically designed to produce large, high-quality line drawings such as engineering or architectural plans?",
+    "options": [
+      "1. Webcam",
+      "2. Barcode scanner",
+      "3. Microphone",
+      "4. Plotter"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कौन-सी आउटपुट डिवाइस विशेष रूप से इंजीनियरिंग या आर्किटेक्चरल प्लान जैसी बड़ी, उच्च-गुणवत्ता वाली लाइन ड्रॉइंग बनाने के लिए डिज़ाइन की गई है?",
+    "options": [
+      "1. वेबकैम (Webcam)",
+      "2. बारकोड स्कैनर (Barcode scanner)",
+      "3. माइक्रोफोन (Microphone)",
+      "4. प्लॉटर (Plotter)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which storage medium records data as microscopic pits and lands that are read by a laser beam?",
+    "options": [
+      "1. Hard disk drive",
+      "2. RAM chip",
+      "3. Optical disc (CD/DVD)",
+      "4. Solid-state drive"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "कौन-सा स्टोरेज माध्यम डेटा को माइक्रोस्कोपिक पिट्स (microscopic pits) और लैंड्स (lands) के रूप में रिकॉर्ड करता है जिन्हें एक लेजर बीम द्वारा रीड किया जाता है?",
+    "options": [
+      "1. हार्ड डिस्क ड्राइव",
+      "2. RAM चिप",
+      "3. ऑप्टिकल डिस्क (CD/DVD)",
+      "4. सॉलिड-स्टेट ड्राइव"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which hardware component on a computer's motherboard is a thin rectangular module that slots vertically into dedicated slots and temporarily stores data and instructions for the CPU to access quickly?",
+    "options": [
+      "1. A hard disk platter",
+      "2. A computer monitor",
+      "3. A RAM (memory) module",
+      "4. A keyboard"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "कंप्यूटर के मदरबोर्ड पर कौन-सा हार्डवेयर घटक एक पतला आयताकार मॉड्यूल है जो समर्पित स्लॉट्स में लंबवत रूप से लगता है और CPU के त्वरित एक्सेस के लिए डेटा और निर्देशों को अस्थायी रूप से स्टोर करता है?",
+    "options": [
+      "1. हार्ड डिस्क प्लैटर",
+      "2. कंप्यूटर मॉनिटर",
+      "3. RAM (मेमोरी) मॉड्यूल",
+      "4. कीबोर्ड"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In a multi-core processor, what does having several cores primarily allow the computer to do?",
+    "options": [
+      "1. Store many more files permanently",
+      "2. Increase the size of the monitor",
+      "3. Print documents faster",
+      "4. Execute multiple tasks or instruction streams truly in parallel"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "एक मल्टी-कोर प्रोसेसर में, कई कोर होने से कंप्यूटर प्राथमिक रूप से क्या करने में सक्षम होता है?",
+    "options": [
+      "1. बहुत अधिक फाइलों को स्थायी रूप से स्टोर करना",
+      "2. मॉनिटर का साइज़ बढ़ाना",
+      "3. डॉक्यूमेंट तेज़ी से प्रिंट करना",
+      "4. कई कार्यों या निर्देश-धाराओं को वास्तव में समानांतर (parallel) रूप से एग्जीक्यूट करना"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "An organisation needs a single powerful central system to reliably process huge volumes of transactions for thousands of simultaneous users, such as in banking. Which class of computers is most appropriate?",
+    "options": [
+      "1. Personal desktop",
+      "2. Embedded microcontroller",
+      "3. Mainframe",
+      "4. Tablet"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एक संगठन को बैंकिंग की तरह ही, हजारों समवर्ती उपयोगकर्ताओं के लिए भारी मात्रा में ट्रांज़ैक्शन विश्वसनीय रूप से प्रोसेस करने हेतु एक शक्तिशाली केंद्रीय सिस्टम की आवश्यकता होती है। इसके लिए कंप्यूटर का कौन-सा वर्ग सबसे उपयुक्त है?",
+    "options": [
+      "1. पर्सनल डेस्कटॉप (Personal desktop)",
+      "2. एम्बेडेड माइक्रोकंट्रो लर (Embedded microcontroller)",
+      "3. मेनफ्रेम (Mainframe)",
+      "4. टैबलेट (Tablet)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which option correctly classifies all the listed secondary storage devices by their storage technology?",
+    "options": [
+      "1. CD: magnetic; SSD: optical; pen drive: flash",
+      "2. Floppy disk: magnetic; Blu-ray Disc: optical; SSD: flash",
+      "3. DVD: flash; pen drive: magnetic; SSD: optical",
+      "4. Blu-ray Disc: magnetic; CD: flash; floppy disk: optical"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा विकल्प सभी दिए गए सेकेंडरी स्टोरेज डिवाइस को उनकी स्टोरेज टेक्नोलॉजी के आधार पर सही तरीके से वर्गीकृत करता है?",
+    "options": [
+      "1. CD: मैग्नेटिक; SSD: ऑप्टिकल; पेन ड्रा इव: फ्लैश",
+      "2. फ्लॉपी डिस्क: मैग्नेटिक; ब्लू-रे डिस्क: ऑप्टिकल; SSD: फ्लैश",
+      "3. DVD: फ्लैश; पेन ड्राइव: मैग्नेटिक; SSD: ऑप्टिकल",
+      "4. ब्लू-रे डिस्क: मैग्नेटिक; CD: फ्लैश; फ्लॉपी डिस्क: ऑप्टिकल"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A user finds that video editing becomes much smoother after adding a dedicated graphics card, even though the CPU and RAM are unchanged. Which explanation is the most accurate?",
+    "options": [
+      "1. The GPU adds a large amount of permanent file storage",
+      "2. The GPU offloads and accelerates the parallel graphics/rendering work that would otherwise burden the CPU",
+      "3. The GPU increases the internet download bandwidth",
+      "4. The GPU replaces the operating system with a faster one"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक उपयोगकर्ता पाता है कि CPU और RAM को अपरिवर्तित रखने के बावजूद, एक समर्पित ग्राफिक्स कार्ड जोड़ने के बाद वीडियो एडिटिंग बहुत सुगम हो जाती है। कौन-सी व्याख्या सर्वाधिक सटीक है?",
+    "options": [
+      "1. GPU बड़ी मात्रा में स्थायी फाइल स्टोरेज जोड़ता है",
+      "2. GPU समानांतर ग्राफिक्स/रेंडरिंग कार्य को अपने ऊपर ले लेता है और तेज़ करता है, जो अन्यथा CPU पर बोझ डालता है",
+      "3. GPU इंटरनेट डाउनलोड बैंडविड्थ बढ़ाता है",
+      "4. GPU ऑपरेटिंग सिस्टम को एक तेज़ ऑपरेटिंग सिस्टम से बदल देता है"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Select the correct option regarding the following two statements labelled Assertion (A) and Reason (R). <br><br> Assertion (A): A 64-bit processor can generally address far more memory than a 32-bit processor. <br>Reason (R): The number of bits determines the size of the memory addresses the processor can handle.",
+    "options": [
+      "1. Both A and R are true, but R is NOT the correct explanation of A",
+      "2. Both A and R are true, and R is the correct explanation of A",
+      "3. A is true but R is false",
+      "4. A is false but R is true"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "अभिकथन (A) और कारण (R) लेबल वाले निम्नलिखित दो कथनों के संबंध में सही विकल्प चुनें। <br> <br> अभिकथन (A): एक 64-बिट प्रोसेसर सामान्यतः 32-बिट प्रोसेसर की तुलना में कहीं अधिक मेमोरी को एड्रेस कर सकता है। <br> कारण (R): बिट्स की संख्या प्रोसेसर द्वारा हैंडल किए जा सकने वाले मेमोरी एड्रेस का साइज़ निर्धारित करती है।",
+    "options": [
+      "1. A और R दोनों सत्य हैं, लेकिन R, A की सही व्याख्या नहीं है",
+      "2. A और R दोनों सत्य हैं तथा R, A की सही व्याख्या है",
+      "3. A सत्य है लेकिन R असत्य है",
+      "4. A असत्य है लेकिन R सत्य है"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which of the following best describes what a Graphical User Interface (GUI) allows a user to do?",
+    "options": [
+      "1. Communicate with the computer only by typing text commands",
+      "2. Increase the processor's clock speed",
+      "3. Interact with the computer using icons, windows and a pointer",
+      "4. Store data permanently without any software"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "इनमें से कौन-सा विकल्प सबसे अच्छी तरह बताता है कि ग्राफिकल यूज़र इंटरफ़ेस (GUI) यूज़र को क्या करने की सुविधा देता है?",
+    "options": [
+      "1. सिर्फ़ टेक्स्ट कमांड टाइप करके कंप्यूटर से बातचीत करना",
+      "2. प्रोसेसर की क्लॉक स्पीड बढ़ाना",
+      "3. आइकन, विंडो और पॉइंटर का इस्तेमाल करके कंप्यूटर के साथ इंटरैक्ट करना",
+      "4. बिना किसी सॉफ़्टवेयर के डेटा को स्थायी रूप से स्टोर करना"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "How many bits make up one byte?",
+    "options": [
+      "4",
+      "8",
+      "16",
+      "1024"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक बाइट कितने बिट्स से मिलकर बनता है?",
+    "options": [
+      "4",
+      "8",
+      "16",
+      "1024"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which statement BEST distinguishes system software from application software?",
+    "options": [
+      "1. System software is always free of cost, while application software must always be purchased",
+      "2. System software manages and runs the computer's hardware and resources, while application software helps the user carry out specific tasks",
+      "3. System software can run only on servers, while application software runs only on laptops",
+      "4. Application software controls the hardware directly and does not need any system software"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कौन-सा कथन, सिस्टम सॉफ्टवेयर को एप्लिकेशन सॉफ्टवेयर से सर्वोत्तम रूप से विभेदित करता है?",
+    "options": [
+      "1. सिस्टम सॉफ्टवेयर सदैव नि:शुल्क होता है, जबकि एप्लिकेशन सॉफ्टवेयर सदैव खरीदना पड़ता है",
+      "2. सिस्टम सॉफ्टवेयर कंप्यूटर के हार्डवेयर और संसाधनों को मैनेज और रन करता है, जबकि एप्लिकेशन सॉफ्टवेयर उपयोगकर्ता को विशिष्ट कार्य करने में सहायता करता है",
+      "3. सिस्टम सॉफ्टवेयर केवल सर्वर पर चल सकता है, जबकि एप्लिकेशन सॉफ्टवेयर केवल लैपटॉप पर चलता है",
+      "4. एप्लिकेशन सॉफ्टवेयर सीधे हार्डवेयर को कंट्रोल करता है और उसे किसी सिस्टम सॉफ्टवेयर की आवश्यकता नहीं होती है"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which statement correctly describes assembly language?",
+    "options": [
+      "1. It is a high-level language directly understood by the CPU without translation",
+      "2. It is the binary language of 0s and 1s executed directly by hardware",
+      "3. It is a low-level language using mnemonics that an assembler converts into machine code",
+      "4. It is a natural human language used without any rules"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "कौन-सा कथन असेंबली लैंग्वेज का सही वर्णन करता है?",
+    "options": [
+      "1. यह एक हाई-लेवल लैंग्वेज है जिसे CPU बिना अनुवाद के सीधे समझ लेता है",
+      "2. यह 0 और 1 की बाइनरी लैंग्वेज है जिसे हार्डवेयर सीधे एग्जीक्यूट करता है",
+      "3. यह निमोनिक्स का उपयोग करने वाली एक लो-लेवल लैंग्वेज है जिसे एक असेंबलर मशीन कोड में परिवर्तित करता है",
+      "4. यह एक प्राकृतिक मानव लैंग्वेज है जो बिना किसी नियम के उपयोग की जाती है"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "On a single-core computer that appears to run several programs 'at the same time', how does the operating system actually achieve this?",
+    "options": [
+      "1. It rapidly switches the processor between processes (time-sharing) so they appear to run simultaneously",
+      "2. It secretly uses several physical processors that are always present",
+      "3. It runs only one program and permanently freezes all the others",
+      "4. It converts each program directly into hardware circuits"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "सिंगल-कोर कंप्यूटर पर कई प्रोग्राम ‘एक ही समय पर’ रन होते हुए दिखाई देते हैं। ऑपरेटिंग सिस्टम वास्तव में इसे कैसे संभव बनाता है?",
+    "options": [
+      "1. ऑपरेटिंग सिस्टम प्रोसेसर को अलग-अलग प्रोसेस के बीच तेज़ी से स्विच करता है (टाइम-शेयरिंग), जिससे वे एक साथ रन होते हुए दिखाई देते हैं।",
+      "2. ऑपरेटिंग सिस्टम गुप्त रूप से हमेशा उपलब्ध कई फिज़िकल प्रोसेसर का उपयोग करता है।",
+      "3. ऑपरेटिंग सिस्टम केवल एक प्रोग्राम रन करता है और अन्य सभी प्रोग्राम को स्थायी रूप से फ़्रीज़ कर देता है।",
+      "4. ऑपरेटिंग सिस्टम प्रत्येक प्रोग्राम को सीधे हार्डवेयर सर्किट में बदल देता है।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A program's source code is freely available for anyone to view, modify and redistribute under the terms of its licence. Into which category does it best fit?",
+    "options": [
+      "1. Proprietary software",
+      "2. Open-source software",
+      "3. Freeware (free of cost but closed source)",
+      "4. Shareware"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "किसी प्रोग्राम का सोर्स कोड उसके लाइसेंस की शर्तों के अंतर्गत किसी के लिए भी देखने, संशोधित करने और पुनर्वितरित करने हेतु स्वतंत्र रूप से उपलब्ध है। यह किस श्रेणी में सर्वोत्तम रूप से फिट बैठता है?",
+    "options": [
+      "1. प्रोप्राइटरी सॉफ्टवेयर",
+      "2. ओपन-सोर्स सॉफ्टवेयर",
+      "3. फ्रीवेयर (नि:शुल्क किंतु क्लोज़्ड सोर्स)",
+      "4. शेयरवेयर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which keyboard shortcut lets a user quickly switch between the applications that are currently open in the Windows Operating System?",
+    "options": [
+      "1. Ctrl + Tab",
+      "2. Win + D",
+      "3. Ctrl + Esc",
+      "4. Alt + Tab"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कौन-सा कीबोर्ड शॉर्टकट उपयोगकर्ता को विंडोज ऑपरेटिंग सिस्टम में वर्तमान में खुले एप्लिकेशनों के बीच तेज़ी से स्विच करने की सुविधा देता है?",
+    "options": [
+      "1. Ctrl + Tab",
+      "2. Win + D",
+      "3. Ctrl + Esc",
+      "4. Alt + Tab"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Refer to the image given below. Several computers are each connected individually to one central device. Which network topology does the image represent? <br> <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHJ1_cUW6xa-Ce81N6k-Bnrgk3Q-9jigVqWyqm5FcgHx1e7GDDu8W55MFSvLUuGJGzIiw7JF23_NmhX0ZWFV2S8AKQC13rDYNxPCRgrc72pTuHvzidDNO8AV7vfRD_Jr5ZTmVQum5fuKkoTrJa9NTCeTIOjaAmlioGGj3q6WKuNR4hNXWKJunAcXCcetr-/s320/ty%2065.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. Bus",
+      "2. Star",
+      "3. Ring",
+      "4. Mesh"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "नीचे दी गई इमेज का संदर्भ लीजिए। कई कंप्यूटर अलग-अलग रूप से एक केंद्रीय डिवाइस से जुड़े हैं। यह इमेज किस नेटवर्क टोपोलॉजी को दर्शाती है? <br> <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHJ1_cUW6xa-Ce81N6k-Bnrgk3Q-9jigVqWyqm5FcgHx1e7GDDu8W55MFSvLUuGJGzIiw7JF23_NmhX0ZWFV2S8AKQC13rDYNxPCRgrc72pTuHvzidDNO8AV7vfRD_Jr5ZTmVQum5fuKkoTrJa9NTCeTIOjaAmlioGGj3q6WKuNR4hNXWKJunAcXCcetr-/s320/ty%2065.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. बस (Bus)",
+      "2. स्टार (Star)",
+      "3. रिंग (Ring)",
+      "4. मेश (Mesh)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "When several printers are installed on one computer, which setting decides the printer that is used automatically unless the user chooses another?",
+    "options": [
+      "1. Print spooler",
+      "2. Duplex mode",
+      "3. Print preview",
+      "4. Default printer"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "जब एक कंप्यूटर पर कई प्रिंटर इंस्टॉल हों, हों तो कौन-सी सेटिंग यह तय करती है कि जब तक उपयोगकर्ता किसी अन्य का चयन न करें, तब तक कौन सा प्रिंटर स्वचालित रूप से उपयोग होगा?",
+    "options": [
+      "1. प्रिंट स्पूलर (Print spooler)",
+      "2. डुप्लेक्स मोड (Duplex mode)",
+      "3. प्रिंट प्रीव्यू (Print preview)",
+      "4. डिफ़ॉल्ट प्रिंटर (Default printer)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A laptop shows it is connected to Wi-Fi, yet no website loads on the laptop or on any other device in the house. What is the most appropriate first step?",
+    "options": [
+      "1. Reinstall the laptop's operating system",
+      "2. Replace the laptop's RAM module",
+      "3. Restart (power-cycle) the router/modem",
+      "4. Buy a new laptop"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एक लैपटॉप दिखाता है कि वह Wi-Fi से कनेक्टेड है, फिर भी लैपटॉप पर और घर की किसी अन्य डिवाइस पर कोई वेबसाइट लोड नहीं होती है। सबसे उपयुक्त पहला कदम क्या है?",
+    "options": [
+      "1. लैपटॉप के ऑपरेटिंग सिस्टम को फिर से इंस्टॉल करें",
+      "2. लैपटॉप का RAM मॉड्यूल बदलें",
+      "3. राउटर/मॉडेम को रीस्टार्ट (पावर-साइकिल) करें",
+      "4. एक नया लैपटॉप खरीदें"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "To completely remove an installed application from a computer, which method is the most appropriate in Windows 11 Operating System?",
+    "options": [
+      "1. Use the operating system's 'uninstall/remove program' feature",
+      "2. Delete only the application's desktop shortcut",
+      "3. Drag the desktop shortcut into the Recycle Bin",
+      "4. Hide the application's icon from the Start menu"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "किसी इंस्टॉल किए गए एप्लिकेशन को कंप्यूटर से पूरी तरह हटाने के लिए, विंडोज 11 ऑपरेटिंग सिस्टम में कौन-सा तरीका सर्वाधिक उपयुक्त है?",
+    "options": [
+      "1. ऑपरेटिंग सिस्टम के 'uninstall/remove program' फीचर का उपयोग करें",
+      "2. केवल एप्लिकेशन का डेस्कटॉप शॉर्टकट डिलीट करें",
+      "3. डेस्कटॉप शॉर्टकट को रीसायकल बिन (Recycle Bin) में ड्रैग करें",
+      "4. स्टार्ट मेनू (Start menu) से एप्लिकेशन का आइकन हाइड करें"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which sequence best describes securely setting up a brand-new computer for first use?",
+    "options": [
+      "1. Install operating-system updates, install reputable antivirus, set a strong user password, then install trusted applications",
+      "2. Install games first, connect to open public Wi-Fi, then turn off all updates",
+      "3. Disable the firewall, install software from unknown sites, then skip setting a password",
+      "4. Share the administrator password widely, disable updates, then browse freely"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कौन-सा अनुक्रम, एक बिल्कुल नए कंप्यूटर को पहली बार उपयोग हेतु सुरक्षित रूप से सेटअप करने का सर्वोत्तम वर्णन करता है?",
+    "options": [
+      "1. ऑपरेटिंग-सिस्टम अपडेट इंस्टॉल करें, प्रतिष्ठित एंटीवायरस इंस्टॉल करें, एक मजबूत यूजर पासवर्ड सेट करें, फिर विश्वसनीय एप्लिकेशन इंस्टॉल करें",
+      "2. पहले गेम्स इंस्टॉल करें, ओपन पब्लिक Wi-Fi से कनेक्ट करें, फिर सभी अपडेट बंद कर दें",
+      "3. फायरवॉल को डिसेबल करें, अज्ञात साइटों से सॉफ्टवेयर इंस्टॉल करें, फिर पासवर्ड सेट करने का स्टेप छोड़ दें",
+      "4. एडमिनिस्ट्रेटर पासवर्ड को व्यापक रूप से शेयर करें, अपडेट डिसेबल करें, फिर स्वतंत्र रूप से ब्राउज़ करें"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A file with the .csv extension is best described as ______.",
+    "options": [
+      "1. a compressed archive containing many images",
+      "2. a plain-text file that stores tabular data with values separated by commas",
+      "3. an executable program file",
+      "4. a high-definition video file"
+    ],
+    "answer": 1
+  },
+  {
+    "q": ".csv एक्सटेंशन वाली फाइल का सर्वोत्तम वर्णन ______ के रूप में किया जाता है।",
+    "options": [
+      "1. कई इमेज वाला एक कंप्रेस्ड आर्काइव",
+      "2. एक प्लेन-टेक्स्ट फाइल जो टैबुलर डेटा को कॉमा द्वारा पृथक किए गए मानों के साथ स्टोर करती है",
+      "3. एक एग्जीक्यूटेबल प्रोग्राम फाइल",
+      "4. एक हाई-डेफिनिशन वीडियो फाइल"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Refer to the image below. Based on the folder tree shown, what is the correct path to reach the folder named 'Reports'? <br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1uiyEUh7PnQmD41OX_vTN2rTVl0aq3BXAX2sXtAL9Q92KQzB0Gq9W9LOmps7aAJAB0DEzqvH5H1uuqCDAowJvZYi9O-jM6SxRiUennjReIF61WYIu5bKgPDq2tCI1BPr5uf1aL8riNCzJXr7YYDFtapgZDYPqmzbNKcOOg7fHUbdlMt4kTyJG9_UOhsWY/s1600/ty%2066.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. Work > Reports",
+      "2. Work > Finance > Reports",
+      "3. Personal > Reports",
+      "4. Work > Finance > Personal > Reports"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "नीचे दिए गए चित्र का संदर्भ लीजिए। दिखाए गए फोल्डर ट्री के आधार पर, 'रिपोर्ट्स' नामक फोल्डर तक पहुँचने का सही पाथ क्या है? <br><img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1uiyEUh7PnQmD41OX_vTN2rTVl0aq3BXAX2sXtAL9Q92KQzB0Gq9W9LOmps7aAJAB0DEzqvH5H1uuqCDAowJvZYi9O-jM6SxRiUennjReIF61WYIu5bKgPDq2tCI1BPr5uf1aL8riNCzJXr7YYDFtapgZDYPqmzbNKcOOg7fHUbdlMt4kTyJG9_UOhsWY/s1600/ty%2066.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. वर्क > रिपोर्ट्स",
+      "2. वर्क > फाइनेंस > रिपोर्ट्स",
+      "3. पर्सनल > रिपोर्ट्स",
+      "4. वर्क > फाइनेंस > पर्सनल > रिपोर्ट्स"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A user zips a folder that contains only JPEG photos and MP4 videos and is surprised the ZIP is barely smaller than the originals. What is the best explanation?",
+    "options": [
+      "1. ZIP compression works only on text files",
+      "2. The files were corrupted the moment they were zipped",
+      "3. ZIP always doubles the size of media files",
+      "4. These files are already compressed, so ZIP can remove very little further redundancy"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "एक उपयोगकर्ता एक ऐसे फोल्डर को ज़िप करता है जिसमें केवल JPEG फोटो और MP4 वीडियो हैं और यह देखकर आश्चर्यचकित होता है कि ZIP का साइज़, मूल फाइलों के साइज़ की तुलना में मुश्किल से ही छोटा है। इसका सर्वोत्तम स्पष्टीकरण क्या है?",
+    "options": [
+      "1. ZIP कंप्रेशन केवल टेक्स्ट फाइलों पर कार्य करता है",
+      "2. फ़ाइलें उसी क्षण करप्ट हो गई थीं जब उन्हें ज़िप किया गया था",
+      "3. ZIP सदैव मीडिया फाइलों का साइज दोगुना कर देता है",
+      "4. ये फाइलें पहले से ही कंप्रेस्ड हैं, इसलिए ZIP इसमें से बहुत कम अतिरिक्त रिडंडेंसी हटा सकता है"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A user downloads an email attachment named 'invoice.pdf.exe' onto a Windows computer. Which statement is the most accurate and safe interpretation of this file?",
+    "options": [
+      "1. It is a normal PDF document and is completely safe to open",
+      "2. It is actually an executable program disguised to look like a PDF and should not be run",
+      "3. The double extension simply improves the file's compatibility",
+      "4. It is a specially compressed version of a PDF"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक उपयोगकर्ता किसी विंडोज कंप्यूटर पर 'invoice.pdf.exe' नामक एक ईमेल अटैचमेंट डाउनलोड करता है। इस फाइल की सबसे सटीक और सुरक्षित व्याख्या कौन-सा कथन है?",
+    "options": [
+      "1. यह एक सामान्य PDF डॉक्यूमेंट है और इसे खोलना पूरी तरह सुरक्षित है",
+      "2. यह वास्तव में एक एग्जीक्यूटेबल प्रोग्राम है जिसे PDF जैसा दिखने के लिए प्रच्छन्न (disguised) किया गया है और इसे रन नहीं किया जाना चाहिए",
+      "3. डबल एक्सटेंशन केवल फाइल की कम्पैटिबिलिटी में सुधार करता है",
+      "4. यह किसी PDF का एक विशेष रूप से कंप्रेस्ड संस्करण है"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A team must exchange a spreadsheet's raw data so it can be reliably imported into many different programs regardless of the software brand, accepting the loss of formulas and formatting. Which format best guarantees this?",
+    "options": [
+      "1. XLSX",
+      "2. CSV",
+      "3. PDF",
+      "4. PNG"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक टीम को किसी स्प्रेडशीट का अपरिष्कृत डेटा इस तरह एक्सचेंज करना है कि उसे सॉफ्टवेयर ब्रांड की परवाह किए बिना कई अलग-अलग प्रोग्रामों में विश्वसनीय रूप से इम्पोर्ट किया जा सके, भले ही फॉर्मूले और फॉर्मेटिंग की हानि स्वीकार करनी पड़े। कौन-सा फॉर्मेट इसकी सर्वोत्तम गारंटी देता है?",
+    "options": [
+      "1. XLSX",
+      "2. CSV",
+      "3. PDF",
+      "4. PNG"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "What is the main benefit of using a reputable password manager?",
+    "options": [
+      "1. It makes the internet connection noticeably faster",
+      "2. It removes the need to have any password at all",
+      "3. It securely stores a unique, strong password for each account so the user need not reuse passwords",
+      "4. It automatically shares your passwords with your contacts"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "किसी प्रतिष्ठित पासवर्ड मैनेजर का उपयोग करने का मुख्य लाभ क्या है?",
+    "options": [
+      "1. यह इंटरनेट कनेक्शन को स्पष्ट रूप से तेज़ बनाता है",
+      "2. यह किसी भी पासवर्ड को रखने की आवश्यकता को समाप्त कर देता है",
+      "3. यह प्रत्येक अकाउंट के लिए एक अद्वितीय, मजबूत पासवर्ड को सुरक्षित रूप से स्टोर करता है ताकि उपयोगकर्ता को पासवर्ड का पुनः उपयोग न करना पड़े",
+      "4. यह आपके पासवर्ड स्वचालित रूप से आपके संपर्कों के साथ शेयर करता है"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which operating-system setting would you change to make on-screen text and icons appear larger or smaller by altering the number of pixels displayed?",
+    "options": [
+      "1. Default browser",
+      "2. System time zone",
+      "3. Power plan",
+      "4. Display resolution"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "प्रदर्शित पिक्सेल की संख्या बदलकर ऑन-स्क्रीन टेक्स्ट और आइकन को बड़ा या छोटा करने के लिए आप कौन-सी ऑपरेटिंग-सिस्टम सेटिंग बदलेंगे?",
+    "options": [
+      "1. डिफ़ॉल्ट ब्राउज़र (Default browser)",
+      "2. सिस्टम टाइम ज़ोन (System time zone)",
+      "3. पावर प्लान (Power plan)",
+      "4. डिस्प्ले रिज़ॉल्यूशन (Display resolution)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Why is it important to install operating-system security updates promptly?",
+    "options": [
+      "1. They increase the physical size of the monitor",
+      "2. They add extra RAM chips to the computer",
+      "3. They patch known security vulnerabilities that attackers could otherwise exploit",
+      "4. They compress the entire hard disk to save space"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "ऑपरेटिंग-सिस्टम सुरक्षा अपडेट को तुरंत इंस्टॉल करना क्यों महत्वपूर्ण है?",
+    "options": [
+      "1. वे मॉनिटर का भौतिक आकार बढ़ाते हैं",
+      "2. वे कंप्यूटर में अतिरिक्त RAM चिप्स जोड़ते हैं",
+      "3. वे ज्ञात सुरक्षा सुभेद्यताओं को पैच करते हैं जिनका हमलावर अन्यथा दुरुपयोग कर सकते हैं",
+      "4. वे स्थान बचाने के लिए पूरी हार्ड डिस्क को कंप्रेस करते हैं"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Before donating an old computer, which action best ensures that confidential personal files cannot be easily recovered by the new owner?",
+    "options": [
+      "1. Simply delete the files and empty the Recycle Bin",
+      "2. Rename the confidential files before handing over the computer",
+      "3. Move the files into a new folder on the desktop",
+      "4. Use a secure data-wiping (disk-erase) tool or a factory reset that overwrites the drive before handing it over"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "किसी पुराने कंप्यूटर को दान करने से पहले, कौन-सा कार्य सर्वोत्तम रूप से यह सुनिश्चित करता है कि गोपनीय व्यक्तिगत फाइलें नए मालिक द्वारा आसानी से रिकवर न की जा सकें?",
+    "options": [
+      "1. केवल फाइलों को डिलीट करना और रीसायकल बिन खाली करें",
+      "2. कंप्यूटर सौंपसौं ने से पहले गोपनीय फाइलों का नाम बदल देना",
+      "3. फाइलों को डेस्कटॉप पर एक नए फोल्डर में मूव करना",
+      "4. कंप्यूटर सौंपने से पहले एक सुरक्षित डेटा-वाइपिंग (डिस्क-इरेज़) टूल या फैक्ट्री रीसेट का उपयोग करना जो ड्राइव को ओवरराइट कर देता है"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which unit is most commonly used to express the speed (bandwidth) of an internet connection?",
+    "options": [
+      "1. Megabytes (MB)",
+      "2. Gigahertz (GHz)",
+      "3. Megabits per second (Mbps)",
+      "4. Dots per inch (DPI)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "किसी इंटरनेट कनेक्शन की स्पीड (बैंडविड्थ) को व्यक्त करने के लिए सामान्यतः किस यूनिट का उपयोग किया जाता है?",
+    "options": [
+      "1. मेगाबाइट्स (MB)",
+      "2. गीगाहर्ट्ज़ (GHz)",
+      "3. मेगाबिट्स प्रति सेकंड (Mbps)",
+      "4. डॉट्स प्रति इंच (DPI)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "What is the main purpose of a cookie that a website stores in a web browser?",
+    "options": [
+      "1. To remember a user's session and preferences for that site",
+      "2. To permanently increase the internet connection speed",
+      "3. To scan the computer's hard disk for viruses",
+      "4. To convert web pages into printable PDF files"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "वेबसाइट द्वारा वेब ब्राउज़र में स्टोर की जाने वाली कुकी (cookie) का मुख्य प्रयोजन क्या है?",
+    "options": [
+      "1. उस साइट के लिए उपयोगकर्ता के सेशन और प्राथमिकताओं को याद रखना",
+      "2. इंटरनेट कनेक्शन की स्पीड को स्थायी रूप से बढ़ाना",
+      "3. वायरस के लिए कंप्यूटर की हार्ड डिस्क को स्कैन करना",
+      "4. वेब पेजों को प्रिंट-योग्य PDF फाइलों में बदलना"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A Virtual Private Network (VPN) service is primarily used to ______.",
+    "options": [
+      "1. increase the resolution of the computer's monitor",
+      "2. compress large image files before saving them",
+      "3. create a secure, encrypted connection over a public network",
+      "4. design animated slides for a presentation"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "वर्चुअल प्राइवेट नेटवर्क (Virtual Private Network - VPN) सर्विस प्राथमिक रूप से ______ के लिए उपयोग की जाती है।",
+    "options": [
+      "1. कंप्यूटर के मॉनिटर का रिज़ॉल्यूशन बढ़ाने",
+      "2. बड़ी इमेज फाइलों को सेव करने से पहले उन्हें कंप्रेस करने",
+      "3. पब्लिक नेटवर्क पर एक सुरक्षित, एन्क्रिप्टेड कनेक्शन बनाने",
+      "4. किसी प्रेजेंटेजेंटेशन के लिए एनिमेटेड स्लाइड डिज़ाइन करने"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A student wants results that contain EITHER the word 'notes' OR the word 'material' on a topic. Which search technique is the most appropriate in Google Chrome Web Browser?",
+    "options": [
+      "1. Enclose both words together inside quotation marks",
+      "2. Place a minus sign before each of the two words",
+      "3. Add the filetype: operator before each word",
+      "4. Type the OR operator (in capitals) between the two words"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "एक विद्यार्थी किसी टॉपिक पर ऐसे परिणाम चाहता है जिनमें या तो 'notes' शब्द हो या 'material' शब्द हो। Google Chrome वेब ब्राउज़र में कौन-सी सर्च तकनीक सर्वाधिक उपयुक्त है?",
+    "options": [
+      "1. दोनों शब्दों को एक साथ उद्धरण चिह्नों के भीतर परिबद्ध करें",
+      "2. दोनों शब्दों में से प्रत्येक से पहले एक माइनस चिह्न लगाएं",
+      "3. प्रत्येक शब्द से पहले filetype: ऑपरेटर जोड़ें",
+      "4. दोनों शब्दों के बीच OR ऑपरेटर (बड़े अक्षरों में) टाइप करें"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A user edits a document stored in a cloud-sync folder on a laptop while there is no internet. What happens when the laptop later reconnects to the internet?",
+    "options": [
+      "1. The edited local file is automatically uploaded and synchronised with the cloud copy",
+      "2. The local file is permanently deleted because it was changed offline",
+      "3. The old cloud version silently overwrites the new local edits without any sync",
+      "4. Nothing happens, because cloud files can be edited only while online"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एक उपयोगकर्ता इंटरनेट न होने के दौरान लैपटॉप पर किसी क्लाउड-सिंक फोल्डर (cloud-sync folder) में स्टोर एक डॉक्यूमेंट को एडिट करता है। जब लैपटॉप बाद में इंटरनेट से फिर से कनेक्ट होता है तो क्या होता है?",
+    "options": [
+      "1. एडिट की गई लोकल फाइल स्वचालित रूप से अपलोड होकर क्लाउड कॉपी के साथ सिंक्रोनाइज़ हो जाती है",
+      "2. लोकल फाइल स्थायी रूप से डिलीट हो जाती है क्योंकि इसमें ऑफलाइन परिवर्तन किया गया था",
+      "3. पुराना क्लाउड संस्करण बिना किसी सिंक के नए लोकल एडिट को मूक रूप से ओवरराइट कर देता है",
+      "4. कुछ नहीं होता, क्योंकि क्लाउड फाइलें केवल ऑनलाइन रहते हुए ही एडिट की जा सकती हैं"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "An internet plan is advertised as 80 Mbps. Ignoring overheads, approximately how long will it take to download a 60 MB file?",
+    "options": [
+      "1. About 0.75 seconds",
+      "2. About 48 seconds",
+      "3. About 6 seconds",
+      "4. About 60 seconds"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एक इंटरनेट प्लान 80 Mbps के रूप में विज्ञापित किया जाता है। ओवरहेड्स की उपेक्षा करते हुए, 60 MB फाइल को डाउनलोड होने में लगभग कितना समय लगेगा?",
+    "options": [
+      "1. लगभग 0.75 सेकंड",
+      "2. लगभग 48 सेकंड",
+      "3. लगभग 6 सेकंड",
+      "4. लगभग 60 सेकंड"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which spreadsheet function counts only the cells in a range that satisfy a single given condition in Microsoft Excel 2019?",
+    "options": [
+      "1. SUM",
+      "2. AVERAGE",
+      "3. COUNTA",
+      "4. COUNTIF"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "माइक्रोसॉफ्ट एक्सेल 2019 में, कौन-सा स्प्रेडशीट फंक्शन किसी रेंज में केवल उन सेल को गिनता है जो एक दी गई शर्त को संतुष्ट करते हैं?",
+    "options": [
+      "1. SUM",
+      "2. AVERAGE",
+      "3. COUNTA",
+      "4. COUNTIF"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In a spreadsheet of Microsoft Excel 2019, which keyboard shortcut selects the entire column of the currently active cell?",
+    "options": [
+      "1. Shift + Spacebar",
+      "2. Ctrl + Spacebar",
+      "3. Alt + Enter",
+      "4. Ctrl + Enter"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "माइक्रोसॉफ्ट एक्सेल 2019 की किसी स्प्रेडशीट में, कौन-सा कीबोर्ड शॉर्टकट वर्तमान में सक्रिय सेल के पूरे कॉलम को सेलेक्ट करता है?",
+    "options": [
+      "1. Shift + Spacebar",
+      "2. Ctrl + Spacebar",
+      "3. Alt + Enter",
+      "4. Ctrl + Enter"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A cell in Microsoft Excel 2019 contains the value 0.25. If percentage number formatting is applied to this cell, how will it be displayed?",
+    "options": [
+      "1. 25%",
+      "2. 0.25%",
+      "3. 2.5%",
+      "4. 250%"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "माइक्रोसॉफ्ट एक्सेल 2019 में एक सेल में वैल्यू 0.25 है। यदि इस सेल पर परसेंटेसेंटेज नंबर फॉर्मेटिंग अप्लाई की जाए, तो यह कैसे प्रदर्शित होगा?",
+    "options": [
+      "1. 25%",
+      "2. 0.25%",
+      "3. 2.5%",
+      "4. 250%"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Refer to the following bar chart. Which category has a value that is two-thirds of the highest category's value? <br> <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPho1gGzzHkvTJirnEpGV6zpRmyGA9CvGiKvKI0uMupiDMS6b0G46aNJO4706aXnxJ8UQWYHoLFndDWQGmhYtTy-xfxpv_my_OM97s8NkOd64pU9iUTfs0D_iN6pFfUH0O86kKbPeZvHCSvdOut9tRiYJA_xR8QVVd_nu1WxvIF3aHXzxAtuXvGgxGbvnw/s320/ty%2067.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. Category B",
+      "2. Category A",
+      "3. Category C",
+      "4. Category D"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित बार चार्ट का संदर्भ लीजिए। किस श्रेणी का मान, उच्चतम श्रेणी के मान का दो-तिहाई है?  <br> <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPho1gGzzHkvTJirnEpGV6zpRmyGA9CvGiKvKI0uMupiDMS6b0G46aNJO4706aXnxJ8UQWYHoLFndDWQGmhYtTy-xfxpv_my_OM97s8NkOd64pU9iUTfs0D_iN6pFfUH0O86kKbPeZvHCSvdOut9tRiYJA_xR8QVVd_nu1WxvIF3aHXzxAtuXvGgxGbvnw/s320/ty%2067.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. श्रेणी B",
+      "2. श्रेणी A",
+      "3. श्रेणी C",
+      "4. श्रेणी D"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In Microsoft Excel 2019, a workbook has three monthly worksheets named Jan, Feb and Mar, and each of these sheets stores its monthly total in cell B10. On a separate summary sheet, which single formula correctly adds the value of cell B10 from all three sheets together?",
+    "options": [
+      "1. =SUM(Jan:Mar!B10)",
+      "2. =SUM(Jan!B10 Mar!B10)",
+      "3. =B10+3",
+      "4. =SUM(B10:B10:B10)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "माइक्रोसॉफ्ट एक्सेल 2019 में, एक वर्कबुक में Jan, Feb और Mar नामक तीन मासिक वर्कशीट्स हैं तथा इनमें से प्रत्येक शीट अपना मासिक योग सेल B10 में स्टोर करती है। एक पृथक सारांश शीट पर, कौन-सा एकल फॉर्मूला तीनों शीट्स के सेल B10 की वैल्यू को सही रूप से एक साथ जोड़ता है?",
+    "options": [
+      "1. =SUM(Jan:Mar!B10)",
+      "2. =SUM(Jan!B10 Mar!B10)",
+      "3. =B10+3",
+      "4. =SUM(B10:B10:B10)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A user is scrolling through a very long list and wants the top header row to remain visible at all times. Which feature should be used in Microsoft Excel 2019?",
+    "options": [
+      "1. Merge Cells",
+      "2. Wrap Text",
+      "3. Conditional Formatting",
+      "4. Freeze Panes"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "एक उपयोगकर्ता किसी बहुत लंबी लिस्ट में स्क्रॉल कर रहा है और चाहता है कि शीर्ष हेडर पंक्ति हर समय दिखाई देती रहे। माइक्रोसॉफ्ट एक्सेल 2019 में कौन-सा फीचर उपयोग किया जाना चाहिए?",
+    "options": [
+      "1. मर्ज सेल्स (Merge Cells)",
+      "2. रैप टेक्स्ट (Wrap Text)",
+      "3. कंडीशनल फॉर्मेटिंग (Conditional Formatting)",
+      "4. फ्रीज़ पेन्स (Freeze Panes)"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Which of the following statements strictly distinguishes a Histogram from a standard Bar/Column Graph in statistical data representation?",
+    "options": [
+      "1. A histogram plots the frequency distribution of continuous quantitative data without gaps between columns, whereas a column graph plots discrete categorical data.",
+      "2. A histogram displays data horizontally on the Y-axis, whereas a column graph always displays data vertically on the X-axis.",
+      "3. A histogram represents data using interconnected lines and data markers, whereas a column graph uses filled rectangular blocks.",
+      "4. A histogram can only represent percentages that total 100%, whereas a column graph can represent any raw numerical value."
+    ],
+    "answer": 0
+  },
+  {
+    "q": "सांख्यिकीय डेटा प्रस्तुत करने में निम्नलिखित में से कौन-सा कथन हिस्टोग्राम और सामान्य बार/कॉलम ग्राफ़ के बीच स्पष्ट रूप से अंतर करता है?",
+    "options": [
+      "1. हिस्टोग्राम बिना अंतराल वाले कॉलम के माध्यम से निरंतर क्वांटिटेटिव डेटा की फ्रीक्वेंसी डिस्ट्री ब्यूशन को दर्शाता है, जबकि कॉलम ग्राफ़ अलग अलग कैटेगरी वाले डेटा को दर्शाता है।",
+      "2. हिस्टोग्राम डेटा को Y-अक्ष पर हॉरिज़ॉन्टल रूप से दर्शाता है, जबकि कॉलम ग्राफ़ हमेशा डेटा को X-अक्ष पर वर्टिकल रूप से दर्शाता है।",
+      "3. हिस्टोग्राम इंटरकनेक्टेड लाइन और डेटा मार्कर का उपयोग करके डेटा दर्शाता है, जबकि कॉलम ग्राफ़ भरे हुए रेक्टैंगुलर ब्लॉक का उपयोग करता है।",
+      "4. हिस्टोग्राम केवल ऐसे प्रतिशत दर्शा सकता है जिनका कुल योग 100% हो, जबकि कॉलम ग्राफ़ किसी भी रॉ न्यूमेरिकल वैल्यू को दर्शा सकता है।"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A lookup is written in Microsoft Excel 2019 as =VLOOKUP(45, A2:B10, 2, TRUE) but the table A2:B10 is NOT sorted in ascending order. Which statement best explains the risk?",
+    "options": [
+      "1. The formula must return #N/A because the last argument is TRUE",
+      "2. With TRUE (approximate match) on unsorted data, VLOOKUP may silently return an incorrect value",
+      "3. TRUE forces an exact match, so the result is always guaranteed correct",
+      "4. The 2 means 'row 2', so the wrong row is always returned"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "माइक्रोसॉफ्ट एक्सेल 2019 में एक लुकअप =VLOOKUP(45, A2:B10, 2, TRUE) के रूप में लिखा गया है, लेकिन टेबल A2:B10 आरोही क्रम में सॉर्ट नहीं है। कौन-सा कथन जोखिम की सर्वोत्तम व्याख्या करता है?",
+    "options": [
+      "1. फ़ॉर्मूला को अनिवार्य रूप से #N/A रिटर्न करना चाहिए क्योंकि अंतिम आर्गुमेंट (argument) TRUE है",
+      "2. अनसॉर्टेड डेटा पर TRUE (एप्रोक्सिमेट मैच) के साथ, VLOOKUP बिना किसी चेतावनी के एक गलत मान रिटर्न कर सकता है",
+      "3. TRUE एक एग्जैक्ट मैच के लिए बाध्य करता है, इसलिए परिणाम सदैव सही होने की गारंटी है",
+      "4. यहाँ 2 का अर्थ 'पंक्ति 2 (row 2)' है, इसलिए सदैव गलत पंक्ति रिटर्न होती है"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Cell C1 in Microsoft Excel is given the formula =C1+A1. What will typically happen when this is entered?",
+    "options": [
+      "1. It quietly doubles the value stored in A1",
+      "2. It returns only the value of A1 and ignores C1",
+      "3. It automatically sums the whole of column C",
+      "4. The spreadsheet reports a circular reference warning because the cell refers to itself"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "माइक्रोसॉफ्ट एक्सेल में सेल C1 को फॉर्मूला =C1+A1 दिया जाता है। इसे एंटर करने पर विशिष्ट रूप से क्या होगा?",
+    "options": [
+      "1. यह परोक्ष रूप से A1 में स्टोर वैल्यू को दोगुना कर देता है",
+      "2. यह केवल A1 की वैल्यू रिटर्न करता है और C1 की उपेक्षा करता है",
+      "3. यह स्वचालित रूप से पूरे कॉलम C का योग करता है",
+      "4. स्प्रेडशीट एक सर्कुलर रेफरेंस चेतावनी देती है क्योंकि सेल स्वयं को संदर्भित करता है"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In Microsoft Word 2019, which feature is used to create a list in which each item is preceded by a small dot or symbol instead of a number?",
+    "options": [
+      "1. Bulleted list",
+      "2. Numbered list",
+      "3. Table of contents",
+      "4. Footnote"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Microsoft Word 2019 में ऐसी लिस्ट बनाने के लिए किस फीचर का उपयोग किया जाता है, जिसमें प्रत्येक आइटम से पहले संख्या के बजाय एक छोटा बिंदु या सिंबल होता है?",
+    "options": [
+      "1. बुलेटेड लिस्ट (Bulleted list)",
+      "2. नंबर्ड लिस्ट (Numbered list)",
+      "3. टेबल ऑफ कंटेंट्स (Table of contents)",
+      "4. फुटनोट (Footnote)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In a word processor, which keyboard shortcut reverses (undoes) the most recent action?",
+    "options": [
+      "1. Ctrl + Y",
+      "2. Ctrl + P",
+      "3. Ctrl + U",
+      "4. Ctrl + Z"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "वर्ड प्रोसेसर में, कौन-सा कीबोर्ड शॉर्टकट सबसे हालिया कार्य को रिवर्स (अनडू) करता है?",
+    "options": [
+      "1. Ctrl + Y",
+      "2. Ctrl + P",
+      "3. Ctrl + U",
+      "4. Ctrl + Z"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In which area of a word processing document is text such as a title or logo placed so that it automatically repeats at the top of every page?",
+    "options": [
+      "1. Header",
+      "2. Footnote",
+      "3. Text box",
+      "4. Endnote"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "किसी वर्ड प्रोसेसिंग डॉक्यूमेंट के किस क्षेत्र में शीर्षक या लोगो जैसा टेक्स्ट रखा जाता है ताकि वह प्रत्येक पेज के शीर्ष पर स्वचालित रूप से दोहराया जाए?",
+    "options": [
+      "1. हेडर (Header)",
+      "2. फुटनोट (Footnote)",
+      "3. टेक्स्ट बॉक्स (Text box)",
+      "4. एंडनोट (Endnote)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which built-in tool tells you the total number of words contained in a word processing document?",
+    "options": [
+      "1. Thesaurus",
+      "2. Word Count",
+      "3. Track Changes",
+      "4. Spell Check"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "कौन-सा बिल्ट-इन टूल आपको बताता है कि किसी वर्ड प्रोसेसिंग डॉक्यूमेंट में शब्दों की कुल संख्या कितनी है?",
+    "options": [
+      "1. थिसॉरस (Thesaurus)",
+      "2. वर्ड काउंट (Word Count)",
+      "3. ट्रैक चेंजेस (Track Changes)",
+      "4. स्पेल चेक (Spell Check)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In Microsoft Word 2019, a writer must produce a long, professional report that needs consistent formatting and an automatically updatable contents list. Which approach is best?",
+    "options": [
+      "1. Apply heading styles throughout, then insert an automatic Table of Contents",
+      "2. Bold each heading manually and type the contents page by hand",
+      "3. Use a larger font for headings and press the spacebar to arrange the layout",
+      "4. Place all the content in one continuous paragraph"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "माइक्रोसॉफ्ट वर्ड 2019 में, एक लेखक को एक लंबी, व्यावसायिक रिपोर्ट बनानी है जिसमें सुसंगत फॉर्मेटिंग और एक स्वचालित रूप से अपडेट होने योग्य कंटेंट्स लिस्ट की आवश्यकता है। कौन-सा उपागम सर्वोत्तम है?",
+    "options": [
+      "1. पूरे डॉक्यूमेंट में हेडिंग स्टाइल अप्लाई करें, फिर एक ऑटोमैटिक टेबल ऑफ कंटेंट्स (Table of Contents) इन्सर्ट करें",
+      "2. प्रत्येक हेडिंग को मैन्युअल रूप से बोल्ड करें और कंटेंट्स पेज को हाथ से टाइप करें",
+      "3. हेडिंग के लिए बड़े फॉन्ट का उपयोग करें और लेआउट व्यवस्थित करने के लिए स्पेसबार दबाएं",
+      "4. संपूर्ण कंटेंट एक ही निरंतर पैराग्राफ में रखें"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In Microsoft Word 2019, a user has data in which fields are separated by Tab characters and wants to convert it into a properly aligned table. During 'Convert Text to Table', which setting is the most critical to get right?",
+    "options": [
+      "1. Selecting the document's default font",
+      "2. Setting the page margins",
+      "3. Choosing the correct separator/delimiter (the Tab character)",
+      "4. Adding a watermark to the page"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "माइक्रोसॉफ्ट वर्ड 2019 में, एक उपयोगकर्ता के पास ऐसा डेटा है जिसमें फील्ड, Tab कैरेक्टर द्वारा पृथक किए गए हैं और वह उसे एक उचित रूप से संरेखित टेबल में बदलना चाहता है। 'Convert Text to Table' के दौरान, सही परिणाम प्राप्त करने के लिए कौन-सी सेटिंग सबसे महत्वपूर्ण है?",
+    "options": [
+      "1. डॉक्यूमेंट का डिफ़ॉल्ट फॉन्ट सेलेक्ट करना",
+      "2. पेज मार्जिन सेट करना",
+      "3. सही सेपरेटर/डिलिमिटर (Tab कैरेक्टर) का चयन करना",
+      "4. पेज पर एक वॉटरमार्क लगाना"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "An academic writer wants numbered notes to appear at the BOTTOM of the same page in a Microsoft Word document where the reference mark occurs, with automatic renumbering if a note is inserted. Which feature meets this need most precisely?",
+    "options": [
+      "1. Footnotes",
+      "2. Endnotes",
+      "3. Comments",
+      "4. Bookmarks"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एक अकादमिक लेखक चाहता है कि किसी माइक्रोसॉफ्ट वर्ड डॉक्यूमेंट में जहां रेफरेंस मार्क आता है, उसी पेज के निचले भाग में नंबर वाले नोट्स दिखें और यदि कोई नोट इन्सर्ट किया जाए तो स्वचालित रीनंबरिंग हो जाए। कौन-सा फीचर इस आवश्यकता को सर्वाधिक सटीक रूप से पूरा करता है?",
+    "options": [
+      "1. फुटनोट्स (Footnotes)",
+      "2. एंडनोट्स (Endnotes)",
+      "3. कमेंट्स (Comments)",
+      "4. बुकमार्क्स (Bookmarks)"
+    ],
+    "answer": 0
+  }
+],
+  
+
   
   "5th July 2026 - Shift1": [
 {
