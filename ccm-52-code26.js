@@ -1043,7 +1043,7 @@
   }
 ],
 
-  "6th Sep 2026 - Shift1": [
+  "6th Sep  - Shift1": [
   {
     "q": "Which of the following is an INPUT device used to capture sound into the computer?",
     "options": [
@@ -2086,7 +2086,7 @@
   }
 ],
 
-  "7th Sep 2026 - Shift1": [
+  "7th Sep  - Shift1": [
   {
     "q": "Which hardware component is the main circuit board that connects the CPU, memory, storage controllers, and expansion slots?",
     "options": [
@@ -3133,10 +3133,10 @@
   {
     "q": "Which of the following images shows a pointing device?",
     "options": [
-      "1. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjr7jmGq1qyTPykNfKvNgBivsshjx9kdrAGzq0W6XJZhox3UWKGEzwZDhYysPwIC5cox5TsxrhOwXZd5V2AAbUQEcPgp5osrxH6YxaZUx1gEZD5TFHd7JUNqijG9ksqEmKtjOP9pd14LTbRSy7_zoQ9OhsLrRoJ1KJZY4DZIkjZZ0Bp8luHOfHOAz7w25K/s1600/01%20im.png\" style=\"max-width:100%;height:auto;\">",
-      "2. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxHW3enzw-RQTr1_0YUSlTDouuaXkajwKOQS3uXcCe76DZGocL2JKeh3c36blSu5X2YkFqFPzJlIe8LTDx-BdoMrTbNGDNNOz_5-F-Em7voyWu5cyOkjMREFjYtR33hWiN7f_phiRaA2ahgrDlmdCx_QnjgCAG0O4aeqUgok9H9FHDt4T2gr2OBBEaE_z8/s1600/02%20im.png\" style=\"max-width:100%;height:auto;\">",
-      "3. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPp7krzai6Rt6YTkHbSGpydkuk3mF6eAk4HEjDgkONtMPO8rXCQEB1QUlf7dU2Oxij4LOVn6qWThaicqAUKOLHBNq0shAzzexBW8iGZij-GKX3hxDrEspFnk4WFjz-fllcAd1s0vENrBXXjEzJLDBLucHQvO8QncdA7yE7eHuT2bNOXpGZ1Ft5yVV4Hxrk/s1600/03%20im.png\" style=\"max-width:100%;height:auto;\">",
-      "4. <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj77CP-VMf0lullOxx8VQGnYwCbFsanCHOKx0_SgPiQwO76XaNu9ZR_4S2uA7Lm4k6k-FvKKXj3ViTLz9Gq6SixZdp7xnNvd2qPwXm_bNMmlwSTCaKxVeXADrvKpHfqYTZ-zFJBMb_M6N2krQ16jGok2v1aP-fDfuUKu2rK7dL66QR0yrBXo11wK5XfgK0F/s1600/04%20im.png\" style=\"max-width:100%;height:auto;\">"
+      "<img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjr7jmGq1qyTPykNfKvNgBivsshjx9kdrAGzq0W6XJZhox3UWKGEzwZDhYysPwIC5cox5TsxrhOwXZd5V2AAbUQEcPgp5osrxH6YxaZUx1gEZD5TFHd7JUNqijG9ksqEmKtjOP9pd14LTbRSy7_zoQ9OhsLrRoJ1KJZY4DZIkjZZ0Bp8luHOfHOAz7w25K/s1600/01%20im.png\" style=\"max-width:100%;height:auto;\">",
+      "<img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxHW3enzw-RQTr1_0YUSlTDouuaXkajwKOQS3uXcCe76DZGocL2JKeh3c36blSu5X2YkFqFPzJlIe8LTDx-BdoMrTbNGDNNOz_5-F-Em7voyWu5cyOkjMREFjYtR33hWiN7f_phiRaA2ahgrDlmdCx_QnjgCAG0O4aeqUgok9H9FHDt4T2gr2OBBEaE_z8/s1600/02%20im.png\" style=\"max-width:100%;height:auto;\">",
+      "<img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPp7krzai6Rt6YTkHbSGpydkuk3mF6eAk4HEjDgkONtMPO8rXCQEB1QUlf7dU2Oxij4LOVn6qWThaicqAUKOLHBNq0shAzzexBW8iGZij-GKX3hxDrEspFnk4WFjz-fllcAd1s0vENrBXXjEzJLDBLucHQvO8QncdA7yE7eHuT2bNOXpGZ1Ft5yVV4Hxrk/s1600/03%20im.png\" style=\"max-width:100%;height:auto;\">",
+      "<img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj77CP-VMf0lullOxx8VQGnYwCbFsanCHOKx0_SgPiQwO76XaNu9ZR_4S2uA7Lm4k6k-FvKKXj3ViTLz9Gq6SixZdp7xnNvd2qPwXm_bNMmlwSTCaKxVeXADrvKpHfqYTZ-zFJBMb_M6N2krQ16jGok2v1aP-fDfuUKu2rK7dL66QR0yrBXo11wK5XfgK0F/s1600/04%20im.png\" style=\"max-width:100%;height:auto;\">"
     ],
     "answer": 0
   },
