@@ -1043,7 +1043,7 @@
   }
 ],
 
-  "6th Sep  - Shift1": [
+  "6th Sep 2026 - Shift1": [
   {
     "q": "Which of the following is an INPUT device used to capture sound into the computer?",
     "options": [
@@ -2086,7 +2086,1051 @@
   }
 ],
 
-  "7th Sep  - Shift1": [
+  "6th Sep 2026 - Shift2": [
+  {
+    "q": "Which input device is used to read the black-and-white striped codes printed on product packaging?",
+    "options": [
+      "1. An inkjet printer",
+      "2. A loudspeaker",
+      "3. A barcode scanner",
+      "4. A projector"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "उत्पाद पैकेजिंग पर छपे काले-सफेद धारीदार कोड को रीड करने के लिए कौन-सा इनपुट डिवाइस उपयोग किया जाता है?",
+    "options": [
+      "1. इंकजेट प्रिंटर",
+      "2. लाउडस्पीकर",
+      "3. बारकोड स्कैनर",
+      "4. प्रोजेक्टर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which output device projects a computer's display onto a large screen or wall for an audience?",
+    "options": [
+      "1. A webcam",
+      "2. A microphone",
+      "3. A barcode scanner",
+      "4. A projector"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कौन-सा आउटपुट डिवाइस किसी दर्शक वर्ग के लिए कंप्यूटर के डिस्प्ले को एक बड़ी स्क्रीन या दीवार पर प्रोजेक्ट करता है?",
+    "options": [
+      "1. वेबकैम",
+      "2. माइक्रोफोन",
+      "3. बारकोड स्कैनर",
+      "4. प्रोजेक्टर"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Refer to the image below. Which of the following storage devices uses laser technology to read and write data? <br> <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-QwWYpAp8Wpd2v_gQASVttmRNpEA6p_LnihwPRh_HgNf2IYfLn9rBKUX5uftSPcVO5TQ8fjKIO20YE11rFBaMI-x-RDrOuruqQzjvaZtOW_7A5L5wqJxBAAhlb6_XHb0CI833G8zaekyPvEhv-HrsSTZbI-cmO8-jmIk99cDSnm-5N4qYrBlUiU_t6o8_/s320/01%20hjd.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. The small pen-shaped stick with a metal connector",
+      "2. The flat, round, shiny disc",
+      "3. The palm-sized rectangular box with a cable",
+      "4. The tiny thin flat card"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "नीचे दी गई इमेज का संदर्भ लें। निम्नलिखित में से कौन-सा स्टोरेज डिवाइस डेटा को रीड और राइट करने के लिए लेजर तकनीक का उपयोग करता है? <br> <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-QwWYpAp8Wpd2v_gQASVttmRNpEA6p_LnihwPRh_HgNf2IYfLn9rBKUX5uftSPcVO5TQ8fjKIO20YE11rFBaMI-x-RDrOuruqQzjvaZtOW_7A5L5wqJxBAAhlb6_XHb0CI833G8zaekyPvEhv-HrsSTZbI-cmO8-jmIk99cDSnm-5N4qYrBlUiU_t6o8_/s320/01%20hjd.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. मेटल कनेक्टर वाली छोटी पेन-आकार की स्टिक",
+      "2. चपटी, गोल, चमकदार डिस्क",
+      "3. हथेली-आकार का आयताकार बॉक्स जिसमें केबल लगी हो",
+      "4. बहुत छोटा, पतला, चपटा कार्ड"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "When recording audio through an analog microphone into a computer, which primary process is carried out by the sound card?",
+    "options": [
+      "1. Frequency Modulation (FM)",
+      "2. Digital-to-Analog Conversion (DAC)",
+      "3. Analog-to-Digital Conversion (ADC)",
+      "4. Pulse Code Demodulation (PCD)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "कंप्यूटर में एनालॉग माइक्रोफ़ोन के माध्यम से ऑडियो रिकॉर्ड करते समय, साउंड कार्ड द्वारा कौन सी प्राथमिक प्रक्रिया की जाती है?",
+    "options": [
+      "1. फ़्रीक्वेंसी मॉड्यूलेशन (FM)",
+      "2. डिजिटल-टू-एनालॉग कन्वर्ज़न (DAC)",
+      "3. एनालॉग-टू-डिजिटल कन्वर्ज़न (ADC)",
+      "4. पल्स कोड डिमॉड्यूलेशन (PCD)"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A portable computer that folds shut and combines the screen, keyboard and battery in one unit for mobile use is a ______.",
+    "options": [
+      "1. mainframe",
+      "2. laptop",
+      "3. server rack",
+      "4. supercomputer"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक पोर्टेबल कंप्यूटर जो मुड़कर बंद हो जाता है और मोबाइल उपयोग के लिए स्क्रीन, कीबोर्ड और बैटरी को एक ही यूनिट में जोड़ता है, ______ कहलाता है।",
+    "options": [
+      "1. मेनफ्रेम",
+      "2. लैपटॉप",
+      "3. सर्वर रैक",
+      "4. सुपरकंप्यूटर"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Inside the CPU, the very small and extremely fast storage locations that briefly hold the data and instructions currently being processed are called ______.",
+    "options": [
+      "1. hard-disk sectors",
+      "2. USB ports",
+      "3. cooling fans",
+      "4. registers"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "CPU के अंदर, बहुत छोटे और अत्यंत तेज़ स्टोरेज लोकेशन जो वर्तमान में प्रोसेस हो रहे डेटा और निर्देशों को संक्षेप में होल्ड रखते हैं, ______ कहलाते हैं।",
+    "options": [
+      "1. हार्ड-डिस्क सेक्टर",
+      "2. USB पोर्ट",
+      "3. कूलिंग फैन",
+      "4. रजिस्टर्स"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Select the correct option regarding the following two statements labelled Assertion (A) and Reason (R).  <br> Assertion (A): Second-generation computers were smaller, faster and more reliable than first-generation ones. <br>Reason (R): They replaced bulky vacuum tubes with transistors.",
+    "options": [
+      "1. Both A and R are true, but R does not explain A",
+      "2. A is true but R is false",
+      "3. A is false but R is true",
+      "4. Both A and R are true, and R correctly explains A"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "अभिकथन (A) और कारण (R) लेबल वाले निम्नलिखित दो कथनों के संबंध में सही विकल्प चुनें। <br><br> अभिकथन (A): द्वितीय-पीढ़ी के कंप्यूटर, प्रथम-पीढ़ी के कंप्यूटरों की तुलना में छोटे, तेज़ और अधिक विश्वसनीय थे। <br> कारण (R): उन्होंनेन्हों नेभारी-भरकम वैक्यूम ट्यूब्स को ट्रांजिस्टर्स से बदल दिया।",
+    "options": [
+      "1. A और R दोनों सत्य हैं, किंतु R, A की व्याख्या नहीं करता है",
+      "2. A सत्य है किंतु R असत्य है",
+      "3. A असत्य है किंतु R सत्य है",
+      "4. A और R दोनों सत्य हैं, और R, A की सही व्याख्या करता है"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "Arrange the following standard secondary storage media in ascending order of their storage capacity: <br>(i) 3.5-inch high-density Floppy Disk <br>(ii) Standard CD <br> (ii) Standard CD <br> (iii) Single-layer DVD <br>(iv) Single-layer Blu-ray Disc",
+    "options": [
+      "1. ii, i, iii, iv",
+      "2. i, ii, iii, iv",
+      "3. iv, iii, ii, i",
+      "4. i, iii, ii, iv"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित स्टैंडर्ड सेकेंडरी स्टोरेज मीडिया को उनकी स्टोरेज कैपेसिटी के आधार पर सबसे कम से सबसे अधिक के क्रम में व्यवस्थित कीजिए: <br><br>(i) 3.5-इंच हाई-डेंसिटी फ्लॉपी डिस्क<br>(ii) स्टैंडर्ड CD<br>(iii) सिंगल-लेयर DVD<br>(iv) सिंगल-लेयर ब्लू-रे डिस्क",
+    "options": [
+      "1. ii, i, iii, iv",
+      "2. i, ii, iii, iv",
+      "3. iv, iii, ii, i",
+      "4. i, iii, ii, iv"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A user complains that video editing and 3D games render very slowly, even though the computer has ample RAM and a fast processor. Upgrading which single hardware component would MOST directly improve the visual rendering performance?",
+    "options": [
+      "1. Sound Card",
+      "2. Universal Serial Bus (USB) port",
+      "3. Graphics Card",
+      "4. Liquid Crystal Display (LCD) monitor"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एक उपयोगकर्ता शिकायत करता है कि पर्याप्त RAM और तेज़ प्रोसेसर होने के बावजूद वीडियो एडिटिंग और 3D गेम्स बहुत धीमे रेंडर होते हैं। किस एकल हार्डवेयर घटक को अपग्रेड करने से विजुअल रेंडरिंग परफॉर्मेंस में सबसे सीधे तौर पर सुधार होगा?",
+    "options": [
+      "1. साउंड कार्ड",
+      "2. यूनिवर्सल सीरियल बस (USB) पोर्ट",
+      "3. ग्राफिक्स कार्ड",
+      "4. लिक्विड क्रिस्टल डिस्प्ले (LCD) मॉनिटर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Software whose original source code is made freely available so that anyone can view, modify, and redistribute it is categorised as ______.",
+    "options": [
+      "1. System Software",
+      "2. Proprietary Software",
+      "3. Open Source Software",
+      "4. Embedded Software"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "वह सॉफ्टवेयर जिसका मूल सोर्स कोड स्वतंत्र रूप से उपलब्ध कराया जाता है ताकि कोई भी उसे देख, संशोधित और पुनर्वितरित कर सके, ______ के रूप में वर्गीकृत किया जाता है।",
+    "options": [
+      "1. सिस्टम सॉफ्टवेयर",
+      "2. प्रोप्राइटरी सॉफ्टवेयर",
+      "3. ओपन सोर्स सॉफ्टवेयर",
+      "4. एम्बेडेड सॉफ्टवेयर"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is an open-source operating system whose source code can be freely viewed and modified?",
+    "options": [
+      "1. Windows",
+      "2. Linux",
+      "3. macOS",
+      "4. iOS"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सा एक ओपन-सोर्स ऑपरेटिंग सिस्टम है जिसका सोर्स कोड स्वतंत्र रूप से देखा और संशोधित किया जा सकता है?",
+    "options": [
+      "1. विंडोज",
+      "2. लिनक्स",
+      "3. macOS",
+      "4. iOS"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which memory unit is the smallest, representing a single binary value of 0 or 1?",
+    "options": [
+      "1. Byte",
+      "2. Kilobyte",
+      "3. Bit",
+      "4. Megabyte"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "कौन-सी मेमोरी यूनिट सबसे छोटी है, जो 0 या 1 का एकल बाइनरी मान दर्शाती है?",
+    "options": [
+      "1. बाइट",
+      "2. किलोबाइट",
+      "3. बिट",
+      "4. मेगाबाइट"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which of the following is a high-level, human-readable programming language, rather than a low-level or machine language?",
+    "options": [
+      "1. Python",
+      "2. Machine code written directly in binary",
+      "3. Assembly language using mnemonics",
+      "4. Microcode built into the processor"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "निम्नलिखित में से कौन-सी एक उच्च-स्तरीय, मानव-पठनीय प्रोग्रामिंग लैंग्वेज है, न कि कोई निम्न-स्तरीय या मशीन लैंग्वेज है?",
+    "options": [
+      "1. पायथन",
+      "2. सीधे बाइनरी में लिखा गया मशीन कोड",
+      "3. निमोनिक्स का उपयोग करने वाली असेंबली लैंग्वेज",
+      "4. प्रोसेसर में बिल्ट माइक्रोकोड"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "An organisation wants to deploy a widely used, open-source operating system on its servers so that the source code can be freely inspected and customised, with no per-copy licensing fee. Which operating system BEST meets this requirement?",
+    "options": [
+      "1. Windows, because it is open-source and free to modify",
+      "2. Linux, because it is open-source and can be freely customised",
+      "3. Windows, because its source code is publicly published by default",
+      "4. Linux, because it cannot be modified by anyone"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक संगठन अपने सर्वरों पर एक व्यापक रूप से उपयोग किया जाने वाला, ओपन-सोर्स ऑपरेटिंग सिस्टम तैनात करना चाहता है ताकि सोर्स कोड को बिना किसी प्रति-कॉपी लाइसेंसिंग शुल्क के स्वतंत्र रूप से जांचा और कस्टमाइज़ किया जा सके। कौन-सा ऑपरेटिंग सिस्टम इस आवश्यकता को सर्वोत्तम रूप से पूरा करता है?",
+    "options": [
+      "1. विंडोज, क्योंकि यह ओपन-सोर्स है और संशोधित करने के लिए स्वतंत्र है",
+      "2. लिनक्स, क्योंकि यह ओपन-सोर्स है और इसे स्वतंत्र रूप से कस्टमाइज़ किया जा सकता है",
+      "3. विंडोज, क्योंकि इसका सोर्स कोड डिफ़ॉल्ट रूप से सार्वजनिक रूप से प्रकाशित होता है",
+      "4. लिनक्स, क्योंकि इसे कोई भी संशोधित नहीं कर सकता है"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A beginner wants to write readable code and receive immediate feedback while testing and debugging a program during development. Which language-processing approach is most suitable for this purpose?",
+    "options": [
+      "1. Writing instructions directly in machine code",
+      "2. Using a translator that suppresses runtime errors",
+      "3. Running source code directly on hardware without any language processor",
+      "4. Using an interpreter to execute the program and report errors during runtime"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "एक शुरुआती यूज़र को पढ़ने में आसान कोड लिखना है और प्रोग्राम को टेस्ट तथा डिबग करते समय तुरंत फीडबैक प्राप्त करना है। इस उद्देश्य के लिए कौन-सा लैंग्वेज-प्रोसेसिंग तरीका सबसे उपयुक्त है?",
+    "options": [
+      "1. निर्देशों को सीधे मशीन कोड में लिखना",
+      "2. ऐसे ट्रांसलेटर का उपयोग करना जो रनटाइम एरर को छिपा दे",
+      "3. किसी भी लैंग्वेज प्रोसेसर के बिना सोर्स कोड को सीधे हार्डवेयर पर रन करना",
+      "4. प्रोग्राम को रन करने और रनटाइम के दौरान एरर की जानकारी देने के लिए इंटरप्रेटर का उपयोग करना"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "In Windows 11, the updates have been downloaded, and the system is asking the user to restart the computer to finish installing them. Which is the correct way to restart the computer so that the updates install safely?",
+    "options": [
+      "1. Pull out the power cable to force a reboot",
+      "2. Choose 'Restart' from the operating system's power menu and let it complete",
+      "3. Repeatedly press the physical reset button until it turns off",
+      "4. Let the battery drain completely so it switches off"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Windows 11 में, अपडेट्स डाउनलोड हो चुके हैं और सिस्टम, यूज़र से कंप्यूटर को रीस्टार्ट करने के लिए कह रहा है ताकि उनकी इंस्टॉलेशन पूरी हो सके। अपडेट्स को सुरक्षित रूप से इंस्टॉल करने के लिए कंप्यूटर को रीस्टार्ट करने का सही तरीका कौन-सा है?",
+    "options": [
+      "1. फोर्स रीबूट के लिए पावर केबल को निकाल लें",
+      "2. ऑपरेटिंग सिस्टम के पावर मेनू से 'Restart' चुनें और इसे पूरा होने दें",
+      "3. भौतिक रीसेट बटन को बार-बार तब तक दबाएं जब तक यह बंद न हो जाए",
+      "4. बैटरी को पूरी तरह खत्म होने दें ताकि यह बंद हो जाए"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "On a typical Windows 11, where should a user normally go to check for and install official operating-system updates?",
+    "options": [
+      "1. The Recycle Bin",
+      "2. The web browser's bookmarks list",
+      "3. Start->Settings->Windows Update",
+      "4. The image gallery"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एक सामान्य Windows 11 पर, आधिकारिक ऑपरेटिंग-सिस्टम अपडेट की जांच करने और इंस्टॉल करने के लिए उपयोगकर्ता को सामान्यतः कहां जाना चाहिए?",
+    "options": [
+      "1. रीसायकल बिन",
+      "2. वेब ब्राउज़र की बुकमार्क लिस्ट",
+      "3. Start->Settings->Windows Update",
+      "4. इमेज गैलरी"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "You want to connect a laptop to a projector using a single cable that carries both high-definition video and audio. Which cable is the most appropriate?",
+    "options": [
+      "1. An Ethernet (RJ-45) cable",
+      "2. A 3.5 mm audio-only cable",
+      "3. A USB-A to USB-A cable",
+      "4. An HDMI cable"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "आप एक ही केबल का उपयोग करके लैपटॉप को प्रोजेक्टर से कनेक्ट करना चाहते हैं जो हाई-डेफिनिशन वीडियो और ऑडियो दोनों वहन करे। कौन-सा केबल सर्वाधिक उपयुक्त है?",
+    "options": [
+      "1. ईथरनेट (RJ-45) केबल",
+      "2. 3.5 mm केवल-ऑडियो केबल",
+      "3. USB-A टु USB-A केबल",
+      "4. HDMI केबल"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "On a typical home network, which router function automatically gives each connecting device a local IP address so the user does not set it manually?",
+    "options": [
+      "1. DNS caching",
+      "2. Port forwarding",
+      "3. DHCP (Dynamic Host Configuration Protocol)",
+      "4. MAC-address cloning"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एक सामान्य होम नेटवर्क पर, कौन-सा राउटर फंक्शन प्रत्येक कनेक्ट होने वाले डिवाइस को स्वचालित रूप से एक लोकल IP एड्रेस देता है ताकि उपयोगकर्ता को इसे मैन्युअल रूप से सेट न करना पड़े?",
+    "options": [
+      "1. DNS कैशिंग",
+      "2. पोर्ट फॉरवर्डिंग",
+      "3. DHCP (डायनेमिक होस्ट कॉन्फ़िगरेशन प्रोटोकॉल)",
+      "4. MAC-एड्रेस क्लोनिंग"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Arrange the following steps in the best sequence to safely start using a new external hard drive for backups: <br> <br>(i) Plug it into a USB port <br>(ii) Let the operating system recognise and mount it <br>(iii) Scan it with updated security software <br>(iv) Copy the backup files, then safely eject the drive.",
+    "options": [
+      "1. iv, iii, ii, i",
+      "2. i, ii, iii, iv",
+      "3. ii, iv, i, iii",
+      "4. iii, i, iv, ii"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "बैकअप के लिए एक नई एक्सटर्नल हार्ड ड्राइव का उपयोग सुरक्षित रूप से शुरू करने हेतु निम्नलिखित चरणों को सर्वोत्तम अनुक्रम में व्यवस्थित करें:<br><br> (i) इसे एक USB पोर्ट में प्लग करें <br>(ii) ऑपरेटिंग सिस्टम को इसे पहचानने और माउंट करने दें <br>(iii) अपडेटेड सिक्योरिटी सॉफ्टवेयर से इसे स्कैन करें <br>iv) बैकअप फाइलें कॉपी करें, फिर ड्राइव को सुरक्षित रूप से इजेक्ट करें",
+    "options": [
+      "1. iv, iii, ii, i",
+      "2. i, ii, iii, iv",
+      "3. ii, iv, i, iii",
+      "4. iii, i, iv, ii"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A newly assembled desktop computer powers on, with its fans spinning and indicator lights glowing, but nothing appears on the screen and repeated beep codes are heard. After confirming that the video cable is securely connected, which diagnostic step is MOST appropriate next, considering that beep-code meanings vary by motherboard manufacturer and firmware?",
+    "options": [
+      "1. Immediately reinstall the operating system",
+      "2. Reseat the RAM module and graphics card, and identify the beep code by consulting the motherboard manufacturer’s guide",
+      "3. Replace the hard disk drive first",
+      "4. Change the desktop wallpaper and colour theme"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक नए असेंबल किए गए डेस्कटॉप कंप्यूटर को चालू (Power on) करने पर उसके पंखे (Fans) चल रहे हैं और इंडिकेटर लाइट्स जल रही हैं, लेकिन स्क्रीन पर कुछ भी दिखाई नहीं दे रहा है तथा बार-बार बीप कोड (Beep codes) सुनाई दे रहे हैं। वीडियो केबल के सही तरीके से जुड़े होने की पुष्टि करने के बाद, यह ध्यान में रखते हुए कि बीप कोड का अर्थ मदरबोर्ड निर्माता और फ़र्मवेयर के अनुसार अलग-अलग होता है, अगला सबसे उपयुक्त डायग्नोस्टिक कदम (Diagnostic step) कौन-सा है?",
+    "options": [
+      "1. ऑपरेटिंग सिस्टम को तुरंत दोबारा इंस्टॉल करना",
+      "2. RAM मॉड्यूल और, यदि अलग ग्राफिक्स कार्ड लगा है, तो उसे दोबारा सही तरीके से लगाना तथा मदरबोर्ड निर्माता की गाइड में बीप कोड की जाँच करना",
+      "3. सबसे पहले हार्ड डिस्क ड्राइव को बदलना",
+      "4. डेस्कटॉप का वॉलपेपर और कलर थीम बदलना"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Opening a file whose name ends in .pptx will most likely start a ______.",
+    "options": [
+      "1. spreadsheet workbook",
+      "2. raw audio recording",
+      "3. PowerPoint Presentation file",
+      "4. compressed archive"
+    ],
+    "answer": 2
+  },
+  {
+    "q": ".pptx में समाप्त होने वाले नाम वाली फाइल को ओपन करने से सबसे अधिक संभवतः एक ______।",
+    "options": [
+      "1. स्प्रेडशीट वर्कबुक शुरू होगी",
+      "2. रॉ ऑडियो रिकॉर्डिंग शुरू होगी",
+      "3. पावर पॉइंट प्रेजेंटेजेंटेशन फाइल शुरू होगी",
+      "4. कंप्रेस्ड आर्काइव शुरू होगा"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Refer to image given below. Looking at the folder structure, which single folder sits one level inside 'Projects' as its direct child? <br> <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMs19iMB-0kLWL7f0CvEyEkyxxh5fdJT2Cw4TdeHXHEAbSIVCgN4BWy5vsf8d4_dLMhlfdbl6XB8n8YeEynDhQq1_GMKYnfvzAhnJcjYjeJuq959fHZKTDfFGSIIoDy8BCWdNEqIzou1A4uBKV_NpYt5tAlUllfcy-Qqf2eCTYoi1Ff2HPi0TJeJ51JxBJ/s320/01%20h%20e.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. Documents",
+      "2. Personal",
+      "3. Downloads",
+      "4. Alpha"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "नीचे दी गई इमेज देखें। फोल्डर संरचना को देखते हुए, कौन-सा एकल फोल्डर 'Projects' के एक स्तर अंदर उसके प्रत्यक्ष चाइल्ड के रूप में स्थित है? <br> <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMs19iMB-0kLWL7f0CvEyEkyxxh5fdJT2Cw4TdeHXHEAbSIVCgN4BWy5vsf8d4_dLMhlfdbl6XB8n8YeEynDhQq1_GMKYnfvzAhnJcjYjeJuq959fHZKTDfFGSIIoDy8BCWdNEqIzou1A4uBKV_NpYt5tAlUllfcy-Qqf2eCTYoi1Ff2HPi0TJeJ51JxBJ/s320/01%20h%20e.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "1. Documents",
+      "2. Personal",
+      "3. Downloads",
+      "4. Alpha"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A user attaches a completed report from their computer and sends it to a cloud-storage server. This action is BEST described as ______.",
+    "options": [
+      "1. Downloading (data moves from the server to the user's computer)",
+      "2. Uploading (data moves from the user's computer to the server)",
+      "3. Compressing (reducing the file's size to save space)",
+      "4. Encrypting (converting the file into a coded form for security)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक यूज़र अपने कंप्यूटर से एक पूरी की गई रिपोर्ट को अटैच करके एक क्लाउड-स्टोरेज सर्वर (cloud-storage server) पर भेजता है। इस क्रिया को सबसे बेहतर ढंग से ______ के रूप में वर्णित किया जाएगा।",
+    "options": [
+      "1. डाउनलोडिंग (डेटा सर्वर से यूज़र के कंप्यूटर की ओर आता है)",
+      "2. अपलोडिंग (डेटा यूज़र के कंप्यूटर से सर्वर की ओर जाता है)",
+      "3. कम्प्रेसिंग (जगह बचाने के लिए फ़ाइल का साइज़ कम करना)",
+      "4. एन्क्रिप्टिंग (सुरक्षा के लिए फ़ाइल को कोडेड रूप में बदलना)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "How does lossless compression fundamentally differ from lossy compression?",
+    "options": [
+      "1. Lossless compression always produces smaller files than lossy compression",
+      "2. Lossless compression restores the original data exactly, whereas lossy compression permanently discards some data to save more space",
+      "3. Lossy compression can always be reversed to recover the exact original",
+      "4. Both discard the same amount of data and are fully reversible"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "लॉसलेस कंप्रेशन, लॉसी कंप्रेशन से मूल रूप से कैसे भिन्न है?",
+    "options": [
+      "1. लॉसलेस कंप्रेशन हमेशा लॉसी कंप्रेशन की तुलना में छोटी फाइलें बनाता है",
+      "2. लॉसलेस कंप्रेशन मूल डेटा को बिल्कुल पुनर्स्थापित करता है, जबकि लॉसी कंप्रेशन अधिक स्थान बचाने के लिए कुछ डेटा को स्थायी रूप से हटा देता है",
+      "3. लॉसी कंप्रेशन को हमेशा उलटकर बिल्कुल मूल डेटा वापस पाया जा सकता है",
+      "4. दोनों समान मात्रा में डेटा हटाते हैं और पूरी तरह प्रतिवर्ती हैं"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A data analyst must export a large table from a spreadsheet so that it can be imported into a different statistical program. The transfer must keep the raw data intact, stay lightweight, and be readable by almost any application, without carrying over fonts, colours, or formulas. Which file format BEST meets ALL of these requirements?",
+    "options": [
+      "1. .xlsx",
+      "2. .csv",
+      "3. .pdf",
+      "4. .docx"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक डेटा एनालिस्ट को किसी स्प्रेडशीट से एक बड़ी टेबल को एक्सपोर्ट करना है, ताकि उसे किसी दूसरे स्टैटिस्टिकल प्रोग्राम में इम्पोर्ट किया जा सके। इस ट्रांसफर में रॉ डेटा (raw data) पूरी तरह बरकरार रहना चाहिए, फ़ाइल हल्की (lightweight) रहनी चाहिए, और लगभग किसी भी एप्लीकेशन द्वारा पढ़ी जा सके — बिना फ़ॉन्ट्स, कलर्स या फ़ॉर्मूलों को साथ ले जाए। इन सभी आवश्यकताओं को सबसे बेहतर ढंग से कौन-सा फ़ाइल फॉर्मेट पूरा करता है?",
+    "options": [
+      "1. .xlsx",
+      "2. .csv",
+      "3. .pdf",
+      "4. .docx"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "On one office laptop, every meeting in a shared online calendar appears exactly one hour earlier than it does for all other colleagues, and an automated backup set for 2 AM keeps running at 3 AM instead. The hardware is working normally. Correcting which system setting is MOST likely to resolve this?",
+    "options": [
+      "1. The Region and Language format settings",
+      "2. The Date & Time (time-zone) settings",
+      "3. The Power and Sleep settings",
+      "4. The Network and Internet settings"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक ऑफिस लैपटॉप पर, किसी शेयर्ड ऑनलाइन कैलेंडर की हर मीटिंग, बाकी सभी सहकर्मियों की तुलना में ठीक एक घंटा पहले दिखाई देती है, और 2 AM के लिए सेट किया गया एक ऑटोमेटेड बैकअप बार-बार उसकी जगह 3 AM पर चलता है। हार्डवेयर सामान्य रूप से काम कर रहा है। इस समस्या को हल करने के लिए किस सिस्टम सेटिंग को ठीक करना सबसे अधिक संभावित तरीका है?",
+    "options": [
+      "1. रीजन और लैंग्वेज फॉर्मेट सेटिंग्स",
+      "2. डेट और टाइम (टाइम-ज़ोन) सेटिंग्स",
+      "3. पावर और स्लीप सेटिंग्स",
+      "4. नेटवर्क और इंटरनेट सेटिंग्स"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Why is it risky to use the same password for many different online accounts?",
+    "options": [
+      "1. If any one account is breached, attackers can reuse that password to access all the others",
+      "2. It makes every website load noticeably slower",
+      "3. It uses up more storage space on the device",
+      "4. It stops the browser from saving bookmarks"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कई अलग-अलग ऑनलाइन अकाउंट्स के लिए एक ही पासवर्ड का उपयोग करना जोखिमपूर्ण क्यों है?",
+    "options": [
+      "1. यदि किसी एक अकाउंट का ब्रीच हो जाए, तो अटैकर उस पासवर्ड का पुनः उपयोग करके बाकी सभी तक एक्सेस कर सकते हैं",
+      "2. यह हर वेबसाइट लोड को उल्लेखनीय रूप से धीमा करता है",
+      "3. यह डिवाइस पर अधिक स्टोरेज स्थान का उपयोग करता है",
+      "4. यह ब्राउज़र को बुकमार्क सेव करने से रोकता है"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which practice best protects a computer specifically against newly emerging malware in the gaps between scheduled full scans?",
+    "options": [
+      "1. Run one full scan per year and nothing else",
+      "2. Turn off the firewall so scanning runs faster",
+      "3. Rely only on emptying the Recycle Bin regularly",
+      "4. Keep real-time protection switched on and let virus definitions update automatically"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "कौन-सा प्रैक्टिस किसी कंप्यूटर को विशेष रूप से निर्धारित पूर्ण स्कैन के बीच के अंतराल में नए उभरते मैलवेयर से सर्वोत्तम रूप से सुरक्षित रखती है?",
+    "options": [
+      "1. प्रति वर्ष एक पूर्ण स्कैन चलाएं और इसके अलावा कुछ नहीं",
+      "2. स्कैनिंग तेज़ चले इसके लिए फायरवॉल बंद कर दें",
+      "3. केवल नियमित रूप से रीसायकल बिन खाली करने पर निर्भर रहें",
+      "4. रियल-टाइम प्रोटेक्शन चालू रखें और वायरस डेफिनिशन को स्वचालित रूप से अपडेट होने दें"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "An organisation must allow several staff members to use a shared computer and be able to prove exactly who performed each action. Which combination best provides this accountability?",
+    "options": [
+      "1. Give each person an individual user account and enable audit logging of actions",
+      "2. Let everyone share one common administrator account",
+      "3. Write a single strong password on a notice board for all",
+      "4. Disable all activity logs to save disk space"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एक ऑर्गेनाइज़ेशन को एक साझा कंप्यूटर का उपयोग करने के लिए कई स्टाफ सदस्यों को अनुमति देनी है और यह प्रमाणित करने में सक्षम होना है कि प्रत्येक कार्य किसने किया। इस जवाबदेही को सुनिश्चित करने के लिए कौन-सा कॉम्बिनेशन सबसे उपयुक्त है?",
+    "options": [
+      "1. प्रत्येक व्यक्ति को एक अलग यूजर अकाउंट दें और क्रियाओं की ऑडिट लॉगिंग इनेबल करें",
+      "2. सभी को एक सामान्य एडमिनिस्ट्रेटर अकाउंट साझा करने दें",
+      "3. सभी के लिए एक ही मजबूत पासवर्ड नोटिस बोर्ड पर लिख दें",
+      "4. डिस्क स्थान बचाने के लिए सभी एक्टिविटी लॉग डिसेबल कर दें"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which type of internet application is designed mainly for exchanging short typed messages between users in real time?",
+    "options": [
+      "1. A spreadsheet application",
+      "2. A disk-defragmentation utility",
+      "3. An instant-messaging (chat) application",
+      "4. A slide-presentation application"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "किस प्रकार का इंटरनेट एप्लिकेशन मुख्य रूप से उपयोगकर्ताओं के बीच रियल-टाइम में छोटे टाइप किए गए संदेशों के आदान-प्रदान के लिए डिज़ाइन किया गया है?",
+    "options": [
+      "1. स्प्रेडशीट एप्लिकेशन",
+      "2. डिस्क-डीफ्रैग्मेंटेग्मेंटेशन यूटिलिटी",
+      "3. इंस्टेंट-मैसेजिंग (चैट) एप्लिकेशन",
+      "4. स्लाइड-प्रेजेंटेजेंटेशन एप्लिकेशन"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "In a web search, which operator restricts results to pages that contain a chosen word within the page title?",
+    "options": [
+      "1. define:",
+      "2. weather:",
+      "3. map:",
+      "4. intitle:"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "किसी वेब सर्च में, कौन-सा ऑपरेटर परिणामों को उन पेजों तक सीमित करता है जिनके पेज टाइटल में कोई चुना हुआ शब्द हो?",
+    "options": [
+      "1. define:",
+      "2. weather:",
+      "3. map:",
+      "4. intitle:"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "A project team spread across three different cities needs to hold a live meeting in which everyone can see and hear one another and share their screens in real time. Which Internet service is BEST suited for this purpose?",
+    "options": [
+      "1. Email",
+      "2. Video conferencing",
+      "3. A search engine",
+      "4. File downloading"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "तीन अलग-अलग शहरों में फैली एक प्रोजेक्ट टीम को एक लाइव मीटिंग करनी है जिसमें हर कोई एक-दूसरे को रियल-टाइम में देख और सुन सके तथा अपनी स्क्रीन शेयर कर सके। इस उद्देश्य के लिए कौन-सी इंटरनेट सर्विस सर्वाधिक उपयुक्त है?",
+    "options": [
+      "1. ईमेल",
+      "2. वीडियो कॉन्फ्रेंसिंग",
+      "3. सर्च इंजन",
+      "4. फाइल डाउनलोडिंग"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A user opens a website and clicks a link to save a PDF brochure from that website onto their own computer's hard disk. In terms of Internet data transfer, this action is an example of ______.",
+    "options": [
+      "1. Uploading (data moves from the user's computer to the website)",
+      "2. Downloading (data moves from the website to the user's computer)",
+      "3. Streaming (data is played in real time without being saved)",
+      "4. Syncing (files are kept identical across multiple devices)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "एक यूज़र किसी वेबसाइट को खोलता है और एक लिंक पर क्लिक करके उस वेबसाइट से एक PDF ब्रोशर (brochure) को अपने कंप्यूटर की हार्ड डिस्क पर सेव करता है। इंटरनेट डेटा ट्रांसफर (Internet data transfer) की दृष्टि से, यह क्रिया ______ का उदाहरण है।",
+    "options": [
+      "1. अपलोडिंग (डेटा यूज़र के कंप्यूटर से वेबसाइट की ओर जाता है)",
+      "2. डाउनलोडिंग (डेटा वेबसाइट से यूज़र के कंप्यूटर की ओर आता है)",
+      "3. स्ट्रीमिंग (डेटा को सेव किए बिना रियल-टाइम में चलाया जाता है)",
+      "4. सिंकिंग (फ़ाइलों को कई डिवाइसों में एक जैसा रखा जाता है)"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "While opening a link, the browser displays '404 Not Found'. What does this most accurately mean?",
+    "options": [
+      "1. The user's entire internet connection has failed",
+      "2. The server was reached, but the requested page or resource does not exist at that address",
+      "3. The website has been permanently deleted from the internet",
+      "4. The browser program itself is corrupted and must be reinstalled"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "किसी लिंक को ओपन करते समय, ब्राउज़र '404 Not Found' दिखाता है। इसका सबसे सटीक अर्थ क्या है?",
+    "options": [
+      "1. उपयोगकर्ता का पूरा इंटरनेट कनेक्शन विफल हो गया है",
+      "2. सर्वर तक पहुंच हो गई, लेकिन अनुरोधित पेज या रिसोर्स उस एड्रेस पर मौजूद नहीं है",
+      "3. वेबसाइट को इंटरनेट से स्थायी रूप से डिलीट कर दिया गया है",
+      "4. ब्राउज़र प्रोग्राम स्वयं करप्ट है और इसे फिर से इंस्टॉल करना होगा"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "A candidate must efficiently gather current, authoritative statistics for a report. Which overall search plan is the BEST?",
+    "options": [
+      "1. Type only single broad keywords and copy the first result that appears",
+      "2. Search inside video-sharing platforms and trust the most-viewed clip",
+      "3. Put key terms in exact-phrase quotes, limit with the site: operator to official domains, filter by filetype for official documents, then confirm the source's authority",
+      "4. Rely on discussion-forum opinions because many people have replied"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "एक अभ्यर्थी को किसी रिपोर्ट के लिए वर्तमान, आधिकारिक आंकड़े कुशलतापूर्वक एकत्र करने हैं। कौन-सी समग्र सर्च योजना सर्वोत्तम है?",
+    "options": [
+      "1. केवल एकल व्यापक कीवर्ड टाइप करें और दिखने वाले पहले परिणाम को कॉपी करें",
+      "2. वीडियो-शेयरिंग प्लेटफॉर्म के अंदर सर्च करें और सबसे अधिक देखे गए क्लिप पर भरोसा करें",
+      "3. मुख्य शब्दों को एग्जैक्ट-फ्रेज़ कोट्स में रखें, site: ऑपरेटर से आधिकारिक डोमेन तक सीमित करें, आधिकारिक डॉक्यूमेंट के लिए filetype से फिल्टर करें, फिर स्रोत की प्रामाणिकता की पुष्टि करें",
+      "4. चर्चा-फोरम की राय पर भरोसा करें क्योंकि कई लोगों ने जवाब दिया है"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which spreadsheet function returns the largest value from a range of numbers?",
+    "options": [
+      "1. MAX",
+      "2. LOWER",
+      "3. COUNT",
+      "4. LEN"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "कौन-सा स्प्रेडशीट फंक्शन संख्याओं की किसी रेंज से सबसे बड़ा मान रिटर्न करता है?",
+    "options": [
+      "1. MAX",
+      "2. LOWER",
+      "3. COUNT",
+      "4. LEN"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "An analyst wants to show how a company's total monthly sales have changed continuously over the twelve months of a year, so that the upward and downward trend is clearly visible. Which type of chart is BEST suited for displaying this trend over time?",
+    "options": [
+      "1. Line chart",
+      "2. Pie chart",
+      "3. Doughnut chart",
+      "4. Scatter (XY) chart"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एक विश्लेषक यह दिखाना चाहता है कि किसी कंपनी की कुल मासिक बिक्री एक वर्ष के बारह महीनों में लगातार कैसे बदली है, ताकि ऊपर और नीचे की प्रवृत्ति स्पष्ट रूप से दिखाई दे। समय के साथ इस प्रवृत्ति को प्रदर्शित करने के लिए कौन-सा चार्ट प्रकार सर्वाधिक उपयुक्त है?",
+    "options": [
+      "1. लाइन चार्ट",
+      "2. पाई चार्ट",
+      "3. डोनट चार्ट",
+      "4. स्कैटर (XY) चार्ट"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "Which keyboard shortcut instantly returns the active selection to cell A1 at the top-left of a worksheet in MS-Excel 2019?",
+    "options": [
+      "1. Ctrl + End",
+      "2. Ctrl + F",
+      "3. Ctrl + Home",
+      "4. Ctrl + P"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel 2019 में कौन-सा कीबोर्ड शॉर्टकट सक्रिय चयन को तुरंत किसी वर्कशीट के ऊपरी-बाएं सेल A1 पर वापस ले जाता है?",
+    "options": [
+      "1. Ctrl + End",
+      "2. Ctrl + F",
+      "3. Ctrl + Home",
+      "4. Ctrl + P"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which key is most commonly used to start a slideshow from the very first slide in MS-PowerPoint 2019?",
+    "options": [
+      "1. F5",
+      "2. F2",
+      "3. Esc",
+      "4. Tab"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-PowerPoint 2019 में सबसे पहली स्लाइड से स्लाइडशो शुरू करने के लिए सामान्यतः कौन-सी कुंजी उपयोग की जाती है?",
+    "options": [
+      "1. F5",
+      "2. F2",
+      "3. Esc",
+      "4. Tab"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "You type 'Jan' in a cell and drag the small square at the cell's corner down four more cells, producing Feb, Mar, Apr and May automatically. Which feature does this in MS-Excel 2019?",
+    "options": [
+      "1. AutoFill (fill series)",
+      "2. Conditional formatting",
+      "3. Data validation",
+      "4. Freeze Panes"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "आप किसी सेल में 'Jan' टाइप करते हैं और सेल के कोने पर बने छोटे वर्ग को चार और सेल नीचे तक ड्रैग करते हैं, जिससे Feb, Mar, Apr और May स्वचालित रूप से बन जाते हैं। MS-Excel 2019 में कौन-सा फीचर यह करता है?",
+    "options": [
+      "1. ऑटोफिल (फिल सीरीज़)",
+      "2. कंडीशनल फॉर्मेटिंग",
+      "3. डेटा वैलिडेशन",
+      "4. फ्रीज़ पेन्स"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In MS Excel 2019, on a summary sheet, you want a cell to display the value stored in cell B2 of another worksheet named Sales. Which formula should be entered?",
+    "options": [
+      "1. =Sales!B2",
+      "2. =B2!Sales",
+      "3. =Sales.B2",
+      "4. =B2(Sales)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS Excel 2019 में, किसी समरी शीट पर, आप चाहते हैं कि एक सेल Sales नामक किसी अन्य वर्कशीट के सेल B2 में स्टोर मान को डिस्प्ले करे। कौन-सा फॉर्मूला दर्ज किया जाना चाहिए?",
+    "options": [
+      "1. =Sales!B2",
+      "2. =B2!Sales",
+      "3. =Sales.B2",
+      "4. =B2(Sales)"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A cell in MS-Excel 2019 contains the formula: <br> =IF(AND(A1>=50),\"Pass\",\"Fail\") <br>If A1 = 48 and B1 = 90, what value will be displayed in the cell?",
+    "options": [
+      "1. Pass",
+      "2. TRUE",
+      "3. Fail",
+      "4. #VALUE!"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel 2019 के एक सेल में निम्नलिखित फ़ॉर्मूला दिया गया है: <br> =IF(AND(A1>=50),\"Pass\",\"Fail\") <br>यदि A1 = 48 और B1 = 90 है, तो उस सेल में क्या मान प्रदर्शित होगा?",
+    "options": [
+      "1. Pass",
+      "2. TRUE",
+      "3. Fail",
+      "4. #VALUE!"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Refer to the image given below in MS-Excel 2019. Cell C1 contains =ROUND(A1/B1, 1) where A1 = 10 and B1 = 3. What value will C1 display? <br> <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiegKSEgcYTqYfpjL7ubMqaQvFvb-mj9PzPNoTiVwF5QXaIt1Dw6dNiQZbzjGCmaLA6plC7XbUr8XCAfibFoIEi3CFpznayr-J_xVsM9ARG9SZi8_ivT_daQ29VjpMSjqnY2R2aSYPjuj6nQviL8DL7Ic2xx7vDcV-wtj0EMSjcATpSkmqsVz-SXcVY1dQn/s320/15%20mj.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "3.33",
+      "3",
+      "3.3",
+      "3.4"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel 2019 में नीचे दी गई इमेज देखें। सेल C1 में =ROUND(A1/B1, 1) है जहां A1 = 10 और B1 = 3 है। C1 कौन-सा मान प्रदर्शित करेगा? <br> <img src=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiegKSEgcYTqYfpjL7ubMqaQvFvb-mj9PzPNoTiVwF5QXaIt1Dw6dNiQZbzjGCmaLA6plC7XbUr8XCAfibFoIEi3CFpznayr-J_xVsM9ARG9SZi8_ivT_daQ29VjpMSjqnY2R2aSYPjuj6nQviL8DL7Ic2xx7vDcV-wtj0EMSjcATpSkmqsVz-SXcVY1dQn/s320/15%20mj.png\" style=\"max-width:100%;height:auto;\">",
+    "options": [
+      "3.33",
+      "3",
+      "3.3",
+      "3.4"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "A user frequently adds new rows to a data range that many formulas and charts depend on, in MS-Excel 2019. Converting the range into a defined Table object is recommended chiefly because it ______.",
+    "options": [
+      "1. permanently encrypts the data so it cannot be edited",
+      "2. halves the file size through built-in compression",
+      "3. automatically extends its formulas, formatting and dependent chart ranges to newly added rows",
+      "4. converts every number in the range into text"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "MS-Excel 2019 में, एक उपयोगकर्ता अक्सर किसी ऐसी डेटा रेंज में नई रो जोड़ता है जिस पर कई फॉर्मूले और चार्ट निर्भर करते हैं। रेंज को एक परिभाषित टेबल ऑब्जेक्ट में बदलना मुख्य रूप से इसलिए अनुशंसित है क्योंकिक्यों यह ______।",
+    "options": [
+      "1. डेटा को स्थायी रूप से एन्क्रिप्ट कर देता है ताकि इसे एडिट न किया जा सके",
+      "2. बिल्ट-इन कंप्रेशन के माध्यम से फाइल साइज को आधा कर देता है",
+      "3. अपने फॉर्मूले, फॉर्मेटिंग और निर्भर चार्ट रेंज को नई जोड़ी गई रो तक स्वचालित रूप से बढ़ा देता है",
+      "4. रेंज की हर संख्या को टेक्स्ट में बदल देता है"
+    ],
+    "answer": 2
+  },
+  {
+    "q": "Which formatting option adjusts the vertical distance between successive lines of text within a paragraph in Ms-Word 2019?",
+    "options": [
+      "1. Screen resolution",
+      "2. Line spacing",
+      "3. Print quality",
+      "4. Zoom level"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Word 2019 में कौन-सा फॉर्मेटिंग विकल्प किसी पैराग्राफ के भीतर टेक्स्ट की क्रमिक लाइनों के बीच ऊर्ध्वाधर दूरी को समायोजित करता है?",
+    "options": [
+      "1. स्क्रीन रिज़ॉल्यूशन",
+      "2. लाइन स्पेसिंग",
+      "3. प्रिंट क्वालिटी",
+      "4. ज़ूम लेवल"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "In MS-Word 2019, the shortcut ______ is used to insert a hyperlink on the selected text.",
+    "options": [
+      "1. Ctrl + H",
+      "2. Ctrl + K",
+      "3. Ctrl + L",
+      "4. Ctrl + J"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "MS-Word 2019 में, सेलेक्ट किए गए टेक्स्ट पर हाइपरलिंक इन्सर्ट करने के लिए ______ शॉर्टकट उपयोग किया जाता है।",
+    "options": [
+      "1. Ctrl + H",
+      "2. Ctrl + K",
+      "3. Ctrl + L",
+      "4. Ctrl + J"
+    ],
+    "answer": 1
+  },
+  {
+    "q": "Which tool copies the formatting of one piece of text and applies it to another piece of text without changing the words themselves in MS-Word?",
+    "options": [
+      "1. Format Painter",
+      "2. Thesaurus",
+      "3. Word Count",
+      "4. Spell Check"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "MS-Word में कौन-सा टूल किसी एक टेक्स्ट की फॉर्मेटिंग को कॉपी करके बिना शब्दों को बदले उसे किसी अन्य टेक्स्ट पर लागू करता है?",
+    "options": [
+      "1. फॉर्मेट पेंटर",
+      "2. थिसॉरस",
+      "3. वर्ड काउंट",
+      "4. स्पेल चेक"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "In page layout of MS-Word, the term 'margins' refers to ______.",
+    "options": [
+      "1. the coloured borders drawn around each paragraph",
+      "2. the gap left between two words",
+      "3. the vertical distance between lines of text",
+      "4. the blank space between the text area and the edges of the page"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "MS-Word के पेज लेआउट में, 'margins' शब्द ______ को संदर्भित करता है।",
+    "options": [
+      "1. प्रत्येक पैराग्राफ के चारों ओर खींची खीं गई रंगीन बॉर्डर",
+      "2. दो शब्दों के मध्य छोड़ा गया अंतराल",
+      "3. टेक्स्ट की लाइनों के बीच की ऊर्ध्वाधर दूरी",
+      "4. टेक्स्ट एरिया और पेज के किनारों के बीच के खाली स्थान"
+    ],
+    "answer": 3
+  },
+  {
+    "q": "An office assistant needs to send the same invitation letter to 200 people, with only the name and address changing in each copy while the rest of the text remains the same. Which word-processing feature is BEST suited to generate all these personalised letters automatically from a single template and a list of recipients?",
+    "options": [
+      "1. Mail Merge",
+      "2. Find and Replace",
+      "3. Track Changes",
+      "4. Spelling and Grammar Check"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एक ऑफिस असिस्टेंट को 200 लोगों को एक ही इनविटेशन लेटर भेजना है। प्रत्येक कॉपी में केवल नाम और पता बदलना है, जबकि बाकी टेक्स्ट एक जैसा रहेगा। एक ही टेम्पलेट और प्राप्तकर्ताओं की लिस्ट से ये सभी पर्सनलाइज़्ड लेटर ऑटोमैटिक रूप से तैयार करने के लिए कौन-सा वर्ड प्रोसेसिंग फीचर सबसे उपयुक्त है?",
+    "options": [
+      "1. मेल मर्ज",
+      "2. फाइंड एंड रिप्लेस",
+      "3. ट्रैक चेंजेस",
+      "4. स्पेलिंग एंड ग्रामर चेक"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "A user wants to arrange a list of employee names and their departments neatly into rows and columns within a word-processing document. Which feature should the user insert to organise this data in a structured grid?",
+    "options": [
+      "1. Table",
+      "2. A Text Box",
+      "3. A Header",
+      "4. A Bulleted List"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "एक उपयोगकर्ता किसी वर्ड-प्रोसेसिंग डॉक्यूमेंट के भीतर कर्मचारियों के नामों और उनके विभागों की सूची को साफ-सुथरे तरीके से रो और कॉलम में व्यवस्थित करना चाहता है। इस डेटा को एक संरचित ग्रिड में व्यवस्थित करने के लिए उपयोगकर्ता को कौन-सा फीचर इन्सर्ट करना चाहिए?",
+    "options": [
+      "1. टेबल",
+      "2. टेक्स्ट बॉक्स",
+      "3. हेडर",
+      "4. बुलेटेड लिस्ट"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "While setting up a Mail Merge to print personalised letters, a user needs a file that supplies the individual details — such as each recipient's name and address — that change in every copy. What is this file called?",
+    "options": [
+      "1. The data source (recipient list)",
+      "2. The main document (template)",
+      "3. The print preview",
+      "4. The clipboard"
+    ],
+    "answer": 0
+  },
+  {
+    "q": "व्यक्तिगत पत्र प्रिंट करने के लिए मेल मर्ज सेट करते समय, एक उपयोगकर्ता को एक ऐसी फाइल की आवश्यकता होती है जो व्यक्तिगत विवरण — जैसे प्रत्येक प्राप्तकर्ता का नाम और पता — प्रदान करे जो हर कॉपी में बदलते हैं। यह फाइल क्या कहलाती है?",
+    "options": [
+      "1. डेटा सोर्स (प्राप्तकर्ता सूची)",
+      "2. मुख्य डॉक्यूमेंट (टेम्प्लेट)",
+      "3. प्रिंट प्रीव्यू",
+      "4. क्लिपबोर्ड"
+    ],
+    "answer": 0
+  }
+],
+  
+
+  "7th Sep 2026 - Shift1": [
   {
     "q": "Which hardware component is the main circuit board that connects the CPU, memory, storage controllers, and expansion slots?",
     "options": [
